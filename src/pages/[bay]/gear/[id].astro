@@ -1,0 +1,157 @@
+---
+import Base from '../../../layouts/Base.astro';
+import FAQ from '../../../components/FAQ.astro';
+import bays from '../../../data/bays.json';
+import site from '../../../data/site.json';
+
+export async function getStaticPaths() {
+  const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
+  const all = Object.values(mods).flatMap((m: any) => (m.default || []));
+  return all.map((p: any) => ({ params: { bay: p.bay, id: p.id }, props: { product: p, all } }));
+}
+const { product, all } = Astro.props;
+const p = product;
+const bay = bays.find((b) => b.slug === p.bay)!;
+const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
+const buyUrl = `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}`;
+const related = all.filter((x: any) => x.bay === p.bay && x.type === p.type && x.id !== p.id).slice(0, 4);
+const specEntries = Object.entries(p.specs || {});
+const ratingAxes = Object.entries(p.rating || {}).filter(([k]) => k !== 'overall');
+
+const offers = p.price ? {
+  '@type': 'Offer', price: String(p.price), priceCurrency: 'USD',
+  availability: 'https://schema.org/InStock', url: buyUrl,
+} : undefined;
+const schema: Record<string, any>[] = [
+  {
+    '@context': 'https://schema.org', '@type': 'Product',
+    name: `${p.brand} ${p.model}`, brand: { '@type': 'Brand', name: p.brand },
+    description: p.summary, image: new URL(p.image, site.url).href, category: `${bay.name} sim hardware`,
+    ...(offers ? { offers } : {}),
+    ...(p.rating?.overall ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: String(p.rating.overall), bestRating: '10', ratingCount: '1', author: { '@type': 'Person', name: site.author.name } } } : {}),
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
+      { '@type': 'ListItem', position: 2, name: `${bay.name} sim hardware`, item: new URL(`/${p.bay}`, site.url).href },
+      { '@type': 'ListItem', position: 3, name: 'Gear', item: new URL(`/${p.bay}/gear`, site.url).href },
+      { '@type': 'ListItem', position: 4, name: `${p.brand} ${p.model}`, item: url },
+    ],
+  },
+];
+if (p.faqs?.length) schema.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: p.faqs.map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+const typeLabel = (p.type || '').replace(/-/g, ' ');
+---
+<Base title={`${p.brand} ${p.model} — specs, rating & verdict`} description={p.summary} bay={p.bay} activeNav={p.bay} schema={schema} image={p.image}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${p.bay}`}>{bay.name}</a><span>/</span><a href={`/${p.bay}/gear`}>Gear</a><span>/</span>{p.model}</div>
+
+    <section class="gear-hero">
+      <figure class="gh-img">
+        <img src={p.image} alt={`${p.brand} ${p.model}`} />
+        {p.rating?.overall && <span class="gh-score">{p.rating.overall}<small>/10</small></span>}
+      </figure>
+      <div class="gh-info">
+        <span class="lbl lbl-accent">{p.brand} · {typeLabel}</span>
+        <h1>{p.model}</h1>
+        {p.whoFor && <p class="gh-who">{p.whoFor}</p>}
+        <div class="gh-price">{p.price ? `~$${p.price.toLocaleString()}` : 'Price varies'} <small>{p.priceNote || ''}</small></div>
+        <p style="color:#cdd6e4;margin-top:6px">{p.summary}</p>
+        <div class="gh-cta">
+          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener">Find at retailers ▸</a>
+          {p.bay === 'racing' && <a class="btn" href="/racing/configurator">Add to a build →</a>}
+          <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
+        </div>
+        <p class="gh-disc">{site.disclosure}</p>
+      </div>
+    </section>
+
+    <section class="gear-body">
+      <div class="gb-main">
+        {specEntries.length > 0 && (
+          <>
+            <h2>Specs</h2>
+            <table class="spec-table"><tbody>
+              {specEntries.map(([k, v]) => <tr><th>{k}</th><td>{v}</td></tr>)}
+            </tbody></table>
+          </>
+        )}
+        {(p.pros?.length || p.cons?.length) && (
+          <div class="proscons">
+            {p.pros?.length > 0 && <div class="pc pros"><h3>Pros</h3><ul>{p.pros.map((x: string) => <li>{x}</li>)}</ul></div>}
+            {p.cons?.length > 0 && <div class="pc cons"><h3>Cons</h3><ul>{p.cons.map((x: string) => <li>{x}</li>)}</ul></div>}
+          </div>
+        )}
+        <div class="prose" style="max-width:none"><FAQ faqs={p.faqs || []} heading="Common questions" /></div>
+      </div>
+      <aside class="gb-side">
+        {ratingAxes.length > 0 && (
+          <div class="ratecard">
+            <h3>Ratings</h3>
+            {ratingAxes.map(([k, v]) => (
+              <div class="rate-row">
+                <span class="rate-l">{k.replace(/([A-Z])/g, ' $1').replace(/^./, (c) => c.toUpperCase())}</span>
+                <span class="rate-bar"><span style={`width:${(Number(v) / 10) * 100}%`}></span></span>
+                <span class="rate-v">{v}</span>
+              </div>
+            ))}
+          </div>
+        )}
+        {p.platforms && <div class="ratecard"><h3>Platforms</h3><p style="color:var(--dim);font-family:var(--font-mono);font-size:.85rem">{p.platforms}</p></div>}
+      </aside>
+    </section>
+
+    {related.length > 0 && (
+      <section class="sec">
+        <div class="sec-head"><h2>Compare with</h2></div>
+        <div class="card-grid">
+          {related.map((r: any) => (
+            <a class="card" href={`/${r.bay}/gear/${r.id}`}>
+              <div class="cimg"><img src={r.image} alt={`${r.brand} ${r.model}`} loading="lazy" /></div>
+              <div class="cbody">
+                <span class="ctype">{r.brand}{r.rating?.overall ? ` · ${r.rating.overall}/10` : ''}</span>
+                <h3 style="font-size:1.05rem">{r.model}</h3>
+                <span class="cmeta" style="color:var(--accent)">{r.price ? `~$${r.price.toLocaleString()}` : ''}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .gear-hero { display: grid; grid-template-columns: 1fr 1.2fr; gap: 30px; margin: 18px 0 36px; align-items: start; }
+  .gh-img { position: relative; border: 1px solid var(--line2); border-radius: 16px; overflow: hidden; margin: 0; aspect-ratio: 16/10; }
+  .gh-img img { width: 100%; height: 100%; object-fit: cover; }
+  .gh-score { position: absolute; top: 14px; right: 14px; font-family: var(--font-disp); font-weight: 800; font-size: 1.5rem; color: var(--accent); background: color-mix(in srgb, var(--night) 78%, transparent); border: 1px solid var(--accent); border-radius: 12px; padding: 6px 12px; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
+  .gh-score small { font-size: .8rem; color: var(--dim); }
+  .gh-info h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 8px 0; }
+  .gh-who { color: var(--dim); font-size: 1.05rem; }
+  .gh-price { font-family: var(--font-disp); font-weight: 800; font-size: 1.6rem; color: var(--accent); margin-top: 12px; }
+  .gh-price small { font-family: var(--font-mono); font-size: .62rem; color: var(--dimmer); font-weight: 400; letter-spacing: .04em; }
+  .gh-cta { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+  .gh-disc { font-size: .72rem; color: var(--dimmer); margin-top: 14px; border-top: 1px dashed var(--line2); padding-top: 10px; }
+  .gear-body { display: grid; grid-template-columns: 1fr 300px; gap: 30px; align-items: start; }
+  .gb-main h2 { font-size: 1.5rem; margin: 0 0 14px; position: relative; padding-top: .4em; }
+  .gb-main h2::before { content: ""; position: absolute; top: 0; left: 0; width: 44px; height: 3px; background: var(--accent); border-radius: 3px; }
+  .proscons { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
+  .pc { border: 1px solid var(--line2); border-radius: 12px; padding: 16px 18px; }
+  .pc h3 { font-size: 1rem; margin-bottom: 8px; }
+  .pc.pros { border-left: 3px solid var(--green); } .pc.pros h3 { color: var(--green); }
+  .pc.cons { border-left: 3px solid var(--red); } .pc.cons h3 { color: var(--red); }
+  .pc ul { padding-left: 1.1em; color: #cdd6e4; font-size: .9rem; } .pc li { margin: 6px 0; }
+  .ratecard { border: 1px solid var(--line2); border-radius: 12px; padding: 18px; margin-bottom: 16px; background: var(--panel); }
+  .ratecard h3 { font-family: var(--font-mono); font-size: .64rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 12px; }
+  .rate-row { display: grid; grid-template-columns: 1fr 80px 24px; align-items: center; gap: 8px; margin: 9px 0; font-size: .8rem; }
+  .rate-l { color: var(--dim); }
+  .rate-bar { height: 6px; background: var(--line2); border-radius: 6px; overflow: hidden; }
+  .rate-bar span { display: block; height: 100%; background: var(--accent); box-shadow: 0 0 8px var(--bayglow); }
+  .rate-v { font-family: var(--font-mono); color: var(--txt); text-align: right; font-size: .78rem; }
+  @media (max-width: 880px) { .gear-hero, .gear-body { grid-template-columns: 1fr; } .proscons { grid-template-columns: 1fr; } }
+</style>

@@ -5,7 +5,7 @@
 // API image gen. Generates: per-bay hero+slide-1..3, hub slides, + one hero
 // per article (scanned from the content collection).
 import sharp from 'sharp';
-import { readdir, mkdir, writeFile } from 'node:fs/promises';
+import { readdir, mkdir, writeFile, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -152,6 +152,19 @@ for (const bay of bays) {
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
     await render(`${bay}/${slug}.jpg`, { w: 1280, h: 720, bay, seed: `${bay}-${slug}` }); count++;
+  }
+}
+// gear product images (one per product across all bays)
+const PROD = join(root, 'src', 'data', 'products');
+for (const bay of bays) {
+  const f = join(PROD, `${bay}.json`);
+  if (!existsSync(f)) continue;
+  let list = [];
+  try { list = JSON.parse(await readFile(f, 'utf8')); } catch { continue; }
+  for (const p of list) {
+    if (!p || !p.id) continue;
+    await render(`gear/${bay}/${p.id}.jpg`, { w: 1280, h: 800, bay, seed: `gear-${bay}-${p.id}` });
+    count++;
   }
 }
 console.log(`Done. ${count} images rendered.`);

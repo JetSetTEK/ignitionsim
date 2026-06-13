@@ -1,0 +1,418 @@
+[
+  {
+    "id": "logitech-g923-helm",
+    "bay": "marine",
+    "type": "helm",
+    "brand": "Logitech G",
+    "model": "G923 (as helm)",
+    "price": 300,
+    "priceNote": "approx 2026 street price ($280-300, MSRP $349.99)",
+    "image": "/images/gear/marine/logitech-g923-helm.jpg",
+    "summary": "This is a repurpose, not a marine product: the G923 is a 900-degree sim-racing wheel that enthusiasts press into service as a ship's helm because there is no consumer 'boat wheel' on the market. The big caveat is analog support — many marine titles only read keyboard-style left/right steering, so the wheel's analog axis often maps to a binary turn and the TrueForce force feedback is wasted entirely (titles like eSail explicitly don't support FFB). It steers fine and feels substantial, but verify your specific sim reads an analog steering axis before buying for marine use. The bundled pedals and dual-clutch launch control are dead weight for ship sims.",
+    "specs": {
+      "wheelRotation": "900 degrees",
+      "forceFeedback": "Dual-motor TrueForce, up to 1000 Hz (unused in most marine sims)",
+      "wheelDiameter": "~10.2 in / 260 mm, hand-stitched leather",
+      "connection": "USB",
+      "platforms": "PC, Mac, PS5/PS4 (PC for sim use)",
+      "marineRole": "Helm / steering wheel stand-in"
+    },
+    "pros": [
+      "Substantial, realistic wheel feel that reads as a credible helm",
+      "Cheap and widely available secondhand thanks to the sim-racing market",
+      "True analog steering axis works natively in sims that support analog input (e.g. eSail)"
+    ],
+    "cons": [
+      "Not a marine product — it's a racing wheel repurposed as a helm",
+      "Analog axis often ignored: many marine titles map a wheel only to keyboard left/right",
+      "TrueForce force feedback is unsupported by virtually every marine sim, so you pay for FFB you can't use"
+    ],
+    "whoFor": "Sim-racers who already own the wheel, or sailing/ship-sim fans wanting a substantial helm in a title confirmed to support analog steering.",
+    "rating": { "overall": 7, "value": 6, "marineFit": 6 },
+    "faqs": [
+      { "q": "Does the G923 work as a boat helm?", "a": "Yes, as a steering stand-in. But whether it reads as a smooth analog wheel or just a binary left/right depends entirely on the sim — many marine titles only accept keyboard-style steering input." },
+      { "q": "Does force feedback work in marine sims with the G923?", "a": "Almost never. Titles like eSail explicitly don't support FFB, so the G923's headline TrueForce feature does nothing in marine use — you're paying for a feature the sim ignores." },
+      { "q": "Is the G923 better than the G29 for ship sims?", "a": "Marginally, but the difference (TrueForce, RPM LEDs, dual-clutch) is racing-focused and irrelevant to boats. For marine use the cheaper G29 is the smarter buy." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "Buy the PC-compatible version; the bundled pedals and shifter add no marine value." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-g29-helm",
+    "bay": "marine",
+    "type": "helm",
+    "brand": "Logitech G",
+    "model": "G29 Driving Force (as helm)",
+    "price": 250,
+    "priceNote": "approx 2026 street price ($200 on sale, ~$330 list)",
+    "image": "/images/gear/marine/logitech-g29-helm.jpg",
+    "summary": "The G29 is the community's default 'cheap wheel works fine' answer for a ship's helm — again, a racing wheel repurposed, not a marine product. It's the budget classic: 900-degree dual-motor wheel with a leather rim that reads convincingly as a helm, and it frequently drops to ~$200 because the sim-racing market is flooded with them. Same hard caveat applies: your analog steering only matters if the marine title supports an analog axis; in many it maps to keyboard left/right, and force feedback is unsupported regardless. For most marine simmers it's the better value than the pricier G923 since the G923's extra racing features are useless here.",
+    "specs": {
+      "wheelRotation": "900 degrees",
+      "forceFeedback": "Dual-motor, helical gearing (unused in most marine sims)",
+      "wheelDiameter": "~10.2 in / 260 mm, hand-stitched leather",
+      "connection": "USB",
+      "platforms": "PC, Mac, PS5/PS4/PS3 (PC for sim use)",
+      "marineRole": "Helm / steering wheel stand-in"
+    },
+    "pros": [
+      "Best value helm stand-in — regularly ~$200 thanks to the secondhand racing market",
+      "900-degree analog steering works natively in analog-aware sims like eSail",
+      "Solid leather-rimmed wheel that feels like a credible helm"
+    ],
+    "cons": [
+      "A racing wheel repurposed, not a marine helm",
+      "Analog steering is ignored by sims that only read keyboard left/right",
+      "No usable force feedback in marine titles"
+    ],
+    "whoFor": "Budget-minded sailing or ship-sim fans who want a real wheel and have confirmed their title supports analog steering.",
+    "rating": { "overall": 7, "value": 8, "marineFit": 6 },
+    "faqs": [
+      { "q": "Will a G29 work in eSail or other sailing sims?", "a": "In eSail the main axes work once you enable the controller, and the wheel steers as an analog helm. Advanced mapping needs third-party software, and there is no force feedback." },
+      { "q": "Is the G29 good enough as a boat wheel, or should I spend more?", "a": "For marine sims it's plenty — the more expensive wheels add racing features (FFB tech, RPM LEDs) that ship sims don't use. The G29 is the value pick." },
+      { "q": "Why is a racing wheel the recommendation at all?", "a": "Because there is no consumer-grade dedicated marine helm controller. The entire bay runs on repurposed racing and flight gear plus DIY." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "Watch for the frequent ~$200 sale price; the pedals are surplus for marine use." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-saitek-throttle-quadrant-telegraph",
+    "bay": "marine",
+    "type": "throttle",
+    "brand": "Logitech G",
+    "model": "Saitek Pro Flight Throttle Quadrant (as engine telegraph)",
+    "price": 60,
+    "priceNote": "approx 2026 street price ($50-70)",
+    "image": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+    "summary": "A flight-sim throttle quadrant repurposed as a ship's engine telegraph — one of the cheapest ways to add real lever-style engine control to a marine rig. Its three analog axis levers map naturally to port/starboard throttles plus a bow thruster (or a single throttle plus reverser), and three two-way base rocker switches add nine programmable commands. The honest caveats: the levers are short and lightly sprung, nothing like a real engine-order telegraph, and the analog axes only do anything in sims that actually read analog throttle input — in titles without it, the levers sit dead. At ~$50-70 it's still the best-value entry to lever control, and quadrants can be daisy-chained for more axes.",
+    "specs": {
+      "axisLevers": "3 analog axes",
+      "switches": "3 two-way base rocker switches (9 programmable commands)",
+      "mounting": "Desk-top or desk-front clamp bracket, daisy-chainable",
+      "connection": "USB 2.0",
+      "software": "Saitek Smart Technology (SST) programming",
+      "marineRole": "Engine telegraph / twin throttle + bow thruster levers"
+    },
+    "pros": [
+      "Cheapest path to real lever-style engine control (~$50-70)",
+      "Three analog levers map cleanly to twin throttles plus bow thruster",
+      "Daisy-chainable for additional axes; base rockers add quick-access commands"
+    ],
+    "cons": [
+      "A flight throttle repurposed — short, lightly sprung levers, not a true telegraph feel",
+      "Analog levers do nothing in marine sims that lack analog axis support",
+      "No detents or notched throttle stops like a real engine-order telegraph"
+    ],
+    "whoFor": "Anyone adding engine-lever control to a marine rig on a budget, in a sim confirmed to read analog throttle axes.",
+    "rating": { "overall": 8, "value": 9, "marineFit": 7 },
+    "faqs": [
+      { "q": "Can I use a flight throttle quadrant for boat engines?", "a": "Yes — its three analog levers map well to twin throttles plus a bow thruster in sims that read analog axes. It's the most-recommended engine-control stand-in." },
+      { "q": "How much is the Saitek throttle quadrant?", "a": "Around $50-70 in 2026, frequently on sale near $50 — one of the cheapest ways to add real lever-style engine control." },
+      { "q": "Can I get more than three levers?", "a": "Yes, the quadrants daisy-chain, so two units give you six axes for more complex multi-engine or thruster setups." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC-only; pair with mapping software if your marine title lacks native analog throttle support." },
+    "platforms": "PC"
+  },
+  {
+    "id": "thrustmaster-twcs-throttle-engine-lever",
+    "bay": "marine",
+    "type": "throttle",
+    "brand": "Thrustmaster",
+    "model": "TWCS Throttle (as engine lever)",
+    "price": 130,
+    "priceNote": "approx 2026 street price ($120-130)",
+    "image": "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg",
+    "summary": "A flight-sim throttle repurposed as a ship's main engine lever, a step up from a flight quadrant for those who want one smooth, high-resolution throttle. The standout is its slide-rail S.M.A.R.T. mechanism — an 80 mm sliding throttle with a genuine 16-bit axis (65,536 steps), far smoother and more precise than a quadrant's potentiometer levers — plus 14 buttons, an 8-way hat, a mini-stick and a rotary you can map to thruster or rudder trim. Caveat as always: it's a repurpose, and the single throttle axis only matters in sims that read analog input; twin-screw vessels still need a second axis from a quadrant or DIY board. Best as the smooth primary engine lever in an analog-aware marine setup.",
+    "specs": {
+      "throttleTravel": "80 mm / 3.2 in slide rail (S.M.A.R.T.)",
+      "throttleResolution": "16-bit axis (65,536 values)",
+      "axes": "5(+3): throttle, 2-axis mini-stick, toggle rudder, rotary, optional TFRP rudder",
+      "controls": "14 buttons + 8-way POV hat",
+      "connection": "USB",
+      "marineRole": "Smooth analog main engine throttle lever"
+    },
+    "pros": [
+      "Genuinely smooth 80 mm slide-rail throttle with high 16-bit resolution",
+      "Extra axes (mini-stick, rotary, toggle rudder) cover thruster or rudder-trim duty",
+      "More precise engine control than a budget flight quadrant"
+    ],
+    "cons": [
+      "A flight throttle repurposed — not engineered for marine use",
+      "Only one main throttle axis; twin-screw setups need a second lever elsewhere",
+      "Analog input ignored entirely by marine sims that lack axis support"
+    ],
+    "whoFor": "Simmers wanting one smooth, high-resolution engine lever for single-screw vessels in an analog-supporting marine sim.",
+    "rating": { "overall": 8, "value": 7, "marineFit": 7 },
+    "faqs": [
+      { "q": "Is the TWCS better than the Saitek quadrant for ship sims?", "a": "It's smoother and higher-resolution for a single throttle, but the Saitek's three separate levers suit twin throttles plus a thruster better. Many builders use both." },
+      { "q": "Can the TWCS handle a twin-engine ship?", "a": "Not on its own — it has one main throttle axis. For port and starboard throttles add a quadrant or a DIY board with a second potentiometer." },
+      { "q": "Does the throttle's resolution matter for boats?", "a": "Marginally. Ship throttles move slowly, so 16-bit is overkill, but the slide-rail smoothness genuinely feels better than a pivoting quadrant lever." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC-only USB; pairs well with a T.16000M stick for a combined throttle-plus-rudder marine rig." },
+    "platforms": "PC"
+  },
+  {
+    "id": "thrustmaster-t16000m-rudder",
+    "bay": "marine",
+    "type": "rudder",
+    "brand": "Thrustmaster",
+    "model": "T.16000M FCS (as rudder)",
+    "price": 80,
+    "priceNote": "approx 2026 street price ($75-90)",
+    "image": "/images/gear/marine/thrustmaster-t16000m-rudder.jpg",
+    "summary": "A flight stick repurposed as a rudder/steering control, best suited to ship sims that expose a true rudder axis rather than a wheel. Its twist axis (rotate the stick) is the natural rudder mapping, and the H.E.A.R.T. Hall-effect sensors give 16-bit, wear-free precision that won't drift over years of use — a real advantage over potentiometer-based gear. The upcoming Professional Ship Simulator even added a rudder deadzone option aimed at HOTAS/controller setups like this. Honest caveats: it's a repurpose, a vertical flight stick is an unusual hand position for a helm, and it's only a fit for rudder-axis titles — it won't act like a steering wheel.",
+    "specs": {
+      "sensor": "H.E.A.R.T. Hall-effect, 16-bit (16000 x 16000)",
+      "axes": "4 (incl. twist rudder)",
+      "buttons": "16 action buttons + 8-way POV hat",
+      "design": "Fully ambidextrous, swappable parts",
+      "connection": "USB",
+      "marineRole": "Rudder axis via stick twist (rudder-axis sims)"
+    },
+    "pros": [
+      "Hall-effect twist axis is precise and won't wear out or drift over time",
+      "Cheap (~$75-90) for the build quality and sensor tech",
+      "Fits rudder-axis sims well; Professional Ship Simulator adds HOTAS rudder-deadzone support"
+    ],
+    "cons": [
+      "A flight stick repurposed — not a helm; a vertical stick is an odd hand position for steering",
+      "Only suits sims that expose a rudder axis, not wheel-steered titles",
+      "Twist-rudder ergonomics aren't for everyone; some prefer dedicated pedals"
+    ],
+    "whoFor": "Ship-sim fans whose title uses a rudder axis (e.g. Professional Ship Simulator) and who want precise, durable Hall-effect input on a budget.",
+    "rating": { "overall": 8, "value": 8, "marineFit": 7 },
+    "faqs": [
+      { "q": "Is a flight stick a good fit for ship sims?", "a": "Only for sims that expose a rudder axis. Its twist axis maps to rudder nicely, and Professional Ship Simulator added a rudder deadzone option for HOTAS/controller rigs." },
+      { "q": "Why pick the T.16000M over a cheaper stick?", "a": "Its H.E.A.R.T. Hall-effect sensors are contactless, so the rudder axis stays precise and won't develop the drift or dead spots that kill potentiometer sticks." },
+      { "q": "Can it replace a steering wheel?", "a": "No — it controls a rudder axis, not a wheel. For wheel-steered sims a repurposed racing wheel is the better stand-in." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC-only; the HOTAS bundle adds a throttle if you want stick-plus-throttle in one buy." },
+    "platforms": "PC"
+  },
+  {
+    "id": "leobodnar-bu0836a-diy-board",
+    "bay": "marine",
+    "type": "diy-board",
+    "brand": "Leo Bodnar Electronics",
+    "model": "BU0836A USB Joystick Interface",
+    "price": 42,
+    "priceNote": "approx 2026 price (GBP 33, ~$42 USD before shipping)",
+    "image": "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg",
+    "summary": "The backbone of the marine bay's real ecosystem — DIY. This tiny no-code USB board turns ordinary potentiometers, switches and encoders into a recognized 12-bit game controller, and it's the exact part Bridge Command's official build documents for a homemade ship's wheel and throttles. The standard recipe is three 10k linear pots (two throttles, one wheel) plus a button for the horn, wired straight to the board's pin headers; plug-and-play on Windows and Mac with no drivers. It's the honest answer for builders who want a helm that feels like theirs, at a fraction of repurposed-gear cost — your only real limits are your own fabrication skills and adding friction so the throttle levers hold position.",
+    "specs": {
+      "analogInputs": "8 axes, 12-bit (4096 steps each)",
+      "digitalInputs": "32 buttons / 16 rotary encoders",
+      "hat": "8-way point-of-view hat support",
+      "drivers": "None required (Windows/Mac plug-and-play)",
+      "size": "~2.2 x 1.25 in / 55 x 32 mm",
+      "marineRole": "DIY helm + throttle interface (Bridge Command reference build)"
+    },
+    "pros": [
+      "No-code: solder pots and switches, plug in, it's a recognized controller",
+      "The documented Bridge Command DIY helm/throttle part — proven recipe",
+      "8 axes and 32 inputs is plenty for a full custom helm console for ~$42"
+    ],
+    "cons": [
+      "You build everything else — enclosure, levers, friction, wiring",
+      "Soldering and basic DIY skills required; no plug-and-play hardware",
+      "Ships from the UK, so add shipping and lead time"
+    ],
+    "whoFor": "Makers who want a custom ship's wheel and throttle that feel exactly right — especially Bridge Command builders following the official spec.",
+    "rating": { "overall": 9, "value": 9, "marineFit": 9 },
+    "faqs": [
+      { "q": "What parts do I need to build a DIY ship throttle?", "a": "A BU0836-series USB board plus three 10k linear potentiometers — two for throttles, one for the wheel — wired to the pin headers, plus a button for the horn, in an enclosure of your choice." },
+      { "q": "Do I need to write code for the BU0836A?", "a": "No. Unlike an Arduino, it's a dedicated joystick board: wire your pots and switches, plug in USB, and it appears as a standard controller with no drivers." },
+      { "q": "How do I make DIY throttle levers feel realistic?", "a": "Add friction so the lever holds position — the Bridge Command guide suggests wrapping string around the pot shaft and anchoring it for drag, mimicking a real engine control." }
+    ],
+    "affiliate": { "primary": "leobodnar", "note": "Buy direct from leobodnar.com; US makers can also source via Ricmotech. Pair with 10k linear pots." },
+    "platforms": "PC"
+  },
+  {
+    "id": "arduino-leonardo-diy-hid",
+    "bay": "marine",
+    "type": "diy-board",
+    "brand": "Arduino",
+    "model": "Leonardo (ATmega32u4 HID)",
+    "price": 25,
+    "priceNote": "approx 2026 price ($22-28 official; clones cheaper)",
+    "image": "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "summary": "The flexible, code-it-yourself route to a DIY helm. The Leonardo's ATmega32u4 has native USB, so with the open-source ArduinoJoystickLibrary it presents to the PC as a real HID joystick — your pots and switches read as genuine axes and buttons. Versus the no-code BU0836A, the trade is effort for control: you write a sketch and calibrate, but you get logic the dedicated board can't do (custom button matrices, software detents, encoder handling, combining a helm with a button box on one cheap board). The honest caveat is purely DIY — there's no enclosure, no lever feel, and you'll spend time in the IDE — but at ~$25 (less for a Pro Micro clone) it's the cheapest custom-controller foundation in the bay.",
+    "specs": {
+      "mcu": "ATmega32u4, 16 MHz, native USB HID",
+      "io": "20 digital I/O (7 PWM), 12 analog inputs",
+      "library": "ArduinoJoystickLibrary (open source) for HID joystick",
+      "connection": "Micro USB",
+      "alternatives": "Pro Micro / Micro clones use the same chip for less",
+      "marineRole": "Programmable DIY HID helm / button box"
+    },
+    "pros": [
+      "Presents as a true HID joystick — pots and switches read as real axes/buttons",
+      "Cheapest custom-controller base; clones (Pro Micro) cost a few dollars",
+      "Code flexibility: button matrices, software detents, encoders, combined helm + button box"
+    ],
+    "cons": [
+      "Requires coding and calibration — not no-code like the BU0836A",
+      "Only 12 analog inputs and you build all the hardware around it",
+      "No enclosure, levers, or lever feel — it's a bare board, fully DIY"
+    ],
+    "whoFor": "Makers comfortable with the Arduino IDE who want full control over a custom helm and button box on a sub-$30 board.",
+    "rating": { "overall": 8, "value": 9, "marineFit": 8 },
+    "faqs": [
+      { "q": "Can an Arduino be a game controller for boat sims?", "a": "Yes — the Leonardo (and Micro/Pro Micro clones) use the ATmega32u4's native USB, so with the ArduinoJoystickLibrary they present as an HID joystick the sim reads as real axes and buttons." },
+      { "q": "BU0836A or Arduino for a DIY helm?", "a": "The BU0836A is the no-code, documented choice. The Arduino is the flexible, code-it-yourself route — pick it if you want custom logic like software detents or a button matrix." },
+      { "q": "Why the Leonardo specifically and not an Uno?", "a": "The Uno's chip can't natively act as a USB HID device without reflashing. The Leonardo/Micro's ATmega32u4 does HID out of the box, which is what makes the joystick library work." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "Official Leonardo or a cheaper ATmega32u4 Pro Micro clone both work with ArduinoJoystickLibrary." },
+    "platforms": "PC"
+  },
+  {
+    "id": "raildriver-ship-throttle",
+    "bay": "marine",
+    "type": "throttle",
+    "brand": "P.I. Engineering",
+    "model": "RailDriver Desktop Train Cab Controller (as ship throttle)",
+    "price": 220,
+    "priceNote": "approx 2026 street price ($219.95)",
+    "image": "/images/gear/marine/raildriver-ship-throttle.jpg",
+    "summary": "A genuine crossover repurpose: the RailDriver is a desktop train-cab controller whose chunky throttle, reverser and brake levers feel right for marine engine work, so train-sim hobbyists carry it over to ship sims. Its real strength is lever feel — long, deliberate levers with a built-in bass speaker for rumble — plus 34 programmable buttons that suit a busy bridge. The heavy caveats: it's expensive at ~$220 for a repurpose, its software is built around train titles so it needs third-party mapping (vJoy/JoyToKey) to talk to marine sims, and like everything here it only helps in titles that read analog axes. Niche and pricey, but the lever ergonomics genuinely beat a flight quadrant for slow engine moves.",
+    "specs": {
+      "levers": "Throttle, reverser, independent + automatic brake",
+      "buttons": "34 programmable buttons",
+      "extras": "Built-in bass speaker for rumble; speedometer readout",
+      "size": "34 x 18 x 10 cm, ~4.3 kg (substantial desk unit)",
+      "connection": "USB 2.0/3.0",
+      "marineRole": "Repurposed ship engine throttle / control lever cluster"
+    },
+    "pros": [
+      "Long, deliberate lever feel that suits slow marine engine moves better than a flight quadrant",
+      "34 programmable buttons cover a lot of bridge functions",
+      "Heavy, desk-anchored build with rumble feedback"
+    ],
+    "cons": [
+      "A train controller repurposed — pricey (~$220) for marine use",
+      "Train-centric software; needs third-party mapping (vJoy/JoyToKey) for marine sims",
+      "Like all marine gear, the axes only do anything in analog-aware titles"
+    ],
+    "whoFor": "Crossover hobbyists (often from train sims) who want premium lever feel and don't mind mapping software and the price.",
+    "rating": { "overall": 7, "value": 5, "marineFit": 6 },
+    "faqs": [
+      { "q": "Can a RailDriver be used for ship sims?", "a": "Yes — its lever feel suits marine throttle work and it's a known repurpose from the train-sim community. You'll map it to marine sims with third-party software like vJoy or JoyToKey." },
+      { "q": "Is the RailDriver worth it for marine sims?", "a": "Only if you value lever feel highly or already own one. At ~$220 for a repurpose that needs mapping software, a flight quadrant or DIY board is far better value for most." },
+      { "q": "Does it work natively with boat sims?", "a": "No. Its software targets train titles, so marine use requires third-party mapping to translate the levers and buttons into inputs the ship sim understands." }
+    ],
+    "affiliate": { "primary": "piengineering", "note": "Sold by P.I. Engineering; budget for vJoy/JoyToKey setup time to use it with marine sims." },
+    "platforms": "PC"
+  },
+  {
+    "id": "meta-quest-3-marineverse-vr",
+    "bay": "marine",
+    "type": "vr",
+    "brand": "Meta",
+    "model": "Quest 3 (MarineVerse VR sailing)",
+    "price": 500,
+    "priceNote": "approx 2026 price ($499-649; 512GB ~$649, Quest 3S from ~$329)",
+    "image": "/images/gear/marine/meta-quest-3-marineverse-vr.jpg",
+    "summary": "VR is the one path that sidesteps the marine bay's whole hardware problem — no helm to buy, no analog-axis caveat. On the Quest 3 running MarineVerse Sailing Club you 'hold' the tiller and sheet with the hand-tracked controllers, and because it pairs with NauticEd courses it straddles game and real sail training. Honest framing: this is sailing-only (dinghies, yachts, catamarans), not ship-handling or trawler sims, and the experience lives or dies on MarineVerse rather than any peripheral. The Quest 3's pancake-lens optics and XR2 Gen 2 chip make it the quality pick; the cheaper Quest 3S runs the same software if budget is tight. The app is free to try with an optional ~$13/month Sailing Pass.",
+    "specs": {
+      "resolution": "2064 x 2208 per eye (~4.5 MP/eye)",
+      "optics": "Pancake lenses, sharper edge-to-edge than Quest 2",
+      "chip": "Snapdragon XR2 Gen 2",
+      "refresh": "90 Hz / 120 Hz",
+      "storage": "512 GB (Quest 3); Quest 3S offers smaller tiers",
+      "marineRole": "VR sailing via hand-tracked tiller/sheet (no helm hardware)"
+    },
+    "pros": [
+      "No helm hardware needed — hand-tracked controllers are the tiller and sheet",
+      "MarineVerse + NauticEd integration teaches genuine sailing skills",
+      "Standalone (no PC required) and doubles as a general VR/MR headset"
+    ],
+    "cons": [
+      "Sailing-only — not ship-handling, fishing, or commercial-vessel sims",
+      "Experience depends entirely on MarineVerse, not on any swappable peripheral",
+      "Headset cost ($499-649) plus optional ~$13/month Sailing Pass for advanced features"
+    ],
+    "whoFor": "Sailors and would-be sailors who want hands-on dinghy/yacht practice and skill-building without buying or building any helm hardware.",
+    "rating": { "overall": 8, "value": 7, "marineFit": 8 },
+    "faqs": [
+      { "q": "Do I need a helm controller for VR sailing?", "a": "No. MarineVerse on Quest uses hand-tracked controllers for the tiller and sheet, so the headset itself is the only hardware — that's the appeal versus a physical helm." },
+      { "q": "Can VR sailing teach real skills?", "a": "MarineVerse partners with NauticEd to deliver actual sailing course modules inside VR, so it's used for genuine skill-building, not just play." },
+      { "q": "Quest 3 or the cheaper Quest 3S for MarineVerse?", "a": "Both run MarineVerse. The Quest 3's pancake optics and storage make it the nicer experience; the Quest 3S (from ~$329) is the budget entry to the same app." }
+    ],
+    "affiliate": { "primary": "meta", "note": "MarineVerse Sailing Club is a free download with an optional Sailing Pass IAP (~$13/month)." },
+    "platforms": "PC"
+  },
+  {
+    "id": "bridge-command-free-sim",
+    "bay": "marine",
+    "type": "controller",
+    "brand": "Bridge Command",
+    "model": "Bridge Command (free open-source ship sim)",
+    "price": 0,
+    "priceNote": "free / open source (context entry, not gear)",
+    "image": "/images/gear/marine/bridge-command-free-sim.jpg",
+    "summary": "Not a hardware product — included as essential context because it's the closest thing the niche has to a native hardware ecosystem. Bridge Command is a free, open-source, ship-handling-focused simulator that uniquely publishes an official how-to for building your own throttles and wheel (BU0836 board plus three 10k linear pots, with a string-friction trick for realistic throttle drag). It's the reference target for nearly every hobbyist DIY helm build, which is why it anchors the marine bay's maker projects. If you're buying or building any DIY interface board, this is the sim those builds were designed around.",
+    "specs": {
+      "cost": "Free, open source",
+      "focus": "Ship handling / bridge simulation",
+      "diyDocs": "Official 'make your own throttles and wheel' guide",
+      "diyParts": "BU0836 board + three 10k linear pots + horn button",
+      "platforms": "Windows / Linux",
+      "marineRole": "Reference sim for DIY helm builds"
+    },
+    "pros": [
+      "Free and open source — the no-cost on-ramp to ship-handling sim",
+      "Only sim with an official DIY helm/throttle build guide",
+      "The reference target most hobbyist hardware builds are designed for"
+    ],
+    "cons": [
+      "Dated visuals versus commercial titles",
+      "Ship-handling focus only — not sailing or fishing",
+      "Best experienced with a DIY build, which is its own project"
+    ],
+    "whoFor": "Anyone starting marine sim for free, and the must-have reference for DIY helm and throttle builders.",
+    "rating": { "overall": 8, "value": 10, "marineFit": 9 },
+    "faqs": [
+      { "q": "What's the best free ship simulator?", "a": "Bridge Command — open-source, ship-handling focused, and uniquely documents a DIY helm and throttle build, making it the hobbyist reference." },
+      { "q": "Why list a sim in a gear database?", "a": "Because Bridge Command's official BU0836 build guide is what nearly every DIY marine helm is designed around — the hardware and this sim are inseparable." }
+    ],
+    "affiliate": { "primary": "none", "note": "Free download from bridgecommand.co.uk; context entry, not a purchase." },
+    "platforms": "PC"
+  },
+  {
+    "id": "professional-ship-simulator-context",
+    "bay": "marine",
+    "type": "controller",
+    "brand": "Professional Ship Simulator",
+    "model": "Professional Ship Simulator (ex-Nautic XP)",
+    "price": 0,
+    "priceNote": "price TBD; Steam Early Access targeted 2026 (context entry)",
+    "image": "/images/gear/marine/professional-ship-simulator-context.jpg",
+    "summary": "Not hardware — included as context because it's the most important hardware signal the marine bay has seen in years. Rebranded from Nautic XP, this system-driven ship sim is built around deep input flexibility: over 50 buttons, 9 axes, a triple-layer keyboard layout, and explicit support for everything from a joystick to a gamepad, plus a rudder deadzone option aimed squarely at HOTAS/controller rigs. That 9-axis input model is the hardware-friendly target builders have wanted — it's the upcoming title most likely to actually read your repurposed wheel, throttle quadrant and button box as the analog axes they are. Steam Early Access is targeted for 2026; price is not yet announced.",
+    "specs": {
+      "inputAxes": "9 axes",
+      "buttons": "50+ buttons supported",
+      "keyboard": "Triple-layer keyboard layout",
+      "controllers": "Joystick to gamepad; per-ship controller setup",
+      "rudderOption": "Rudder deadzone option for HOTAS/controller rigs",
+      "marineRole": "Most hardware-friendly upcoming marine sim"
+    },
+    "pros": [
+      "9-axis / 50+-button input model designed to read repurposed gear properly",
+      "Rudder deadzone option explicitly supports HOTAS/controller setups",
+      "System-driven physics and pro-workflow focus; NMEA/GPX external integration planned"
+    ],
+    "cons": [
+      "Not released — Steam Early Access only targeted for 2026",
+      "Price not yet announced",
+      "Early Access means feature and stability caveats at launch"
+    ],
+    "whoFor": "Hardware-minded ship simmers waiting for a title that finally treats their wheel, throttle and button box as real analog inputs.",
+    "rating": { "overall": 8, "value": 7, "marineFit": 9 },
+    "faqs": [
+      { "q": "Will Professional Ship Simulator support my throttle and button box?", "a": "It advertises 9 axes, 50+ buttons, and a rudder deadzone option for HOTAS/controller setups, making it the most hardware-friendly upcoming marine sim — the best bet for repurposed gear." },
+      { "q": "When does Professional Ship Simulator release?", "a": "Steam Early Access is targeted for 2026. It was previously known as Nautic XP; price hasn't been announced yet." }
+    ],
+    "affiliate": { "primary": "steam", "note": "Wishlist on Steam (formerly Nautic XP); context entry, not yet purchasable." },
+    "platforms": "PC"
+  }
+]

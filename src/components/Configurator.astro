@@ -1,5 +1,19 @@
 ---
 import catalog from '../data/catalog-racing.json';
+// Merge deep product data (image, summary, pros, gear link) into each catalog
+// item by id. Resilient glob so the build works before the data file exists.
+const prodMods = import.meta.glob('/src/data/products/racing.json', { eager: true });
+const products = ((Object.values(prodMods)[0] as any)?.default || []) as any[];
+const pmap = Object.fromEntries(products.map((p) => [p.id, p]));
+const enrich = (arr: any[]) => arr.map((o) => {
+  const p = pmap[o.id];
+  return p ? { ...o, image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3), gearId: p.id, prating: p.rating?.overall } : o;
+});
+const enriched = {
+  ...catalog,
+  bases: enrich(catalog.bases), wheels: enrich(catalog.wheels),
+  pedals: enrich(catalog.pedals), mounts: enrich(catalog.mounts),
+};
 ---
 <section id="cfg" class="cfg-section">
   <div class="cfg-top">
@@ -23,7 +37,7 @@ import catalog from '../data/catalog-racing.json';
       <button class="lbtn primary" id="cfg-buy" style="margin-top:8px">Get parts ▸</button>
     </aside>
   </div>
-  <script type="application/json" id="cfg-catalog" set:html={JSON.stringify(catalog)}></script>
+  <script type="application/json" id="cfg-catalog" set:html={JSON.stringify(enriched)}></script>
 </section>
 
 <style is:global>
@@ -52,6 +66,17 @@ import catalog from '../data/catalog-racing.json';
   .opt .flag { position: absolute; top: 9px; right: 9px; font-size: .62rem; }
   .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
   .compat-line { font-family: var(--font-mono); font-size: .66rem; margin-top: 7px; display: flex; align-items: center; gap: 6px; color: var(--dim); }
+  .opt-img { width: 100%; aspect-ratio: 16/10; border-radius: 7px; overflow: hidden; margin-bottom: 9px; background: var(--panel2); border: 1px solid var(--line); }
+  .opt-img img { width: 100%; height: 100%; object-fit: cover; }
+  .opt-more { margin-top: 9px; font-family: var(--font-mono); font-size: .56rem; letter-spacing: .12em; text-transform: uppercase; color: var(--dim); background: none; border: none; cursor: pointer; padding: 2px 0; }
+  .opt-more:hover { color: var(--accent); }
+  .opt-detail { display: none; margin-top: 8px; border-top: 1px dashed var(--line); padding-top: 9px; }
+  .opt.show-detail .opt-detail { display: block; }
+  .opt-detail p { font-size: .74rem; color: var(--dim); line-height: 1.55; }
+  .opt-detail ul { margin: 7px 0; padding-left: 1em; }
+  .opt-detail li { font-size: .72rem; color: #cdd6e4; margin: 3px 0; }
+  .opt-detail li::marker { color: var(--green); }
+  .opt-detail a { font-family: var(--font-mono); font-size: .66rem; color: var(--accent); display: inline-block; margin-top: 4px; }
   .cfg-ledger { padding: 22px 22px 26px; background: color-mix(in srgb, #000 30%, var(--baybg)); display: flex; flex-direction: column; }
   .cfg-ledger h4 { font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .18em; font-size: .66rem; color: var(--dim); margin-bottom: 16px; }
   .lrow { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; border-bottom: 1px dashed var(--line); font-size: .84rem; }
@@ -99,12 +124,21 @@ import catalog from '../data/catalog-racing.json';
       const m = mapper(o);
       const seld = sel[key] && sel[key]!.id === o.id ? ' sel' : '';
       const disd = m.disabled ? ' disabled' : '';
+      const pros = Array.isArray(o.pros) ? o.pros : [];
       h += `<div class="opt${seld}${disd}" data-key="${key}" data-id="${o.id}">`
         + (m.flag ? `<span class="flag">${m.flag}</span>` : '')
+        + (o.image ? `<div class="opt-img"><img src="${o.image}" alt="" loading="lazy"></div>` : '')
         + `<div class="ob">${esc(m.band)}</div><div class="om">${esc(m.model)}</div>`
-        + `<div class="op">${typeof m.price === 'number' ? '$' + m.price : esc(m.price)}</div>`
+        + `<div class="op">${typeof m.price === 'number' ? '$' + m.price : esc(m.price)}${o.prating ? ` · ${o.prating}/10` : ''}</div>`
         + `<div class="ospec">${esc(m.spec)}</div>`
         + (m.line ? `<div class="compat-line">${m.flag || ''} ${esc(m.line)}</div>` : '')
+        + (o.summary
+            ? `<button class="opt-more" type="button">details ▾</button><div class="opt-detail">`
+              + `<p>${esc(o.summary)}</p>`
+              + (pros.length ? `<ul>${pros.map((x: string) => `<li>${esc(x)}</li>`).join('')}</ul>` : '')
+              + (o.gearId ? `<a href="/${CAT.bay}/gear/${o.gearId}">Full review →</a>` : '')
+              + `</div>`
+            : '')
         + `</div>`;
     });
     return h + '</div></div>';
@@ -221,7 +255,11 @@ import catalog from '../data/catalog-racing.json';
     readHash();
     render();
     document.getElementById('cfg-steps')!.addEventListener('click', (e) => {
-      const opt = (e.target as HTMLElement).closest('.opt') as HTMLElement | null;
+      const t = e.target as HTMLElement;
+      const more = t.closest('.opt-more') as HTMLElement | null;
+      if (more) { more.closest('.opt')!.classList.toggle('show-detail'); return; }
+      if (t.closest('.opt-detail')) return;   // drawer clicks never select; the review link works via default
+      const opt = t.closest('.opt') as HTMLElement | null;
       if (!opt || opt.classList.contains('disabled')) return;
       pick(opt.dataset.key!, opt.dataset.id!);
     });

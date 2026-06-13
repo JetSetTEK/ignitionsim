@@ -17,6 +17,7 @@
 
 ## Key pages
 - [Rig Configurator](https://ignitionsim.com/racing/configurator): compatibility-checked sim racing build tool with shareable builds.
+- Gear database (per bay, e.g. [racing](https://ignitionsim.com/racing/gear)): deep per-product breakdowns — specs, honest 0–10 rating axes, pros/cons and a plain-English verdict on each individual product (Product + Offer + FAQPage schema).
 - [About / how we test](https://ignitionsim.com/about): editorial standards and the named author's credentials.
 - [Stock & Deal Tracker](https://ignitionsim.com/drops): restock and price-drop board across bays.
 - [Affiliate disclosure](https://ignitionsim.com/disclosure)

@@ -1,0 +1,2039 @@
+[
+  {
+    "id": "cammus-c5",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Cammus",
+    "model": "C5",
+    "price": 299,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/cammus-c5.jpg",
+    "summary": "The Cammus C5 is the cheapest genuine direct-drive entry into sim racing, an all-in-one design that builds a compact 5Nm motor directly into the back of the wheel rather than into a separate base. Reviewers consistently call it the smallest and most affordable real DD wheel, with enough torque to feel everything the car is doing in any modern sim. It is a self-contained value buy rather than a deep upgrade ecosystem, so think of it as a complete starter kit that punches well above its price rather than a platform you build on for years.",
+    "specs": {
+      "Torque": "5 Nm (approx 6-7 Nm peak)",
+      "Drive": "Direct drive (integrated motor)",
+      "Ecosystem": "Cammus",
+      "Quick release": "Cammus (integrated wheel/motor)",
+      "Cooling": "Active turbo blower fan",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Cheapest real direct-drive bundle on the market",
+      "Extremely compact integrated motor saves desk space",
+      "5Nm is genuinely enough to feel road detail and weight transfer"
+    ],
+    "cons": [
+      "PC-only, no console support",
+      "Shallow upgrade path compared to MOZA/Fanatec ladders",
+      "Integrated wheel limits rim swapping"
+    ],
+    "whoFor": "A budget-first newcomer who wants real direct-drive feel for the least money and isn't planning a multi-year upgrade ladder.",
+    "rating": {
+      "overall": 7.6,
+      "value": 9.5,
+      "build": 7,
+      "upgradeCeiling": 5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Is 5Nm enough for a beginner?",
+        "a": "Yes. 5Nm of direct drive already out-detail any belt or gear wheel and is plenty for GT and formula racing; most drivers never exceed 8-10Nm."
+      },
+      {
+        "q": "Does the Cammus C5 work on console?",
+        "a": "No. The C5 is PC-only. Console racers should look at the MOZA R3 (Xbox) or Fanatec GT DD Pro (PS5)."
+      },
+      {
+        "q": "Will I outgrow it quickly?",
+        "a": "Many casual racers won't, but league racers often want 9-12Nm within a year, and the C5's ecosystem is shallow, so plan accordingly."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Cammus direct",
+      "note": "Sold on Amazon as the C5 complete bundle and direct from cammusracing.com; standard Amazon affiliate path applies."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-r5",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R5",
+    "price": 440,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-r5.jpg",
+    "summary": "The MOZA R5 is the smallest of MOZA's 'real' direct-drive bases and the usual first rung into the brand's deep value ladder. Its 5.5Nm motor is modest by modern standards but, like all DD, it delivers the road texture and instant response no belt wheel can match. Reviewers treat it as a clean, well-priced bundle entry whose biggest selling point is what comes next: a clear upgrade path to the R9, R12, R16 and R21 on the same MOZA quick release and Pit House software.",
+    "specs": {
+      "Torque": "5.5 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR",
+      "Software": "MOZA Pit House",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Buys into MOZA's deep, well-priced upgrade ladder",
+      "Pit House software is widely praised and easy to tune",
+      "Bundle pricing makes a complete DD setup affordable"
+    ],
+    "cons": [
+      "5.5Nm is on the low side for heavier cars",
+      "PC-only",
+      "V2 wheels connect via wired slip-ring rather than wireless on this base"
+    ],
+    "whoFor": "A first-time direct-drive buyer who wants modest torque now but a credible, same-ecosystem path to a stronger base later.",
+    "rating": {
+      "overall": 7.8,
+      "value": 8.5,
+      "build": 7.5,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Is the R5 strong enough for serious racing?",
+        "a": "5.5Nm is plenty to learn and race competitively in GT and formula cars; only heavy formula or rally cars will leave you wanting more headroom."
+      },
+      {
+        "q": "Can I use newer MOZA wheels on the R5?",
+        "a": "Yes. V2 wheels work on the R5, though through a wired slip-ring connection rather than the wireless link the larger R9/R12/R16/R21 bases use."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon; MOZA runs an affiliate program and Amazon links apply."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-csl-dd",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Fanatec",
+    "model": "CSL DD",
+    "price": 350,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-csl-dd.jpg",
+    "summary": "The Fanatec CSL DD is the long-standing benchmark entry direct-drive base, delivering 5Nm on the stock power supply and 8Nm with the optional Boost Kit 180. It is one of very few entry DD bases that runs on Xbox as well as PC, and it plugs straight into Fanatec's huge accessory ecosystem. Reviewers still rate it as one of the best first DD bases years after launch, with the post-Corsair stabilization (3-year warranty, 30-day returns) restoring buyer confidence.",
+    "specs": {
+      "Torque": "5 Nm stock, 8 Nm with Boost Kit 180",
+      "Drive": "Direct drive",
+      "Ecosystem": "Fanatec",
+      "Quick release": "Fanatec QR2",
+      "Platforms": "PC / Xbox",
+      "Warranty": "3-year (post-2025)"
+    },
+    "pros": [
+      "Rare entry DD base with native Xbox support",
+      "Gateway to Fanatec's deep accessory catalog",
+      "8Nm Boost Kit upgrade extends its useful life"
+    ],
+    "cons": [
+      "Full 8Nm requires buying the Boost Kit 180 separately",
+      "QR2 base-side disables FFB on non-Fanatec rims without a Podium Hub",
+      "Historically the most lock-in-prone ecosystem"
+    ],
+    "whoFor": "An Xbox or PC racer who wants a proven entry DD base and intends to grow within Fanatec's ecosystem.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8.5,
+      "build": 8,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Do I need the Boost Kit 180?",
+        "a": "Not to start. The CSL DD runs 5Nm on the included supply, which is plenty for learning; add the Boost Kit 180 later to reach 8Nm."
+      },
+      {
+        "q": "Can I use a third-party wheel on the CSL DD?",
+        "a": "Force feedback is disabled on non-Fanatec rims through the QR2 base-side unless you add a Podium Hub adapter, so plan to stay on Fanatec rims."
+      },
+      {
+        "q": "Does it work on Xbox?",
+        "a": "Yes. The CSL DD is one of the few entry direct-drive bases licensed for Xbox as well as PC."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold primarily direct from fanatec.com; limited third-party retail availability."
+    },
+    "platforms": "PC / Xbox"
+  },
+  {
+    "id": "fanatec-gt-dd-pro",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Fanatec",
+    "model": "GT DD Pro",
+    "price": 650,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "summary": "The Fanatec GT DD Pro is the go-to PlayStation-and-PC direct-drive bundle, officially licensed for Gran Turismo and one of the only credible DD options for PS5 buyers. It produces 8Nm of peak torque and ships as a complete kit with a GT-style wheel and pedals. Reviewers frame it as the smart console value pick: weaker than rivals on paper, but its huge Fanatec upgrade ecosystem and PS5 license make it the established choice for living-room racers.",
+    "specs": {
+      "Torque": "8 Nm peak",
+      "Drive": "Direct drive",
+      "Ecosystem": "Fanatec",
+      "Quick release": "Fanatec QR2",
+      "Platforms": "PC / PS5 / PS4",
+      "Licensing": "Officially licensed for Gran Turismo"
+    },
+    "pros": [
+      "One of the only real direct-drive options for PS5",
+      "Complete bundle with wheel and pedals included",
+      "Plugs into the full Fanatec accessory ecosystem"
+    ],
+    "cons": [
+      "8Nm is modest versus similarly priced PC-only rivals",
+      "Bundle pricing climbs fast once you add load-cell pedals",
+      "QR2 lock-in on non-Fanatec rims"
+    ],
+    "whoFor": "A PS5 racer who wants genuine direct drive and a clear upgrade path into Fanatec's ecosystem.",
+    "rating": {
+      "overall": 8.3,
+      "value": 8,
+      "build": 8,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Is the GT DD Pro the best wheel for PS5?",
+        "a": "It is the established PS5 direct-drive pick and the value choice; the Logitech G Pro is the pricier premium alternative."
+      },
+      {
+        "q": "Is 8Nm enough?",
+        "a": "Yes for most drivers. Torque isn't the deciding factor at this tier, the PS5 license and ecosystem are."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct / Amazon",
+      "note": "Sold direct at fanatec.com and on Amazon as the officially licensed Gran Turismo DD Pro bundle."
+    },
+    "platforms": "PC / PS5"
+  },
+  {
+    "id": "simagic-evo-sport",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Simagic",
+    "model": "Alpha Evo Sport",
+    "price": 399,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-evo-sport.jpg",
+    "summary": "The Simagic Alpha Evo Sport is the entry point of the April 2025 Alpha Evo line that reset the mid-tier value bar, offering 9Nm for around $399. It uses the same custom 5-pole low-inertia servo and 21-bit encoder as its bigger siblings, delivering near-zero cogging and detailed road feel at an aggressive price. Its new QR-A quick release finally opened Simagic bases to third-party rims, breaking the brand's earlier lock-in. PC-only, but it leads its torque tier on Nm-per-dollar.",
+    "specs": {
+      "Torque": "9 Nm",
+      "Drive": "Direct drive (5-pole low-inertia servo)",
+      "Ecosystem": "Simagic",
+      "Quick release": "Simagic QR-A (third-party friendly)",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Class-leading torque-per-dollar at 9Nm",
+      "Low-inertia servo with near-zero cogging for clean feel",
+      "QR-A opens the base to third-party rims"
+    ],
+    "cons": [
+      "PC-only, no console support",
+      "Simagic's software is less polished than MOZA Pit House for some users",
+      "Newer ecosystem with thinner accessory catalog than Fanatec"
+    ],
+    "whoFor": "A PC racer chasing the most direct-drive performance per dollar in the 9Nm class with rim-mixing freedom.",
+    "rating": {
+      "overall": 8.5,
+      "value": 9.5,
+      "build": 8.5,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "What makes the Alpha Evo line special?",
+        "a": "Custom low-inertia servos, 21-bit encoders and near-zero cogging at prices that undercut similar-torque rivals, plus the new third-party-friendly QR-A."
+      },
+      {
+        "q": "Does the Alpha Evo Sport support console?",
+        "a": "No. The entire Simagic line is PC-only; console racers should look at Fanatec or the MOZA R3."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers (SimHQ, Simline, etc.); limited Amazon presence."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-r9",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R9 V2",
+    "price": 429,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-r9.jpg",
+    "summary": "The MOZA R9 V2 sits in the heart of the mid-tier value sweet spot, delivering 9Nm for around $429 inside MOZA's deep upgrade ladder. It uses wireless wheel communication so V2 rims connect cleanly, and pairs with the well-regarded Pit House software. Reviewers treat it as a strong, sensible enthusiast base, though MOZA's own R12 at a similar price has made the R9 a slightly awkward middle child for buyers who can stretch to 12Nm.",
+    "specs": {
+      "Torque": "9 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR",
+      "Wheel comms": "Wireless (V2 wheels)",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Solid 9Nm in the enthusiast sweet spot",
+      "Wireless V2 wheel communication",
+      "Deep MOZA ecosystem and Pit House tuning"
+    ],
+    "cons": [
+      "The similarly priced R12 offers more torque",
+      "PC-only",
+      "Mounting steps up to 4-bolt, so a clamp-only desk may not suit"
+    ],
+    "whoFor": "A MOZA buyer who wants a 9Nm enthusiast base, though many cross-shop the R12 at a near-identical price.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "R9 or R12?",
+        "a": "They're priced close together, so most buyers take the R12 for the extra 3Nm of headroom unless they find the R9 noticeably cheaper."
+      },
+      {
+        "q": "Do MOZA V2 wheels work wirelessly on the R9?",
+        "a": "Yes. The R9 supports MOZA's wireless wheel communication, unlike the entry R5 which uses a wired slip-ring."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "thrustmaster-t818",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Thrustmaster",
+    "model": "T818",
+    "price": 649,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/thrustmaster-t818.jpg",
+    "summary": "The T818 is Thrustmaster's first direct-drive base, a distinctive hexagonal unit producing a continuous 10Nm and built on the brand's 30-plus years in the sim market. Reviewers praise the smooth, largely unfiltered force feedback as genuinely realistic, while noting that 10Nm peak trails similarly priced rivals and that early software was rough. It is PC-only at launch, with a console-compatible version signaled for 2026, and ships with Thrustmaster's new quick-release system.",
+    "specs": {
+      "Torque": "10 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "Thrustmaster",
+      "Quick release": "Thrustmaster QR (included)",
+      "Rotation": "40 to 1080 degrees",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Smooth, detailed FFB with minimal default filtering",
+      "Backed by Thrustmaster's long market experience",
+      "Distinctive compact hexagonal design"
+    ],
+    "cons": [
+      "10Nm peak is lower than rivals at the price",
+      "Early software and ecosystem felt immature",
+      "PC-only at launch (console version teased for 2026)"
+    ],
+    "whoFor": "A PC racer in the Thrustmaster ecosystem who wants smooth, realistic direct-drive feel over headline torque.",
+    "rating": {
+      "overall": 7.8,
+      "value": 7.5,
+      "build": 8,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 7.5
+    },
+    "faqs": [
+      {
+        "q": "Is the T818 coming to console?",
+        "a": "A console-compatible version has been signaled for 2026; the current T818 is PC-only."
+      },
+      {
+        "q": "Is 10Nm a weakness?",
+        "a": "It's slightly below rivals on paper but still more torque than most drivers use; the FFB quality matters more than the headline number."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Thrustmaster direct",
+      "note": "Widely sold on Amazon and via Thrustmaster's site; standard Amazon affiliate path applies."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-g-pro",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Logitech",
+    "model": "G PRO Racing Wheel",
+    "price": 999,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/logitech-g-pro.jpg",
+    "summary": "The Logitech G Pro Racing Wheel is the premium mass-market console DD option, pairing 11Nm of direct drive with Logitech's TRUEFORCE feedback technology and excellent build quality. It is one of the few strong bases that spans PlayStation, Xbox and PC (the exact console depends on the SKU), with a polished thumbsweep button layout, magnetic shift paddles and dual clutch. Reviewers love the detail and immersion but note it is a relatively closed, premium-priced bundle versus piece-by-piece open ecosystems.",
+    "specs": {
+      "Torque": "11 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "Logitech",
+      "Quick release": "Logitech RS (official adapter for some third-party rims)",
+      "Feedback": "TRUEFORCE",
+      "Platforms": "PC + PS5 or PC + Xbox (per SKU)"
+    },
+    "pros": [
+      "Console direct drive with excellent build quality",
+      "TRUEFORCE feedback praised for detail and immersion",
+      "Refined PRO button layout, magnetic paddles and dual clutch"
+    ],
+    "cons": [
+      "Premium price for the torque on offer",
+      "Historically a closed bundle ecosystem",
+      "Each SKU targets either PlayStation or Xbox, not both"
+    ],
+    "whoFor": "A console racer who wants premium build and TRUEFORCE feel and is happy in a largely closed Logitech ecosystem.",
+    "rating": {
+      "overall": 8.4,
+      "value": 7,
+      "build": 9,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Does the G Pro work on PS5 and Xbox?",
+        "a": "Yes, but per SKU: the PlayStation version covers PS5/PS4/PC and the Xbox version covers Xbox/PC. Buy the one matching your console."
+      },
+      {
+        "q": "Can I use third-party rims?",
+        "a": "Logitech now offers an official RS quick-release adapter that opens the base to some third-party rims, loosening its historic lock-in."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Logitech G direct",
+      "note": "Widely sold on Amazon, Best Buy and logitechg.com; standard retail affiliate paths apply."
+    },
+    "platforms": "PC / PS5 / Xbox"
+  },
+  {
+    "id": "moza-r12",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R12",
+    "price": 429,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-r12.jpg",
+    "summary": "The MOZA R12 is widely called the mid-tier sweet spot: 12Nm of direct drive for around $429, a compact body, and MOZA's NexGen 4.0 force-feedback algorithm with a 21-bit encoder. Reviewers describe it as enough torque for a long-term relationship, strong and immersive with real headroom for heavy cars while staying accessible in size and price. It anchors MOZA's ladder and is one of the most recommended first 'serious' direct-drive bases of 2025-2026.",
+    "specs": {
+      "Torque": "12 Nm",
+      "Drive": "Direct drive (NexGen 4.0)",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "12Nm sweet-spot torque most drivers never outgrow",
+      "Compact body and accessible price",
+      "Deep MOZA ecosystem with strong Pit House software"
+    ],
+    "cons": [
+      "PC-only",
+      "Needs a 4-bolt mount, not just a desk clamp",
+      "12Nm flagship-style heavy cars may want more, though few will"
+    ],
+    "whoFor": "The default first 'real' direct-drive base for a PC enthusiast who wants to buy once and stop.",
+    "rating": {
+      "overall": 8.9,
+      "value": 9.5,
+      "build": 8.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Is 12Nm enough long term?",
+        "a": "For the vast majority of drivers, yes. 9-15Nm is the openly recommended enough-for-everyone band and 12Nm sits right in it."
+      },
+      {
+        "q": "Do I need a rig for the R12?",
+        "a": "The R12 uses a 4-bolt mount and 12Nm will overpower a cheap desk clamp, so a solid stand or 8020 rig is strongly recommended."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and on Amazon, often as a base or R12 + RS V2 bundle."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "simagic-evo",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Simagic",
+    "model": "Alpha Evo",
+    "price": 548,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-evo.jpg",
+    "summary": "The standard Simagic Alpha Evo delivers 12Nm for around $548, sitting between the Sport and Pro in the 2025 line that reset mid-tier value. It carries the same low-inertia 5-pole servo, 21-bit encoder and near-zero cogging as the rest of the range, with the third-party-friendly QR-A. Reviewers rate the Evo as a clean, powerful 12Nm base that competes directly with the MOZA R12 and Fanatec ClubSport DD while undercutting on raw torque-per-dollar. PC-only.",
+    "specs": {
+      "Torque": "12 Nm",
+      "Drive": "Direct drive (5-pole low-inertia servo)",
+      "Ecosystem": "Simagic",
+      "Quick release": "Simagic QR-A (third-party friendly)",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "12Nm sweet-spot torque with low-cogging servo",
+      "QR-A allows mixing third-party rims",
+      "Strong value against the MOZA R12 and ClubSport DD"
+    ],
+    "cons": [
+      "PC-only",
+      "Software less mature than MOZA's",
+      "Newer ecosystem with fewer first-party accessories"
+    ],
+    "whoFor": "A PC enthusiast who wants 12Nm with clean low-inertia feel and the freedom to run third-party rims.",
+    "rating": {
+      "overall": 8.6,
+      "value": 9,
+      "build": 8.5,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "How does the Alpha Evo compare to the MOZA R12?",
+        "a": "Both deliver 12Nm in the sweet spot; the Evo leans on low-inertia servo feel and an open QR-A, the R12 on a deeper ecosystem and software."
+      },
+      {
+        "q": "Can I run third-party wheels?",
+        "a": "Yes. The QR-A quick release was designed to open Simagic bases to third-party rims, unlike earlier Simagic models."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers; limited Amazon presence."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-clubsport-dd",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Fanatec",
+    "model": "ClubSport DD",
+    "price": 700,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-clubsport-dd.jpg",
+    "summary": "The Fanatec ClubSport DD is the brand's mid-tier 12Nm base, and a May 2026 firmware update unlocked an extra 3Nm of holding torque to reach 15Nm. Price cuts during the post-Corsair stabilization (down from around $1,000) made it far more competitive, and reviewers have called its force feedback among the best they have felt. It plugs into Fanatec's mature accessory ecosystem and benefits from the unified Fanatec App, 3-year warranty and 30-day returns.",
+    "specs": {
+      "Torque": "12 Nm (15 Nm after May 2026 firmware)",
+      "Drive": "Direct drive",
+      "Ecosystem": "Fanatec",
+      "Quick release": "Fanatec QR2",
+      "Software": "Fanatec App",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Reference-class FFB feel praised by reviewers",
+      "Firmware bump to 15Nm adds free headroom",
+      "Deep Fanatec accessory ecosystem and improved warranty"
+    ],
+    "cons": [
+      "PC-only",
+      "QR2 lock-in on non-Fanatec rims without a Podium Hub",
+      "Still pricier than the MOZA R12 / Simagic Evo at similar torque"
+    ],
+    "whoFor": "A Fanatec-ecosystem PC racer who wants top-tier feel and the firmware-boosted 15Nm headroom.",
+    "rating": {
+      "overall": 8.7,
+      "value": 8,
+      "build": 8.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Does the ClubSport DD really do 15Nm?",
+        "a": "Yes, a May 2026 firmware update unlocked 3Nm of additional holding torque, taking it from 12Nm to 15Nm at no cost."
+      },
+      {
+        "q": "Is Fanatec safe to buy after the Corsair takeover?",
+        "a": "The 2025 stabilization, 3-year warranty, 30-day returns, price cuts and a unified app, has largely restored buyer confidence."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold primarily direct at fanatec.com."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-r16",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R16 V2",
+    "price": 549,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-r16.jpg",
+    "summary": "The MOZA R16 V2 steps up to 16Nm for prosumer-level torque while keeping the same NexGen 4.0 algorithm, 21-bit encoder and wireless V2 wheel comms as its smaller siblings. It targets drivers who want maximum formula-car realism and extra detail headroom beyond the 12Nm sweet spot, at a price that still undercuts much of the high end. Reviewers position it as the strong-but-sensible step for enthusiasts who know they want more than 12Nm. PC-only.",
+    "specs": {
+      "Torque": "16 Nm",
+      "Drive": "Direct drive (NexGen 4.0)",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "16Nm headroom for heavy and formula cars",
+      "Same refined NexGen FFB and wireless wheel comms",
+      "Aggressive pricing for its torque tier"
+    ],
+    "cons": [
+      "More torque than most drivers actually need",
+      "PC-only",
+      "Requires a rigid 4-bolt mount or rig"
+    ],
+    "whoFor": "An enthusiast who specifically wants beyond-sweet-spot torque for formula realism within the MOZA ecosystem.",
+    "rating": {
+      "overall": 8.6,
+      "value": 8.5,
+      "build": 8.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 7.5
+    },
+    "faqs": [
+      {
+        "q": "Do I need 16Nm?",
+        "a": "Most drivers don't. 9-15Nm covers nearly everyone; the R16 mainly adds realism in heavy formula cars and extra detail headroom."
+      },
+      {
+        "q": "Will a desk stand hold it?",
+        "a": "No. At 16Nm you want a rigid 4-bolt cockpit or 8020 rig; a clamp or flimsy stand will flex badly."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "simucube-2-sport",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Simucube",
+    "model": "Simucube 2 Sport",
+    "price": 1199,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simucube-2-sport.jpg",
+    "summary": "The Simucube 2 Sport is the entry point to Simucube's PC-only premium line and a long-standing reference for fidelity, delivering 17Nm from a machined-metal body with a 22-bit absolute encoder and dual-CPU architecture for ultra-low latency. Reviewers consistently note its complete absence of cogging, torque ripple or notchiness, and praise the SQR quick release as essentially immortal. It is the base others are measured against, and one of the most third-party-friendly ecosystems.",
+    "specs": {
+      "Torque": "17 Nm",
+      "Drive": "Direct drive (zero-ripple torque motor)",
+      "Ecosystem": "Simucube",
+      "Quick release": "Simucube SQR (zero backlash)",
+      "Encoder": "22-bit absolute",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Reference-class smoothness with no cogging or ripple",
+      "Machined-metal build and near-immortal SQR quick release",
+      "Open, third-party-friendly ecosystem"
+    ],
+    "cons": [
+      "Premium price for 17Nm",
+      "PC-only",
+      "Needs a serious rig to exploit fully"
+    ],
+    "whoFor": "A serious PC enthusiast who prioritizes pure FFB fidelity and build quality over torque-per-dollar.",
+    "rating": {
+      "overall": 9,
+      "value": 7,
+      "build": 9.5,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Is the Simucube 2 Sport worth the premium?",
+        "a": "For drivers who value reference-grade smoothness, build quality and an open ecosystem, yes; on pure torque-per-dollar, MOZA and Simagic win."
+      },
+      {
+        "q": "Does it work on console?",
+        "a": "No. Simucube is PC-only across the entire range."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simucube authorized retailers",
+      "note": "Sold via authorized sim-racing retailers (Advanced SimRacing, Trak Racer, etc.) rather than Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "simagic-evo-pro",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Simagic",
+    "model": "Alpha Evo Pro",
+    "price": 699,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-evo-pro.jpg",
+    "summary": "The Simagic Alpha Evo Pro delivers 18Nm for around $699 and is widely flagged as the value standout of the Alpha Evo line, with reviewers noting you never miss the extra torque of pricier bases. It pairs the line's low-inertia servo, 21-bit encoder and near-zero cogging with the open QR-A quick release. At 18Nm for under $700 it badly undercuts similarly powerful Asetek and Simucube units, making it a frequent value-pick recommendation. PC-only.",
+    "specs": {
+      "Torque": "18 Nm",
+      "Drive": "Direct drive (5-pole low-inertia servo)",
+      "Ecosystem": "Simagic",
+      "Quick release": "Simagic QR-A (third-party friendly)",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "18Nm at a price rivals charge for far less torque",
+      "Clean low-inertia FFB with near-zero cogging",
+      "Open QR-A for third-party rims"
+    ],
+    "cons": [
+      "PC-only",
+      "Software less mature than MOZA's",
+      "Far more torque than most drivers will use"
+    ],
+    "whoFor": "A PC enthusiast who wants high-end 18Nm torque and feel without paying Asetek or Simucube prices.",
+    "rating": {
+      "overall": 8.8,
+      "value": 9.5,
+      "build": 8.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 7.5
+    },
+    "faqs": [
+      {
+        "q": "Why is the Alpha Evo Pro so recommended?",
+        "a": "It offers 18Nm with clean low-inertia feel for around $699, undercutting comparable Asetek and Simucube bases significantly."
+      },
+      {
+        "q": "Is 18Nm overkill?",
+        "a": "For most drivers, yes, but the Pro's value is so strong that the extra headroom comes at little cost premium over 12Nm bases."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers (SimHQ, Simline, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "asetek-forte",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Asetek",
+    "model": "Forte",
+    "price": 1199,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/asetek-forte.jpg",
+    "summary": "The Asetek Forte is the 18Nm mid-range of Asetek SimSports' industrial-grade line, sharing the same 22-bit encoder, slipring and electronics as the flagship Invicta. Reviewers report its performance is difficult to distinguish from the Simucube 2 Ultimate at a fraction of the cost, with low cogging and clean detail. Its quick release combines Simucube-style mounting with integrated power and data via pogo pins, and the base acts as a USB hub for Asetek peripherals. PC-only, upper-mid tier.",
+    "specs": {
+      "Torque": "18 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "Asetek",
+      "Quick release": "Asetek QR (pogo-pin power + data)",
+      "Encoder": "22-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Feel rivals the Simucube 2 Ultimate at far lower cost",
+      "Industrial build with clean cable-through-QR design",
+      "Acts as a USB hub for Asetek peripherals"
+    ],
+    "cons": [
+      "Premium price versus 18Nm value rivals like the Evo Pro",
+      "PC-only",
+      "Smaller ecosystem than MOZA or Fanatec"
+    ],
+    "whoFor": "A PC enthusiast who wants near-flagship industrial feel and build at 18Nm without going full Simucube.",
+    "rating": {
+      "overall": 8.9,
+      "value": 7.5,
+      "build": 9.5,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "How does the Forte compare to Simucube?",
+        "a": "Reviewers find its FFB hard to tell apart from the Simucube 2 Ultimate while costing far less, though Simucube's ecosystem is broader."
+      },
+      {
+        "q": "What's special about the Asetek quick release?",
+        "a": "It blends Simucube-style mounting with integrated power and data through pogo pins, eliminating the trailing wheel cable."
+      }
+    ],
+    "affiliate": {
+      "primary": "Asetek direct / authorized retailers",
+      "note": "Sold via asetek.com and authorized sim-racing retailers; not an Amazon staple."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-r21",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R21",
+    "price": 899,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-r21.jpg",
+    "summary": "The MOZA R21 is the brand's flagship base at 21Nm, aimed at drivers who want maximum torque and detail within MOZA's value-driven ecosystem. It keeps the NexGen force-feedback algorithm, 21-bit encoder and wireless V2 wheel comms, while delivering more force than nearly anyone needs. Reviewers treat it as MOZA's no-compromise top base that still costs well under high-end Simucube and Asetek flagships. PC-only and demands a properly rigid rig.",
+    "specs": {
+      "Torque": "21 Nm",
+      "Drive": "Direct drive (NexGen)",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "21Nm flagship torque at a relative-bargain price",
+      "Full MOZA ecosystem and Pit House software",
+      "Wireless V2 wheel communication"
+    ],
+    "cons": [
+      "Far more torque than most drivers use",
+      "Demands a heavy-duty rig, not a stand",
+      "PC-only"
+    ],
+    "whoFor": "A torque-hungry PC enthusiast who wants flagship force inside MOZA's value ecosystem rather than a Simucube.",
+    "rating": {
+      "overall": 8.7,
+      "value": 8.5,
+      "build": 8.5,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Is 21Nm too much?",
+        "a": "For nearly everyone, yes; gains above 15Nm are about realism in heavy cars, not lap time. But the R21 prices that headroom aggressively."
+      },
+      {
+        "q": "What rig do I need?",
+        "a": "A rigid 4-bolt 8020 cockpit. 21Nm will overpower any clamp or lightweight stand."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-podium-dd",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Fanatec",
+    "model": "Podium DD",
+    "price": 1099,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-podium-dd.jpg",
+    "summary": "The Fanatec Podium DD is the brand's high-end base, delivering 25Nm of sustained torque (with higher peaks) and continuing the excellent feel of the ClubSport DD into the top class. Reviewers note it needs little damping, resists oscillation and reaches very high slew rates. Crucially for buyers, the Podium DD is PC-and-Xbox, not PS5, so PlayStation racers should choose the GT DD Pro instead. It plugs into Fanatec's full premium accessory ecosystem.",
+    "specs": {
+      "Torque": "25 Nm sustained (higher peak)",
+      "Drive": "Direct drive",
+      "Ecosystem": "Fanatec",
+      "Quick release": "Fanatec QR2",
+      "Software": "Fanatec App",
+      "Platforms": "PC / Xbox"
+    },
+    "pros": [
+      "25Nm high-end torque with refined, stable feel",
+      "Full Fanatec premium accessory ecosystem",
+      "Strong post-2025 warranty and returns"
+    ],
+    "cons": [
+      "Not PS5-compatible despite Fanatec's PlayStation reputation",
+      "QR2 lock-in on non-Fanatec rims",
+      "Needs a serious rig"
+    ],
+    "whoFor": "A PC or Xbox racer in the Fanatec ecosystem who wants high-end 25Nm torque and premium accessories.",
+    "rating": {
+      "overall": 8.8,
+      "value": 7.5,
+      "build": 9,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Does the Podium DD work on PS5?",
+        "a": "No. The Podium DD is PC and Xbox; for PlayStation direct drive choose the Fanatec GT DD Pro instead."
+      },
+      {
+        "q": "How much torque does it really make?",
+        "a": "Around 25Nm of sustained holding torque, with higher short peaks, putting it firmly in the high-end tier."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold primarily direct at fanatec.com."
+    },
+    "platforms": "PC / Xbox"
+  },
+  {
+    "id": "asetek-invicta",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Asetek",
+    "model": "Invicta",
+    "price": 1899,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/asetek-invicta.jpg",
+    "summary": "The Asetek Invicta is the flagship of Asetek SimSports, a 27Nm industrial-grade base with a 22-bit absolute encoder (over 4 million steps per revolution) and a blistering 9.4 Nm/ms slew rate for extremely fast, precise force changes. Reviewers say it offers the best raw FFB detail at its torque level and undercuts the Simucube 2 Ultimate significantly. Its pogo-pin quick release carries power and data, and the base serves as a multi-port USB hub. PC-only, high-end.",
+    "specs": {
+      "Torque": "27 Nm",
+      "Drive": "Direct drive",
+      "Ecosystem": "Asetek",
+      "Quick release": "Asetek QR (pogo-pin power + data)",
+      "Encoder": "22-bit absolute",
+      "Slew rate": "9.4 Nm/ms",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Best-in-class raw FFB detail at 27Nm",
+      "Very high slew rate for fast, precise force changes",
+      "Undercuts the Simucube 2 Ultimate on price"
+    ],
+    "cons": [
+      "Flagship price, overkill for most drivers",
+      "PC-only",
+      "Requires a heavy-duty rig"
+    ],
+    "whoFor": "A hardcore PC enthusiast or pro who wants flagship detail and torque with industrial build at below-Simucube-Ultimate pricing.",
+    "rating": {
+      "overall": 9.1,
+      "value": 8,
+      "build": 9.5,
+      "upgradeCeiling": 9.5,
+      "beginnerFriendly": 6.5
+    },
+    "faqs": [
+      {
+        "q": "How does the Invicta compare to Simucube's flagship?",
+        "a": "Reviewers rate its raw FFB detail at the top of the class while costing significantly less than the Simucube 2 Ultimate."
+      },
+      {
+        "q": "Do I need 27Nm?",
+        "a": "Almost no one does for lap time; it's a pro/enthusiast frontier where extra force is about ultimate realism and detail."
+      }
+    ],
+    "affiliate": {
+      "primary": "Asetek direct / authorized retailers",
+      "note": "Sold via asetek.com and authorized sim-racing retailers."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "simagic-evo-ultra",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Simagic",
+    "model": "Alpha Evo Ultra",
+    "price": 969,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-evo-ultra.jpg",
+    "summary": "The Simagic Alpha Evo Ultra is the 28Nm flagship of the Alpha Evo line and a 2025 benchmark for hardcore enthusiasts, pairing the highest torque in the range with the line's low-inertia servo, 21-bit encoder and open QR-A. Reviewers call 28Nm absolutely overkill for most racers but pitch the Ultra at serious enthusiasts who want maximum force at a price that dramatically undercuts Simucube and Asetek flagships. PC-only, and the standout torque-per-dollar option at the very top.",
+    "specs": {
+      "Torque": "28 Nm",
+      "Drive": "Direct drive (5-pole low-inertia servo)",
+      "Ecosystem": "Simagic",
+      "Quick release": "Simagic QR-A (third-party friendly)",
+      "Encoder": "21-bit",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "28Nm flagship torque at a fraction of Simucube/Asetek prices",
+      "Low-inertia servo keeps high force feeling clean",
+      "Open QR-A for third-party rims"
+    ],
+    "cons": [
+      "28Nm is overkill for the vast majority",
+      "PC-only",
+      "Demands a serious rig and careful FFB tuning"
+    ],
+    "whoFor": "A serious PC enthusiast who wants maximum torque-per-dollar at the very top of the range.",
+    "rating": {
+      "overall": 8.9,
+      "value": 9,
+      "build": 8.5,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 6.5
+    },
+    "faqs": [
+      {
+        "q": "Is 28Nm usable?",
+        "a": "Yes, but you'll run it well below max. The Ultra's appeal is headroom and detail, not running flat-out at 28Nm."
+      },
+      {
+        "q": "Why pick the Ultra over Simucube?",
+        "a": "Price. It delivers flagship torque for under $1,000 where Simucube and Asetek flagships cost far more, in exchange for a younger ecosystem."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-es",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "MOZA",
+    "model": "ES Wheel",
+    "price": 199,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-es.jpg",
+    "summary": "The MOZA ES is the brand's entry steering wheel, a compact 280mm aluminum-alloy rim with sweat-resistant PU grips, 22 buttons (including dual joysticks) and built-in shift LEDs. It is the rim most often bundled with MOZA's entry bases and is a budget-friendly do-everything wheel rather than a discipline-specialist. Reviewers treat it as a solid, button-rich starter that covers GT, formula and rally use, with a Formula mod available to extend its life as you grow.",
+    "specs": {
+      "Type": "Round/GT-style entry rim",
+      "Diameter": "280 mm",
+      "Material": "Aluminum-alloy rim, PU grips",
+      "Inputs": "22 buttons incl. dual joysticks",
+      "Ecosystem": "MOZA",
+      "Quick release": "MOZA QR"
+    },
+    "pros": [
+      "Generous 22-button layout for the price",
+      "Solid aluminum-alloy rim, not all plastic",
+      "Versatile across racing disciplines"
+    ],
+    "cons": [
+      "No dual-clutch paddles like higher MOZA rims",
+      "MOZA QR ties it to MOZA bases",
+      "Basic LEDs and display versus premium rims"
+    ],
+    "whoFor": "A MOZA starter who wants one button-rich, do-everything rim without paying for a GT or formula specialist.",
+    "rating": {
+      "overall": 7.8,
+      "value": 9,
+      "build": 7.5,
+      "upgradeCeiling": 6.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Is the ES wheel good for both GT and formula?",
+        "a": "Yes. Its compact round shape and button count make it a versatile all-rounder, and a Formula mod is available if you want a dedicated F-style rim."
+      },
+      {
+        "q": "Does it fit non-MOZA bases?",
+        "a": "It uses the MOZA quick release, so it's intended for MOZA bases."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon, often bundled with entry bases."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-rs-v2",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "MOZA",
+    "model": "RS V2 (round)",
+    "price": 249,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-rs-v2.jpg",
+    "summary": "The MOZA RS V2 is a 330mm (13-inch) round GT wheel matching real-world GT dimensions, built from forged carbon fiber and aluminum with genuine leather grips. It adds dual-clutch magnetic paddles, programmable buttons and a 10-LED RGB shift indicator over the entry ES, and connects wirelessly to MOZA's R9, R12, R16 and R21 bases. Reviewers regard it as a refined, premium-feeling round rim that hits the sweet spot of price and quality for serious GT and all-round racing.",
+    "specs": {
+      "Type": "Round GT wheel",
+      "Diameter": "330 mm (13 in)",
+      "Material": "Forged carbon fiber + aluminum, leather grips",
+      "Paddles": "Dual-clutch magnetic",
+      "Lighting": "10-LED RGB shift indicator",
+      "Quick release": "MOZA QR"
+    },
+    "pros": [
+      "Real-GT 330mm diameter with premium materials",
+      "Dual-clutch magnetic paddles and RGB shift LEDs",
+      "Wireless connection on R9/R12/R16/R21"
+    ],
+    "cons": [
+      "Round shape less ideal for pure formula racing",
+      "MOZA QR ties it to MOZA bases",
+      "Wireless link not available on the entry R5"
+    ],
+    "whoFor": "A MOZA racer who wants a premium real-size round GT wheel with dual clutch for versatile, mainly GT, racing.",
+    "rating": {
+      "overall": 8.4,
+      "value": 8.5,
+      "build": 8.5,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "RS V2 or ES wheel?",
+        "a": "The RS V2 adds real-GT sizing, carbon/leather build, dual-clutch paddles and RGB LEDs over the entry ES; it's the step-up round rim."
+      },
+      {
+        "q": "Which bases support it wirelessly?",
+        "a": "The R9, R12, R16 and R21 connect wirelessly; the entry R5 uses a wired slip-ring instead."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon, including R12 + RS V2 bundles."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-ks-gt",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "MOZA",
+    "model": "KS GT",
+    "price": 399,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-ks-gt.jpg",
+    "summary": "The MOZA KS GT is a 300mm butterfly-style GT wheel built from carbon-fiber-reinforced composite with TPE rubber grips and roughly 70 inputs, designed specifically for GT and touring-car racing. It uses Hall-sensor magnetic paddles with dual-clutch functionality and works across MOZA's non-wireless bases, plus third-party bases via an adapter. Reviewers position it as the higher-end GT specialist in MOZA's rim range, more focused and feature-rich than the all-round RS V2.",
+    "specs": {
+      "Type": "Butterfly-style GT wheel",
+      "Diameter": "300 mm",
+      "Material": "Carbon-fiber composite, TPE grips",
+      "Inputs": "~70",
+      "Paddles": "Hall-sensor magnetic, dual clutch",
+      "Quick release": "MOZA QR (third-party via adapter)"
+    },
+    "pros": [
+      "Purpose-built GT/touring geometry with ~70 inputs",
+      "Hall-sensor magnetic paddles with dual clutch",
+      "Works on third-party bases via adapter"
+    ],
+    "cons": [
+      "Butterfly shape less suited to formula or rally",
+      "Pricier than the RS V2",
+      "Best inputs/feel realized on MOZA bases"
+    ],
+    "whoFor": "A dedicated GT and touring-car racer who wants a feature-rich, purpose-built MOZA rim.",
+    "rating": {
+      "overall": 8.5,
+      "value": 8,
+      "build": 8.5,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "KS GT or RS V2?",
+        "a": "The KS GT is a GT/touring specialist with more inputs and butterfly geometry; the RS V2 is a versatile round all-rounder. Pick by discipline."
+      },
+      {
+        "q": "Can I use it on a non-MOZA base?",
+        "a": "Yes, via an adapter, though full functionality is best on MOZA bases."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-gt-wheel",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Fanatec",
+    "model": "GT Wheel",
+    "price": 279,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-gt-wheel.jpg",
+    "summary": "The Fanatec GT Wheel is a round GT-style rim in the Fanatec ecosystem, the kind of versatile all-rounder bundled with or paired to bases like the GT DD Pro. It offers a familiar Gran Turismo button layout, paddle shifters and the Fanatec QR2 quick release. Reviewers see Fanatec's GT-style rims as solid, console-friendly daily drivers with plenty of inputs, sitting below the carbon-and-Alcantara premium rims while covering GT, endurance and general racing well.",
+    "specs": {
+      "Type": "Round GT-style wheel",
+      "Material": "Composite rim with rubber/leather grip",
+      "Inputs": "Full GT button layout + paddles",
+      "Ecosystem": "Fanatec",
+      "Quick release": "Fanatec QR2",
+      "Platforms": "PC / console (per base license)"
+    },
+    "pros": [
+      "Versatile round GT shape for most disciplines",
+      "Familiar GT button layout with plenty of inputs",
+      "QR2 quick release into the Fanatec ecosystem"
+    ],
+    "cons": [
+      "Materials below premium carbon/Alcantara rims",
+      "QR2 ties it to Fanatec bases",
+      "Console functionality depends on the base's license"
+    ],
+    "whoFor": "A Fanatec racer who wants an affordable, versatile round GT rim for everyday GT and endurance racing.",
+    "rating": {
+      "overall": 8,
+      "value": 8.5,
+      "build": 8,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Will it work on console?",
+        "a": "Console compatibility follows the base it's mounted on, since the base carries the platform license in Fanatec's system."
+      },
+      {
+        "q": "Is a round GT wheel a good first rim?",
+        "a": "Yes. A round GT shape is the most versatile starting point, comfortable for GT, endurance and general racing."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold direct at fanatec.com, frequently as part of GT bundles."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "fanatec-mclaren",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Fanatec",
+    "model": "McLaren GT3 V2",
+    "price": 299,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-mclaren.jpg",
+    "summary": "The Fanatec McLaren GT3 V2 is a licensed GT3-replica rim that reviewers repeatedly call a standout-value primary GT wheel, light at around 1090g and surprisingly torsion-stiff despite plastic materials. The V2 keeps the loved ergonomics while improving shifter feel, rotary encoders and the quick release. It ships with a Lite QR (good to 8Nm) and can be upgraded to QR2 for stronger bases. Reviewers consistently flag it as one of the best budget GT wheels available.",
+    "specs": {
+      "Type": "GT3-replica round wheel",
+      "Weight": "approx 1090 g (with Lite QR)",
+      "Material": "High-quality plastic, torsion-stiff",
+      "Paddles": "Magnetic shifters",
+      "Quick release": "QR1 Lite (to 8Nm), QR2 upgradeable",
+      "Platforms": "PC / Xbox (game-dependent)"
+    },
+    "pros": [
+      "Excellent value primary GT wheel",
+      "Light and torsion-stiff despite plastic build",
+      "Improved V2 shifters and encoders"
+    ],
+    "cons": [
+      "Included Lite QR is rated only to 8Nm (upgrade for stronger bases)",
+      "Plastic grips feel less premium than carbon/Alcantara rims",
+      "Fanatec QR ties it to Fanatec bases"
+    ],
+    "whoFor": "A Fanatec racer who wants a great-value, GT3-authentic primary wheel and is fine upgrading the QR for a stronger base.",
+    "rating": {
+      "overall": 8.5,
+      "value": 9.5,
+      "build": 8,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Can I use it on a strong DD base?",
+        "a": "Yes, but the included QR1 Lite is rated to 8Nm; swap in a Fanatec QR2 to safely run it on higher-torque bases."
+      },
+      {
+        "q": "Is the plastic build a problem?",
+        "a": "Reviewers find it surprisingly stiff and high-quality feeling for the price, making it a strong value primary wheel."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold direct at fanatec.com (CSL Elite / McLaren GT3 V2 line)."
+    },
+    "platforms": "PC / Xbox"
+  },
+  {
+    "id": "simagic-gt1",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Simagic",
+    "model": "GT1-D",
+    "price": 299,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-gt1.jpg",
+    "summary": "The Simagic GT1-D is a D-shaped (flat-bottom) GT racing wheel around 300-325mm, offered in perforated leather or Alcantara, with integrated buttons, dual rotary encoders, a multi-position shifter and a light switch. The flat-bottom design improves leg clearance, making it well suited to GT and touring-car racing. Reviewers regard it as a clean, well-built GT rim that pairs naturally with Simagic Alpha bases and, via the QR-A, can extend to compatible third-party setups.",
+    "specs": {
+      "Type": "D-shape (flat-bottom) GT wheel",
+      "Diameter": "approx 300-325 mm",
+      "Material": "Leather or Alcantara wrap",
+      "Inputs": "Buttons, 2 rotary encoders, multi-position shifter",
+      "Ecosystem": "Simagic",
+      "Quick release": "Simagic QR-A"
+    },
+    "pros": [
+      "Flat-bottom design improves leg clearance",
+      "Choice of leather or Alcantara finish",
+      "Good control set for a sub-$300 GT rim"
+    ],
+    "cons": [
+      "D-shape less suited to pure formula racing",
+      "Best paired with Simagic bases",
+      "Fewer inputs than higher-end GT wheels"
+    ],
+    "whoFor": "A Simagic racer who wants a comfortable, well-finished D-shaped GT wheel for GT and touring cars.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8.5,
+      "build": 8.5,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Why a D-shaped wheel?",
+        "a": "The flat bottom improves leg clearance and mirrors many real GT and touring-car wheels, aiding comfort and authenticity."
+      },
+      {
+        "q": "Can I use it on a third-party base?",
+        "a": "It uses the Simagic QR-A, which is designed to be third-party-friendly, though it's natively matched to Simagic Alpha bases."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers (Simline, Direct Drive Italia, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-rs-wheel",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Logitech",
+    "model": "G PRO Wheel (round)",
+    "price": 0,
+    "priceNote": "included with the G PRO base",
+    "image": "/images/gear/racing/logitech-rs-wheel.jpg",
+    "summary": "The round G Pro wheel is the rim included with the Logitech G Pro Racing Wheel base, so it carries no separate price. It features the extensively tested PRO 'thumbsweep' button layout, magnetic gear-shift paddles and dual clutch paddles, and an OLED display, built to Logitech's high finish standard. Reviewers praise its ergonomics and build as part of a near-perfect console-capable package; it uses the Logitech RS quick release, with an official adapter now enabling some third-party rims.",
+    "specs": {
+      "Type": "Round wheel (included with base)",
+      "Inputs": "PRO thumbsweep layout, OLED display",
+      "Paddles": "Magnetic shift + dual clutch",
+      "Ecosystem": "Logitech",
+      "Quick release": "Logitech RS",
+      "Platforms": "PC / PS5 / Xbox (per base SKU)"
+    },
+    "pros": [
+      "Comes free with the G Pro base",
+      "Refined PRO button layout with OLED and dual clutch",
+      "Excellent Logitech build quality"
+    ],
+    "cons": [
+      "Not sold separately, tied to the G Pro package",
+      "Logitech RS QR historically closed (adapter now helps)",
+      "Round-only shape, no formula variant in the box"
+    ],
+    "whoFor": "A G Pro buyer who gets a refined, console-capable round rim as part of the bundle.",
+    "rating": {
+      "overall": 8.3,
+      "value": 9,
+      "build": 9,
+      "upgradeCeiling": 6.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Can I buy this wheel on its own?",
+        "a": "It's included with the G Pro Racing Wheel base rather than sold as a standalone rim, which is why it carries no separate price."
+      },
+      {
+        "q": "Can I fit other rims to the G Pro base?",
+        "a": "Logitech's official RS quick-release adapter now allows some third-party rims, loosening the historic closed-bundle limitation."
+      }
+    ],
+    "affiliate": {
+      "primary": "Logitech G direct / Amazon",
+      "note": "Comes with the G Pro Racing Wheel sold on Amazon, Best Buy and logitechg.com."
+    },
+    "platforms": "PC / PS5 / Xbox"
+  },
+  {
+    "id": "cube-gt",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Cube Controls",
+    "model": "GT Pro",
+    "price": 649,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/cube-gt.jpg",
+    "summary": "The Cube Controls GT Pro is a premium Italian-made GT wheel with a signature flat-top design, machined aluminum and carbon-fiber construction and R-Spec machined aluminum shifters, around 298mm diameter. It connects to PC over Bluetooth with near-zero input lag like any wireless device, and uses a universal 70mm bolt pattern that fits most quick releases across brands. Reviewers regard Cube Controls rims as enthusiast-grade hardware prized for build quality and shifter feel rather than budget value.",
+    "specs": {
+      "Type": "Flat-top premium GT wheel",
+      "Diameter": "298 mm",
+      "Material": "Carbon fiber + machined aluminum",
+      "Paddles": "R-Spec machined aluminum shifters",
+      "Connectivity": "Bluetooth (PC)",
+      "Mounting": "Universal 70mm bolt pattern"
+    },
+    "pros": [
+      "Premium carbon and machined-aluminum build",
+      "Excellent R-Spec aluminum shifter feel",
+      "Universal 70mm pattern fits most QRs cross-brand"
+    ],
+    "cons": [
+      "Premium price for a GT rim",
+      "Bluetooth PC connection (you supply the QR)",
+      "No bundled console support"
+    ],
+    "whoFor": "An enthusiast who wants a premium, cross-brand 70mm GT wheel with top-tier build and shifters.",
+    "rating": {
+      "overall": 8.7,
+      "value": 7.5,
+      "build": 9.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "What base does the Cube GT Pro fit?",
+        "a": "It uses a universal 70mm bolt pattern, so it mounts to most brands' quick releases, you supply the matching QR for your base."
+      },
+      {
+        "q": "How does it connect?",
+        "a": "It pairs to a PC over Bluetooth with near-zero input lag, like any standard Bluetooth device."
+      }
+    ],
+    "affiliate": {
+      "primary": "Cube Controls direct / authorized retailers",
+      "note": "Sold via cubecontrols.com and authorized retailers (Pagnian, Cool Performance, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "ascher-formula",
+    "bay": "racing",
+    "type": "wheel",
+    "brand": "Ascher Racing",
+    "model": "F28-SC",
+    "price": 729,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/ascher-formula.jpg",
+    "summary": "The Ascher Racing F28-SC is a 285mm closed-shape formula wheel machined from automotive aluminum, designed to transmit a direct-drive base's forces with what reviewers describe as almost surgical precision. The V2 refines grip ergonomics with a slightly larger upper diameter and thinner lower section, and it runs wireless on a long-life lithium cell (2-3 years). It uses a universal 70mm mounting pattern, making it a premium formula rim that works across many ecosystems.",
+    "specs": {
+      "Type": "Formula (closed) wheel",
+      "Diameter": "285 mm",
+      "Material": "Machined automotive aluminum",
+      "Grips": "Motorsport rubber",
+      "Connectivity": "Wireless (lithium cell, 2-3 yr life)",
+      "Mounting": "Universal 70mm bolt pattern"
+    },
+    "pros": [
+      "Surgical precision and authentic formula feel",
+      "Machined aluminum motorsport-grade build",
+      "Universal 70mm pattern fits many bases"
+    ],
+    "cons": [
+      "Formula shape only, not ideal for GT",
+      "Premium price",
+      "You supply the matching QR for your base"
+    ],
+    "whoFor": "A formula and open-wheel specialist who wants a premium, cross-brand 70mm aluminum F-wheel.",
+    "rating": {
+      "overall": 8.8,
+      "value": 7.5,
+      "build": 9.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 6.5
+    },
+    "faqs": [
+      {
+        "q": "Is the F28-SC only for formula cars?",
+        "a": "Its closed formula shape is built for open-wheel and formula racing; GT drivers are usually better served by a round or D-shape rim."
+      },
+      {
+        "q": "Which bases does it fit?",
+        "a": "It uses a universal 70mm bolt pattern, so it works across many ecosystems with the appropriate quick release."
+      }
+    ],
+    "affiliate": {
+      "primary": "Ascher Racing direct / authorized retailers",
+      "note": "Sold via ascher-racing.com and authorized retailers (CLP, MRP, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-srp-lite",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "MOZA",
+    "model": "SR-P Lite",
+    "price": 129,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-srp-lite.jpg",
+    "summary": "The MOZA SR-P Lite is the brand's budget pedal set, a spring-based two-pedal unit (no load cell) that ships with entry MOZA bundles and connects via USB. It is the affordable starting point that gets new racers driving, and MOZA positions a load-cell brake module as a later add-on. Reviewers treat it as a competent entry set whose main limitation is the travel-based, non-load-cell brake, the first thing most racers upgrade for consistent braking.",
+    "specs": {
+      "Pedals": "2 (throttle + brake)",
+      "Brake type": "Spring/potentiometer (no load cell)",
+      "Connection": "USB",
+      "Ecosystem": "MOZA",
+      "Construction": "Steel/composite",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Affordable entry into MOZA pedals",
+      "Plug-and-play USB connection",
+      "Fine for getting started and casual racing"
+    ],
+    "cons": [
+      "No load cell, travel-based braking is less consistent",
+      "Two-pedal only, no clutch",
+      "First thing most racers upgrade"
+    ],
+    "whoFor": "A budget newcomer who needs working pedals now and will add a load-cell set later.",
+    "rating": {
+      "overall": 6.8,
+      "value": 8,
+      "build": 6.5,
+      "upgradeCeiling": 5.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Do I need a load cell?",
+        "a": "Not to start, but a load-cell brake senses pressure rather than travel and is the single biggest consistency upgrade most racers make."
+      },
+      {
+        "q": "Can I add a clutch?",
+        "a": "The SR-P Lite is a two-pedal set; for a clutch you'd move to a three-pedal load-cell set like the MOZA CRP2."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon, often bundled with entry bases."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-csl-lc",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "Fanatec",
+    "model": "CSL Pedals LC",
+    "price": 249,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-csl-lc.jpg",
+    "summary": "The Fanatec CSL Pedals with Load Cell are a popular mid-range set: a base two-pedal kit plus the Load Cell Kit, delivering a well-tuned brake with a spring-and-elastomer stack that takes up slack for trail braking and picks up firm braking force. Reviewers praise the configurable brake feel for the money. They connect through a Fanatec base rather than standalone USB, and pedals are individually mounted to a heel plate rather than a shared baseplate.",
+    "specs": {
+      "Pedals": "2 (expandable to 3) with load-cell brake",
+      "Brake type": "Load cell with spring + elastomer stack",
+      "Connection": "Via Fanatec base",
+      "Ecosystem": "Fanatec",
+      "Adjustability": "Configurable brake stiffness",
+      "Platforms": "PC / console (per base)"
+    },
+    "pros": [
+      "Well-tuned, configurable load-cell brake feel",
+      "Strong value within the Fanatec ecosystem",
+      "Expandable to a third (clutch) pedal"
+    ],
+    "cons": [
+      "Connects through a Fanatec base, not standalone USB",
+      "No shared baseplate (pedals mount to a heel plate)",
+      "Load Cell Kit is a separate add-on cost"
+    ],
+    "whoFor": "A Fanatec racer who wants a configurable load-cell brake without stepping up to standalone premium pedals.",
+    "rating": {
+      "overall": 8.3,
+      "value": 8.5,
+      "build": 8,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Do the CSL LC pedals work without a Fanatec base?",
+        "a": "No. Unlike many USB pedal sets, they connect through a Fanatec wheel base rather than directly to the PC."
+      },
+      {
+        "q": "Is the load-cell brake good?",
+        "a": "Yes. Reviewers like its spring-and-elastomer stack for trail braking, and the brake stiffness is configurable."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold direct at fanatec.com as the CSL Pedals plus Load Cell Kit."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "moza-crp2",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "MOZA",
+    "model": "CRP2",
+    "price": 300,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-crp2.jpg",
+    "summary": "The MOZA CRP2 is MOZA's flagship pedal set and a frequently cited budget-to-mid load-cell set to beat: a cast-aluminum, high-strength-steel construction with a 200kg load-cell brake paired to a 15-bit angle sensor and a customizable hydraulic damper (125 combinations). Crucially it connects via standalone USB and is brand-agnostic, so it pairs with any base. Reviewers rate it as premium-feeling load-cell hardware at a price well below boutique sets.",
+    "specs": {
+      "Pedals": "3 (load-cell brake)",
+      "Brake type": "200 kg load cell + 15-bit angle sensor",
+      "Damper": "Hydraulic, 125 adjustment combos",
+      "Connection": "USB (brand-agnostic)",
+      "Construction": "CNC aluminum + steel",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "200kg load cell with fine 15-bit sensor",
+      "Highly adjustable hydraulic damper",
+      "Standalone USB works with any base"
+    ],
+    "cons": [
+      "Pricier than entry two-pedal sets",
+      "Not as configurable as full hydraulic sets like the P2000",
+      "PC-focused"
+    ],
+    "whoFor": "A racer on any base who wants a premium-feeling, highly adjustable three-pedal load-cell set without boutique pricing.",
+    "rating": {
+      "overall": 8.6,
+      "value": 9,
+      "build": 9,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Does the CRP2 only work with MOZA bases?",
+        "a": "No. It connects via standalone USB and is brand-agnostic, so it pairs with any wheelbase or PC."
+      },
+      {
+        "q": "How strong is the brake?",
+        "a": "It uses a 200kg load cell, more than most sets (typically 100-180kg), with an adjustable hydraulic damper for feel."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "simagic-p2000",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "Simagic",
+    "model": "P2000",
+    "price": 499,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/simagic-p2000.jpg",
+    "summary": "The Simagic P2000 is a premium pedal set that combines a full hydraulic brake with a load cell (100kg or 200kg, depending on the S100/S200/L200 variant), so braking is controlled by pressure for repeatable performance while the hydraulics replicate a real race-car pedal feel. The multi-stage clutch takes optional springs and the throttle is fully adjustable for damping, stroke and pressure. Reviewers rate it among the best load-cell-plus-hydraulic sets they have tested, all on CNC-machined parts.",
+    "specs": {
+      "Pedals": "2-3 (hydraulic + load-cell brake)",
+      "Brake type": "Full hydraulic brake with load cell (100/200 kg)",
+      "Clutch": "Multi-stage, optional springs",
+      "Connection": "USB (brand-agnostic)",
+      "Construction": "CNC machined",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Hydraulic-plus-load-cell brake with real-car feel",
+      "Highly adjustable throttle, clutch and brake",
+      "Standalone USB works with any base"
+    ],
+    "cons": [
+      "Pricier than load-cell-only sets",
+      "Hydraulics add some maintenance over pure load cell",
+      "PC-focused"
+    ],
+    "whoFor": "A serious racer who wants progressive hydraulic brake feel with load-cell consistency on any base.",
+    "rating": {
+      "overall": 8.8,
+      "value": 8.5,
+      "build": 9,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Is the P2000 load cell or hydraulic?",
+        "a": "Both. The brake is fully hydraulic and fitted with a load cell, combining real-car feel with pressure-based, repeatable braking."
+      },
+      {
+        "q": "Does it work with non-Simagic bases?",
+        "a": "Yes. The P2000 connects via standalone USB and is brand-agnostic."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simagic direct / authorized retailers",
+      "note": "Sold via Simagic and authorized sim-racing retailers (Sim Motion, SimHub.pro, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "heusinkveld-sprint",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "Heusinkveld",
+    "model": "Sprint",
+    "price": 669,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/heusinkveld-sprint.jpg",
+    "summary": "The Heusinkveld Sim Pedals Sprint are widely regarded as among the best professional load-cell pedals available, with a 120kg-rated brake load cell (about 65kg of usable force) tuned via progressive elastomers and hydraulic damping, all configured in the praised SmartControl software. Every pedal uses a load cell, making them more robust than rivals that load-cell only the brake. They connect via standalone USB, work with any base, and reviewers consider their value, while not cheap, essentially unbeatable.",
+    "specs": {
+      "Pedals": "2 or 3 (all load cell)",
+      "Brake load cell": "120 kg rated (~65 kg usable)",
+      "Brake feel": "Progressive elastomers + hydraulic damping",
+      "Software": "SmartControl",
+      "Connection": "USB (brand-agnostic)",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Reference-class professional brake feel",
+      "Load cell on every pedal, very robust",
+      "SmartControl gives precise calibration"
+    ],
+    "cons": [
+      "Expensive, especially the 3-pedal version",
+      "Bare-steel motorsport look isn't for everyone",
+      "PC-focused"
+    ],
+    "whoFor": "A serious or competitive racer who wants benchmark load-cell pedals and will keep them across base upgrades.",
+    "rating": {
+      "overall": 9,
+      "value": 8,
+      "build": 9.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "How strong is the brake?",
+        "a": "The load cell is rated at 120kg, equating to roughly 65kg of usable braking force, fully adjustable in SmartControl software."
+      },
+      {
+        "q": "Are these worth it over a $300 set?",
+        "a": "For competitive racers, the consistency, build and tuning justify the premium; casual racers are well served by cheaper load-cell sets."
+      }
+    ],
+    "affiliate": {
+      "primary": "Heusinkveld direct / authorized retailers",
+      "note": "Sold via heusinkveld.com and authorized sim-racing retailers (Simline, Digital-Motorsports, etc.)."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "asetek-invicta-pedals",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "Asetek",
+    "model": "Invicta Pedals",
+    "price": 1200,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/asetek-invicta-pedals.jpg",
+    "summary": "The Asetek Invicta Pedals are a top-tier hydraulic load-cell set, the pedal counterpart to Asetek's flagship base, built to industrial standards with an elaborately engineered clutch and a true hydraulic brake for progressive, real-car feel. Reviewers treat them as a high-end alternative to Heusinkveld and Simagic's best, prized for hydraulic realism and build quality. They connect via standalone USB and work with any base, sitting at the aspirational end of the pedal market below only active pedals.",
+    "specs": {
+      "Pedals": "2-3 (hydraulic load-cell brake)",
+      "Brake type": "Hydraulic with load cell",
+      "Clutch": "Elaborate adjustable clutch (optional)",
+      "Connection": "USB (brand-agnostic)",
+      "Construction": "Industrial-grade aluminum",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Industrial build with true hydraulic brake feel",
+      "Sophisticated, highly adjustable clutch",
+      "Standalone USB works with any base"
+    ],
+    "cons": [
+      "Very expensive",
+      "Hydraulics add maintenance",
+      "Overkill for casual racers"
+    ],
+    "whoFor": "A high-end enthusiast who wants flagship hydraulic pedal realism and build, often paired with an Asetek base.",
+    "rating": {
+      "overall": 9,
+      "value": 7.5,
+      "build": 9.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 6.5
+    },
+    "faqs": [
+      {
+        "q": "How do they compare to Heusinkveld or Simagic?",
+        "a": "They sit in the same premium hydraulic/load-cell tier, prized for hydraulic realism and industrial build; choice often comes down to feel preference and ecosystem."
+      },
+      {
+        "q": "Do I need an Asetek base to use them?",
+        "a": "No. They connect via standalone USB and work with any wheelbase."
+      }
+    ],
+    "affiliate": {
+      "primary": "Asetek direct / authorized retailers",
+      "note": "Sold via asetek.com and authorized sim-racing retailers."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "desk-clamp",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Generic",
+    "model": "Desk Clamp",
+    "price": 0,
+    "priceNote": "typically included with entry bases",
+    "image": "/images/gear/racing/desk-clamp.jpg",
+    "summary": "The generic desk clamp is the no-cost mounting solution included with most entry direct-drive bases, fixing the base and pedals to a sturdy desk or table. It works fine for low-torque entry bases (roughly up to 9Nm on a solid desk) but will flex, creak or even pull loose under stronger force feedback. Reviewers and the community universally advise that anything 8-9Nm and above wants a dedicated wheel stand or 8020 rig rather than a clamp.",
+    "specs": {
+      "Type": "Desk/table clamp mount",
+      "Fits": "Clamp-compatible entry bases",
+      "Max torque (practical)": "approx 9 Nm",
+      "Cost": "Usually free with base",
+      "Surface": "Requires sturdy desk",
+      "Platforms": "n/a"
+    },
+    "pros": [
+      "Free with most entry bases",
+      "No floor space or rig required",
+      "Fine for low-torque DD on a solid desk"
+    ],
+    "cons": [
+      "Flexes or pulls loose above ~9Nm",
+      "Depends entirely on desk rigidity",
+      "Not viable for mid or high-end bases"
+    ],
+    "whoFor": "An entry-base owner with a sturdy desk and no room or budget for a stand or rig yet.",
+    "rating": {
+      "overall": 6,
+      "value": 9,
+      "build": 5.5,
+      "upgradeCeiling": 3,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Will a desk clamp hold a direct-drive base?",
+        "a": "Low-torque entry bases on a sturdy desk, yes. Anything around 8-9Nm or more will flex or rip a cheap desk; use a stand or rig instead."
+      },
+      {
+        "q": "When should I upgrade off the clamp?",
+        "a": "As soon as you move to a mid-tier base (R12, Alpha Evo, ClubSport DD and up), step up to a wheel stand or 8020 cockpit."
+      }
+    ],
+    "affiliate": {
+      "primary": "Included with base",
+      "note": "Comes free with most entry bases; generic clamps are also widely sold on Amazon."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "trak-racer-tr80",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Trak Racer",
+    "model": "TR80",
+    "price": 499,
+    "priceNote": "approx 2026 street price (frame only)",
+    "image": "/images/gear/racing/trak-racer-tr80.jpg",
+    "summary": "The Trak Racer TR80 is widely called the best-value aluminum-profile rig, bringing 80mm x 40mm T-slot extrusion to roughly the $500 frame-only price point. The thick 80mm profile is far more rigid than the 40mm profile of cheaper 8020 rigs, letting it carry a Simucube 2 Sport (17Nm) or even a Pro (25Nm) with no perceptible flex at the wheel mount. Reviewers consider it the entry to genuinely future-proof rigs, with the seat typically sold separately.",
+    "specs": {
+      "Type": "8020 aluminum-profile rig",
+      "Profile": "80 x 40 mm T-slot extrusion",
+      "Max torque (practical)": "25 Nm+ (handles flagship DD)",
+      "Mounting": "4-bolt",
+      "Seat": "Sold separately",
+      "Platforms": "n/a"
+    },
+    "pros": [
+      "80mm profile is very rigid at a ~$500 price",
+      "Holds flagship DD bases without flex",
+      "Future-proof across base and pedal upgrades"
+    ],
+    "cons": [
+      "Frame only, seat costs extra",
+      "Takes floor space and assembly time",
+      "Overkill for a low-torque entry base"
+    ],
+    "whoFor": "A buyer stepping into mid or high-torque DD who wants the best-value rigid 8020 rig.",
+    "rating": {
+      "overall": 8.7,
+      "value": 9.5,
+      "build": 9,
+      "upgradeCeiling": 9.5,
+      "beginnerFriendly": 7.5
+    },
+    "faqs": [
+      {
+        "q": "Can the TR80 handle a strong DD base?",
+        "a": "Yes. Its 80mm profile carries a 17Nm Simucube 2 Sport or 25Nm Pro with no perceptible flex at the wheel mount."
+      },
+      {
+        "q": "Does it include a seat?",
+        "a": "No. The TR80 is typically sold as a frame; you add a seat separately."
+      }
+    ],
+    "affiliate": {
+      "primary": "Trak Racer direct / authorized retailers",
+      "note": "Sold via trakracer.com and authorized sim-racing retailers."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "gt-omega-apex",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "GT Omega",
+    "model": "Apex Cockpit",
+    "price": 389,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/gt-omega-apex.jpg",
+    "summary": "The GT Omega Apex is an affordable entry rigid cockpit, around $389-449, that positions itself as the step up from a wheel stand into a proper seated rig. Reviewers describe it as a steel-tube construction (not 8020 aluminum profile) that includes a seat and handles belt-drive and lower-torque direct-drive wheels well. It is a strong value for newcomers who want a complete bolt-down cockpit, while heavy direct-drive racers will eventually want a stiffer aluminum-profile rig.",
+    "specs": {
+      "Type": "Entry rigid cockpit (steel tube)",
+      "Construction": "Steel tube (not 8020)",
+      "Max torque (practical)": "lower-torque DD comfortably",
+      "Mounting": "4-bolt",
+      "Seat": "Included",
+      "Platforms": "n/a"
+    },
+    "pros": [
+      "Complete cockpit with seat at an affordable price",
+      "Big rigidity jump over a wheel stand",
+      "Good for belt-drive and lower-torque DD"
+    ],
+    "cons": [
+      "Steel tube less rigid than 8020 at high torque",
+      "Less modular than aluminum-profile rigs",
+      "Heavy DD racers may outgrow it"
+    ],
+    "whoFor": "A newcomer who wants a complete, affordable seated cockpit and isn't running a high-torque flagship base.",
+    "rating": {
+      "overall": 8,
+      "value": 8.5,
+      "build": 8,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Is the Apex aluminum profile?",
+        "a": "No. It's a steel-tube cockpit, which is plenty rigid for belt and lower-torque DD but less stiff than an 8020 rig under flagship torque."
+      },
+      {
+        "q": "Does it come with a seat?",
+        "a": "Yes. Unlike frame-only 8020 rigs, the Apex includes a seat, making it a complete cockpit out of the box."
+      }
+    ],
+    "affiliate": {
+      "primary": "GT Omega direct",
+      "note": "Sold via gtomega.com / gtomega.eu."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "nlr-gt-track",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Next Level",
+    "model": "GT Track",
+    "price": 699,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/nlr-gt-track.jpg",
+    "summary": "The Next Level Racing GT Track is a rigid, feature-packed cockpit that supports direct-drive wheels and professional pedal sets, with broad compatibility for Thrustmaster, Logitech and Fanatec gear. It includes gear-shift and handbrake mounts, a Buttkicker adapter, a racing harness and lockable feet, and is expandable to NLR's Motion Platform V3. Reviewers note tidy packaging and a roughly two-hour assembly. It is a well-rounded mid-tier cockpit, sturdier than a wheel stand though not full 8020 extrusion.",
+    "specs": {
+      "Type": "Rigid cockpit",
+      "Construction": "Steel/hybrid (not full 8020)",
+      "Max torque (practical)": "direct-drive capable",
+      "Mounting": "4-bolt with shifter/handbrake mounts",
+      "Extras": "Buttkicker adapter, harness, motion-upgrade ready",
+      "Platforms": "n/a"
+    },
+    "pros": [
+      "Direct-drive capable with broad brand compatibility",
+      "Shifter, handbrake and Buttkicker mounts included",
+      "Expandable to NLR Motion Platform V3"
+    ],
+    "cons": [
+      "Not full 8020 aluminum profile",
+      "Pricier than entry steel cockpits",
+      "Around two-hour assembly"
+    ],
+    "whoFor": "A racer who wants a feature-rich, motion-upgradeable cockpit that supports DD and pro pedals out of the box.",
+    "rating": {
+      "overall": 8.3,
+      "value": 8,
+      "build": 8.5,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Does the GT Track support direct drive?",
+        "a": "Yes. It's a rigid cockpit built to support direct-drive wheels and professional pedal sets across major brands."
+      },
+      {
+        "q": "Can I add motion later?",
+        "a": "Yes. It's expandable to the Next Level Racing Motion Platform V3 and Traction Plus platform."
+      }
+    ],
+    "affiliate": {
+      "primary": "Next Level Racing direct / Amazon",
+      "note": "Sold via nextlevelracing.com, Amazon and major retailers."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "sim-lab-p1x",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Sim-Lab",
+    "model": "P1-X Pro",
+    "price": 829,
+    "priceNote": "approx 2026 street price (frame)",
+    "image": "/images/gear/racing/sim-lab-p1x.jpg",
+    "summary": "The Sim-Lab P1-X Pro is one of the most recommended high-end 8020 aluminum-profile rigs, a 2024 redesign of the popular P1-X that improved sturdiness and adjustability across the board. Reviewers regard it as among the most rigid and customizable rigs available, comfortably carrying any flagship direct-drive base without flex and serving as a buy-once foundation. It is a frame system you build out with seat and brackets, aimed at serious sim racers who want maximum stability and future-proofing.",
+    "specs": {
+      "Type": "8020 aluminum-profile rig",
+      "Profile": "Aluminum extrusion (heavy-duty)",
+      "Max torque (practical)": "any flagship DD without flex",
+      "Mounting": "4-bolt, highly adjustable",
+      "Seat": "Sold separately / configurable",
+      "Platforms": "n/a"
+    },
+    "pros": [
+      "Among the most rigid and adjustable rigs available",
+      "Handles any flagship DD base without flex",
+      "Buy-once, future-proof foundation"
+    ],
+    "cons": [
+      "Frame system, seat and extras add cost",
+      "Significant floor space and assembly",
+      "Overkill for low-torque entry bases"
+    ],
+    "whoFor": "A serious sim racer who wants a maximally rigid, endlessly adjustable 8020 rig to keep across every future upgrade.",
+    "rating": {
+      "overall": 9,
+      "value": 8.5,
+      "build": 9.5,
+      "upgradeCeiling": 9.5,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Is the P1-X Pro worth it over a steel cockpit?",
+        "a": "For high-torque DD and long-term ownership, yes, its 8020 rigidity and adjustability mean you keep it across every base and pedal upgrade."
+      },
+      {
+        "q": "Does it include a seat?",
+        "a": "It's a configurable frame system; the seat and many brackets are selected and priced separately."
+      }
+    ],
+    "affiliate": {
+      "primary": "Sim-Lab direct / authorized retailers",
+      "note": "Sold via sim-lab.eu and authorized sim-racing retailers."
+    },
+    "platforms": "PC / console"
+  }
+]

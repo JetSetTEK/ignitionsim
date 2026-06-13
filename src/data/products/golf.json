@@ -1,0 +1,668 @@
+[
+  {
+    "id": "garmin-approach-r10",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Garmin",
+    "model": "Approach R10",
+    "price": 600,
+    "priceNote": "approx 2026 street price (often discounted to ~$400-500)",
+    "image": "/images/gear/golf/garmin-approach-r10.jpg",
+    "summary": "The default sub-$1,000 entry point: a pocket-sized Doppler radar unit that reads roughly 16 launch and club metrics and connects to GSPro or E6 for full sim play. As a radar unit it wants several feet of depth behind you to read full ball flight, so it's happier in a deeper room or outdoors than crammed against a back wall. Accuracy is good rather than great, and the optional Garmin Golf subscription unlocks 42,000+ courses for on-device practice. It delivers most of what a five-figure unit does at a fraction of the price, which is exactly why it's still the value benchmark in 2026.",
+    "specs": {
+      "Tech": "Doppler radar (3-receiver)",
+      "Data points": "~16 ball and club metrics",
+      "Placement": "Behind the ball; needs room depth",
+      "Subscription": "None required; Garmin Golf ~$10/mo or ~$100/yr for course library",
+      "Connectivity": "Bluetooth/Wi-Fi to phone, GSPro and E6 Connect",
+      "Battery": "Up to 10 hours, IPX7"
+    },
+    "pros": [
+      "Cheapest credible path into a real, sim-capable launch monitor",
+      "Truly portable indoor/outdoor and dead-simple to set up",
+      "Connects to GSPro and E6 for full simulator play"
+    ],
+    "cons": [
+      "Radar needs depth behind the player, so it struggles in shallow rooms",
+      "Less precise than photometric units, especially on spin",
+      "Full course library and best features lean on the Garmin subscription"
+    ],
+    "whoFor": "Budget-minded golfers who want real data and entry-level sim play and have room depth behind the hitting area.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 7, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "Does the Garmin R10 need a subscription?", "a": "No subscription is required to read shot data, but the Garmin Golf membership (about $10/month or $100/year) unlocks the 42,000+ course library and full Home Tee Hero virtual rounds." },
+      { "q": "Can the R10 run a real golf simulator?", "a": "Yes. It connects to GSPro and E6 Connect for full simulation, though as a radar unit it wants several feet of space behind you to read ball flight accurately." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also widely sold at Amazon, PlayBetter, Garmin" },
+    "platforms": "PC / iOS / Android (Garmin Golf app on-device; GSPro and E6 via PC/iPad)"
+  },
+  {
+    "id": "garmin-approach-r50",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Garmin",
+    "model": "Approach R50",
+    "price": 4999,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/golf/garmin-approach-r50.jpg",
+    "summary": "Garmin's priciest consumer launch monitor folds a 3-camera sensor, a 10-inch touchscreen, and a full built-in simulator into one self-contained box. It is the only consumer unit that runs a complete sim with no separate PC, tablet, or phone, launching a round through Home Tee Hero in under a minute. As an overhead-leaning camera system it wants 9-10 feet of ceiling, and reviewers found ball data strong (within roughly 4% of premium units) but club data inconsistent shot to shot. You are paying a real premium for all-in-one convenience rather than a leap in raw accuracy.",
+    "specs": {
+      "Tech": "Photometric, 3 high-speed cameras",
+      "Data points": "15+ ball and club metrics",
+      "Subscription": "None for built-in sim; Home Tee Hero with 43,000+ courses included",
+      "Placement": "Overhead/elevated; needs 9-10 ft ceiling",
+      "Display": "Built-in 10-inch touchscreen",
+      "Sim": "Full on-device simulator, no external PC required"
+    },
+    "pros": [
+      "Only consumer LM with a complete built-in simulator and no PC needed",
+      "Fastest setup on the market; hitting in under a minute",
+      "Strong ball-data accuracy and a huge included course library"
+    ],
+    "cons": [
+      "$5,000 is the most expensive consumer launch monitor",
+      "Club data was hit-and-miss in hands-on reviews",
+      "Needs 9-10 ft of ceiling clearance for the camera throw"
+    ],
+    "whoFor": "Buyers who will pay a premium for a no-PC, turnkey all-in-one sim and have the ceiling height for it.",
+    "rating": { "overall": 8, "value": 6, "accuracy": 8, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "Does the Garmin R50 need a separate PC?", "a": "No. The R50 is the only consumer launch monitor with a full built-in simulator (Home Tee Hero on its 10-inch touchscreen), so it runs without an external gaming PC, phone, or tablet." },
+      { "q": "Is the R50 worth more than a SkyTrak+ or Bushnell Launch Pro?", "a": "It depends on what you value. The R50 buys all-in-one, no-PC convenience and a big course library, but a SkyTrak+ or Launch Pro reaches comparable or better ball accuracy for under half the price if you can supply your own screen and PC." }
+    ],
+    "affiliate": { "primary": "PlayBetter", "note": "Also Shop Indoor Golf, Garmin" },
+    "platforms": "On-device (built-in simulator); no external PC required"
+  },
+  {
+    "id": "skytrak-plus",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "SkyTrak",
+    "model": "SkyTrak+",
+    "price": 2995,
+    "priceNote": "approx 2026 street price (frequently on sale near $2,000)",
+    "image": "/images/gear/golf/skytrak-plus.jpg",
+    "summary": "The subscription-averse favorite at the $3K tier: a photometric camera paired with dual Doppler radar that delivers carry distances often within a couple yards of $20,000 units and consistent spin reads. It sits to the side of the ball, so it tolerates tighter rooms than a radar-behind setup, and its own practice range is included rather than gated behind a fee. It connects broadly to GSPro, E6, TGC 2019, and Awesome Golf, which keeps your software options open. For most home builders this is the accuracy-per-dollar sweet spot.",
+    "specs": {
+      "Tech": "Photometric camera + dual Doppler radar",
+      "Data points": "Full ball and club set (ball speed, spin, launch, club path, face angle)",
+      "Subscription": "None required; practice range included (paid plans optional)",
+      "Placement": "Side of ball; friendly to tighter rooms",
+      "Connectivity": "GSPro, E6 Connect, TGC 2019, Awesome Golf",
+      "Use": "Indoor-focused, outdoor capable"
+    },
+    "pros": [
+      "Photometric accuracy within a couple yards of far costlier units",
+      "No mandatory subscription; included practice range",
+      "Broad software compatibility including TGC 2019 and GSPro"
+    ],
+    "cons": [
+      "Club data leans on radar inference rather than direct camera capture",
+      "Slight shot delay versus the newer ST MAX",
+      "Indoor accuracy depends on decent, consistent lighting"
+    ],
+    "whoFor": "The default $3K pick for home builders who want camera-grade accuracy, broad software freedom, and no recurring fees.",
+    "rating": { "overall": 9, "value": 9, "accuracy": 8, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Does the SkyTrak+ require a subscription?", "a": "No. The unit includes its own practice range and reads full shot data with no mandatory annual fee. Paid plans only add extra courses and features, and third-party software like GSPro has its own separate subscription." },
+      { "q": "Will the SkyTrak+ fit a tight room?", "a": "Yes. As a side-of-ball photometric unit it does not need the depth-behind-the-player that radar units like the Garmin R10 require, making it friendlier to shallower rooms." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also Shop Indoor Golf, PlayBetter, SkyGolf" },
+    "platforms": "PC / iPad (GSPro on PC; SkyTrak app and E6 on iOS/PC)"
+  },
+  {
+    "id": "skytrak-st-max",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "SkyTrak",
+    "model": "ST MAX",
+    "price": 2995,
+    "priceNote": "approx 2026 street price (launched late 2025; sale prices near $2,495)",
+    "image": "/images/gear/golf/skytrak-st-max.jpg",
+    "summary": "SkyTrak's late-2025 refinement of the SkyTrak+ keeps the same photometric-plus-dual-radar engine but adds a faster processor that trims shot delay to roughly 1-2 seconds, a hitting zone about 40% larger, dual USB-C, and GOLFTEC-powered speed training. The core accuracy story is unchanged from the SkyTrak+, so this is an experience upgrade (quicker feedback, less waiting between shots) rather than a data leap. Several reviewers note the older SkyTrak+ remains a smart-money alternative when it is discounted. Buy the MAX for the snappier feel; buy the + to save.",
+    "specs": {
+      "Tech": "Photometric camera + dual Doppler radar",
+      "Data points": "Full ball and club set",
+      "Subscription": "None required; practice range included",
+      "Placement": "Side of ball; friendly to tighter rooms",
+      "Shot delay": "Reduced to ~1-2 seconds (faster processor)",
+      "Connectivity": "Dual USB-C; GSPro, E6, TGC 2019, Awesome Golf"
+    },
+    "pros": [
+      "Faster processor and shorter shot delay for a snappier feel",
+      "~40% larger hitting zone and dual USB-C connectivity",
+      "Same no-subscription accuracy and broad software support as the +"
+    ],
+    "cons": [
+      "Accuracy is essentially unchanged from the cheaper SkyTrak+",
+      "Speed-training extras may not justify the price step for everyone",
+      "Still photometric, so lighting consistency matters indoors"
+    ],
+    "whoFor": "SkyTrak buyers who want the quickest, most responsive version and value reduced shot delay over saving money.",
+    "rating": { "overall": 9, "value": 8, "accuracy": 8, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "What is actually new on the ST MAX versus the SkyTrak+?", "a": "A faster processor with shorter shot delay (about 1-2 seconds), a roughly 40% larger hitting zone, dual USB-C ports, and GOLFTEC-powered speed training. The underlying ball-and-club accuracy is the same." },
+      { "q": "Should I buy the ST MAX or the cheaper SkyTrak+?", "a": "Buy the MAX if quicker shot-to-shot feedback and the larger hitting zone matter to you. If you can find the SkyTrak+ discounted, it delivers the same data accuracy for less." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also PlayBetter, SkyTrak direct, Rain or Shine Golf" },
+    "platforms": "PC / iPad (GSPro on PC; SkyTrak app and E6 on iOS/PC)"
+  },
+  {
+    "id": "bushnell-launch-pro",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Bushnell",
+    "model": "Launch Pro",
+    "price": 2499,
+    "priceNote": "approx 2026 street price for the Circle B Edition base unit",
+    "image": "/images/gear/golf/bushnell-launch-pro.jpg",
+    "summary": "Tour-grade ball data on the cheap: the Launch Pro runs the same triple-camera Foresight sensor as the GC3, capturing ball metrics out of the box within about 2% of the $14K+ GCQuad. The catch is the software model. Full simulation, club data, and course access live behind annual subscriptions (Silver around $199/yr, Gold around $499/yr to unlock GSPro and full sim). As a side-of-ball photometric unit it suits 12-15 ft deep rooms where rear radar won't fit. Run the total cost-of-ownership math before you fall in love with the sticker price.",
+    "specs": {
+      "Tech": "Photometric, 3 infrared cameras (Foresight FSP sensor)",
+      "Data points": "Foresight-grade ball data stock; club data via subscription",
+      "Subscription": "Ball data free; Silver ~$199/yr, Gold ~$499/yr, GSPro unlock extra",
+      "Placement": "Side of ball; ideal for 12-15 ft deep rooms",
+      "Accuracy": "Within ~2% of the GCQuad on ball data",
+      "Portability": "Compact and portable"
+    },
+    "pros": [
+      "Foresight GC3-grade ball accuracy at a fraction of GCQuad money",
+      "Reads accurate ball data with no subscription required",
+      "Compact, portable, and side-of-ball friendly to tight-depth rooms"
+    ],
+    "cons": [
+      "Club data and full simulation are locked behind annual subscriptions",
+      "Total cost of ownership climbs fast once you add Gold and GSPro",
+      "Does not connect to TGC 2019"
+    ],
+    "whoFor": "Accuracy-first buyers in a shallow room who want Foresight-grade ball data and accept the recurring subscription cost.",
+    "rating": { "overall": 8, "value": 8, "accuracy": 9, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Is the Bushnell Launch Pro worth it once you add subscriptions?", "a": "The hardware gives you GC3-grade ball accuracy for well under $3,000, but full simulation and club data require Silver (~$199/yr) or Gold (~$499/yr) plus a GSPro fee to unlock everything. Factor those annual costs in before comparing it to no-subscription rivals like the SkyTrak+." },
+      { "q": "Does the Launch Pro work with GSPro and TGC 2019?", "a": "It works with GSPro once you have the Gold subscription, and it lives primarily in the Foresight FSX software family. It does not support TGC 2019." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Top Shelf Golf, Bushnell Golf direct" },
+    "platforms": "PC / iPad (FSX family; GSPro on PC with Gold subscription)"
+  },
+  {
+    "id": "uneekor-eye-xo2",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Uneekor",
+    "model": "EYE XO2",
+    "price": 11000,
+    "priceNote": "approx 2026 street price (configurations range to ~$14,000)",
+    "image": "/images/gear/golf/uneekor-eye-xo2.jpg",
+    "summary": "Uneekor's overhead flagship brings GCQuad-class accuracy into a dedicated room for thousands less than the commercial reference units. Three high-speed cameras triangulate 25 ball and club metrics over the largest hitting zone in the Uneekor line (28 x 21 inches), so left- and right-handers can swap without re-aiming. Dimple Optix reads spin off any standard ball with no markings or stickers required. It mounts overhead, so it demands 9-10 feet of ceiling for the camera throw, and it talks to GSPro, E6, TGC 2019, and Uneekor's own GameDay software. This is the build-it-once choice for a serious dedicated room.",
+    "specs": {
+      "Tech": "Overhead photometric, 3 high-speed infrared cameras",
+      "Data points": "25 ball and club metrics",
+      "Subscription": "Optional (Refresh/Ignite tiers); marked balls not required",
+      "Placement": "Overhead; needs 9-10 ft ceiling",
+      "Hitting zone": "28 in W x 21 in L (left/right friendly)",
+      "Connectivity": "GSPro, E6 Connect, TGC 2019, Uneekor GameDay"
+    },
+    "pros": [
+      "GCQuad-class triangulated accuracy for far less money",
+      "Huge hitting zone; seamless left/right-handed switching",
+      "Dimple Optix reads spin off any standard ball, no stickers"
+    ],
+    "cons": [
+      "Requires 9-10 ft of ceiling for the overhead camera throw",
+      "Overhead mounting is a permanent, dedicated-room commitment",
+      "Significant five-figure investment plus install"
+    ],
+    "whoFor": "Serious builders with a dedicated 9-10 ft ceiling room who want commercial-grade accuracy without GCQuad pricing.",
+    "rating": { "overall": 9, "value": 8, "accuracy": 9, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "How much ceiling height does the EYE XO2 need?", "a": "As an overhead unit it needs roughly 9-10 feet of ceiling so the downward-facing cameras have enough throw. It is the wrong technology for a low 8.5 ft basement." },
+      { "q": "Do I need special marked golf balls?", "a": "No. Dimple Optix reads the dimple pattern of any standard golf ball to capture spin, so no marked or stickered balls are required." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also Shop Indoor Golf, PlayBetter, Indoor Golf Outlet" },
+    "platforms": "PC / iPad (GSPro, E6, TGC 2019, GameDay)"
+  },
+  {
+    "id": "uneekor-eye-mini",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Uneekor",
+    "model": "EYE MINI",
+    "price": 4500,
+    "priceNote": "approx 2026 street price (often on sale near $3,825)",
+    "image": "/images/gear/golf/uneekor-eye-mini.jpg",
+    "summary": "A portable, premium photometric unit that brings Uneekor's infrared Ball Optix tech to a side-mount box you set on the mat. It captures 19 free data points on the included Player package (no expiry), reads spin off any ball via Dimple Optix, and adds genuine putting analysis. A built-in e-ink display shows key numbers in direct sunlight, so it works at the range without a phone. Club data needs reflective stickers, and it connects to GSPro, E6, and TGC 2019. Think of it as a step up from sub-$1,000 radar toward true camera accuracy, in a unit you can still carry.",
+    "specs": {
+      "Tech": "Portable photometric, infrared cameras (Ball Optix)",
+      "Data points": "19 free on the included Player package",
+      "Subscription": "Player package included (no expiry); Ultimate trial then optional",
+      "Placement": "Side of ball; rests on the mat",
+      "Display": "Built-in e-ink for outdoor readability",
+      "Connectivity": "GSPro, E6 Connect, TGC 2019"
+    },
+    "pros": [
+      "Portable side-mount with true photometric accuracy",
+      "19 free data points and putting analysis on the included package",
+      "Reads spin off any ball; e-ink display works in direct sun"
+    ],
+    "cons": [
+      "Club data requires reflective stickers on the clubhead",
+      "Pricier than radar units that cover the same portability niche",
+      "Camera unit still benefits from consistent indoor lighting"
+    ],
+    "whoFor": "Golfers who want carry-anywhere portability with camera-grade ball data and built-in outdoor readability.",
+    "rating": { "overall": 8, "value": 8, "accuracy": 8, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Does the EYE MINI need a subscription?", "a": "No. The included Player package gives 19 data points with no expiry, plus a trial of the Ultimate tier. The Ultimate subscription and third-party software like GSPro are optional add-ons." },
+      { "q": "Does the EYE MINI need marked balls or stickers?", "a": "It reads ball data off any standard ball via Dimple Optix, but capturing club data requires putting small reflective stickers on the clubhead." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also PlayBetter, Shop Indoor Golf, Ace Indoor Golf" },
+    "platforms": "PC / iPad (GSPro, E6, TGC 2019) plus on-device e-ink readout"
+  },
+  {
+    "id": "uneekor-eye-mini-core",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Uneekor",
+    "model": "EYE MINI CORE",
+    "price": 1499,
+    "priceNote": "approx 2026 price; Amazon-exclusive (launched Oct 2025)",
+    "image": "/images/gear/golf/uneekor-eye-mini-core.jpg",
+    "summary": "Uneekor's late-2025 play to drag real photometric infrared tech into the budget bracket, sold exclusively on Amazon. It tracks 15 ball data points off any standard ball (no stickers, no radar-specific balls) with near-zero latency, and is sim-ready for GSPro, E6 Connect, TGC 2019, and Creative Golf 3D. The trade-off is no clubhead data, which keeps the price down and suits practice-and-play setups that don't need fitting-grade club metrics. For the money it is one of the strongest value entries in the whole category.",
+    "specs": {
+      "Tech": "Ground-unit photometric, infrared cameras (Dimple Optix)",
+      "Data points": "15 ball metrics (no clubhead data)",
+      "Subscription": "Software subscriptions required for GSPro/E6/TGC/Creative Golf",
+      "Placement": "Side of ball; rests on the ground",
+      "Latency": "Near-zero",
+      "Connectivity": "GSPro, E6 Connect, TGC 2019, Creative Golf 3D"
+    },
+    "pros": [
+      "Genuine photometric infrared accuracy at a budget price",
+      "No marked balls or stickers; reads any standard ball",
+      "Near-zero latency and broad sim software support"
+    ],
+    "cons": [
+      "No clubhead data at all",
+      "Amazon-exclusive availability limits dealer support and bundles",
+      "Sim play still requires paid third-party software subscriptions"
+    ],
+    "whoFor": "Value-focused builders who want true camera ball accuracy and don't need club data.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 8, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Does the EYE MINI CORE measure club data?", "a": "No. It captures 15 ball data points but does not include clubhead metrics, which is part of how it hits the $1,499 price. Step up to the EYE MINI or EYE XO2 if you need club data." },
+      { "q": "Where can I buy the EYE MINI CORE?", "a": "It is an Amazon exclusive in the U.S., so it is purchased directly through Amazon rather than the usual sim-gear dealers." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Amazon-exclusive launch monitor" },
+    "platforms": "PC / iPad (GSPro, E6, TGC 2019, Creative Golf 3D)"
+  },
+  {
+    "id": "foresight-gc3",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Foresight Sports",
+    "model": "GC3",
+    "price": 6999,
+    "priceNote": "approx 2026 street price (GC3 with lifetime FSX Play)",
+    "image": "/images/gear/golf/foresight-gc3.jpg",
+    "summary": "Foresight's prosumer triple-camera unit delivers fitting-grade ball and club data that rivals the GCQuad at roughly half the price. The straight GC3 includes lifetime FSX Play and 25 courses with no recurring subscription, while the cheaper GC3S trades a lower upfront price for an annual software fee, so read the variant carefully. It sits to the side of the ball, friendly to 12-15 ft deep rooms, and is portable enough to take outdoors. This is the unit for buyers who genuinely want pro-grade club metrics and will pay for them.",
+    "specs": {
+      "Tech": "Photometric, 3-camera Triscopic system",
+      "Data points": "Tour-grade ball and club metrics",
+      "Subscription": "GC3: lifetime FSX Play included; GC3S: lower upfront + annual fee",
+      "Placement": "Side of ball; suits 12-15 ft deep rooms",
+      "Display": "Built-in touchscreen",
+      "Portability": "Portable, indoor/outdoor capable"
+    },
+    "pros": [
+      "Fitting-grade club data that rivals the GCQuad for about half the price",
+      "GC3 version includes lifetime FSX Play with no recurring fee",
+      "Portable, side-of-ball, and works indoors or outdoors"
+    ],
+    "cons": [
+      "Roughly double the price of a SkyTrak+ for similar ball accuracy",
+      "GC3S variant carries an ongoing annual subscription",
+      "Does not connect to TGC 2019"
+    ],
+    "whoFor": "Serious players and fitters who want tour-grade club data in a portable unit and don't need overhead mounting.",
+    "rating": { "overall": 9, "value": 8, "accuracy": 9, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "What is the difference between the GC3 and GC3S?", "a": "The GC3 costs more upfront but includes lifetime FSX Play with no recurring fee. The GC3S has a lower upfront price but requires an annual subscription to access the full software and club data." },
+      { "q": "Is the GC3 worth nearly double a SkyTrak+?", "a": "If you want fitting-grade triple-camera club data, yes. If you mainly care about accurate ball data and total distance, the SkyTrak+ gets close for far less money." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also Shop Indoor Golf, Carl's Place, Indoor Golf Outlet" },
+    "platforms": "PC / iPad (FSX family; GSPro on PC)"
+  },
+  {
+    "id": "foresight-gcquad",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Foresight Sports",
+    "model": "GCQuad",
+    "price": 17999,
+    "priceNote": "approx 2026 price for the fully-loaded bundle; base unit ~$12,000+",
+    "image": "/images/gear/golf/foresight-gcquad.jpg",
+    "summary": "The commercial and fitting reference standard: four high-speed cameras shooting 6,000 fps each for Quadrascopic imaging that captures ball and club data with precision the rest of the field is measured against. It is a three-time Golf Digest Editors' Choice winner used by tour players, fitters, and coaches, and it works equally well indoors and outdoors. The fully-loaded bundle with club and putting add-ons runs around $18,000; the base unit starts north of $12,000. This is overkill for casual play and exactly right for anyone whose data needs to be unimpeachable.",
+    "specs": {
+      "Tech": "Photometric, 4-camera Quadrascopic (6,000 fps each)",
+      "Data points": "Full tour-grade ball and club set incl. impact location",
+      "Subscription": "FSX Play and FSX 2020 in bundles; configuration-dependent",
+      "Placement": "Side of ball; indoor/outdoor",
+      "Add-ons": "Club Data and Putting Analysis modules",
+      "Recognition": "3x Golf Digest Editors' Choice"
+    },
+    "pros": [
+      "The accuracy reference other launch monitors are measured against",
+      "Four-camera club and impact-location data for fitting and coaching",
+      "Equally capable indoors and outdoors"
+    ],
+    "cons": [
+      "Five-figure price is overkill for casual home play",
+      "Club and putting capability come as paid add-on modules",
+      "Heavier total cost once fully loaded"
+    ],
+    "whoFor": "Fitters, coaches, and no-compromise buyers who need tour-grade, reference-level club and ball data.",
+    "rating": { "overall": 10, "value": 6, "accuracy": 10, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Why is the GCQuad so much more than the GC3?", "a": "It adds a fourth camera for Quadrascopic imaging and is built as the commercial fitting reference, with the tightest club and impact-location data in the lineup. For pure home play the GC3 captures most of the value for far less." },
+      { "q": "Can the GCQuad be used outdoors?", "a": "Yes. Like the GC3 it works well both indoors and outdoors, which is part of why club fitters and coaches favor it." }
+    ],
+    "affiliate": { "primary": "Foresight Sports", "note": "Also Shop Indoor Golf, Carl's Place, Top Shelf Golf" },
+    "platforms": "PC / iPad (FSX family; GSPro on PC)"
+  },
+  {
+    "id": "foresight-falcon",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Foresight Sports",
+    "model": "Falcon",
+    "price": 14999,
+    "priceNote": "approx 2026 street price (includes software and clubhead measurement)",
+    "image": "/images/gear/golf/foresight-falcon.jpg",
+    "summary": "Foresight's overhead unit packs GCHawk-class Quadrascopic camera tech into a frame 45 inches shorter and 10 pounds lighter than the Hawk, with an integrated power supply and an automatic latching ceiling mount. It delivers more than a dozen ball and club data points (path, angle of attack, impact location) over a larger hitting zone than other ceiling-mounted units, and a replaceable rubberized impact layer guards against mishits. It needs a 9'6\" ceiling by 12 ft wide by 14 ft deep space, so it is a dedicated-room build. This is the overhead Foresight for buyers who want a clean, hidden install without GCHawk bulk.",
+    "specs": {
+      "Tech": "Overhead photometric, Quadrascopic (GCHawk-class)",
+      "Data points": "12+ ball and club metrics incl. impact location",
+      "Space required": "9'6\" H x 12' W x 14' D",
+      "Placement": "Overhead, automatic latching ceiling mount",
+      "Build": "Reinforced aluminum, integrated power, replaceable impact layer",
+      "Connectivity": "FSX family; GSPro on PC"
+    },
+    "pros": [
+      "GCHawk-class overhead accuracy in a smaller, lighter frame",
+      "Clean ceiling install with auto-latching mount and integrated power",
+      "Larger hitting zone than other ceiling-mounted units"
+    ],
+    "cons": [
+      "Needs a tall, dedicated room (9'6\" ceiling, 12x14 footprint)",
+      "Five-figure price plus install commitment",
+      "Permanent overhead mounting is not portable"
+    ],
+    "whoFor": "Dedicated-room builders who want a clean overhead Foresight install without GCHawk size or cost.",
+    "rating": { "overall": 9, "value": 7, "accuracy": 9, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "How much room does the Foresight Falcon need?", "a": "Foresight lists 9 feet 6 inches of ceiling height, 12 feet of width, and 14 feet of depth, so it is strictly a tall, dedicated-room unit." },
+      { "q": "How is the Falcon different from the GCHawk?", "a": "It uses the same overhead Quadrascopic camera tech but in a frame about 45 inches shorter and 10 pounds lighter, with an integrated power supply and an easier automatic latching ceiling mount." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also PlayBetter, Carl's Place, Foresight Sports" },
+    "platforms": "PC / iPad (FSX family; GSPro on PC)"
+  },
+  {
+    "id": "flightscope-mevo-gen2",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "FlightScope",
+    "model": "Mevo Gen 2",
+    "price": 1299,
+    "priceNote": "approx 2026 base price; fully loaded with Pro Package + FIL ~$2,274",
+    "image": "/images/gear/golf/flightscope-mevo-gen2.jpg",
+    "summary": "FlightScope's replacement for the beloved Mevo+ puts patented Fusion Tracking (3D Doppler radar combined with synchronized image processing) into a compact, no-subscription package. It tracks 15 full-swing and chipping parameters plus 3 putting metrics, with measured rather than estimated club data, and includes a lifetime E6 Connect simulation bundle. As a radar unit it prefers room depth behind the player. At $1,299 base it is the easiest FlightScope to recommend in 2026; the loaded version near $2,274 adds the Pro Package and Face Impact Location.",
+    "specs": {
+      "Tech": "Fusion Tracking (3D Doppler radar + synchronized camera)",
+      "Data points": "15 full-swing/chipping + 3 putting (18 total)",
+      "Subscription": "None; $0 ongoing cost, lifetime E6 Connect bundle included",
+      "Placement": "Behind the ball; prefers room depth",
+      "Battery": "~6 hours",
+      "Connectivity": "E6 Connect, FS Golf, GSPro"
+    },
+    "pros": [
+      "Fusion Tracking with measured club data in a compact package",
+      "No subscription and a lifetime E6 Connect simulation bundle",
+      "Instructor/fitter-friendly metrics including putting"
+    ],
+    "cons": [
+      "Radar prefers depth behind the player, so it needs room",
+      "Best metrics (Face Impact Location) are a paid unlock",
+      "Compact radar can be more setup-sensitive than a fixed camera"
+    ],
+    "whoFor": "Practicers and instructors who want measured-club Fusion data with no recurring fees and have room depth.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 8, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "Does the Mevo Gen 2 have a subscription?", "a": "No. It has $0 ongoing cost and includes a lifetime E6 Connect simulation bundle. Optional one-time unlocks like the Pro Package and Face Impact Location are the only extra charges." },
+      { "q": "How is the Gen 2 different from the old Mevo+?", "a": "The Mevo Gen 2 replaces the Mevo+ and brings full Mevo Plus-level accuracy using FlightScope's Fusion Tracking (radar plus synchronized camera) in a more compact, no-subscription unit." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also PlayBetter, FlightScope direct, Top Shelf Golf" },
+    "platforms": "PC / iPad (E6 Connect, FS Golf on iOS; GSPro on PC)"
+  },
+  {
+    "id": "rapsodo-mlm2pro",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Rapsodo",
+    "model": "MLM2PRO",
+    "price": 699,
+    "priceNote": "approx 2026 street price; lifetime premium subscription ~$500 extra",
+    "image": "/images/gear/golf/rapsodo-mlm2pro.jpg",
+    "summary": "The most data-rich portable launch monitor under $1,000: a dual-camera plus Doppler radar fusion unit that captures 15 metrics including directly measured spin (with RPT balls), club path, and angle of attack. Rapsodo earned official GSPro direct-connect integration in 2025, and it also runs E6 Connect across 30K+ courses. It is phone-tethered and works indoor or outdoor. The honest caveat: spin rate and spin axis need RPT-marked Callaway or Titleist balls, and the best features live in the premium subscription (a one-time lifetime option runs around $500). For the price, nothing else packs in this much.",
+    "specs": {
+      "Tech": "Fusion: dual high-speed cameras + Doppler radar",
+      "Data points": "15 metrics; measured spin/club path/AoA with RPT balls",
+      "Subscription": "Premium features subscription; lifetime ~$500 one-time option",
+      "Placement": "Phone-tethered, side/behind; portable indoor/outdoor",
+      "Software": "GSPro direct connect (2025), E6 Connect, 30K+ courses",
+      "Balls": "RPT-marked balls needed for measured spin"
+    },
+    "pros": [
+      "Most data-rich portable launch monitor under $1,000",
+      "Official GSPro direct connect plus E6 and a huge course library",
+      "Dual cameras give real swing-review video and measured spin"
+    ],
+    "cons": [
+      "Measured spin and spin axis require RPT-marked balls",
+      "Best features sit behind the premium subscription",
+      "Phone-tethered and benefits from outdoor depth like other radar-fusion units"
+    ],
+    "whoFor": "Budget buyers who want the richest portable data set and GSPro sim play for around $700.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 7, "valueForSpace": 7 },
+    "faqs": [
+      { "q": "Do I need special balls for the MLM2PRO?", "a": "Most data (ball speed, carry, launch, club speed, smash, club path, angle of attack) works with any ball. For measured spin rate and spin axis you need RPT-marked balls such as the Callaway Chrome Soft X RPT or Titleist Pro V1 RPT." },
+      { "q": "Does the MLM2PRO connect to GSPro?", "a": "Yes. Rapsodo added official GSPro direct-connect integration in 2025, and it also works with E6 Connect and its own 30,000-plus course library." }
+    ],
+    "affiliate": { "primary": "Rapsodo", "note": "Also Amazon, Shop Indoor Golf, PlayBetter" },
+    "platforms": "iOS / Android (app-tethered); GSPro and E6 for sim play"
+  },
+  {
+    "id": "full-swing-kit",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Full Swing",
+    "model": "KIT",
+    "price": 4999,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/golf/full-swing-kit.jpg",
+    "summary": "The premium portable radar behind TGL and Tiger Woods' own practice: dual-mode radar plus a built-in 4K swing camera capturing 16 data points with instant overhead-style replay on a 5.3-inch OLED display. It is a fraction of the cost of $15K-plus overhead units yet carries genuine tour pedigree as the official launch monitor of the ESPN indoor golf league. As radar, it wants space behind the hitter and works indoor or outdoor. You are paying for brand cachet, the integrated 4K camera, and a polished experience rather than category-leading raw accuracy.",
+    "specs": {
+      "Tech": "Dual-mode radar + integrated 4K swing camera",
+      "Data points": "16 ball and club metrics with video",
+      "Display": "Built-in 5.3-inch OLED",
+      "Placement": "Behind the ball; needs room depth",
+      "Use": "Indoor and outdoor; wired or wireless",
+      "Pedigree": "Official launch monitor of TGL"
+    },
+    "pros": [
+      "Integrated 4K swing camera with instant replay",
+      "16 data points and a polished, premium experience",
+      "Tour pedigree as the official TGL launch monitor"
+    ],
+    "cons": [
+      "Radar needs depth behind the player",
+      "Priced above more accurate photometric units at the tier",
+      "Some of the cost is brand and presentation, not raw accuracy"
+    ],
+    "whoFor": "Buyers who want a premium portable radar with a built-in 4K camera and tour-league pedigree.",
+    "rating": { "overall": 8, "value": 7, "accuracy": 8, "valueForSpace": 6 },
+    "faqs": [
+      { "q": "Can the Full Swing KIT be used outdoors?", "a": "Yes. With both wired and wireless connectivity and a compact body it works indoors as a simulator and outdoors as a portable launch monitor at the range or course." },
+      { "q": "Is the KIT more accurate than cheaper units?", "a": "It is accurate and polished, but at the ~$5,000 tier photometric units like the GC3 or Bushnell Launch Pro often edge it on raw data. The KIT's draw is its integrated 4K camera, OLED display, and TGL pedigree." }
+    ],
+    "affiliate": { "primary": "Fairway Jockey", "note": "Also Full Swing Golf direct, Top Shelf Golf, Golf Galaxy" },
+    "platforms": "PC / iPad / on-device replay (Full Swing app and select third-party software)"
+  },
+  {
+    "id": "carls-place-diy-enclosure",
+    "bay": "golf",
+    "type": "enclosure",
+    "brand": "Carl's Place",
+    "model": "DIY Golf Simulator Enclosure Kit with Impact Screen",
+    "price": 1155,
+    "priceNote": "approx 2026 base price (~$1,155 sale / ~$1,390 regular); screen upgrades extra",
+    "image": "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "summary": "The backbone of the build-it-yourself room: a full-length impact screen plus a durable nylon enclosure with connector hardware, designed around a no-border bottom and releasable zip ties with a weighted bottom cable to cut bounceback. The base kit lands near $1,155 on sale; you then choose the screen tier (Preferred adds ~$230, Premium 3-layer ~$480, High-Contrast Gray ~$575) and can add a pipe-framing kit. It is the way to spend your money on the sensor and self-build the room. Note it is a frame-and-screen kit, not free-standing furniture, so you supply the structure or pipe kit.",
+    "specs": {
+      "Type": "DIY enclosure kit (screen + nylon enclosure + hardware)",
+      "Screen": "Full-length impact screen; Preferred/Premium/High-Contrast upgrades",
+      "Bounceback control": "Releasable zip ties + weighted bottom cable, no-border bottom",
+      "Framing": "Optional pipe-framing kit add-on",
+      "Material": "Heavy-duty polyester screen, durable nylon enclosure",
+      "Use": "DIY home room, immersive full-length view"
+    },
+    "pros": [
+      "Affordable path to a full enclosed bay so budget goes to the sensor",
+      "Engineered bounceback control (zip ties, weighted bottom cable)",
+      "Multiple screen tiers and an optional pipe-framing kit"
+    ],
+    "cons": [
+      "Base kit needs framing/structure (or the add-on pipe kit) to mount",
+      "Better screen image means paying up for the Premium tier",
+      "DIY assembly required; not a free-standing furniture unit"
+    ],
+    "whoFor": "DIY builders who want to spend launch-monitor money on the sensor and self-build an immersive enclosed bay.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 0, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Does the Carl's Place DIY kit include framing?", "a": "The base kit includes the impact screen, nylon enclosure, and connector hardware, but you supply the structure or add Carl's optional pipe-framing kit to build the frame." },
+      { "q": "Will the ball bounce back off the screen?", "a": "Bounceback is minimized by design: releasable zip ties, a weighted bottom cable, and a no-border bottom let the screen absorb impact and reduce rebound toward the hitter." }
+    ],
+    "affiliate": { "primary": "Carl's Place", "note": "Also Rain or Shine Golf, PlayBetter, Golf Huts" },
+    "platforms": "N/A (enclosure hardware)"
+  },
+  {
+    "id": "sigpro-premium-impact-screen",
+    "bay": "golf",
+    "type": "screen",
+    "brand": "Carl's Place",
+    "model": "SIGPRO Premium Impact Screen",
+    "price": 710,
+    "priceNote": "approx 2026 price for a common SIG10 size; range ~$550-$1,150 by size",
+    "image": "/images/gear/golf/sigpro-premium-impact-screen.jpg",
+    "summary": "Carl's in-house premium screen and a MyGolfSpy testing winner, built from three-layer spacer-mesh fabric (two tight-knit polyester faces sandwiching vertical spacer yarns) at about 3.5 inches thick. That construction makes it the quietest, smoothest impact screen in the category, capable of crisp 4K images with no pixelation or grain, while the thickness and double-stitched vinyl edges keep bounceback low. Third-party testing showed it beating the leading competitor on image quality, sound, bounceback, and durability. Pricing runs from roughly $550 for the smallest size to about $1,150 for the largest, with sizes up to 10x10 and multiple aspect ratios.",
+    "specs": {
+      "Material": "Three-layer spacer-mesh polyester, ~3.5 in thick",
+      "Image": "Crisp 4K capable, no pixelation or grain",
+      "Bounceback": "Low; thick build + double-stitched vinyl edges",
+      "Sizes": "Up to 10x10; 1:1, 4:3, 16:10, 16:9 ratios",
+      "Mounting": "Grommets + heavy-duty Velcro perimeter, DIY-friendly",
+      "Testing": "MyGolfSpy testing winner across image, sound, bounceback, durability"
+    },
+    "pros": [
+      "Sharpest, quietest screen in independent testing; true 4K image",
+      "Thick three-layer build keeps bounceback and noise low",
+      "Wide range of sizes and aspect ratios with DIY-friendly mounting"
+    ],
+    "cons": [
+      "Premium price versus basic single-layer screens",
+      "Heavy and thick, so it needs solid framing to hang properly",
+      "Larger sizes climb toward four figures"
+    ],
+    "whoFor": "Builders who want the best image quality and lowest bounceback and will pay a premium for it.",
+    "rating": { "overall": 9, "value": 8, "accuracy": 0, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Does a premium screen really give a sharper image?", "a": "Yes. The SIGPRO Premium's tightly woven three-layer spacer mesh renders crisp 4K projection with no pixelation or grain, and independent MyGolfSpy testing rated it best for image quality." },
+      { "q": "How thick is the SIGPRO Premium and why does it matter?", "a": "It is about 3.5 inches thick. That thickness dampens sound and absorbs impact, making it one of the quietest, lowest-bounceback screens available." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Carl's Place, Indoor Golf Outlet, Golf Sim Depot" },
+    "platforms": "N/A (impact screen)"
+  },
+  {
+    "id": "fiberbuilt-studio-mat",
+    "bay": "golf",
+    "type": "mat",
+    "brand": "Fiberbuilt",
+    "model": "Studio Hitting Mat",
+    "price": 1249,
+    "priceNote": "approx 2026 price for 7'x4' Grass Series; Player Preferred 8'x4' ~$1,399",
+    "image": "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "summary": "A premium studio mat built around Fiberbuilt's fiber-and-grass hitting panel, whose proprietary Vibration Absorption Layer absorbs about 94.7% of clubhead shock to protect wrists and elbows over years of indoor reps. The Pure Impact / Grass Series surface is launch-monitor tested to mimic real fairway launch conditions, and a friction-fit tee holder lets you use real wooden tees for any club. Panels carry a 300,000-shot durability guarantee. The most-referenced 7'x4' Grass Series runs about $1,249; the Player Preferred studio line starts near $1,399 and scales up to 12-foot double-hitting layouts. It is the high-ROI, injury-prevention upgrade most builders under-budget.",
+    "specs": {
+      "Surface": "Fiber/grass hitting panel (Grass Series / Pure Impact)",
+      "Shock absorption": "Vibration Absorption Layer absorbs ~94.7% of clubhead shock",
+      "Real tee": "Friction-fit tee holder accepts real wooden tees",
+      "Durability": "300,000-shot panel guarantee",
+      "Sizes": "7'x4' up to 12'x4' (single, center, and double hitting)",
+      "Thickness": "~1.75 in"
+    },
+    "pros": [
+      "Vibration layer absorbs ~95% of shock to protect wrists and elbows",
+      "Launch-monitor-tested realistic turf feel; accepts real tees",
+      "Extremely durable with a 300,000-shot guarantee"
+    ],
+    "cons": [
+      "Premium price versus generic budget mats",
+      "Heavy and large; needs dedicated floor space",
+      "Hitting strip is a fixed panel, so layout matters at purchase"
+    ],
+    "whoFor": "Builders who want a forgiving, joint-protecting, real-tee-capable mat that lasts and won't wreck their swing data.",
+    "rating": { "overall": 9, "value": 8, "accuracy": 0, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Can I use a real tee on a Fiberbuilt mat?", "a": "Yes. A friction-fit tee holder seats in the base holes so you can use your own real wooden tees for any tee shot, instead of being forced onto a fixed rubber tee." },
+      { "q": "Why does a good mat matter so much?", "a": "Fiberbuilt's Vibration Absorption Layer soaks up roughly 94.7% of clubhead shock, which protects your wrists and elbows over thousands of reps. Cheap mats transmit that shock and can cause injury and bad data." }
+    ],
+    "affiliate": { "primary": "Carl's Place", "note": "Also PlayBetter, Top Shelf Golf, Fiberbuilt Golf direct" },
+    "platforms": "N/A (hitting mat)"
+  },
+  {
+    "id": "country-club-elite-mat",
+    "bay": "golf",
+    "type": "mat",
+    "brand": "Real Feel",
+    "model": "Country Club Elite Golf Mat",
+    "price": 599,
+    "priceNote": "approx 2026 price for the popular 4'x5' (often on sale near $479)",
+    "image": "/images/gear/golf/country-club-elite-mat.jpg",
+    "summary": "The enthusiast-favorite forgiving turf mat: 110 ounces of thick-pile nylon bonded to a 5/8-inch closed-cell foam backing, 1.75 inches thick overall, tall enough to accept a real wooden tee. Its dense fiber system delivers True Divot Action so you feel the difference between pure contact and a fat shot, with enough cushion to protect shoulders, elbows, and wrists while still punishing genuine mishits, no bounce-and-cheat. It is widely regarded as one of the best sim mats for the money, and the common 4'x5' size runs about $479-600 (larger sizes cost more). A high-value first upgrade for any build.",
+    "specs": {
+      "Surface": "110 oz thick-pile nylon turf",
+      "Backing": "5/8 in closed-cell foam; ~1.75 in total thickness",
+      "Real tee": "Pile tall enough to accept a real wooden tee",
+      "Feel": "True Divot Action; cushions joints, punishes fat shots",
+      "Sizes": "Common 4'x5' and 5'x5'; larger available",
+      "Use": "Indoor/outdoor, commercial-grade durability"
+    },
+    "pros": [
+      "Forgiving cushion protects wrists, elbows, and shoulders",
+      "Accepts a real wooden tee and gives honest mishit feedback",
+      "Commercial-grade durability at a friendly price"
+    ],
+    "cons": [
+      "Heavy and stiff to move or reposition",
+      "Less fairway-grass realism than top fiber-panel mats",
+      "Hitting strip can wear in one spot with concentrated use"
+    ],
+    "whoFor": "Builders who want a durable, joint-friendly, real-tee-capable mat at a value price.",
+    "rating": { "overall": 9, "value": 9, "accuracy": 0, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Can I use a real tee with the Country Club Elite mat?", "a": "Yes. The thick 110-ounce nylon pile is tall enough to hold a real wooden tee, so you are not forced onto a fixed rubber tee for drivers." },
+      { "q": "Is the Country Club Elite mat easy on the joints?", "a": "Its foam backing and dense fibers cushion the shoulders, elbows, and wrists while still giving honest feedback on fat shots, which is why it's a popular injury-prevention upgrade over cheap mats." }
+    ],
+    "affiliate": { "primary": "Rain or Shine Golf", "note": "Also Carl's Place, Indoor Golf Outlet, Amazon" },
+    "platforms": "N/A (hitting mat)"
+  }
+]

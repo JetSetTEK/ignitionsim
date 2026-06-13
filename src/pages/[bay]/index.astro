@@ -84,6 +84,15 @@ const schema = [
       </section>
     )}
 
+    <section class="band" style="margin:10px 0 0">
+      <div>
+        <span class="lbl lbl-accent">// Gear database</span>
+        <h3>Every {bay.name.toLowerCase()} product, decoded</h3>
+        <p>Deep spec breakdowns, honest ratings, and pros &amp; cons for the gear in this bay — with a plain-English verdict on each.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href={`/${bay.slug}/gear`}>Browse {bay.name} gear ▸</a>
+    </section>
+
     {articles.length === 0 ? (
       <section class="sec"><p style="color:var(--dim)">Fresh {bay.name.toLowerCase()} guides are being written and will appear here shortly.</p></section>
     ) : (

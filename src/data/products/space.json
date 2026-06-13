@@ -1,0 +1,558 @@
+[
+  {
+    "id": "vkb-gladiator-nxt-evo-space-combat-edition",
+    "bay": "space",
+    "type": "stick",
+    "brand": "VKB",
+    "model": "Gladiator NXT EVO 'Space Combat Edition'",
+    "price": 119,
+    "priceNote": "approx 2026 street price (Standard right-hand US; Premium ~$139)",
+    "image": "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "summary": "The canonical affordable on-ramp into a 'real' magnetic-sensor stick, and the single most-recommended HOSAS building block for Star Citizen and Elite Dangerous. It pairs an all-metal-internals gimbal with contactless sensors and VKB's self-centering twist mechanism at a price that lets you buy two for a full twin-stick rig. The Space Combat Edition adds a space-friendly button cluster and is fully buildable as a left- or right-hand stick. The trade-off versus the Gunfighter tier is a non-adjustable cam/spring feel and a smaller, lighter footprint.",
+    "specs": {
+      "sensors": "Contactless magnetic on X/Y axes (drift-resistant)",
+      "twist": "Self-centering twist Z-axis (the 'sixth axis' for HOSAS)",
+      "controller": "32-bit ARM",
+      "buttons": "ALPS/OMRON switches, space-oriented button layout",
+      "handedness": "Available as dedicated left or right hand",
+      "config": "VKBDevCfg software (deep, steep learning curve)"
+    },
+    "pros": [
+      "Magnetic sensors at a budget price — no potentiometer drift",
+      "Twist axis covers all six axes when you run two as a HOSAS pair",
+      "Clear upgrade path into the VKB Gunfighter ecosystem"
+    ],
+    "cons": [
+      "Cams/springs are not swappable like the Gunfighter base",
+      "VKBDevCfg software is intimidating for newcomers",
+      "Compact base benefits from a clamp mount under combat input"
+    ],
+    "whoFor": "The default first buy for anyone building an affordable HOSAS rig who wants boutique sensor quality without boutique pricing.",
+    "rating": { "overall": 9, "value": 10, "build": 8, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Can I make a HOSAS pair from two of these?", "a": "Yes — buy one left-hand and one right-hand 'Space Combat Edition', and the twist axis on each gives you enough analog axes to cover all six degrees of freedom plus throttle." },
+      { "q": "Is it good enough or should I save for a Gunfighter Mk.IV?", "a": "For most pilots the Gladiator is genuinely good enough; it already uses magnetic sensors. The Gunfighter base is an upgrade for adjustable cam/spring feel and heavier combat grips, not a fix for a deficient stick." },
+      { "q": "Does it work on Xbox?", "a": "No. Like all VKB hardware it is PC-only. For Xbox space combat the Turtle Beach VelocityOne is the main licensed option." }
+    ],
+    "affiliate": { "primary": "vkbcontrollers.com", "note": "Sold direct via VKB North America; choose hand and Standard vs Premium grip at checkout." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "vkb-gladiator-nxt-evo-omni-throttle",
+    "bay": "space",
+    "type": "throttle",
+    "brand": "VKB",
+    "model": "Gladiator NXT EVO Omni-Throttle",
+    "price": 149,
+    "priceNote": "approx 2026 street price (right or left hand, US)",
+    "image": "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg",
+    "summary": "A clever HOSAS-native answer to the throttle question: it mounts a Gladiator EVO stick on an Omni-Throttle Adapter (OTA) so your off-hand becomes a multi-axis thrust/strafe controller instead of a single-axis lever. That maps perfectly to a spaceship's six-axis flight model, where lateral strafing matters as much as forward thrust. It shares the Gladiator's magnetic sensors, ALPS buttons and self-centering twist. It is essentially the left-hand half of a purpose-built VKB space rig.",
+    "specs": {
+      "configuration": "Gladiator EVO base + SCG grip + pre-installed Omni-Throttle Adapter (OTA)",
+      "function": "Multi-axis (6-DOF-style) off-hand thrust/strafe controller",
+      "sensors": "Contactless magnetic on X/Y",
+      "twist": "Self-centering twist axis",
+      "controller": "32-bit ARM",
+      "config": "VKBDevCfg software"
+    },
+    "pros": [
+      "Purpose-built off-hand thrust/strafe for HOSAS — no wasted single-axis throttle",
+      "Same magnetic-sensor quality as the Gladiator stick",
+      "Pairs seamlessly with a Gladiator right-hand stick for a matched rig"
+    ],
+    "cons": [
+      "Not a traditional throttle — atmospheric-flight players may want a real lever",
+      "Adds VKBDevCfg tuning on top of the stick",
+      "Costs more than a plain Gladiator stick"
+    ],
+    "whoFor": "Space pilots who want a true HOSAS off-hand controller for strafe thrusters rather than a conventional aircraft throttle.",
+    "rating": { "overall": 8, "value": 8, "build": 8, "spaceFit": 9 },
+    "faqs": [
+      { "q": "What does the Omni-Throttle actually do?", "a": "The OTA adapter lets a Gladiator stick tilt in all directions as an analog thrust/strafe input, so your off-hand controls forward/back and lateral strafing — exactly what a spaceship needs instead of a one-axis throttle." },
+      { "q": "Do I still need a separate throttle for space sims with this?", "a": "No. In a HOSAS setup the Omni-Throttle is the off-hand half; a separate aircraft-style throttle is optional and often redundant for space." }
+    ],
+    "affiliate": { "primary": "vkbcontrollers.com", "note": "Pick left or right hand to match your stick; this is the off-hand piece in a VKB HOSAS pair." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "vkb-gunfighter-mk4-base",
+    "bay": "space",
+    "type": "base",
+    "brand": "VKB",
+    "model": "Gunfighter Mk.IV (Base Only)",
+    "price": 289,
+    "priceNote": "approx 2026 street price, base only (US); grip sold separately",
+    "image": "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "summary": "VKB's premium full-metal gimbal base and the upgrade destination for serious pilots who outgrow the Gladiator's fixed feel. Released in 2023, the Mk.IV adds next-gen adjustable axis dampers, swappable cams and springs with pre-tighteners, and a no-stiction soft-start clutch for glass-smooth movement. Five interchangeable grips drop onto one common Rev.C connector, so a matched pair of Gunfighters makes a genuine endgame HOSAS. It is a base only — budget for a grip (MCG, SCG, etc.) on top.",
+    "specs": {
+      "gimbal": "All-metal adjustable-cam gimbal",
+      "dampers": "Next-gen independently adjustable axis dampers",
+      "camsSprings": "Swappable cams + springs (#20/#30/#40) with spring pre-tighteners",
+      "clutch": "No-stiction soft-start clutch",
+      "gripConnector": "Rev.C — accepts 5 interchangeable VKB grips",
+      "controller": "BlackBox 3 (USB)"
+    },
+    "pros": [
+      "Tunable cam/spring/damper feel — dial in centering force and deflection",
+      "All-metal gimbal with the smoothest movement in VKB's lineup",
+      "One base, five swappable grips — a true platform for HOSAS or HOTAS"
+    ],
+    "cons": [
+      "Base only — a grip adds $130-235+ to the real cost",
+      "Overkill for casual pilots happy with a Gladiator",
+      "VKBDevCfg tuning depth is unchanged"
+    ],
+    "whoFor": "Enthusiasts building a no-regrets endgame HOSAS or HOTAS who want adjustable gimbal feel and grip interchangeability.",
+    "rating": { "overall": 9, "value": 8, "build": 10, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Is the Gunfighter base worth it over the Gladiator?", "a": "The big gains are adjustable cams/springs/dampers and a heavier all-metal feel that suits combat grips. If you want to tune centering force and run premium grips, it's worth it; if not, the Gladiator's fixed feel is already good." },
+      { "q": "What grip do I need with it?", "a": "Any of VKB's five Rev.C grips — the MCG Pro/Ultimate combat grips are popular, while an SCG works for an ambidextrous HOSAS pairing. The grip is a separate purchase." }
+    ],
+    "affiliate": { "primary": "vkbcontrollers.com", "note": "Base only; pair with an MCG/SCG grip. Stock comes and goes — buy when available." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "vkb-mcg-pro-grip",
+    "bay": "space",
+    "type": "grip",
+    "brand": "VKB",
+    "model": "MCG Pro (Modern Combat Grip) Add-On",
+    "price": 136,
+    "priceNote": "approx 2026 street price, grip only (Ultimate ~$234)",
+    "image": "/images/gear/space/vkb-mcg-pro-grip.jpg",
+    "summary": "VKB's flagship combat grip and the most common topping for a Gunfighter Mk.IV base. The MCG Pro packs six analog axes (two slew ministick, two trimmer ministick, a folding-trigger axis and a brake-lever axis on a contactless MaRS sensor) into a modular shell you can reconfigure hat-by-hat. A 25mm-adjustable palm rest and up to 15-degree grip rotation make it comfortable for long sessions. It is a grip only and requires a compatible VKB base (sold separately).",
+    "specs": {
+      "analogAxes": "6 (2x slew ministick, 2x trimmer ministick, folding-trigger axis, brake-lever axis)",
+      "brakeLever": "Metal brake lever on contactless MaRS sensor",
+      "trigger": "Dual-stage trigger",
+      "buttons": "OMRON + ALPS precision switches, modular swappable modules",
+      "ergonomics": "25mm-adjustable palm rest, up to 15° grip rotation",
+      "mount": "Requires a VKB base (Gunfighter Mk.IV, etc.) — sold separately"
+    },
+    "pros": [
+      "Loaded with six analog axes plus two ministicks for huge bind coverage",
+      "Modular — swap hats and modules to fit your control scheme",
+      "Adjustable palm rest and grip angle for genuine all-day comfort"
+    ],
+    "cons": [
+      "Grip only — useless without a separate VKB base",
+      "Combat-shaped right-hand ergonomics suit HOTAS more than a symmetric HOSAS pair",
+      "Frequently sold out"
+    ],
+    "whoFor": "Pilots who want the maximum on-stick control count atop a Gunfighter base for binding-hungry space and combat sims.",
+    "rating": { "overall": 9, "value": 8, "build": 9, "spaceFit": 8 },
+    "faqs": [
+      { "q": "Does the MCG Pro come with a base?", "a": "No. It's an add-on grip that mounts on a VKB base such as the Gunfighter Mk.IV, which you buy separately." },
+      { "q": "MCG Pro or MCG Ultimate?", "a": "The Ultimate adds more switches and modules (and roughly doubles the price). The Pro already covers six analog axes and is plenty for most space pilots." }
+    ],
+    "affiliate": { "primary": "vkbcontrollers.com", "note": "Grip-only add-on; confirm Rev.C base compatibility before buying." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "virpil-constellation-alpha-grip",
+    "bay": "space",
+    "type": "grip",
+    "brand": "Virpil",
+    "model": "VPC Constellation ALPHA Grip",
+    "price": 210,
+    "priceNote": "approx 2026 street price, grip only (R or L); base sold separately",
+    "image": "/images/gear/space/virpil-constellation-alpha-grip.jpg",
+    "summary": "Virpil's go-to twin-stick grip and the premium HOSAS standard, available in dedicated left and right variants so you can build a true mirrored pair. It is dense with inputs — a dual-stage trigger, dual-position flip trigger, analog ministick, three 4-way hats, a 2-way hat, three momentary buttons, a contactless-sensor brake lever and a scroll encoder — plus a lockable contactless twist axis and programmable RGB. Build quality is exceptional, with a metal flip trigger and brake lever. It is a grip only; pair it with a Virpil base.",
+    "specs": {
+      "trigger": "Dual-stage trigger + dual-position flip trigger",
+      "hats": "3x 4-way hats (+push), 1x 2-way hat (+push), analog ministick (+push)",
+      "brakeLever": "Metal brake lever on VPC contactless sensor",
+      "twist": "Lockable twist axis (VPC contactless sensor)",
+      "extras": "Scroll encoder (+dual push), 3 momentary buttons, programmable RGB",
+      "handedness": "Dedicated left or right hand; ALPHA Prime variant also offered"
+    },
+    "pros": [
+      "Dedicated L/R variants make a true mirrored HOSAS pair possible",
+      "Enormous on-grip input count for space-sim bind lists",
+      "Premium metal trigger/brake and lockable contactless twist"
+    ],
+    "cons": [
+      "Grip only — a base adds ~$200-260 to the cost",
+      "Virpil stock sells in waves; availability is inconsistent",
+      "VPC Software is powerful but steep"
+    ],
+    "whoFor": "Premium-tier buyers building a no-compromise mirrored HOSAS who want the deepest on-grip control set.",
+    "rating": { "overall": 9, "value": 8, "build": 10, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Can I run two for a HOSAS pair?", "a": "Yes — that's the design intent. Buy a left and a right Constellation ALPHA, each on its own base, for a fully mirrored two-stick rig." },
+      { "q": "Why is the lockable twist useful?", "a": "Many pilots disable twist on the aiming stick to prevent accidental yaw while keeping it on the off-hand stick as a translation axis. The lockable twist lets you do exactly that in hardware." }
+    ],
+    "affiliate": { "primary": "virpil-controls.us.com", "note": "Grip only; needs a VPC base (WarBRD-D or MongoosT-50). Watch for restock drops." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "virpil-warbrd-d-base",
+    "bay": "space",
+    "type": "base",
+    "brand": "Virpil",
+    "model": "VPC WarBRD-D Base",
+    "price": 260,
+    "priceNote": "approx 2026 street price, base only (~$234 on sale); grip separate",
+    "image": "/images/gear/space/virpil-warbrd-d-base.jpg",
+    "summary": "Virpil's compact, popular spring-cam base and the affordable way into the VPC ecosystem. The 'D' revision inherits the flagship MongoosT-50's independently adjustable axis clutch dampers, so you can run the stick fully free for raw inputs, semi-damped to steady your aim, or fully locked. It uses an aircraft-grade duralumin gimbal and a 14-bit native-resolution contactless sensor (0.02-degree detection), and every cam set now ships in the box. Swapping springs/cams means partial disassembly, which is the main usability gripe.",
+    "specs": {
+      "gimbal": "Aircraft-grade duralumin",
+      "sensor": "VPC digital contactless, 14-bit native (0.02° detection)",
+      "dampers": "Independently adjustable axis clutch dampers (free → semi → locked)",
+      "camsSprings": "Swappable springs (Standard/Heavy/X-Heavy) + AviaSim/CosmoSim cams (all included)",
+      "footprint": "Compact, desktop or cockpit-mountable",
+      "config": "VPC Software"
+    },
+    "pros": [
+      "Adjustable clutch dampers genuinely help steady long-range aim",
+      "All cam sets included — no extra purchases to find your feel",
+      "Compact duralumin build at a relatively accessible VPC price"
+    ],
+    "cons": [
+      "Changing springs/cams requires disassembly",
+      "Grip not included — add a Constellation ALPHA or similar",
+      "Often on backorder"
+    ],
+    "whoFor": "Buyers entering the Virpil ecosystem who want adjustable damping and duralumin quality without the flagship base price.",
+    "rating": { "overall": 9, "value": 8, "build": 9, "spaceFit": 9 },
+    "faqs": [
+      { "q": "WarBRD-D or MongoosT-50CM3 base?", "a": "The WarBRD-D is more compact and cheaper and shares the adjustable clutch dampers; the MongoosT-50CM3 is larger with a longer throw and more extension options. For most desktop HOSAS the WarBRD-D is the value pick." },
+      { "q": "Does it come with a grip?", "a": "No. The WarBRD-D is a base only; you mount a VPC grip such as the Constellation ALPHA on top." }
+    ],
+    "affiliate": { "primary": "virpil-controls.us.com", "note": "Base only; B-stock listings appear periodically at a discount." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "virpil-mongoost-50cm3-throttle",
+    "bay": "space",
+    "type": "throttle",
+    "brand": "Virpil",
+    "model": "VPC MongoosT-50CM3 Throttle",
+    "price": 380,
+    "priceNote": "approx 2026 street price (often ~$315 on sale)",
+    "image": "/images/gear/space/virpil-mongoost-50cm3-throttle.jpg",
+    "summary": "Virpil's flagship modular metal throttle and widely cited as one of the best HOTAS throttles ever made. It offers dual independent, linkable throttle axes with two adjustable detents, adjustable friction, an analog slew ministick and a deep cluster of programmable controls. Aircraft-grade duralumin mechanics and VPC contactless proximity sensors give it a tank-like feel, and four detent profiles (Classic, Warthog, Aerobatics, CosmoSim) let it adapt from jets to spaceships. For pure HOSAS it's optional, but it's superb for HOTAS or hybrid rigs.",
+    "specs": {
+      "axes": "Dual independent, linkable throttle axes + analog slew ministick",
+      "detents": "2 adjustable detents; 4 profiles (Classic/Warthog/Aerobatics/CosmoSim)",
+      "mechanics": "Aircraft-grade duralumin, adjustable friction",
+      "sensors": "VPC contactless digital proximity sensors",
+      "lighting": "Programmable LED",
+      "config": "VPC Software"
+    },
+    "pros": [
+      "Among the most precise, customizable throttles available",
+      "Dual axes + slew + huge programmable control count",
+      "A CosmoSim detent profile tailored for space sims"
+    ],
+    "cons": [
+      "Expensive and optional for a pure HOSAS setup",
+      "Heavy and large — wants a mount",
+      "VPC Software learning curve"
+    ],
+    "whoFor": "HOTAS or hybrid pilots who want a flagship throttle, or space pilots who keep a throttle for cruise/power control.",
+    "rating": { "overall": 9, "value": 8, "build": 10, "spaceFit": 7 },
+    "faqs": [
+      { "q": "Do I need this for space sims?", "a": "Not for a pure HOSAS — the off-hand stick handles thrust and strafe. It shines for HOTAS players or those who want a dedicated, ultra-precise throttle for cruise and power management." },
+      { "q": "Why is it so often on sale or out of stock?", "a": "Virpil sells in restock waves and frequently lists B-stock at a discount, so prices swing and stock is intermittent — buy when a drop lands." }
+    ],
+    "affiliate": { "primary": "virpil-controls.us.com", "note": "Watch for B-stock and sale pricing; modular extensions sold separately." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "winwing-ursa-minor-space",
+    "bay": "space",
+    "type": "stick",
+    "brand": "WinWing",
+    "model": "Ursa Minor Space Joystick",
+    "price": 115,
+    "priceNote": "approx 2026 street price, per stick (US official store)",
+    "image": "/images/gear/space/winwing-ursa-minor-space.jpg",
+    "summary": "The stick that reframed the budget HOSAS conversation in 2024-2025 — a 'budget champion' that undercuts VKB and Virpil while adding features they don't have at the price. It uses non-contact magnetic resistance sensors on X/Y, a 32-bit ARM controller, and a built-in vibration motor in the stick head for haptic feedback that syncs to in-game events. The Space variant adds a twist axis and a space-friendly button layout; a Fighter variant exists without twist. Two make a genuine sub-$240 HOSAS pair.",
+    "specs": {
+      "sensors": "Non-contact magnetic resistance on X/Y",
+      "haptics": "Built-in vibration motor in stick head (rare at this price)",
+      "twist": "Twist Z-axis (Space variant); Fighter variant omits twist",
+      "gimbal": "Glass-fiber-reinforced nylon pincer gimbal, ball bearings",
+      "controller": "32-bit ARM",
+      "config": "SimAppPro software"
+    },
+    "pros": [
+      "Magnetic sensors + in-stick vibration at a true budget price",
+      "Space variant's twist axis suits a full six-axis HOSAS",
+      "A pair lands around $220-240 — well under boutique cost"
+    ],
+    "cons": [
+      "Plastic-heavy gimbal vs all-metal VKB/Virpil internals",
+      "WinWing's grip/upgrade ecosystem is narrower than VKB's",
+      "SimAppPro required for tuning"
+    ],
+    "whoFor": "Budget-minded space pilots who want magnetic sensors and haptics in a cheap HOSAS pair without committing to a boutique ecosystem.",
+    "rating": { "overall": 9, "value": 10, "build": 7, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Is the Ursa Minor as good as the VKB Gladiator?", "a": "It's close and often cheaper, adds in-stick vibration, and matches the magnetic-sensor pitch. The Gladiator wins on gimbal pedigree and a broader upgrade path to the Gunfighter tier." },
+      { "q": "Space variant or Fighter variant?", "a": "Get the Space variant for HOSAS — it has the twist axis you need to cover all six axes. The Fighter variant drops twist and suits a HOTAS aircraft setup." }
+    ],
+    "affiliate": { "primary": "winwingsim.com (US store)", "note": "Buy left and right Space variants for a HOSAS pair; configured in SimAppPro." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "winwing-orion-2-base",
+    "bay": "space",
+    "type": "base",
+    "brand": "WinWing",
+    "model": "Orion 2 Joystick Base (MFSSB)",
+    "price": 390,
+    "priceNote": "approx 2026 street price, base only",
+    "image": "/images/gear/space/winwing-orion-2-base.jpg",
+    "summary": "WinWing's mid-tier all-metal modular base, sold in two flavors: a conventional gimbal version and the MFSSB (Movable Force Sensor Stick Base) that blends a short physical throw with force-sensing for a near-static, pressure-driven feel. It accepts F-16EX/F-15-style grips and is configured in SimAppPro. The conventional gimbal takes Light/Medium/Heavy springs and NC/SC cams with adjustable damping. The chief complaint is that cams, springs and damping aren't all included out of the box, so dialing in your feel can mean buying extras.",
+    "specs": {
+      "type": "Metal base; conventional gimbal or MFSSB force-sensor version",
+      "mfssb": "Force-sensing with a few degrees of movement; tunable via added force bars",
+      "camsSprings": "Light/Medium/Heavy springs, NC/SC cams, adjustable damping modules",
+      "grips": "Accepts WinWing F-16EX / F-15 grips",
+      "build": "All-metal base, matte-black finish",
+      "config": "SimAppPro software"
+    },
+    "pros": [
+      "All-metal mid-tier base undercutting comparable VKB/Virpil options",
+      "MFSSB option offers a distinctive force-sensing feel for precision",
+      "Strong tie-in with WinWing's cockpit panels and MFDs"
+    ],
+    "cons": [
+      "Cams/springs/damping not all included — extra spend to tune",
+      "Grip sold separately and is fighter-shaped (less ideal for symmetric HOSAS)",
+      "Out-of-box softness/oscillation noted with heavier grips"
+    ],
+    "whoFor": "Sim pilots already in the WinWing cockpit-panel ecosystem who want a metal mid-tier base for a fighter-style grip.",
+    "rating": { "overall": 8, "value": 8, "build": 8, "spaceFit": 7 },
+    "faqs": [
+      { "q": "What is MFSSB?", "a": "Movable Force Sensor Stick Base — it only moves a few degrees and reads the pressure you apply, blending a force-sensing stick with a small amount of physical travel. You tune required force by adding metal bars." },
+      { "q": "Is it a good HOSAS base?", "a": "It's better suited to a fighter-style HOTAS because the grips are right-hand-shaped. For a symmetric HOSAS pair, VKB Gunfighters or Virpil bases are an easier match." }
+    ],
+    "affiliate": { "primary": "winwingsim.com (US store)", "note": "Base only; budget for grip plus extra springs/cams. Configured in SimAppPro." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "winwing-orion-2-hotas-f16ex",
+    "bay": "space",
+    "type": "hotas",
+    "brand": "WinWing",
+    "model": "Orion 2 HOTAS (F-16EX combo)",
+    "price": 460,
+    "priceNote": "approx 2026 street price, stick + throttle combo (varies by grip)",
+    "image": "/images/gear/space/winwing-orion-2-hotas-f16ex.jpg",
+    "summary": "WinWing's full HOTAS bundle — an Orion 2 joystick base with an F-16EX metal grip plus the Orion 2 throttle — aimed at DCS/Falcon fighter pilots who also dip into space. The F-16EX grip is loaded with controls including an extra left-side module, and the metal-and-ABS construction has genuine heft and a quality matte finish. It's a strong fighter HOTAS, but for pure space combat a HOSAS is the more flexible choice; the included cams/springs also run soft, so heavier grips can feel slack until you upgrade them.",
+    "specs": {
+      "configuration": "Orion 2 base + F-16EX metal grip + Orion 2 throttle",
+      "grip": "F-16EX metal grip with extra left-side module, many controls",
+      "build": "All-metal base + metal/ABS grip and throttle",
+      "expansion": "Optional shaker kit; panels/MFDs add on",
+      "extras": "Springs/damping sold separately for tuning",
+      "config": "SimAppPro software"
+    },
+    "pros": [
+      "Complete metal HOTAS at a competitive combo price",
+      "Feature-dense F-16EX grip and a quality throttle",
+      "Plugs into WinWing's wider panel/MFD ecosystem"
+    ],
+    "cons": [
+      "HOTAS shape is a weaker fit for pure six-axis space combat than HOSAS",
+      "Stock cams/springs are soft — heavier grips feel slack until upgraded",
+      "Extra springs/damping cost more on top"
+    ],
+    "whoFor": "Fighter-sim pilots who want a metal HOTAS for DCS/Falcon and occasional space, not a dedicated HOSAS space build.",
+    "rating": { "overall": 8, "value": 8, "build": 8, "spaceFit": 6 },
+    "faqs": [
+      { "q": "Is a HOTAS like this good for Star Citizen/Elite?", "a": "It works, and players from atmospheric flight often prefer it, but most dedicated space pilots favor HOSAS because two sticks cover the lateral strafe thrusters a throttle can't." },
+      { "q": "Do I need to buy extra springs?", "a": "Often yes — reviewers note the included cams/springs are soft for the heavier F-16EX grip, so a stiffer spring kit improves the feel." }
+    ],
+    "affiliate": { "primary": "winwingsim.com (US store)", "note": "Combo pricing varies by grip and shaker-kit options; configured in SimAppPro." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "thrustmaster-t16000m-fcs",
+    "bay": "space",
+    "type": "stick",
+    "brand": "Thrustmaster",
+    "model": "T.16000M FCS (Stick Only)",
+    "price": 80,
+    "priceNote": "approx 2026 street price, single stick",
+    "image": "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "summary": "The mass-retail gateway stick and the classic cheap HOSAS building block. It uses Thrustmaster's H.E.A.R.T Hall-effect magnetic sensors for 16-bit (16000x16000) precision that won't drift over time, and it's fully ambidextrous — three removable components reconfigure it for left or right hand, so two T.16000Ms make the standard budget twin-stick rig. You get 16 buttons with braille-style markings, an 8-way hat and four axes including twist. The trade-off is a plastic build and a lighter, simpler feel than the boutique sticks.",
+    "specs": {
+      "sensors": "H.E.A.R.T Hall-effect magnetic, 16-bit (16000x16000)",
+      "handedness": "Fully ambidextrous — 3 removable parts swap L/R",
+      "buttons": "16 buttons (braille-marked) + 8-way PoV hat",
+      "axes": "4 axes including twist rudder",
+      "build": "Plastic body, widely available at retail",
+      "config": "TARGET software (optional)"
+    },
+    "pros": [
+      "Hall-effect sensors that resist drift, at a rock-bottom price",
+      "Fully ambidextrous — two sticks make the cheapest real HOSAS",
+      "Mass retail availability; easy to buy two"
+    ],
+    "cons": [
+      "All-plastic build feels light vs boutique sticks",
+      "No swappable cams/springs or premium grip options",
+      "Lightweight base benefits from a mount under combat input"
+    ],
+    "whoFor": "First-time space pilots who want the cheapest credible HOSAS — buy two ambidextrous sticks and tune from there.",
+    "rating": { "overall": 8, "value": 10, "build": 6, "spaceFit": 8 },
+    "faqs": [
+      { "q": "Can I just buy two of the same stick for HOSAS?", "a": "Yes — the T.16000M is fully ambidextrous, so two identical sticks reconfigure into a left and right pair. It's the canonical budget HOSAS approach." },
+      { "q": "Are Hall-effect sensors worth it?", "a": "Yes. They're contactless and magnetic, so they don't suffer the center drift that plagues cheap potentiometer sticks — a big reason the T.16000M punches above its price." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Buy two for a HOSAS, or grab the Space Sim Duo twin-pack to save a little." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "thrustmaster-t16000m-fcs-hotas",
+    "bay": "space",
+    "type": "hotas",
+    "brand": "Thrustmaster",
+    "model": "T.16000M FCS HOTAS (stick + TWCS throttle)",
+    "price": 170,
+    "priceNote": "approx 2026 street price (often discounted from ~$230 MSRP)",
+    "image": "/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg",
+    "summary": "The budget HOTAS gateway: the ambidextrous Hall-effect T.16000M stick paired with the TWCS throttle, which slides linearly on rails like a real fighter throttle rather than rotating. Together they give 9 axes, 30 buttons and two 8-way hats — generous for the money. It's comfortable beyond its looks and accurate, with the headline caveat being a stiff throttle and a setup curve (you map inputs individually). For space, many still prefer twin T.16000M sticks, but this is a solid air-and-space starter HOTAS.",
+    "specs": {
+      "configuration": "T.16000M stick + TWCS throttle",
+      "sensors": "H.E.A.R.T Hall-effect magnetic on the stick",
+      "throttle": "Linear sliding-rail throttle (not rotary)",
+      "totals": "9 axes, 30 buttons, two 8-way PoV hats",
+      "expansion": "Optional TFRP rudder pedals add 3 axes (Flight Pack)",
+      "config": "TARGET software"
+    },
+    "pros": [
+      "Affordable full HOTAS with Hall-effect stick precision",
+      "Linear rail throttle feels more authentic than rotary budget throttles",
+      "9 axes / 30 buttons is generous for the price"
+    ],
+    "cons": [
+      "TWCS throttle spring is stiff out of the box",
+      "Manual per-input mapping creates a setup learning curve",
+      "HOTAS is a weaker fit than HOSAS for pure space combat"
+    ],
+    "whoFor": "Newcomers crossing over from atmospheric flight who want a cheap, complete HOTAS that also handles space.",
+    "rating": { "overall": 8, "value": 9, "build": 6, "spaceFit": 7 },
+    "faqs": [
+      { "q": "HOTAS or two sticks for space?", "a": "For pure space combat a twin-T.16000M HOSAS is usually more flexible. This HOTAS is the better pick if you also fly aircraft sims and want one setup for both." },
+      { "q": "Is the throttle any good?", "a": "It's a genuine linear sliding-rail throttle with lots of controls — uncommon at this price — but the spring is stiff and some users loosen or mod it." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Frequently discounted; the Flight Pack adds TFRP rudder pedals for ~$100 more." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "thrustmaster-hotas-warthog",
+    "bay": "space",
+    "type": "hotas",
+    "brand": "Thrustmaster",
+    "model": "HOTAS Warthog",
+    "price": 500,
+    "priceNote": "approx 2026 street price (full stick + dual throttle)",
+    "image": "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "summary": "The prestige mainstream HOTAS — an all-metal 1:1 replica of the A-10C Thunderbolt II's stick and dual-throttle, with weighty construction and a vast array of programmable buttons and switches. It's a benchmark for build quality and longevity. The catch for space sims is that it's aircraft-shaped: there's no twist axis on the stick, so it can't natively reach all six degrees of freedom the way a HOSAS or a twisting stick can. It's a poorer fit for pure space than for DCS/atmospheric flight, but it's superb hardware.",
+    "specs": {
+      "build": "All-metal stick + dual-throttle, A-10C 1:1 replica",
+      "twist": "None — fixed stick, no twist axis (a key space limitation)",
+      "buttons": "Large count of programmable buttons/switches across stick + throttle",
+      "sensors": "Magnetic Hall-effect sensors on main axes",
+      "footprint": "Heavy and bulky — needs significant desk space",
+      "config": "TARGET software"
+    },
+    "pros": [
+      "Reference-grade all-metal build that lasts for years",
+      "Huge programmable button/switch count across stick and throttle",
+      "Dual-throttle realism prized by aircraft simmers"
+    ],
+    "cons": [
+      "No twist axis — a weak fit for six-axis space combat",
+      "Heavy, bulky and demanding of desk space",
+      "Expensive relative to space-focused HOSAS options"
+    ],
+    "whoFor": "DCS and atmospheric-flight enthusiasts who want a heirloom HOTAS and only occasionally fly space.",
+    "rating": { "overall": 8, "value": 7, "build": 10, "spaceFit": 5 },
+    "faqs": [
+      { "q": "Is the Warthog good for space sims?", "a": "It's exceptional hardware but aircraft-shaped — the stick has no twist axis, so it can't natively cover all six space-flight axes. A HOSAS or a twisting stick is a better space choice." },
+      { "q": "Why is it so expensive?", "a": "It's an all-metal 1:1 A-10C replica with a dual-throttle and dozens of switches, built to last — you're paying for benchmark fidelity and durability." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Watch for sales; pair with separate rudder pedals for full atmospheric flight." },
+    "platforms": "PC (most boutique sticks are PC-only)"
+  },
+  {
+    "id": "turtle-beach-velocityone-flightstick",
+    "bay": "space",
+    "type": "stick",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne Flightstick",
+    "price": 130,
+    "priceNote": "approx 2026 street price (seen ~$97-99 on sale)",
+    "image": "/images/gear/space/turtle-beach-velocityone-flightstick.jpg",
+    "summary": "The rare licensed Xbox-compatible flight stick, explicitly marketed for air AND space combat — and the default answer for console pilots who can't use PC-only boutique gear. It packs an OLED data display, 27 programmable buttons, an ambidextrous-adjustable design, a built-in touchpad and an integrated mini-throttle, all over a single USB-A-to-C cable. Reviewers like the feature set and value but flag a very stiff, non-adjustable centering spring, small throttle levers and a light base that tips easily. It's better on PC, but it's the Xbox option that matters.",
+    "specs": {
+      "platforms": "Xbox + PC (the main licensed Xbox flight stick)",
+      "display": "Built-in OLED for flight data",
+      "buttons": "27 programmable buttons + integrated touchpad",
+      "design": "Ambidextrous-adjustable, integrated mini-throttle",
+      "spring": "Stiff, non-adjustable centering spring (common complaint)",
+      "connection": "10ft USB-A to USB-C"
+    },
+    "pros": [
+      "One of the only flight sticks that works on Xbox",
+      "OLED display, touchpad and 27 buttons at a mainstream price",
+      "Ambidextrous-adjustable for left- or right-hand use"
+    ],
+    "cons": [
+      "Very stiff, non-adjustable centering spring",
+      "Small throttle levers and a light, tip-prone base",
+      "Single stick — not a HOSAS solution on its own"
+    ],
+    "whoFor": "Console (Xbox) space pilots, or PC newcomers who want a feature-packed single stick before committing to boutique HOSAS gear.",
+    "rating": { "overall": 7, "value": 8, "build": 7, "spaceFit": 6 },
+    "faqs": [
+      { "q": "Can I use a VKB or Virpil stick on Xbox?", "a": "No — boutique sticks are PC-only. The Turtle Beach VelocityOne Flightstick is the main licensed Xbox option for air and space combat." },
+      { "q": "Is the stiff spring a dealbreaker?", "a": "It's the most common complaint and it can't be adjusted, so fine, steady aiming takes getting used to. For the price and Xbox support, most buyers accept it." }
+    ],
+    "affiliate": { "primary": "turtlebeach.com", "note": "Frequently discounted to ~$97-99; works on Xbox and PC out of the box." },
+    "platforms": "Xbox and PC (the rare console-compatible flight stick)"
+  },
+  {
+    "id": "monstertech-table-mount",
+    "bay": "space",
+    "type": "mount",
+    "brand": "Monstertech",
+    "model": "Joystick / HOTAS Table Mount",
+    "price": 100,
+    "priceNote": "approx 2026 street price per single mount (a HOSAS/HOTAS pair runs ~$200+)",
+    "image": "/images/gear/space/monstertech-table-mount.jpg",
+    "summary": "The dominant aluminum mounting brand and the standard fix for the under-appreciated HOSAS problem: tabletop baseplates slide under aggressive combat input. Monstertech mounts are anodized aluminum profiles with a quick-release clamp that attaches or removes in seconds and lock each stick rigid at an ergonomic angle. They're broadly compatible — Brunner, CH, Logitech/Saitek, Thrustmaster, VKB, Virpil and WinWing — so a HOSAS needs two mounts (one per stick), and a HOTAS likewise. Pricey, but a buy-once item.",
+    "specs": {
+      "material": "Anodized aluminum profile",
+      "clamp": "Quick-release clamp — seconds to attach/remove",
+      "compatibility": "Brunner, CH, Logitech/Saitek, Thrustmaster, VKB, Virpil, WinWing",
+      "mounting": "Table/desk-edge clamp (chair-mount variants also offered)",
+      "perRig": "HOSAS needs 2 mounts; HOTAS needs 2 (stick + throttle)",
+      "options": "Standard and long-arm versions; MFD supports available"
+    },
+    "pros": [
+      "Rock-solid — eliminates the sliding-baseplate problem entirely",
+      "Quick-release clamp mounts/dismounts in seconds",
+      "Universal compatibility across every major stick brand"
+    ],
+    "cons": [
+      "Expensive — two mounts for a full rig adds up",
+      "Requires a suitable desk edge or chair to clamp to",
+      "Assembly and angle setup take a few minutes"
+    ],
+    "whoFor": "Anyone running a HOSAS or HOTAS who's tired of sticks sliding under combat input and wants a permanent, rigid mount.",
+    "rating": { "overall": 9, "value": 8, "build": 10, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Why do my flight sticks slide around?", "a": "Tabletop baseplates lose grip under aggressive combat input. Clamp-mounting each stick to a desk edge or chair with an aluminum mount locks them rigid so they don't move." },
+      { "q": "How many mounts do I need for a HOSAS?", "a": "Two — one per stick. A HOTAS likewise needs two (one for the stick, one for the throttle). Plan the cost as part of the rig." }
+    ],
+    "affiliate": { "primary": "monster.tech", "note": "Buy two for a full HOSAS/HOTAS; choose standard vs long-arm to fit your desk." },
+    "platforms": "Hardware mount — platform-agnostic (works with any PC/Xbox stick)"
+  }
+]

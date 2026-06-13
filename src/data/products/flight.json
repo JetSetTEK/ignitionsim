@@ -1,0 +1,705 @@
+[
+  {
+    "id": "honeycomb-alpha-yoke",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Honeycomb Aeronautical",
+    "model": "Alpha Flight Controls",
+    "price": 250,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "summary": "The Alpha is the yoke that made Honeycomb the default GA standard, and it still earns the spot. A solid steel shaft on dual linear ball bearings gives 180 degrees of smooth, self-centering rotation with almost no deadzone, and the integrated panel packs the master/alternator/avionics/light switches plus a five-position ignition you would otherwise click on screen. Elevator tension is satisfyingly firm while the aileron axis runs a touch light, and the body is molded plastic rather than metal at this price. For general-aviation flying in MSFS or X-Plane it remains the most-recommended yoke under $300.",
+    "specs": {
+      "Rotation": "180 degrees, self-centering, no center detent",
+      "Shaft": "Solid steel, dual linear ball bearings, ~15 cm travel",
+      "Integrated panel": "Master/alternator/avionics/light switches + 5-position ignition",
+      "Handle controls": "8-way POV, 2-way rockers, 3 buttons, push-to-talk per grip",
+      "Backlighting": "Red LED on switch panel",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Smooth, low-deadzone steel-shaft control with realistic 180-degree throw",
+      "Built-in ignition and electrical switch panel removes a pile of on-screen clicks",
+      "The de-facto GA standard with broad MSFS 2024 and X-Plane 12 support"
+    ],
+    "cons": [
+      "Plastic body rather than metal at this price",
+      "Aileron axis feels a little light next to the firm elevator",
+      "Configurator/setup can be finicky on first install"
+    ],
+    "whoFor": "GA simmers who want the most-recommended yoke-and-switch-panel combo without stepping up to force feedback.",
+    "rating": { "overall": 9, "value": 9, "build": 7, "realism": 8 },
+    "faqs": [
+      { "q": "Does the Honeycomb Alpha work on Xbox?", "a": "The standard Alpha is PC/Mac; Xbox Series X|S compatibility requires the Alpha XPC edition or the Honeycomb Xbox Hub." },
+      { "q": "Do I need rudder pedals with the Alpha?", "a": "Not to start. The Alpha has no rudder axis, but MSFS auto-rudder or a twist-stick covers taxi and gentle flight until you add pedals." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Often bundled with the Bravo throttle at a discount versus buying separately." },
+    "platforms": "PC / Mac (Xbox via XPC edition or Honeycomb Hub)"
+  },
+  {
+    "id": "honeycomb-bravo-throttle",
+    "bay": "flight",
+    "type": "throttle",
+    "brand": "Honeycomb Aeronautical",
+    "model": "Bravo Throttle Quadrant",
+    "price": 280,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/honeycomb-bravo-throttle.jpg",
+    "summary": "The Bravo is an entire power-management cockpit in one box, which is why it sits next to the Alpha on nearly every GA recommendation list. Six swappable levers reconfigure from a single-engine GA throw to twin- or four-engine airliner layouts, and the integrated autopilot panel with its rotary, mode buttons and 14-light annunciator covers functions you would otherwise hunt for on screen. A real trim wheel and a gear lever round it out. Reviews are consistently strong (Best Buy users sit around 4.8/5); the main gripes are plastic construction and lever tension that some find light by default.",
+    "specs": {
+      "Levers": "6 swappable, GA single-engine to 4-engine commercial layouts",
+      "Autopilot panel": "Rotary + mode buttons (HDG/NAV/APR/REV/ALT/VS/IAS)",
+      "Annunciator": "14 indicator lights",
+      "Extras": "Trim wheel + gear lever",
+      "Tension": "Adjustable lever tension dial",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Six swappable levers cover everything from a Cessna to a four-engine jet",
+      "Built-in autopilot panel and annunciator replace on-screen clicking",
+      "Real trim wheel and gear lever add tactile depth most quadrants lack"
+    ],
+    "cons": [
+      "Plastic build at a near-$300 price",
+      "Default lever tension feels light to some pilots",
+      "Autopilot panel mapping varies by aircraft and can need tweaking"
+    ],
+    "whoFor": "Simmers who want one throttle quadrant that handles GA and airliners plus an autopilot panel in the same unit.",
+    "rating": { "overall": 9, "value": 9, "build": 7, "versatility": 10 },
+    "faqs": [
+      { "q": "Does the Bravo autopilot panel work with airliners?", "a": "Yes for many aircraft, though complex airliners like the Fenix A320 or PMDG 737 may need custom binding; the panel is designed around common GA and light-jet autopilot logic." },
+      { "q": "Can the Bravo do four-engine aircraft?", "a": "Yes. The six levers can be arranged for single, twin or four-engine configurations using the included lever set." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "The Alpha + Bravo bundle (~$500) is the common single-purchase GA cockpit." },
+    "platforms": "PC / Mac (Xbox via Honeycomb Hub)"
+  },
+  {
+    "id": "honeycomb-charlie-pedals",
+    "bay": "flight",
+    "type": "pedals",
+    "brand": "Honeycomb Aeronautical",
+    "model": "Charlie Rudder Pedals",
+    "price": 270,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "summary": "The Charlie completes the all-Honeycomb GA flight deck, and unlike the plastic Alpha and Bravo it goes aluminum. A belt-drive rudder axis runs on the latest-generation Hall-effect magnetic sensors, so there are no pots to drift or wear, and variable-pressure toe brakes give proportional braking that cheaper sliding pedals fudge. Foot angle is adjustable for comfort, a tension knob tunes the rudder, and the anti-slip base uses rubber pads plus reversible carpet spikes. It is more expensive than the Logitech entry pedals, but the Hall-effect sensors and metal frame are what you pay for.",
+    "specs": {
+      "Construction": "Aluminum frame, belt-drive rudder",
+      "Sensors": "Hall-effect magnetic (rudder + toe brakes)",
+      "Toe brakes": "Variable-pressure, independent left/right",
+      "Adjustability": "Adjustable foot angle + rudder tension knob",
+      "Grip": "Rubber pads + reversible carpet spikes",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Aluminum build and Hall-effect sensors resist drift and wear",
+      "Variable-pressure toe brakes feel proportional, not on/off",
+      "Adjustable foot angle and tension suit a range of leg lengths"
+    ],
+    "cons": [
+      "Pricier than the Logitech entry pedals",
+      "Belt-drive rudder is lighter than premium pendular pedals",
+      "Xbox use requires the Honeycomb Hub / Alpha XPC"
+    ],
+    "whoFor": "GA pilots completing a Honeycomb deck who want metal pedals with Hall-effect longevity and real toe brakes.",
+    "rating": { "overall": 8, "value": 8, "build": 9, "realism": 8 },
+    "faqs": [
+      { "q": "Do the Charlie pedals have toe brakes?", "a": "Yes, variable-pressure differential toe brakes on each pedal, both on Hall-effect sensors." },
+      { "q": "Are the Charlie pedals worth it over Logitech?", "a": "If you value the aluminum frame and Hall-effect sensors for longevity and precision, yes; the Logitech pedals cost less but use a lower-resolution axis." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Sold widely through pilot-shop retailers; check for Honeycomb three-piece bundle pricing." },
+    "platforms": "PC / Mac (Xbox via Honeycomb Hub / Alpha XPC)"
+  },
+  {
+    "id": "thrustmaster-tca-sidestick-airbus",
+    "bay": "flight",
+    "type": "stick",
+    "brand": "Thrustmaster",
+    "model": "TCA Sidestick Airbus Edition",
+    "price": 80,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "summary": "The cheapest authentic way into Airbus flying, the TCA Sidestick is a 1:1 replica of the A320 side-stick built on Thrustmaster's proven T.16000M internals. It uses contactless H.E.A.R.T magnetic sensors, so there are no pots to wear out, and it carries 17 buttons with braille-style markings, four swappable head modules and a twist-rudder axis plus a small thrust lever with a reverser detent. It is comfortable on a desk, lap or table and pairs naturally with the TCA Quadrant for a full Airbus setup. At around $80 it is the value entry point for Fenix A320 pilots.",
+    "specs": {
+      "Type": "1:1 A320 side-stick replica (T.16000M base)",
+      "Sensors": "Contactless H.E.A.R.T magnetic",
+      "Buttons": "17 action buttons, braille-style markings",
+      "Heads": "4 swappable joystick head modules",
+      "Rudder": "Twist-handle rudder axis",
+      "Thrust": "Built-in thrust lever with reverser"
+    },
+    "pros": [
+      "Authentic Airbus side-stick feel for around $80",
+      "Contactless magnetic sensors mean no pot wear",
+      "Twist rudder and built-in thrust let it fly solo without extra gear"
+    ],
+    "cons": [
+      "Side-stick suits Airbus, not Boeing or GA yoke flying",
+      "Mostly plastic construction",
+      "Twist rudder is a stopgap versus real pedals"
+    ],
+    "whoFor": "Airbus simmers who want a true-to-scale A320 side-stick on a budget.",
+    "rating": { "overall": 9, "value": 10, "build": 7, "realism": 8 },
+    "faqs": [
+      { "q": "Does the TCA Sidestick work on Xbox?", "a": "There is a TCA Sidestick X Airbus Edition for Xbox Series X|S and PC; the standard edition is PC-focused." },
+      { "q": "Is it good for the Fenix A320?", "a": "Yes, it is the natural budget side-stick match for the Fenix A320 and other Airbus add-ons, and pairs with the TCA Quadrant." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Frequently paired with the TCA Quadrant Airbus or sold in the Captain Pack bundle." },
+    "platforms": "PC (Xbox via TCA Sidestick X edition)"
+  },
+  {
+    "id": "thrustmaster-tca-quadrant-airbus",
+    "bay": "flight",
+    "type": "throttle",
+    "brand": "Thrustmaster",
+    "model": "TCA Quadrant Airbus Edition",
+    "price": 100,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "summary": "The TCA Quadrant is a dual-lever Airbus throttle replica that nails the detail that matters most to airliner pilots: authentic A320neo-style detents at Idle, Climb, Flex and TO/GA, plus thrust reversers with fingertip safety stops. It runs on the same contactless H.E.A.R.T sensors as the side-stick for effectively unlimited lifespan, carries two engine-master switches and 16 buttons, and detent tension is adjustable or fully disabled by flipping pads underneath. An optional Add-On module bolts on flaps, speed-brake, gear and parking-brake levers. It is the cheap, authentic Airbus quadrant.",
+    "specs": {
+      "Type": "Dual-lever A320neo throttle replica",
+      "Detents": "Idle / Climb / Flex / TO/GA, adjustable or disabled",
+      "Sensors": "Contactless H.E.A.R.T magnetic",
+      "Reversers": "Fingertip reverser levers with safety stops",
+      "Controls": "2 engine-master switches + 16 buttons",
+      "Expansion": "Optional Add-On module (flaps/speedbrake/gear/parking brake)"
+    },
+    "pros": [
+      "Authentic Airbus detent gates at Idle/Climb/Flex/TO-GA",
+      "Contactless sensors give it effectively unlimited lifespan",
+      "Add-On module path expands it into a fuller pedestal"
+    ],
+    "cons": [
+      "Two-lever Airbus layout only; not for GA or Boeing",
+      "Add-On module is a separate purchase",
+      "Plastic build"
+    ],
+    "whoFor": "Airbus pilots who want a detented throttle quadrant that pairs with the TCA Sidestick.",
+    "rating": { "overall": 9, "value": 9, "build": 7, "realism": 9 },
+    "faqs": [
+      { "q": "Can I disable the throttle detents?", "a": "Yes. Detent tension is adjustable with the included tool, or you can disable detents entirely by reversing two pads on the underside of the chassis." },
+      { "q": "What does the Add-On module add?", "a": "It connects underneath to add flaps, speed-brake, gear and parking-brake levers plus two rotaries, building toward a fuller Airbus pedestal." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Pair with the TCA Sidestick; the Captain Pack X bundles both." },
+    "platforms": "PC (Xbox via TCA Captain Pack X)"
+  },
+  {
+    "id": "thrustmaster-tca-yoke-boeing",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Thrustmaster",
+    "model": "TCA Yoke Pack Boeing Edition",
+    "price": 500,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg",
+    "summary": "Thrustmaster's answer for Boeing pilots, the TCA Yoke Pack bundles a 1:1 787-inspired yoke with a throttle quadrant. The yoke is the standout: heavy at 8 lb, built with H.E.A.R.T magnetic sensors at 16-bit resolution on the main axes, and using a PENDUL_R mechanism that swings the wheel through realistic airliner kinematics rather than a flat slide. The quadrant adds dual thrust levers with working reversers, speed-brake and flap levers and an autopilot row. Reviewers rate the yoke as close to a real airliner column as consumer gear gets, while flagging a springy quadrant and a clunky autopilot knob.",
+    "specs": {
+      "Yoke": "1:1 Boeing 787-inspired, PENDUL_R mechanism",
+      "Sensors": "H.E.A.R.T magnetic, 16-bit main axes",
+      "Yoke weight": "~3.6 kg (8 lb)",
+      "Controls": "35 action buttons + 2 hats across the pack",
+      "Quadrant": "Swappable levers, dual reversers, speedbrake, flap, autopilot",
+      "Connection": "USB"
+    },
+    "pros": [
+      "PENDUL_R yoke motion is among the most realistic in consumer gear",
+      "Heavy, high-quality build that should last for years",
+      "H.E.A.R.T magnetic sensors avoid pot wear"
+    ],
+    "cons": [
+      "Quadrant has a spring-back that can let throttle settings drift",
+      "Autopilot knob setup feels clunky and unrefined",
+      "Boeing-specific feel; Airbus and GA pilots are served elsewhere"
+    ],
+    "whoFor": "Boeing airliner simmers who want a 787-style yoke and matching quadrant in one premium pack.",
+    "rating": { "overall": 8, "value": 7, "build": 9, "realism": 9 },
+    "faqs": [
+      { "q": "What does the PENDUL_R mechanism do?", "a": "It swings the yoke wheel around a pivot to replicate the kinematics of a real airliner control column rather than sliding flat, for a more authentic feel." },
+      { "q": "Can I buy the quadrant separately?", "a": "The pack is sold as a bundle around $500, and the quadrant has been available alone for roughly $170." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Sold as the Yoke Pack bundle; quadrant occasionally available standalone." },
+    "platforms": "PC / Xbox Series X|S"
+  },
+  {
+    "id": "thrustmaster-hotas-warthog",
+    "bay": "flight",
+    "type": "hotas",
+    "brand": "Thrustmaster",
+    "model": "HOTAS Warthog",
+    "price": 500,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/thrustmaster-hotas-warthog.jpg",
+    "summary": "The Warthog is the long-standing benchmark for military HOTAS realism, a 1:1 replica of the A-10C Warthog's stick and dual-throttle built almost entirely from metal. It weighs over 14 lb, the detachable H.E.A.R.T magnetic stick runs at 16-bit resolution with a five-coil spring for firm, deadzone-free centering, and there are 19 buttons plus an 8-way hat on the stick alone. It is overkill for civil flying and has no twist rudder, but for DCS and combat sims its build quality and authenticity are still hard to beat years after launch.",
+    "specs": {
+      "Construction": "All-metal stick, throttle and bases",
+      "Total weight": "Over 14 lb (6.3+ kg)",
+      "Sensors": "H.E.A.R.T magnetic, 16-bit resolution",
+      "Stick": "Detachable, 19 buttons + 8-way POV, 5-coil spring",
+      "Throttle": "Dual-throttle metal handles",
+      "Connection": "USB"
+    },
+    "pros": [
+      "All-metal 1:1 A-10C build that feels genuinely aircraft-grade",
+      "H.E.A.R.T magnetic stick sensor avoids drift and dead zones",
+      "Long-proven reliability and huge DCS community support"
+    ],
+    "cons": [
+      "Overkill and the wrong layout for civil GA or airliner flying",
+      "No twist rudder; needs separate pedals",
+      "Heavy and large; TARGET software has a learning curve"
+    ],
+    "whoFor": "Combat and military-sim pilots who want a metal A-10C HOTAS that lasts.",
+    "rating": { "overall": 9, "value": 7, "build": 10, "realism": 9 },
+    "faqs": [
+      { "q": "Is the Warthog good for MSFS civil flying?", "a": "It works, but it is a military A-10C layout with no twist rudder; civil GA flyers are better served by a yoke, and it shines most in DCS and combat sims." },
+      { "q": "Does the Warthog have force feedback?", "a": "No. It uses a five-coil spring for firm self-centering, not active force feedback." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Pairs with TPR or other pedals; TARGET software adds advanced mapping." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-g-pro-flight-yoke-system",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Logitech G (Saitek)",
+    "model": "G PRO Flight Yoke System",
+    "price": 180,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/logitech-g-pro-flight-yoke-system.jpg",
+    "summary": "The Logitech G PRO Flight Yoke System is the classic beginner buy: a stainless-steel-shaft yoke plus a three-lever throttle quadrant in one box, with 75 programmable controls and a POV hat. It clamps to a desk, works across MSFS, X-Plane, FSX and P3D, and is the cheapest credible path into the modular Saitek panel ecosystem. The trade-off is age, the axes use potentiometers that can drift over years, and the throttle quadrant tops out around 45 degrees of travel, but for the money it is still the most-recommended first yoke for GA newcomers.",
+    "specs": {
+      "Includes": "Yoke + 3-lever throttle quadrant",
+      "Shaft": "Stainless steel",
+      "Controls": "75 programmable inputs incl. POV hat and 14 buttons",
+      "Sensors": "Potentiometer-based axes",
+      "Mounting": "Desk clamp",
+      "Connection": "USB (throttle daisy-chains)"
+    },
+    "pros": [
+      "Yoke and throttle quadrant together for around $180",
+      "75 programmable controls and broad sim compatibility",
+      "Gateway into the stackable Saitek/Logitech panel ecosystem"
+    ],
+    "cons": [
+      "Aging potentiometer axes can drift over time",
+      "Throttle travel limited to about 45 degrees",
+      "Plastic build and dated ergonomics"
+    ],
+    "whoFor": "Beginners who want a single-box yoke-and-throttle to get airborne in GA aircraft cheaply.",
+    "rating": { "overall": 8, "value": 9, "build": 6, "realism": 7 },
+    "faqs": [
+      { "q": "Is the Logitech G PRO Flight Yoke good for beginners?", "a": "Yes, it is the most common first yoke for GA simmers because it bundles the yoke and throttle and costs far less than a Honeycomb pairing." },
+      { "q": "Does it work on Xbox?", "a": "No, the PRO Flight Yoke System is PC (and Mac) only." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Foundation of the Saitek panel stack; add Radio/Multi/Switch panels later." },
+    "platforms": "PC / Mac"
+  },
+  {
+    "id": "logitech-g-flight-rudder-pedals",
+    "bay": "flight",
+    "type": "pedals",
+    "brand": "Logitech G (Saitek)",
+    "model": "G Flight Rudder Pedals",
+    "price": 180,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
+    "summary": "The Logitech G Flight Rudder Pedals are the standard budget entry pedals: self-centering, with differential toe brakes and an adjustable damping dial that ranges from a light GA feel to a heavier jet feel. The footrests slide to fit a wide range of sizes and use non-slip material, and the frame is sturdy underfoot despite being plastic. Sensor resolution is modest (a 9-bit rudder and 7-bit brake axis), so they are not as precise as the metal alternatives, but at roughly half the price of all-metal pedals they are the easy first set for entry-level simmers.",
+    "specs": {
+      "Design": "Self-centering, adjustable damping dial",
+      "Toe brakes": "Differential left/right toe brakes",
+      "Rudder axis": "9-bit",
+      "Brake axis": "7-bit",
+      "Footrests": "Adjustable width, non-slip",
+      "Connection": "USB 2.0"
+    },
+    "pros": [
+      "Affordable entry pedals with real differential toe brakes",
+      "Adjustable damping spans light GA to heavy-jet feel",
+      "Wide, adjustable footrests feel sturdy underfoot"
+    ],
+    "cons": [
+      "Low sensor resolution versus metal/Hall-effect pedals",
+      "Plastic construction",
+      "PC only, no Xbox support"
+    ],
+    "whoFor": "Newer simmers who want their first dedicated rudder pedals with toe brakes without spending big.",
+    "rating": { "overall": 8, "value": 9, "build": 6, "realism": 7 },
+    "faqs": [
+      { "q": "Do the Logitech rudder pedals have toe brakes?", "a": "Yes, independent differential toe brakes on each pedal, useful for crosswind landings and taxi steering." },
+      { "q": "Are they good enough long-term?", "a": "For most GA flying yes; serious or heavy-use simmers eventually move to metal Hall-effect pedals like the Honeycomb Charlie for precision and longevity." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Common budget pedal pick across the Logitech ecosystem." },
+    "platforms": "PC / Mac"
+  },
+  {
+    "id": "logitech-pro-flight-radio-panel",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "Logitech G (Saitek)",
+    "model": "Pro Flight Radio Panel",
+    "price": 100,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/logitech-pro-flight-radio-panel.jpg",
+    "summary": "The Pro Flight Radio Panel is the cheapest way to put real radio tuning under your fingers. Four LED displays and dual concentric knobs handle COM1/2, NAV1/2, DME, ADF and transponder, working in real time with FSX, X-Plane, P3D and MSFS so you stop fiddling with on-screen radio stacks. It bracket-mounts to the base of the Logitech yoke or stacks with the other Pro Flight panels, and several can sit side-by-side or stacked. Like the rest of the Saitek line it is plastic and somewhat dated, but for the price it is a genuine immersion upgrade for GA pilots.",
+    "specs": {
+      "Displays": "4 LED readouts",
+      "Tuning": "COM1/2, NAV1/2, DME, ADF, XPDR",
+      "Controls": "Dual concentric tuning knobs + standby swap",
+      "Mounting": "Brackets to yoke base or stacks with Pro Flight panels",
+      "Sims": "FSX / X-Plane / P3D / MSFS",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Physical radio tuning across COM/NAV/DME/ADF/XPDR",
+      "Stacks and brackets with the rest of the Saitek panel range",
+      "Inexpensive immersion upgrade for GA cockpits"
+    ],
+    "cons": [
+      "Plastic build and aging design",
+      "PC only and benefits from a powered USB hub in a multi-panel stack",
+      "Setup/driver fiddling is common"
+    ],
+    "whoFor": "GA simmers building a modular Saitek panel stack who want tactile radio tuning.",
+    "rating": { "overall": 7, "value": 8, "build": 6, "realism": 7 },
+    "faqs": [
+      { "q": "Does the Radio Panel need special drivers?", "a": "It uses Logitech/Saitek drivers or a plugin depending on the sim; multi-panel stacks should run from a powered USB hub to avoid detection issues." },
+      { "q": "Can I stack multiple Pro Flight panels?", "a": "Yes, the Radio, Multi and Switch panels stack or sit side-by-side and bracket to the yoke base." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Part of the stackable Pro Flight panel family (Radio/Multi/Switch/Instrument)." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-pro-flight-multi-panel",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "Logitech G (Saitek)",
+    "model": "Pro Flight Multi Panel",
+    "price": 100,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/logitech-pro-flight-multi-panel.jpg",
+    "summary": "The Pro Flight Multi Panel is the autopilot companion to the Radio Panel: a full autopilot bank with a real-time LED readout, an auto-throttle switch, a flap handle, an elevator trim wheel and a rotary for quickly dialing altitude, heading and speed. It puts autopilot management at your fingertips in FSX, X-Plane, P3D and MSFS instead of buried in menus. It mounts to the Logitech yoke base or stacks with the other panels. Plastic and dated like its siblings, but a tidy, cheap way to add autopilot hardware to a GA stack.",
+    "specs": {
+      "Display": "LED autopilot readout",
+      "Controls": "Autopilot modes, auto-throttle switch, rotary selector",
+      "Levers": "Flap handle + elevator trim wheel",
+      "Mounting": "Yoke base or stacks with Pro Flight panels",
+      "Sims": "FSX / X-Plane / P3D / MSFS",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Fingertip autopilot, trim and flap control with LED feedback",
+      "Stacks and brackets with the Radio and Switch panels",
+      "Affordable autopilot hardware for a modular cockpit"
+    ],
+    "cons": [
+      "Plastic build and aging design",
+      "PC only; benefits from a powered USB hub when stacked",
+      "Autopilot mapping varies by aircraft"
+    ],
+    "whoFor": "GA simmers who want a dedicated autopilot, trim and flap panel in their Saitek stack.",
+    "rating": { "overall": 7, "value": 8, "build": 6, "realism": 7 },
+    "faqs": [
+      { "q": "Does the Multi Panel include a trim wheel?", "a": "Yes, it has an elevator trim wheel and a flap handle alongside the autopilot controls and LED readout." },
+      { "q": "Will it work with airliners?", "a": "It targets common GA and light-jet autopilot logic; complex airliner autopilots may need custom binding or dedicated airliner panels." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Pairs with the Radio and Switch panels in the Pro Flight stack." },
+    "platforms": "PC"
+  },
+  {
+    "id": "winwing-mcdu-a320",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "WinWing / WinCTRL",
+    "model": "MIP-Series MCDU (A320)",
+    "price": 150,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/winwing-mcdu-a320.jpg",
+    "summary": "WinWing's MIP-Series MCDU brought affordable, full-scale airliner panels to the mainstream, starting around $130. It is a 1:1 backlit Airbus MCDU that connects with a single USB cable, with no HDMI or external power, and because it does not touch the GPU there is zero latency and no performance hit. A light sensor auto-adjusts brightness, and the panel mounts flat, upright or on a swivel clamp. It is confirmed for the Fenix A320 and works with other Airbus add-ons. Reviewers call it a genuinely competitive, far cheaper alternative to the old high-end MCDU hardware.",
+    "specs": {
+      "Type": "Full-scale 1:1 backlit Airbus MCDU",
+      "Panel thickness": "28.5 mm",
+      "Connection": "Single USB cable (no HDMI/power, no GPU load)",
+      "Display": "Auto-brightness via light sensor",
+      "Mounting": "Flat / upright / swivel desk clamp",
+      "Compatibility": "Fenix A320 and other Airbus add-ons"
+    },
+    "pros": [
+      "Affordable full-scale backlit MCDU starting around $130",
+      "Single USB cable, zero GPU load and no latency",
+      "Confirmed Fenix A320 support with auto-brightness sensor"
+    ],
+    "cons": [
+      "Tied to specific Airbus add-on aircraft, not universal",
+      "Multi-panel builds need a powered USB hub",
+      "SimApp Pro config has a small learning curve"
+    ],
+    "whoFor": "Airbus home-cockpit builders who want an authentic MCDU for the Fenix A320 without spending four figures.",
+    "rating": { "overall": 9, "value": 10, "build": 8, "realism": 9 },
+    "faqs": [
+      { "q": "Is the WinWing MCDU compatible with the Fenix A320?", "a": "Yes, WinWing confirmed Fenix A320 support at launch; match the panel to the specific aircraft you fly." },
+      { "q": "How does the MCDU connect?", "a": "A single USB cable handles data, power and the backlit display, with no HDMI and no GPU load, though a multi-panel build needs a powered hub." }
+    ],
+    "affiliate": { "primary": "WinWing Store", "note": "WinWing rebranded to WinCTRL in 2025-26; panels also sold via retailers and eBay." },
+    "platforms": "PC"
+  },
+  {
+    "id": "winwing-pfp-3n-boeing-fmc",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "WinWing / WinCTRL",
+    "model": "PFP 3N (Boeing 737 FMC/CDU)",
+    "price": 150,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/winwing-pfp-3n-boeing-fmc.jpg",
+    "summary": "The PFP 3N is the Boeing counterpart to WinWing's Airbus MCDU, a full-size physical replica of the 737-series CDU/FMC starting around $130. Like its sibling it is fully backlit, 28.5 mm thick, connects over a single USB cable with no GPU load or latency, and uses a light sensor to auto-adjust display brightness. It works with PMDG's Boeing range and mounts flat, upright or on a swivel clamp. One caveat surfaced in the community: certain PMDG variant combinations have had compatibility quirks, so confirm your exact aircraft is supported before buying.",
+    "specs": {
+      "Type": "Full-scale 1:1 Boeing 737 CDU/FMC replica",
+      "Panel thickness": "28.5 mm",
+      "Connection": "Single USB cable (no HDMI/power, no GPU load)",
+      "Display": "Auto-brightness via light sensor",
+      "Mounting": "Flat / upright / swivel desk clamp",
+      "Compatibility": "PMDG Boeing 737 range"
+    },
+    "pros": [
+      "Full-scale backlit Boeing CDU from around $130",
+      "Single USB, zero GPU load, no latency",
+      "Works with PMDG 737 and flexible mounting"
+    ],
+    "cons": [
+      "Some PMDG variant combinations have had compatibility quirks",
+      "Aircraft-specific; not a universal FMC",
+      "Multi-panel builds need a powered USB hub"
+    ],
+    "whoFor": "Boeing home-cockpit builders flying the PMDG 737 who want an authentic backlit FMC for far less than legacy hardware.",
+    "rating": { "overall": 8, "value": 9, "build": 8, "realism": 9 },
+    "faqs": [
+      { "q": "Does the PFP 3N work with the PMDG 737?", "a": "Yes, it targets PMDG's Boeing range, though some specific variant combinations have shown compatibility quirks, so verify your exact aircraft." },
+      { "q": "Is it the same hardware family as the MCDU?", "a": "Yes, the PFP (Boeing) and MCDU (Airbus) are both single-USB backlit MIP-series panels; you pick the one matching your aircraft." }
+    ],
+    "affiliate": { "primary": "WinWing Store", "note": "PFP 3N/7/4 cover 737/777/747 FMCs; sold via WinWing/WinCTRL and retailers." },
+    "platforms": "PC"
+  },
+  {
+    "id": "winwing-pap-3-mcp",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "WinWing / WinCTRL",
+    "model": "PAP 3 (Boeing 737 MCP)",
+    "price": 170,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/winwing-pap-3-mcp.jpg",
+    "summary": "The PAP 3 is WinWing's Boeing-style autopilot panel, a 1:1 replica of the 737 Mode Control Panel that sits in the glareshield. It carries the airspeed, heading and altitude rotaries (the heading knob has an outer bank-limit ring from 10 to 30 degrees), the full bank of mode buttons, dual-color backlighting, a light sensor and an authentic disconnect bar. It connects over a single USB cable and matches the real unit's dimensions. Reviewers call it virtually indistinguishable from the aircraft part and a fraction of the $900-plus legacy MCPs. A magnetic-switch add-on and bundle are sold separately.",
+    "specs": {
+      "Type": "1:1 Boeing 737 NG/MAX Mode Control Panel",
+      "Rotaries": "Airspeed, Heading (with 10-30deg bank ring), Altitude",
+      "Buttons": "N1, SPD, VNAV, LVL CHG, HDG SEL, LNAV, VOR LOC, APP, ALT HLD, etc.",
+      "Backlighting": "Dual-color with light sensor",
+      "Detail": "Authentic A/P disconnect bar; true-to-life dimensions",
+      "Connection": "Single USB cable"
+    },
+    "pros": [
+      "1:1 737 MCP detail down to the disconnect bar and bank ring",
+      "Dual-color backlighting with auto light sensor",
+      "Far cheaper than the $900-plus legacy MCP hardware"
+    ],
+    "cons": [
+      "Boeing-specific; tied to PMDG-style 737 add-ons",
+      "Mag-switch add-on is a separate purchase",
+      "Pre-order delivery times have drawn complaints"
+    ],
+    "whoFor": "Boeing 737 home-cockpit builders who want a realistic MCP glareshield panel.",
+    "rating": { "overall": 9, "value": 9, "build": 9, "realism": 9 },
+    "faqs": [
+      { "q": "What aircraft does the PAP 3 replicate?", "a": "It is a 1:1 replica of the Boeing 737 NG/MAX Collins Mode Control Panel found in the glareshield." },
+      { "q": "Is there a magnetic-switch version?", "a": "Yes, a Mag-Switch add-on is sold separately, and there is a panel-plus-switch bundle." }
+    ],
+    "affiliate": { "primary": "WinWing Store", "note": "Standard ~$170; Mag bundle higher. Sold via WinWing/WinCTRL." },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-ay210-ffb-yoke",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "MOZA",
+    "model": "AY210 Force Feedback Yoke",
+    "price": 699,
+    "priceNote": "approx 2026 street price (base only; ~$848 with handle bundle)",
+    "image": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+    "summary": "The AY210 is the product that put real force feedback near HOTAS money. The all-aluminum base uses dual servo motors to deliver 9 Nm of roll torque and 210 N of pitch force over 150 mm of travel, driven by a 280 MHz processor and a 15-bit magnetic encoder at a 1000 Hz USB rate. A tool-free quick-release swaps yoke handles in seconds, and 13 customizable switches sit on the front panel. Crucially it offers native FFB telemetry in MSFS 2024/2020, X-Plane 12 and DCS with no plugins. The hardware is widely praised; the FFB software for turbulence and trim is still maturing. The base is ~$699 and the required MFY handle pushes a bundle to ~$848.",
+    "specs": {
+      "Construction": "Aluminum alloy, dual servo motors, ~8 kg",
+      "Roll torque": "9 Nm sustained",
+      "Pitch force": "210 N max, 150 mm travel",
+      "Electronics": "280 MHz processor, 15-bit magnetic encoder, 1000 Hz USB",
+      "Quick-release": "Tool-free handle swap",
+      "FFB support": "Native MSFS 2024/2020, X-Plane 12, DCS (no plugins)"
+    },
+    "pros": [
+      "Genuine dual-servo force feedback at roughly HOTAS pricing",
+      "All-metal build with tool-free quick-release handle swap",
+      "Native FFB telemetry across MSFS 2024, X-Plane 12 and DCS"
+    ],
+    "cons": [
+      "FFB software for turbulence and trim is still maturing",
+      "Base alone is $699; the required handle pushes it to ~$848",
+      "Heavy servos really want a rigid desk mount or cockpit frame"
+    ],
+    "whoFor": "Enthusiasts who want real control loading and trim forces and are willing to spend roughly $850 to get there.",
+    "rating": { "overall": 9, "value": 8, "build": 9, "ffb": 8 },
+    "faqs": [
+      { "q": "Does the AY210 force feedback need a plugin?", "a": "No. It advertises native FFB telemetry for MSFS 2024/2020, X-Plane 12 and DCS, though turbulence and trim effects are still maturing in software." },
+      { "q": "Do I need to buy a handle separately?", "a": "Yes, the base is around $699 and the MFY yoke handle is required; the bundle runs about $848." }
+    ],
+    "affiliate": { "primary": "MOZA Racing", "note": "Bundle (base + MFY handle) ~$848; base sold separately at ~$699." },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-mtq-throttle-quadrant",
+    "bay": "flight",
+    "type": "throttle",
+    "brand": "MOZA",
+    "model": "MTQ Throttle Quadrant",
+    "price": 199,
+    "priceNote": "approx 2026 street price (base; lever module packs +$39 each)",
+    "image": "/images/gear/flight/moza-mtq-throttle-quadrant.jpg",
+    "summary": "The MTQ is MOZA's modular, jet-focused throttle quadrant and the rising alternative to the Honeycomb Bravo. It ships with fighter-style (TQF) levers and accepts optional Airbus (TQA) and Boeing (TQB) lever packs at $39 each that swap in seconds and actually change the detent behavior, so one base can feel like an F-18, an A320 or a 737. It packs four axes, 23 controls including a landing-gear lever and three rotaries, and telemetry-reactive RGB backlighting with no plugins. Reviewers love the versatility in a compact body; the main knock is non-removable flap detents that can break immersion.",
+    "specs": {
+      "Axes": "4 independent",
+      "Controls": "23 total: 10 buttons, 3 rotaries, 3 toggles, gear lever",
+      "Lever modules": "TQF fighter (incl.), TQA Airbus / TQB Boeing (+$39 each)",
+      "Lighting": "16.7M-color RGB, telemetry-reactive, no plugins",
+      "Dimensions": "216 x 166 x 198 mm",
+      "Connection": "USB (RJ11 base link)"
+    },
+    "pros": [
+      "Swappable lever packs genuinely change detent feel per aircraft",
+      "Compact body with 23 controls and a real gear lever",
+      "Telemetry-reactive RGB lighting with no plugins needed"
+    ],
+    "cons": [
+      "Non-removable flap detents can break immersion",
+      "Airbus and Boeing lever packs cost extra",
+      "PC only and more jet-focused than GA-focused"
+    ],
+    "whoFor": "Simmers who fly a mix of fighters and airliners and want one compact, reconfigurable throttle base.",
+    "rating": { "overall": 8, "value": 9, "build": 8, "versatility": 9 },
+    "faqs": [
+      { "q": "Can the MOZA MTQ do both Airbus and Boeing?", "a": "Yes, with the optional TQA (Airbus) and TQB (Boeing) lever packs at about $39 each, which swap in seconds and change the detent behavior." },
+      { "q": "How does it compare to the Honeycomb Bravo?", "a": "The MTQ is more compact and jet-focused with swappable grip packs, while the Bravo has six levers and a built-in autopilot panel better suited to GA." }
+    ],
+    "affiliate": { "primary": "MOZA Racing", "note": "Base $199; TQA/TQB lever packs $39 each." },
+    "platforms": "PC"
+  },
+  {
+    "id": "turtle-beach-velocityone-flight-stick",
+    "bay": "flight",
+    "type": "stick",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne Flight Stick",
+    "price": 130,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg",
+    "summary": "The VelocityOne Flight Stick is the console-friendly all-in-one for newcomers: an Xbox- and PC-licensed stick with integrated twist-rudder, an OLED status display and a surprising 27 programmable buttons. The OLED gives quick access to settings like rudder lock and even headset audio EQ, there is a height-adjustable palm rest mountable left or right, and adjustable RGB lighting. Reviewers consistently find it impressively featured for around $130, though they note it is plastic-heavy and actually a bit better on PC than Xbox. For a console flyer who wants one device to get airborne, it is a strong start.",
+    "specs": {
+      "Type": "All-in-one flight stick with integrated twist rudder",
+      "Display": "OLED status/settings screen",
+      "Buttons": "27 programmable + rapid-fire trigger",
+      "Ergonomics": "Height-adjustable palm rest, left/right mountable",
+      "Lighting": "Adjustable RGB",
+      "Rudder": "Twist-stick axis with rudder lock"
+    },
+    "pros": [
+      "Genuinely Xbox and PC licensed for console flyers",
+      "OLED display and 27 buttons are a lot of features for the price",
+      "Integrated twist rudder means no extra gear to start"
+    ],
+    "cons": [
+      "Plastic-heavy build",
+      "A stick layout suits some aircraft better than a yoke",
+      "Reviewers note it performs slightly better on PC than Xbox"
+    ],
+    "whoFor": "Xbox and PC newcomers who want one affordable all-in-one stick with built-in rudder to start flying.",
+    "rating": { "overall": 8, "value": 9, "build": 6, "features": 9 },
+    "faqs": [
+      { "q": "Does the VelocityOne Flight Stick work on Xbox?", "a": "Yes, it is licensed for Xbox Series X|S, Xbox One and Windows 10/11 PCs, making it a common console starter." },
+      { "q": "Does it have rudder control without pedals?", "a": "Yes, you twist the stick for rudder and can set rudder lock through the OLED display; add VelocityOne pedals later for more precision." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "A newer Flightstick II revision also exists; check current model when buying." },
+    "platforms": "PC / Xbox"
+  },
+  {
+    "id": "turtle-beach-velocityone-rudder-pedals",
+    "bay": "flight",
+    "type": "pedals",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne Rudder Pedals",
+    "price": 300,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/turtle-beach-velocityone-rudder-pedals.jpg",
+    "summary": "The VelocityOne Rudder Pedals are notable for being among the few quality pedals that work on Xbox as well as PC. They use a suspended pendular mechanism with magnetic sensors for smooth, precise motion and include two differential toe brakes, and the configuration changes from a low/flat to an upright/short stance to suit your seating. Reviewers find them smooth and accurate and rate the price as strong for the quality, with the usual caveats around occasional firmware update and PC-game compatibility hiccups. For console rudder control they are close to the only serious option.",
+    "specs": {
+      "Mechanism": "Suspended pendular motion with magnetic sensors",
+      "Toe brakes": "Two differential brakes",
+      "Adjustability": "Low/flat to upright/short configurations + pedal width",
+      "Platforms": "Xbox Series X|S and Windows PC",
+      "Build": "Mixed metal/plastic",
+      "Connection": "USB"
+    },
+    "pros": [
+      "One of few quality pedals that work on Xbox and PC",
+      "Smooth pendular motion with precise magnetic sensors",
+      "Adjustable stance and width plus differential toe brakes"
+    ],
+    "cons": [
+      "Occasional firmware-update and PC-game compatibility issues",
+      "Pricier than budget sliding pedals",
+      "Heavier and bulkier than low-profile pedals"
+    ],
+    "whoFor": "Console (and PC) flyers who need rudder pedals with toe brakes that work on Xbox.",
+    "rating": { "overall": 8, "value": 8, "build": 7, "realism": 8 },
+    "faqs": [
+      { "q": "Do the VelocityOne pedals work on Xbox?", "a": "Yes, they are designed for Xbox Series X|S and Windows PCs, which is unusual for rudder pedals with toe brakes." },
+      { "q": "Are these pendular or sliding pedals?", "a": "They use a suspended pendular mechanism with magnetic sensors rather than a flat slide, for smoother motion." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Pairs with the VelocityOne Flight Stick for a console cockpit." },
+    "platforms": "PC / Xbox"
+  },
+  {
+    "id": "vkb-t-rudder-mk4",
+    "bay": "flight",
+    "type": "pedals",
+    "brand": "VKB",
+    "model": "T-Rudder Mk.IV",
+    "price": 230,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/vkb-t-rudder-mk4.jpg",
+    "summary": "The VKB T-Rudder Mk.IV is the enthusiast pick for a durable, low-profile rudder with no toe brakes, a deliberate design choice for combat and warbird pilots who steer with rudder alone. Built on VKB's long line of precision controllers with contactless sensors, it is praised for smooth, accurate rudder motion and rugged build that punches above its price. The known quirk on this generation is a spring whine under load, addressed in the later Mk.V. If you fly DCS or IL-2 and do not need toe brakes, it is a compact, long-lasting option.",
+    "specs": {
+      "Design": "Low-profile, minimalist, no toe brakes",
+      "Sensors": "Contactless (non-contact magnetic)",
+      "Feel": "Smooth, accurate rudder with adjustable centering",
+      "Footprint": "Compact, fits under a desk",
+      "Best for": "Combat/warbird flying without toe brakes",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Durable build and smooth contactless sensors that outlast pots",
+      "Low-profile footprint tucks neatly under a desk",
+      "Excellent for rudder-only combat and warbird flying"
+    ],
+    "cons": [
+      "No toe brakes, so less suited to GA taxi and crosswind braking",
+      "This generation has a known spring whine under load",
+      "Higher price than entry sliding pedals"
+    ],
+    "whoFor": "Combat and warbird simmers who want precise, durable rudder pedals and do not need toe brakes.",
+    "rating": { "overall": 8, "value": 8, "build": 9, "realism": 8 },
+    "faqs": [
+      { "q": "Do the VKB T-Rudder Mk.IV have toe brakes?", "a": "No. The lack of toe brakes is a deliberate design choice aimed at combat and warbird pilots; GA flyers who want differential braking should look elsewhere." },
+      { "q": "What is the spring whine I have read about?", "a": "Earlier T-Rudder models including the Mk.IV had a known spring whine under load; the later Mk.V revision addresses it." }
+    ],
+    "affiliate": { "primary": "VKB Controllers", "note": "Sold direct and via AliExpress; the newer Mk.V is the current revision." },
+    "platforms": "PC"
+  }
+]

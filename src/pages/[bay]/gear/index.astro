@@ -1,0 +1,67 @@
+---
+import Base from '../../../layouts/Base.astro';
+import bays from '../../../data/bays.json';
+import site from '../../../data/site.json';
+
+export async function getStaticPaths() {
+  return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
+}
+const { bay } = Astro.props;
+const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const all = Object.values(mods).flatMap((m: any) => (m.default || [])) as any[];
+const products = all.filter((p) => p.bay === bay.slug).sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0));
+
+const types = [...new Set(products.map((p) => p.type))];
+const typeLabel = (t: string) => t.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase()) + 's';
+
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'ItemList',
+  name: `${bay.name} sim hardware — gear database`,
+  itemListElement: products.map((p, i) => ({
+    '@type': 'ListItem', position: i + 1, name: `${p.brand} ${p.model}`,
+    url: new URL(`/${bay.slug}/gear/${p.id}`, site.url).href,
+  })),
+}];
+---
+<Base title={`${bay.name} Gear Database — every product, decoded`}
+      description={`Deep, honest spec breakdowns, ratings and verdicts for ${bay.name.toLowerCase()} sim hardware. ${products.length} products and counting.`}
+      bay={bay.slug} activeNav={bay.slug} schema={schema} image={`/images/${bay.slug}/hero.jpg`}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${bay.slug}`}>{bay.name}</a><span>/</span>Gear</div>
+    <section class="hero" style="text-align:left;padding:36px 0 10px">
+      <div class="accent-bar" style="height:4px;width:64px;background:var(--accent);border-radius:4px;box-shadow:0 0 18px var(--bayglow);margin-bottom:16px"></div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem)">{bay.name} gear database</h1>
+      <p style="color:var(--dim);max-width:62ch;margin-top:12px;font-size:1.06rem">Every product, decoded — specs, honest ratings, pros and cons, and a plain-English verdict. {products.length > 0 ? `${products.length} products covered.` : 'Coverage is being added.'}</p>
+    </section>
+
+    {products.length === 0 ? (
+      <section class="sec"><p style="color:var(--dim)">Gear breakdowns for this bay are being researched and will appear here shortly.</p></section>
+    ) : (
+      types.map((t) => (
+        <section class="sec" style="padding:24px 0">
+          <div class="sec-head"><h2>{typeLabel(t)}</h2><span class="lbl">{products.filter((p) => p.type === t).length}</span></div>
+          <div class="card-grid">
+            {products.filter((p) => p.type === t).map((p) => (
+              <a class="card" href={`/${bay.slug}/gear/${p.id}`}>
+                <div class="cimg"><img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" /></div>
+                <div class="cbody">
+                  <span class="ctype">{p.brand}{p.rating?.overall ? ` · ${p.rating.overall}/10` : ''}</span>
+                  <h3 style="font-size:1.08rem">{p.model}</h3>
+                  <p class="cexc">{p.summary}</p>
+                  <span class="cmeta" style="color:var(--accent);font-size:.92rem">{p.price ? `~$${p.price.toLocaleString()}` : 'Price varies'}</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))
+    )}
+
+    {bay.slug === 'racing' && (
+      <section class="cfg-cta">
+        <div><span class="lbl lbl-accent">// Build it</span><h4 style="margin-top:6px">Turn these parts into a compatibility-checked rig</h4><p>Drop any of these components into the configurator and we'll check them against each other.</p></div>
+        <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
+      </section>
+    )}
+  </div>
+</Base>
