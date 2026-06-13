@@ -80,9 +80,35 @@ if (d.faqs.length) {
       </figure>
     )}
 
+    <nav class="toc" id="article-toc" aria-label="On this page" style="display:none">
+      <h4>On this page</h4>
+      <ol></ol>
+    </nav>
+
     <div class="prose">
       <Content />
     </div>
+
+    <script>
+      (() => {
+        const toc = document.getElementById('article-toc');
+        const prose = document.querySelector('article .prose');
+        if (!toc || !prose) return;
+        const h2s = [...prose.querySelectorAll('h2')];
+        if (h2s.length < 3) return;
+        const ol = toc.querySelector('ol');
+        h2s.forEach((h, i) => {
+          if (!h.id) h.id = 'sec-' + (i + 1);
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = '#' + h.id;
+          a.textContent = h.textContent || ('Section ' + (i + 1));
+          li.appendChild(a);
+          ol!.appendChild(li);
+        });
+        (toc as HTMLElement).style.display = '';
+      })();
+    </script>
 
     <div class="prose">
       <FAQ faqs={d.faqs} heading="Key takeaways & quick answers" />

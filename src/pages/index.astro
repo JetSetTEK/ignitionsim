@@ -2,6 +2,9 @@
 import Base from '../layouts/Base.astro';
 import PanoSlider from '../components/PanoSlider.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import StatBand from '../components/StatBand.astro';
+import BrandMarquee from '../components/BrandMarquee.astro';
+import RigFinder from '../components/RigFinder.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
@@ -47,6 +50,13 @@ const schema = [{
       <PanoSlider slides={slides} height="440px" id="hub-pano" />
     </section>
 
+    <StatBand stats={[
+      { value: 5, label: 'Sim disciplines' },
+      { value: all.length, label: 'Bylined guides' },
+      { value: 23, label: 'Brands decoded' },
+      { value: 0, label: 'Sponsored verdicts' },
+    ]} />
+
     <section class="sec" id="bays">
       <div class="sec-head">
         <h2>Choose your bay</h2>
@@ -64,6 +74,8 @@ const schema = [{
         ))}
       </div>
     </section>
+
+    <BrandMarquee />
 
     <section class="feat">
       <div class="fcard">
@@ -85,6 +97,8 @@ const schema = [{
         <span class="badge">// no dead-end purchases</span>
       </div>
     </section>
+
+    <RigFinder />
 
     {latest.length > 0 && (
       <section class="sec">

@@ -88,6 +88,7 @@ const allSchema = [orgSchema, siteSchema, ...schema];
 </head>
 <body data-bay={bay ?? undefined}>
   <div class="grid-bg"></div>
+  <div class="read-progress" id="readbar"></div>
   <Header activeNav={activeNav} />
   <main>
     <slot />
@@ -103,6 +104,29 @@ const allSchema = [orgSchema, siteSchema, ...schema];
       clearTimeout((window as any)._tt);
       (window as any)._tt = setTimeout(() => t.classList.remove('show'), 2400);
     };
+  </script>
+  <script>
+    // reading progress bar
+    (() => {
+      const bar = document.getElementById('readbar');
+      if (!bar) return;
+      const onScroll = () => {
+        const h = document.documentElement;
+        const max = h.scrollHeight - h.clientHeight;
+        bar.style.width = max > 0 ? (h.scrollTop / max) * 100 + '%' : '0%';
+      };
+      document.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    })();
+    // scroll reveal — class added here so no-JS users always see content
+    (() => {
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      const targets = document.querySelectorAll('main .sec, main .feat, main .band, main .portal-grid, main .card-grid, main .statband, main .marquee, main .rigfinder, main .pslider, main .cfg-cta');
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+      }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+      targets.forEach((t) => { t.classList.add('reveal'); io.observe(t); });
+    })();
   </script>
 </body>
 </html>

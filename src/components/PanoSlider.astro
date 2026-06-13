@@ -61,6 +61,11 @@ const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
   .pdots { position: absolute; bottom: 18px; right: 24px; z-index: 3; display: flex; gap: 7px; }
   .pdot { width: 9px; height: 9px; border-radius: 50%; border: none; background: rgba(255,255,255,.3); cursor: pointer; padding: 0; }
   .pdot.on { background: var(--accent); box-shadow: 0 0 10px var(--bayglow); }
+  /* subtle cinematic drift (Ken Burns) — reduced-motion safe */
+  @media (prefers-reduced-motion: no-preference) {
+    .pslide img { animation: ig-kenburns 22s ease-in-out infinite alternate; will-change: transform; }
+    @keyframes ig-kenburns { from { transform: scale(1.02) translate(0,0); } to { transform: scale(1.1) translate(-1.5%, -1%); } }
+  }
   @media (max-width: 880px) { .pslide figcaption { padding: 22px; } }
 </style>
 
@@ -80,6 +85,11 @@ const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
     sl.querySelector('.next')?.addEventListener('click', () => { go(i + 1); pause(); });
     sl.querySelector('.prev')?.addEventListener('click', () => { go(i - 1); pause(); });
     dots.forEach((d) => d.addEventListener('click', () => { go(Number(d.dataset.i)); pause(); }));
+    sl.tabIndex = 0;
+    sl.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') { go(i + 1); pause(); }
+      else if (e.key === 'ArrowLeft') { go(i - 1); pause(); }
+    });
     // sync dots on manual scroll
     let st: any;
     track.addEventListener('scroll', () => {

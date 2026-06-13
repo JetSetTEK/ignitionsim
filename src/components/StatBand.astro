@@ -1,0 +1,41 @@
+---
+interface Stat { value: number; suffix?: string; label: string; }
+interface Props { stats: Stat[]; }
+const { stats } = Astro.props;
+---
+<section class="statband" aria-label="By the numbers">
+  {stats.map((s) => (
+    <div class="stat">
+      <div class="stat-n" data-to={s.value} data-suffix={s.suffix || ''}>0{s.suffix || ''}</div>
+      <div class="stat-l">{s.label}</div>
+    </div>
+  ))}
+</section>
+
+<style>
+  .statband { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; margin: 40px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 28px 0; }
+  .stat { text-align: center; }
+  .stat-n { font-family: var(--font-disp); font-weight: 800; font-size: clamp(2rem, 4vw, 2.8rem); color: var(--accent); text-shadow: 0 0 24px var(--bayglow); line-height: 1; }
+  .stat-l { font-family: var(--font-mono); font-size: .66rem; letter-spacing: .14em; text-transform: uppercase; color: var(--dim); margin-top: 10px; }
+</style>
+
+<script>
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const fmt = (n: number) => n.toLocaleString();
+  const run = (el: HTMLElement) => {
+    const to = Number(el.dataset.to || '0'), suffix = el.dataset.suffix || '';
+    if (reduce) { el.textContent = fmt(to) + suffix; return; }
+    const start = performance.now(), dur = 1200;
+    const tick = (now: number) => {
+      const p = Math.min(1, (now - start) / dur);
+      const eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = fmt(Math.round(to * eased)) + suffix;
+      if (p < 1) requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
+  };
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((e) => { if (e.isIntersecting) { run(e.target as HTMLElement); io.unobserve(e.target); } });
+  }, { threshold: 0.5 });
+  document.querySelectorAll<HTMLElement>('.stat-n').forEach((el) => io.observe(el));
+</script>

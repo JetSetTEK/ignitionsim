@@ -1,0 +1,34 @@
+---
+interface Props { brands?: string[]; label?: string; }
+const {
+  label = 'Gear we decode',
+  brands = [
+    'MOZA', 'Fanatec', 'Simagic', 'Asetek', 'Simucube', 'Logitech G', 'Thrustmaster', 'Cammus',
+    'Honeycomb', 'WinWing', 'Turtle Beach', 'VKB', 'Virpil', 'Garmin', 'SkyTrak', 'Bushnell',
+    'Uneekor', 'Foresight', 'FlightScope', 'Rapsodo', 'Next Level Racing', 'Sim-Lab', 'Heusinkveld',
+  ],
+} = Astro.props;
+const row = [...brands, ...brands];
+---
+<section class="marquee" aria-label={label}>
+  <div class="mq-lbl lbl">// {label}</div>
+  <div class="mq-mask">
+    <div class="mq-track">
+      {row.map((b) => <span class="mq-chip">{b}</span>)}
+    </div>
+  </div>
+</section>
+
+<style>
+  .marquee { margin: 36px 0; }
+  .mq-lbl { text-align: center; margin-bottom: 14px; }
+  .mq-mask { overflow: hidden; -webkit-mask: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); mask: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); }
+  .mq-track { display: flex; gap: 12px; width: max-content; }
+  .mq-chip { font-family: var(--font-mono); font-size: .82rem; letter-spacing: .04em; color: var(--dim); border: 1px solid var(--line2); border-radius: 30px; padding: 9px 18px; white-space: nowrap; background: var(--panel); }
+  @media (prefers-reduced-motion: no-preference) {
+    .mq-track { animation: mq-scroll 42s linear infinite; }
+    .marquee:hover .mq-track { animation-play-state: paused; }
+    @keyframes mq-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  }
+  @media (prefers-reduced-motion: reduce) { .mq-mask { -webkit-mask: none; mask: none; } .mq-track { flex-wrap: wrap; justify-content: center; width: auto; } }
+</style>

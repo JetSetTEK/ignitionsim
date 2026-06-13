@@ -1,0 +1,147 @@
+---
+/**
+ * Find Your Rig — interactive, client-side recommender. No backend.
+ * 3 quick questions → a grounded starting recommendation + CTAs.
+ */
+---
+<section class="rigfinder" id="rigfinder" aria-label="Find your rig">
+  <div class="rf-head">
+    <span class="lbl lbl-accent">// Interactive · 30 seconds</span>
+    <h2>Find your rig</h2>
+    <p>Answer three quick questions and we'll point you at a smart starting setup — then you can fine-tune it in the configurator.</p>
+  </div>
+
+  <div class="rf-card">
+    <div class="rf-progress"><span data-step="0" class="on"></span><span data-step="1"></span><span data-step="2"></span><span data-step="3"></span></div>
+
+    <div class="rf-step on" data-q="0">
+      <h3>Which world are you building for?</h3>
+      <div class="rf-opts">
+        <button data-k="discipline" data-v="racing">🏎️ Racing</button>
+        <button data-k="discipline" data-v="flight">✈️ Flight</button>
+        <button data-k="discipline" data-v="space">🚀 Space</button>
+        <button data-k="discipline" data-v="golf">⛳ Golf</button>
+        <button data-k="discipline" data-v="marine">⚓ Marine</button>
+      </div>
+    </div>
+
+    <div class="rf-step" data-q="1">
+      <h3>What's your budget?</h3>
+      <div class="rf-opts">
+        <button data-k="budget" data-v="entry">Entry · get me started</button>
+        <button data-k="budget" data-v="mid">Mid · the sweet spot</button>
+        <button data-k="budget" data-v="high">High · no compromises</button>
+      </div>
+    </div>
+
+    <div class="rf-step" data-q="2">
+      <h3>Where will you play?</h3>
+      <div class="rf-opts">
+        <button data-k="platform" data-v="pc">PC</button>
+        <button data-k="platform" data-v="ps5">PlayStation 5</button>
+        <button data-k="platform" data-v="xbox">Xbox</button>
+      </div>
+    </div>
+
+    <div class="rf-result" data-q="3">
+      <span class="lbl lbl-accent">// Your starting point</span>
+      <h3 id="rf-pick">—</h3>
+      <p id="rf-why"></p>
+      <p id="rf-note" class="rf-note"></p>
+      <div class="rf-cta">
+        <a id="rf-bay" class="btn" href="/">Explore the bay →</a>
+        <a class="btn btn-primary" href="/racing/configurator">Open the configurator ▸</a>
+        <button class="btn rf-restart" type="button">↺ Start over</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .rigfinder { margin: 46px 0; }
+  .rf-head { max-width: 60ch; margin-bottom: 20px; }
+  .rf-head h2 { font-size: clamp(1.5rem, 3vw, 2rem); margin: 6px 0; }
+  .rf-head p { color: var(--dim); }
+  .rf-card { position: relative; border: 1px solid var(--line2); border-radius: 16px; padding: 30px; background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 7%, var(--panel)), var(--night2)); overflow: hidden; min-height: 220px; }
+  .rf-progress { display: flex; gap: 8px; margin-bottom: 22px; }
+  .rf-progress span { height: 4px; flex: 1; border-radius: 4px; background: var(--line2); transition: background .3s; }
+  .rf-progress span.on { background: var(--accent); box-shadow: 0 0 10px var(--bayglow); }
+  .rf-step, .rf-result { display: none; }
+  .rf-step.on, .rf-result.on { display: block; }
+  @media (prefers-reduced-motion: no-preference) { .rf-step.on, .rf-result.on { animation: rf-in .4s ease both; } @keyframes rf-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } } }
+  .rf-card h3 { font-size: 1.3rem; margin-bottom: 18px; }
+  .rf-opts { display: flex; flex-wrap: wrap; gap: 10px; }
+  .rf-opts button { font-family: var(--font-body); font-size: .95rem; font-weight: 600; color: var(--txt); background: var(--panel); border: 1px solid var(--line2); border-radius: 10px; padding: 14px 20px; cursor: pointer; transition: all .15s; }
+  .rf-opts button:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, var(--panel)); transform: translateY(-2px); }
+  #rf-pick { font-family: var(--font-disp); font-size: clamp(1.3rem, 3vw, 1.9rem); color: var(--accent); margin: 8px 0 12px; }
+  #rf-why { color: #d8e0ec; font-size: 1.02rem; }
+  .rf-note { color: var(--dim); font-size: .88rem; margin-top: 10px; font-family: var(--font-mono); }
+  .rf-cta { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+</style>
+
+<script>
+  type Pick = { pick: string; why: string };
+  const REC: Record<string, Record<string, Pick>> = {
+    racing: {
+      entry: { pick: 'A complete direct-drive bundle: MOZA R3 or Cammus C5', why: 'For around $300 you get a real direct-drive base, wheel and pedals in one box — the single best value entry point in sim racing. Belt-drive wheels are no longer worth it.' },
+      mid: { pick: 'MOZA R12 (12 Nm) + a load-cell pedal set', why: '9–15 Nm is the honest sweet spot, and a load-cell brake does more for your lap times than extra torque. This is where most enthusiasts land and stop.' },
+      high: { pick: 'Simagic Alpha Evo Pro / Fanatec Podium DD + load-cell pedals + an 8020 rig', why: 'Prosumer torque, fitting-grade pedals and a rigid aluminium-profile cockpit that survives the forces. Spend on pedals and rigidity, not just Nm.' },
+    },
+    flight: {
+      entry: { pick: 'Logitech G PRO Flight Yoke System', why: 'A yoke + throttle quadrant for around $130–150 — the most common, most precise first step into GA flying in MSFS 2024.' },
+      mid: { pick: 'Honeycomb Alpha yoke + Bravo throttle bundle', why: 'The de-facto GA standard (~$500). The Bravo’s six swappable levers and autopilot panel cover almost everything you’ll fly.' },
+      high: { pick: 'MOZA AY210 force-feedback yoke or a WinWing airliner panel stack', why: 'Real control loading for GA, or a backlit MCDU/FCU panel build for the Fenix A320 / PMDG Boeing if you fly tubeliners.' },
+    },
+    space: {
+      entry: { pick: 'Twin Thrustmaster T.16000M (a budget HOSAS)', why: 'Two ambidextrous Hall-sensor sticks (~$150–160) give you the dual-stick control six-axis spaceflight rewards — the classic cheap HOSAS.' },
+      mid: { pick: 'A VKB Gladiator NXT EVO pair', why: 'Magnetic-sensor gimbals that won’t drift, an easy on-ramp to the VKB ecosystem, and the most-recommended affordable real HOSAS.' },
+      high: { pick: 'VKB Gunfighter Mk.IV or Virpil Constellation HOSAS', why: 'No-compromise CNC-metal gimbals and modular grips. You’re buying a platform you’ll keep for years.' },
+    },
+    golf: {
+      entry: { pick: 'Garmin R10 or Rapsodo MLM2PRO into a net + GSPro', why: 'Real launch data and basic sim play for around $600–700 plus a net. Start here, then add an enclosure later.' },
+      mid: { pick: 'SkyTrak+ + a Carl’s Place enclosure + short-throw projector', why: 'A subscription-free photometric monitor in a real enclosure room — the first build that genuinely feels “on the course.” Budget for the mat and screen.' },
+      high: { pick: 'Uneekor EYE XO2 or Foresight GC3 in a finished room', why: 'Fitting-grade club + ball data, overhead or side-mount, with a premium SIGPRO screen and 4K projector. Measure your ceiling first.' },
+    },
+    marine: {
+      entry: { pick: 'A gamepad + free Bridge Command — or repurpose a racing wheel', why: 'Marine sim has almost no dedicated hardware. Start free, verify the title supports analog axes, then repurpose a wheel or throttle quadrant you may already own.' },
+      mid: { pick: 'A repurposed wheel + Saitek throttle quadrant + DIY button box', why: 'A racing wheel as a helm and a flight throttle quadrant as engine levers covers 95% of the niche. Confirm analog-axis support per title first.' },
+      high: { pick: 'A multi-monitor DIY helm (Arduino/BU0836) for Professional Ship Simulator', why: 'The hardware-friendly future of the bay. Build a custom console and run charting on a second screen — far cheaper than a pro bridge.' },
+    },
+  };
+  const platformNote: Record<string, Record<string, string>> = {
+    racing: { ps5: 'On PS5, stick to Fanatec (GT DD Pro) or Logitech G PRO — most other DD bases are PC-only.', xbox: 'On Xbox, your real DD options are the Fanatec CSL DD and the MOZA R3.', pc: 'On PC, every option is open.' },
+    flight: { ps5: 'PlayStation flight-sim hardware support is limited — check each device.', xbox: 'On Xbox, look at the Turtle Beach VelocityOne, Honeycomb and Thrustmaster TCA (many PC panels won’t work).', pc: 'On PC, every option is open.' },
+    space: { ps5: 'Boutique sticks are PC-only; on console you’re largely limited to a gamepad.', xbox: 'Boutique sticks are PC-only — the Turtle Beach VelocityOne Flightstick is the main Xbox option.', pc: 'On PC, every option is open.' },
+    golf: { ps5: 'Golf sims run on a PC, iPad or the launch monitor itself — not your console.', xbox: 'Golf sims run on a PC, iPad or the launch monitor itself — not your console.', pc: 'A Windows gaming PC unlocks GSPro and the full software ecosystem.' },
+    marine: { ps5: 'Most marine sims are PC-only.', xbox: 'Most marine sims are PC-only.', pc: 'On PC, every option is open.' },
+  };
+
+  const state: Record<string, string> = {};
+  const root = document.getElementById('rigfinder'); if (root) {
+    const steps = [...root.querySelectorAll<HTMLElement>('.rf-step')];
+    const result = root.querySelector<HTMLElement>('.rf-result')!;
+    const dots = [...root.querySelectorAll<HTMLElement>('.rf-progress span')];
+    const show = (n: number) => {
+      steps.forEach((s) => s.classList.remove('on'));
+      result.classList.remove('on');
+      dots.forEach((d, k) => d.classList.toggle('on', k <= n));
+      if (n < steps.length) steps[n].classList.add('on'); else result.classList.add('on');
+    };
+    root.querySelectorAll<HTMLElement>('.rf-opts button').forEach((b) => b.addEventListener('click', () => {
+      state[b.dataset.k!] = b.dataset.v!;
+      const q = Number(b.closest('.rf-step')!.getAttribute('data-q'));
+      if (q < 2) show(q + 1); else finish();
+    }));
+    root.querySelector('.rf-restart')?.addEventListener('click', () => { show(0); });
+    function finish() {
+      const d = state.discipline, bud = state.budget, plat = state.platform;
+      const r = REC[d]?.[bud]; if (!r) { show(0); return; }
+      (document.getElementById('rf-pick') as HTMLElement).textContent = r.pick;
+      (document.getElementById('rf-why') as HTMLElement).textContent = r.why;
+      (document.getElementById('rf-note') as HTMLElement).textContent = '▸ ' + (platformNote[d]?.[plat] || '');
+      const bay = document.getElementById('rf-bay') as HTMLAnchorElement;
+      bay.href = '/' + d; bay.textContent = 'Explore the ' + d + ' bay →';
+      show(3);
+    }
+  }
+</script>
