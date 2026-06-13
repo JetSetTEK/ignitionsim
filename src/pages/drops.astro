@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+
+const title = 'Stock & Deal Tracker — Sim Hardware Drops';
+const description = 'Fanatec and MOZA sell out in minutes. The IgnitionSim Stock & Deal Tracker watches every vendor and surfaces restocks, sold-outs and price drops across all five sim disciplines.';
+
+// Illustrative board entries — the live pipeline (GitHub Actions cron → diff →
+// rebuild) ships in Phase 2. Clearly labelled as a preview, never fabricated as live.
+const sample = [
+  { brand: 'MOZA', model: 'R12 Wheelbase', bay: 'racing', status: 'in-stock', note: 'Back after 3 weeks', price: '$429' },
+  { brand: 'Fanatec', model: 'ClubSport DD', bay: 'racing', status: 'price-drop', note: '↓ from $999', price: '$700' },
+  { brand: 'Honeycomb', model: 'Charlie Rudder Pedals', bay: 'flight', status: 'in-stock', note: 'New arrival', price: '$269' },
+  { brand: 'VKB', model: 'Gunfighter Mk.IV base', bay: 'space', status: 'sold-out', note: 'Restock waves', price: '$200' },
+  { brand: 'Uneekor', model: 'EYE MINI CORE', bay: 'golf', status: 'price-drop', note: 'Amazon exclusive', price: '$1,499' },
+  { brand: 'Simagic', model: 'Alpha Evo Sport', bay: 'racing', status: 'in-stock', note: '9 Nm', price: '$399' },
+];
+const statusLabel: Record<string, string> = { 'in-stock': '● In stock', 'sold-out': '○ Sold out', 'price-drop': '▼ Price drop' };
+---
+<Base title={title} description={description} activeNav="drops">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Drops</div>
+
+    <section class="hero" style="text-align:left;padding:44px 0 14px">
+      <div class="lbl lbl-accent">// The wick is lit</div>
+      <h1 style="font-size:clamp(2rem,5vw,3.2rem);max-width:20ch;margin:12px 0">Stock &amp; Deal Tracker</h1>
+      <p style="max-width:64ch;font-size:1.08rem">Restock chaos is the hobby's number-one grievance. Our tracker watches vendor stock and price pages across every bay and surfaces the moment something is back — or drops in price. Public price/stock data only, polite delays, no scraping of anyone's content.</p>
+    </section>
+
+    <section class="sec" style="padding-top:18px">
+      <div class="callout" style="max-width:none">
+        <div class="ct">// Preview</div>
+        The automated tracker (a twice-daily pipeline that diffs vendor stock and price, then rebuilds this board and fires <a href="/alerts">restock alerts</a>) ships in Phase 2. The board below is an illustrative preview of the format.
+      </div>
+
+      <div class="card-grid" style="margin-top:18px">
+        {sample.map((s) => (
+          <div class="card" data-bay={s.bay} style="cursor:default">
+            <div class="cbody">
+              <span class="ctype">{s.bay} · {statusLabel[s.status]}</span>
+              <h3 style="font-size:1.05rem">{s.brand} {s.model}</h3>
+              <p class="cexc">{s.note}</p>
+              <span class="cmeta" style="color:var(--accent);font-size:.9rem">{s.price}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="band">
+      <div>
+        <span class="lbl lbl-accent">// Restock + deal alerts</span>
+        <h3>Get pinged when it's back</h3>
+        <p>{site.newsletter.blurb} Segmentable by bay — only the drops you actually care about.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href="/alerts">Arm alerts ▸</a>
+    </section>
+  </div>
+</Base>

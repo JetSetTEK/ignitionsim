@@ -1,0 +1,120 @@
+---
+import Base from '../layouts/Base.astro';
+import PanoSlider from '../components/PanoSlider.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import site from '../data/site.json';
+import bays from '../data/bays.json';
+
+const portalClass: Record<string, string> = {
+  racing: 'p-racing', flight: 'p-flight', space: 'p-space', marine: 'p-marine', golf: 'p-golf',
+};
+
+const all = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const featured = all.filter((a) => a.data.featured).slice(0, 6);
+const latest = (featured.length ? featured : all).slice(0, 6);
+
+const slides = [
+  { src: '/images/hub/slide-1.jpg', alt: 'A direct-drive sim racing cockpit glowing at night', eyebrow: '// Racing', title: 'One engine. Five worlds.', caption: 'Compatibility-checked builds for every discipline — starting with the rig that started it all.' },
+  { src: '/images/hub/slide-2.jpg', alt: 'A neon-lit dual-stick space sim cockpit', eyebrow: '// Space', title: 'Decoded by an engineer’s eye', caption: 'We test the gear so you don’t gamble on it — honest verdicts, real compatibility, no fluff.' },
+  { src: '/images/hub/slide-3.jpg', alt: 'A backlit airliner cockpit panel stack', eyebrow: '// Flight', title: 'Stop guessing. Start building.', caption: 'From your first yoke to a full airliner panel — the smart upgrade path, mapped.' },
+];
+
+const schema = [{
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'IgnitionSim simulation bays',
+  itemListElement: bays.map((b, i) => ({
+    '@type': 'ListItem', position: i + 1, name: `${b.name} sim hardware`, url: new URL(`/${b.slug}`, site.url).href,
+  })),
+}];
+---
+<Base title={site.name} description={site.descriptor} schema={schema}>
+  <div class="wrap">
+    <section class="hero">
+      <div class="lbl">{site.eyebrow}</div>
+      <h1>Build the <span class="ember">perfect rig.</span><br>Skip the <span class="neon2">$2,000 mistake.</span></h1>
+      <p>{site.heroSubhead} Wheelbases, yokes, sticks, helms and launch monitors change faster than anyone can keep up with — and half of them don't fit together. {site.name} checks compatibility, tracks stock, and tells you the honest truth about what's worth your money.</p>
+      <p class="sub">RACING · FLIGHT · SPACE · MARINE · GOLF — one engine, five worlds</p>
+      <div class="cta-row">
+        <a class="btn btn-primary btn-lg" href="/racing/configurator">▸ Build a Rig</a>
+        <a class="btn btn-lg" href="#bays">Explore the bays</a>
+      </div>
+    </section>
+
+    <section class="sec" style="padding-top:18px">
+      <PanoSlider slides={slides} height="440px" id="hub-pano" />
+    </section>
+
+    <section class="sec" id="bays">
+      <div class="sec-head">
+        <h2>Choose your bay</h2>
+        <span class="lbl">5 disciplines · one configurator engine</span>
+      </div>
+      <div class="portal-grid">
+        {bays.map((b) => (
+          <a class={`portal ${portalClass[b.slug]} ${b.slug === 'racing' ? 'flagship' : ''}`} href={`/${b.slug}`}>
+            <span class="ptag">{b.slug === 'racing' ? '● Flagship' : '● Live'}</span>
+            <div class="pglow"></div>
+            <h3>{b.name.toUpperCase()}</h3>
+            <div class="pdesc">{b.descriptor}</div>
+            <div class="penter">{b.enterLabel} →</div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="feat">
+      <div class="fcard">
+        <div class="fi" style="border-color:color-mix(in srgb,var(--ember) 45%,transparent)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF5E1A" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></div>
+        <h3>Honest gear pages</h3>
+        <p>Every wheelbase, yoke, stick and launch monitor rated on value, upgrade ceiling and the things buyers actually get burned on — by someone who'll tell you when to skip it.</p>
+        <span class="badge">// written to be cited</span>
+      </div>
+      <div class="fcard">
+        <div class="fi" style="border-color:rgba(34,211,238,.4)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22d3ee" stroke-width="2"><path d="M12 2v6m0 8v6M2 12h6m8 0h6"/><circle cx="12" cy="12" r="3"/></svg></div>
+        <h3>The Rig Configurator</h3>
+        <p>Pick a base, wheel, pedals and mount and we check every part against the others — quick-release standard, mount footprint, torque — and hand you a shareable build.</p>
+        <span class="badge">// no incompatible carts</span>
+      </div>
+      <div class="fcard">
+        <div class="fi" style="border-color:rgba(217,70,239,.4)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#d946ef" stroke-width="2"><path d="M3 17l6-6 4 4 8-8"/><path d="M21 7v6h-6"/></svg></div>
+        <h3>Ecosystem upgrade paths</h3>
+        <p>"You bought a MOZA R5 — here's your smart upgrade ladder, and what NOT to buy." The map through every ecosystem war, in every bay.</p>
+        <span class="badge">// no dead-end purchases</span>
+      </div>
+    </section>
+
+    {latest.length > 0 && (
+      <section class="sec">
+        <div class="sec-head">
+          <h2>Latest from the bays</h2>
+          <span class="lbl">By {site.author.name}</span>
+        </div>
+        <div class="card-grid">
+          {latest.map((a) => (
+            <div data-bay={a.data.bay}>
+              <ArticleCard href={`/${a.data.bay}/${a.id.split('/').pop()}`} title={a.data.title}
+                excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+                image={a.data.heroImage} imageAlt={a.data.heroAlt}
+                meta={`${a.data.bay.toUpperCase()} · ${a.data.readingTime || 6} min read`} />
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="band">
+      <div>
+        <span class="lbl lbl-accent">// Restock + deal alerts</span>
+        <h3>Never miss a drop again</h3>
+        <p>Fanatec and MOZA sell out in minutes. Pick the bays you care about and we'll only ping you when something you actually want is back in stock or on sale.</p>
+      </div>
+      <form onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv signup wires in at launch'); this.reset();">
+        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required />
+        <button class="btn btn-primary" type="submit">Arm alerts</button>
+      </form>
+    </section>
+  </div>
+</Base>

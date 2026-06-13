@@ -1,0 +1,117 @@
+---
+import Base from '../../layouts/Base.astro';
+import PanoSlider from '../../components/PanoSlider.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import FAQ from '../../components/FAQ.astro';
+import { getCollection } from 'astro:content';
+import bays from '../../data/bays.json';
+import site from '../../data/site.json';
+
+export async function getStaticPaths() {
+  return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
+}
+const { bay } = Astro.props;
+
+const articles = (await getCollection('articles', ({ data }) => data.bay === bay.slug && !data.draft))
+  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const slug = (a: any) => a.id.split('/').pop();
+
+const typeOrder = ['buying-guide', 'comparison', 'ecosystem-upgrade-path', 'how-to', 'gear-explainer', 'diy'];
+const typeLabel: Record<string, string> = {
+  'buying-guide': 'Buying guides', 'comparison': 'Head-to-head comparisons',
+  'ecosystem-upgrade-path': 'Upgrade paths', 'how-to': 'How-to guides',
+  'gear-explainer': 'Gear, explained', 'diy': 'DIY & builds',
+};
+const byType = typeOrder
+  .map((t) => ({ t, items: articles.filter((a) => a.data.type === t) }))
+  .filter((g) => g.items.length);
+
+const slides = [1, 2, 3].map((n) => ({
+  src: `/images/${bay.slug}/slide-${n}.jpg`,
+  alt: `${bay.name} sim hardware — ${bay.theme}`,
+}));
+slides[0] = { ...slides[0], eyebrow: `// ${bay.name} bay`, title: bay.tagline, caption: bay.descriptor } as any;
+
+const crumbName = `${bay.name} sim hardware`;
+const schema = [
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
+      { '@type': 'ListItem', position: 2, name: crumbName, item: new URL(`/${bay.slug}`, site.url).href },
+    ],
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    name: crumbName, description: bay.intro, url: new URL(`/${bay.slug}`, site.url).href,
+    isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
+  },
+];
+---
+<Base title={crumbName} description={bay.intro} bay={bay.slug} activeNav={bay.slug} schema={schema}
+      image={`/images/${bay.slug}/hero.jpg`}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>{bay.name}</div>
+
+    <section style="margin-top:8px">
+      <PanoSlider slides={slides} height="480px" id={`${bay.slug}-hero`} />
+    </section>
+
+    <section class="sec" style="padding-top:26px">
+      <div class="accent-bar" style="height:4px;width:64px;background:var(--accent);border-radius:4px;box-shadow:0 0 18px var(--bayglow);margin-bottom:16px"></div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem);max-width:20ch">{bay.tagline}</h1>
+      <p style="color:var(--dim);max-width:65ch;margin-top:14px;font-size:1.08rem">{bay.intro}</p>
+      <p class="byline" style="margin-top:14px">Researched &amp; reviewed by <b>{site.author.name}</b> · {bay.theme} theme</p>
+    </section>
+
+    {bay.slug === 'racing' ? (
+      <section class="cfg-cta">
+        <div>
+          <span class="lbl lbl-accent">// The centerpiece</span>
+          <h4 style="margin-top:6px">Build a compatibility-checked racing rig</h4>
+          <p>Pick a base, wheel, pedals and cockpit — we check every part against the others and hand you a shareable build.</p>
+        </div>
+        <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
+      </section>
+    ) : (
+      <section class="cfg-cta">
+        <div>
+          <span class="lbl lbl-accent">// Tool</span>
+          <h4 style="margin-top:6px">The {bay.name} configurator is on the workbench</h4>
+          <p>The compatibility engine is live for Racing today and rolling out to every bay. Try it now to see how it works.</p>
+        </div>
+        <a class="btn btn-lg" href="/racing/configurator">See the live engine ▸</a>
+      </section>
+    )}
+
+    {articles.length === 0 ? (
+      <section class="sec"><p style="color:var(--dim)">Fresh {bay.name.toLowerCase()} guides are being written and will appear here shortly.</p></section>
+    ) : (
+      byType.map((g) => (
+        <section class="sec">
+          <div class="sec-head"><h2>{typeLabel[g.t]}</h2><span class="lbl">{g.items.length} guide{g.items.length > 1 ? 's' : ''}</span></div>
+          <div class="card-grid">
+            {g.items.map((a) => (
+              <ArticleCard href={`/${bay.slug}/${slug(a)}`} title={a.data.title}
+                excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+                image={a.data.heroImage} imageAlt={a.data.heroAlt}
+                meta={`${a.data.readingTime || 6} min read`} />
+            ))}
+          </div>
+        </section>
+      ))
+    )}
+
+    <section class="band">
+      <div>
+        <span class="lbl lbl-accent">// {bay.name} restock + deal alerts</span>
+        <h3>Track {bay.name.toLowerCase()} gear drops</h3>
+        <p>{site.newsletter.blurb} Pick {bay.name} and we'll only ping you when something you want is back in stock or on sale.</p>
+      </div>
+      <form onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv signup wires in at launch'); this.reset();">
+        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required />
+        <button class="btn btn-primary" type="submit">Arm alerts</button>
+      </form>
+    </section>
+  </div>
+</Base>

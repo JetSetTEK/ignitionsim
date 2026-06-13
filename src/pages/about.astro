@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+
+const title = 'About IgnitionSim & Robert Pruitt';
+const description = "I test the gear so you don't gamble on it. IgnitionSim is an independent, engineer-minded authority on sim hardware — honest verdicts, real compatibility, no affiliate fluff.";
+
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'Person',
+  name: site.author.name, jobTitle: site.author.role,
+  description: site.author.bio, url: new URL('/about', site.url).href,
+  worksFor: { '@type': 'Organization', name: site.name, url: site.url },
+  sameAs: site.author.sameAs,
+  knowsAbout: ['Sim racing hardware', 'Flight simulation hardware', 'Space sim controllers', 'Golf simulators', 'Direct drive wheelbases', 'HOTAS and HOSAS', 'Launch monitors'],
+}];
+---
+<Base title={title} description={description} schema={schema}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>About</div>
+    <section class="hero" style="text-align:left;padding:48px 0 20px">
+      <div class="lbl lbl-accent">// {site.author.role}</div>
+      <h1 style="font-size:clamp(2.2rem,5vw,3.4rem);max-width:18ch;margin:14px 0">I test the gear so you don't gamble on it.</h1>
+      <p style="max-width:62ch;font-size:1.12rem">— {site.author.name}</p>
+    </section>
+
+    <div class="prose">
+      <p>{site.name} exists because the simulation-hardware market is a maze. A wheelbase, a wheel, a set of pedals and a cockpit can total two or three thousand dollars — and half of them don't fit together. Quick-release standards clash. Ecosystems lock you in. Launch monitors need a room you might not have. Restocks vanish in minutes. Most "reviews" are a thin layer of marketing over an affiliate link.</p>
+
+      <p>I'm {site.author.name}. {site.author.bio} I've spent two decades around engineering, robotics and machine-learning talent — which means I read a spec sheet the way other people read a menu, and I'm constitutionally incapable of recommending something just because it's popular.</p>
+
+      <h2 id="how-we-test">How we test and what we won't do</h2>
+      <ul>
+        <li><strong>We test against reality, not press releases.</strong> Compatibility logic here reflects the actual quick-release, mount and torque standards manufacturers ship — encoded into the Rig Configurator so you can check a build before you buy it.</li>
+        <li><strong>We'll tell you to skip something.</strong> An honest "this is overkill for you" or "buy the cheaper one" is worth more than any affiliate commission. If a product isn't right, we say so.</li>
+        <li><strong>We never fabricate specs, prices or stock.</strong> Numbers come from the manufacturers and retailers and are dated; where something is approximate, we mark it. We'd rather leave a field blank than invent it.</li>
+        <li><strong>We read the community for signal, not content.</strong> Reddit and the forums tell us what buyers are actually struggling with. We use that to decide what to write — then we write it ourselves, from scratch. We never scrape and republish.</li>
+      </ul>
+
+      <h2>How this is funded</h2>
+      <p>{site.disclosure} The link you click never changes our verdict, and it never changes your price. If a recommendation ever reads like it was bought, call it out — that's a failure of the whole project.</p>
+
+      <h2>Five bays, one engine</h2>
+      <p>{site.name} covers five simulation disciplines — <a href="/racing">racing</a>, <a href="/flight">flight</a>, <a href="/space">space</a>, <a href="/marine">marine</a> and <a href="/golf">golf</a>. The hard part — the compatibility engine, the honest rating framework, the schema that makes our answers citable — is shared across all of them. Racing is the flagship and the proving ground; the rest follow the same playbook.</p>
+    </div>
+
+    <section class="band" style="margin-top:40px">
+      <div>
+        <span class="lbl lbl-accent">// Start here</span>
+        <h3>Build a rig, the right way</h3>
+        <p>The Rig Configurator is the fastest way to see how the honest-broker approach works in practice.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
+    </section>
+  </div>
+</Base>

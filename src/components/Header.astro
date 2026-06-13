@@ -1,0 +1,20 @@
+---
+import Logo from './Logo.astro';
+import bays from '../data/bays.json';
+interface Props { activeNav?: string; }
+const { activeNav } = Astro.props;
+---
+<header class="site">
+  <div class="wrap bar">
+    <a href="/" class="brand" aria-label="IgnitionSim home">
+      <Logo variant="horizontal" size={30} />
+    </a>
+    <nav class="primary" aria-label="Sim disciplines">
+      {bays.map((b) => (
+        <a href={`/${b.slug}`} aria-current={activeNav === b.slug ? 'page' : undefined}>{b.name}</a>
+      ))}
+      <a href="/drops" aria-current={activeNav === 'drops' ? 'page' : undefined}>Drops</a>
+    </nav>
+    <a class="btn btn-ghost" href="/racing/configurator">▸ Build a Rig</a>
+  </div>
+</header>

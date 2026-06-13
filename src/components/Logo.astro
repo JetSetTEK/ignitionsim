@@ -1,0 +1,57 @@
+---
+/**
+ * IgnitionSim — "The Ignition Hex"
+ * Machined flat-top hexagon (steel/cyan stroke) housing a sharp 4-point
+ * ignition spark (ember) with a bright core. Spark recolors per bay;
+ * wordmark stays neutral (brand-guide §3 usage rules).
+ *
+ * variant: 'horizontal' | 'stacked' | 'icon' | 'wordmark'
+ */
+interface Props {
+  variant?: 'horizontal' | 'stacked' | 'icon' | 'wordmark';
+  spark?: string;          // spark color (default ember)
+  hex?: string;            // hexagon stroke (default steel/cyan)
+  size?: number;           // icon height in px
+  glow?: boolean;          // soft ember glow (decorative)
+  class?: string;
+}
+const {
+  variant = 'horizontal',
+  spark = 'var(--ember)',
+  hex = 'var(--cyan)',
+  size = 30,
+  glow = true,
+  class: cls = '',
+} = Astro.props;
+
+const showIcon = variant !== 'wordmark';
+const showWord = variant !== 'icon';
+const stacked = variant === 'stacked';
+---
+<span class={`logo ${stacked ? 'logo-stacked' : ''} ${cls}`} aria-label="IgnitionSim" role="img">
+  {showIcon && (
+    <svg class="logo-hex" width={size} height={size} viewBox="0 0 48 48" fill="none"
+         style={glow ? `filter: drop-shadow(0 0 6px color-mix(in srgb, ${spark} 60%, transparent));` : ''}>
+      <polygon points="44,24 34,6.68 14,6.68 4,24 14,41.32 34,41.32"
+        fill="none" stroke={hex} stroke-width="2.2" stroke-linejoin="round" />
+      <path d="M24,8 L27,21 L40,24 L27,27 L24,40 L21,27 L8,24 L21,21 Z"
+        fill={spark} />
+      <circle cx="24" cy="24" r="2.6" fill="#FFF3E9" />
+    </svg>
+  )}
+  {showWord && (
+    <span class="logo-wm" style={stacked ? 'flex-direction:column;gap:0' : ''}>
+      <b>IGNITION</b><i>SIM</i>
+    </span>
+  )}
+</span>
+
+<style>
+  .logo { display: inline-flex; align-items: center; gap: 11px; }
+  .logo-stacked { flex-direction: column; gap: 8px; text-align: center; }
+  .logo-hex { display: block; flex: none; }
+  .logo-wm { display: inline-flex; align-items: baseline; gap: .12em; font-family: var(--font-disp); line-height: 1; }
+  .logo-wm b { font-weight: 800; letter-spacing: .03em; color: var(--txt); font-size: 1.3rem; }
+  .logo-wm i { font-style: normal; font-family: var(--font-mono); font-weight: 500; letter-spacing: .22em; color: var(--dim); font-size: .92rem; }
+  .logo-stacked .logo-wm { align-items: center; }
+</style>

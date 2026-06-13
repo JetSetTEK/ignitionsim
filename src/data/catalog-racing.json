@@ -1,0 +1,57 @@
+{
+  "bay": "racing",
+  "currency": "USD",
+  "note": "Prices are approximate 2025-2026 street prices and change constantly. Compatibility logic reflects real quick-release, mount and torque standards. Always verify with the vendor before purchase.",
+  "qrLabels": {
+    "moza": "MOZA QR", "fan-qr2": "Fanatec QR2", "sim-qra": "Simagic QR-A",
+    "asetek": "Asetek QR", "logi-rs": "Logitech RS", "simucube": "Simucube QR",
+    "cammus": "Cammus", "tm-qr": "Thrustmaster QR", "universal-70mm": "Universal 70mm"
+  },
+  "bases": [
+    {"id":"cammus-c5","brand":"Cammus","model":"C5","qr":"cammus","torque":5,"price":299,"eco":"Cammus","mount":["cammus","clamp-ok"],"platforms":"PC","note":"Cheapest 5Nm DD bundle"},
+    {"id":"moza-r5","brand":"MOZA","model":"R5","qr":"moza","torque":5.5,"price":440,"eco":"MOZA","mount":["moza","clamp-ok"],"platforms":"PC","note":"Smallest MOZA DD"},
+    {"id":"fanatec-csl-dd","brand":"Fanatec","model":"CSL DD","qr":"fan-qr2","torque":8,"price":350,"eco":"Fanatec","mount":["fan","clamp-ok"],"platforms":"PC / Xbox"},
+    {"id":"fanatec-gt-dd-pro","brand":"Fanatec","model":"GT DD Pro","qr":"fan-qr2","torque":8,"price":650,"eco":"Fanatec","mount":["fan","clamp-ok"],"platforms":"PC / PS5"},
+    {"id":"simagic-evo-sport","brand":"Simagic","model":"Alpha Evo Sport","qr":"sim-qra","torque":9,"price":399,"eco":"Simagic","mount":["sim","4bolt"],"platforms":"PC"},
+    {"id":"moza-r9","brand":"MOZA","model":"R9 V2","qr":"moza","torque":9,"price":429,"eco":"MOZA","mount":["moza","4bolt"],"platforms":"PC"},
+    {"id":"thrustmaster-t818","brand":"Thrustmaster","model":"T818","qr":"tm-qr","torque":10,"price":649,"eco":"Thrustmaster","mount":["tm","4bolt"],"platforms":"PC"},
+    {"id":"logitech-g-pro","brand":"Logitech","model":"G PRO Racing Wheel","qr":"logi-rs","torque":11,"price":999,"eco":"Logitech","mount":["logi","4bolt"],"platforms":"PC / PS5 / Xbox"},
+    {"id":"moza-r12","brand":"MOZA","model":"R12","qr":"moza","torque":12,"price":429,"eco":"MOZA","mount":["moza","4bolt"],"platforms":"PC","note":"The sweet spot"},
+    {"id":"simagic-evo","brand":"Simagic","model":"Alpha Evo","qr":"sim-qra","torque":12,"price":548,"eco":"Simagic","mount":["sim","4bolt"],"platforms":"PC"},
+    {"id":"fanatec-clubsport-dd","brand":"Fanatec","model":"ClubSport DD","qr":"fan-qr2","torque":12,"price":700,"eco":"Fanatec","mount":["fan","4bolt"],"platforms":"PC"},
+    {"id":"moza-r16","brand":"MOZA","model":"R16 V2","qr":"moza","torque":16,"price":549,"eco":"MOZA","mount":["moza","4bolt"],"platforms":"PC"},
+    {"id":"simucube-2-sport","brand":"Simucube","model":"Simucube 2 Sport","qr":"simucube","torque":17,"price":1199,"eco":"Simucube","mount":["simucube","4bolt"],"platforms":"PC"},
+    {"id":"simagic-evo-pro","brand":"Simagic","model":"Alpha Evo Pro","qr":"sim-qra","torque":18,"price":699,"eco":"Simagic","mount":["sim","4bolt"],"platforms":"PC"},
+    {"id":"asetek-forte","brand":"Asetek","model":"Forte","qr":"asetek","torque":18,"price":1199,"eco":"Asetek","mount":["asetek","4bolt"],"platforms":"PC"},
+    {"id":"moza-r21","brand":"MOZA","model":"R21","qr":"moza","torque":21,"price":899,"eco":"MOZA","mount":["moza","4bolt"],"platforms":"PC"},
+    {"id":"fanatec-podium-dd","brand":"Fanatec","model":"Podium DD","qr":"fan-qr2","torque":25,"price":1099,"eco":"Fanatec","mount":["fan","4bolt"],"platforms":"PC / PS5"},
+    {"id":"asetek-invicta","brand":"Asetek","model":"Invicta","qr":"asetek","torque":27,"price":1899,"eco":"Asetek","mount":["asetek","4bolt"],"platforms":"PC"},
+    {"id":"simagic-evo-ultra","brand":"Simagic","model":"Alpha Evo Ultra","qr":"sim-qra","torque":28,"price":969,"eco":"Simagic","mount":["sim","4bolt"],"platforms":"PC"}
+  ],
+  "wheels": [
+    {"id":"moza-es","brand":"MOZA","model":"ES Wheel","qr":"moza","price":199,"eco":"MOZA"},
+    {"id":"moza-rs-v2","brand":"MOZA","model":"RS V2 (round)","qr":"moza","price":249,"eco":"MOZA"},
+    {"id":"moza-ks-gt","brand":"MOZA","model":"KS GT","qr":"moza","price":399,"eco":"MOZA"},
+    {"id":"fanatec-gt-wheel","brand":"Fanatec","model":"GT Wheel","qr":"fan-qr2","price":279,"eco":"Fanatec"},
+    {"id":"fanatec-mclaren","brand":"Fanatec","model":"McLaren GT3 V2","qr":"fan-qr2","price":299,"eco":"Fanatec"},
+    {"id":"simagic-gt1","brand":"Simagic","model":"GT1-D","qr":"sim-qra","price":299,"eco":"Simagic"},
+    {"id":"logitech-rs-wheel","brand":"Logitech","model":"G PRO Wheel (round)","qr":"logi-rs","price":0,"eco":"Logitech","note":"included with base"},
+    {"id":"cube-gt","brand":"Cube Controls","model":"GT Pro","qr":"universal-70mm","price":649,"eco":"Universal"},
+    {"id":"ascher-formula","brand":"Ascher Racing","model":"F28-SC","qr":"universal-70mm","price":729,"eco":"Universal"}
+  ],
+  "pedals": [
+    {"id":"moza-srp-lite","brand":"MOZA","model":"SR-P Lite","conn":"usb","loadcell":false,"price":129,"eco":"MOZA"},
+    {"id":"fanatec-csl-lc","brand":"Fanatec","model":"CSL Pedals LC","conn":"via-base","loadcell":true,"price":249,"eco":"Fanatec"},
+    {"id":"moza-crp2","brand":"MOZA","model":"CRP2","conn":"usb","loadcell":true,"price":300,"eco":"Universal"},
+    {"id":"simagic-p2000","brand":"Simagic","model":"P2000","conn":"usb","loadcell":true,"price":499,"eco":"Universal"},
+    {"id":"heusinkveld-sprint","brand":"Heusinkveld","model":"Sprint","conn":"usb","loadcell":true,"price":669,"eco":"Universal"},
+    {"id":"asetek-invicta-pedals","brand":"Asetek","model":"Invicta Pedals","conn":"usb","loadcell":true,"hydraulic":true,"price":1200,"eco":"Universal"}
+  ],
+  "mounts": [
+    {"id":"desk-clamp","brand":"Generic","model":"Desk Clamp","fit":"clamp-ok","maxtorque":9,"price":0,"note":"Comes with most entry bases"},
+    {"id":"trak-racer-tr80","brand":"Trak Racer","model":"TR80","fit":"4bolt","maxtorque":35,"price":499,"eco":"Universal"},
+    {"id":"gt-omega-apex","brand":"GT Omega","model":"Apex Cockpit","fit":"4bolt","maxtorque":30,"price":389,"eco":"Universal"},
+    {"id":"nlr-gt-track","brand":"Next Level","model":"GT Track","fit":"4bolt","maxtorque":30,"price":699,"eco":"Universal"},
+    {"id":"sim-lab-p1x","brand":"Sim-Lab","model":"P1-X Pro","fit":"4bolt","maxtorque":40,"price":829,"eco":"Universal"}
+  ]
+}

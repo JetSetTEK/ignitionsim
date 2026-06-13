@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+---
+<Base title="Affiliate Disclosure" description="How IgnitionSim is funded, and our commitment that affiliate relationships never change our verdicts.">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Affiliate disclosure</div>
+    <div class="prose" style="padding-top:24px">
+      <h1>Affiliate disclosure</h1>
+      <p>{site.disclosure}</p>
+      <h2>What that means in plain English</h2>
+      <ul>
+        <li>Some outbound links to gear are affiliate links. If you buy through one, we may earn a commission from the retailer or brand network (for example Impact, AvantLink, ShareASale, or the Amazon Associates program).</li>
+        <li>It costs you nothing extra — your price is identical whether you use our link or not.</li>
+        <li>Commissions never influence our ratings, rankings or recommendations. We routinely tell readers to buy the cheaper option or skip a product entirely.</li>
+        <li>As an Amazon Associate, IgnitionSim earns from qualifying purchases. Amazon is a long-tail fallback for small parts, never the basis of our buying advice.</li>
+      </ul>
+      <p>If any recommendation ever reads as bought-and-paid-for, that's a failure of our editorial standard — tell us and we'll fix it.</p>
+    </div>
+  </div>
+</Base>

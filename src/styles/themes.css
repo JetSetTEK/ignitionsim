@@ -1,0 +1,90 @@
+/* ============================================================
+   IgnitionSim — Theme Tokens
+   Master shell = Blade Runner / space. Per-bay accents swap via
+   [data-bay]. --ember is the global brand spark (never recolored).
+   The wordmark stays neutral; only the spark + UI accent recolor.
+   ============================================================ */
+
+:root {
+  /* master shell — blade runner / space */
+  --night:   #0A0E17;
+  --night2:  #0E1320;
+  --panel:   #121826;
+  --panel2:  #161D2E;
+  --line:    #1F2937;
+  --line2:   #2A3650;
+
+  /* signature: ignition ember (name <-> color) */
+  --ember:   #FF5E1A;
+  --ember-2: #FF7A3D;
+
+  /* neon master accents */
+  --cyan: #22D3EE;
+  --mag:  #D946EF;
+
+  /* text */
+  --txt:    #E6EDF6;
+  --dim:    #8B97AA;
+  --dimmer: #5A6678;
+
+  /* status — configurator verdicts */
+  --green: #34D399;
+  --amber: #F59E0B;
+  --red:   #F87171;
+
+  /* default accent (hub / no bay) = cyan */
+  --accent:  #22D3EE;
+  --accent2: #D946EF;
+  --bayglow: rgba(34, 211, 238, .45);
+  --baybg:   #0A0E17;
+  --baypanel:#121826;
+
+  /* type */
+  --font-disp: 'Saira', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* spacing scale */
+  --sp-1: .25rem; --sp-2: .5rem; --sp-3: .75rem; --sp-4: 1rem;
+  --sp-5: 1.5rem; --sp-6: 2rem; --sp-7: 3rem; --sp-8: 4.5rem; --sp-9: 7rem;
+
+  --wrap: 1180px;
+  --radius: 14px;
+}
+
+/* ---------- per-bay theme token sets ---------- */
+[data-bay="racing"] {
+  --accent:  #F59E0B;   /* amber */
+  --accent2: #EF4444;   /* red telemetry */
+  --bayglow: rgba(245, 158, 11, .5);
+  --baybg:   #0B0A08;
+  --baypanel:#15120C;
+}
+[data-bay="flight"] {
+  --accent:  #38BDF8;   /* blueprint cyan */
+  --accent2: #0EA5E9;
+  --bayglow: rgba(56, 189, 248, .5);
+  --baybg:   #08101F;
+  --baypanel:#0C1B33;
+}
+[data-bay="space"] {
+  --accent:  #D946EF;   /* neon magenta */
+  --accent2: #22D3EE;
+  --bayglow: rgba(217, 70, 239, .55);
+  --baybg:   #0A0612;
+  --baypanel:#16071F;
+}
+[data-bay="marine"] {
+  --accent:  #2DD4BF;   /* teal */
+  --accent2: #0D9488;
+  --bayglow: rgba(13, 148, 136, .5);
+  --baybg:   #07140F;
+  --baypanel:#04231F;
+}
+[data-bay="golf"] {
+  --accent:  #EAB308;   /* warm gold */
+  --accent2: #CA8A04;
+  --bayglow: rgba(234, 179, 8, .45);
+  --baybg:   #08160E;
+  --baypanel:#0B2417;
+}

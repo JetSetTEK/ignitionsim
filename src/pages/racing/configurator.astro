@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import Configurator from '../../components/Configurator.astro';
+import site from '../../data/site.json';
+
+const title = 'Racing Rig Configurator — Compatibility-Checked Sim Builds';
+const description = 'Build a sim racing rig that actually fits together. Pick a wheelbase, wheel, pedals and cockpit and IgnitionSim checks every part against the others — quick-release standard, mount footprint and torque — then hands you a shareable build.';
+
+const schema = [
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
+      { '@type': 'ListItem', position: 2, name: 'Racing sim hardware', item: new URL('/racing', site.url).href },
+      { '@type': 'ListItem', position: 3, name: 'Rig Configurator', item: new URL('/racing/configurator', site.url).href },
+    ],
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'WebApplication',
+    name: 'IgnitionSim Racing Rig Configurator', applicationCategory: 'UtilitiesApplication',
+    operatingSystem: 'Web', url: new URL('/racing/configurator', site.url).href,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    description,
+  },
+];
+---
+<Base title={title} description={description} bay="racing" activeNav="racing" schema={schema} image="/images/racing/hero.jpg">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span><a href="/racing">Racing</a><span>/</span>Configurator</div>
+
+    <section class="hero" style="padding:40px 0 10px;text-align:left">
+      <div class="lbl lbl-accent">// Compatibility-checked builds</div>
+      <h1 style="font-size:clamp(2rem,5vw,3.2rem);max-width:18ch;margin:12px 0">Build the perfect rig without the guesswork.</h1>
+      <p style="margin:0;max-width:64ch">Half the heartbreak in sim racing is buying a $400 wheel that won't enable force feedback on your base. Pick your parts below — we check the quick-release standard, mount footprint and torque rating against each other and tell you exactly where you stand: <b style="color:var(--green)">green</b>, <b style="color:var(--amber)">amber</b>, or <b style="color:var(--red)">red</b>.</p>
+    </section>
+
+    <Configurator />
+
+    <div class="byline" style="text-align:center;margin:18px 0">Builds verified against real quick-release &amp; mount standards · curated by <b>{site.author.name}</b></div>
+
+    <section class="sec">
+      <div class="sec-head"><h2>How the compatibility check works</h2></div>
+      <div class="card-grid">
+        <div class="fcard"><h3>Quick-release match</h3><p>Each base and wheel carries its real QR standard (MOZA QR, Fanatec QR2, Simagic QR-A…). In-ecosystem is plug-and-play; cross-brand flags the adapter you'll need; universal 70mm bolts to a hub.</p></div>
+        <div class="fcard"><h3>Torque vs mount</h3><p>A 21&nbsp;Nm base on a desk clamp is a warning, not a setup. We block mounts that can't physically hold your base's torque and steer you to a cockpit that can.</p></div>
+        <div class="fcard"><h3>Pedal connection</h3><p>Via-base pedals only talk to their own brand's base; USB pedals work with anything. We surface the gotcha before it's in your cart.</p></div>
+      </div>
+      <p style="color:var(--dimmer);font-size:.82rem;margin-top:18px">Prices are approximate 2025–2026 street prices and change constantly. Compatibility logic reflects real standards but always verify with the vendor before purchase.</p>
+    </section>
+  </div>
+</Base>

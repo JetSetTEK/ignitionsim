@@ -1,0 +1,19 @@
+{
+  "name": "ignitionsim",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "IgnitionSim.com — the engineer's guide to sim hardware. Compatibility-checked builds, honest gear reviews, and restock alerts for racing, flight, space, marine, and golf sim rigs.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "images": "node scripts/fetch-images.mjs",
+    "apply:articles": "node scripts/apply-articles.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "3.7.3",
+    "astro": "5.18.2",
+    "sharp": "0.33.5"
+  }
+}

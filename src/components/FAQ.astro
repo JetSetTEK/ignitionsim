@@ -1,0 +1,19 @@
+---
+/**
+ * FAQ — rendered EXPANDED (never collapsed) so readers and AI crawlers both
+ * see the answers. FAQPage JSON-LD is emitted by the page via the same data.
+ */
+interface Props { faqs: { q: string; a: string }[]; heading?: string; }
+const { faqs, heading = 'Quick answers' } = Astro.props;
+---
+{faqs.length > 0 && (
+  <section class="faq" aria-label="Frequently asked questions">
+    <h2>{heading}</h2>
+    {faqs.map((f) => (
+      <div class="qa">
+        <div class="q">{f.q}</div>
+        <div class="a">{f.a}</div>
+      </div>
+    ))}
+  </section>
+)}

@@ -1,0 +1,100 @@
+---
+/**
+ * Panoramic image slider — large, cinematic, scroll-snap, reduced-motion safe.
+ * slides: [{ src, alt, caption?, eyebrow?, title? }]
+ */
+interface Slide { src?: string; alt: string; caption?: string; eyebrow?: string; title?: string; }
+interface Props { slides: Slide[]; height?: string; autoplay?: boolean; id?: string; }
+const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
+---
+<div class="pslider" id={id} data-autoplay={autoplay ? '1' : '0'} style={`--ph:${height}`}>
+  <div class="ptrack">
+    {slides.map((s, i) => (
+      <figure class="pslide" data-i={i}>
+        {s.src
+          ? <img src={s.src} alt={s.alt} loading={i === 0 ? 'eager' : 'lazy'} decoding="async" />
+          : <div class="pslide-fallback" aria-label={s.alt}></div>}
+        <div class="pslide-scrim"></div>
+        {(s.eyebrow || s.title || s.caption) && (
+          <figcaption>
+            {s.eyebrow && <span class="lbl lbl-accent">{s.eyebrow}</span>}
+            {s.title && <h3>{s.title}</h3>}
+            {s.caption && <p>{s.caption}</p>}
+          </figcaption>
+        )}
+      </figure>
+    ))}
+  </div>
+  {slides.length > 1 && (
+    <>
+      <button class="pnav prev" aria-label="Previous slide">‹</button>
+      <button class="pnav next" aria-label="Next slide">›</button>
+      <div class="pdots">{slides.map((_, i) => <button class="pdot" data-i={i} aria-label={`Go to slide ${i + 1}`}></button>)}</div>
+    </>
+  )}
+</div>
+
+<style>
+  .pslider { position: relative; border-radius: 18px; overflow: hidden; border: 1px solid var(--line2); margin: 8px 0; }
+  .ptrack { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -ms-overflow-style: none; scrollbar-width: none; }
+  .ptrack::-webkit-scrollbar { display: none; }
+  .pslide { position: relative; flex: 0 0 100%; scroll-snap-align: start; height: var(--ph); margin: 0; }
+  .pslide img, .pslide-fallback { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .pslide-fallback {
+    background:
+      radial-gradient(420px 300px at 78% 115%, var(--bayglow), transparent 70%),
+      radial-gradient(360px 260px at 10% -10%, color-mix(in srgb, var(--accent2) 35%, transparent), transparent 70%),
+      linear-gradient(160deg, var(--baypanel), var(--baybg));
+  }
+  .pslide-fallback::after {
+    content: ""; position: absolute; inset: 0; opacity: .35;
+    background-image: linear-gradient(var(--line) 1px, transparent 1px), linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+  .pslide-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, color-mix(in srgb, var(--baybg) 92%, transparent) 100%); }
+  .pslide figcaption { position: absolute; left: 0; bottom: 0; padding: 32px 36px; max-width: 64ch; z-index: 2; }
+  .pslide figcaption h3 { font-size: clamp(1.6rem, 3.6vw, 2.6rem); margin: 8px 0; color: #fff; text-shadow: 0 2px 30px rgba(0,0,0,.5); }
+  .pslide figcaption p { color: #d8e0ec; font-size: .98rem; }
+  .pnav { position: absolute; top: 50%; transform: translateY(-50%); z-index: 3; width: 42px; height: 42px; border-radius: 50%; border: 1px solid var(--line2); background: color-mix(in srgb, var(--night) 70%, transparent); color: var(--txt); font-size: 1.4rem; cursor: pointer; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); display: flex; align-items: center; justify-content: center; }
+  .pnav:hover { border-color: var(--accent); color: var(--accent); }
+  .pnav.prev { left: 16px; } .pnav.next { right: 16px; }
+  .pdots { position: absolute; bottom: 18px; right: 24px; z-index: 3; display: flex; gap: 7px; }
+  .pdot { width: 9px; height: 9px; border-radius: 50%; border: none; background: rgba(255,255,255,.3); cursor: pointer; padding: 0; }
+  .pdot.on { background: var(--accent); box-shadow: 0 0 10px var(--bayglow); }
+  @media (max-width: 880px) { .pslide figcaption { padding: 22px; } }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.pslider').forEach((sl) => {
+    const track = sl.querySelector<HTMLElement>('.ptrack')!;
+    const slides = sl.querySelectorAll<HTMLElement>('.pslide');
+    const dots = sl.querySelectorAll<HTMLElement>('.pdot');
+    if (!slides.length) return;
+    let i = 0;
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const go = (n: number) => {
+      i = (n + slides.length) % slides.length;
+      track.scrollTo({ left: slides[i].offsetLeft, behavior: reduce ? 'auto' : 'smooth' });
+      dots.forEach((d, k) => d.classList.toggle('on', k === i));
+    };
+    sl.querySelector('.next')?.addEventListener('click', () => { go(i + 1); pause(); });
+    sl.querySelector('.prev')?.addEventListener('click', () => { go(i - 1); pause(); });
+    dots.forEach((d) => d.addEventListener('click', () => { go(Number(d.dataset.i)); pause(); }));
+    // sync dots on manual scroll
+    let st: any;
+    track.addEventListener('scroll', () => {
+      clearTimeout(st);
+      st = setTimeout(() => {
+        const idx = Math.round(track.scrollLeft / track.clientWidth);
+        if (idx !== i) { i = idx; dots.forEach((d, k) => d.classList.toggle('on', k === i)); }
+      }, 80);
+    });
+    go(0);
+    let timer: any;
+    const play = () => { if (reduce || sl.dataset.autoplay !== '1' || slides.length < 2) return; timer = setInterval(() => go(i + 1), 6000); };
+    const pause = () => { clearInterval(timer); setTimeout(play, 12000); };
+    sl.addEventListener('mouseenter', () => clearInterval(timer));
+    sl.addEventListener('mouseleave', play);
+    play();
+  });
+</script>

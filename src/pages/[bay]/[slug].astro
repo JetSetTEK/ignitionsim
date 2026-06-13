@@ -1,0 +1,117 @@
+---
+import Base from '../../layouts/Base.astro';
+import FAQ from '../../components/FAQ.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection, render } from 'astro:content';
+import bays from '../../data/bays.json';
+import site from '../../data/site.json';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map((entry) => ({
+    params: { bay: entry.data.bay, slug: entry.id.split('/').pop() },
+    props: { entry },
+  }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const bay = bays.find((b) => b.slug === d.bay)!;
+const slug = entry.id.split('/').pop();
+const url = new URL(`/${d.bay}/${slug}`, site.url).href;
+
+const fmtDate = (x: Date) => new Date(x).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// related
+const related = (await getCollection('articles', ({ data }) => !data.draft))
+  .filter((a) => a.id !== entry.id && (d.related.includes(a.id.split('/').pop()!) || a.data.bay === d.bay))
+  .slice(0, 3);
+
+const typeLabel = d.type.replace(/-/g, ' ');
+
+const schema: Record<string, any>[] = [
+  {
+    '@context': 'https://schema.org', '@type': 'Article',
+    headline: d.title, description: d.description,
+    image: d.heroImage ? new URL(d.heroImage, site.url).href : new URL('/og-default.png', site.url).href,
+    datePublished: new Date(d.publishDate).toISOString(),
+    dateModified: new Date(d.updatedDate || d.publishDate).toISOString(),
+    author: { '@type': 'Person', name: d.author, url: new URL('/about', site.url).href },
+    publisher: { '@type': 'Organization', name: site.name, logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', site.url).href } },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    articleSection: `${bay.name} sim hardware`,
+    keywords: d.primaryKeyword,
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
+      { '@type': 'ListItem', position: 2, name: `${bay.name} sim hardware`, item: new URL(`/${d.bay}`, site.url).href },
+      { '@type': 'ListItem', position: 3, name: d.title, item: url },
+    ],
+  },
+];
+if (d.faqs.length) {
+  schema.push({
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: d.faqs.map((f) => ({
+      '@type': 'Question', name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+<Base title={d.title} description={d.description} bay={d.bay} activeNav={d.bay} schema={schema}
+      image={d.heroImage || `/images/${d.bay}/hero.jpg`}>
+  <article class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${d.bay}`}>{bay.name}</a><span>/</span>{typeLabel}</div>
+
+    <header style="max-width:760px;margin:0 auto 8px">
+      <span class="lbl lbl-accent">{typeLabel}</span>
+      <h1 style="font-size:clamp(2rem,4.6vw,3rem);margin:12px 0 16px;line-height:1.12">{d.title}</h1>
+      <p style="color:var(--dim);font-size:1.12rem">{d.description}</p>
+      <p class="byline" style="margin-top:16px">By <b>{d.author}</b> · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
+    </header>
+
+    {d.heroImage && (
+      <figure class="pano" style="min-height:380px;margin:24px auto;max-width:1000px">
+        <img src={d.heroImage} alt={d.heroAlt || d.title} />
+        <div class="scrim"></div>
+      </figure>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <div class="prose">
+      <FAQ faqs={d.faqs} heading="Key takeaways & quick answers" />
+    </div>
+
+    <div class="prose">
+      <div class="cfg-cta">
+        <div>
+          <span class="lbl lbl-accent">// Put it together</span>
+          <h4 style="margin-top:6px">Spec your build and check it against itself</h4>
+          <p>Use the Rig Configurator to make sure the parts in this guide actually fit together before you buy.</p>
+        </div>
+        <a class="btn btn-primary" href="/racing/configurator">Open the configurator ▸</a>
+      </div>
+      <p class="disclosure">{site.disclosure}</p>
+    </div>
+
+    {related.length > 0 && (
+      <section class="sec" style="max-width:1000px;margin:0 auto">
+        <div class="sec-head"><h2>Keep reading</h2></div>
+        <div class="card-grid">
+          {related.map((a) => (
+            <ArticleCard href={`/${a.data.bay}/${a.id.split('/').pop()}`} title={a.data.title}
+              excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+              image={a.data.heroImage} imageAlt={a.data.heroAlt}
+              meta={`${a.data.bay.toUpperCase()} · ${a.data.readingTime || 6} min read`} />
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</Base>

@@ -1,0 +1,38 @@
+---
+import Logo from './Logo.astro';
+import site from '../data/site.json';
+import bays from '../data/bays.json';
+const year = 2026;
+---
+<footer class="site">
+  <div class="wrap">
+    <div class="fgrid">
+      <div class="fbrand">
+        <Logo variant="horizontal" size={28} />
+        <p>{site.descriptor} Independent, engineer-minded, and honest about what's worth your money.</p>
+        <p class="byline">Curated by <b>{site.author.name}</b></p>
+      </div>
+      <div>
+        <h5>Bays</h5>
+        {bays.map((b) => <a href={`/${b.slug}`}>{b.name}</a>)}
+      </div>
+      <div>
+        <h5>Tools</h5>
+        <a href="/racing/configurator">Rig Configurator</a>
+        <a href="/drops">Stock &amp; Deal Tracker</a>
+        <a href="/alerts">Restock Alerts</a>
+      </div>
+      <div>
+        <h5>About</h5>
+        <a href="/about">Robert Pruitt</a>
+        <a href="/about#how-we-test">How we test</a>
+        <a href="/disclosure">Affiliate disclosure</a>
+        <a href="/privacy">Privacy</a>
+      </div>
+    </div>
+    <div class="legal">
+      <p>{site.disclosure}</p>
+      <p style="margin-top:10px">&copy; {year} {site.name}. Specs, prices and compatibility are researched and reviewed but change constantly — verify with the vendor before purchase. {site.name} is an independent publication and is not affiliated with any hardware manufacturer.</p>
+    </div>
+  </div>
+</footer>

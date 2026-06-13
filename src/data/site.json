@@ -1,0 +1,38 @@
+{
+  "name": "IgnitionSim",
+  "wordmark": { "heavy": "IGNITION", "light": "SIM" },
+  "domain": "ignitionsim.com",
+  "url": "https://ignitionsim.com",
+  "tagline": "Where every great rig starts.",
+  "taglineAlt": "Stop guessing. Start building.",
+  "descriptor": "The engineer's guide to sim hardware — racing, flight, space, and beyond.",
+  "heroSubhead": "Compatibility-checked builds, honest gear reviews, and restock alerts for every sim discipline.",
+  "eyebrow": "// SIM HARDWARE, DECODED BY AN ENGINEER'S EYE",
+  "author": {
+    "name": "Robert Pruitt",
+    "role": "Founder & Lead Reviewer",
+    "bio": "Two decades in technical recruiting across engineering, robotics and machine learning — a systems-thinking obsessive who tests the gear so you don't gamble on it.",
+    "sameAs": [
+      "https://github.com/JetSetTEK"
+    ]
+  },
+  "colors": {
+    "ember": "#FF5E1A",
+    "cyan": "#22D3EE",
+    "magenta": "#D946EF",
+    "night": "#0A0E17"
+  },
+  "social": {
+    "twitter": "",
+    "youtube": "",
+    "pinterest": "",
+    "instagram": ""
+  },
+  "newsletter": {
+    "provider": "beehiiv",
+    "blurb": "The spark for your next upgrade — restock + deal alerts, no noise.",
+    "action": ""
+  },
+  "disclosure": "IgnitionSim is reader-supported. When you buy through links on our site we may earn an affiliate commission at no extra cost to you — it never changes our verdict or your price. As an Amazon Associate we earn from qualifying purchases.",
+  "founded": "2026"
+}

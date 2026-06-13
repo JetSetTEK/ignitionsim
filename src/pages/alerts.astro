@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+import bays from '../data/bays.json';
+const title = 'Restock & Deal Alerts';
+const description = "The spark for your next upgrade — restock and deal alerts for sim hardware, segmentable by bay. No noise, just the drops you actually want.";
+---
+<Base title={title} description={description} activeNav="alerts">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Alerts</div>
+    <section class="hero" style="padding:48px 0 16px">
+      <div class="lbl lbl-accent">// The spark for your next upgrade</div>
+      <h1 style="font-size:clamp(2.2rem,5vw,3.4rem);margin:14px 0">Never miss a drop again.</h1>
+      <p style="max-width:60ch;margin:0 auto">Fanatec and MOZA sell out in minutes; the best deals last hours. Pick the bays you care about and we'll only email you when something you actually want is back in stock or on sale.</p>
+    </section>
+
+    <section class="sec" style="max-width:640px;margin:0 auto">
+      <form class="alert-form" onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv double-opt-in wires in at launch'); this.reset();">
+        <label class="lbl" style="display:block;margin-bottom:10px">Email</label>
+        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required style="width:100%;background:var(--night);border:1px solid var(--line2);border-radius:8px;padding:13px 15px;color:var(--txt);font-family:var(--font-mono)" />
+        <p class="lbl" style="margin:20px 0 10px">Which bays?</p>
+        <div class="bay-picks">
+          {bays.map((b) => (
+            <label class="pick"><input type="checkbox" checked={b.slug === 'racing'} /> <span>{b.name}</span></label>
+          ))}
+        </div>
+        <button class="btn btn-primary btn-lg" type="submit" style="width:100%;margin-top:20px;justify-content:center">Arm alerts ▸</button>
+        <p style="color:var(--dimmer);font-size:.76rem;text-align:center;margin-top:14px">Double opt-in. Unsubscribe in one click. We never sell your address. Powered by beehiiv.</p>
+      </form>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .bay-picks { display: flex; flex-wrap: wrap; gap: 10px; }
+  .pick { display: flex; align-items: center; gap: 8px; border: 1px solid var(--line2); border-radius: 8px; padding: 10px 14px; cursor: pointer; font-family: var(--font-mono); font-size: .8rem; color: var(--txt); }
+  .pick input { accent-color: var(--ember); }
+  .pick:hover { border-color: var(--accent); }
+</style>

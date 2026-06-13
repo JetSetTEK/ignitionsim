@@ -1,0 +1,163 @@
+[
+  {
+    "prompt": "Cinematic low-angle hero shot of a premium direct-drive sim racing cockpit at night, single carbon-fiber steering rim catching warm amber rim light, soft bokeh of triple curved monitors glowing behind, shallow depth of field, photoreal, moody darkness, no text",
+    "out": "racing/hero.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 100
+  },
+  {
+    "prompt": "Macro photoreal close-up of a CNC-machined aluminum direct-drive wheelbase, brushed metal and red anodized accents, dramatic side rim light, deep shadow falloff, dark charcoal background, no text",
+    "out": "racing/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 101
+  },
+  {
+    "prompt": "Atmospheric night scene of a sim racer's hands on a carbon GT wheel, amber dashboard telemetry reflections on knuckles, motion-blur of a virtual track in the monitor glow, teal-and-amber color grade, photoreal, no text",
+    "out": "racing/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 102
+  },
+  {
+    "prompt": "Studio product shot of a row of load-cell sim racing pedals, aerospace aluminum and carbon heel plate, single dramatic key light raking across brushed metal, black seamless background, photoreal, no text",
+    "out": "racing/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 103
+  },
+  {
+    "prompt": "Cinematic wide shot of a general-aviation yoke and six-lever throttle quadrant on a dark desk at dusk, lit by cool cyan and amber cockpit glow, deep navy background, shallow depth of field, faint blueprint linework overlaid, no text",
+    "out": "flight/hero.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 104
+  },
+  {
+    "prompt": "Aviation blueprint schematic of a flight-sim cockpit yoke exploded into components, navy paper with cyan drafting lines and dimension callouts, glowing edges, drafting-table mood, no readable text",
+    "out": "flight/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 105
+  },
+  {
+    "prompt": "Force-feedback flight yoke base rendered as a glowing wireframe with cyan servo-torque vectors arcing through it, dark navy void, HUD-style reticles, high-tech engineering hero shot, no text",
+    "out": "flight/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 106
+  },
+  {
+    "prompt": "Airliner glass-cockpit panel stack — MCDU and autopilot FCU panels — softly backlit in cyan and warm amber against near-black cabin, rain-streaked window reflection, moody dusk lighting, cinematic, no readable labels",
+    "out": "flight/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 107
+  },
+  {
+    "prompt": "Cinematic hero shot of a dual flight-stick HOSAS rig on a dark desk, lit by Blade Runner neon — magenta key light from the left, cyan rim from the right, volumetric haze, glossy black metal sticks reflecting the glow, shallow depth of field, no text",
+    "out": "space/hero.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 108
+  },
+  {
+    "prompt": "First-person cockpit view of a pilot's hands gripping two flight sticks, a starfield and distant nebula glowing magenta and cyan through the canopy, holographic HUD reflections, moody rim lighting, ultra-detailed, no text",
+    "out": "space/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 109
+  },
+  {
+    "prompt": "A premium all-metal flight stick gimbal exploded into floating components against a black void, edge-lit in cyan and magenta, product-photography sharpness, dramatic reflections, sci-fi engineering aesthetic, no text",
+    "out": "space/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 110
+  },
+  {
+    "prompt": "Wide cinematic shot of a home simpit: two clamp-mounted sticks, a button-box panel of glowing switches, a curved monitor showing a starfield — neon magenta and cyan ambient light, dust motes, no text",
+    "out": "space/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 111
+  },
+  {
+    "prompt": "Cinematic close-up of a brushed-steel ship's throttle quadrant, twin machined levers catching warm light, deep teal bridge console background, shallow depth of field, no text, photorealistic",
+    "out": "marine/hero.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 112
+  },
+  {
+    "prompt": "A weathered ship's helm wheel in polished steel and dark wood, ocean dusk through bridge windows behind, deep teal and amber tones, moody volumetric light, no text",
+    "out": "marine/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 113
+  },
+  {
+    "prompt": "Wide cinematic shot of a darkened ship bridge at dusk, glowing teal radar and chart displays, brushed-metal console, silhouette of a captain, rain on glass, no text",
+    "out": "marine/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 114
+  },
+  {
+    "prompt": "Macro of a DIY helm build — machined aluminum throttle levers, exposed wiring and a small circuit board, workshop bokeh, cool steel and teal palette, no text",
+    "out": "marine/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 115
+  },
+  {
+    "prompt": "Cinematic wide shot of a luxury home golf simulator bay at dusk, deep emerald fairway projected on a taut impact screen, warm gold landscape lighting across a forest-green enclosure, country-club elegance, no text, photoreal, shallow depth of field",
+    "out": "golf/hero.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 116
+  },
+  {
+    "prompt": "A lone golfer mid-downswing inside a darkened simulator room, the impact screen glowing with a sunlit links fairway in rich green and amber, dramatic rim light, cinematic atmosphere, no text",
+    "out": "golf/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 117
+  },
+  {
+    "prompt": "Overhead camera launch monitor mounted to a coffered ceiling above a premium hitting mat, soft gold downlight, deep green walls, polished wood trim, country-club study aesthetic, no text, photoreal",
+    "out": "golf/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 118
+  },
+  {
+    "prompt": "Close detail of a photometric launch monitor beside a pristine golf ball on a fairway-green hitting mat, warm directional light, dark luxurious bay in soft focus behind, cinematic, no text",
+    "out": "golf/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 119
+  },
+  {
+    "prompt": "Cinematic ultra-wide hero of a darkened high-end sim battlestation at night with a curved monitor showing a glowing race track, lit by Blade Runner neon cyan and magenta with a warm ember-orange accent, volumetric haze, deep night #0A0E17 mood, photoreal, no text",
+    "out": "hub/slide-1.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 120
+  },
+  {
+    "prompt": "Cinematic ultra-wide of a futuristic cockpit silhouette facing a glowing starfield and neon city horizon, magenta and cyan rim light with an ember-orange spark glow, engineering grid faintly overlaid, deep night, no text",
+    "out": "hub/slide-2.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 121
+  },
+  {
+    "prompt": "Cinematic ultra-wide of an immaculate home simulation studio at blue hour — racing rig, flight yoke and golf screen suggested in shadow — unified by neon cyan, magenta and ember accents, atmospheric, premium, no text",
+    "out": "hub/slide-3.jpg",
+    "w": 1600,
+    "h": 720,
+    "seed": 122
+  }
+]

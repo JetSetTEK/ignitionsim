@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+---
+<Base title="Privacy & Cookies" description="How IgnitionSim handles your data: minimal analytics, opt-in email only, no selling of personal information.">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Privacy</div>
+    <div class="prose" style="padding-top:24px">
+      <h1>Privacy &amp; cookies</h1>
+      <p>{site.name} is a static publication built to respect your privacy. This page explains what little we collect and why.</p>
+      <h2>Analytics</h2>
+      <p>We use privacy-respecting, aggregate analytics to understand which guides are useful. We do not build advertising profiles of you.</p>
+      <h2>Email alerts</h2>
+      <p>If you sign up for <a href="/alerts">restock &amp; deal alerts</a>, your email is stored by our newsletter provider (beehiiv) solely to send the alerts you asked for. Sign-up is double opt-in and you can unsubscribe in one click at any time. We never sell or rent your address.</p>
+      <h2>Affiliate links &amp; cookies</h2>
+      <p>Some outbound product links are affiliate links; clicking them may set a cookie from the retailer or affiliate network so a purchase can be attributed. See our <a href="/disclosure">affiliate disclosure</a> for details. These cookies are set by the destination site, not by us.</p>
+      <h2>Your choices</h2>
+      <p>You can block cookies in your browser and still use the entire site. To have any email data removed, unsubscribe or contact us and we'll delete it.</p>
+      <p style="color:var(--dimmer);font-size:.82rem">This notice is a plain-language summary and will be expanded with a formal policy as the site grows.</p>
+    </div>
+  </div>
+</Base>
