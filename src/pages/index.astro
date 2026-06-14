@@ -8,6 +8,7 @@ import RigFinder from '../components/RigFinder.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
+import photography from '../data/photography.json';
 
 const portalClass: Record<string, string> = {
   racing: 'p-racing', flight: 'p-flight', space: 'p-space', marine: 'p-marine', golf: 'p-golf',
@@ -18,11 +19,18 @@ const all = (await getCollection('articles', ({ data }) => !data.draft))
 const featured = all.filter((a) => a.data.featured).slice(0, 6);
 const latest = (featured.length ? featured : all).slice(0, 6);
 
-const slides = [
-  { src: '/images/hub/slide-1.jpg', alt: 'A direct-drive sim racing cockpit glowing at night', eyebrow: '// Racing', title: 'One engine. Five worlds.', caption: 'Compatibility-checked builds for every discipline — starting with the rig that started it all.' },
-  { src: '/images/hub/slide-2.jpg', alt: 'A neon-lit dual-stick space sim cockpit', eyebrow: '// Space', title: 'Decoded by an engineer’s eye', caption: 'We test the gear so you don’t gamble on it — honest verdicts, real compatibility, no fluff.' },
-  { src: '/images/hub/slide-3.jpg', alt: 'A backlit airliner cockpit panel stack', eyebrow: '// Flight', title: 'Stop guessing. Start building.', caption: 'From your first yoke to a full airliner panel — the smart upgrade path, mapped.' },
+const hubCopy = [
+  { eyebrow: '// Racing', title: 'One engine. Five worlds.', caption: 'Compatibility-checked builds for every discipline — starting with the rig that started it all.', alt: 'A sim racing cockpit glowing at night' },
+  { eyebrow: '// Space', title: 'Decoded by an engineer’s eye', caption: 'We test the gear so you don’t gamble on it — honest verdicts, real compatibility, no fluff.', alt: 'A neon-lit cockpit' },
+  { eyebrow: '// Flight', title: 'Stop guessing. Start building.', caption: 'From your first yoke to a full airliner panel — the smart upgrade path, mapped.', alt: 'A backlit cockpit panel stack' },
 ];
+const hubPhotos = ((photography as any).hub || []) as any[];
+const slides = hubCopy.map((c, i) => {
+  const p = hubPhotos[i];
+  return p
+    ? { src: p.src, alt: p.alt || c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl } }
+    : { src: `/images/hub/slide-${i + 1}.jpg`, alt: c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption };
+});
 
 const schema = [{
   '@context': 'https://schema.org',

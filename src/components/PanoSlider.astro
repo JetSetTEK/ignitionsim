@@ -3,7 +3,7 @@
  * Panoramic image slider — large, cinematic, scroll-snap, reduced-motion safe.
  * slides: [{ src, alt, caption?, eyebrow?, title? }]
  */
-interface Slide { src?: string; alt: string; caption?: string; eyebrow?: string; title?: string; }
+interface Slide { src?: string; alt: string; caption?: string; eyebrow?: string; title?: string; credit?: { by: string; byUrl?: string; photoUrl?: string }; }
 interface Props { slides: Slide[]; height?: string; autoplay?: boolean; id?: string; }
 const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
 ---
@@ -15,6 +15,7 @@ const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
           ? <img src={s.src} alt={s.alt} loading={i === 0 ? 'eager' : 'lazy'} decoding="async" />
           : <div class="pslide-fallback" aria-label={s.alt}></div>}
         <div class="pslide-scrim"></div>
+        {s.credit && <a class="pslide-credit" href={s.credit.photoUrl} target="_blank" rel="noopener nofollow">Photo: {s.credit.by} / Unsplash</a>}
         {(s.eyebrow || s.title || s.caption) && (
           <figcaption>
             {s.eyebrow && <span class="lbl lbl-accent">{s.eyebrow}</span>}
@@ -52,6 +53,8 @@ const { slides, height = '460px', autoplay = true, id = 'pano' } = Astro.props;
     background-size: 40px 40px;
   }
   .pslide-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, color-mix(in srgb, var(--baybg) 92%, transparent) 100%); }
+  .pslide-credit { position: absolute; bottom: 10px; right: 14px; z-index: 3; font-family: var(--font-mono); font-size: .58rem; letter-spacing: .03em; color: rgba(255,255,255,.72); background: rgba(0,0,0,.4); padding: 3px 9px; border-radius: 6px; -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
+  .pslide-credit:hover { color: #fff; }
   .pslide figcaption { position: absolute; left: 0; bottom: 0; padding: 32px 36px; max-width: 64ch; z-index: 2; }
   .pslide figcaption h3 { font-size: clamp(1.6rem, 3.6vw, 2.6rem); margin: 8px 0; color: #fff; text-shadow: 0 2px 30px rgba(0,0,0,.5); }
   .pslide figcaption p { color: #d8e0ec; font-size: .98rem; }

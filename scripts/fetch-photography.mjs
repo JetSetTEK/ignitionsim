@@ -1,94 +1,67 @@
-// Ingest REAL, commercially-licensed PHOTOGRAPHY from Unsplash and/or Pexels into
-// the bay hero + slider slots (atmospheric/lifestyle shots: cockpits, wheels,
-// golf bays, etc.). Both licenses permit commercial use; both require crediting
-// the photographer — this script records credits to src/data/photo-credits.json
-// (rendered at /credits). It does NOT scrape; it uses the official APIs.
-//
-// Provide a key via env (never committed):
-//   UNSPLASH_ACCESS_KEY=...   (https://unsplash.com/developers — free)
-//   PEXELS_API_KEY=...        (https://www.pexels.com/api/ — free)
-// Then: node scripts/fetch-photography.mjs   →   then npm run build
-import { writeFile, mkdir } from 'node:fs/promises';
+// Unsplash-compliant atmospheric photography for bay heroes/sliders + hub.
+// COMPLIANT: hotlink (store CDN urls, use directly as <img src>; never re-host),
+// trigger each photo's download_location once, attribute photographer + Unsplash (+utm).
+// Output: src/data/photography.json (public urls + credits; no secret).
+// Run all:   UNSPLASH_ACCESS_KEY=xxxx node scripts/fetch-photography.mjs
+// Run some:  UNSPLASH_ACCESS_KEY=xxxx node scripts/fetch-photography.mjs flight,marine   (merges)
+import { writeFile, readFile } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const root = join(__dirname, '..');
-const IMG = join(root, 'public', 'images');
-const UNSPLASH = process.env.UNSPLASH_ACCESS_KEY;
-const PEXELS = process.env.PEXELS_API_KEY;
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const OUT = join(root, 'src', 'data', 'photography.json');
+const KEY = process.env.UNSPLASH_ACCESS_KEY;
+const UTM = '?utm_source=ignitionsim&utm_medium=referral';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+if (!KEY) { console.log('Set UNSPLASH_ACCESS_KEY and re-run.'); process.exit(0); }
 
-const QUERIES = {
-  racing: ['sim racing cockpit', 'racing wheel gaming', 'racing simulator setup', 'esports racing'],
-  flight: ['flight simulator cockpit', 'home flight simulator', 'airplane cockpit controls', 'aviation cockpit'],
-  space: ['spaceship cockpit', 'flight stick gaming', 'sci-fi gaming setup', 'starfield night sky'],
-  marine: ['ship bridge controls', 'boat helm wheel', 'sailing yacht', 'ship cockpit'],
-  golf: ['golf simulator indoor', 'indoor golf', 'golf practice net', 'golf course dusk'],
-  hub: ['dark gaming setup', 'simulator cockpit night', 'gaming battlestation'],
+const ZONES = {
+  racing: { queries: ['sim racing cockpit setup', 'racing wheel gaming', 'racing simulator'], n: 4 },
+  flight: { queries: ['flight simulator cockpit', 'airplane cockpit', 'aviation cockpit instruments', 'airliner cockpit night'], n: 4 },
+  space: { queries: ['spaceship cockpit dark', 'sci-fi cockpit', 'futuristic cockpit', 'starfield night sky'], n: 4 },
+  marine: { queries: ['ship helm wheel', 'boat steering wheel', 'sailing yacht', 'ship bridge ocean'], n: 4 },
+  golf: { queries: ['indoor golf simulator', 'golf simulator screen', 'golf course'], n: 4 },
+  hub: { queries: ['gaming setup dark', 'simulator cockpit', 'gaming room neon'], n: 3 },
 };
-const SLOTS = ['hero', 'slide-1', 'slide-2', 'slide-3']; // bay slots; hub uses slide-1..3
 
-if (!UNSPLASH && !PEXELS) {
-  console.log(`No image key set. Provide one (free) and re-run:
-  UNSPLASH_ACCESS_KEY=...  (https://unsplash.com/developers)
-  PEXELS_API_KEY=...       (https://www.pexels.com/api/)
-Example:  UNSPLASH_ACCESS_KEY=xxxx node scripts/fetch-photography.mjs`);
-  process.exit(0);
-}
+const only = (process.argv[2] || '').split(',').filter(Boolean);
+const zones = only.length ? only : Object.keys(ZONES);
 
-async function dl(url, outAbs) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'IgnitionSim/1.0' } });
-  if (!res.ok) throw new Error('HTTP ' + res.status);
-  const buf = Buffer.from(await res.arrayBuffer());
-  await mkdir(dirname(outAbs), { recursive: true });
-  await writeFile(outAbs, buf);
-  return buf.length;
+async function search(q, perPage) {
+  const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(q)}&orientation=landscape&per_page=${perPage}&content_filter=high`,
+    { headers: { Authorization: 'Client-ID ' + KEY, 'Accept-Version': 'v1' } });
+  if (!r.ok) throw new Error('search HTTP ' + r.status);
+  return (await r.json()).results || [];
 }
+const trigger = (loc) => fetch(loc, { headers: { Authorization: 'Client-ID ' + KEY } }).catch(() => {});
 
-async function unsplash(query) {
-  const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&per_page=4&content_filter=high`,
-    { headers: { Authorization: 'Client-ID ' + UNSPLASH } });
-  if (!r.ok) throw new Error('unsplash HTTP ' + r.status);
-  const j = await r.json();
-  return (j.results || []).map((p) => ({
-    raw: p.urls.raw + '&w=1600&h=720&fit=crop&q=80', dl: p.links.download_location,
-    credit: { source: 'Unsplash', photographer: p.user.name, url: p.links.html },
-  }));
+const out = existsSync(OUT) ? JSON.parse(await readFile(OUT, 'utf8')) : {};
+for (const zone of zones) {
+  const cfg = ZONES[zone]; if (!cfg) continue;
+  const slides = []; const seen = new Set();
+  try {
+    for (const q of cfg.queries) {
+      if (slides.length >= cfg.n) break;
+      const results = await search(q, 6);
+      for (const p of results) {
+        if (slides.length >= cfg.n) break;
+        if (!p.urls?.raw || seen.has(p.id)) continue;
+        seen.add(p.id);
+        await trigger(p.links.download_location);
+        slides.push({
+          src: p.urls.raw + '&w=1600&h=760&fit=crop&q=80&auto=format',
+          alt: p.alt_description || `${zone} sim hardware`,
+          by: p.user.name, byUrl: (p.user.links?.html || 'https://unsplash.com') + UTM,
+          photoUrl: (p.links?.html || 'https://unsplash.com') + UTM,
+        });
+        await sleep(250);
+      }
+      await sleep(400);
+    }
+    if (slides.length) out[zone] = slides;
+    console.log(`★ ${zone}: ${slides.length} (${slides.map((s) => s.by).join(', ')})`);
+  } catch (e) { console.log(`✗ ${zone}: ${e.message}`); }
 }
-async function pexels(query) {
-  const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&orientation=landscape&per_page=4`,
-    { headers: { Authorization: PEXELS } });
-  if (!r.ok) throw new Error('pexels HTTP ' + r.status);
-  const j = await r.json();
-  return (j.photos || []).map((p) => ({
-    raw: p.src.large2x || p.src.large, dl: null,
-    credit: { source: 'Pexels', photographer: p.photographer, url: p.url },
-  }));
-}
-
-const credits = [];
-let count = 0;
-for (const [bay, queries] of Object.entries(QUERIES)) {
-  const slots = bay === 'hub' ? SLOTS.slice(1) : SLOTS;
-  for (let i = 0; i < slots.length; i++) {
-    const q = queries[i % queries.length];
-    try {
-      let hits = [];
-      if (UNSPLASH) hits = await unsplash(q);
-      if (!hits.length && PEXELS) hits = await pexels(q);
-      const pick = hits[0];
-      if (!pick) { console.log(`· no result for "${q}"`); continue; }
-      const rel = `${bay}/${slots[i]}.jpg`;
-      const kb = await dl(pick.raw, join(IMG, rel));
-      // Unsplash API guideline: trigger a download event
-      if (pick.dl && UNSPLASH) fetch(pick.dl, { headers: { Authorization: 'Client-ID ' + UNSPLASH } }).catch(() => {});
-      credits.push({ file: `/images/${rel}`, ...pick.credit, query: q });
-      count++;
-      console.log(`★ ${rel}  (${(kb / 1024).toFixed(0)}KB) — ${pick.credit.source} / ${pick.credit.photographer}`);
-      await sleep(500);
-    } catch (e) { console.log(`✗ "${q}": ${e.message}`); }
-  }
-}
-await writeFile(join(root, 'src', 'data', 'photo-credits.json'), JSON.stringify(credits, null, 2));
-console.log(`Done. ${count} real photos placed. Credits → src/data/photo-credits.json (rendered at /credits). Run "npm run build".`);
+await writeFile(OUT, JSON.stringify(out, null, 2));
+console.log('Wrote src/data/photography.json. Run "npm run build".');

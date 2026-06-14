@@ -1,24 +1,34 @@
 ---
 import Base from '../layouts/Base.astro';
-import credits from '../data/photo-credits.json';
+import flickr from '../data/photo-credits.json';
+import photography from '../data/photography.json';
+
+const all: any[] = [...(flickr as any[])];
+for (const zone of Object.keys(photography as any)) {
+  for (const p of ((photography as any)[zone] || [])) {
+    all.push({ source: 'Unsplash', photographer: p.by, url: p.photoUrl, query: `${zone} bay` });
+  }
+}
+const seen = new Set<string>();
+const uniq = all.filter((c) => { const k = `${c.source}|${c.photographer}|${c.url}`; if (seen.has(k)) return false; seen.add(k); return true; });
 const bySource: Record<string, any[]> = {};
-(credits as any[]).forEach((c) => { (bySource[c.source] = bySource[c.source] || []).push(c); });
+uniq.forEach((c) => { (bySource[c.source] = bySource[c.source] || []).push(c); });
 ---
-<Base title="Photo Credits" description="Attribution for licensed photography used on IgnitionSim.">
+<Base title="Photo Credits" description="Attribution for the licensed photography used on IgnitionSim — Unsplash and Creative-Commons photographers, as their licenses require.">
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span>Photo credits</div>
     <div class="prose" style="padding-top:24px">
       <h1>Photo credits</h1>
-      <p>IgnitionSim uses a mix of original art and licensed photography. Where we use Creative-Commons or stock photography that requires attribution, the photographers are credited below, as their licenses require. Product specs, ratings and editorial are our own.</p>
-      {(credits as any[]).length === 0 ? (
-        <p style="color:var(--dim)">Licensed third-party photography hasn't been added yet — most imagery here is original. Credits will appear here automatically as licensed photos are added.</p>
+      <p>IgnitionSim uses a mix of original art and licensed photography. Atmospheric and lifestyle photos are provided by photographers on <a href="https://unsplash.com?utm_source=ignitionsim&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a> (hotlinked, as their API terms require) and by Creative-Commons photographers, all credited below as their licenses require. Product specs, ratings and editorial are our own.</p>
+      {uniq.length === 0 ? (
+        <p style="color:var(--dim)">Licensed third-party photography hasn't been added yet — most imagery here is original.</p>
       ) : (
         Object.entries(bySource).map(([source, list]) => (
           <>
             <h2>{source}</h2>
             <ul>
               {list.map((c) => (
-                <li>Photo by <a href={c.url} target="_blank" rel="noopener nofollow">{c.photographer}</a> on {c.source}{c.query ? ` (${c.query})` : ''}</li>
+                <li>Photo by <a href={c.url} target="_blank" rel="noopener nofollow">{c.photographer}</a> on {c.source}{c.query ? ` — ${c.query}` : ''}</li>
               ))}
             </ul>
           </>
