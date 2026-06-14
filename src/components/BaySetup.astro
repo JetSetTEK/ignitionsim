@@ -1,0 +1,218 @@
+---
+/**
+ * Generalized "build your setup" tool for non-racing bays. Reads build-configs
+ * + the product DB; client-side picker with picture+info drawers, price ledger,
+ * shareable build, copy-as-forum-post, and bay-appropriate compatibility notes.
+ * Racing keeps its dedicated compatibility-engine Configurator.
+ */
+import configs from '../data/build-configs.json';
+interface Props { bay: string; }
+const { bay } = Astro.props;
+const cfg = (configs as any)[bay];
+
+const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
+const bayProducts = all.filter((p) => p.bay === bay && p.price > 0);
+
+const toOption = (p: any) => ({
+  id: p.id, brand: p.brand, model: p.model, price: p.price, type: p.type,
+  image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3),
+  rating: p.rating?.overall,
+  specLine: Object.values(p.specs || {}).slice(0, 2).join(' · '),
+});
+const steps = (cfg?.steps || []).map((s: any) => ({
+  key: s.key, title: s.title, optional: s.optional,
+  options: bayProducts.filter((p) => s.types.includes(p.type)).sort((a, b) => (a.price || 0) - (b.price || 0)).map(toOption),
+})).filter((s: any) => s.options.length > 0);
+
+const payload = { bay, steps };
+---
+<section id="bs" class="cfg-section" data-bay-builder={bay}>
+  <div class="cfg-top">
+    <div class="tt"><h2>{cfg?.title || 'Build your setup'}</h2><span class="pill">● {bay} builder</span></div>
+    <span class="bayswitch">est. cost + compatibility notes</span>
+  </div>
+  <div class="cfg-body">
+    <div class="cfg-steps" id="bs-steps"></div>
+    <aside class="cfg-ledger">
+      <h4>// Your setup</h4>
+      <div id="bs-ledger"></div>
+      <div id="bs-verdict" class="verdict none">Pick a starting piece to begin.</div>
+      <div class="total"><span class="tl">Est. total</span><span class="tv" id="bs-total">$0</span></div>
+      <div class="lbtns">
+        <button class="lbtn" id="bs-copy">⧉ Copy as forum post</button>
+        <button class="lbtn" id="bs-share">↗ Share build</button>
+      </div>
+    </aside>
+  </div>
+  <script type="application/json" id="bs-data" set:html={JSON.stringify(payload)}></script>
+</section>
+
+<style is:global>
+  .cfg-section { margin: 24px 0; border: 1px solid var(--line2); border-radius: 18px; overflow: hidden; background: var(--baybg); }
+  .cfg-top { display: flex; align-items: center; justify-content: space-between; padding: 18px 24px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--baypanel), var(--baybg)); flex-wrap: wrap; gap: 10px; }
+  .cfg-top .tt { display: flex; align-items: center; gap: 13px; flex-wrap: wrap; }
+  .cfg-top h2 { font-size: 1.35rem; color: #fff; }
+  .cfg-top .pill { font-family: var(--font-mono); font-size: .6rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent); padding: 4px 10px; border-radius: 20px; }
+  .cfg-top .bayswitch { font-family: var(--font-mono); font-size: .64rem; color: var(--dim); letter-spacing: .06em; }
+  .cfg-body { display: grid; grid-template-columns: 1fr 350px; gap: 0; }
+  .cfg-steps { padding: 20px 24px 26px; border-right: 1px solid var(--line); }
+  .step { margin-bottom: 22px; }
+  .step-h { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .step-n { width: 24px; height: 24px; border-radius: 6px; background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); font-family: var(--font-mono); font-weight: 700; font-size: .78rem; display: flex; align-items: center; justify-content: center; }
+  .step-h h4 { font-family: var(--font-disp); font-weight: 700; font-size: 1.04rem; text-transform: uppercase; letter-spacing: .04em; }
+  .step-h .opt-skip { margin-left: auto; font-family: var(--font-mono); font-size: .58rem; text-transform: uppercase; letter-spacing: .1em; color: var(--dimmer); }
+  .opts { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 8px; }
+  .opt { position: relative; border: 1px solid var(--line2); border-radius: 10px; padding: 11px 12px; cursor: pointer; background: var(--panel); transition: border-color .15s, background .15s; }
+  .opt:hover { border-color: var(--accent); }
+  .opt.sel { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 40%, transparent); }
+  .opt .ob { font-family: var(--font-mono); font-size: .6rem; color: var(--dim); letter-spacing: .06em; text-transform: uppercase; }
+  .opt .om { font-weight: 600; font-size: .92rem; margin: 2px 0 4px; color: var(--txt); }
+  .opt .op { font-family: var(--font-mono); font-size: .82rem; color: var(--accent); }
+  .opt .ospec { font-family: var(--font-mono); font-size: .58rem; color: var(--dimmer); margin-top: 3px; }
+  .opt-img { width: 100%; aspect-ratio: 16/10; border-radius: 7px; overflow: hidden; margin-bottom: 9px; background: var(--panel2); border: 1px solid var(--line); }
+  .opt-img img { width: 100%; height: 100%; object-fit: cover; }
+  .opt-more { margin-top: 9px; font-family: var(--font-mono); font-size: .56rem; letter-spacing: .12em; text-transform: uppercase; color: var(--dim); background: none; border: none; cursor: pointer; padding: 2px 0; }
+  .opt-more:hover { color: var(--accent); }
+  .opt-detail { display: none; margin-top: 8px; border-top: 1px dashed var(--line); padding-top: 9px; }
+  .opt.show-detail .opt-detail { display: block; }
+  .opt-detail p { font-size: .74rem; color: var(--dim); line-height: 1.55; }
+  .opt-detail ul { margin: 7px 0; padding-left: 1em; }
+  .opt-detail li { font-size: .72rem; color: #cdd6e4; margin: 3px 0; }
+  .opt-detail li::marker { color: var(--green); }
+  .opt-detail a { font-family: var(--font-mono); font-size: .66rem; color: var(--accent); display: inline-block; margin-top: 4px; }
+  .cfg-ledger { padding: 22px 22px 26px; background: color-mix(in srgb, #000 30%, var(--baybg)); display: flex; flex-direction: column; }
+  .cfg-ledger h4 { font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .18em; font-size: .66rem; color: var(--dim); margin-bottom: 16px; }
+  .lrow { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; border-bottom: 1px dashed var(--line); font-size: .84rem; }
+  .lrow .ln { color: var(--dim); font-family: var(--font-mono); font-size: .62rem; text-transform: uppercase; letter-spacing: .08em; }
+  .lrow .lv { text-align: right; } .lrow .lv .nm { font-weight: 600; } .lrow .lv .pr { font-family: var(--font-mono); color: var(--accent); font-size: .8rem; }
+  .lrow.empty .lv { color: var(--dimmer); font-style: italic; }
+  .verdict { margin: 16px 0; padding: 13px 15px; border-radius: 10px; font-family: var(--font-mono); font-size: .72rem; line-height: 1.5; border: 1px solid; }
+  .verdict.green { background: rgba(52,211,153,.08); border-color: rgba(52,211,153,.4); color: #6ee7b7; }
+  .verdict.amber { background: rgba(245,158,11,.08); border-color: rgba(245,158,11,.4); color: #fcd34d; }
+  .verdict.none { background: var(--panel); border-color: var(--line2); color: var(--dim); }
+  .total { display: flex; justify-content: space-between; align-items: baseline; margin-top: auto; padding-top: 14px; }
+  .total .tl { font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .14em; font-size: .66rem; color: var(--dim); }
+  .total .tv { font-family: var(--font-disp); font-weight: 800; font-size: 1.9rem; color: #fff; }
+  .lbtns { display: flex; gap: 8px; margin-top: 14px; }
+  .lbtn { flex: 1; font-family: var(--font-mono); font-size: .66rem; text-transform: uppercase; letter-spacing: .08em; padding: 11px; border-radius: 8px; cursor: pointer; text-align: center; border: 1px solid var(--line2); background: var(--panel); color: var(--txt); }
+  .lbtn:hover { border-color: var(--accent); }
+  @media (max-width: 880px) { .cfg-body { grid-template-columns: 1fr; } .cfg-steps { border-right: none; border-bottom: 1px solid var(--line); } }
+</style>
+
+<script>
+  const DATA = JSON.parse(document.getElementById('bs-data')!.textContent || '{}');
+  const STEPS: any[] = DATA.steps || [];
+  const BAY: string = DATA.bay;
+  const sel: Record<string, any> = {};
+  const esc = (s: any) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+  function render() {
+    const root = document.getElementById('bs-steps')!;
+    let h = '';
+    STEPS.forEach((s, i) => {
+      h += `<div class="step"><div class="step-h"><span class="step-n">${i + 1}</span><h4>${esc(s.title)}</h4>${s.optional ? '<span class="opt-skip">optional</span>' : ''}</div><div class="opts">`;
+      s.options.forEach((o: any) => {
+        const seld = sel[s.key] && sel[s.key].id === o.id ? ' sel' : '';
+        const pros = Array.isArray(o.pros) ? o.pros : [];
+        h += `<div class="opt${seld}" data-step="${s.key}" data-id="${o.id}">`
+          + (o.image ? `<div class="opt-img"><img src="${o.image}" alt="" loading="lazy"></div>` : '')
+          + `<div class="ob">${esc(o.brand)}</div><div class="om">${esc(o.model)}</div>`
+          + `<div class="op">$${o.price}${o.rating ? ` · ${o.rating}/10` : ''}</div>`
+          + (o.specLine ? `<div class="ospec">${esc(o.specLine)}</div>` : '')
+          + (o.summary ? `<button class="opt-more" type="button">details ▾</button><div class="opt-detail"><p>${esc(o.summary)}</p>`
+              + (pros.length ? `<ul>${pros.map((x: string) => `<li>${esc(x)}</li>`).join('')}</ul>` : '')
+              + `<a href="/${BAY}/gear/${o.id}">Full review →</a></div>` : '')
+          + `</div>`;
+      });
+      h += `</div></div>`;
+    });
+    root.innerHTML = h;
+    renderLedger();
+  }
+
+  function renderLedger() {
+    const L = document.getElementById('bs-ledger')!;
+    let total = 0, html = '';
+    STEPS.forEach((s) => {
+      const o = sel[s.key];
+      if (o) { total += (o.price || 0); html += `<div class="lrow"><span class="ln">${esc(s.title)}</span><span class="lv"><div class="nm">${esc(o.brand)} ${esc(o.model)}</div><div class="pr">$${o.price}</div></span></div>`; }
+      else { html += `<div class="lrow empty"><span class="ln">${esc(s.title)}</span><span class="lv">${s.optional ? 'optional' : 'not selected'}</span></div>`; }
+    });
+    L.innerHTML = html;
+    document.getElementById('bs-total')!.textContent = '$' + total.toLocaleString();
+    renderVerdict();
+  }
+
+  function renderVerdict() {
+    const v = document.getElementById('bs-verdict')!;
+    const primary = STEPS[0] && sel[STEPS[0].key];
+    if (!primary) { v.className = 'verdict none'; v.textContent = 'Pick a starting piece to begin — we’ll surface the compatibility notes for your build.'; return; }
+    const picked = Object.values(sel) as any[];
+    let note = '', cls = 'green';
+    if (BAY === 'flight') {
+      const hasPanel = picked.some((p) => p.type === 'panel');
+      note = 'Confirm your platform — some panels are PC-only — and use a powered USB hub for multiple devices.' + (hasPanel ? ' Panels are tied to specific add-on aircraft (Fenix A320 / PMDG) — match them to what you fly.' : '');
+    } else if (BAY === 'space') {
+      const sticks = picked.filter((p) => p.type === 'stick' || p.type === 'hotas' || p.type === 'grip').length;
+      const hasThrottle = picked.some((p) => p.type === 'throttle');
+      if (sticks >= 2) note = '✓ HOSAS — two analog sticks cover all six axes of spaceflight; ideal for combat and fine maneuvering.';
+      else if (hasThrottle) note = '✓ HOTAS — stick + throttle, great for exploration, cargo and long hauls.';
+      else { note = 'Single-stick start — add a second stick (HOSAS) or a throttle (HOTAS) for full six-axis control.'; cls = 'amber'; }
+      note += ' Note: boutique sticks are PC-only.';
+    } else if (BAY === 'golf') {
+      note = 'Match your launch monitor to your software (e.g. TGC 2019 doesn’t support every monitor) and your room — radar units need depth behind you, overhead units need 9–10 ft of ceiling.';
+    } else if (BAY === 'marine') {
+      note = 'Before relying on a wheel or throttle, verify your chosen sim reads analog axes — many only read keyboard input, so you may need mapping software (vJoy / JoyToKey). Force feedback is generally unsupported.';
+      cls = 'amber';
+    }
+    v.className = 'verdict ' + cls;
+    v.innerHTML = note;
+  }
+
+  function writeHash() {
+    const p = new URLSearchParams();
+    STEPS.forEach((s) => { if (sel[s.key]) p.set(s.key, sel[s.key].id); });
+    const h = p.toString();
+    history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
+  }
+  function readHash() {
+    const p = new URLSearchParams(location.hash.slice(1));
+    STEPS.forEach((s) => { const id = p.get(s.key); if (!id) return; const o = s.options.find((x: any) => x.id === id); if (o) sel[s.key] = o; });
+  }
+  function pick(stepKey: string, id: string) {
+    const s = STEPS.find((x) => x.key === stepKey); if (!s) return;
+    const o = s.options.find((x: any) => x.id === id); if (!o) return;
+    sel[stepKey] = (sel[stepKey] && sel[stepKey].id === id) ? undefined : o;
+    render(); writeHash();
+  }
+  function markup() {
+    const lines = [`[b]My IgnitionSim ${BAY} setup[/b]`];
+    let total = 0;
+    STEPS.forEach((s) => { const o = sel[s.key]; if (!o) return; total += (o.price || 0); lines.push(`• ${s.title}: ${o.brand} ${o.model} ($${o.price})`); });
+    lines.push(`• Est. total: $${total.toLocaleString()}`);
+    lines.push(`Built at ${location.origin}${location.pathname}${location.hash}`);
+    return lines.join('\n');
+  }
+
+  readHash();
+  render();
+  document.getElementById('bs-steps')!.addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    const more = t.closest('.opt-more') as HTMLElement | null;
+    if (more) { more.closest('.opt')!.classList.toggle('show-detail'); return; }
+    if (t.closest('.opt-detail')) return;
+    const opt = t.closest('.opt') as HTMLElement | null;
+    if (!opt) return;
+    pick(opt.dataset.step!, opt.dataset.id!);
+  });
+  document.getElementById('bs-copy')!.addEventListener('click', async () => {
+    if (!Object.values(sel).some(Boolean)) { (window as any).toast?.('Pick some parts first'); return; }
+    try { await navigator.clipboard.writeText(markup()); (window as any).toast?.('Build copied — paste into Reddit/forums'); } catch { (window as any).toast?.('Copy failed'); }
+  });
+  document.getElementById('bs-share')!.addEventListener('click', async () => {
+    if (!Object.values(sel).some(Boolean)) { (window as any).toast?.('Pick some parts first'); return; }
+    writeHash();
+    try { await navigator.clipboard.writeText(location.href); (window as any).toast?.('Share link copied'); } catch { (window as any).toast?.('Link is in your address bar'); }
+  });
+</script>

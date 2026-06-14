@@ -1,0 +1,42 @@
+{
+  "flight": {
+    "title": "Flight Deck Builder",
+    "intro": "Pick a primary control, a throttle, rudder pedals and panels — we tally the cost and flag the platform and aircraft-pairing gotchas. Confirm USB ports and a powered hub for multi-panel decks.",
+    "steps": [
+      { "key": "primary", "title": "Primary control", "types": ["yoke", "stick", "hotas"], "optional": false },
+      { "key": "throttle", "title": "Throttle / quadrant", "types": ["throttle"], "optional": true },
+      { "key": "pedals", "title": "Rudder pedals", "types": ["pedals"], "optional": true },
+      { "key": "panels", "title": "Panels", "types": ["panel"], "optional": true }
+    ]
+  },
+  "space": {
+    "title": "Cockpit Builder",
+    "intro": "Build a HOSAS, HOTAS or hybrid setup. Two analog sticks (HOSAS) cover all six axes of spaceflight; a stick-and-throttle (HOTAS) suits exploration and cargo. Most boutique gear is PC-only.",
+    "steps": [
+      { "key": "primary", "title": "Primary stick / HOTAS", "types": ["stick", "hotas"], "optional": false },
+      { "key": "offhand", "title": "Second stick or throttle", "types": ["stick", "throttle"], "optional": true },
+      { "key": "base", "title": "Premium base / grip", "types": ["base", "grip"], "optional": true },
+      { "key": "mount", "title": "Mount", "types": ["mount"], "optional": true }
+    ]
+  },
+  "golf": {
+    "title": "Sim Room Builder",
+    "intro": "Spec a launch monitor, enclosure, impact screen and mat. Match the monitor to your software and your room — radar units need depth behind you, overhead units need 9–10 ft of ceiling.",
+    "steps": [
+      { "key": "monitor", "title": "Launch monitor", "types": ["launch-monitor"], "optional": false },
+      { "key": "enclosure", "title": "Enclosure", "types": ["enclosure"], "optional": true },
+      { "key": "screen", "title": "Impact screen", "types": ["screen"], "optional": true },
+      { "key": "mat", "title": "Hitting mat", "types": ["mat"], "optional": true }
+    ]
+  },
+  "marine": {
+    "title": "Helm Builder",
+    "intro": "Marine sim runs on repurposed and DIY gear. Pick a helm, engine controls, a rudder and a DIY/VR option — then verify your chosen sim actually reads analog axes (many only read keyboard input).",
+    "steps": [
+      { "key": "helm", "title": "Helm", "types": ["helm"], "optional": false },
+      { "key": "throttle", "title": "Engine controls", "types": ["throttle"], "optional": true },
+      { "key": "rudder", "title": "Rudder", "types": ["rudder"], "optional": true },
+      { "key": "diy", "title": "DIY board / VR", "types": ["diy-board", "vr"], "optional": true }
+    ]
+  }
+}

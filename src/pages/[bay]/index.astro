@@ -76,11 +76,11 @@ const schema = [
     ) : (
       <section class="cfg-cta">
         <div>
-          <span class="lbl lbl-accent">// Tool</span>
-          <h4 style="margin-top:6px">The {bay.name} configurator is on the workbench</h4>
-          <p>The compatibility engine is live for Racing today and rolling out to every bay. Try it now to see how it works.</p>
+          <span class="lbl lbl-accent">// The build tool</span>
+          <h4 style="margin-top:6px">Spec your {bay.name.toLowerCase()} setup</h4>
+          <p>Pick your parts for a running total plus the compatibility notes that matter for {bay.name.toLowerCase()} — with a picture and the full rundown on every component.</p>
         </div>
-        <a class="btn btn-lg" href="/racing/configurator">See the live engine ▸</a>
+        <a class="btn btn-primary btn-lg" href={`/${bay.slug}/configurator`}>Open the {bay.name} builder ▸</a>
       </section>
     )}
 
