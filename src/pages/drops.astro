@@ -43,7 +43,7 @@ const schema = [{
                 <p class="cexc">{e.note}</p>
                 <div style="display:flex;gap:10px;align-items:center;margin-top:4px">
                   <span class="cmeta">{e.brand}{e.model ? ` · ${e.model}` : ''}</span>
-                  {e.productId && <a class="cmeta" style="color:var(--accent)" href={`/${e.bay}/gear/${e.productId}`}>View gear →</a>}
+                  {e.productId && <a class="cmeta" style="color:var(--accent)" href={`/${e.bay}/gear/${e.productId}`} data-event="drops_click">View gear →</a>}
                 </div>
               </div>
             </div>

@@ -176,6 +176,7 @@
       const build = document.getElementById('rf-build') as HTMLAnchorElement;
       if (build) build.href = '/' + d + '/configurator';
       shareText = `I'm ${ar.name} on IgnitionSim 🏁 My ${d} pick: ${r.pick}. Find your rig: ${location.origin}/#rigfinder`;
+      (window as any).ig?.track('rigfinder_complete', { discipline: d, archetype: ar.name });
       show(4);
     }
   }

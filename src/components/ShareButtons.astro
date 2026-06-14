@@ -2,7 +2,7 @@
 interface Props { label?: string; }
 const { label = 'Share' } = Astro.props;
 ---
-<div class="share" data-share>
+<div class="share" data-share data-event="share">
   <span class="lbl">{label}</span>
   <a class="sh x" rel="noopener" aria-label="Share on X">𝕏</a>
   <a class="sh pin" rel="noopener" aria-label="Pin on Pinterest">📌</a>

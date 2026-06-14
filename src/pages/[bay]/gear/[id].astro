@@ -102,8 +102,8 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
         <div class="gh-price">{p.price ? `~$${p.price.toLocaleString()}` : 'Price varies'} <small>{p.priceNote || ''}</small></div>
         <p style="color:#cdd6e4;margin-top:6px">{p.summary}</p>
         <div class="gh-cta">
-          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener">Find at retailers ▸</a>
-          <button class="btn" data-garage={`${p.bay}/${p.id}`}>☆ Save to Garage</button>
+          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Find at retailers ▸</a>
+          <button class="btn" data-garage={`${p.bay}/${p.id}`} data-event="garage_save">☆ Save to Garage</button>
           {hasBrandPage && <a class="btn" href={`/brand/${brandSlug}`}>More {p.brand} →</a>}
           <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
         </div>

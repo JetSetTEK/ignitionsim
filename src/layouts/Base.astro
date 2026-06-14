@@ -85,6 +85,13 @@ const allSchema = [orgSchema, siteSchema, ...schema];
   {allSchema.map((s) => (
     <script type="application/ld+json" set:html={JSON.stringify(s)} />
   ))}
+
+  {site.analytics?.provider === 'umami' && site.analytics.src && (
+    <script is:inline defer src={site.analytics.src} data-website-id={site.analytics.websiteId}></script>
+  )}
+  {site.analytics?.provider === 'plausible' && site.analytics.src && (
+    <script is:inline defer data-domain={site.analytics.websiteId} src={site.analytics.src}></script>
+  )}
 </head>
 <body data-bay={bay ?? undefined}>
   <div class="grid-bg"></div>
@@ -189,6 +196,14 @@ const allSchema = [orgSchema, siteSchema, ...schema];
         (window as any).toast?.(i >= 0 ? 'Removed from Garage' : 'Saved to Garage ★');
       });
       sync();
+    })();
+    // analytics event helper (no-op until a provider is configured) + delegation
+    (() => {
+      (window as any).ig = { track: (e: string, d?: any) => { try { const u = (window as any).umami; const p = (window as any).plausible; if (u && u.track) u.track(e, d); else if (p) p(e, { props: d }); } catch {} } };
+      document.addEventListener('click', (e) => {
+        const el = (e.target as HTMLElement).closest('[data-event]') as HTMLElement | null;
+        if (el) (window as any).ig.track(el.dataset.event!);
+      }, { capture: true });
     })();
   </script>
 </body>
