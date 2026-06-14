@@ -41,6 +41,7 @@
     "src": "https://cloud.umami.is/script.js"
   },
   "affiliate": {
-    "amazonTag": "puzzlewick-20"
+    "amazonTag": "ignitionsim-20",
+    "amazonOneLinkScript": ""
   }
 }

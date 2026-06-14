@@ -92,6 +92,10 @@ const allSchema = [orgSchema, siteSchema, ...schema];
   {site.analytics?.provider === 'plausible' && site.analytics.src && (
     <script is:inline defer data-domain={site.analytics.websiteId} src={site.analytics.src}></script>
   )}
+
+  {/* Amazon OneLink — international link localization. Paste the snippet from
+      Associates Central → Tools → OneLink into site.json affiliate.amazonOneLinkScript */}
+  {site.affiliate?.amazonOneLinkScript && <Fragment set:html={site.affiliate.amazonOneLinkScript} />}
 </head>
 <body data-bay={bay ?? undefined}>
   <div class="grid-bg"></div>
