@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../data/site.json';
+const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
+const brands = (((Object.values(brandMods)[0] as any)?.default) || []) as any[];
+const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const products = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
+const slugify = (s: string) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+const counts: Record<string, number> = {};
+products.forEach((p) => { const id = slugify(p.brand); counts[id] = (counts[id] || 0) + 1; });
+const list = brands.map((b) => ({ ...b, n: counts[b.id] || 0 })).sort((a, b) => b.n - a.n);
+const schema = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Sim hardware brands', url: new URL('/brand', site.url).href,
+  hasPart: list.map((b) => ({ '@type': 'Brand', name: b.name, url: new URL(`/brand/${b.id}`, site.url).href })) }];
+---
+<Base title="Sim Hardware Brands — decoded" description="Every major sim-hardware brand, decoded: who they are, their ecosystem, and their gear — MOZA, Fanatec, Simagic, Honeycomb, VKB, Garmin, SkyTrak and more." schema={schema}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Brands</div>
+    <section class="hero" style="text-align:left;padding:36px 0 10px">
+      <div class="lbl lbl-accent">// {list.length} brands decoded</div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem)">Brands</h1>
+      <p style="color:var(--dim);max-width:62ch;margin-top:12px;font-size:1.06rem">Who makes what, where they sit in the market, and the ecosystem realities — the honest read on every brand we cover.</p>
+    </section>
+    <section class="sec" style="padding-top:14px">
+      <div class="card-grid">
+        {list.map((b) => (
+          <a class="card" href={`/brand/${b.id}`} style="min-height:0" data-bay={(b.bays && b.bays[0]) || undefined}>
+            <div class="cbody">
+              <span class="ctype">{(b.bays || []).join(' · ')}{b.n ? ` · ${b.n} products` : ''}</span>
+              <h3 style="font-size:1.15rem">{b.name}</h3>
+              <p class="cexc">{b.tagline}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import lists from '../../data/stat-lists.json';
+import bays from '../../data/bays.json';
+import site from '../../data/site.json';
+const byBay = bays.map((b) => ({ bay: b, items: (lists as any[]).filter((l) => l.bay === b.slug) })).filter((g) => g.items.length);
+const schema = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'IgnitionSim best-of rankings', url: new URL('/best', site.url).href }];
+---
+<Base title="Best-Of Rankings — sim hardware, ranked" description="Ranked best-of lists for sim hardware — by the IgnitionSim Verdict, by price, by category. Cheapest direct drive, best launch monitors, best HOSAS sticks and more." schema={schema}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Best</div>
+    <section class="hero" style="text-align:left;padding:36px 0 10px">
+      <div class="lbl lbl-accent">// Ranked lists</div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem)">Best-of rankings</h1>
+      <p style="color:var(--dim);max-width:62ch;margin-top:12px;font-size:1.06rem">Quick, citeable rankings built straight from our gear database — by the IgnitionSim Verdict, by price, by category. Updated as the catalog moves.</p>
+    </section>
+    {byBay.map((g) => (
+      <section class="sec" style="padding:18px 0" data-bay={g.bay.slug}>
+        <div class="sec-head"><h2>{g.bay.name}</h2></div>
+        <div class="card-grid">
+          {g.items.map((l) => (
+            <a class="card" href={`/best/${l.slug}`} style="min-height:0">
+              <div class="cbody"><span class="ctype">{g.bay.name} · ranking</span><h3 style="font-size:1.1rem">{l.title}</h3><p class="cexc">{l.intro}</p></div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>

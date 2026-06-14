@@ -1,0 +1,406 @@
+[
+  {
+    "id": "moza",
+    "name": "MOZA",
+    "bays": ["racing", "flight"],
+    "tagline": "The value ladder that made direct drive normal.",
+    "profile": "MOZA Racing is the sim-hardware arm of Gudsen, a Shenzhen engineering group that built its name in camera stabilization before turning that motor-and-sensor expertise loose on sim racing. In a few short years it went from challenger to the default recommendation, mostly by undercutting everyone on torque-per-dollar and then backing the hardware with genuinely good software. The honest take: MOZA's edge is the ladder. The R5, R9, R12, R16 and R21 all share one quick release, one Pit House tuning app and one wireless wheel protocol, so you can start at 5.5Nm and climb to 21Nm without throwing anything away. The feel is clean and the build is solid for the money, even if a Simucube or Asetek still wins on outright fidelity. MOZA has since pushed the same playbook into flight with the AY210 force-feedback yoke and modular MTQ throttle, where the hardware impresses but the software is younger. If you want one ecosystem you can grow inside cheaply, MOZA is the safe default.",
+    "ecosystem": "Single MOZA quick release and Pit House software across the whole base ladder; R9 and up add wireless wheel communication, and the QR ties wheels to MOZA bases.",
+    "whoFor": "Newcomers and value-focused enthusiasts who want a clear, cheap upgrade path inside one ecosystem rather than the absolute best feel.",
+    "founded": "2012",
+    "hq": "Shenzhen, China",
+    "image": "/images/brand/moza.jpg",
+    "faqs": [
+      { "q": "Is MOZA a good brand for beginners?", "a": "Yes. MOZA is one of the most-recommended starting points because the entry R5/R9 bases are affordable and Pit House software is easy to tune, and you can upgrade up the ladder later without changing wheels or pedals." },
+      { "q": "Does MOZA work on console?", "a": "Most of the racing line is PC-only; MOZA's console support is limited to specific bases. Check the exact model, since the bulk of the R-series is PC-focused." },
+      { "q": "Is MOZA owned by a larger company?", "a": "Yes. MOZA Racing is a brand of Gudsen, a Chinese engineering group also known for camera gimbals and stabilization technology." }
+    ]
+  },
+  {
+    "id": "fanatec",
+    "name": "Fanatec",
+    "bays": ["racing"],
+    "tagline": "The deepest ecosystem in sim racing, now under new ownership.",
+    "profile": "Fanatec is the brand that defined consumer sim racing for over a decade. Founded as Endor by Thomas Jackermeier in Germany, it built the widest accessory catalog in the hobby and, crucially, the broadest console support, including the only credible direct-drive paths to PlayStation (GT DD Pro) and Xbox (CSL DD, Podium DD). The honest take: Fanatec's force feedback is reference-grade and its range is unmatched, but the brand went through a genuine scare. Endor AG declared insolvency in 2024 and Corsair acquired the Fanatec product line that September. The post-Corsair stabilization, a 3-year warranty, 30-day returns, price cuts and a unified app, has largely restored buyer confidence, and a free firmware update even pushed the ClubSport DD from 12 to 15Nm. The lingering catch is lock-in: the QR2 system disables force feedback on non-Fanatec rims without a Podium Hub, so buying Fanatec still means buying into Fanatec. For console racers it remains close to essential.",
+    "ecosystem": "QR2 quick release with the largest first-party wheel/pedal/shifter catalog in sim racing; force feedback is gated on non-Fanatec rims without a Podium Hub, so the ecosystem is powerful but relatively closed.",
+    "whoFor": "PlayStation and Xbox racers who need real direct drive, and PC buyers who want the deepest accessory catalog and are happy to stay in-brand.",
+    "founded": "1997",
+    "hq": "Landshut, Germany",
+    "image": "/images/brand/fanatec.jpg",
+    "faqs": [
+      { "q": "Is Fanatec still safe to buy after the Corsair takeover?", "a": "Yes. Corsair closed its acquisition of the Fanatec product line from Endor AG in September 2024, and the 2025 stabilization brought a 3-year warranty, 30-day returns, price cuts and a unified app that have largely restored buyer confidence." },
+      { "q": "Does Fanatec work on PS5 and Xbox?", "a": "Yes, but per product. The GT DD Pro covers PS5/PC, while the CSL DD and Podium DD cover Xbox/PC. Match the base to your console, since no single base does all three." },
+      { "q": "Can I use non-Fanatec wheels on a Fanatec base?", "a": "Force feedback is disabled on third-party rims through the QR2 base side unless you add a Podium Hub adapter, so most buyers stay on Fanatec wheels." }
+    ]
+  },
+  {
+    "id": "simagic",
+    "name": "Simagic",
+    "bays": ["racing"],
+    "tagline": "Low-inertia servos and aggressive torque-per-dollar.",
+    "profile": "Simagic is a Chinese direct-drive specialist founded in 2018 by electric-motor engineer Barry Lee, and it built its reputation on custom servos rather than off-the-shelf industrial motors. The 2025 Alpha Evo line reset the mid-tier value bar: the Sport (9Nm), Evo (12Nm), Pro (18Nm) and Ultra (28Nm) all share a 5-pole low-inertia servo, 21-bit encoder and near-zero cogging, and they badly undercut Asetek and Simucube on raw torque per dollar. The honest take: the feel is genuinely clean and the Pro at 18Nm for around $699 is one of the best value buys in the whole category. The catch used to be lock-in, but the new QR-A quick release finally opened Simagic bases to third-party rims. What still trails MOZA and Fanatec is software maturity and the breadth of the first-party accessory catalog, plus there is no console support. If you want the most performance per dollar on PC and can live with a younger ecosystem, Simagic is hard to argue with.",
+    "ecosystem": "Newer QR-A quick release is third-party-rim-friendly (a break from earlier Simagic lock-in); pedals and wheels are brand-agnostic over USB, but software is less polished than MOZA Pit House.",
+    "whoFor": "PC enthusiasts chasing maximum direct-drive performance per dollar who don't need console support and accept a younger software ecosystem.",
+    "founded": "2018",
+    "hq": "Shenzhen, China",
+    "image": "/images/brand/simagic.jpg",
+    "faqs": [
+      { "q": "Is Simagic good value?", "a": "Yes, it is one of the strongest torque-per-dollar brands. The Alpha Evo Pro delivers 18Nm for around $699, undercutting comparable Asetek and Simucube bases significantly." },
+      { "q": "Can I use third-party wheels on a Simagic base?", "a": "On current Alpha Evo bases, yes. The QR-A quick release was designed to open Simagic to third-party rims, unlike the brand's earlier lock-in." },
+      { "q": "Does Simagic support consoles?", "a": "No. The entire Simagic line is PC-only; console racers should look at Fanatec or specific MOZA bases." }
+    ]
+  },
+  {
+    "id": "simucube",
+    "name": "Simucube",
+    "bays": ["racing"],
+    "tagline": "The fidelity reference everyone else is measured against.",
+    "profile": "Simucube is the consumer brand of Granite Devices, a Finnish motor-controls company founded in Tampere in 2006 that spent its first decade on industrial servo drives before the sim-racing community pulled it into the hobby. It launched Simucube 1 in 2017 and effectively co-invented modern consumer direct drive. The honest take: Simucube is the smoothness benchmark. The Simucube 2 Sport (17Nm), Pro and Ultimate use machined-metal bodies, 22-bit absolute encoders and dual-CPU architecture for ultra-low latency, and reviewers consistently note a complete absence of cogging, ripple or notchiness. The SQR quick release is regarded as essentially immortal and the ecosystem is genuinely open to third-party rims. The cost of all this is, well, cost: you pay a real premium for 17Nm where MOZA and Simagic deliver more torque for less. Simucube is for buyers who prioritize pure feel and build quality over torque-per-dollar, and it remains PC-only.",
+    "ecosystem": "Open, third-party-friendly SQR quick release (regarded as near-indestructible); industrial-grade engineering heritage from parent Granite Devices, PC-only across the range.",
+    "whoFor": "Serious PC enthusiasts who value reference-grade force-feedback fidelity and build quality above raw torque-per-dollar.",
+    "founded": "2017",
+    "hq": "Tampere, Finland",
+    "image": "/images/brand/simucube.jpg",
+    "faqs": [
+      { "q": "Why is Simucube so expensive?", "a": "You're paying for reference-class smoothness, machined-metal build, a 22-bit absolute encoder and a near-immortal SQR quick release. On pure torque-per-dollar, MOZA and Simagic win; on feel and build, Simucube is the benchmark." },
+      { "q": "Is Simucube made by Granite Devices?", "a": "Yes. Simucube is the consumer sim-racing brand of Granite Devices, a Finnish motor-controls company founded in 2006 and owned by its employees." },
+      { "q": "Does Simucube work on console?", "a": "No. The entire Simucube range is PC-only." }
+    ]
+  },
+  {
+    "id": "asetek",
+    "name": "Asetek",
+    "bays": ["racing"],
+    "tagline": "Industrial Danish engineering for the high end.",
+    "profile": "Asetek is best known in the PC world for liquid cooling, but its SimSports division applies that same industrial engineering discipline to high-end direct drive. Based in Aalborg, Denmark, with operations across China, Taiwan and the US, Asetek developed its wheelbases in collaboration with F1 driver Kevin Magnussen and engineers, assembles and tests them in Denmark. The honest take: Asetek aims squarely at the top tier. The Forte (18Nm) and flagship Invicta (27Nm) share a 22-bit absolute encoder, a blistering 9.4 Nm/ms slew rate on the Invicta, and a clever pogo-pin quick release that carries power and data so there's no trailing wheel cable. Reviewers find the feel hard to distinguish from a Simucube 2 Ultimate at a noticeably lower price. The trade-offs are a smaller ecosystem than MOZA or Fanatec, premium pricing versus value rivals like the Simagic Evo Pro, and PC-only support. The matching Invicta hydraulic pedals round out a coherent flagship package.",
+    "ecosystem": "Pogo-pin quick release carries power and data (no trailing wheel cable), and the base doubles as a USB hub for Asetek peripherals; smaller catalog than MOZA/Fanatec, PC-only.",
+    "whoFor": "High-end PC enthusiasts who want near-flagship industrial build and feel at below-Simucube-Ultimate pricing.",
+    "hq": "Aalborg, Denmark",
+    "image": "/images/brand/asetek.jpg",
+    "faqs": [
+      { "q": "How does Asetek compare to Simucube?", "a": "Reviewers find the Forte and Invicta hard to tell apart from a Simucube 2 Ultimate on feel while costing less; Simucube counters with a broader, more established ecosystem." },
+      { "q": "What is special about the Asetek quick release?", "a": "It carries power and data through pogo pins, eliminating the trailing wheel cable, and the base acts as a USB hub for other Asetek peripherals." },
+      { "q": "Is Asetek the same company as the cooling brand?", "a": "Yes. Asetek SimSports is the sim-racing division of Asetek, the Danish company widely known for liquid-cooling technology." }
+    ]
+  },
+  {
+    "id": "logitech",
+    "name": "Logitech",
+    "bays": ["racing"],
+    "tagline": "Mass-market polish and console-friendly TRUEFORCE.",
+    "profile": "Logitech is the giant in the room: a Swiss peripherals company founded in 1981 whose Logitech G gaming arm has sold racing wheels to more living rooms than anyone. Its sim-racing high point is the G PRO Racing Wheel, an 11Nm direct-drive unit with the company's TRUEFORCE feedback technology that spans PlayStation or Xbox (per SKU) plus PC. The honest take: Logitech's strengths are build quality, polish and console reach. The G PRO's button layout, magnetic paddles and dual clutch are excellent, TRUEFORCE is widely praised for detail, and the whole thing feels premium. The weaknesses are price-for-torque, 11Nm at the G PRO's cost is modest next to PC-only rivals, and a historically closed bundle ecosystem, though an official RS quick-release adapter now opens it to some third-party rims. For a console racer who wants a refined, near-turnkey premium wheel from a brand they already trust, Logitech is a strong pick; value-per-Nm hunters look elsewhere.",
+    "ecosystem": "Logitech RS quick release, historically a closed bundle, now loosened by an official adapter for some third-party rims; each G PRO SKU targets either PlayStation or Xbox (both plus PC).",
+    "whoFor": "Console racers who want premium build and TRUEFORCE feel from a mainstream brand and don't mind a largely closed, premium-priced ecosystem.",
+    "founded": "1981",
+    "hq": "Lausanne, Switzerland",
+    "image": "/images/brand/logitech.jpg",
+    "faqs": [
+      { "q": "What is TRUEFORCE?", "a": "TRUEFORCE is Logitech's high-definition force-feedback system that taps a game's physics and audio engine for detailed feedback, processing thousands of times per second on wheels like the G PRO and G923." },
+      { "q": "Does the Logitech G PRO work on PS5 and Xbox?", "a": "Yes, but per SKU. The PlayStation version covers PS5/PS4/PC and the Xbox version covers Xbox/PC, so buy the one matching your console." },
+      { "q": "Can I use third-party rims on Logitech?", "a": "Logitech now offers an official RS quick-release adapter that opens the G PRO base to some third-party rims, loosening its historic lock-in." }
+    ]
+  },
+  {
+    "id": "logitech-g",
+    "name": "Logitech G",
+    "bays": ["marine"],
+    "tagline": "The household racing wheel that doubles as a ship's helm.",
+    "profile": "Logitech G is the gaming division of Logitech, the Swiss peripherals giant founded in 1981, and in the marine bay its products show up not as purpose-built gear but as the community's go-to repurpose. There is no consumer 'boat wheel' on the market, so sailing and ship-sim fans press the 900-degree G29 and G923 racing wheels into service as helms, and the Saitek-derived flight throttle quadrant becomes a stand-in engine telegraph. The honest take: these are excellent racing products doing a job they weren't designed for. A leather-rimmed 900-degree wheel reads convincingly as a helm, and the secondhand racing market keeps prices low, but the headline TRUEFORCE force feedback is unsupported by virtually every marine sim, and the analog steering axis only matters if your specific title reads it rather than mapping the wheel to keyboard left/right. For marine use the cheaper G29 is usually the smarter buy than the G923, because the G923's extra racing features go unused.",
+    "ecosystem": "Repurposed racing hardware, not marine-specific; works in any sim that reads an analog steering axis, but force feedback goes unused and console SKUs vary, so buy the PC-compatible version.",
+    "whoFor": "Budget marine simmers who want a substantial real wheel as a helm and have confirmed their title supports analog steering.",
+    "founded": "1981",
+    "hq": "Lausanne, Switzerland",
+    "image": "/images/brand/logitech-g.jpg",
+    "faqs": [
+      { "q": "Does a Logitech racing wheel work as a boat helm?", "a": "Yes, as a steering stand-in. Whether it reads as a smooth analog wheel or just binary left/right depends entirely on the marine sim, since many titles only accept keyboard-style steering input." },
+      { "q": "Does force feedback work in marine sims?", "a": "Almost never. Titles like eSail explicitly don't support FFB, so the wheel's TRUEFORCE feature does nothing in marine use." },
+      { "q": "G29 or G923 for ship sims?", "a": "The G29 is usually the smarter marine buy. The G923's extra features (TRUEFORCE, RPM LEDs, dual-clutch) are racing-focused and irrelevant to boats, and the G29 is cheaper." }
+    ]
+  },
+  {
+    "id": "thrustmaster",
+    "name": "Thrustmaster",
+    "bays": ["racing", "flight", "space", "marine"],
+    "tagline": "Hall-effect heritage across flight, space and racing.",
+    "profile": "Thrustmaster has one of the longest pedigrees in sim hardware. Founded in Oregon in 1990 by engineers and pilots, it launched the first consumer HOTAS in 1991, and since being acquired by France's Guillemot Corporation in 1999 it has grown into a global mainstay across flight, space and racing. The honest take: Thrustmaster's defining virtue is its contactless H.E.A.R.T magnetic (Hall-effect) sensors, which resist the drift and dead zones that kill cheaper potentiometer gear, and that tech shows up everywhere from the budget T.16000M to the all-metal HOTAS Warthog. The Warthog is a benchmark 1:1 A-10C replica prized for build quality; the TCA Airbus and Boeing lines give airliner pilots authentic side-sticks, yokes and detented quadrants at fair prices; and the same gear cheerfully repurposes into space HOSAS rigs and even marine rudder and throttle stand-ins. The catches are mostly plastic mid-range builds and a TARGET software learning curve. As a do-everything brand with proven reliability, few cover this much ground.",
+    "ecosystem": "Contactless H.E.A.R.T Hall-effect sensors across the line resist drift; ambidextrous sticks (T.16000M) build cheap HOSAS pairs, TCA modules expand Airbus/Boeing pedestals, and TARGET software handles advanced mapping.",
+    "whoFor": "Flight, space and budget simmers who want drift-proof Hall-effect sensors and a broad, proven lineup spanning HOTAS, airliner replicas and repurposable rigs.",
+    "founded": "1990",
+    "hq": "Carentoir, France (Guillemot Corporation)",
+    "image": "/images/brand/thrustmaster.jpg",
+    "faqs": [
+      { "q": "What are H.E.A.R.T sensors?", "a": "H.E.A.R.T is Thrustmaster's contactless magnetic (Hall-effect) sensor system. Because nothing physically touches, the axes don't wear or drift like potentiometer sticks, which is a big reason gear like the T.16000M punches above its price." },
+      { "q": "Can I build a HOSAS from Thrustmaster sticks?", "a": "Yes. The T.16000M is fully ambidextrous, so two identical sticks reconfigure into a left/right pair, making the cheapest credible space HOSAS." },
+      { "q": "Who owns Thrustmaster?", "a": "Thrustmaster's gaming-peripheral brand has been owned by France's Guillemot Corporation since 1999, after the company was founded in Oregon in 1990." }
+    ]
+  },
+  {
+    "id": "honeycomb-aeronautical",
+    "name": "Honeycomb Aeronautical",
+    "bays": ["flight"],
+    "tagline": "The de-facto GA flight-deck standard.",
+    "profile": "Honeycomb Aeronautical was founded in 2015 by Nicki Repenning, who previously ran Saitek in North America, with a single goal: affordable, credible general-aviation flight hardware. It hit the scene in 2019 with the Alpha yoke and quickly became the default GA recommendation, then filled out a complete flight deck with the Bravo throttle quadrant and Charlie rudder pedals. The honest take: Honeycomb nailed the value-immersion balance for GA flying. The Alpha's steel shaft delivers a smooth, realistic 180-degree throw and bundles an ignition and electrical switch panel that removes a pile of on-screen clicks; the Bravo packs six swappable levers (single-engine to four-engine) plus a built-in autopilot panel; and the Charlie steps up to an aluminum frame with Hall-effect sensors and real toe brakes. The recurring knocks are plastic construction on the Alpha and Bravo and occasionally finicky setup. For MSFS or X-Plane GA flying, the Alpha-plus-Bravo pairing remains the most-recommended combo under its price, and Xbox support comes via the Honeycomb Hub or Alpha XPC edition.",
+    "ecosystem": "Standalone USB GA pieces (yoke/throttle/pedals) that share a coherent design language; PC/Mac native, with Xbox compatibility via the Honeycomb Hub or Alpha XPC edition.",
+    "whoFor": "General-aviation simmers who want the most-recommended, switch-panel-rich flight deck without stepping up to force feedback.",
+    "founded": "2015",
+    "hq": "United States",
+    "image": "/images/brand/honeycomb-aeronautical.jpg",
+    "faqs": [
+      { "q": "Is Honeycomb good for beginners?", "a": "Yes. The Alpha yoke is the most-recommended GA yoke under $300, and the Alpha-plus-Bravo combo gives newcomers a full flight deck with built-in switch and autopilot panels that remove on-screen clicking." },
+      { "q": "Does Honeycomb gear work on Xbox?", "a": "The standard Alpha, Bravo and Charlie are PC/Mac; Xbox Series X|S support requires the Honeycomb Hub or the Alpha XPC edition." },
+      { "q": "Do I need all three Honeycomb pieces?", "a": "No. The Alpha (yoke) and Bravo (throttle) are the core combo; the Charlie rudder pedals are a worthwhile but optional upgrade with metal build and Hall-effect sensors." }
+    ]
+  },
+  {
+    "id": "winwing",
+    "name": "WinWing",
+    "bays": ["space"],
+    "tagline": "Budget-champion sticks that undercut the boutiques.",
+    "profile": "WinWing built its reputation among DCS combat simmers with realistic, robust 1:1 HOTAS replicas of jets like the F/A-18 and F-16, and it has since expanded aggressively into airliner panels and space-friendly sticks. In the space bay it reframed the budget HOSAS conversation with the Ursa Minor, a stick that undercuts VKB and Virpil while adding a feature they don't offer at the price: a built-in vibration motor for haptic feedback synced to in-game events. The honest take: WinWing punches above its price. The Ursa Minor pairs non-contact magnetic sensors and a 32-bit controller with that rare in-stick haptic, and two land a genuine sub-$240 HOSAS pair; the metal Orion 2 bases and F-16EX HOTAS combos plug into a growing panel and MFD ecosystem. The trade-offs are plastic-heavier gimbals than all-metal VKB/Virpil internals, a narrower grip/upgrade catalog, soft stock cams/springs on the bigger grips, and reliance on SimAppPro for tuning. The company rebranded to WinCTRL across 2025-26.",
+    "ecosystem": "SimAppPro software ties sticks, throttles, panels and MFDs together; modular F-16EX/F-15-style grips, with a narrower upgrade catalog than VKB and reliance on its own software (now under the WinCTRL name).",
+    "whoFor": "Budget-minded space and combat pilots who want magnetic sensors plus haptics in a cheap HOSAS pair without committing to a boutique ecosystem.",
+    "founded": "approx 2019",
+    "hq": "China",
+    "image": "/images/brand/winwing.jpg",
+    "faqs": [
+      { "q": "Is the WinWing Ursa Minor as good as the VKB Gladiator?", "a": "It's close and often cheaper, adds in-stick vibration, and matches the magnetic-sensor pitch. The Gladiator wins on gimbal pedigree and a broader upgrade path to the Gunfighter tier." },
+      { "q": "Did WinWing change its name?", "a": "Yes. WinWing rebranded to WinCTRL across 2025-26, presenting the new name as a continuation of the same mission with a sharper focus on precision and support." },
+      { "q": "Can I build a HOSAS from WinWing sticks?", "a": "Yes. Buy left and right Ursa Minor Space variants (the Space variant has the twist axis you need) for a HOSAS pair around $220-240, configured in SimAppPro." }
+    ]
+  },
+  {
+    "id": "winwing-winctrl",
+    "name": "WinWing / WinCTRL",
+    "bays": ["flight"],
+    "tagline": "Affordable 1:1 airliner panels for home cockpits.",
+    "profile": "WinWing (rebranded to WinCTRL across 2025-26) earned its name with combat-flight HOTAS gear, then transformed the home airliner cockpit by bringing full-scale, 1:1 backlit panels to the mainstream at prices that undercut legacy hardware by an order of magnitude. Its MIP-series MCDU (Airbus) and PFP-series CDU/FMC (Boeing 737/777/747) panels start around $130, and the PAP-series autopilot panels replicate the 737 Mode Control Panel down to the disconnect bar, against legacy MCPs that ran $900 and up. The honest take: the headline engineering win is a single USB cable that carries data, power and the backlit display with no HDMI and zero GPU load, so the panels add no performance hit and have no latency. They're aircraft-specific, tied to add-ons like the Fenix A320 or PMDG 737, and a few PMDG variant combinations have shown compatibility quirks, so verify your exact aircraft. Multi-panel builds need a powered USB hub and a SimApp Pro learning curve, but for far less than four figures you can build a strikingly authentic Airbus or Boeing pedestal.",
+    "ecosystem": "Single-USB backlit MIP/PFP/PAP panels with auto-brightness and zero GPU load, configured in SimApp Pro; aircraft-specific (Fenix Airbus, PMDG Boeing), so panels are matched to the add-on you fly.",
+    "whoFor": "Airbus and Boeing home-cockpit builders who want authentic full-scale MCDU, FMC and MCP panels for a fraction of legacy-hardware cost.",
+    "founded": "approx 2019",
+    "hq": "China",
+    "image": "/images/brand/winwing-winctrl.jpg",
+    "faqs": [
+      { "q": "How do WinWing panels connect?", "a": "A single USB cable carries data, power and the backlit display, with no HDMI and no GPU load, so there's no latency or performance hit. Multi-panel builds need a powered USB hub." },
+      { "q": "Are WinWing panels compatible with the Fenix A320 or PMDG 737?", "a": "Yes, the MCDU targets the Fenix A320 and the PFP/PAP target PMDG's Boeing range, but some specific PMDG variant combinations have shown quirks, so verify your exact aircraft before buying." },
+      { "q": "Is WinWing the same as WinCTRL?", "a": "Yes. WinWing rebranded to WinCTRL across 2025-26; the panels and product families are the same lineage under the new name." }
+    ]
+  },
+  {
+    "id": "turtle-beach",
+    "name": "Turtle Beach",
+    "bays": ["flight", "space"],
+    "tagline": "The console-friendly flight and space option.",
+    "profile": "Turtle Beach is a long-established American gaming brand, best known for headsets, that moved into flight simulation on the back of Microsoft Flight Simulator's success with its VelocityOne line. Its real significance in the flight and space bays is platform reach: Turtle Beach makes some of the very few sticks, yokes and rudder pedals that are genuinely licensed for Xbox, where the PC-only boutiques can't go. The honest take: Turtle Beach is the answer for console flyers, and a feature-packed value pick for PC newcomers. The VelocityOne Flight Stick and Flightstick pack OLED displays, 27 programmable buttons, integrated twist rudders and ambidextrous designs at mainstream prices, and the VelocityOne Rudder Pedals are among the few quality pedals that work on Xbox. The recurring complaints are plastic-heavy construction, a very stiff non-adjustable centering spring on the Flightstick, small throttle levers and a light, tip-prone base, plus the gear generally performs a touch better on PC than Xbox. But for getting airborne on a console, it's close to the only game in town.",
+    "ecosystem": "Licensed for Xbox and PC (the main reason to choose it), with built-in OLED displays and integrated rudders; not a deep modular upgrade ecosystem like the boutiques.",
+    "whoFor": "Xbox flight and space pilots who can't use PC-only boutique gear, plus PC newcomers wanting a feature-packed single device.",
+    "founded": "1975",
+    "hq": "San Diego, California, USA",
+    "image": "/images/brand/turtle-beach.jpg",
+    "faqs": [
+      { "q": "Does Turtle Beach VelocityOne work on Xbox?", "a": "Yes. The VelocityOne flight sticks and rudder pedals are licensed for Xbox Series X|S and Windows PCs, which is unusual, since most boutique flight gear is PC-only." },
+      { "q": "Can I use VKB or Virpil sticks on Xbox?", "a": "No, those are PC-only. The Turtle Beach VelocityOne Flightstick is the main licensed Xbox option for air and space combat." },
+      { "q": "Is the stiff centering spring a dealbreaker?", "a": "It's the most common complaint on the Flightstick and can't be adjusted, so steady aiming takes getting used to. For the price and Xbox support, most buyers accept it." }
+    ]
+  },
+  {
+    "id": "vkb",
+    "name": "VKB",
+    "bays": ["flight", "space"],
+    "tagline": "Boutique magnetic-sensor sticks with a value on-ramp.",
+    "profile": "VKB is a boutique flight-controls maker run by Russian and Belarusian engineers and operating out of Shenzhen, China, with a reputation built on metal gimbals, contactless magnetic sensors and obsessive mechanical tuning. It is one of the two pillars (with Virpil) of the serious HOSAS and HOTAS world. The honest take: VKB's genius is offering boutique sensor quality at an accessible entry price. The Gladiator NXT EVO is the single most-recommended affordable building block for Star Citizen and Elite Dangerous, magnetic sensors and self-centering twist at a price that lets you buy two for a full twin-stick rig, with a clear upgrade path to the premium full-metal Gunfighter Mk.IV base and its swappable cams, springs and dampers. The MCG Pro combat grip piles on six analog axes for binding-hungry sims. The catches are real: VKBDevCfg software is famously intimidating, popular grips and bases sell out constantly, and the whole line is PC-only. For pilots who want the best feel-per-dollar with room to grow, VKB is the default first buy.",
+    "ecosystem": "Common Rev.C grip connector lets five grips share one Gunfighter base; magnetic sensors throughout, deep VKBDevCfg tuning software, PC-only and frequently stock-limited.",
+    "whoFor": "Space and combat pilots who want boutique sensor quality with a budget on-ramp (Gladiator) and a real upgrade path (Gunfighter).",
+    "hq": "Shenzhen, China",
+    "image": "/images/brand/vkb.jpg",
+    "faqs": [
+      { "q": "Is the VKB Gladiator good enough, or should I save for a Gunfighter?", "a": "For most pilots the Gladiator is genuinely good enough; it already uses magnetic sensors. The Gunfighter base adds adjustable cam/spring/damper feel and heavier combat grips, not a fix for a deficient stick." },
+      { "q": "Can I build a HOSAS from VKB sticks?", "a": "Yes. Buy a left-hand and a right-hand Gladiator NXT EVO Space Combat Edition; the twist axis on each covers the six axes a spaceship needs." },
+      { "q": "Does VKB work on Xbox?", "a": "No. Like all boutique flight gear, VKB is PC-only. For Xbox space combat the Turtle Beach VelocityOne is the main licensed option." }
+    ]
+  },
+  {
+    "id": "virpil",
+    "name": "Virpil",
+    "bays": ["space"],
+    "tagline": "The premium endgame HOSAS and HOTAS standard.",
+    "profile": "Virpil Controls (VPC) is a boutique flight-controls company started in 2016 by flight-sim enthusiast Andrei Lukyanov, with EU operations based in Lithuania and distribution in the US and UK. Its first project, the MongoosT-50, was modeled on a Russian fighter jet, and the brand has become the premium reference for mirrored HOSAS and high-end HOTAS. The honest take: Virpil is endgame gear, and it feels like it. The Constellation ALPHA grip comes in true dedicated left and right variants so you can build a genuinely mirrored two-stick rig, and it's dense with inputs, dual-stage trigger, analog ministick, multiple hats, a metal brake lever and a lockable contactless twist axis. The WarBRD-D base brings adjustable clutch dampers and aircraft-grade duralumin at a relatively accessible VPC price, while the MongoosT-50CM3 throttle is cited as one of the best ever made, with a CosmoSim detent profile aimed at space. The catches are price, powerful-but-steep VPC software, and famously wave-based stock that sells out fast, so you buy when a restock drops.",
+    "ecosystem": "Dedicated left/right grip variants enable true mirrored HOSAS; VPC contactless sensors and aircraft-grade duralumin throughout, deep VPC software, PC-only and sold in intermittent restock waves.",
+    "whoFor": "Premium-tier buyers building a no-compromise mirrored HOSAS or flagship HOTAS who want the deepest on-grip control set.",
+    "founded": "2016",
+    "hq": "Lithuania (EU); US and UK distribution",
+    "image": "/images/brand/virpil.jpg",
+    "faqs": [
+      { "q": "Can I build a true mirrored HOSAS with Virpil?", "a": "Yes, that's the design intent. Buy a left and a right Constellation ALPHA grip, each on its own base, for a fully mirrored two-stick rig." },
+      { "q": "Why is Virpil so often out of stock?", "a": "Virpil sells in restock waves and frequently lists discounted B-stock, so prices swing and availability is intermittent. The practical advice is to buy when a drop lands." },
+      { "q": "Do I need the MongoosT-50 throttle for space sims?", "a": "Not for a pure HOSAS, where the off-hand stick handles thrust and strafe. The throttle shines for HOTAS players or those who want dedicated cruise and power control." }
+    ]
+  },
+  {
+    "id": "garmin",
+    "name": "Garmin",
+    "bays": ["golf"],
+    "tagline": "Consumer GPS expertise applied to golf launch monitors.",
+    "profile": "Garmin is the GPS and wearables giant, founded in 1989 by Gary Burrell and Min Kao, that brings deep consumer-electronics polish to golf. Its Approach line spans rangefinders, watches and launch monitors, and the brand's strength is turning serious technology into something dead-simple to set up and use. The honest take: Garmin makes some of the friendliest sim-golf on-ramps. The Approach R10 is the value benchmark, a pocket-sized Doppler radar unit that reads roughly 16 metrics, connects to GSPro and E6, and delivers most of what five-figure units do for a few hundred dollars. At the opposite end, the R50 is the only consumer launch monitor with a complete built-in simulator, a 10-inch touchscreen and Home Tee Hero on board, no PC required, launching a round in under a minute. The catches are technology-shaped: the radar R10 needs depth behind the player and is less precise on spin than photometric rivals, the R50 wants 9-10 feet of ceiling and had inconsistent club data in reviews, and the best course features lean on a Garmin Golf subscription. For convenience and brand trust, Garmin is hard to beat.",
+    "ecosystem": "Connects to GSPro and E6 (R10) or runs a full on-device sim with no PC (R50); a Garmin Golf subscription unlocks the 42,000-plus course library and Home Tee Hero rounds.",
+    "whoFor": "Convenience-first golfers who want easy setup and brand trust, from a budget radar entry (R10) to a no-PC all-in-one (R50).",
+    "founded": "1989",
+    "hq": "Olathe, Kansas, USA",
+    "image": "/images/brand/garmin.jpg",
+    "faqs": [
+      { "q": "Does a Garmin launch monitor need a subscription?", "a": "No subscription is required to read shot data, but the Garmin Golf membership (about $10/month or $100/year) unlocks the 42,000-plus course library and full Home Tee Hero virtual rounds. The R50's built-in sim needs no separate PC." },
+      { "q": "Can the Garmin R10 run a real golf simulator?", "a": "Yes. It connects to GSPro and E6 Connect for full simulation, though as a radar unit it wants several feet of space behind you to read ball flight accurately." },
+      { "q": "What makes the Garmin R50 unique?", "a": "It's the only consumer launch monitor with a complete built-in simulator (Home Tee Hero on a 10-inch touchscreen), so it runs without an external gaming PC, phone or tablet." }
+    ]
+  },
+  {
+    "id": "skytrak",
+    "name": "SkyTrak",
+    "bays": ["golf"],
+    "tagline": "The no-subscription accuracy-per-dollar favorite.",
+    "profile": "SkyTrak is the brand that arguably created the consumer launch-monitor and simulation market, a joint venture from SkyCaddie parent SkyGolf and technology partner SportTrak, launched in 2013 and now owned by GOLFTEC. Its enduring appeal is a specific combination home builders love: camera-grade accuracy, broad software freedom and no mandatory subscription. The honest take: SkyTrak is the default $3,000-tier pick for a reason. The SkyTrak+ pairs a photometric camera with dual Doppler radar to deliver carry distances often within a couple of yards of $20,000 units, sits to the side of the ball so it tolerates tighter rooms than rear-radar setups, and includes its own practice range rather than gating it behind a fee. It connects to GSPro, E6, TGC 2019 and Awesome Golf, keeping your options open. The late-2025 ST MAX adds a faster processor (shorter shot delay), a roughly 40% larger hitting zone and dual USB-C, but the core accuracy is unchanged, so the discounted SkyTrak+ remains a smart-money alternative. The main caveats are radar-inferred club data and a dependence on consistent indoor lighting.",
+    "ecosystem": "No mandatory subscription with an included practice range; broad software compatibility (GSPro, E6, TGC 2019, Awesome Golf) and side-of-ball placement that suits tighter rooms.",
+    "whoFor": "Home builders who want camera-grade accuracy, broad software freedom and no recurring hardware fees at the $3K tier.",
+    "founded": "2013",
+    "hq": "Winston-Salem, North Carolina, USA",
+    "image": "/images/brand/skytrak.jpg",
+    "faqs": [
+      { "q": "Does SkyTrak require a subscription?", "a": "No. The unit includes its own practice range and reads full shot data with no mandatory annual fee. Paid plans only add courses and features, and third-party software like GSPro has its own separate subscription." },
+      { "q": "SkyTrak+ or the newer ST MAX?", "a": "Buy the ST MAX for quicker shot-to-shot feedback and the larger hitting zone. If you can find the SkyTrak+ discounted, it delivers the same data accuracy for less." },
+      { "q": "Will SkyTrak fit a tight room?", "a": "Yes. As a side-of-ball photometric unit it doesn't need the depth-behind-the-player that radar units like the Garmin R10 require." }
+    ]
+  },
+  {
+    "id": "bushnell",
+    "name": "Bushnell",
+    "bays": ["golf"],
+    "tagline": "Foresight-grade ball data behind a subscription model.",
+    "profile": "Bushnell Golf is the optics and rangefinder brand that pioneered laser rangefinders and 'Slope' distances on tour, and its Launch Pro launch monitor arrived in late 2021 through Bushnell's parent's acquisition of Foresight Sports. That heritage is the whole story here. The honest take: the Launch Pro is tour-grade ball data on the cheap, running the same triple-camera Foresight sensor as the GC3 and capturing ball metrics within about 2% of the $14,000-plus GCQuad, all out of the box with no subscription. The catch is the software model, not the hardware. Full simulation, club data and course access live behind annual subscriptions (Silver around $199/year, Gold around $499/year to unlock GSPro and full sim), so the sticker price is only the start of the cost-of-ownership math. As a side-of-ball photometric unit it suits 12-15 foot deep rooms where rear radar won't fit, it's compact and portable, but it does not connect to TGC 2019. For accuracy-first buyers who'll accept the recurring fees, the ball data is genuinely Foresight-class.",
+    "ecosystem": "Foresight FSP sensor and FSX software family with LINK-enabled rangefinder integration; ball data free, but club data, full sim and GSPro live behind Silver/Gold annual subscriptions, and no TGC 2019.",
+    "whoFor": "Accuracy-first buyers in a shallow room who want Foresight-grade ball data and accept the recurring subscription cost.",
+    "image": "/images/brand/bushnell.jpg",
+    "faqs": [
+      { "q": "Is the Bushnell Launch Pro worth it once you add subscriptions?", "a": "The hardware gives you GC3-grade ball accuracy for well under $3,000, but full simulation and club data require Silver (~$199/yr) or Gold (~$499/yr) plus a GSPro fee. Factor those annual costs in before comparing it to no-subscription rivals like the SkyTrak+." },
+      { "q": "Why does the Launch Pro use the same sensor as Foresight?", "a": "Because it is Foresight technology. The Launch Pro arrived when Bushnell's parent company acquired Foresight Sports, so it runs the same triple-camera FSP sensor as the GC3." },
+      { "q": "Does the Launch Pro work with GSPro and TGC 2019?", "a": "It works with GSPro once you have the Gold subscription and lives in the Foresight FSX software family. It does not support TGC 2019." }
+    ]
+  },
+  {
+    "id": "uneekor",
+    "name": "Uneekor",
+    "bays": ["golf"],
+    "tagline": "Photometric accuracy from budget to dedicated-room flagship.",
+    "profile": "Uneekor is a South Korean-founded launch-monitor company, now US-headquartered, that has become a major force in photometric (camera-based) golf tech, especially overhead-mounted units. Its calling card is reading spin off any standard ball, no marked balls or stickers required, through its Dimple Optix and Ball Optix systems. The honest take: Uneekor offers one of the widest photometric ranges in the category, top to bottom. The overhead EYE XO2 flagship brings GCQuad-class triangulated accuracy and the largest hitting zone in the line into a dedicated room for thousands less than commercial reference units (it needs 9-10 feet of ceiling). The portable EYE MINI brings true camera accuracy and putting analysis to a side-mount box with an e-ink display readable in sunlight. And the late-2025, Amazon-exclusive EYE MINI CORE drags genuine photometric infrared tech into the $1,499 bracket, the trade-off being no clubhead data. The recurring caveats are ceiling-height demands on the overhead units, reflective stickers for club data on some models, and reliance on consistent indoor lighting like any camera system. For builders who want camera-grade ball data at almost any budget, Uneekor delivers.",
+    "ecosystem": "Dimple/Ball Optix reads spin off any standard ball (no markings); connects to GSPro, E6, TGC 2019 and its own GameDay software, with optional subscription tiers and overhead or side-mount form factors.",
+    "whoFor": "Builders who want photometric camera accuracy at their budget, from a $1,499 entry to a dedicated-room overhead flagship.",
+    "founded": "2015",
+    "hq": "Irvine, California, USA",
+    "image": "/images/brand/uneekor.jpg",
+    "faqs": [
+      { "q": "Do Uneekor units need marked balls?", "a": "No. Dimple Optix reads the dimple pattern of any standard ball to capture spin, so no marked or stickered balls are required for ball data. Some models still need small reflective stickers to capture club data." },
+      { "q": "How much ceiling height does the EYE XO2 need?", "a": "As an overhead unit it needs roughly 9-10 feet of ceiling so the downward cameras have enough throw. It is the wrong technology for a low 8.5-foot basement." },
+      { "q": "What's the catch with the budget EYE MINI CORE?", "a": "It captures 15 ball data points but no clubhead data, which is part of how it hits the $1,499 price. Step up to the EYE MINI or EYE XO2 if you need club metrics." }
+    ]
+  },
+  {
+    "id": "foresight-sports",
+    "name": "Foresight Sports",
+    "bays": ["golf"],
+    "tagline": "The tour and fitting accuracy reference standard.",
+    "profile": "Foresight Sports, founded in 2009 in San Diego, is the commercial and club-fitting reference in golf launch monitors, the maker of the GCQuad that tour players, fitters and coaches measure everything else against. Its technology is photometric: high-speed cameras that image the ball and club directly rather than inferring flight from radar. The honest take: when the data has to be unimpeachable, this is the brand. The four-camera GCQuad shoots 6,000 fps per camera for Quadrascopic imaging, captures club and impact-location data, is a three-time Golf Digest Editors' Choice winner, and works equally well indoors and outdoors, the fully loaded bundle runs around $18,000. The triple-camera GC3 delivers fitting-grade ball and club data that rivals the GCQuad for roughly half the price, and the straight GC3 even includes lifetime FSX Play with no recurring fee (watch the cheaper GC3S, which trades a lower upfront price for an annual subscription). The overhead Falcon packs GCHawk-class tech into a cleaner ceiling install for dedicated rooms. The honest knocks are price and that none of these connect to TGC 2019.",
+    "ecosystem": "Photometric multi-camera units in the FSX software family (GSPro on PC); the GC3 includes lifetime FSX Play while the GC3S carries an annual fee, and none of the line connects to TGC 2019.",
+    "whoFor": "Serious players, fitters and coaches who need tour-grade, reference-level club and ball data and will pay for it.",
+    "founded": "2009",
+    "hq": "San Diego, California, USA",
+    "image": "/images/brand/foresight-sports.jpg",
+    "faqs": [
+      { "q": "What is the difference between the GC3 and GC3S?", "a": "The GC3 costs more upfront but includes lifetime FSX Play with no recurring fee. The GC3S has a lower upfront price but requires an annual subscription for the full software and club data." },
+      { "q": "Why is the GCQuad the reference standard?", "a": "It adds a fourth camera for Quadrascopic imaging at 6,000 fps and is built as the commercial fitting benchmark, with the tightest club and impact-location data in the category, used by tour players, fitters and coaches." },
+      { "q": "Do Foresight units work with TGC 2019?", "a": "No. The Foresight line lives in the FSX software family and connects to GSPro on PC, but does not support TGC 2019." }
+    ]
+  },
+  {
+    "id": "flightscope",
+    "name": "FlightScope",
+    "bays": ["golf"],
+    "tagline": "Doppler-radar pedigree, now fused with cameras.",
+    "profile": "FlightScope is the radar pioneer of golf launch monitors. Founded in 1989 by Henri Johnson in Stellenbosch, South Africa, originally to measure projectiles for defense, the company built the world's first radar-based golf launch monitor in the late 1990s and has carried that Doppler heritage forward ever since. The honest take: FlightScope's modern strength is fusing its radar roots with cameras. The Mevo Gen 2, which replaces the beloved Mevo+, uses patented Fusion Tracking (3D Doppler radar combined with synchronized image processing) to deliver 15 full-swing and chipping parameters plus 3 putting metrics, with measured rather than estimated club data, and it does so with no subscription and a lifetime E6 Connect simulation bundle included. At $1,299 base it's the easiest FlightScope to recommend, with a loaded version near $2,274 adding the Pro Package and Face Impact Location. The catch is the radar lineage: like all radar-based units it prefers room depth behind the player, and a compact radar can be more setup-sensitive than a fixed camera. For practicers and instructors who want measured-club data with zero ongoing fees, it's a strong value.",
+    "ecosystem": "Fusion Tracking (radar plus synchronized camera) with no subscription and a lifetime E6 Connect bundle; connects to E6, FS Golf and GSPro, but as radar it prefers depth behind the player.",
+    "whoFor": "Practicers and instructors who want measured-club Fusion data with no recurring fees and have room depth behind the hitting area.",
+    "founded": "1989",
+    "hq": "Stellenbosch, South Africa (US operations in Orlando, Florida)",
+    "image": "/images/brand/flightscope.jpg",
+    "faqs": [
+      { "q": "Does the Mevo Gen 2 have a subscription?", "a": "No. It has $0 ongoing cost and includes a lifetime E6 Connect simulation bundle. Optional one-time unlocks like the Pro Package and Face Impact Location are the only extra charges." },
+      { "q": "How is the Mevo Gen 2 different from the old Mevo+?", "a": "It replaces the Mevo+ and brings full Mevo Plus-level accuracy using FlightScope's Fusion Tracking (radar plus synchronized camera) in a more compact, no-subscription unit." },
+      { "q": "Does FlightScope use radar or cameras?", "a": "Both. FlightScope began as a Doppler-radar pioneer, and the Mevo Gen 2 fuses 3D Doppler radar with synchronized image processing (Fusion Tracking) for measured club data." }
+    ]
+  },
+  {
+    "id": "rapsodo",
+    "name": "Rapsodo",
+    "bays": ["golf"],
+    "tagline": "The most data-rich portable launch monitor under $1,000.",
+    "profile": "Rapsodo is a sports-analytics company founded in 2010, best known across baseball, softball and golf for putting pro-style data in amateur hands at accessible prices. In golf it pioneered the affordable personal launch monitor and has steadily packed more capability into portable, phone-tethered hardware. The honest take: the MLM2PRO is the richest portable data set you can buy for around $700. It fuses dual high-speed cameras with Doppler radar to capture 15 metrics including directly measured spin (with RPT balls), club path and angle of attack, and the dual cameras add genuine swing-review video. Rapsodo earned official GSPro direct-connect integration in 2025 and also runs E6 Connect across a 30,000-plus course library. The caveats are specific: measured spin rate and spin axis require RPT-marked Callaway or Titleist balls, the best features sit behind a premium subscription (a one-time lifetime option runs around $500), and like other radar-fusion units it benefits from outdoor depth. For budget buyers who want the most data and real sim play for the money, nothing else packs in this much.",
+    "ecosystem": "Camera-plus-radar fusion, phone-tethered, with official GSPro direct connect (2025) and E6 plus a 30,000-plus course library; measured spin needs RPT-marked balls and the best features sit behind a premium subscription.",
+    "whoFor": "Budget buyers who want the richest portable data set and GSPro sim play for around $700.",
+    "founded": "2010",
+    "hq": "Chesterfield, Missouri, USA",
+    "image": "/images/brand/rapsodo.jpg",
+    "faqs": [
+      { "q": "Do I need special balls for the MLM2PRO?", "a": "Most data works with any ball, but measured spin rate and spin axis require RPT-marked balls such as the Callaway Chrome Soft X RPT or Titleist Pro V1 RPT." },
+      { "q": "Does the MLM2PRO connect to GSPro?", "a": "Yes. Rapsodo added official GSPro direct-connect integration in 2025, and it also works with E6 Connect and its own 30,000-plus course library." },
+      { "q": "Is Rapsodo only a golf brand?", "a": "No. Rapsodo is a sports-analytics company that also makes widely used baseball and softball products; the MLM and MLM2PRO are its golf launch monitors." }
+    ]
+  },
+  {
+    "id": "carls-place",
+    "name": "Carl's Place",
+    "bays": ["golf"],
+    "tagline": "The DIY golf-room backbone, screens and enclosures.",
+    "profile": "Carl's Place is the build-it-yourself heart of the golf bay. It started in 2006 when founder Carl wanted to project a video game onto the side of a barn, built his own screen, and discovered real demand for high-quality projection and impact surfaces. Today, from Milton, Wisconsin, it's a leading source for the room around your launch monitor: impact screens, enclosures and complete simulator packages. The honest take: Carl's Place is where you spend the rest of your budget once you've chosen a sensor. Its DIY Enclosure Kit pairs a full-length impact screen with a durable nylon enclosure and engineered bounceback control (releasable zip ties, a weighted bottom cable, a no-border bottom), letting you self-build an immersive bay so more money goes to the launch monitor. Its in-house SIGPRO Premium impact screen, a MyGolfSpy testing winner, uses three-layer spacer-mesh fabric about 3.5 inches thick for a crisp 4K image with low noise and bounceback, beating leading competitors in independent testing. The honest caveats are that the base enclosure needs framing (or the add-on pipe kit) and premium screens carry a premium price, but for DIY builders the value is excellent.",
+    "ecosystem": "Sensor-agnostic room hardware (screens, enclosures, framing kits) that works with any launch monitor; DIY assembly required and the base enclosure needs your own structure or the optional pipe-framing kit.",
+    "whoFor": "DIY builders who want to spend launch-monitor money on the sensor and self-build an immersive, low-bounceback enclosed bay.",
+    "founded": "2006",
+    "hq": "Milton, Wisconsin, USA",
+    "image": "/images/brand/carls-place.jpg",
+    "faqs": [
+      { "q": "Does the Carl's Place DIY kit include framing?", "a": "The base kit includes the impact screen, nylon enclosure and connector hardware, but you supply the structure or add Carl's optional pipe-framing kit to build the frame." },
+      { "q": "Does a premium impact screen really give a sharper image?", "a": "Yes. The SIGPRO Premium's tightly woven three-layer spacer mesh renders crisp 4K projection with no pixelation or grain, and independent MyGolfSpy testing rated it best for image quality, sound and bounceback." },
+      { "q": "Does Carl's Place gear work with any launch monitor?", "a": "Yes. Screens and enclosures are sensor-agnostic, so they pair with any launch monitor; you choose your sensor separately and build the room around it." }
+    ]
+  },
+  {
+    "id": "sim-lab",
+    "name": "Sim-Lab",
+    "bays": ["racing"],
+    "tagline": "Dutch aluminum-profile rigs built to outlast every upgrade.",
+    "profile": "Sim-Lab is a Dutch sim-racing company founded in 2015 in Tholen, Netherlands, that built its name on rigid aluminum-profile (8020-style) cockpits, the same industrial extrusion you'd find in factory automation, and has since grown into a fuller ecosystem of seats, wheels, pedals and brackets. The honest take: Sim-Lab is a buy-once foundation for serious rigs. Its P1-X Pro, a 2024 redesign of the popular P1-X, is among the most rigid and adjustable rigs on the market, comfortably carrying any flagship direct-drive base, 21Nm and beyond, with no perceptible flex at the wheel mount. That stability and endless adjustability mean you keep the frame across every base and pedal upgrade, which is the whole point of going aluminum profile over a steel-tube cockpit. The trade-offs are real and expected: it's a configurable frame system, so the seat and many brackets are priced separately; it takes meaningful floor space and assembly time; and it's overkill for a low-torque entry base. For high-torque DD and long-term ownership, it's one of the most-recommended high-end rigs you can buy.",
+    "ecosystem": "Modular 8020 aluminum-profile system; the frame is the constant you keep across base and pedal upgrades, but seats and many brackets are configured and priced separately.",
+    "whoFor": "Serious sim racers running mid-to-high-torque direct drive who want a maximally rigid, endlessly adjustable rig to keep for years.",
+    "founded": "2015",
+    "hq": "Tholen, Netherlands",
+    "image": "/images/brand/sim-lab.jpg",
+    "faqs": [
+      { "q": "Is a Sim-Lab rig worth it over a steel cockpit?", "a": "For high-torque direct drive and long-term ownership, yes. Its 8020 rigidity and adjustability mean you keep the frame across every base and pedal upgrade, where a steel-tube cockpit flexes more under flagship torque." },
+      { "q": "Does a Sim-Lab rig include a seat?", "a": "No. It's a configurable frame system; the seat and many brackets are selected and priced separately." },
+      { "q": "Can a Sim-Lab rig handle a flagship direct-drive base?", "a": "Yes. The P1-X Pro carries any flagship DD base, including 21Nm-plus units, with no perceptible flex at the wheel mount." }
+    ]
+  },
+  {
+    "id": "next-level",
+    "name": "Next Level Racing",
+    "bays": ["racing"],
+    "tagline": "Complete, motion-upgradeable cockpits across racing and flight.",
+    "profile": "Next Level Racing is an Australian simulation brand, founded in 2009 and based on the Gold Coast, that has become a leading name in cockpits, stands and especially motion platforms for both racing and flight simulators. Its niche is the complete, feature-rich, upgrade-ready rig rather than the bare aluminum frame. The honest take: Next Level Racing sells convenience and a clear path to motion. The GT Track cockpit is rigid, direct-drive-capable and broadly compatible with Thrustmaster, Logitech and Fanatec gear, and it ships with the extras enthusiasts usually buy separately, gear-shift and handbrake mounts, a Buttkicker adapter, a racing harness and lockable feet, plus the ability to expand to NLR's Motion Platform V3 down the line. Reviewers note tidy packaging and a roughly two-hour assembly. The honest caveat is construction: the GT Track is a steel/hybrid build rather than full 8020 aluminum extrusion, so it's sturdier than a wheel stand but not as stiff under flagship torque as a Sim-Lab P1-X. For a racer who wants a well-rounded, motion-upgradeable cockpit that's DD-ready out of the box, it's a strong middle path.",
+    "ecosystem": "Broad cross-brand compatibility (Thrustmaster/Logitech/Fanatec) with included shifter/handbrake/Buttkicker mounts; steel/hybrid construction (not full 8020) and expandable to NLR's Motion Platform V3 and Traction Plus.",
+    "whoFor": "Racers who want a feature-rich, direct-drive-capable cockpit that comes with the extras and can grow into motion later.",
+    "founded": "2009",
+    "hq": "Gold Coast, Australia",
+    "image": "/images/brand/next-level.jpg",
+    "faqs": [
+      { "q": "Does the Next Level Racing GT Track support direct drive?", "a": "Yes. It's a rigid cockpit built to support direct-drive wheels and professional pedal sets across major brands, though it's a steel/hybrid build rather than full 8020 aluminum profile." },
+      { "q": "Can I add motion to a Next Level Racing cockpit later?", "a": "Yes. The GT Track is expandable to the Next Level Racing Motion Platform V3 and Traction Plus platform, a core reason buyers choose the brand." },
+      { "q": "How does the GT Track compare to a Sim-Lab aluminum rig?", "a": "The GT Track is a complete, extras-included cockpit that's easier to live with; a Sim-Lab 8020 rig is stiffer under flagship torque and more endlessly adjustable, but a bare frame you build out." }
+    ]
+  }
+]

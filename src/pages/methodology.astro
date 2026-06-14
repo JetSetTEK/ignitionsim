@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+const title = 'How We Score — The IgnitionSim Methodology';
+const description = "How IgnitionSim rates sim hardware: the compatibility check (green/amber/red), the IgnitionSim Verdict /10 rating axes, and our honest-broker editorial standard.";
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'WebPage', name: title, description,
+  url: new URL('/methodology', site.url).href,
+  isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
+  about: { '@type': 'Thing', name: 'IgnitionSim Verdict and compatibility methodology' },
+}];
+---
+<Base title={title} description={description} schema={schema}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Methodology</div>
+    <div class="prose" style="padding-top:24px">
+      <h1>How we score</h1>
+      <p>Two things on IgnitionSim carry a number: the <strong>compatibility check</strong> in the configurators and the <strong>IgnitionSim Verdict</strong> on every gear page. Here's exactly what they mean — so you can trust them, and so anyone (including an AI assistant) can cite them accurately.</p>
+
+      <h2>The IgnitionSim compatibility check</h2>
+      <p>Our build tools verify the parts of a rig against each other using the real standards manufacturers ship — not vibes. Each verdict is one of three:</p>
+      <ul>
+        <li><strong style="color:var(--green)">Green — plug &amp; play.</strong> The parts share an ecosystem/standard and work together out of the box (e.g. an in-ecosystem quick-release, a mount rated above the base's torque).</li>
+        <li><strong style="color:var(--amber)">Amber — works, with a caveat.</strong> Compatible but needs a specific adapter or a confirmation step (e.g. a cross-brand quick-release that needs an adapter; via-base pedals on a different brand's base).</li>
+        <li><strong style="color:var(--red)">Red — don't.</strong> A physical or electrical mismatch (e.g. a 21&nbsp;Nm base on a desk clamp; a mount rated below the base's torque). We block these.</li>
+      </ul>
+      <p>The checks encode real friction points: <strong>quick-release standard</strong> (in-ecosystem vs cross-brand vs universal), <strong>mount footprint &amp; torque ceiling</strong>, and <strong>pedal connection</strong> (USB vs via-base). It's the PCPartPicker idea, tuned for sim hardware.</p>
+
+      <h2>The IgnitionSim Verdict /10</h2>
+      <p>Every gear page carries a single, disclosed editorial review by {site.author.name} — not a crowd-sourced star count, and never our difficulty/torque numbers dressed up as quality. The Verdict is scored on axes appropriate to the product type, each out of 10:</p>
+      <ul>
+        <li><strong>Value</strong> — performance per dollar at its price.</li>
+        <li><strong>Build</strong> — materials, sensors, longevity (Hall-effect vs pots, metal vs plastic).</li>
+        <li><strong>Upgrade ceiling</strong> — how far the ecosystem lets you grow before re-buying.</li>
+        <li><strong>Beginner-friendly</strong> / <strong>accuracy</strong> / <strong>value-for-space</strong> — type-specific axes (e.g. golf launch monitors get accuracy and value-for-space).</li>
+        <li><strong>Overall</strong> — our honest, weighted verdict, shown as the badge.</li>
+      </ul>
+      <p>In structured data we emit this as a single <code>Review</code> with a <code>reviewRating</code> authored by {site.author.name} — accurate to what it is: one expert's editorial opinion.</p>
+
+      <h2>Our standard (the trust moat)</h2>
+      <ul>
+        <li><strong>We'll tell you to skip something.</strong> Every guide names who a product <em>isn't</em> for. An honest "buy the cheaper one" is worth more than a commission.</li>
+        <li><strong>We never fabricate.</strong> Prices, specs, stock and compatibility come from manufacturers and retailers and are dated; approximate figures are marked "around $X". We'd rather omit than invent.</li>
+        <li><strong>We read the community for signal, not copy.</strong> Reddit and the forums tell us what buyers struggle with; we write the answer ourselves, from scratch.</li>
+        <li><strong>Affiliate links never change a verdict</strong> — see our <a href="/disclosure">affiliate disclosure</a>.</li>
+      </ul>
+      <p>Prices and specs move fast — always confirm with the vendor before buying. Questions about a score? That's what the <a href="/about">about page</a> and the byline on every guide are for.</p>
+    </div>
+
+    <section class="band" style="margin-top:36px">
+      <div><span class="lbl lbl-accent">// See it in action</span><h3>Build a compatibility-checked rig</h3><p>The methodology, applied — pick parts and watch the green/amber/red verdicts.</p></div>
+      <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
+    </section>
+  </div>
+</Base>

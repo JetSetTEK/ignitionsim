@@ -1,0 +1,79 @@
+---
+import Base from '../../layouts/Base.astro';
+import lists from '../../data/stat-lists.json';
+import bays from '../../data/bays.json';
+import site from '../../data/site.json';
+
+export async function getStaticPaths() {
+  return (lists as any[]).map((list) => ({ params: { slug: list.slug }, props: { list } }));
+}
+const { list } = Astro.props;
+const bay = bays.find((b) => b.slug === list.bay)!;
+
+const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const all = Object.values(mods).flatMap((m: any) => (m.default || [])) as any[];
+const types = [list.type, ...(list.altTypes || [])];
+let items = all.filter((p) => p.bay === list.bay && types.includes(p.type));
+if (list.priceMax) items = items.filter((p) => p.price && p.price <= list.priceMax);
+if (list.priceMin) items = items.filter((p) => p.price && p.price >= list.priceMin);
+const mv = (p: any) => list.sortBy === 'value' ? (p.rating?.value || 0) : list.sortBy === 'accuracy' ? (p.rating?.accuracy || 0) : list.sortBy.startsWith('price') ? (p.price || 0) : (p.rating?.overall || 0);
+items.sort((a, b) => list.sortBy === 'price-asc' ? mv(a) - mv(b) : mv(b) - mv(a));
+items = items.slice(0, list.limit || 10);
+
+const url = new URL(`/best/${list.slug}`, site.url).href;
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'ItemList', name: list.title, description: list.intro, numberOfItems: items.length, itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: items.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: `${p.brand} ${p.model}`, url: new URL(`/${p.bay}/gear/${p.id}`, site.url).href })) },
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
+    { '@type': 'ListItem', position: 2, name: 'Best lists', item: new URL('/best', site.url).href },
+    { '@type': 'ListItem', position: 3, name: list.title, item: url } ] },
+];
+const updated = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+---
+<Base title={`${list.title} (${updated})`} description={list.intro} bay={list.bay} activeNav={list.bay} schema={schema} image={`/images/${list.bay}/hero.jpg`}>
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span><a href="/best">Best</a><span>/</span>{list.title}</div>
+    <section class="hero" style="text-align:left;padding:34px 0 8px">
+      <div class="lbl lbl-accent">// {bay.name} · ranked by the IgnitionSim Verdict</div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem);max-width:22ch">{list.title}</h1>
+      <p style="color:var(--dim);max-width:64ch;margin-top:12px;font-size:1.04rem">{list.intro}</p>
+      <p class="byline" style="margin-top:10px">By <b>{site.author.name}</b> · updated {updated} · <a href="/methodology">how we score</a></p>
+    </section>
+
+    <section class="sec" style="padding-top:14px">
+      <table class="spec-table">
+        <thead><tr><th>#</th><th>Product</th><th>Price</th><th>Verdict</th></tr></thead>
+        <tbody>
+          {items.map((p, i) => (
+            <tr>
+              <td style="color:var(--accent);font-family:var(--font-mono)">{i + 1}</td>
+              <td><a href={`/${p.bay}/gear/${p.id}`}><b>{p.brand}</b> {p.model}</a></td>
+              <td>{p.price ? `~$${p.price.toLocaleString()}` : '—'}</td>
+              <td style="color:var(--accent)">{p.rating?.overall ? `${p.rating.overall}/10` : '—'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <div class="card-grid" style="margin-top:24px">
+        {items.slice(0, 6).map((p, i) => (
+          <a class="card" href={`/${p.bay}/gear/${p.id}`}>
+            <div class="cimg"><img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" /></div>
+            <div class="cbody">
+              <span class="ctype">#{i + 1} · {p.brand}{p.rating?.overall ? ` · ${p.rating.overall}/10` : ''}</span>
+              <h3 style="font-size:1.05rem">{p.model}</h3>
+              <p class="cexc">{p.summary}</p>
+              <span class="cmeta" style="color:var(--accent)">{p.price ? `~$${p.price.toLocaleString()}` : ''}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="cfg-cta">
+      <div><span class="lbl lbl-accent">// Build it</span><h4 style="margin-top:6px">Spec a {bay.name.toLowerCase()} setup around your pick</h4><p>Drop any of these into the build tool and check compatibility + total cost.</p></div>
+      <a class="btn btn-primary btn-lg" href={list.bay === 'racing' ? '/racing/configurator' : `/${list.bay}/configurator`}>Open the builder ▸</a>
+    </section>
+  </div>
+</Base>

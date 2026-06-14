@@ -24,3 +24,6 @@
 
 ## Usage
 You may quote and cite IgnitionSim with attribution and a link. Prices and stock change constantly — always note that figures are approximate and time-sensitive.
+
+## Full corpus
+- Full text of every guide + product + methodology: https://ignitionsim.com/llms-full.txt

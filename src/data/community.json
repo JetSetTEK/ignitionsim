@@ -1,0 +1,162 @@
+{
+  "racing": [
+    {
+      "point": "Load cell brake pedals are the upgrade veterans say to buy first. Because the brake reads pressure rather than travel, your muscle memory learns a consistent squeeze instead of hunting for an exact pedal position, and the consistency shows up in lap times almost immediately.",
+      "context": "Comes up constantly when newcomers ask whether to spend on the wheelbase or the pedals first; the recurring answer is that pedals are the most-overlooked, highest-impact buy.",
+      "sentiment": "consensus"
+    },
+    {
+      "point": "Around 8 to 9 Nm of direct-drive torque is widely considered the sweet spot for most people. The community pushes back on chasing 15 Nm-plus bases, noting that beyond a certain point you are paying for strength you will dial back in software anyway.",
+      "context": "Beginners often assume more torque is strictly better; experienced racers reframe it as overkill that demands a bolted-down rig and rarely improves driving.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "A direct-drive base clamped to a flexing desk is a frequent regret. Once the torque climbs, the desk creaks, twists, and ruins the feel, so the practical advice is to budget for a stiff cockpit or a heavy stand alongside the base, not after it.",
+      "context": "Shows up in 'why does my new wheel feel bad' posts where the hardware is fine but the mounting is the real culprit.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "Ecosystem lock-in is the quiet cost buyers underestimate. Some brands restrict force feedback to their own wheel rims or use proprietary mounting patterns, so the cheap base can become expensive once you want a different rim, pedals, or cockpit.",
+      "context": "Raised whenever someone compares sticker prices across brands without accounting for what they will be forced to buy later.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Hardware specs alone do not predict satisfaction; software maturity matters as much. Several popular brands ship frequent firmware updates that can subtly change how the wheel feels, which frustrates owners who expected a fixed, 'set it and forget it' experience.",
+      "context": "A recurring counterpoint to spec-sheet shopping, especially among owners of value-focused bases.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "The honest take in 2025 is that every major direct-drive brand now delivers genuinely good force feedback, so the decision hinges on ecosystem, software stability, and mounting fit rather than which base 'wins.' It is hard to make a truly bad choice on raw feedback quality.",
+      "context": "Reassurance offered to overwhelmed first-time buyers paralyzed by brand-war threads.",
+      "sentiment": "consensus"
+    }
+  ],
+  "flight": [
+    {
+      "point": "A dedicated throttle quadrant is the upgrade pilots say transforms immersion the most. Managing power on a physical lever feels worlds apart from a keyboard or a stick button, and combined throttle-plus-yoke setups are repeatedly called the best value in the hobby.",
+      "context": "Comes up when GA and airliner flyers ask what single addition makes the biggest difference after a basic stick.",
+      "sentiment": "consensus"
+    },
+    {
+      "point": "Rudder pedals are treated as essential, not optional, once you fly crosswind landings, engine-out work, taxiing, or helicopters. Twisting the stick for yaw is a common starting point, but most people end up wishing they had bought pedals sooner.",
+      "context": "Frequent in 'do I really need rudder pedals' threads; the answer trends toward yes for any serious flying.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "The twist-axis on budget sticks is a known weak point. Where the main axes use durable hall-effect sensors, the yaw twist often relies on a cheaper potentiometer that can drift over time, which is why buyers steer toward all-hall-effect designs or separate rudder pedals.",
+      "context": "A recurring durability warning attached to the most-recommended entry-level sticks.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "Premium metal-gimbal sticks earn their reputation in the sub-$500 tier. Full metal gimbals with bearings and per-axis centering are described as a clear step up in precision and longevity over plastic-gimbal sticks, though the buy-in and wait times are higher.",
+      "context": "Raised when people debate whether to spend up front or upgrade later; the 'buy once, cry once' camp is vocal.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "Force-feedback flight sticks went from boutique-only to attainable in 2025-2026, and the excitement is real, but so is the sticker shock. A FFB base can cost roughly double a solid non-FFB HOTAS, so the community frames it as an enthusiast splurge rather than a starting point.",
+      "context": "A hot emerging topic as affordable FFB bases arrive to challenge the long-standing expensive boutique options.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "Minor out-of-box DIY is normal and not a defect. Sticky throttles that smooth out with a dab of the right lubricant, and tuned deadzones or curves, are widely shared fixes, so first-flight stiffness is rarely a reason to return hardware.",
+      "context": "Reassurance for buyers alarmed by early reviews mentioning stiff or notchy throttles.",
+      "sentiment": "tip"
+    }
+  ],
+  "space": [
+    {
+      "point": "Space sims reward a different layout than flight sims: because ships strafe and translate in all directions, dual-stick HOSAS setups are the community favorite for giving you the extra axes that a single stick-and-throttle cannot.",
+      "context": "The core layout debate that every new Star Citizen and Elite pilot eventually runs into.",
+      "sentiment": "consensus"
+    },
+    {
+      "point": "Your ideal setup depends on what you actually do in-game. Traders, explorers, and big-ship crews get along fine with a traditional throttle-and-stick HOTAS, while dogfighters lean dual-stick for the finer six-degrees-of-freedom control.",
+      "context": "Nuance offered to counter the blanket 'HOSAS is always better' advice; play style drives the answer.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "Buyers consistently wish they had budgeted for enough buttons. Space sims have enormous control surfaces, so people who started with a minimal stick end up adding a second stick, a button box, or a keypad to avoid living in awkward keyboard reaches mid-flight.",
+      "context": "A common 'what I'd do differently' theme once players hit the sheer number of bindable functions.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "The twist-yaw potentiometer on popular budget sticks is a known long-term failure point, but it is also a known fix. Owners point out the part can be swapped for a hall-effect sensor that does not wear out, which keeps an otherwise loved budget stick alive for years.",
+      "context": "Surfaces in durability threads as both a warning and a reassurance for the most-bought entry sticks.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "Ambidextrous and mirrored stick pairs are valued specifically for dual-stick comfort. Sticks designed to be used left and right, or grips built with space movement in mind, reduce the wrist strain that comes from repurposing two identical right-handed flight sticks.",
+      "context": "Comes up when people assemble a HOSAS from two generic sticks and find the ergonomics awkward.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Binding and configuration is the real time sink, not the hardware. Veterans warn that the first evening with a new setup is mostly spent mapping controls and learning curves, and that patience with the software side separates a setup people love from one they abandon.",
+      "context": "Honest expectation-setting for newcomers who assume plugging in the sticks is the finish line.",
+      "sentiment": "warning"
+    }
+  ],
+  "marine": [
+    {
+      "point": "Most marine and sailing sims have little to no native support for dedicated helm, throttle, or joystick hardware, so the community's standard move is to bridge controllers to keyboard commands with free or cheap mapping software.",
+      "context": "The first thing experienced players tell newcomers expecting plug-and-play boat controls; it sets realistic expectations up front.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "Repurposed gear is the norm rather than the exception. People successfully run boats with leftover racing wheels and pedals, flight sticks remapped to rudder, or programmable keypads with dials assigned to helm, throttle, and winch tension.",
+      "context": "Comes up whenever someone asks what hardware to buy; the answer is usually 'adapt what you already have.'",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Programmable macro keypads and rotary-dial decks are the unsung hero of marine setups. With a dozen buttons and a few continuous dials mapped to vessel functions, players get tactile control without any purpose-built ship console.",
+      "context": "A practical recommendation that recurs in setup guides for sims lacking analog axis support.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Purpose-built ship consoles with twin throttles, a wide steering bar, and rows of programmable buttons exist, but they are a niche, premium choice. They appeal to dedicated maritime hobbyists more than casual players, who tend to find the keymapping route good enough.",
+      "context": "Surfaces when someone asks whether a real ship-bridge console is worth it versus a generic controller.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "A racing wheel for steering works surprisingly well as an entry point. The continuous rotation suits a helm better than a stick or gamepad, which is why a cheap used wheel is a frequent first recommendation before anyone invests further.",
+      "context": "A low-cost starting suggestion for people testing the waters of marine sims.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Immersion in marine sims comes more from the control mapping effort than from spending big. Because the genre is software-constrained, the people who enjoy it most are the ones who put in the tinkering to map axes and functions thoughtfully, not necessarily the ones who spent the most.",
+      "context": "An honest framing for a niche where there is no clear off-the-shelf hardware answer.",
+      "sentiment": "consensus"
+    }
+  ],
+  "golf": [
+    {
+      "point": "Ceiling height is the make-or-break spec people most regret ignoring. Around 10 feet is the commonly cited 'magic number' that lets most golfers swing a driver freely; under 9 feet, taller players or upright swings get cramped and may be limited to irons.",
+      "context": "The single most repeated planning warning, because it is a structural constraint you cannot fix after the build.",
+      "sentiment": "warning"
+    },
+    {
+      "point": "Match the launch monitor to your room, not just to the reviews. Camera-based photometric units sit beside the ball and work in shallow garages and basements, while radar units need several feet behind the golfer and ample ball flight in front, or their spin and curve data gets shaky.",
+      "context": "A costly mistake buyers describe: picking a top-rated monitor that then needs more room than they have.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Budget radar monitors are praised as great value once dialed in, with the honest caveat that they are not as consistent as five-figure units. Owners report they get reliable for practice after some setup and calibration, especially in space-limited rooms.",
+      "context": "Tempering of expectations for the popular sub-$1,000 monitors that dominate first-time buyer questions.",
+      "sentiment": "debate"
+    },
+    {
+      "point": "Software choice is a real decision, not an afterthought. The graphics-and-gameplay platform versus the established course-library platform each have devoted camps, and many monitors support several, so people advise checking subscription costs and which sims your monitor unlocks before buying.",
+      "context": "Comes up once buyers realize the hardware is only half the cost and experience equation.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Room depth in front of the screen matters as much as ceiling height. The common guidance is to place the tee roughly 10 feet back so the launch monitor can track the shot and you are not standing on top of the impact screen, which also protects walls and the screen itself.",
+      "context": "A spacing detail first-timers overlook until shots feel cramped or the screen takes a beating.",
+      "sentiment": "tip"
+    },
+    {
+      "point": "Enclosure and screen protection is where people wish they had not cut corners. A proper impact screen and enclosure kit saves walls and ceilings from mishits, and pairing a compact accurate monitor with a quality enclosure is a frequently endorsed home-build combination.",
+      "context": "Raised by owners who tried to DIY cheaply and ended up with marked walls or a worn screen.",
+      "sentiment": "tip"
+    }
+  ]
+}

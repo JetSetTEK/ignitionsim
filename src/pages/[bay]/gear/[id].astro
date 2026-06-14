@@ -17,6 +17,10 @@ const imgs: string[] = (Array.isArray(p.images) && p.images.length) ? p.images :
 const bay = bays.find((b) => b.slug === p.bay)!;
 const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
 const buyUrl = `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}`;
+const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
+const brandIds = new Set((((Object.values(brandMods)[0] as any)?.default) || []).map((b: any) => b.id));
+const brandSlug = String(p.brand).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+const hasBrandPage = brandIds.has(brandSlug);
 const related = all.filter((x: any) => x.bay === p.bay && x.type === p.type && x.id !== p.id).slice(0, 4);
 const guides = (await getCollection('articles', ({ data }) => data.bay === p.bay && !data.draft)).slice(0, 3);
 const guideSlug = (a: any) => a.id.split('/').pop();
@@ -100,6 +104,7 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
         <div class="gh-cta">
           <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener">Find at retailers ▸</a>
           <button class="btn" data-garage={`${p.bay}/${p.id}`}>☆ Save to Garage</button>
+          {hasBrandPage && <a class="btn" href={`/brand/${brandSlug}`}>More {p.brand} →</a>}
           <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
         </div>
         <p class="gh-disc">{site.disclosure}</p>
