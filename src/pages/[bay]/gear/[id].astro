@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import FAQ from '../../../components/FAQ.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
 import bays from '../../../data/bays.json';
 import site from '../../../data/site.json';
 import { getCollection } from 'astro:content';
@@ -98,10 +99,11 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
         <p style="color:#cdd6e4;margin-top:6px">{p.summary}</p>
         <div class="gh-cta">
           <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener">Find at retailers ▸</a>
-          {p.bay === 'racing' && <a class="btn" href="/racing/configurator">Add to a build →</a>}
+          <button class="btn" data-garage={`${p.bay}/${p.id}`}>☆ Save to Garage</button>
           <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
         </div>
         <p class="gh-disc">{site.disclosure}</p>
+        <div style="margin-top:12px"><ShareButtons /></div>
       </div>
     </section>
 

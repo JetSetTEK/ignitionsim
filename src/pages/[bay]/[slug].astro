@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import FAQ from '../../components/FAQ.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, render } from 'astro:content';
+import ShareButtons from '../../components/ShareButtons.astro';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 
@@ -71,6 +72,7 @@ if (d.faqs.length) {
       <h1 style="font-size:clamp(2rem,4.6vw,3rem);margin:12px 0 16px;line-height:1.12">{d.title}</h1>
       <p style="color:var(--dim);font-size:1.12rem">{d.description}</p>
       <p class="byline" style="margin-top:16px">By <b>{d.author}</b> · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
+      <div style="margin-top:14px"><ShareButtons /></div>
     </header>
 
     {d.heroImage && (

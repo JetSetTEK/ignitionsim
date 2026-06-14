@@ -1,0 +1,33 @@
+---
+interface Props { label?: string; }
+const { label = 'Share' } = Astro.props;
+---
+<div class="share" data-share>
+  <span class="lbl">{label}</span>
+  <a class="sh x" rel="noopener" aria-label="Share on X">𝕏</a>
+  <a class="sh pin" rel="noopener" aria-label="Pin on Pinterest">📌</a>
+  <button class="sh copy" type="button" aria-label="Copy link">⧉ Copy</button>
+</div>
+
+<style>
+  .share { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .share .lbl { margin-right: 2px; }
+  .sh { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .72rem; color: var(--txt); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 12px; cursor: pointer; background: var(--panel); transition: all .15s; }
+  .sh:hover { border-color: var(--accent); color: var(--accent); }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-share]').forEach((s) => {
+    const url = encodeURIComponent(location.href);
+    const title = encodeURIComponent(document.title);
+    const img = encodeURIComponent((document.querySelector('meta[property="og:image"]') as HTMLMetaElement)?.content || '');
+    const x = s.querySelector('.x') as HTMLAnchorElement;
+    const pin = s.querySelector('.pin') as HTMLAnchorElement;
+    if (x) { x.href = `https://twitter.com/intent/tweet?text=${title}&url=${url}`; x.target = '_blank'; }
+    if (pin) { pin.href = `https://www.pinterest.com/pin/create/button/?url=${url}&media=${img}&description=${title}`; pin.target = '_blank'; }
+    s.querySelector('.copy')?.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(location.href); (window as any).toast?.('Link copied'); }
+      catch { (window as any).toast?.('Copy failed'); }
+    });
+  });
+</script>

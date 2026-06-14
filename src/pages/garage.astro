@@ -1,0 +1,75 @@
+---
+import Base from '../layouts/Base.astro';
+const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
+const index: Record<string, any> = {};
+all.forEach((p) => { index[`${p.bay}/${p.id}`] = { brand: p.brand, model: p.model, bay: p.bay, image: p.image, price: p.price, rating: p.rating?.overall || null }; });
+---
+<Base title="My Garage — your saved sim gear" description="Save sim hardware to your Garage and share the list. A private, link-shareable shortlist across racing, flight, space, marine and golf.">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>My Garage</div>
+    <section class="hero" style="text-align:left;padding:34px 0 6px">
+      <div class="lbl lbl-accent">// Your shortlist</div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem)">My Garage</h1>
+      <p style="color:var(--dim);max-width:60ch;margin-top:10px">Gear you've saved across the bays. It lives in your browser — share the link to send your shortlist to anyone.</p>
+    </section>
+
+    <section class="sec" style="padding-top:14px">
+      <div class="garage-actions" id="garage-actions" style="display:none">
+        <span class="lbl" id="garage-summary"></span>
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <button class="btn" id="garage-share">↗ Share my Garage</button>
+          <button class="btn" id="garage-clear">↺ Clear</button>
+          <a class="btn" href="/racing/gear">Browse gear →</a>
+        </div>
+      </div>
+      <div class="card-grid" id="garage-grid" style="margin-top:16px"></div>
+      <div id="garage-empty" style="display:none;color:var(--dim)">
+        <p>Your Garage is empty. Browse the <a href="/guides">guides</a> or any <a href="/racing/gear">gear database</a> and tap <b>☆ Save to Garage</b> on anything you're considering.</p>
+      </div>
+    </section>
+  </div>
+
+  <script type="application/json" id="garage-index" set:html={JSON.stringify(index)}></script>
+  <script>
+    (() => {
+      const INDEX = JSON.parse(document.getElementById('garage-index')!.textContent || '{}');
+      const grid = document.getElementById('garage-grid')!;
+      const actions = document.getElementById('garage-actions')!;
+      const empty = document.getElementById('garage-empty')!;
+      const summary = document.getElementById('garage-summary')!;
+      const qids = new URLSearchParams(location.search).get('ids');
+      const shared = !!qids;
+      const getKeys = () => shared ? qids!.split(',').filter((k) => INDEX[k]) : (() => { try { return JSON.parse(localStorage.getItem('ig-garage') || '[]').filter((k: string) => INDEX[k]); } catch { return []; } })();
+
+      const render = () => {
+        const keys = getKeys();
+        if (!keys.length) { grid.innerHTML = ''; actions.style.display = 'none'; empty.style.display = ''; return; }
+        empty.style.display = 'none'; actions.style.display = 'flex';
+        let total = 0;
+        grid.innerHTML = keys.map((k: string) => {
+          const p = INDEX[k]; total += (p.price || 0);
+          return `<div class="card"><a href="/${k}" style="display:block"><div class="cimg"><img src="${p.image}" alt="${p.brand} ${p.model}" loading="lazy"></div></a>`
+            + `<div class="cbody"><span class="ctype">${p.bay}${p.rating ? ' · ' + p.rating + '/10' : ''}</span>`
+            + `<h3 style="font-size:1.05rem"><a href="/${k}" style="color:inherit">${p.brand} ${p.model}</a></h3>`
+            + `<span class="cmeta" style="color:var(--accent)">${p.price ? '~$' + p.price.toLocaleString() : ''}</span>`
+            + (shared ? '' : `<button class="btn" data-garage="${k}" style="margin-top:8px;font-size:.62rem;padding:7px 10px">Remove</button>`)
+            + `</div></div>`;
+        }).join('');
+        summary.textContent = `${keys.length} item${keys.length > 1 ? 's' : ''} · est. $${total.toLocaleString()}${shared ? ' · shared list' : ''}`;
+      };
+
+      document.getElementById('garage-share')?.addEventListener('click', async () => {
+        const keys = getKeys(); if (!keys.length) return;
+        const url = location.origin + '/garage?ids=' + encodeURIComponent(keys.join(','));
+        try { await navigator.clipboard.writeText(url); (window as any).toast?.('Garage link copied'); } catch { (window as any).toast?.('Link: ' + url); }
+      });
+      document.getElementById('garage-clear')?.addEventListener('click', () => {
+        if (shared) { location.href = '/garage'; return; }
+        localStorage.setItem('ig-garage', '[]'); render(); (window as any).toast?.('Garage cleared');
+      });
+      document.addEventListener('garage:sync', render);
+      render();
+    })();
+  </script>
+</Base>

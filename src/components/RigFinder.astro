@@ -12,7 +12,7 @@
   </div>
 
   <div class="rf-card">
-    <div class="rf-progress"><span data-step="0" class="on"></span><span data-step="1"></span><span data-step="2"></span><span data-step="3"></span></div>
+    <div class="rf-progress"><span data-step="0" class="on"></span><span data-step="1"></span><span data-step="2"></span><span data-step="3"></span><span data-step="4"></span></div>
 
     <div class="rf-step on" data-q="0">
       <h3>Which world are you building for?</h3>
@@ -43,14 +43,27 @@
       </div>
     </div>
 
-    <div class="rf-result" data-q="3">
+    <div class="rf-step" data-q="3">
+      <h3>What matters most to you?</h3>
+      <div class="rf-opts">
+        <button data-k="priority" data-v="immersion">Total immersion</button>
+        <button data-k="priority" data-v="competition">Winning / lap times</button>
+        <button data-k="priority" data-v="value">Best value</button>
+        <button data-k="priority" data-v="tinkering">Tinkering &amp; upgrades</button>
+        <button data-k="priority" data-v="starting">Just getting started</button>
+      </div>
+    </div>
+
+    <div class="rf-result" data-q="4">
+      <div class="rf-arch" id="rf-arch"></div>
       <span class="lbl lbl-accent">// Your starting point</span>
       <h3 id="rf-pick">—</h3>
       <p id="rf-why"></p>
       <p id="rf-note" class="rf-note"></p>
       <div class="rf-cta">
         <a id="rf-bay" class="btn" href="/">Explore the bay →</a>
-        <a class="btn btn-primary" href="/racing/configurator">Open the configurator ▸</a>
+        <a id="rf-build" class="btn btn-primary" href="/racing/configurator">Open the builder ▸</a>
+        <button class="btn rf-share" type="button">↗ Share result</button>
         <button class="btn rf-restart" type="button">↺ Start over</button>
       </div>
     </div>
@@ -73,7 +86,11 @@
   .rf-opts { display: flex; flex-wrap: wrap; gap: 10px; }
   .rf-opts button { font-family: var(--font-body); font-size: .95rem; font-weight: 600; color: var(--txt); background: var(--panel); border: 1px solid var(--line2); border-radius: 10px; padding: 14px 20px; cursor: pointer; transition: all .15s; }
   .rf-opts button:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, var(--panel)); transform: translateY(-2px); }
-  #rf-pick { font-family: var(--font-disp); font-size: clamp(1.3rem, 3vw, 1.9rem); color: var(--accent); margin: 8px 0 12px; }
+  .rf-arch { margin-bottom: 14px; }
+  .arch-name { display: block; font-family: var(--font-disp); font-weight: 800; font-size: clamp(1.6rem, 4vw, 2.4rem); color: var(--accent); text-shadow: 0 0 22px var(--bayglow); }
+  .arch-blurb { display: block; color: var(--dim); font-size: .95rem; margin-top: 4px; }
+  #rf-pick { font-family: var(--font-disp); font-size: clamp(1.1rem, 2.4vw, 1.5rem); color: var(--txt); margin: 14px 0 12px; }
+  #rf-pick::before { content: "Your starting point — "; font-family: var(--font-mono); font-size: .6rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 4px; }
   #rf-why { color: #d8e0ec; font-size: 1.02rem; }
   .rf-note { color: var(--dim); font-size: .88rem; margin-top: 10px; font-family: var(--font-mono); }
   .rf-cta { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
@@ -116,6 +133,13 @@
     marine: { ps5: 'Most marine sims are PC-only.', xbox: 'Most marine sims are PC-only.', pc: 'On PC, every option is open.' },
   };
 
+  const ARCH: Record<string, { name: string; blurb: string }> = {
+    immersion: { name: 'The Immersionist', blurb: 'You chase presence — the rig that makes you forget it’s a sim.' },
+    competition: { name: 'The Competitor', blurb: 'Every tenth counts. You want gear that wins, not gear that impresses.' },
+    value: { name: 'The Value Hunter', blurb: 'You refuse to overpay — smart money, no dead-end purchases.' },
+    tinkering: { name: 'The Tinkerer', blurb: 'Half the fun is the build. You’ll upgrade, mod and tune forever.' },
+    starting: { name: 'The Rookie', blurb: 'Fresh on the grid — here’s the smartest first step in.' },
+  };
   const state: Record<string, string> = {};
   const root = document.getElementById('rigfinder'); if (root) {
     const steps = [...root.querySelectorAll<HTMLElement>('.rf-step')];
@@ -130,18 +154,29 @@
     root.querySelectorAll<HTMLElement>('.rf-opts button').forEach((b) => b.addEventListener('click', () => {
       state[b.dataset.k!] = b.dataset.v!;
       const q = Number(b.closest('.rf-step')!.getAttribute('data-q'));
-      if (q < 2) show(q + 1); else finish();
+      if (q < 3) show(q + 1); else finish();
     }));
     root.querySelector('.rf-restart')?.addEventListener('click', () => { show(0); });
+    let shareText = '';
+    root.querySelector('.rf-share')?.addEventListener('click', async () => {
+      if (!shareText) return;
+      try { await navigator.clipboard.writeText(shareText); (window as any).toast?.('Result copied — paste it anywhere'); }
+      catch { (window as any).toast?.('Copy failed'); }
+    });
     function finish() {
       const d = state.discipline, bud = state.budget, plat = state.platform;
       const r = REC[d]?.[bud]; if (!r) { show(0); return; }
+      const ar = ARCH[state.priority] || ARCH.starting;
+      (document.getElementById('rf-arch') as HTMLElement).innerHTML = `<span class="arch-name">${ar.name}</span><span class="arch-blurb">${ar.blurb}</span>`;
       (document.getElementById('rf-pick') as HTMLElement).textContent = r.pick;
       (document.getElementById('rf-why') as HTMLElement).textContent = r.why;
       (document.getElementById('rf-note') as HTMLElement).textContent = '▸ ' + (platformNote[d]?.[plat] || '');
       const bay = document.getElementById('rf-bay') as HTMLAnchorElement;
       bay.href = '/' + d; bay.textContent = 'Explore the ' + d + ' bay →';
-      show(3);
+      const build = document.getElementById('rf-build') as HTMLAnchorElement;
+      if (build) build.href = '/' + d + '/configurator';
+      shareText = `I'm ${ar.name} on IgnitionSim 🏁 My ${d} pick: ${r.pick}. Find your rig: ${location.origin}/#rigfinder`;
+      show(4);
     }
   }
 </script>

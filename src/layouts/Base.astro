@@ -164,6 +164,32 @@ const allSchema = [orgSchema, siteSchema, ...schema];
       }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
       targets.forEach((t) => { t.classList.add('reveal'); io.observe(t); });
     })();
+    // My Garage — localStorage saves, synced across [data-garage] buttons
+    (() => {
+      const KEY = 'ig-garage';
+      const get = () => { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { return []; } };
+      const set = (a: string[]) => localStorage.setItem(KEY, JSON.stringify(a));
+      const sync = () => {
+        const g = get();
+        document.querySelectorAll<HTMLElement>('[data-garage]').forEach((b) => {
+          const on = g.includes(b.dataset.garage);
+          b.classList.toggle('saved', on);
+          b.textContent = on ? '★ In your Garage' : '☆ Save to Garage';
+        });
+        document.querySelectorAll<HTMLElement>('[data-garage-count]').forEach((c) => { c.textContent = g.length ? String(g.length) : ''; });
+        (window as any).__garage = g;
+        document.dispatchEvent(new CustomEvent('garage:sync', { detail: g }));
+      };
+      document.addEventListener('click', (e) => {
+        const b = (e.target as HTMLElement).closest('[data-garage]') as HTMLElement | null;
+        if (!b) return;
+        const v = b.dataset.garage!; const g = get(); const i = g.indexOf(v);
+        if (i >= 0) g.splice(i, 1); else g.push(v);
+        set(g); sync();
+        (window as any).toast?.(i >= 0 ? 'Removed from Garage' : 'Saved to Garage ★');
+      });
+      sync();
+    })();
   </script>
 </body>
 </html>
