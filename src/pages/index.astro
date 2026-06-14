@@ -28,7 +28,7 @@ const hubPhotos = ((photography as any).hub || []) as any[];
 const slides = hubCopy.map((c, i) => {
   const p = hubPhotos[i];
   return p
-    ? { src: p.src, alt: p.alt || c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl } }
+    ? { src: p.src, alt: p.alt || c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }
     : { src: `/images/hub/slide-${i + 1}.jpg`, alt: c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption };
 });
 

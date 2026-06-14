@@ -6,7 +6,7 @@ import photography from '../data/photography.json';
 const all: any[] = [...(flickr as any[])];
 for (const zone of Object.keys(photography as any)) {
   for (const p of ((photography as any)[zone] || [])) {
-    all.push({ source: 'Unsplash', photographer: p.by, url: p.photoUrl, query: `${zone} bay` });
+    all.push({ source: p.source || 'Unsplash', photographer: p.by, url: p.photoUrl, query: `${zone} bay` });
   }
 }
 const seen = new Set<string>();

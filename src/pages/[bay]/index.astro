@@ -34,7 +34,7 @@ const byType = typeOrder
 
 const photos = ((photography as any)[bay.slug] || []) as any[];
 const slides: any[] = photos.length
-  ? photos.map((p) => ({ src: p.src, alt: p.alt, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl } }))
+  ? photos.map((p) => ({ src: p.src, alt: p.alt, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }))
   : [1, 2, 3].map((n) => ({ src: `/images/${bay.slug}/slide-${n}.jpg`, alt: `${bay.name} sim hardware — ${bay.theme}` }));
 slides[0] = { ...slides[0], eyebrow: `// ${bay.name} bay`, title: bay.tagline, caption: bay.descriptor };
 
