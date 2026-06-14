@@ -1,0 +1,4 @@
+{
+  "_note": "Live stock/price tracking targets. Each product needs a stable product-page URL whose HTML exposes Product JSON-LD (offers.price + offers.availability) or og:price:amount meta. The tracker (scripts/track.mjs) respects robots.txt and uses polite delays, and only reads public price/stock data. Populate this from your affiliate-network product feed or with vetted vendor URLs; the GitHub Action then polls twice daily and posts RESTOCK / SOLD_OUT / PRICE_DROP events to /drops. Until populated, /drops runs on curated market events in src/data/events.json.",
+  "products": []
+}

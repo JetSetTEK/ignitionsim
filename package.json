@@ -9,7 +9,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "images": "node scripts/fetch-images.mjs",
-    "apply:articles": "node scripts/apply-articles.mjs"
+    "art": "node scripts/make-art.mjs",
+    "og": "node scripts/make-og-cards.mjs",
+    "track": "node scripts/track.mjs",
+    "diff": "node scripts/diff-events.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.7.3",

@@ -1,49 +1,54 @@
 ---
 import Base from '../layouts/Base.astro';
 import site from '../data/site.json';
+import events from '../data/events.json';
+import bays from '../data/bays.json';
 
-const title = 'Stock & Deal Tracker — Sim Hardware Drops';
-const description = 'Fanatec and MOZA sell out in minutes. The IgnitionSim Stock & Deal Tracker watches every vendor and surfaces restocks, sold-outs and price drops across all five sim disciplines.';
+const sorted = [...(events as any[])].sort((a, b) => +new Date(b.date) - +new Date(a.date));
+const typeMeta: Record<string, { label: string; cls: string }> = {
+  NEW: { label: '✦ New', cls: 'green' }, RESTOCK: { label: '● Restock', cls: 'green' },
+  PRICE_DROP: { label: '▼ Price drop', cls: 'ember' }, SOLD_OUT: { label: '○ Sold out', cls: 'red' },
+  UPDATE: { label: '↻ Update', cls: 'cyan' },
+};
+const fmt = (d: string) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
-// Illustrative board entries — the live pipeline (GitHub Actions cron → diff →
-// rebuild) ships in Phase 2. Clearly labelled as a preview, never fabricated as live.
-const sample = [
-  { brand: 'MOZA', model: 'R12 Wheelbase', bay: 'racing', status: 'in-stock', note: 'Back after 3 weeks', price: '$429' },
-  { brand: 'Fanatec', model: 'ClubSport DD', bay: 'racing', status: 'price-drop', note: '↓ from $999', price: '$700' },
-  { brand: 'Honeycomb', model: 'Charlie Rudder Pedals', bay: 'flight', status: 'in-stock', note: 'New arrival', price: '$269' },
-  { brand: 'VKB', model: 'Gunfighter Mk.IV base', bay: 'space', status: 'sold-out', note: 'Restock waves', price: '$200' },
-  { brand: 'Uneekor', model: 'EYE MINI CORE', bay: 'golf', status: 'price-drop', note: 'Amazon exclusive', price: '$1,499' },
-  { brand: 'Simagic', model: 'Alpha Evo Sport', bay: 'racing', status: 'in-stock', note: '9 Nm', price: '$399' },
-];
-const statusLabel: Record<string, string> = { 'in-stock': '● In stock', 'sold-out': '○ Sold out', 'price-drop': '▼ Price drop' };
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'ItemList', name: 'IgnitionSim sim-hardware drops & market moves',
+  itemListElement: sorted.slice(0, 25).map((e, i) => ({ '@type': 'ListItem', position: i + 1, name: e.title })),
+}];
 ---
-<Base title={title} description={description} activeNav="drops">
+<Base title="Stock & Deal Tracker — sim hardware drops & market moves" description="New releases, price drops and restocks across sim racing, flight, space, marine and golf hardware. Automated tracking + curated market intel." activeNav="drops" schema={schema}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span>Drops</div>
-
-    <section class="hero" style="text-align:left;padding:44px 0 14px">
+    <section class="hero" style="text-align:left;padding:38px 0 12px">
       <div class="lbl lbl-accent">// The wick is lit</div>
       <h1 style="font-size:clamp(2rem,5vw,3.2rem);max-width:20ch;margin:12px 0">Stock &amp; Deal Tracker</h1>
-      <p style="max-width:64ch;font-size:1.08rem">Restock chaos is the hobby's number-one grievance. Our tracker watches vendor stock and price pages across every bay and surfaces the moment something is back — or drops in price. Public price/stock data only, polite delays, no scraping of anyone's content.</p>
+      <p style="max-width:64ch;font-size:1.04rem">New releases, price drops and the market moves that matter — across every bay. An automated tracker watches vendor stock + price twice a day (public price/stock data, polite, robots-respected); curated market intel fills in the bigger moves.</p>
     </section>
 
-    <section class="sec" style="padding-top:18px">
-      <div class="callout" style="max-width:none">
-        <div class="ct">// Preview</div>
-        The automated tracker (a twice-daily pipeline that diffs vendor stock and price, then rebuilds this board and fires <a href="/alerts">restock alerts</a>) ships in Phase 2. The board below is an illustrative preview of the format.
+    <section class="sec" style="padding-top:14px">
+      <div class="drop-filters" id="drop-filters">
+        <button class="chip on" data-f="all">All</button>
+        {bays.map((b) => <button class="chip" data-f={b.slug}>{b.name}</button>)}
       </div>
-
-      <div class="card-grid" style="margin-top:18px">
-        {sample.map((s) => (
-          <div class="card" data-bay={s.bay} style="cursor:default">
-            <div class="cbody">
-              <span class="ctype">{s.bay} · {statusLabel[s.status]}</span>
-              <h3 style="font-size:1.05rem">{s.brand} {s.model}</h3>
-              <p class="cexc">{s.note}</p>
-              <span class="cmeta" style="color:var(--accent);font-size:.9rem">{s.price}</span>
+      <div class="card-grid" id="drop-grid" style="margin-top:18px">
+        {sorted.map((e) => {
+          const t = typeMeta[e.type] || { label: e.type, cls: 'cyan' };
+          return (
+            <div class="card drop" data-bay={e.bay} style="cursor:default">
+              <div class="cbody">
+                <span class={`drop-badge ${t.cls}`}>{t.label}</span>
+                <span class="ctype" style="margin-top:6px">{e.bay} · {fmt(e.date)}</span>
+                <h3 style="font-size:1.04rem">{e.title}</h3>
+                <p class="cexc">{e.note}</p>
+                <div style="display:flex;gap:10px;align-items:center;margin-top:4px">
+                  <span class="cmeta">{e.brand}{e.model ? ` · ${e.model}` : ''}</span>
+                  {e.productId && <a class="cmeta" style="color:var(--accent)" href={`/${e.bay}/gear/${e.productId}`}>View gear →</a>}
+                </div>
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </section>
 
@@ -57,3 +62,24 @@ const statusLabel: Record<string, string> = { 'in-stock': '● In stock', 'sold-
     </section>
   </div>
 </Base>
+
+<style>
+  .drop-filters { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip { font-family: var(--font-mono); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--dim); border: 1px solid var(--line2); background: var(--panel); border-radius: 20px; padding: 8px 16px; cursor: pointer; }
+  .chip.on, .chip:hover { color: var(--accent); border-color: var(--accent); }
+  .drop-badge { display: inline-block; font-family: var(--font-mono); font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; padding: 3px 9px; border-radius: 20px; border: 1px solid; width: fit-content; }
+  .drop-badge.green { color: var(--green); border-color: rgba(52,211,153,.4); background: rgba(52,211,153,.08); }
+  .drop-badge.ember { color: var(--ember-2); border-color: rgba(255,94,26,.4); background: rgba(255,94,26,.08); }
+  .drop-badge.cyan { color: var(--cyan); border-color: rgba(34,211,238,.4); background: rgba(34,211,238,.08); }
+  .drop-badge.red { color: var(--red); border-color: rgba(248,113,113,.4); background: rgba(248,113,113,.08); }
+</style>
+
+<script>
+  const grid = document.getElementById('drop-grid');
+  document.querySelectorAll<HTMLElement>('#drop-filters .chip').forEach((c) => c.addEventListener('click', () => {
+    document.querySelectorAll('#drop-filters .chip').forEach((x) => x.classList.remove('on'));
+    c.classList.add('on');
+    const f = c.dataset.f;
+    grid?.querySelectorAll<HTMLElement>('.drop').forEach((d) => { d.style.display = (f === 'all' || d.dataset.bay === f) ? '' : 'none'; });
+  }));
+</script>

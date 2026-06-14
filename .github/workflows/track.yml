@@ -1,0 +1,39 @@
+name: Stock & Deal Tracker
+
+on:
+  schedule:
+    - cron: '0 8,20 * * *'   # twice daily (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stock-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - name: Poll vendor stock + price (robots-respecting)
+        run: node scripts/track.mjs
+      - name: Diff snapshots → events
+        run: node scripts/diff-events.mjs
+      - name: Commit & push (triggers Netlify rebuild)
+        run: |
+          git config user.name "ignitionsim-bot"
+          git config user.email "bot@ignitionsim.com"
+          git add src/data/events.json pipeline/stock-snapshots 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(drops): stock tracker sync"
+            git pull --rebase --autostash || true
+            git push
+          else
+            echo "No stock changes this run."
+          fi
