@@ -95,6 +95,43 @@ const allSchema = [orgSchema, siteSchema, ...schema];
   </main>
   <Footer />
   <div class="toast" id="toast"></div>
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lb-close" aria-label="Close image">×</button>
+    <button class="lb-nav prev" aria-label="Previous image">‹</button>
+    <img alt="" />
+    <button class="lb-nav next" aria-label="Next image">›</button>
+    <div class="lb-cap"></div>
+  </div>
+  <script>
+    // lightbox — click any framed/product/article image to expand
+    (() => {
+      const lb = document.getElementById('lightbox'); if (!lb) return;
+      const lbImg = lb.querySelector('img') as HTMLImageElement;
+      const cap = lb.querySelector('.lb-cap') as HTMLElement;
+      const prev = lb.querySelector('.lb-nav.prev') as HTMLElement;
+      const next = lb.querySelector('.lb-nav.next') as HTMLElement;
+      let group: string[] = [], gi = 0, caption = '';
+      const show = () => { lbImg.src = group[gi]; lbImg.alt = caption; cap.textContent = caption + (group.length > 1 ? `  ·  ${gi + 1}/${group.length}` : ''); const multi = group.length > 1; prev.style.display = next.style.display = multi ? '' : 'none'; };
+      const open = (list: string[], idx: number, capText: string) => { group = list; gi = idx; caption = capText; lb.classList.add('open'); lb.setAttribute('aria-hidden', 'false'); show(); };
+      const close = () => { lb.classList.remove('open'); lb.setAttribute('aria-hidden', 'true'); lbImg.src = ''; };
+      const nav = (d: number) => { if (group.length < 2) return; gi = (gi + d + group.length) % group.length; show(); };
+      document.addEventListener('click', (e) => {
+        const tgt = e.target as HTMLElement;
+        if (tgt.closest('#lightbox .lb-close')) { close(); return; }
+        if (tgt.closest('#lightbox .lb-nav.next')) { nav(1); return; }
+        if (tgt.closest('#lightbox .lb-nav.prev')) { nav(-1); return; }
+        if (tgt.id === 'lightbox') { close(); return; }
+        const img = tgt.closest('[data-lightbox] img, .prose img, .pano img, img.zoomable') as HTMLImageElement | null;
+        if (img && img.tagName === 'IMG') {
+          const cont = img.closest('[data-images]') as HTMLElement | null;
+          let list = [img.currentSrc || img.src], idx = 0;
+          if (cont) { try { const arr = JSON.parse(cont.dataset.images || '[]'); if (arr.length) { list = arr; idx = Math.max(0, arr.indexOf(img.getAttribute('src'))); } } catch {} }
+          open(list, idx, img.alt || '');
+        }
+      });
+      document.addEventListener('keydown', (e) => { if (!lb.classList.contains('open')) return; if (e.key === 'Escape') close(); else if (e.key === 'ArrowRight') nav(1); else if (e.key === 'ArrowLeft') nav(-1); });
+    })();
+  </script>
   <script>
     // shared toast helper
     (window as any).toast = (m: string) => {

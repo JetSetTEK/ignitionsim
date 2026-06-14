@@ -12,6 +12,7 @@ export async function getStaticPaths() {
 }
 const { product, all } = Astro.props;
 const p = product;
+const imgs: string[] = (Array.isArray(p.images) && p.images.length) ? p.images : [p.image];
 const bay = bays.find((b) => b.slug === p.bay)!;
 const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
 const buyUrl = `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}`;
@@ -54,10 +55,32 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${p.bay}`}>{bay.name}</a><span>/</span><a href={`/${p.bay}/gear`}>Gear</a><span>/</span>{p.model}</div>
 
     <section class="gear-hero">
-      <figure class="gh-img">
-        <img src={p.image} alt={`${p.brand} ${p.model}`} />
-        {p.rating?.overall && <span class="gh-score">{p.rating.overall}<small>/10</small></span>}
-      </figure>
+      <div class="gh-left">
+        <figure class="gh-img" data-lightbox data-images={JSON.stringify(imgs)}>
+          <img id="gh-main" class="zoomable" src={imgs[0]} alt={`${p.brand} ${p.model}`} />
+          {p.rating?.overall && <span class="gh-score">{p.rating.overall}<small>/10</small></span>}
+        </figure>
+        {imgs.length > 1 && (
+          <div class="gallery-thumbs" id="gh-thumbs">
+            {imgs.map((src, i) => (
+              <button class={i === 0 ? 'on' : ''} data-src={src} aria-label={`View image ${i + 1}`}><img src={src} alt="" loading="lazy" /></button>
+            ))}
+          </div>
+        )}
+        <p class="gh-hint lbl">⤢ Click image to expand</p>
+        <script>
+          (() => {
+            const main = document.getElementById('gh-main') as HTMLImageElement | null;
+            const thumbs = document.getElementById('gh-thumbs');
+            if (!main || !thumbs) return;
+            thumbs.querySelectorAll('button').forEach((b) => b.addEventListener('click', () => {
+              main.src = (b as HTMLElement).dataset.src!;
+              thumbs.querySelectorAll('button').forEach((x) => x.classList.remove('on'));
+              b.classList.add('on');
+            }));
+          })();
+        </script>
+      </div>
       <div class="gh-info">
         <span class="lbl lbl-accent">{p.brand} · {typeLabel}</span>
         <h1>{p.model}</h1>
@@ -150,6 +173,8 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
   .gear-hero { display: grid; grid-template-columns: 1fr 1.2fr; gap: 30px; margin: 18px 0 36px; align-items: start; }
   .gh-img { position: relative; border: 1px solid var(--line2); border-radius: 16px; overflow: hidden; margin: 0; aspect-ratio: 16/10; }
   .gh-img img { width: 100%; height: 100%; object-fit: cover; }
+  .gh-left { display: flex; flex-direction: column; }
+  .gh-hint { margin-top: 8px; color: var(--dimmer); font-size: .6rem; }
   .gh-score { position: absolute; top: 14px; right: 14px; font-family: var(--font-disp); font-weight: 800; font-size: 1.5rem; color: var(--accent); background: color-mix(in srgb, var(--night) 78%, transparent); border: 1px solid var(--accent); border-radius: 12px; padding: 6px 12px; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
   .gh-score small { font-size: .8rem; color: var(--dim); }
   .gh-info h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 8px 0; }
