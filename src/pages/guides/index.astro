@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import bays from '../../data/bays.json';
+import site from '../../data/site.json';
+
+const all = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const slug = (a: any) => a.id.split('/').pop();
+const byBay = bays.map((b) => ({ bay: b, items: all.filter((a) => a.data.bay === b.slug) })).filter((g) => g.items.length);
+
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'ItemList',
+  name: 'IgnitionSim guides & reviews',
+  numberOfItems: all.length,
+  itemListElement: all.map((a, i) => ({
+    '@type': 'ListItem', position: i + 1, name: a.data.title,
+    url: new URL(`/${a.data.bay}/${slug(a)}`, site.url).href,
+  })),
+}];
+---
+<Base title="All Guides & Reviews" description={`Every IgnitionSim buying guide, comparison, how-to and ecosystem deep-dive — ${all.length} in-depth articles across racing, flight, space, marine and golf.`} schema={schema} activeNav="guides">
+  <div class="wrap">
+    <div class="crumbs"><a href="/">Home</a><span>/</span>Guides</div>
+    <section class="hero" style="text-align:left;padding:36px 0 10px">
+      <div class="lbl lbl-accent">// {all.length} in-depth guides &amp; reviews</div>
+      <h1 style="font-size:clamp(2rem,5vw,3rem)">Guides &amp; reviews</h1>
+      <p style="color:var(--dim);max-width:62ch;margin-top:12px;font-size:1.06rem">Buying guides, head-to-head comparisons, ecosystem upgrade paths, how-tos and DIY — every one bylined, honest, and written to be the answer you were searching for.</p>
+    </section>
+    {byBay.map((g) => (
+      <section class="sec" style="padding:22px 0" data-bay={g.bay.slug}>
+        <div class="sec-head"><h2>{g.bay.name}</h2><a class="lbl" href={`/${g.bay.slug}`}>{g.items.length} guides · the {g.bay.name} bay →</a></div>
+        <div class="card-grid">
+          {g.items.map((a) => (
+            <ArticleCard href={`/${g.bay.slug}/${slug(a)}`} title={a.data.title}
+              excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+              image={a.data.heroImage} imageAlt={a.data.heroAlt}
+              meta={`${a.data.readingTime || 7} min read`} />
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>

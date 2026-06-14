@@ -62,7 +62,7 @@ if (d.faqs.length) {
 }
 ---
 <Base title={d.title} description={d.description} bay={d.bay} activeNav={d.bay} schema={schema}
-      image={d.heroImage || `/images/${d.bay}/hero.jpg`}>
+      image={`/og/${d.bay}/${slug}.png`}>
   <article class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${d.bay}`}>{bay.name}</a><span>/</span>{typeLabel}</div>
 
