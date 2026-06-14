@@ -1,0 +1,187 @@
+[
+  {
+    "id": "naturalpoint-trackir-5",
+    "bay": "flight",
+    "type": "head-tracking",
+    "brand": "NaturalPoint",
+    "model": "TrackIR 5 (with TrackClip PRO)",
+    "price": 174,
+    "priceNote": "approx 2026 street price for the TrackClip PRO bundle",
+    "image": "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "summary": "TrackIR 5 is still the genre standard for head tracking, and after more than a decade it remains the thing most pit builders reach for before they touch VR. A small infrared camera sits on top of your monitor and watches reflective markers on the bundled TrackClip PRO (which mounts to a headset or hat), translating real head movement into six degrees of freedom in the sim: pitch, yaw, roll plus X, Y and Z. It runs at 120 FPS with sub-millimeter precision, a 51.7-degree field of view and roughly 9 ms response, so you can lean into a turn to spot traffic, glance at the FMC, or check your six in DCS without ever lifting a hand off the yoke. Over 200 titles support it natively, including MSFS, X-Plane, DCS, IL-2 and Elite Dangerous. The trade-off is that you wear a clip and the software profile curves take some tuning, but once dialed in it is transformative.",
+    "specs": {
+      "Tracking": "6DOF (pitch, yaw, roll, X, Y, Z)",
+      "Camera": "120 FPS optical IR, sub-millimeter precision",
+      "Field of view": "51.7 degrees",
+      "Response time": "~9 ms",
+      "Marker": "TrackClip PRO (active IR) mounts to headset or hat",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Six-degree head tracking that frees your hands and adds huge situational awareness",
+      "120 FPS, sub-millimeter precision with very low latency",
+      "Native support in 200-plus sims including MSFS, X-Plane and DCS"
+    ],
+    "cons": [
+      "You have to wear a clip on a headset or hat",
+      "Software smoothing/response curves need tuning to feel natural",
+      "PC (Windows) only and a mature, aging design"
+    ],
+    "whoFor": "Simmers who want cockpit head movement and situational awareness without committing to a VR headset.",
+    "rating": { "overall": 9, "value": 8, "build": 8, "realism": 9 },
+    "faqs": [
+      { "q": "Is TrackIR 5 better than VR for flight sim?", "a": "It is not as immersive as VR, but it keeps your real monitor, panels and a clear view of your hardware while still adding full head movement, which many panel builders prefer over a headset." },
+      { "q": "Do I have to wear something for TrackIR to work?", "a": "Yes. The camera tracks reflective markers on the TrackClip PRO, which clips to a headset or hat; there is also a passive reflective clip option." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Buy the TrackClip PRO bundle (active IR) rather than the camera-only kit for the best tracking." },
+    "platforms": "PC"
+  },
+  {
+    "id": "tobii-eye-tracker-5",
+    "bay": "flight",
+    "type": "head-tracking",
+    "brand": "Tobii",
+    "model": "Eye Tracker 5",
+    "price": 339,
+    "priceNote": "approx 2026 MSRP (~$279-339 depending on region/sale)",
+    "image": "/images/gear/flight/tobii-eye-tracker-5.jpg",
+    "summary": "The Tobii Eye Tracker 5 is the clip-free alternative to TrackIR: a 28.5 cm IR sensor bar that mounts to the bottom edge of your monitor and tracks both your head position and where your eyes are looking, with nothing to wear. For flight sim that means you can pan around the cockpit just by moving your head, and the eye tracking reinforces real cockpit discipline of eyes-outside, hands-on-controls. Head tracking has no screen-size limit; eye tracking is accurate up to roughly a 30-inch display, and it works with most glasses. It is supported in 170-plus titles including Star Citizen and the major flight sims, and long-term owners report no tracking degradation after years of use. It costs more than TrackIR and is best on a single monitor, but the no-clip convenience is the reason many pilots pick it.",
+    "specs": {
+      "Form factor": "28.5 cm sensor bar, mounts under the monitor",
+      "Tracking": "Head position + eye gaze, no wearable required",
+      "Eye-track range": "Accurate up to ~30-inch screens",
+      "Head-track range": "No screen-size limit",
+      "Glasses": "Works with most eyeglasses",
+      "Connection": "USB"
+    },
+    "pros": [
+      "No clip or headset to wear; just sit down and fly",
+      "Combines head tracking with eye tracking for natural cockpit scanning",
+      "Proven long-term reliability and 170-plus supported titles"
+    ],
+    "cons": [
+      "More expensive than TrackIR",
+      "Eye tracking is best on a single monitor up to ~30 inches",
+      "PC (Windows) only"
+    ],
+    "whoFor": "Simmers who want head (and eye) tracking with nothing to wear and a clean single-monitor setup.",
+    "rating": { "overall": 8, "value": 7, "build": 8, "realism": 8 },
+    "faqs": [
+      { "q": "Do I need to wear anything with the Tobii Eye Tracker 5?", "a": "No. The sensor bar tracks your head and eyes directly, with no clip, hat or headset required, which is its main advantage over TrackIR." },
+      { "q": "Does it work with multiple monitors?", "a": "Head tracking has no screen-size limit, but eye tracking is calibrated for a single screen up to about 30 inches, so it is best on a single-monitor cockpit." }
+    ],
+    "affiliate": { "primary": "Tobii Gaming", "note": "Also sold on Amazon; certified-refurbished units appear on the Tobii store at a discount." },
+    "platforms": "PC"
+  },
+  {
+    "id": "winwing-fcu-efis-combo-a320",
+    "bay": "flight",
+    "type": "panel",
+    "brand": "WinWing / WinCTRL",
+    "model": "A320 FCU + EFIS-L/R Combo",
+    "price": 480,
+    "priceNote": "approx 2026 store price (FCU ~$140 + EFIS-L/R ~$170 each); buy individually or as combo",
+    "image": "/images/gear/flight/winwing-fcu-efis-combo-a320.jpg",
+    "summary": "If the WinWing MCDU handles the pedestal, the FCU and EFIS panels own the glareshield. The FCU (Flight Control Unit) is a 1:1 backlit Airbus autopilot panel with the speed, heading, altitude and vertical-speed selectors, the metric/QNH and AP mode pushbuttons, and the FCU display readouts; the two EFIS panels flanking it carry the barometric reference knobs, the FD/LS/CSTR/WPT/VOR.D/NDB/ARPT buttons and the ND mode and range selectors. Together they put the entire top-of-instrument-panel autopilot workflow under your fingers instead of on a mouse. Like the rest of the WinWing MIP line they are fully backlit with auto-brightness, connect over USB without HDMI or GPU load, and target the Fenix A320 and other Airbus add-ons. Reviewers rate the trio as the affordable way to a real Airbus glareshield; the SimApp Pro config takes a little learning.",
+    "specs": {
+      "FCU": "1:1 backlit Airbus Flight Control Unit (SPD/HDG/ALT/V-S selectors + mode buttons + display)",
+      "EFIS-L/R": "Baro reference knobs, FD/LS/CSTR/WPT/VOR.D/NDB/ARPT, ND mode + range",
+      "Backlighting": "Full backlight with auto-brightness light sensor",
+      "Connection": "USB (no HDMI, no GPU load)",
+      "Compatibility": "Fenix A320 and other Airbus add-ons",
+      "Config": "SimApp Pro"
+    },
+    "pros": [
+      "Completes the Airbus glareshield: autopilot FCU plus both EFIS panels",
+      "Single-USB, fully backlit with no GPU load and no latency",
+      "Pairs directly with the WinWing MCDU for a full Airbus cockpit"
+    ],
+    "cons": [
+      "Airbus-specific; tied to add-ons like the Fenix A320",
+      "Multi-panel builds need a powered USB hub",
+      "SimApp Pro mapping has a learning curve"
+    ],
+    "whoFor": "Airbus home-cockpit builders who already have (or want) the MCDU and need the glareshield autopilot and EFIS panels.",
+    "rating": { "overall": 9, "value": 9, "build": 8, "realism": 9 },
+    "faqs": [
+      { "q": "Do I need both EFIS panels and the FCU?", "a": "They are sold individually so you can start with the FCU and add EFIS-L and EFIS-R later, but together they reproduce the full Airbus glareshield workflow." },
+      { "q": "Does the FCU/EFIS work with the Fenix A320?", "a": "Yes, WinWing targets the Fenix A320 and other Airbus add-ons; match the panels to the specific aircraft you fly and configure them in SimApp Pro." }
+    ],
+    "affiliate": { "primary": "WinWing Store", "note": "FCU ~$140, each EFIS ~$170; combo bundle sold on the WinWing/WinCTRL store and via retailers." },
+    "platforms": "PC"
+  },
+  {
+    "id": "komodo-simulations-collective",
+    "bay": "flight",
+    "type": "collective",
+    "brand": "Komodo Simulations",
+    "model": "Helicopter Collective",
+    "price": 450,
+    "priceNote": "approx 2026 price after Komodo's price reduction (UK-built, hand-made; ~GBP 350+)",
+    "image": "/images/gear/flight/komodo-simulations-collective.jpg",
+    "summary": "Helicopter flying needs a collective, and a desk throttle does not cut it: a real collective is a left-hand lever you raise and lower for power while twisting a throttle grip, and Komodo Simulations builds among the most respected ones for home sims. Hand-made in the UK and modeled on real rotorcraft controls (their range centers on Bell 206-style hardware), the Komodo collective gives you a long, weighted, friction-adjustable lever with a twist-grip throttle and switchgear, registering as a standard USB game controller with no special drivers in X-Plane, MSFS and DCS. It is the kind of purpose-built control that turns helicopter flying from a fight against a spring-centered stick into something you can actually fly smoothly. It is a specialist, premium piece, recently made more attainable after Komodo dropped prices by around GBP 200, but for serious heli pilots it is close to the reference.",
+    "specs": {
+      "Type": "Left-hand helicopter collective lever with twist-grip throttle",
+      "Build": "Hand-made in the UK, weighted lever with adjustable friction",
+      "Reference": "Modeled on Bell 206-style rotorcraft controls",
+      "Switchgear": "Grip-mounted switches and buttons",
+      "Drivers": "Plug-and-play USB game controller, no special drivers",
+      "Connection": "USB"
+    },
+    "pros": [
+      "Purpose-built collective makes helicopter flying genuinely controllable",
+      "Hand-built UK quality with a weighted, friction-adjustable lever",
+      "Plug-and-play in X-Plane, MSFS and DCS with no special drivers"
+    ],
+    "cons": [
+      "Specialist, premium piece only useful for rotorcraft",
+      "Pricing and lead times vary as units are hand-made to order",
+      "Needs a sturdy mount or chair bracket to use properly"
+    ],
+    "whoFor": "Helicopter simmers who fly rotorcraft seriously and need a real collective instead of a repurposed throttle.",
+    "rating": { "overall": 9, "value": 7, "build": 9, "realism": 9 },
+    "faqs": [
+      { "q": "Why do I need a collective for helicopter sim?", "a": "A collective controls rotor power with an up/down lever and a twist throttle, which a fixed-wing throttle cannot replicate; without one, smooth hover and power management are very hard." },
+      { "q": "Does the Komodo collective need special drivers?", "a": "No. Komodo controls connect over USB and register as a standard game controller, working in X-Plane, MSFS and DCS without dedicated drivers." }
+    ],
+    "affiliate": { "primary": "Komodo Simulations", "note": "Sold direct from komodosimulations.co.uk; hand-made to order in the UK, so confirm current price and lead time." },
+    "platforms": "PC"
+  },
+  {
+    "id": "desktop-pilot-10-port-usb-hub",
+    "bay": "flight",
+    "type": "accessory",
+    "brand": "Desktop Pilot",
+    "model": "10-Port Powered USB Hub",
+    "price": 60,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg",
+    "summary": "The unglamorous part nobody mentions until it bites them: once you stack a yoke, throttle, pedals and three or four panels, your PC cannot reliably power them all off its own USB ports, and devices start dropping out mid-flight. A powered USB hub fixes that. The Desktop Pilot 10-Port hub is built specifically for sim cockpits, with its own 12V power adapter so every device gets clean, stable power independent of the PC, plus individual on/off switches per port so you can cut power to gear you are not using. It works across Windows, macOS and Linux and handles USB 2.0/3.0/3.1 peripherals, which covers essentially every flight panel and controller. It is cheap insurance for any multi-panel build, and exactly what the Logitech Saitek panels and WinWing panels both recommend running from.",
+    "specs": {
+      "Ports": "10 USB ports",
+      "Power": "Dedicated 12V external power adapter",
+      "Per-port switches": "Individual on/off switch on each port",
+      "Compatibility": "USB 2.0 / 3.0 / 3.1 devices",
+      "OS": "Windows, macOS, Linux",
+      "Use case": "Yokes, throttles, pedals, flight panels, joysticks"
+    },
+    "pros": [
+      "Dedicated 12V power keeps a full multi-panel cockpit detecting reliably",
+      "Individual per-port switches let you cut power to unused gear",
+      "Cheap insurance that solves the classic panel-dropout problem"
+    ],
+    "cons": [
+      "Not a flashy upgrade; purely infrastructure",
+      "Cable management gets busy with ten devices plugged in",
+      "Bandwidth is shared, so it is for control/panel gear, not high-throughput storage"
+    ],
+    "whoFor": "Anyone building a multi-panel cockpit where the PC's own USB ports cannot power every yoke, throttle and panel reliably.",
+    "rating": { "overall": 8, "value": 9, "build": 7, "realism": 6 },
+    "faqs": [
+      { "q": "Do I really need a powered USB hub for flight sim?", "a": "If you run several panels and controllers at once, yes. Unpowered hubs and PC ports often cannot supply enough power, causing devices to drop out; a powered hub with its own adapter prevents that." },
+      { "q": "Will the panels work better on a powered hub?", "a": "They will connect more reliably. Logitech Saitek and WinWing both recommend running multi-panel stacks from a powered hub to avoid detection and brownout issues." }
+    ],
+    "affiliate": { "primary": "Desktop Pilot", "note": "A 7-port version exists for smaller setups; TP-Link UH720 and Sabrent powered hubs are good general alternatives." },
+    "platforms": "PC / Mac"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "benq-lk936st",
+    "bay": "golf",
+    "type": "projector",
+    "brand": "BenQ",
+    "model": "LK936ST",
+    "price": 4899,
+    "priceNote": "approx 2026 street price (~$4,899 sale, ~$5,499 list)",
+    "image": "/images/gear/golf/benq-lk936st.jpg",
+    "summary": "The premium short-throw projector purpose-built for golf: a true 4K UHD (3840x2160) laser unit rated at 5,100 lumens with a 0.81-0.89 short throw ratio, so it can fill a near-10-foot-tall screen from roughly 14-15 feet back without throwing your shadow on the image. BenQ's exclusive Golf Mode corrects the purple fringing that plagues other projectors and renders natural blue sky and green grass, while industry-leading lens shift (+/-60% vertical, +/-23% horizontal) makes a clean ceiling-mount install far easier in an imperfect room. The 20,000-hour laser engine means no lamp swaps. This is the no-compromise choice when you want the sharpest, brightest picture in the bay.",
+    "specs": {
+      "Resolution": "True 4K UHD (3840 x 2160)",
+      "Brightness": "5,100 ANSI lumens (laser)",
+      "Throw ratio": "0.81-0.89 short throw",
+      "Lens shift": "+/-60% vertical, +/-23% horizontal",
+      "Light source": "Laser, ~20,000-hour lifespan",
+      "Golf features": "Dedicated Golf Mode, HDR10, Auto HDR color"
+    },
+    "pros": [
+      "True 4K resolution and 5,100 lumens for the sharpest, brightest image",
+      "Wide lens shift makes ceiling-mount install forgiving in real rooms",
+      "Golf Mode fixes purple fringing and renders natural sky and grass"
+    ],
+    "cons": [
+      "Easily the priciest projector most home builders will consider",
+      "Short throw still needs ~14-15 ft of mounting distance for a full screen",
+      "Overkill brightness/resolution for a casual sub-$10K sim build"
+    ],
+    "whoFor": "Premium-bay builders who want the brightest, sharpest 4K image and a forgiving ceiling-mount install, and will pay for it.",
+    "rating": { "overall": 9, "value": 7, "build": 9 },
+    "faqs": [
+      { "q": "How far back does the LK936ST need to be mounted?", "a": "With its 0.81-0.89 short throw ratio it fills a near-10-foot-tall screen from roughly 14-15 feet away, and its wide lens shift lets you correct alignment without keystone distortion." },
+      { "q": "What does BenQ's Golf Mode actually do?", "a": "It corrects the purple fringing common on bright impact screens and tunes color so blue sky and green grass look natural, which is why it's marketed specifically for golf simulators." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Carl's Place, ProjectorScreen.com, BenQ direct" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "optoma-gt2100hdr",
+    "bay": "golf",
+    "type": "projector",
+    "brand": "Optoma",
+    "model": "GT2100HDR",
+    "price": 1199,
+    "priceNote": "approx 2026 street price (~$1,199, often under $1,200)",
+    "image": "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "summary": "The value short-throw pick that fits the tightest rooms: a compact 1080p HD laser projector with 4K/HDR10 input support, 4,200 lumens, and a 0.496:1 throw ratio that covers a 12-foot-wide screen from under 6 feet of throw. That ultra-tight number is the whole point, since it lets you mount the projector well clear of the swing in shallow garages and basements where a longer-throw unit can't fit. A 30,000-hour laser engine is the longest in its class, fast 8.6ms response keeps shot-to-result lag invisible, and it draws up to 45% less power than Optoma's old lamp models. For most home sims it is the best brightness-and-throw-per-dollar projector.",
+    "specs": {
+      "Resolution": "1080p HD (accepts 4K HDR input)",
+      "Brightness": "4,200 lumens (laser)",
+      "Throw ratio": "0.496:1 (12 ft screen from under 6 ft)",
+      "Input lag": "~8.6 ms response",
+      "Light source": "Laser, ~30,000-hour lifespan",
+      "HDR": "HDR10 support"
+    },
+    "pros": [
+      "Tightest mainstream throw ratio fits shallow garages and basements",
+      "4,200 lumens and laser engine handle bright rooms and 30,000 hours",
+      "Strong value and low input lag for the price"
+    ],
+    "cons": [
+      "Native 1080p rather than true 4K resolution",
+      "Compact short throw means careful placement to avoid the swing arc",
+      "Less headroom than premium 4K units for very large screens"
+    ],
+    "whoFor": "Budget and tight-space builders who want a bright, low-lag short-throw laser projector that fits a shallow room.",
+    "rating": { "overall": 9, "value": 9, "build": 8 },
+    "faqs": [
+      { "q": "Will the GT2100HDR fit a small room?", "a": "Yes. Its 0.496:1 throw ratio is one of the tightest available, covering a 12-foot-wide screen from under 6 feet, so it suits shallow garages and basements where longer-throw projectors won't fit." },
+      { "q": "Is 1080p enough for a golf simulator?", "a": "For most home setups, yes. The GT2100HDR is native 1080p but accepts 4K HDR input, and at normal viewing distance the 4,200-lumen brightness and low lag matter more than native 4K resolution." }
+    ],
+    "affiliate": { "primary": "Top Shelf Golf", "note": "Also Amazon, Best Buy, Optoma USA" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "sig10-enclosure",
+    "bay": "golf",
+    "type": "screen",
+    "brand": "Shop Indoor Golf",
+    "model": "SIG10 Golf Simulator Enclosure",
+    "price": 2499,
+    "priceNote": "approx 2026 price for the enclosure (~$1,999-$2,499 by promo/screen tier)",
+    "image": "/images/gear/golf/sig10-enclosure.jpg",
+    "summary": "The most popular all-in-one enclosure for serious home bays: a 10'10\" wide x 8'4\" high x 5' deep 4:3 structure engineered so the projected image fills 100% of the included SIGPRO Premium impact screen with zero white border. Unlike a bare screen, this is a complete bay with a steel-pipe frame, protective side and ceiling padding, and a finished surround, and the screen is rated to absorb golf ball impacts of up to 250 MPH. Two people typically assemble it in under an hour with no power tools. You can step up to the SIGPRO Premier (Gray) screen for higher contrast. It is the turnkey alternative to piecing together a DIY enclosure yourself.",
+    "specs": {
+      "Dimensions": "10'10\" W x 8'4\" H x 5' D (4:3)",
+      "Screen": "Included SIGPRO Premium (White); Premier Gray upgrade",
+      "Impact rating": "Withstands ball impacts up to 250 MPH",
+      "Frame": "Steel-pipe framing with side and ceiling padding",
+      "Assembly": "Two people, under 60 minutes, no power tools",
+      "Use": "Complete dedicated-room bay, 100% screen fill"
+    },
+    "pros": [
+      "Complete turnkey bay: frame, padding, surround, and premium screen",
+      "Image fills 100% of the screen with zero white border",
+      "Fast tool-free assembly and 250 MPH impact rating"
+    ],
+    "cons": [
+      "Pricier than a bare DIY screen-and-net solution",
+      "Fixed 4:3 footprint needs a dedicated ~11 ft wide room",
+      "Gray high-contrast screen is a paid upgrade"
+    ],
+    "whoFor": "Builders who want a complete, professionally engineered enclosed bay rather than sourcing and framing a DIY screen themselves.",
+    "rating": { "overall": 9, "value": 8, "build": 9 },
+    "faqs": [
+      { "q": "How is the SIG10 enclosure different from a DIY screen kit?", "a": "It is a complete bay: steel-pipe frame, protective side and ceiling padding, a finished surround, and the SIGPRO Premium impact screen, all engineered to fill the screen 100% with no white border, instead of a bare screen you must frame yourself." },
+      { "q": "How much room does the SIG10 need?", "a": "It measures 10'10\" wide by 8'4\" high by 5' deep, so it wants a dedicated room of roughly 11 feet of width with adequate ceiling height for the frame and projector throw." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Indoor Golf Outlet, Golf Sim Depot, Golf Huts" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "sigpro-side-barrier-netting",
+    "bay": "golf",
+    "type": "net",
+    "brand": "Shop Indoor Golf",
+    "model": "SIGPRO Side Barrier Netting",
+    "price": 399,
+    "priceNote": "approx 2026 price (~$399.99)",
+    "image": "/images/gear/golf/sigpro-side-barrier-netting.jpg",
+    "summary": "The cheap insurance every enclosed bay should add: a pair of side barrier nets, each 10 feet long by 8 feet high, that hang along the sides of your enclosure to catch shanks, skulls, and ricochets before they hit a wall, TV, or window. They attach in minutes with a finished edge and hook-Velcro that mates to a SIGPRO enclosure, and the kit ships with two sandbags to weight the bottoms and two carabiner clips for secure mounting. For a few hundred dollars they dramatically widen the margin for error on a mishit, which is exactly what protects the expensive gear around your bay. A small spend that prevents big repair bills.",
+    "specs": {
+      "Coverage": "Two nets, each 10 ft long x 8 ft high",
+      "Attachment": "Finished edge with hook-Velcro for SIGPRO enclosures",
+      "Included": "Two sandbags and two carabiner clips",
+      "Install": "Tool-free, attaches in minutes",
+      "Purpose": "Catch shanks and ricochets along the bay sides",
+      "Quantity": "Pair (left and right)"
+    },
+    "pros": [
+      "Cheap protection for walls, TVs, and windows beside the bay",
+      "Fast tool-free install with included sandbags and clips",
+      "Widens the margin for error on mishits and shanks"
+    ],
+    "cons": [
+      "Designed to mate with SIGPRO enclosures; other frames may need rigging",
+      "Covers the sides only, not overhead or rear gaps",
+      "Adds width to the bay footprint when deployed"
+    ],
+    "whoFor": "Anyone with an enclosed bay near walls, screens, or windows who wants inexpensive insurance against mishits.",
+    "rating": { "overall": 8, "value": 9, "build": 8 },
+    "faqs": [
+      { "q": "What does the SIGPRO side barrier netting protect against?", "a": "Each pair of 10 ft x 8 ft nets hangs along the sides of your enclosure to catch shanks, skulls, and ricochets before they reach a wall, TV, or window beside the bay." },
+      { "q": "Does it work with any enclosure?", "a": "It is designed to attach to SIGPRO enclosures via a finished edge and hook-Velcro, with included sandbags and carabiners. On other frames you can still hang it but may need your own mounting hardware." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Golf Simulators Direct, Indoor Golf Outlet, Indoor Golf Pros" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "sig-landing-pad-turf",
+    "bay": "golf",
+    "type": "accessory",
+    "brand": "Shop Indoor Golf",
+    "model": "Landing Pad Turf and Putting Green",
+    "price": 200,
+    "priceNote": "approx 2026 price; varies by size (~$11-$14 per sq ft for full systems)",
+    "image": "/images/gear/golf/sig-landing-pad-turf.jpg",
+    "summary": "The finishing layer that turns a bare floor into a real bay: a roll of simulator turf that lies between your hitting mat and the screen to protect the floor from ricochets, give you a comfortable surface to stand and walk on, and double as a putting strip with a true roll. It dampens ball bounce off the floor, deadens noise, and visually ties the whole space together so the room looks like a studio rather than a mat on concrete. Pricing scales with size (full systems run roughly $11-$14 per square foot), and putting-specific turf like a Money Putt strip rolls true enough to practice short putts. A low-cost, high-impact comfort-and-protection upgrade.",
+    "specs": {
+      "Function": "Floor protection, walking surface, and putting strip",
+      "Roll": "Lays between hitting mat and screen, cut to fit",
+      "Putting": "True roll on putting-grade turf (e.g. Money Putt)",
+      "Benefits": "Dampens ball bounce, deadens noise, ties room together",
+      "Pricing": "Scales by size, ~$11-$14 per sq ft for full systems",
+      "Use": "Indoor sim bay floor covering"
+    },
+    "pros": [
+      "Protects the floor from ricochets and deadens bounce and noise",
+      "Doubles as a true-roll putting strip for short-game practice",
+      "Makes the bay look like a finished studio for low cost"
+    ],
+    "cons": [
+      "Price climbs quickly for full-room coverage",
+      "Cutting and fitting to the room takes some effort",
+      "Putting realism is good but not a substitute for a dedicated green"
+    ],
+    "whoFor": "Builders who want to protect their floor, quiet the room, and add a putting surface without a big spend.",
+    "rating": { "overall": 8, "value": 8, "build": 8 },
+    "faqs": [
+      { "q": "Do I need landing-pad turf if I already have a hitting mat?", "a": "It serves a different job: the hitting mat is where you swing, while the landing-pad turf covers the floor between the mat and screen to protect it from ricochets, deaden bounce and noise, and give you a comfortable walking and putting surface." },
+      { "q": "Can I putt on the landing-pad turf?", "a": "Yes. Putting-grade simulator turf such as a Money Putt strip rolls true enough to practice short putts, which is why many builders use it as both a landing pad and a putting surface." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Rain or Shine Golf, Indoor Golf Outlet, Golf Simulators Direct" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "sigpro-4x7-mat",
+    "bay": "golf",
+    "type": "mat",
+    "brand": "Shop Indoor Golf",
+    "model": "SIGPRO 4' x 7' Golf Mat",
+    "price": 899,
+    "priceNote": "approx 2026 price (~$899-$999); 4'x10' size costs more",
+    "image": "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "summary": "The big-platform studio mat built around a swappable hitting strip: a 4-by-7-foot, made-in-USA mat about 2-3/8 inches thick with a thick foam backing for stable, cushioned footing on any surface and a fairway-realistic synthetic turf top. Its signature feature is the easily replaceable hitting strip, so when the swing zone wears you swap a strip instead of buying a whole new mat, which is a real long-run cost saver for high-volume practice. The large platform gives you room to stand on the mat with the ball, which keeps your stance level and your launch data honest. A popular middle-ground premium mat between budget turf and top fiber-panel mats.",
+    "specs": {
+      "Size": "4' x 7' platform (4' x 10' also available)",
+      "Thickness": "~2 3/8 in with thick foam backing",
+      "Hitting strip": "Easily swappable; replace the strip, not the mat",
+      "Surface": "Durable fairway-realistic synthetic turf",
+      "Footing": "Stable cushioned base on any floor",
+      "Origin": "Made in the USA"
+    },
+    "pros": [
+      "Swappable hitting strip saves money over replacing the whole mat",
+      "Large platform lets you stand on the mat for level, honest data",
+      "Thick cushioned foam base is comfortable and stable on any floor"
+    ],
+    "cons": [
+      "Big footprint needs dedicated floor space",
+      "Heavy and not easy to reposition once placed",
+      "Less joint-shock absorption than top fiber-panel mats"
+    ],
+    "whoFor": "Builders who want a large studio mat with a replaceable hitting strip for high-volume practice at a mid-premium price.",
+    "rating": { "overall": 9, "value": 8, "build": 8 },
+    "faqs": [
+      { "q": "What makes the SIGPRO mat's swappable strip useful?", "a": "The hitting strip is the part that wears out from concentrated swings. Because it's easily replaceable, you swap just the strip instead of buying a whole new mat, which saves money over years of high-volume practice." },
+      { "q": "Why choose the 4'x7' size?", "a": "The large platform lets you stand on the mat alongside the ball so your stance stays level with the hitting surface, which keeps your launch-monitor data honest. The bigger 4'x10' size adds even more standing room." }
+    ],
+    "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Garage Golf, Scratch Golf, Golf Sim Depot" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  }
+]

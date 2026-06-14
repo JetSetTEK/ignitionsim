@@ -1,0 +1,310 @@
+[
+  {
+    "id": "fanatec-clubsport-shifter-sq-v15",
+    "bay": "racing",
+    "type": "shifter",
+    "brand": "Fanatec",
+    "model": "ClubSport Shifter SQ V1.5",
+    "price": 300,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-clubsport-shifter-sq-v15.jpg",
+    "summary": "The Fanatec ClubSport Shifter SQ V1.5 is the long-standing reference H-pattern shifter, a fully metal 7-speed unit that doubles as a sequential shifter without unplugging or rebooting. It ships with two anodized knobs, one for snappy H-pattern shifts and one for comfortable sequential pulls, plus adjustable lever resistance and a reverse-gear inhibitor for realism. At roughly 3.3kg it feels like a real gearbox bolted to your rig. It plugs into Fanatec wheel bases or stands alone over USB, making it the default premium pick for shifter fans.",
+    "specs": {
+      "Type": "H-pattern (7+1) + sequential, switchable",
+      "Construction": "Full metal, ~3.3 kg",
+      "Sensors": "Analog/contact with reverse inhibitor",
+      "Knobs": "Two anodized (H + sequential) included",
+      "Adjustment": "Adjustable lever resistance",
+      "Ecosystem": "Fanatec",
+      "Connection": "Fanatec base RJ12 or standalone USB adapter"
+    },
+    "pros": [
+      "Switches H-pattern to sequential without rebooting",
+      "Heavy full-metal build feels like a real gearbox",
+      "Two included knobs plus adjustable lever tension"
+    ],
+    "cons": [
+      "Premium price versus the Thrustmaster TH8A",
+      "Standalone USB adapter is an extra consideration outside Fanatec rigs",
+      "Heavy enough to demand a solid mount"
+    ],
+    "whoFor": "A shifter enthusiast who wants one premium unit covering both H-pattern and sequential with reference build quality.",
+    "rating": {
+      "overall": 8.7,
+      "value": 8,
+      "build": 9.5
+    },
+    "faqs": [
+      {
+        "q": "Can it do both H-pattern and sequential?",
+        "a": "Yes. A switch on the unit flips between 7-speed H-pattern and sequential modes on the fly, and Fanatec includes a dedicated knob for each."
+      },
+      {
+        "q": "Does it need a Fanatec base?",
+        "a": "No. It connects to Fanatec wheel bases directly, but the included USB adapter lets it run standalone on any PC rig."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold primarily direct at fanatec.com; certified-refurbished units appear periodically at a discount."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "thrustmaster-th8a",
+    "bay": "racing",
+    "type": "shifter",
+    "brand": "Thrustmaster",
+    "model": "TH8A Add-On Shifter",
+    "price": 160,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/thrustmaster-th8a.jpg",
+    "summary": "The Thrustmaster TH8A is the value benchmark in dedicated shifters, a 100% metal unit with a switchable 7+1 H-pattern and sequential modes for a fraction of the Fanatec SQ's price. Its H.E.A.R.T contactless Hall-effect sensors mean precision won't degrade over time, and the detachable knob accepts real universal aftermarket shifter knobs. It mounts to desks or shelves from 1-55mm thick or into a cockpit via the removable clamp, and works across PC, PlayStation and Xbox. Reviewers still rate it the smart-money shifter years after launch.",
+    "specs": {
+      "Type": "H-pattern (7+1) + sequential, switchable",
+      "Construction": "100% metal mechanism and stick",
+      "Sensors": "H.E.A.R.T contactless Hall-effect (no wear)",
+      "Knob": "Detachable, accepts universal aftermarket knobs",
+      "Mounting": "Desk/shelf 1-55mm or cockpit clamp",
+      "Connection": "USB",
+      "Platforms": "PC / PS5 / PS4 / Xbox"
+    },
+    "pros": [
+      "Both H-pattern and sequential at a value price",
+      "Contactless Hall sensors won't wear out",
+      "Detachable knob accepts real aftermarket shifter knobs"
+    ],
+    "cons": [
+      "Lever feel less weighty than the Fanatec SQ",
+      "Clamp mounting flexes more than a bolted rig",
+      "No dedicated sequential knob in the box"
+    ],
+    "whoFor": "A racer who wants a do-everything metal shifter with both modes at the best price, across PC and console.",
+    "rating": {
+      "overall": 8.3,
+      "value": 9.5,
+      "build": 8
+    },
+    "faqs": [
+      {
+        "q": "Does the TH8A work on console?",
+        "a": "Yes. It is multiplatform across PC, PS5, PS4 and Xbox Series X|S, unlike many PC-only sim shifters."
+      },
+      {
+        "q": "Will the sensors wear out?",
+        "a": "No. The TH8A uses contactless magnetic Hall-effect sensors, so precision is designed to stay consistent over the life of the unit."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Thrustmaster direct",
+      "note": "Widely sold on Amazon (often near $160) and at eshop.thrustmaster.com; standard Amazon affiliate path applies."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-sgp-shifter",
+    "bay": "racing",
+    "type": "shifter",
+    "brand": "MOZA",
+    "model": "SGP Sequential Shifter",
+    "price": 129,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-sgp-shifter.jpg",
+    "summary": "The MOZA SGP is a dedicated sequential shifter built from aerospace-grade aluminum and high-strength steel, using a non-contact Hall sensor for consistent, wear-free shifts. Its multi-functional lever lets you flick to neutral or reverse in supported titles, and shift resistance is adjustable via a single Allen bolt. Two RGB backlit mechanical buttons (eight color choices) and a 64mm height-adjustment range round it out, all tunable in MOZA Pit House. It pairs cleanly with the MOZA ecosystem but works on PC and console via the right base or adapter.",
+    "specs": {
+      "Type": "Sequential only",
+      "Construction": "Aerospace-grade aluminum + high-strength steel",
+      "Sensor": "Non-contact Hall (wear-free)",
+      "Lever": "Multi-function (neutral/reverse in supported sims)",
+      "Adjustment": "Allen-bolt resistance + 64mm height range",
+      "Buttons": "2 RGB backlit mechanical (8 colors)",
+      "Software": "MOZA Pit House"
+    },
+    "pros": [
+      "Premium all-metal build at a budget sequential price",
+      "Non-contact Hall sensor for consistent, wear-free shifts",
+      "Multi-function lever and Pit House tuning"
+    ],
+    "cons": [
+      "Sequential only, no H-pattern mode",
+      "Best functionality realized inside the MOZA ecosystem",
+      "Resistance adjustment is bolt-based, not on-the-fly"
+    ],
+    "whoFor": "A MOZA-ecosystem racer who wants a clean, well-built sequential shifter for rally, touring and sequential-gearbox cars.",
+    "rating": {
+      "overall": 8.4,
+      "value": 9,
+      "build": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Does the SGP do H-pattern?",
+        "a": "No. The SGP is a dedicated sequential shifter; if you need H-pattern, look at the Thrustmaster TH8A or Fanatec ClubSport Shifter SQ."
+      },
+      {
+        "q": "Can I use the SGP on console?",
+        "a": "Yes, when paired with a compatible MOZA wheelbase or adapter; full tuning happens through MOZA Pit House on PC."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / authorized retailers",
+      "note": "Sold direct at mozaracing.com and via authorized sim-racing retailers; limited Amazon presence."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-hbp-handbrake",
+    "bay": "racing",
+    "type": "handbrake",
+    "brand": "MOZA",
+    "model": "HBP Handbrake",
+    "price": 99,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/moza-hbp-handbrake.jpg",
+    "summary": "The MOZA HBP is the obvious budget pick in handbrakes, an aluminum unit that delivers a smooth, progressive hydraulic-style feel without the cost of true hydraulics. It mounts horizontally or vertically and offers mechanical adjustment of lever angle, orientation, hardness and usable travel, so you can dial it firm for aggressive drifting or progressive for rally and rallycross. It connects to the MOZA ecosystem over RJ11 or runs on any setup via USB. Reviewers consistently flag it as the value choice for anyone adding a handbrake on a tight budget.",
+    "specs": {
+      "Type": "Spring/damping (hydraulic-style feel)",
+      "Construction": "Aluminum, ~0.7 kg",
+      "Dimensions": "153 x 68.3 x 365.5 mm",
+      "Mounting": "Horizontal or vertical, M6 bolt pattern",
+      "Adjustment": "Lever angle, orientation, hardness, travel",
+      "Connection": "MOZA RJ11 or standalone USB"
+    },
+    "pros": [
+      "Smooth progressive feel that mimics hydraulics at a budget price",
+      "Extensive mechanical adjustment for drift or rally",
+      "Works standalone over USB, not just MOZA bases"
+    ],
+    "cons": [
+      "Not a true load-cell or real-hydraulic handbrake",
+      "Lightweight body benefits from a rigid mount",
+      "No on-the-fly resistance adjustment"
+    ],
+    "whoFor": "A drift or rally racer who wants a well-adjustable, progressive-feel handbrake for the least money.",
+    "rating": {
+      "overall": 8.3,
+      "value": 9.5,
+      "build": 8
+    },
+    "faqs": [
+      {
+        "q": "Is the HBP a real hydraulic handbrake?",
+        "a": "No, but it uses a spring/damping system that delivers a feel much closer to hydraulics than a simple microswitch rocker, and it is widely praised for the price."
+      },
+      {
+        "q": "Does the HBP need a MOZA base?",
+        "a": "No. It connects to MOZA bases over RJ11 but also runs standalone on any rig via its USB cable."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon",
+      "note": "Sold direct at mozaracing.com and via Amazon/Newegg; standard affiliate paths apply."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "fanatec-clubsport-handbrake-v15",
+    "bay": "racing",
+    "type": "handbrake",
+    "brand": "Fanatec",
+    "model": "ClubSport Handbrake V1.5",
+    "price": 130,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/fanatec-clubsport-handbrake-v15.jpg",
+    "summary": "The Fanatec ClubSport Handbrake V1.5 is an all-metal handbrake with a stainless-steel lever and soft foam grip that gives a firm, accurate pull. It uses a potentiometer to measure braking input (the newer V2 moves to a more tactile load-cell-style operation) and can mount horizontally like a sports car or vertically like a race car. A dedicated adapter lets it connect straight to ClubSport wheel bases, and it works across PC, PlayStation and Xbox. It is the established Fanatec-ecosystem handbrake and frequently goes on sale below list.",
+    "specs": {
+      "Type": "Potentiometer (analog)",
+      "Construction": "All metal, stainless-steel lever, foam grip",
+      "Mounting": "Horizontal (sports car) or vertical (race car)",
+      "Sensor": "Potentiometer braking measurement",
+      "Ecosystem": "Fanatec",
+      "Connection": "ClubSport base adapter or USB",
+      "Platforms": "PC / PlayStation / Xbox"
+    },
+    "pros": [
+      "Solid all-metal build with stainless-steel lever",
+      "Horizontal or vertical mounting for different car styles",
+      "Cross-platform across PC, PlayStation and Xbox"
+    ],
+    "cons": [
+      "Potentiometer sensing, not the load-cell feel of the V2",
+      "Best integrated inside the Fanatec ecosystem",
+      "Pricier than the MOZA HBP at list"
+    ],
+    "whoFor": "A Fanatec-ecosystem racer who wants a durable metal handbrake with flexible mounting and console support.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Is the V1.5 a load-cell handbrake?",
+        "a": "No. The V1.5 uses a potentiometer to measure braking input; the newer V2 moves to a more tactile load-cell-derived system."
+      },
+      {
+        "q": "Can it connect to my Fanatec wheel base?",
+        "a": "Yes. A dedicated adapter allows a direct connection to ClubSport wheel bases, or it can run over USB on PC."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct",
+      "note": "Sold direct at fanatec.com, frequently discounted below the ~$130 list; certified-refurbished units also appear."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "buttkicker-gamer-pro",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "ButtKicker",
+    "model": "Gamer PRO (BK-GR-PRO)",
+    "price": 200,
+    "priceNote": "approx 2026 street price",
+    "image": "/images/gear/racing/buttkicker-gamer-pro.jpg",
+    "summary": "The ButtKicker Gamer PRO is a tactile transducer that bolts to your rig or chair and turns in-game audio and telemetry into felt vibration, communicating wheel lock, kerbs, engine RPM and impacts through your seat. It uses ButtKicker's patented magnetic-suspension design for more power and accuracy than cheap voice-coil bass shakers, and ships with a 150-watt amplifier featuring a digital display, wireless remote and USB input. A universal clamp fits round or square posts roughly 1 to 1.77 inches, and it works even through headphones so you don't have to crank the room volume.",
+    "specs": {
+      "Type": "Tactile/bass transducer (haptic)",
+      "Driver": "Patented magnetic-suspension design",
+      "Amplifier": "150 W with digital display + wireless remote",
+      "Inputs": "USB input on amplifier",
+      "Mounting": "Universal clamp, ~1 to 1.77 in posts",
+      "Use": "Sim racing, flight sim, gaming; works with headphones"
+    },
+    "pros": [
+      "Adds a whole layer of felt immersion (kerbs, lock, RPM, impacts)",
+      "Magnetic-suspension driver hits harder and cleaner than voice-coil shakers",
+      "150W amp with remote works even through headphones"
+    ],
+    "cons": [
+      "Needs telemetry/audio routing software to shine in sim racing",
+      "Single unit, full immersion often wants multiple transducers",
+      "Adds bulk and another box to your rig"
+    ],
+    "whoFor": "A sim racer who wants visceral seat-of-the-pants feedback and to feel the car, not just see and hear it.",
+    "rating": {
+      "overall": 8.5,
+      "value": 8,
+      "build": 8.5
+    },
+    "faqs": [
+      {
+        "q": "How does a tactile transducer help in sim racing?",
+        "a": "It converts game audio or telemetry into vibration you feel through the seat, communicating wheel lock, kerb strikes, engine RPM and impacts for a much more immersive drive."
+      },
+      {
+        "q": "Is it better than a cheap bass shaker?",
+        "a": "Yes. ButtKicker's patented magnetic-suspension design delivers more power and accuracy than the voice-coil bass shakers it competes with, plus it ships with a proper 150W amplifier."
+      },
+      {
+        "q": "Does it work with headphones?",
+        "a": "Yes. The Gamer PRO produces its haptic effects even while you use headphones or a gaming headset, so you don't have to make the room loud for immersion."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / ButtKicker direct",
+      "note": "Sold on Amazon (model BK-GR-PRO) and at thebuttkicker.com; standard Amazon affiliate path applies."
+    },
+    "platforms": "PC"
+  }
+]

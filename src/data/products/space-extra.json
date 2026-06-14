@@ -1,0 +1,187 @@
+[
+  {
+    "id": "vkb-stecs-standard-mk2-throttle",
+    "bay": "space",
+    "type": "throttle",
+    "brand": "VKB",
+    "model": "STECS Throttle System Mk.II - Standard",
+    "price": 289,
+    "priceNote": "approx 2026 street price (US, Standard config; Mini Plus ~$229, Max higher)",
+    "image": "/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg",
+    "summary": "VKB's modular metal throttle and the brand's dedicated answer for HOTAS and hybrid pilots who want a real lever to pair with a Gladiator or Gunfighter stick. The Standard Mk.II sits on a heavy steel baseplate with non-slip pads, mounts to a rig or chair, and carries dual independent (linkable) throttle levers with a swappable detent system — five detent frames and a stack of L/V/W-shape inserts let you set afterburner gates, reverse stops or a space-cruise notch. It's loaded with on-grip controls including a pre-installed front ministick, a swappable side ministick and multiple hats, plus wheel encoders. For pure HOSAS it's optional, but it's a superb tunable throttle for cruise and power management.",
+    "specs": {
+      "axes": "Dual independent, linkable throttle axes + analog ministick(s) + analog wheel axis",
+      "grips": "MTG-L (2 buttons, 2 triggers, 2 wheel encoders) + MTG-R (2 triggers, ministick, wheel axis)",
+      "detents": "5 detent frames; L-shape, V-shape and W-shape inserts included for custom gates",
+      "ministicks": "Front ministick pre-installed; swappable side ministick from a 5-position hat",
+      "platform": "Steel baseplate, non-slip pads, MFH fixture for frontal extension modules",
+      "config": "VKBDevCfg software"
+    },
+    "pros": [
+      "Heavy steel platform and all-metal build at a sane price for the tier",
+      "Deeply tunable detent system — set custom afterburner, reverse or cruise notches",
+      "Dense on-throttle control count plus two ministicks for big bind coverage"
+    ],
+    "cons": [
+      "Optional for a pure HOSAS — the off-hand stick already handles thrust/strafe",
+      "VKBDevCfg software has a steep learning curve",
+      "Standard config and modules can run up the real cost"
+    ],
+    "whoFor": "HOTAS or hybrid space pilots who want a tunable metal throttle to pair with a VKB stick for cruise and power control.",
+    "rating": { "overall": 9, "value": 8, "build": 9, "spaceFit": 7 },
+    "faqs": [
+      { "q": "Do I need a throttle for space sims?", "a": "Not for a pure HOSAS — the off-hand stick covers thrust and lateral strafe. A throttle like the STECS shines for HOTAS players or anyone who wants a dedicated, tunable lever for cruise and power management." },
+      { "q": "Standard, Mini or Max?", "a": "The Standard is the balanced pick with dual levers and the full detent system. The Mini/Mini Plus are smaller and cheaper; the Max adds more modules. Most pilots are well served by the Standard." }
+    ],
+    "affiliate": { "primary": "vkbcontrollers.com", "note": "Sold direct via VKB North America; pick the config and any frontal extension modules at checkout." },
+    "platforms": "PC (most boutique gear is PC-only)"
+  },
+  {
+    "id": "elgato-stream-deck-xl",
+    "bay": "space",
+    "type": "button-box",
+    "brand": "Elgato",
+    "model": "Stream Deck XL",
+    "price": 250,
+    "priceNote": "approx 2026 street price (32-key XL; 15-key MK.2 ~$150)",
+    "image": "/images/gear/space/elgato-stream-deck-xl.jpg",
+    "summary": "The pragmatic fix for the single biggest pain in modern space sims: the 200-plus-bind problem. Star Citizen and Elite Dangerous have more functions than any stick has buttons, and the Stream Deck XL turns 32 customizable LCD keys into a labeled, icon-driven panel for power triage, weapon groups, shield pips, landing gear, comms and macro chains. Each key shows a custom image so you never hunt for an unmarked switch, and folders let one button open a sub-page of more buttons for effectively unlimited binds. It maps to keyboard shortcuts via the Stream Deck app (and community plugins for Elite), works on PC and Mac, and is rock-solid streaming-grade hardware.",
+    "specs": {
+      "keys": "32 customizable LCD keys (XL); MK.2 has 15, the + adds dials + a touch strip",
+      "labels": "Per-key custom icons/images — every function is visibly labeled",
+      "folders": "Nested folders/pages for effectively unlimited binds from 32 physical keys",
+      "integration": "Stream Deck software maps to keyboard shortcuts; community plugins for Elite Dangerous",
+      "build": "Streaming-grade panel with a magnetic stand",
+      "platforms": "PC and Mac (USB)"
+    },
+    "pros": [
+      "Directly solves the 200+ bind problem with 32 labeled, icon-driven keys",
+      "Folders/pages give effectively unlimited binds and macro chains",
+      "Cross-platform (PC + Mac) and famously reliable hardware"
+    ],
+    "cons": [
+      "Not flight hardware — it's keyboard-shortcut mapping, not analog axes",
+      "Deep integration for Elite/Star Citizen leans on community plugins/setup",
+      "The XL costs more than the 15-key MK.2 many pilots find sufficient"
+    ],
+    "whoFor": "Any space pilot drowning in keybinds who wants a labeled macro panel for power management, weapon groups and ship systems alongside their stick.",
+    "rating": { "overall": 9, "value": 8, "build": 9, "spaceFit": 8 },
+    "faqs": [
+      { "q": "Why use a Stream Deck for a space sim?", "a": "Space sims have far more functions than any stick has buttons. A Stream Deck gives you 32 labeled keys (with folders for more) for power triage, weapon groups, shields, gear and comms — so you stop memorizing unmarked binds." },
+      { "q": "XL or the cheaper MK.2?", "a": "The 15-key MK.2 (~$150) is plenty for many pilots. Step up to the 32-key XL if you fly bind-heavy ships in Star Citizen or run lots of macro pages and want everything one press away." }
+    ],
+    "affiliate": { "primary": "elgato.com", "note": "Widely stocked at Amazon and Best Buy; the 15-key MK.2 is the budget alternative to the XL." },
+    "platforms": "PC and Mac (cross-platform macro panel — pairs with any stick)"
+  },
+  {
+    "id": "thrustmaster-mfd-cougar-pack",
+    "bay": "space",
+    "type": "panel",
+    "brand": "Thrustmaster",
+    "model": "MFD Cougar Pack (2 panels)",
+    "price": 110,
+    "priceNote": "approx 2026 street price for the 2-panel pack",
+    "image": "/images/gear/space/thrustmaster-mfd-cougar-pack.jpg",
+    "summary": "A long-running, affordable pair of physical cockpit panels — replicas of the F-16's Multi-Function Display bezels — that flank a screen or monitor to add tactile button real estate. Each panel rings a display with 20 push buttons plus four selector switches, for 48 programmable controls across the pack, all over USB. In a space sim they make a cheap, sturdy way to offload MFD-style functions (targeting, scanning, power, comms) onto labeled hardware around your monitor, and the included brackets and feet let you stand them on the desk or screw them to a rig. They're dated and purely digital (no analog axes), but the value-per-button is hard to beat.",
+    "specs": {
+      "panels": "2 MFD bezel panels (USB)",
+      "buttons": "20 push buttons + 4 selector switches per panel (48 programmable inputs total)",
+      "mounting": "Brackets and feet to frame a monitor, stand on desk, or screw to a rig",
+      "compatibility": "PC; works alongside any stick/throttle as a supplementary panel",
+      "build": "Plastic bezels, long-standing reliable design",
+      "config": "Maps as standard buttons; no software required"
+    },
+    "pros": [
+      "48 programmable buttons across two panels for a low price",
+      "Frame a monitor to put MFD-style functions on labeled hardware",
+      "Simple plug-and-play USB — recognized as standard buttons"
+    ],
+    "cons": [
+      "Dated F-16 styling and all-plastic construction",
+      "Digital only — no analog axes or display readout of its own",
+      "Unlabeled keys mean you supply your own legend/overlay"
+    ],
+    "whoFor": "Budget cockpit-builders who want lots of cheap, tactile buttons framing a monitor for ship-system and targeting functions.",
+    "rating": { "overall": 7, "value": 9, "build": 6, "spaceFit": 7 },
+    "faqs": [
+      { "q": "What does the MFD Cougar Pack add to a space sim?", "a": "Two physical panels with 48 buttons total that frame a monitor, giving you tactile keys for MFD-style functions — targeting, scanning, power, comms — instead of reaching for the keyboard." },
+      { "q": "Does it have a screen?", "a": "No. Despite the 'Multi-Function Display' name these are button bezels meant to surround your own monitor; they add buttons and switches, not a readout." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Sold as a 2-panel pack at Amazon and flight-sim retailers; pair with your own monitor." },
+    "platforms": "PC (supplementary button panel — works with any stick/throttle)"
+  },
+  {
+    "id": "logitech-x52-pro-hotas",
+    "bay": "space",
+    "type": "stick",
+    "brand": "Logitech",
+    "model": "G X52 Pro Flight Control System",
+    "price": 230,
+    "priceNote": "approx 2026 street price (non-Pro X52 ~$160; frequently discounted)",
+    "image": "/images/gear/space/logitech-x52-pro-hotas.jpg",
+    "summary": "The mainstream single-stick HOTAS that's explicitly marketed for space and flight sims, and a familiar on-ramp for newcomers who want one complete, plug-and-play package instead of building a boutique rig. The Pro pairs a twisting stick (3D twist rudder, so it can reach the yaw axis a Warthog can't) with an integrated throttle, a multifunction LCD that shows in-game data, and a large count of illuminated, programmable buttons, hats and a mode selector. Build is plastic and the springs are light versus boutique gear, but it's comfortable, widely available, and one of the cheapest ways to get a stick, throttle, twist and an info display in a single box.",
+    "specs": {
+      "configuration": "Single twisting stick + integrated throttle (one-box HOTAS)",
+      "twist": "3D twist rudder on the stick (covers yaw — unlike the Warthog)",
+      "display": "Multifunction backlit LCD for in-game data + a clock",
+      "buttons": "Large count of illuminated programmable buttons, hats + mode selector",
+      "build": "Plastic body, light dual-spring centering, USB",
+      "config": "Logitech G software / in-game binding"
+    },
+    "pros": [
+      "Stick + throttle + twist + LCD in one affordable, plug-and-play box",
+      "Twisting stick reaches the yaw axis many fixed HOTAS sticks miss",
+      "Mass availability and illuminated buttons for night flying"
+    ],
+    "cons": [
+      "Plastic build and light springs vs boutique sticks",
+      "Single stick, not a HOSAS — less flexible for six-axis strafe",
+      "Hall-effect precision lags VKB/Virpil/WinWing magnetic sticks"
+    ],
+    "whoFor": "Newcomers who want one complete, budget-friendly HOTAS box for space and flight before deciding whether to invest in a boutique rig.",
+    "rating": { "overall": 7, "value": 8, "build": 6, "spaceFit": 7 },
+    "faqs": [
+      { "q": "Is the X52 Pro good for Star Citizen / Elite Dangerous?", "a": "It's a solid, affordable entry HOTAS marketed for space sims, and the twisting stick covers yaw. For serious six-axis control most pilots eventually move to a HOSAS, but the X52 Pro is a comfortable, complete starting point." },
+      { "q": "X52 or X52 Pro?", "a": "The Pro adds a better multifunction LCD, smoother metal-shaft stick and a few refinements over the standard X52. If the price gap is small, the Pro is the nicer buy; otherwise the standard X52 plays the same role for less." }
+    ],
+    "affiliate": { "primary": "logitechg.com", "note": "Sold at Logitech, Amazon and Best Buy; the non-Pro X52 is the cheaper sibling and frequently on sale." },
+    "platforms": "PC (USB)"
+  },
+  {
+    "id": "winwing-ursa-minor-combat-throttle-metal",
+    "bay": "space",
+    "type": "throttle",
+    "brand": "WinWing",
+    "model": "URSA Minor Combat Throttle (Metal)",
+    "price": 155,
+    "priceNote": "approx 2026 street price (entry-level metal throttle)",
+    "image": "/images/gear/space/winwing-ursa-minor-combat-throttle-metal.jpg",
+    "summary": "WinWing's entry-level metal throttle and the budget answer to the dedicated-throttle question — the lever counterpart to its popular Ursa Minor sticks. It brings hall-effect (non-contact magnetic) sensing for a precise, drift-free throttle axis into a metal-bodied unit at a price well under the VKB STECS or Virpil flagship throttles. Configured in SimAppPro and slotting into WinWing's wider panel/MFD ecosystem, it's a sensible single-axis throttle for HOTAS or hybrid space pilots who want a real lever for cruise and power without spending boutique money. The trade-off is a simpler control count and feel than the premium modular throttles.",
+    "specs": {
+      "sensors": "Hall-effect (non-contact magnetic) throttle axis — drift-resistant",
+      "build": "Metal-bodied entry-level combat throttle",
+      "ecosystem": "Ties into WinWing's Orion bases, panels and MFDs",
+      "controls": "On-throttle buttons/hats (fewer than flagship modular throttles)",
+      "mounting": "Desktop base; rig/clamp-mountable",
+      "config": "SimAppPro software"
+    },
+    "pros": [
+      "Hall-effect throttle precision in a metal body at a budget price",
+      "Far cheaper than VKB STECS or Virpil flagship throttles",
+      "Plugs into WinWing's panel/MFD ecosystem for expansion"
+    ],
+    "cons": [
+      "Fewer on-throttle controls than premium modular throttles",
+      "Optional for a pure HOSAS, which doesn't need a lever",
+      "SimAppPro required for tuning"
+    ],
+    "whoFor": "Budget HOTAS or hybrid space pilots who want a real, precise throttle lever without paying boutique flagship prices.",
+    "rating": { "overall": 8, "value": 9, "build": 8, "spaceFit": 7 },
+    "faqs": [
+      { "q": "How is this cheaper than the VKB STECS or Virpil throttle?", "a": "It's an entry-level single-unit throttle with a simpler control count and module system than the modular flagships, but it keeps hall-effect sensing and a metal body — so you get a precise, drift-free throttle axis for much less." },
+      { "q": "Do I need a throttle at all for space?", "a": "Not for a pure HOSAS, where the off-hand stick handles thrust and strafe. This throttle is for HOTAS or hybrid pilots who want a dedicated lever for cruise and power management." }
+    ],
+    "affiliate": { "primary": "winwingsim.com (US store)", "note": "Entry-level metal throttle; pairs with WinWing Orion bases and panels, configured in SimAppPro." },
+    "platforms": "PC (most boutique gear is PC-only)"
+  }
+]

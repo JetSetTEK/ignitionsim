@@ -1,0 +1,194 @@
+[
+  {
+    "id": "leobodnar-bbi-32-button-box-interface",
+    "bay": "marine",
+    "type": "diy-board",
+    "brand": "Leo Bodnar Electronics",
+    "model": "BBI-32 Button Box Interface (with connectors)",
+    "price": 53,
+    "priceNote": "approx 2026 price (GBP 40.20, ~$53 USD before shipping)",
+    "image": "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "summary": "The no-code, no-solder companion board for a DIY bridge console — where the BU0836-series adds analog axes, the BBI-32 is the dedicated digital-input workhorse for every switch, encoder and momentary button on a ship's bridge. Push-in terminals (no soldering, no screwdriver) take 32 independent buttons/switches or up to 16 rotary encoders, and you can daisy-chain rotary switches for up to 132 inputs — enough for a full panel of nav-light toggles, horn, autopilot and engine-room commands. It appears as a plug-and-play HID controller on Windows and Mac with no drivers. The honest caveat: it has no analog inputs at all, so it's a complement to a BU0836 for the throttles and wheel, not a replacement. It ships from the UK, so add shipping and lead time.",
+    "specs": {
+      "analogInputs": "None (digital-only board)",
+      "digitalInputs": "32 independent buttons/switches",
+      "encoders": "Up to 16 rotary encoders; chainable rotary switches to 132 inputs",
+      "drivers": "None required (Windows/Mac plug-and-play)",
+      "connection": "USB Type B",
+      "size": "~3.37 x 2.13 x 0.63 in (credit-card footprint)",
+      "marineRole": "DIY bridge button/switch/encoder panel interface"
+    },
+    "pros": [
+      "Solderless push-in terminals — wire 32 switches and encoders with no tools",
+      "Daisy-chainable rotary switches scale to 132 inputs for a full bridge panel",
+      "Plug-and-play HID on Windows and Mac, no drivers, made in the UK"
+    ],
+    "cons": [
+      "No analog inputs — needs a BU0836 alongside it for throttles and wheel",
+      "You still build the enclosure, panel and wiring yourself",
+      "Ships from the UK, so factor in shipping cost and lead time"
+    ],
+    "whoFor": "DIY helm builders who want a clean, solderless way to wire a full panel of bridge switches, knobs and encoders alongside their analog board.",
+    "rating": { "overall": 9, "value": 9, "marineFit": 9 },
+    "faqs": [
+      { "q": "What's the difference between the BBI-32 and the BU0836A?", "a": "The BU0836A handles analog axes (pots for throttles and the wheel) plus buttons; the BBI-32 is digital-only but takes far more switches and encoders. Many bridge builds use a BU0836 for axes and a BBI-32 for the switch panel." },
+      { "q": "Do I need to solder for the BBI-32?", "a": "No — the with-connectors version uses push-in terminals, so you just strip a wire and push it in. No soldering or screwdriver needed." },
+      { "q": "How many switches can a BBI-32 really handle?", "a": "32 independent digital inputs natively, up to 16 rotary encoders, and by chaining rotary switches you can reach as many as 132 inputs — enough for an elaborate bridge console." }
+    ],
+    "affiliate": { "primary": "leobodnar", "note": "Buy direct from leobodnar.com (with-connectors version); US makers can also source via Ricmotech. Pair with a BU0836 for analog axes." },
+    "platforms": "PC"
+  },
+  {
+    "id": "leobodnar-bu0836x-diy-board",
+    "bay": "marine",
+    "type": "diy-board",
+    "brand": "Leo Bodnar Electronics",
+    "model": "BU0836X Joystick Interface (push-in connectors)",
+    "price": 77,
+    "priceNote": "approx 2026 price (GBP 59.99, ~$77 USD before shipping)",
+    "image": "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "summary": "The solderless big brother of the BU0836A — the same proven Leo Bodnar interface behind most DIY ship-helm builds, but with push-in wire terminals so you can wire pots, switches and encoders with no soldering iron at all. It gives you 8 analog axes at 12-bit resolution (4096 steps each) for two throttles, a wheel and a thruster, plus 32 buttons, up to 16 encoders and an 8-way hat. Plug-and-play HID on Windows, Mac and Linux, no drivers. For a marine builder this is the one-board answer to the full Bridge Command recipe (three 10k pots plus a horn button) without touching solder. The honest caveat: it's pricier than the BU0836A you'd solder yourself, and you still fabricate the enclosure, levers and friction.",
+    "specs": {
+      "analogInputs": "8 axes, 12-bit (4096 steps each)",
+      "digitalInputs": "32 buttons; up to 16 rotary encoders",
+      "hat": "1 POV hat, 8 directions",
+      "drivers": "None required (Windows/Mac/Linux plug-and-play)",
+      "connection": "USB Type B, full-speed",
+      "size": "~123 x 49.5 x 16.1 mm",
+      "marineRole": "Solderless DIY helm + throttle + switch interface"
+    },
+    "pros": [
+      "Push-in connectors — wire the full Bridge Command helm recipe with zero soldering",
+      "8 analog axes plus 32 buttons covers twin throttles, wheel, thruster and a panel on one board",
+      "Driver-free HID on Windows, Mac and Linux"
+    ],
+    "cons": [
+      "Pricier than the solder-it-yourself BU0836A for the same core capability",
+      "You still build the enclosure, levers, friction and panel",
+      "Ships from the UK, so add shipping and lead time"
+    ],
+    "whoFor": "DIY helm builders who want the proven Bodnar axis-and-button board but prefer solderless push-in wiring to a soldering iron.",
+    "rating": { "overall": 9, "value": 8, "marineFit": 9 },
+    "faqs": [
+      { "q": "BU0836X or BU0836A for a DIY helm?", "a": "Same core capability — 8 axes, 32 buttons, 12-bit. The X uses solderless push-in connectors and costs a bit more; the A is cheaper but you solder. Pick the X if you'd rather not solder." },
+      { "q": "Can the BU0836X run a twin-throttle ship build?", "a": "Yes — its 8 analog axes easily cover two throttles, a wheel and a bow thruster, with 32 buttons left over for horn, lights and bridge commands." },
+      { "q": "Does the BU0836X need drivers or software?", "a": "No. It's a native HID joystick on Windows, Mac and Linux — plug it in and your pots and switches read as real axes and buttons immediately." }
+    ],
+    "affiliate": { "primary": "leobodnar", "note": "Buy direct from leobodnar.com (push-in connector version); pair with 10k linear pots for the Bridge Command helm recipe." },
+    "platforms": "PC"
+  },
+  {
+    "id": "pxn-cb1-button-box",
+    "bay": "marine",
+    "type": "button-box",
+    "brand": "PXN",
+    "model": "CB1 Sim Control Button Box",
+    "price": 80,
+    "priceNote": "approx 2026 street price ($75-90)",
+    "image": "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "summary": "A ready-made, plug-and-play button box for builders who want a finished bridge-command panel without the DIY fabrication of a Bodnar board. The CB1 packs 19 physical controls across 9 types — 2 pushable rotary encoders, 6 momentary buttons, 2 latching buttons, a covered toggle, an engine-start button and more — mapped to up to 30 programmable functions, which is plenty for nav lights, horn, autopilot, anchor and engine-room toggles in a ship sim. It's driver-free over USB-C, mounts on a desk or VESA arm, and adds adjustable RGB backlighting. The honest framing: it's marketed for racing/truck/farming sims, so for marine use you map its buttons to your title's commands, and being all-digital it complements an analog throttle or wheel rather than replacing one.",
+    "specs": {
+      "controls": "19 controls / 9 types (2 pushable encoders, 6 momentary, 2 latching, covered toggle, engine-start, more)",
+      "programmable": "Up to 30 programmable functions",
+      "connection": "USB-C (driver-free; USB-C and USB-A cables included)",
+      "mounting": "Desk-top or VESA mount",
+      "build": "ABS, ~184 x 144 x 79 mm, ~540 g, adjustable RGB backlight",
+      "marineRole": "Pre-built bridge command / switch-and-encoder panel"
+    },
+    "pros": [
+      "Finished, plug-and-play panel — no soldering, enclosure or fabrication",
+      "19 controls and 30 programmable functions cover a full bridge command set",
+      "Driver-free USB-C with desk or VESA mounting and adjustable RGB backlight"
+    ],
+    "cons": [
+      "Marketed for racing/truck/farming sims — you map buttons to marine commands yourself",
+      "All-digital: no analog axis, so it complements rather than replaces a throttle or wheel",
+      "RGB and racing styling won't match a realistic bridge aesthetic for purists"
+    ],
+    "whoFor": "Builders who want a ready-made, no-DIY button box for bridge commands and don't mind mapping the buttons to their marine sim.",
+    "rating": { "overall": 8, "value": 8, "marineFit": 7 },
+    "faqs": [
+      { "q": "Can the PXN CB1 be used for a ship sim bridge?", "a": "Yes — its 19 controls and up to 30 programmable functions map cleanly to nav lights, horn, autopilot, anchor and engine commands. It's marketed for racing and truck sims, so you assign the buttons to your marine title." },
+      { "q": "Is the PXN CB1 plug-and-play?", "a": "Yes — it's driver-free over USB-C and includes both USB-C and USB-A cables. Plug it in and bind the buttons in your sim's controls menu." },
+      { "q": "Does the CB1 replace a throttle or wheel?", "a": "No — it's an all-digital button and encoder panel with no analog axis. Use it alongside an analog throttle quadrant or a repurposed wheel." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC USB-C, driver-free; pair with an analog throttle quadrant or DIY board for the axes the CB1 doesn't provide." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-saitek-pro-flight-switch-panel",
+    "bay": "marine",
+    "type": "panel",
+    "brand": "Logitech G",
+    "model": "Saitek Pro Flight Switch Panel (as bridge panel)",
+    "price": 110,
+    "priceNote": "approx 2026 street price ($100-130)",
+    "image": "/images/gear/marine/logitech-saitek-pro-flight-switch-panel.jpg",
+    "summary": "A flight-sim switch panel repurposed as a heavy-duty, multi-function bridge console — the most realistic-looking off-the-shelf panel for a marine rig. It carries a bank of toggle switches, a five-position rotary magneto knob and a real lever with status LEDs (gear up/down in flight sims) that maps neatly to marine functions: nav and deck lighting toggles, an engine-mode rotary, and a lever with lit feedback for windlass, thrusters or running lights. It's plug-and-play USB and stacks/brackets cleanly with other Saitek panels into a full bridge stack. The honest caveat: like everything in the marine bay it's a repurpose, its labels read 'BATT/ALT/AVIONICS,' and it's all-digital — pair it with an analog throttle or wheel. But for a believable lit panel of switches, nothing else off the shelf comes close at the price.",
+    "specs": {
+      "switches": "Bank of toggle switches + 5-position rotary magneto-style knob",
+      "lever": "Physical lever with status LEDs (gear-style up/down feedback)",
+      "functions": "Controls ~14 mappable functions in one unit",
+      "connection": "USB 2.0 full-speed, plug-and-play",
+      "build": "~11 x 2.5 x 3.3 in, ~1.2 lb; brackets/stacks with other Saitek panels",
+      "marineRole": "Repurposed lit bridge switch/rotary/lever panel"
+    },
+    "pros": [
+      "Real toggle switches, a rotary knob and a lever with status LEDs — a convincing lit panel",
+      "Plug-and-play USB; stacks/brackets into a full multi-panel bridge console",
+      "Best-looking off-the-shelf panel for the money for a realistic bridge aesthetic"
+    ],
+    "cons": [
+      "A flight panel repurposed — labels read aviation, not marine",
+      "All-digital: no analog axis, so pair it with a throttle or wheel for steering/engines",
+      "Status LEDs are wired to flight-sim gear logic; marine mapping needs your sim's bindings"
+    ],
+    "whoFor": "Builders who want a believable, lit switch-and-lever bridge panel out of the box and will map its functions to nav lights, thrusters and engine modes.",
+    "rating": { "overall": 8, "value": 7, "marineFit": 7 },
+    "faqs": [
+      { "q": "Can a flight switch panel work as a ship's bridge panel?", "a": "Yes — its toggles, rotary knob and lit lever map well to nav lights, an engine-mode rotary and a windlass/thruster lever. The labels read aviation, but the controls bind to any function your marine sim exposes." },
+      { "q": "Do the panel's LEDs work in marine sims?", "a": "The status LEDs are driven by flight-sim gear logic, so lit feedback depends on your title; the switches and rotary themselves bind to any command in the sim's controls menu." },
+      { "q": "Can I build a full bridge console from Saitek panels?", "a": "Yes — the Switch Panel brackets and stacks with other Saitek Pro Flight panels (radio, multi) into a combined console, each appearing as its own USB controller." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC USB plug-and-play; all-digital, so combine with an analog throttle quadrant or repurposed wheel for axes." },
+    "platforms": "PC"
+  },
+  {
+    "id": "logitech-saitek-radio-panel-rotary",
+    "bay": "marine",
+    "type": "panel",
+    "brand": "Logitech G",
+    "model": "Saitek Pro Flight Radio Panel (as rotary/encoder panel)",
+    "price": 150,
+    "priceNote": "approx 2026 street price ($150-180)",
+    "image": "/images/gear/marine/logitech-saitek-radio-panel-rotary.jpg",
+    "summary": "A flight radio panel repurposed as a quality USB rotary-encoder and display panel — the off-the-shelf way to add real tuning dials with lit numeric readouts to a bridge rig. It carries dual concentric rotary encoders (big-and-small, push-to-switch) and four bright LED readouts that, in marine use, suit VHF channel selection, autopilot heading set, depth/course readouts or any value you tune by a knob rather than a button. It's plug-and-play USB and brackets into the same Saitek panel stack as the Switch Panel. The honest caveats: it's the priciest item here and a clear repurpose — the LED displays are driven by flight-sim radio logic, so on-screen numeric feedback depends on your title and may need plugin glue, while the encoders themselves bind to any rotary command. For tactile dial-tuning controls, though, it's the standout panel.",
+    "specs": {
+      "encoders": "Dual concentric rotary encoders (large+small, push-to-select), x2 banks",
+      "displays": "4 bright LED numeric readouts",
+      "modeSelector": "Rotary mode selector for switching tuned values",
+      "connection": "USB 2.0, plug-and-play",
+      "stacking": "Brackets/stacks with other Saitek Pro Flight panels",
+      "marineRole": "Repurposed rotary-encoder + LED-readout tuning panel"
+    },
+    "pros": [
+      "Dual concentric push-encoders give real, tactile dial tuning for headings, channels or course",
+      "Four lit LED readouts add genuine numeric feedback to a bridge console",
+      "Plug-and-play USB; stacks into the same Saitek bridge panel system"
+    ],
+    "cons": [
+      "Most expensive item here and a clear flight-radio repurpose",
+      "LED displays are driven by flight-sim radio logic — marine numeric feedback may need plugin glue",
+      "All-digital encoders: bind to rotary commands, but provide no analog axis"
+    ],
+    "whoFor": "Bridge builders who want tactile rotary dials with lit readouts for VHF, autopilot heading or course selection and will accept a flight-panel repurpose.",
+    "rating": { "overall": 7, "value": 6, "marineFit": 6 },
+    "faqs": [
+      { "q": "Why use a flight radio panel for a ship sim?", "a": "Its dual concentric push-encoders and lit readouts are ideal for dial-tuned values — VHF channels, autopilot heading, course — which no marine-specific panel sells off the shelf. The encoders bind to any rotary command in your sim." },
+      { "q": "Will the LED displays show marine data?", "a": "The readouts are driven by flight-sim radio logic, so live numeric feedback in a marine title depends on the sim and may require plugin glue. The physical encoders work regardless." },
+      { "q": "Does it pair with the Saitek Switch Panel?", "a": "Yes — both brackets and stacks into one Saitek Pro Flight panel console, each enumerating as its own USB controller, for a combined switch-plus-rotary bridge." }
+    ],
+    "affiliate": { "primary": "amazon", "note": "PC USB plug-and-play; pairs with the Switch Panel and an analog throttle for a full bridge stack." },
+    "platforms": "PC"
+  }
+]

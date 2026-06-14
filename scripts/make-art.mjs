@@ -156,15 +156,15 @@ for (const bay of bays) {
 }
 // gear product images (one per product across all bays)
 const PROD = join(root, 'src', 'data', 'products');
-for (const bay of bays) {
-  const f = join(PROD, `${bay}.json`);
-  if (!existsSync(f)) continue;
-  let list = [];
-  try { list = JSON.parse(await readFile(f, 'utf8')); } catch { continue; }
-  for (const p of list) {
-    if (!p || !p.id) continue;
-    await render(`gear/${bay}/${p.id}.jpg`, { w: 1280, h: 800, bay, seed: `gear-${bay}-${p.id}` });
-    count++;
+if (existsSync(PROD)) {
+  for (const f of (await readdir(PROD)).filter((x) => x.endsWith('.json'))) {
+    let list = [];
+    try { list = JSON.parse(await readFile(join(PROD, f), 'utf8')); } catch { continue; }
+    for (const p of list) {
+      if (!p || !p.id || !p.bay) continue;
+      await render(`gear/${p.bay}/${p.id}.jpg`, { w: 1280, h: 800, bay: p.bay, seed: `gear-${p.bay}-${p.id}` });
+      count++;
+    }
   }
 }
 console.log(`Done. ${count} images rendered.`);
