@@ -36,8 +36,11 @@
   "disclosure": "IgnitionSim is reader-supported. When you buy through links on our site we may earn an affiliate commission at no extra cost to you — it never changes our verdict or your price. As an Amazon Associate we earn from qualifying purchases.",
   "founded": "2026",
   "analytics": {
-    "provider": "",
-    "websiteId": "",
-    "src": ""
+    "provider": "umami",
+    "websiteId": "2db5a7e2-92ec-489e-93b6-e9a6cf532a0b",
+    "src": "https://cloud.umami.is/script.js"
+  },
+  "affiliate": {
+    "amazonTag": "puzzlewick-20"
   }
 }

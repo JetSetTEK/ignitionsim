@@ -16,7 +16,10 @@ const p = product;
 const imgs: string[] = (Array.isArray(p.images) && p.images.length) ? p.images : [p.image];
 const bay = bays.find((b) => b.slug === p.bay)!;
 const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
-const buyUrl = `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}`;
+const amazonTag = (site as any).affiliate?.amazonTag;
+const buyUrl = p.amazonAsin
+  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
+  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
 const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
 const brandIds = new Set((((Object.values(brandMods)[0] as any)?.default) || []).map((b: any) => b.id));
 const brandSlug = String(p.brand).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
@@ -102,7 +105,7 @@ const typeLabel = (p.type || '').replace(/-/g, ' ');
         <div class="gh-price">{p.price ? `~$${p.price.toLocaleString()}` : 'Price varies'} <small>{p.priceNote || ''}</small></div>
         <p style="color:#cdd6e4;margin-top:6px">{p.summary}</p>
         <div class="gh-cta">
-          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Find at retailers ▸</a>
+          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Check price on Amazon ▸</a>
           <button class="btn" data-garage={`${p.bay}/${p.id}`} data-event="garage_save">☆ Save to Garage</button>
           {hasBrandPage && <a class="btn" href={`/brand/${brandSlug}`}>More {p.brand} →</a>}
           <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
