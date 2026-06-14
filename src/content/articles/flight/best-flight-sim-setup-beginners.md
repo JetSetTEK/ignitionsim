@@ -43,17 +43,64 @@ For airliner-leaning newcomers, the alternative is the **Thrustmaster TCA Sidest
 
 At this tier you do not buy pedals. Every device here has a twist or rocker rudder axis, and it is plenty for early flying.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/logitech-g-pro-flight-yoke-system"><span class="gp-tag">Best first buy</span><img src="/images/gear/flight/logitech-g-pro-flight-yoke-system.jpg" alt="Logitech G (Saitek) G PRO Flight Yoke System" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Yoke + throttle bundle · 75 programmable controls</span>
+    <span class="gp-name"><a href="/flight/gear/logitech-g-pro-flight-yoke-system">Logitech G (Saitek) G PRO Flight Yoke System</a></span>
+    <p class="gp-why">A yoke and a three-lever throttle in one box for the price of either alone elsewhere. The aging pots drift over years and it won't impress a cockpit builder — none of which matters when you're learning. The cheapest credible way to fly GA properly.</p>
+    <span class="gp-price">~$180</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/logitech-g-pro-flight-yoke-system">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+PRO+Flight+Yoke+System&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Build 2 — The $300 "I'm committed to GA" cockpit
 
 This is where most people who stick with the hobby end up within a few months. The anchor is the **Honeycomb Alpha Flight Controls Yoke** (around $250-280). It is a 180-degree steel-shaft yoke with proper self-centering feel and an integrated switch and ignition panel right on the base — master, avionics, lights, and a five-position magneto/ignition knob. That panel alone removes a dozen mouse-clicks from every flight.
 
 Run the Alpha alongside the throttle quadrant you already own from Build 1, or a cheap standalone quadrant, and add a set of rudder pedals when budget allows. Hold off on the premium throttle for now; the Alpha by itself transforms GA flying, and you will know exactly what you want next.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">The GA anchor</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">GA yoke · 180° steel shaft, integrated ignition panel</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <p class="gp-why">The yoke that turns Build 2 into a real cockpit. Proper self-centering feel you can trim against, plus a base panel of master, avionics, lights and a five-position ignition knob that lifts a dozen mouse-clicks out of every flight.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Build 3 — The $500 enthusiast standard
 
 The **Honeycomb Alpha + Bravo bundle** (around $500) is the most-recommended GA cockpit in the hobby, and for good reason. The **Bravo Throttle Quadrant** (around $250-300 on its own) brings six swappable levers — single-lever GA, dual and quad commercial — plus a genuine autopilot panel, an annunciator panel, a trim wheel, and a gear lever. Together the Alpha and Bravo cover the vast majority of what a GA or light-twin pilot touches, in hardware, without diving into menus.
 
 This is the build I point most newcomers toward if they already know flight sim is going to stick. It scales: the natural next step is the **Honeycomb Charlie** rudder pedals to complete the matched three-piece deck. I walk through that staged path in detail in [the GA cockpit upgrade path](/flight/honeycomb-flight-deck-upgrade-path).
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">The multiplier</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Throttle quadrant · 6 levers + autopilot panel</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
+    <p class="gp-why">What turns the Alpha into the enthusiast standard. Six swappable levers cover single-engine to four-engine, and the built-in autopilot panel, annunciator, trim wheel and gear lever pull your whole cruise workflow off the screen and onto hardware.</p>
+    <span class="gp-price">~$280</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Fly each piece for a few weeks before buying the next. The Alpha alone tells you whether you want the Bravo's autopilot panel or just a cheap quadrant — and a month of flying teaches you where everything should sit on the desk, which no spec sheet can.</p>
+</div>
 
 ## The three builds at a glance
 

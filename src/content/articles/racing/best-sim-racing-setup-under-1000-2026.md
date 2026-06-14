@@ -52,11 +52,39 @@ This is the heart of the rig and the easiest place to get it right in 2026. The 
 
 For a PC build, the **MOZA R9 or R12** is the obvious anchor. If you might play PS5 or Xbox too, the **CSL DD** family is your lane — buy for your whole gaming life, not just one sim.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Base pick</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">For $30 over the R9 you get the practical torque ceiling and extra ports so pedals and a handbrake plug into the base, not your PC. The smart anchor for a PC build you don't intend to rebuy.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 2: The pedals (~$250-300) — do not cheap out here
 
 This is where most budget builds go wrong, and where I'll be blunt: **a load-cell brake matters more than another 3Nm of base torque.** Load-cell pedals sense *pressure*, not travel, so your braking becomes repeatable — and repeatable braking is the entire foundation of consistent lap times. A potentiometer brake that you press by distance will sabotage you every single lap.
 
 The **MOZA SR-P** and **Fanatec CSL** load-cell sets land comfortably under $300 and deliver excellent brake feel. If the build is tight, this is the *last* place to economize — I'd downgrade the rim or skip the shifter before I'd ship a budget rig with a non-load-cell brake. This is the whole [pedals-over-power](/racing/pedals-over-power) argument, and it's the single most important sentence in this guide.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-csl-lc"><span class="gp-tag">Pedal pick</span><img src="/images/gear/racing/fanatec-csl-lc.jpg" alt="Fanatec CSL Pedals LC load-cell set" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Load-cell pedals · configurable brake</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-csl-lc">Fanatec CSL Pedals LC</a></span>
+    <p class="gp-why">The spring-and-elastomer brake stack is the cheapest honest load cell going — tunable trail-braking feel that fits the budget with room to spare. Brand-agnostic alternative if you're not on Fanatec: the MOZA CRP2 at ~$300.</p>
+    <span class="gp-price">~$249</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-csl-lc">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Step 3: The mount (~$200-300) — rigidity is a performance feature
 
@@ -66,6 +94,20 @@ A 9-12Nm base bolted to a flexing desk throws away half the feel you just paid f
 - **Entry 8020 / cockpit** (~$300) — maximum rigidity, fixed seating position, and future-proof: you keep the frame across every future upgrade.
 
 Either works inside the budget. If you have the space and plan to keep climbing the hardware ladder, the cockpit is the smarter long-term spend. The full thresholds are in [desk vs cockpit](/racing/desk-vs-cockpit-sim-racing-2026).
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Mount pick</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry cockpit · seat included</span>
+    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
+    <p class="gp-why">A complete bolt-down cockpit with the seat in the box — a big rigidity jump over a folding stand without the 8020 price. It comfortably handles a 9-12Nm base, which is exactly the tier this build lives in.</p>
+    <span class="gp-price">~$389</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Step 4: The shifter or handbrake (~$100, only if it fits)
 

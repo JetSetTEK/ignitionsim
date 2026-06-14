@@ -48,6 +48,11 @@ The fix is always the same direction: **lower the in-game gain until the peaks b
 
 That's it. Everything below is just the right starting numbers so step 4 takes three laps instead of thirty.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Write your final gain down per car class, not per sim. A GT3 and a heavy LMP clip at completely different gains on the same base — the prototype will drown in red at the number that's perfect for the GT3. One number for "my base" is the setup that feels great in one car and broken in the next.</p>
+</div>
+
 ## Starting values by torque tier
 
 These are conservative starting points — the highest gain where most cars stay clean. Always verify against the meter; a heavy LMP or a no-power-steering classic will clip lower than a GT3.
@@ -59,6 +64,20 @@ These are conservative starting points — the highest gain where most cars stay
 | **Le Mans Ultimate** | FFB Strength ~90%, Smoothing 3-6 | FFB Strength ~80-90%, Smoothing 2-5 |
 
 **Bold takeaway:** stronger bases want *lower* gain percentages, not higher. A 12Nm base at 55% can still out-punch an 8Nm base at 75% — and it'll have headroom left for the spikes instead of clipping into them.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Easiest to tune</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm, Pit House</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">If you're picking a base to live this tuning workflow on, the R12 makes it painless: Pit House is the cleanest software for neutralizing filters to a 100% baseline, and 12Nm gives enough headroom that a sane in-game gain rarely clips. The 360Hz iRacing mode is the cherry on top.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## iRacing: Linear, Auto, and the 360Hz wrinkle
 

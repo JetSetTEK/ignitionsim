@@ -44,6 +44,11 @@ That 9-foot line is critical because it is the dividing wall for **overhead came
 
 A quick field test before you buy anything: stand where you will hit, take a slow full driver swing, and have someone watch the clubhead at the top. If it gets near the ceiling, you have your answer.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Measure to the lowest obstruction, not the drywall. Garage-door tracks, opener rails, ducts, and exposed joists routinely steal 6–10 inches you never budgeted for. A "9-foot" ceiling with a track hanging at 8'4" over the hitting zone is an 8'4" room — and that's the difference between an overhead unit working and becoming a paperweight.</p>
+</div>
+
 ## Width: Room to Swing and to Aim
 
 Width is about two things — clearance for your swing arc and room for the screen.
@@ -64,7 +69,26 @@ This is the radar-versus-photometric split in physical terms:
 - **Photometric units** (SkyTrak+, Bushnell Launch Pro, Foresight GC3) sit to the *side* of the ball and capture it at impact with cameras. They tolerate shallower rooms because they do not need to watch the ball travel.
 - **Overhead units** (EYE XO2, Falcon, R50) sit above the ball — they solve the depth problem but reintroduce the ceiling problem.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Tight-room safe pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Side-of-ball photometric · forgiving on depth</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">If your room is short or low, this is the geometry-proof answer. Side-of-ball placement means it reads the ball at impact and doesn't need the depth behind you that kills radar in a shallow space — no overhead clearance required either. The default sensor for a room that won't cooperate.</p>
+    <span class="gp-price">~$2,995</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/skytrak-plus">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 A practical total-depth target is **12–16 feet** front-to-back, with radar setups pushing toward the upper end and side-mount photometric units comfortable nearer the lower end. The brutal hard minimum people quote is a **12x10** footprint, and it forces compromises in every direction.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The single most common r/golfsimulator mistake, stated a hundred ways: "bought the launch monitor, measured the room after." The room decides which technology can even work — radar dies in a shallow space, overhead dies under a low ceiling. Tape measure first, cart second. Always.</p>
+</div>
 
 ## Lighting and the Photometric Catch
 

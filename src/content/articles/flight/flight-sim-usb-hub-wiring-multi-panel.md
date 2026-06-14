@@ -54,6 +54,20 @@ Think in terms of total draw. A typical enthusiast cockpit — yoke, throttle, p
 
 When you push into a **full airliner panel stack** — MCDU plus FCU plus EFIS plus overhead plus a couple of throttles — you are past what one 30W hub handles. Heavy builders routinely run **two powered hubs**, or a single hub fed by a beefier **60W supply**, splitting the panels across them to balance the draw. One documented PMDG-builder setup runs a full Honeycomb Alpha, Bravo and Charlie alongside multiple WinWing panels — MCDU, PFP, EFIS, FCU — across two powered hubs with a 60W supply. If your cockpit is growing that direction, plan for two hubs from the start; it is cheaper than discovering the limit mid-build.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/desktop-pilot-10-port-usb-hub"><span class="gp-tag">Cheap insurance</span><img src="/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg" alt="Desktop Pilot 10-Port Powered USB Hub" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Powered USB hub · 10 ports, dedicated 12V supply</span>
+    <span class="gp-name"><a href="/flight/gear/desktop-pilot-10-port-usb-hub">Desktop Pilot 10-Port Powered USB Hub</a></span>
+    <p class="gp-why">The unglamorous part that ends mid-flight dropouts. Its own 12V adapter feeds every device clean power regardless of what the PC can spare, and per-port switches let you cut gear you aren't using. Buy one tier more ports than you need — cockpits only grow.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/desktop-pilot-10-port-usb-hub">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Desktop+Pilot+10-Port+Powered+USB+Hub&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ### Budgeting the ports
 
 Count every USB device, then add headroom. Each yoke, throttle, pedal set, and panel is one port. A six-port hub fills faster than you think once panels arrive. The rule I use: **buy one tier more ports than you currently need**, because cockpit builds only ever grow. Running out of ports mid-project means re-cabling everything, which is exactly the tedium this article exists to prevent.
@@ -68,6 +82,11 @@ The fix is two steps:
 2. **Disable "Allow the computer to turn off this device" per hub.** In Device Manager, for each USB Root Hub and Generic USB Hub, open Properties → Power Management and uncheck that box.
 
 Between a powered hub and these two settings, the overwhelming majority of "my panel randomly disconnects" reports go away. If a single device still misbehaves, plug it **directly into a rear motherboard port** to isolate whether it is the device or the hub.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Disable USB selective suspend before you spend a dollar on hardware. The single most common "the sim won't see my panel" fix is free, lives in Windows power options, and takes thirty seconds — try it before you assume a panel or hub is dead.</p>
+</div>
 
 ## Cable and layout discipline
 

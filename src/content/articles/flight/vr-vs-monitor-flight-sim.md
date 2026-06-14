@@ -44,6 +44,11 @@ Here is the number monitor users underestimate. VR renders **two high-resolution
 
 The May 2025 Sim Update 2 helped — it added VR-focused **foveated rendering**, better VR controller interaction, and stability fixes — but the core math stands: **VR roughly halves your usable frame rate** versus the same setup on a monitor. Plan your hardware around that, not around your desktop numbers.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Whatever your desktop frame rate is, mentally cut it in half before you shop for a headset — that's roughly what VR will give you on the same rig. The number that frustrates people isn't the headset price, it's discovering their "great GPU" suddenly delivers 45 FPS at Medium.</p>
+</div>
+
 ## Headset options in 2026
 
 | Headset | Resolution/eye | Refresh | Price | Tracking | Best for |

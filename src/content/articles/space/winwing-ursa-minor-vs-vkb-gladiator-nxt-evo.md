@@ -31,6 +31,11 @@ These are the two sticks every space-sim forum points a new pilot toward, and fo
 
 If you've already decided two sticks is your layout — and if you haven't, start with [HOSAS vs HOTAS](/space/hosas-vs-hotas) — this is the closest call in the budget tier. Here's how I'd make it.
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space Joystick" loading="lazy"></a><figcaption>WinWing Ursa Minor — feedback and value</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a><figcaption>VKB Gladiator NXT EVO — pedigree and the ladder</figcaption></figure>
+</div>
+
 ## Spec-for-spec
 
 | Spec | WinWing Ursa Minor | VKB Gladiator NXT EVO |
@@ -57,6 +62,20 @@ Second, **price and friendliness**. The Ursa Minor often edges cheaper than the 
 
 The ceiling: WinWing's upgrade path runs into the **Orion 2** base line, which is a real ecosystem but a less storied one than VKB's gimbals. You're buying the better *value*, not the better *pedigree*.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/winwing-ursa-minor-space"><span class="gp-tag">Better stick today</span><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space Joystick" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Budget HOSAS stick · magnetic sensors + in-stick vibration</span>
+    <span class="gp-name"><a href="/space/gear/winwing-ursa-minor-space">WinWing Ursa Minor Space Joystick</a></span>
+    <p class="gp-why">Buy this if you want the most feel-per-dollar right now. The vibration motor tells you you're taking fire before your eyes catch the shield meter, and SimAppPro is the gentler of the two tuning suites. Often the cheaper pair, too — you're buying the better stick today, just the shallower upgrade ladder.</p>
+    <span class="gp-price">~$115</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/winwing-ursa-minor-space">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The Gladiator's case: pedigree and the ladder
 
 The **VKB Gladiator NXT EVO "Space Combat Edition"** is the boutique benchmark that everything cheap gets measured against. Its all-metal contactless gimbal is a clear tier of mechanical feel above budget plastic, and VKB's reputation for gimbal precision is the reason the Gladiator shows up in "buy this first" lists year after year.
@@ -64,6 +83,20 @@ The **VKB Gladiator NXT EVO "Space Combat Edition"** is the boutique benchmark t
 But the real argument for the Gladiator isn't the stick — it's what's *behind* it. The Gladiator is the bottom rung of a ladder. You can add a **VKB Omni-Throttle** (around $149) for analog off-hand thrust, and when you outgrow the entry gimbal you step the grips onto a **Gunfighter Mk.IV** base (around $200 base-only). That trajectory — Gladiator pair, then Omni-Throttle, then Gunfighter — is the single strongest reason to buy VKB at the entry level, and I map the whole spend ladder in [the VKB Gladiator-to-Gunfighter upgrade path](/space/vkb-gladiator-to-gunfighter-upgrade-path).
 
 The cost of that pedigree: **VKBDevCfg** is powerful and intimidating. Deadzone defaults need tuning, curves apply across the full axis range independent of the deadzone, and the panel layout assumes you'll read documentation. It rewards the effort with finer control than SimAppPro, but it asks for that effort up front.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Better investment</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Boutique HOSAS stick · all-metal contactless gimbal</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO "Space Combat Edition"</a></span>
+    <p class="gp-why">Buy this if you suspect you'll climb. The all-metal gimbal feels a tier above plastic, but the real argument is the ladder behind it — add an Omni-Throttle, then step the grips onto a Gunfighter base, all without throwing anything away. You're buying the better investment, just paying with VKBDevCfg's learning curve.</p>
+    <span class="gp-price">~$119</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Where the gap actually shows
 
@@ -73,6 +106,11 @@ For the first hundred hours, honestly, you'd be hard-pressed to tell these apart
 - **At the eighteen-month mark**, when you want more, and the VKB pilot bolts a Gunfighter base under grips they already own while the WinWing pilot is shopping a whole new line. Point: VKB.
 
 That's the trade in one sentence: the Ursa Minor is the better stick *today*, the Gladiator is the better *investment*.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>A recurring blind-test confession on r/hotas: in the first hundred hours, owners of both sticks admit they genuinely can't tell them apart on pure aiming. Both have the magnetic sensors; both fly fine. So don't agonize over feel you won't perceive — decide on the two things you <em>will</em>: do you want the vibration motor now, or the cheaper rung of a ladder you intend to climb?</p>
+</div>
 
 ## Verdict
 

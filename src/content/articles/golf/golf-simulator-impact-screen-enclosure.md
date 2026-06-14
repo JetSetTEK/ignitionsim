@@ -44,6 +44,11 @@ The mistakes that cause real rebound:
 
 Do those three things and bounceback stops being a safety conversation. Skip them and the best screen on the market will still spit balls at you.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The screen rarely hurts anyone — the install does. The recurring r/golfsimulator confession: "Pulled it drum-tight so it'd look crisp, took a driver off the shin on day one." A screen needs <em>give</em>. The same builders who learn this also learn to leave an air gap behind it; a screen flat against block has nowhere to send the ball but back.</p>
+</div>
+
 ## Screen Material Tiers: What You're Paying For
 
 Impact screens climb a quality ladder, and the differences show up in three places — image sharpness, sound (the "thwack" volume), and how long the screen lasts before sagging or fraying.
@@ -55,6 +60,20 @@ Impact screens climb a quality ladder, and the differences show up in three plac
 | **High premium** (SIGPRO Premium, multi-layer) | In-house woven, double-stitched edges, often multi-layer | Crispest, brightest, quietest | Engineered low rebound | Dedicated rooms, image-quality priority |
 
 In independent head-to-head testing, the **SIGPRO Premium** outperformed leading competitors across image quality, sound, bounceback, and durability/sag — it's the reference at the top of the home market. **Carl's Place** screens are built to take balls at up to 250 mph and offer the broadest customization, which is why they anchor most DIY builds. The honest read: the mid-premium tier is where most home players should live, and the jump to top-premium is worth it specifically if image quality is your priority or you're building a showpiece room.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/sigpro-premium-impact-screen"><span class="gp-tag">Image-quality reference</span><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="Carl's Place SIGPRO Premium Impact Screen" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">3-layer spacer mesh · ~3.5 in thick · MyGolfSpy winner</span>
+    <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">Carl's Place SIGPRO Premium Impact Screen</a></span>
+    <p class="gp-why">The screen independent testing keeps crowning — sharpest 4K image, quietest thwack, lowest bounceback. The 3.5-inch three-layer build does double duty: it renders a crisp fairway and it eats impact energy so the ball drops dead instead of coming back at you. Buy it if image quality is the priority.</p>
+    <span class="gp-price">~$710</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/sigpro-premium-impact-screen">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Premium+impact+screen&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 You can compare the exact screen against the rest of a budget in the [full cost breakdown](/golf/golf-simulator-cost).
 
@@ -75,7 +94,26 @@ Once you've picked a screen, you have to hang it. Two paths.
 
 **Enclosure kit.** A kit like the **Carl's Place DIY enclosure** arrives pre-sized with a tensioning system, side and ceiling baffles, and a frame engineered for safe rebound. You pay more — kits run from roughly $1,000 into the low thousands depending on size and screen tier — but you remove most of the ways a build goes wrong. For most first-time builders, the kit is the right call; the premium buys peace of mind on the one component that's also safety gear.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">Engineering done for you</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY Golf Simulator Enclosure Kit" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Screen + nylon enclosure · weighted bottom cable</span>
+    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure Kit with Impact Screen</a></span>
+    <p class="gp-why">The kit that pre-solves the three install mistakes that turn a screen into a ball-launcher: it ships with the right tension hardware, releasable zip ties, and a weighted bottom cable. Choose your screen tier, add the pipe-framing kit if you don't want to build a frame, and the highest-stakes mistake in the build is engineered out.</p>
+    <span class="gp-price">~$1,155</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Carl%27s+Place+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 The enclosure isn't just the screen frame — the **side and ceiling baffles** are what catch the inevitable shanked ball and stop it from finding your projector or your wall. Never run a screen without them. For the full bay assembly sequence, the [garage build guide](/golf/garage-golf-simulator-build-guide) walks the frame, screen, and baffles in order.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Side barrier netting is the cheapest insurance in the whole bay. A pair of 10x8 nets along the enclosure sides catches the shank that would otherwise find a wall, a TV, or a window — a few hundred dollars that prevents a four-figure repair. Add them to any enclosed bay built near anything you'd hate to replace.</p>
+</div>
 
 ## Who Should Skip a Full Enclosure
 

@@ -53,6 +53,20 @@ That's what **Monstertech**-style aluminum clamp arms do. The stick's base bolts
 
 Monstertech is the dominant aluminum mounting brand and the de-facto community standard precisely because CNC aluminum clamp arms do the job without flex. The arms also do a second thing that matters more than people expect: they let you **set the angle**. Two sticks flat on a desk force your wrists into an unnatural splay. Mounted on arms, you can cant each stick inward and tilt it back to whatever your wrists actually want, which is the difference between a forty-minute session and an hour-six session.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">The standard fix</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech Joystick / HOTAS Table Mount" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Clamp mount · anodized aluminum, quick-release</span>
+    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Joystick / HOTAS Table Mount</a></span>
+    <p class="gp-why">CNC aluminum arms that feed lateral combat force into your desk instead of a friction joint that's about to lose — the stick simply does not move, ever. The quiet bonus is angle: cant each stick to where your wrists actually rest. Universal fit across VKB, Virpil, WinWing and Thrustmaster. A HOSAS needs two, and it's a buy-once item.</p>
+    <span class="gp-price">~$100</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Desk mount or chair mount?
 
 Both work. The choice is ergonomic preference.
@@ -65,6 +79,20 @@ Both work. The choice is ergonomic preference.
 
 There's a temptation to think mounting is an enthusiast concern — that if you bought twin **Thrustmaster T.16000M** sticks you can skip it. The opposite is true. Light plastic sticks slide *more* than heavy metal ones, so a budget HOSAS benefits from mounting even more than a VKB or Virpil rig.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">The stick that needs this most</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Budget HOSAS stick · light plastic base</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <p class="gp-why">The cheapest credible HOSAS stick — and the one that walks across your desk fastest, because a light plastic base has the least weight resisting lateral force. The good news: light sticks don't need the heaviest-duty arms, so a budget pilot spends proportionally less on the mount. Just don't skip it.</p>
+    <span class="gp-price">~$80</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 The good news: light sticks don't demand the heaviest-duty arms, so a budget pilot can spend proportionally less on the mount. But skipping the mount entirely on a light rig is the worst combination — the cheapest sticks creeping the most. Budget for the mount as part of the rig, not as an upgrade. I treat it as a non-negotiable line item in [the best beginner HOSAS setup under $300](/space/best-beginner-hosas-under-300), and you can model the sticks-plus-mounts total in [the Rig Configurator](/racing/configurator) so the all-in number doesn't surprise you.
 
 ## The setup checklist
@@ -75,6 +103,11 @@ When you mount, get these right:
 - **Clamp depth.** Measure your desk edge or chair frame thickness against the clamp's range. Too thick and it won't close; too thin and it wobbles.
 - **Angle, then lock.** Set the cant and tilt to your wrists at rest, not your wrists reaching. Lock everything down hard — a half-tight arm flexes and you're back to a moving stick.
 - **Cable routing.** Mounted sticks move with the chair or sit at the desk edge; leave slack so a recline doesn't yank a USB cable.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Mount the sticks, then sit down and set the angle <em>with your hands relaxed on the grips</em> — not reaching, not posed. People cant the sticks to look symmetrical and end up with wrists that ache by hour two. Your left and right resting angles are usually <em>not</em> mirror images, and that's correct. Lock to comfort, not to the photo.</p>
+</div>
 
 ## Verdict
 

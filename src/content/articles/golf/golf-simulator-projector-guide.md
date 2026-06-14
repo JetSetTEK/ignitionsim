@@ -51,6 +51,11 @@ Measure your screen width first. A typical home sim screen is **9 to 12 feet wid
 
 The shadow problem lives in that last column. A long-throw projector mounted behind you means **your head, hands, and club pass through the beam** on the backswing and at impact. Every full swing flickers a shadow onto the fairway. That's why short-throw dominates home sims: it mounts *ahead* of the golfer, near the screen, where nothing interrupts the light path.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Run the throw math before you read a single review: throw ratio × screen width = mounting distance. A 0.5-ratio unit on a 10-foot screen sits 5 feet out; a 1.2 ratio sits 12 feet out — behind your swing, casting a shadow. Measure your screen width and your room depth first, then reject any projector whose number forces the lens behind the golfer or too close to fill the screen.</p>
+</div>
+
 ## Short-Throw vs Standard: The Real Tradeoff
 
 **Short-throw (0.4–0.8)** is the default recommendation for the overwhelming majority of home bays. It mounts close to the screen, dodges the shadow problem, and fits rooms that are short on depth. The catch: short-throw lenses are more sensitive to alignment. A few degrees of tilt and the image keystones, so you want a flush, square ceiling mount and ideally a unit with lens shift.
@@ -69,6 +74,11 @@ Once the geometry fits, picture quality comes down to three numbers, and most bu
 
 **Laser light engines** are now the default at this tier — instant on/off, ~20,000-hour life, and no lamp to replace. For a garage that cycles through dust and temperature swings, a sealed laser engine (IP5X-rated on the better golf-specific units) is worth the small premium.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most-returned component in a first build, and almost never the projector's fault. The r/golfsimulator pattern: buyer shops on lumens and 4K, mounts it where the box says, then discovers the backswing throws a shadow across the 14th green — or the unit can't sit far enough back to fill the screen. Geometry first, picture quality second. A right-sized $1,200 unit beats a wrong-sized $2,500 one every swing.</p>
+</div>
+
 ## What to Actually Buy in 2026
 
 The market has split into purpose-built golf projectors and repurposed gaming/theater units. The golf-specific ones add genuinely useful features.
@@ -81,6 +91,34 @@ The market has split into purpose-built golf projectors and repurposed gaming/th
 | **Optoma ZW350ST** | ~0.52 | budget | Most compact budget option; a 100-inch-plus image from a few feet — for very tight bays. |
 
 The **BenQ AK700ST** is the one I'd point a first-time builder toward for a permanent room: the Golf Mode color and aspect handling, Auto Screen Fit, and motorized focus remove most of the alignment headaches that sink DIY installs. If budget is the constraint, the **AH700ST** gets you 90% of the way for meaningfully less.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Tight-room value</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">0.496:1 throw · 4,200 lumens · laser</span>
+    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <p class="gp-why">The throw-ratio answer to a shallow room — a 12-foot screen filled from under 6 feet, which mounts the unit well clear of your backswing in a garage or basement. Native 1080p, but it takes 4K HDR input and the 30,000-hour laser engine is the longest in its class. The best brightness-and-throw-per-dollar pick for most home bays.</p>
+    <span class="gp-price">~$1,199</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Premium 4K pick</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">True 4K · 5,100 lumens · Golf Mode</span>
+    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <p class="gp-why">When you want the brightest, sharpest fairway money buys. True 4K and 5,100 lumens, plus the wide lens shift that makes a ceiling mount forgiving in a real, imperfect room — and a Golf Mode that kills the purple fringing that haunts bright impact screens. Overkill for a casual bay; exactly right for a showpiece.</p>
+    <span class="gp-price">~$4,899</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/benq-lk936st">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Mounting: Flush Ceiling vs Floor Shield
 

@@ -56,6 +56,11 @@ On a budget, **SmoothTrack** (~$15 on iOS/Android) plus free **OpenTrack** turns
 
 **What the community says:** the recurring line across r/hotas and the flight-sim forums is that TrackIR is "amazing for anything with a cockpit while still being able to see your desk," and many owners reach for it more often than their VR headset because it is simply easier to live with.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Whatever tracker you run, bind a "recenter view" key to a stick button you can hit blind — not a keyboard key. Optical trackers drift as you shift in your seat over a long session, and the pilots who hate head tracking are almost always the ones reaching for the keyboard to recenter mid-fight. One thumb tap on the grip and your view snaps straight; the annoyance evaporates.</p>
+</div>
+
 ## The case for VR (and the asterisks)
 
 VR is the more breathtaking experience, full stop. The sense of scale inside a Star Citizen ship — looking up at a Carrack's ceiling, peering down a cargo bay — does not translate to a flat screen. Cave exploration and EVA are genuinely stunning in a headset.

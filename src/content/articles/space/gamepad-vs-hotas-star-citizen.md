@@ -42,6 +42,11 @@ A Star Citizen ship has six analog axes — pitch, yaw, roll, plus forward/back,
 
 A gamepad's two thumbsticks plus triggers give you enough analog inputs to cover the axes you use most — pitch/yaw/roll on one stick, strafe on the other, throttle on the triggers or bumpers. The two things it runs short on are **precision** (a thumbstick's short throw makes fine aiming twitchy) and **buttons** (14 inputs against a game with literally hundreds of bindable actions).
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Before you spend a cent, turn the gamepad deadzone <em>down</em> in Star Citizen's flight settings and add a mild response curve. The stock gamepad profile ships with a fat deadzone that makes fine aiming feel mushy — the single change that makes pilots think they need a stick. Tune the pad first; you may discover the precision gap was mostly software.</p>
+</div>
+
 ## The precision gap, measured honestly
 
 People oversell this. A gamepad thumbstick has roughly 10-15mm of travel from center to edge. A full-size flight stick has 60-100mm. More travel means more physical movement maps to the same angular input, which means finer control — that is real, and it is most of why dedicated pilots fly sticks.
@@ -67,6 +72,34 @@ What you're accepting:
 - **Desk space and a mount**, because a loose base slides under combat input.
 
 I lay out the specific Star Citizen stick picks in [the best HOTAS for Star Citizen](/space/best-hotas-for-star-citizen), and the [Logitech X56](/space/gear/best-hotas-for-star-citizen) remains the standard answer for an all-in-one.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Cheapest HOTAS entry</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Stick + throttle · Hall-effect stick, 30 buttons</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <p class="gp-why">The honest step up from a gamepad: a long-throw Hall-effect stick for the precision a thumbstick can't give you, plus a rail throttle and 30 buttons. At ~$170 it's the cheapest way to find out if the immersion is worth the setup tax — and the stick later doubles as half a HOSAS.</p>
+    <span class="gp-price">~$170</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">Prestige choice</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">All-metal HOTAS · A-10C 1:1 replica, dual-throttle</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <p class="gp-why">Reference-grade, heirloom-heavy, and gorgeous — but be clear-eyed for Star Citizen: the stick has no twist axis, so it can't natively reach all six space axes. You buy this because it feels like flying an A-10, not because it's the optimal spaceflight tool. Pair it with rudder pedals for the yaw it lacks.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The catch every HOTAS guide buries
 

@@ -32,13 +32,53 @@ Let me be honest with you before you spend a dollar: **there is no consumer mari
 
 There's a second caveat that governs everything here, and the marketing of repurposed gear will never tell you: **most marine sims only do something with your analog hardware if the title actually reads an analog axis.** A great many read keyboard-style left/right only, in which case your beautiful wheel maps to a binary turn and any force feedback is dead weight. So this ranking treats the bay honestly — best repurpose, best DIY, best VR shortcut — and flags the analog-support reality on every pick. Verify your specific sim before you buy.
 
+<div class="shotgrid">
+  <figure><a href="/marine/gear/logitech-g29-helm"><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a><figcaption>Logitech G29 — best helm stand-in</figcaption></figure>
+  <figure><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a><figcaption>Saitek quadrant — cheapest engine levers</figcaption></figure>
+  <figure><a href="/marine/gear/leobodnar-bu0836a-diy-board"><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a><figcaption>Leo Bodnar BU0836A — the DIY foundation</figcaption></figure>
+  <figure><a href="/marine/gear/meta-quest-3-marineverse-vr"><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a><figcaption>Meta Quest 3 — the VR shortcut</figcaption></figure>
+</div>
+
 ## Best helm: Logitech G29 (repurposed racing wheel)
 
 Since there's no boat wheel, the community's default is a racing wheel — and the [Logitech G29](/marine/gear/logitech-g29-helm) (~$250, frequently ~$200 on sale) is the value answer. Its 900-degree leather-rimmed wheel reads convincingly as a helm, and the secondhand sim-racing market keeps it cheap. The analog steering works natively in analog-aware sims like eSail; in titles that only read keyboard left/right it maps to a binary turn, and force feedback is unsupported regardless. The pricier [Logitech G923](/marine/gear/logitech-g923-helm) (~$300) adds racing features — TrueForce, RPM LEDs — that marine sims simply don't use, which is exactly why the cheaper G29 is the smarter marine buy.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-g29-helm"><span class="gp-tag">Best helm</span><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helm stand-in · 900° leather wheel</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-g29-helm">Logitech G G29 Driving Force (as helm)</a></span>
+    <p class="gp-why">The "a cheap wheel works fine" answer, and it's correct. A flooded secondhand racing market keeps it near $200, and every dollar the G923 charges over it buys racing features a boat can't use. Verify your sim reads analog steering first.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-g29-helm">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Best throttle: Saitek flight quadrant (repurposed as engine telegraph)
 
 The cheapest path to real lever-style engine control is a flight quadrant. The [Saitek/Logitech Pro Flight Throttle Quadrant](/marine/gear/logitech-saitek-throttle-quadrant-telegraph) (~$60) gives you three analog levers that map cleanly to twin throttles plus a bow thruster, with base rocker switches for quick commands, and the quadrants daisy-chain for more axes. The levers are short and lightly sprung — nothing like a real engine-order telegraph — and they only do anything in sims that read analog throttle input. But at ~$60 it's unbeatable value. The step up is the [Thrustmaster TWCS Throttle](/marine/gear/thrustmaster-twcs-throttle-engine-lever) (~$130), whose smooth 80mm slide-rail and 16-bit resolution feel genuinely better as a single main engine lever — though a twin-screw vessel still needs a second axis from elsewhere.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><span class="gp-tag">Best throttle</span><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Engine telegraph · 3 levers, daisy-chainable</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)</a></span>
+    <p class="gp-why">Three analog levers for twin throttles plus a thruster, for the price of a couple of pizzas. Short and lightly sprung versus a real telegraph, sure — but no other purchase adds this much marine feel per dollar. Chain two for six axes.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The running joke among bridge builders: don't ask "which throttle," ask "how many." A single TWCS feels gorgeous on a tug, but the second you board a twin-screw vessel you're back wanting two levers — and two daisy-chained Saitek quadrants cost less than one premium throttle. Buy for the boat, not the spec sheet.</p>
+</div>
 
 ## Best rudder: Thrustmaster T.16000M (repurposed flight stick)
 
@@ -48,9 +88,37 @@ For sims that expose a true rudder axis rather than a wheel — like the upcomin
 
 Here's where the bay gets genuinely good — and genuinely *yours*. The [Leo Bodnar BU0836A](/marine/gear/leobodnar-bu0836a-diy-board) (~$42) is a tiny no-code USB board that turns ordinary potentiometers, switches and encoders into a recognized 12-bit game controller. It's the exact part [Bridge Command](/marine/gear/bridge-command-free-sim) — the free, open-source ship-handling sim — documents for building your own wheel and throttles: three 10k linear pots (two throttles, one wheel) plus a horn button, plug-and-play with no drivers. For builders who want a helm that feels exactly right, this is the honest answer, and it costs a fraction of repurposed gear. Want custom logic — software detents, button matrices? The [Arduino Leonardo](/marine/gear/arduino-leonardo-diy-hid) (~$25) presents as a true HID joystick via the open-source ArduinoJoystickLibrary, trading the BU0836A's no-code simplicity for full programmable control.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836a-diy-board"><span class="gp-tag">Best DIY</span><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">DIY interface · 8 axes, 12-bit, no code</span>
+    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836a-diy-board">Leo Bodnar Electronics BU0836A USB Joystick Interface</a></span>
+    <p class="gp-why">The exact part Bridge Command names in its own build guide — solder three 10k pots, plug in, and you have a wheel and twin throttles the sim was designed to read. The most satisfying $42 in the bay, and the helm ends up feeling like yours.</p>
+    <span class="gp-price">~$42</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/leobodnar-bu0836a-diy-board">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Best VR shortcut: Meta Quest 3 (MarineVerse)
 
 VR is the one path that sidesteps the entire hardware problem. On the [Meta Quest 3](/marine/gear/meta-quest-3-marineverse-vr) (~$500) running MarineVerse Sailing Club, hand-tracked controllers become the tiller and sheet — no helm to buy, no analog-axis caveat. Because it pairs with NauticEd courses, it straddles game and real sail training. The honest framing: it's sailing-only (dinghies, yachts, catamarans), not ship-handling, and the experience lives or dies on MarineVerse rather than any peripheral. The cheaper Quest 3S runs the same software if budget is tight.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">Best VR shortcut</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">VR sailing · hand-tracked tiller & sheet</span>
+    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <p class="gp-why">The only path that deletes the bay's whole hardware headache — no helm to buy, no analog-axis caveat, your hands are the controls. Sailing-only, and the magic is all MarineVerse, but it doubles as a full VR headset for everything else.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The honest niche outlier: RailDriver
 

@@ -31,6 +31,12 @@ The single most expensive mistake a new space pilot makes is assuming a real two
 
 I have laid out the three setups worth buying below, from cheapest to most future-proof. Each one is a complete two-stick pair, not a single grip. If you're still deciding between two sticks and a stick-plus-throttle, read [HOSAS vs HOTAS](/space/hosas-vs-hotas) first — this guide assumes you've already decided two sticks is the goal.
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS (Stick Only)" loading="lazy"></a><figcaption>Thrustmaster T.16000M — the $80 on-ramp</figcaption></figure>
+  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space Joystick" loading="lazy"></a><figcaption>WinWing Ursa Minor Space — the budget champion</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a><figcaption>VKB Gladiator NXT EVO — the upgrade-path play</figcaption></figure>
+</div>
+
 ## The shortlist at a glance
 
 | Setup | Pair price | Sensors | Vibration | Left-hand ready | Upgrade path |
@@ -51,6 +57,20 @@ What you give up: it feels like a $80 stick because it is one. The springs are l
 
 **Who should skip this:** anyone who already knows they want boutique feel and is willing to wait. Buying twin T.16000Ms and then twin Gladiators six months later costs more than just buying the Gladiators.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Cheapest real HOSAS</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Ambidextrous stick · Hall-effect, 16-bit</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <p class="gp-why">It feels like an $80 stick because it is one — but it's the only $80 stick with Hall-effect sensors that won't drift, and it flips left-handed for free. Buy two, learn whether you even like two-stick flying, upgrade with zero regret.</p>
+    <span class="gp-price">~$80</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Tier 2: WinWing Ursa Minor pair — the budget champion
 
 A pair of **WinWing Ursa Minor** sticks runs around $220-260. WinWing reframed the budget conversation in 2024-2025 by undercutting the boutiques while adding things they don't have. You get **magnetic sensors**, a space-friendly button layout, and — uniquely at this price — an **in-stick vibration motor** that buzzes on hits and thruster events. It's gimmicky on paper and genuinely good in practice for feedback you'd otherwise miss.
@@ -58,6 +78,20 @@ A pair of **WinWing Ursa Minor** sticks runs around $220-260. WinWing reframed t
 Configured through WinWing's **SimAppPro** software, the Ursa Minor pair is the easiest "real" recommendation under $300 for a pilot who wants to skip the disposable tier entirely. And it sits inside an ecosystem — if you later want a metal mid-tier base, WinWing's **Orion 2** line is the step up, so the Ursa Minor is not a dead end the way the T.16000M is.
 
 **Who should skip this:** pilots who specifically want the VKB gimbal pedigree or plan to climb the VKB ladder to a Gunfighter. Different ecosystem, different long game.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/winwing-ursa-minor-space"><span class="gp-tag">Best value</span><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space Joystick" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">HOSAS stick · magnetic sensors + in-stick haptics</span>
+    <span class="gp-name"><a href="/space/gear/winwing-ursa-minor-space">WinWing Ursa Minor Space Joystick</a></span>
+    <p class="gp-why">The one stick at this price that buzzes when you take a hit. It undercut the boutiques, kept the magnetic sensors, and threw in a vibration motor nobody else offers — gimmicky on paper, genuinely good in the seat. The easiest "real" HOSAS recommendation under $300.</p>
+    <span class="gp-price">~$115</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/winwing-ursa-minor-space">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Tier 3: VKB Gladiator NXT EVO pair — the upgrade-path play
 
@@ -67,7 +101,19 @@ The Gladiator uses VKB's contactless magnetic gimbal in an all-metal mechanism t
 
 The cost: VKB's **VKBDevCfg** tuning software is powerful and intimidating, and the Gladiators sometimes sell out. You're buying a platform, not just a controller.
 
-**Who should skip this:** anyone who wants in-stick vibration (go Ursa Minor) or who just wants the cheapest thing that works (go T.16000M).
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Buy the ladder</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Boutique HOSAS stick · all-metal contactless gimbal</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO "Space Combat Edition"</a></span>
+    <p class="gp-why">The cheapest stick you'll never have to throw away. The all-metal gimbal feels a clear tier above plastic, and the grips climb onto a Gunfighter base when you outgrow it. You're not buying a controller — you're buying the bottom rung.</p>
+    <span class="gp-price">~$119</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## How to actually choose
 
@@ -78,6 +124,11 @@ Map it to your honesty about your own commitment:
 - **Know you'll chase the high end eventually?** Gladiator pair. Buy the ladder.
 
 Whatever you pick, budget for one thing this guide's prices don't include: **mounting**. Two loose sticks slide under combat input, and a Monstertech-style clamp arm is the standard fix. Run your full build — sticks, mounts, and games — through [the Rig Configurator](/racing/configurator) so you see the real all-in number before you buy.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Whichever pair you buy, order the second stick at the same time. HOSAS sticks ship as dedicated left- or right-hand units (or get reconfigured), and the off-hand variant is the one that's perpetually out of stock. Pilots who buy one "to try it" routinely wait weeks for the matching hand — buy both at once or you'll have a very expensive single stick.</p>
+</div>
 
 ## Verdict
 

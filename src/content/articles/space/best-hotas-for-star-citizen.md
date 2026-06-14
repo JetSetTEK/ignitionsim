@@ -35,6 +35,12 @@ The community has spent the last two years declaring HOSAS the "serious" setup, 
 
 ## The 2026 HOTAS field at a glance
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — budget gateway</figcaption></figure>
+  <figure><a href="/space/gear/winwing-orion-2-hotas-f16ex"><img src="/images/gear/space/winwing-orion-2-hotas-f16ex.jpg" alt="WinWing Orion 2 HOTAS F-16EX" loading="lazy"></a><figcaption>WinWing Orion 2 — the smart-money metal pick</figcaption></figure>
+  <figure><a href="/space/gear/virpil-mongoost-50cm3-throttle"><img src="/images/gear/space/virpil-mongoost-50cm3-throttle.jpg" alt="Virpil MongoosT-50CM3 Throttle" loading="lazy"></a><figcaption>Virpil MongoosT-50CM3 — the no-compromise throttle</figcaption></figure>
+</div>
+
 One housekeeping note before the table: **WinWing rebranded to WinCTRL at the start of 2026.** Same hardware, same SimAppPro software, new name on the box. If you see "WinWing Orion 2" and "WinCTRL Orion 2" used interchangeably, they are the same product line.
 
 | HOTAS | Approx. price (2026) | Sensors | Why it fits Star Citizen | Who it's for |
@@ -54,6 +60,20 @@ Where it strains is Star Citizen specifically. You will run out of physical butt
 
 **Who should skip it:** anyone who already knows they want a metal, lifetime rig. Buying the T.16000M and then a Virpil six months later costs more than buying the Virpil once.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Budget pick</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Stick + throttle · Hall-effect stick, 30 buttons</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <p class="gp-why">The honest "buy this first, decide later" rig. The Hall-effect stick shrugs off drift, the rail throttle is real, and it's the cheapest credible way to fly. Just know Star Citizen will eat its button count for breakfast — pair a button box early or you'll be chording the keyboard within a month.</p>
+    <span class="gp-price">~$170</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## All-rounder: Logitech X56 (~$250)
 
 If your Star Citizen life is mostly hauling, mining, and exploring rather than chasing 1v1 kills in Arena Commander, the **Logitech X56** is the most pragmatic single purchase. It was practically designed around space sims: dual throttle levers, a mode switch, mini-stick, and a genuinely overwhelming number of buttons and toggles. That switch density is the point — it soaks up Star Citizen's bind list without forcing a button box.
@@ -66,11 +86,39 @@ This is where most serious-but-sane builders land in 2026. The **WinCTRL Orion 2
 
 Be straight about the trade: Orion 2 throttles have drawn real complaints on the DCS and Frontier forums about **stiction** (a sticky, grabby feel in the throttle travel) on some units. It is not universal, but it is common enough that you should read recent owner threads for your exact SKU before buying. The joystick side earns far steadier praise. For Star Citizen — where you care more about button count and stick feel than perfectly buttery throttle detents — the Orion 2 is still the best value in metal.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/winwing-orion-2-hotas-f16ex"><span class="gp-tag">Smart-money pick</span><img src="/images/gear/space/winwing-orion-2-hotas-f16ex.jpg" alt="WinWing Orion 2 HOTAS F-16EX combo" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Metal HOTAS combo · F-16EX grip + Orion 2 throttle</span>
+    <span class="gp-name"><a href="/space/gear/winwing-orion-2-hotas-f16ex">WinWing Orion 2 HOTAS (F-16EX combo)</a></span>
+    <p class="gp-why">All-metal modular feel without boutique pricing, and a feature-dense F-16EX grip that soaks up Star Citizen's bind list. Two cautions before you check out: vet your throttle SKU for stiction, and budget a stiffer spring kit — the stock cams run soft under the heavy grip.</p>
+    <span class="gp-price">~$460</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/winwing-orion-2-hotas-f16ex">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## No-compromise: VKB Gunfighter + Virpil MongoosT-50CM3 (~$600+)
 
 If money is no object and you want the best of both houses, the enthusiast move is to mix vendors: a **VKB Gunfighter Mk.IV** stick (base around $200, plus a combat grip) for the best gimbal feel on the market, paired with a **Virpil MongoosT-50CM3** throttle (~$400-450) that is widely considered the finest standalone space-sim throttle made. The CM3's adjustable detents and input count are exactly what Star Citizen's SCM/NAV-mode speed management wants.
 
 The cost is money and patience. Virpil sells in restock waves rather than constant retail supply, and a configured rig clears $600 fast. Once you are spending this much, plan your stick angles and mounting before you buy — and run the numbers in [the Rig Configurator](/racing/configurator) so you are not surprised by the throttle base and clamp-mount line items.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/virpil-mongoost-50cm3-throttle"><span class="gp-tag">No-compromise throttle</span><img src="/images/gear/space/virpil-mongoost-50cm3-throttle.jpg" alt="Virpil MongoosT-50CM3 Throttle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Flagship throttle · dual levers, CosmoSim detent</span>
+    <span class="gp-name"><a href="/space/gear/virpil-mongoost-50cm3-throttle">Virpil MongoosT-50CM3 Throttle</a></span>
+    <p class="gp-why">Widely called the finest standalone space-sim throttle made — duralumin guts, contactless sensors, and a CosmoSim detent profile built for SCM/NAV speed management. The catch is Virpil's restock-wave supply: it's often near $315 on a B-stock drop and gone the next week. Buy when a drop lands.</p>
+    <span class="gp-price">~$380</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/virpil-mongoost-50cm3-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## HOTAS or HOSAS? The honest split
 

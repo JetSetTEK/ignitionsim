@@ -29,6 +29,12 @@ Nobody should buy a complete flight deck in one click. Even if you have the budg
 
 The smarter move is staged. **Honeycomb Aeronautical** built an ecosystem that rewards exactly this: three pieces, each useful on its own, that add up to a complete general-aviation cockpit. Here is the order I recommend, and the specific thing each stage changes about how you fly.
 
+<div class="shotgrid">
+  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a><figcaption>Alpha — Stage 1, the foundation</figcaption></figure>
+  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a><figcaption>Bravo — Stage 2, the multiplier</figcaption></figure>
+  <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a><figcaption>Charlie — Stage 3, the finisher</figcaption></figure>
+</div>
+
 ## Stage 1 — The Alpha yoke (the foundation)
 
 Start with the **Honeycomb Alpha Flight Controls Yoke** (around $250-280). This is non-negotiable as the first piece, because pitch and roll are the controls you touch every single second you are in the air. Everything else is in service of the yoke.
@@ -36,6 +42,20 @@ Start with the **Honeycomb Alpha Flight Controls Yoke** (around $250-280). This 
 The Alpha is a 180-degree steel-shaft yoke with genuine self-centering feel — not a mushy spring, but a defined return that lets you trim against it. The detail that earns its keep is the integrated switch panel on the base: master and avionics switches, a lights row, and a five-position magneto and ignition knob. From the moment you install it, your engine start and shutdown flows move off the mouse and onto real switches.
 
 What stage 1 unlocks: precise hand-flying and a real start-up procedure. Fly the Alpha for a few weeks with the throttle you already own. You will quickly feel exactly what is missing — and that gap is stage 2.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Stage 1 · foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">GA yoke · 180° steel shaft, integrated ignition panel</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <p class="gp-why">Buy this first, always — pitch and roll are what your hands touch every second. A defined self-centering return you can trim against, plus a base panel of master, avionics, lights and a five-position ignition knob that moves your start-up off the mouse.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Stage 2 — The Bravo throttle (the multiplier)
 
@@ -47,6 +67,20 @@ If you are buying stages 1 and 2 together anyway, the **Alpha + Bravo bundle** (
 
 What stage 2 unlocks: real power management on multi-engine aircraft and hands-on autopilot. At this point you have a cockpit that handles 90% of GA and light-twin flying without the mouse.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">Stage 2 · multiplier</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Throttle quadrant · 6 levers + autopilot panel</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
+    <p class="gp-why">Where a single control becomes a cockpit. Six swappable levers from single-engine to quad, a trim wheel and gear lever, and the killer feature — a real autopilot panel so you manage cruise from physical knobs instead of a tiny on-screen box.</p>
+    <span class="gp-price">~$280</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Stage 3 — The Charlie rudder pedals (the finisher)
 
 The **Honeycomb Charlie** rudder pedals (around $250-300) complete the matched deck. They are aluminum — the first metal in the set — with a belt-drive mechanism and Hall-effect toe brakes. That construction matters: pedals take abuse from your feet, and the Hall-effect sensors resist the drift that wears out cheaper potentiometer pedals. (I dig into why that sensor difference matters across the broader rudder-pedal market in [the best rudder pedals guide](/flight/best-flight-sim-rudder-pedals).)
@@ -54,6 +88,20 @@ The **Honeycomb Charlie** rudder pedals (around $250-300) complete the matched d
 Charlie comes last on purpose. The twist or rocker rudder on your earlier hardware carries you through your first months of flying. You add real pedals when yaw control becomes the limiting factor — crosswind landings, taxiing taildraggers, coordinating turns. By then you have the hours to know you want them.
 
 What stage 3 unlocks: proper yaw authority and independent toe braking, the last two controls standing between you and a complete GA flight deck.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Stage 3 · finisher</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Aluminum belt-drive · Hall-effect toe brakes</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Aeronautical Charlie Rudder Pedals</a></span>
+    <p class="gp-why">The first metal in the set, and the last control between you and a complete deck. Hall-effect sensors that resist the drift cheap pedals develop, variable-pressure toe brakes, and adjustable foot angle. Buy it when crosswinds and taildraggers make yaw the limiting factor.</p>
+    <span class="gp-price">~$270</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The staged path at a glance
 
@@ -64,6 +112,11 @@ What stage 3 unlocks: proper yaw authority and independent toe braking, the last
 | 3 | Charlie pedals | ~$250-300 | Yaw, independent toe brakes | When crosswinds and taxiing demand it |
 
 All three together run roughly $750-900 — a complete GA cockpit, bought in the order that teaches you the most along the way.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Resist buying all three at once even if you can afford it. Flying the Alpha solo for a few weeks teaches you exactly what the Bravo's autopilot panel will do for you — and gives you the hours to position each piece where it actually belongs on your desk. The staged path makes you a better pilot, not just a poorer one.</p>
+</div>
 
 ## A note on mounting
 

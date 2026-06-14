@@ -48,6 +48,34 @@ That's the core of the [smart upgrade path](/racing/smart-upgrade-path): the bra
 
 **Load cell** is the answer for the overwhelming majority. Precise, repeatable, low-maintenance, and the value tier is excellent — the **MOZA SR-P** and **Fanatec CSL** load-cell sets land under $300 with genuinely great brake feel, and the **MOZA CRP2** (CNC aluminum, 200kg load cell, ~$300) or **Simagic P2000** take you near endgame.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Best value load cell</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
+    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <p class="gp-why">A 200kg load cell, a 125-combination hydraulic damper and CNC aluminum for ~$300 — premium feel at a price that embarrasses boutique sets. It plugs into any base over USB, so it's the rare upgrade no future ecosystem switch can strand.</p>
+    <span class="gp-price">~$300</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-crp2">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Reference set</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sim Pedals Sprint" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Load-cell pedals · load cell on every pedal</span>
+    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
+    <p class="gp-why">The professional benchmark, and a buy-once-keep-forever set — a load cell on every pedal, progressive elastomers, and SmartControl calibration that gets the brake exactly where your leg wants it. Not cheap, essentially unbeatable.</p>
+    <span class="gp-price">~$669</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 **Hydraulic** pedals add fluid-damped, progressive resistance that mimics a real brake's pressure curve more faithfully — the **Asetek Invicta hydraulic** and similar sets are the realism benchmark. The trade is real cost and more upkeep. Buy hydraulic because you specifically want that feel, not because the spec sheet implies it's "better."
 
 **Active** pedals are the newest frontier — motorized, two-way pedals like the **Simucube ActivePedal** (Pro 1100N, Ultimate 1700N) that push back with software-controlled force to simulate ABS, lockups, grip loss, and vibration. They feed information through your foot that passive pedals can't. They are also $1,000+ per pedal and deliver marginal lap-time gains for the price — a luxury frontier, not a need.
@@ -61,6 +89,11 @@ Buying the pedal is half the job. A load cell set up wrong feels worse than the 
 3. **Stiffen the elastomers if it feels mushy.** Load-cell brakes use rubber elastomers to provide travel feel; swapping to firmer ones makes the brake feel more like a real car and improves your sense of how hard you're pushing.
 4. **Bolt the pedals down properly.** A load cell rewards a rigid mount. On a flimsy stand the whole pedal deck flexes and you lose the consistency you paid for — another reason a solid rig matters, as covered in [the upgrade path](/racing/smart-upgrade-path).
 5. **Drive 20 laps before you judge it.** Load-cell braking feels alien at first because you're retraining from position to pressure. Give it a real session before you touch the settings again.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most common "my new load cell feels worse than my old pedals" thread always ends the same way: they calibrated 100% brake to the absolute hardest stomp they could manage. Don't. Set max to a force you can hit firmly and *repeatably* under race stress — if you have to leg-press the car to reach 100%, all your fine control bunches up at the very top where you can't use it.</p>
+</div>
 
 ## Who should skip the upgrade
 

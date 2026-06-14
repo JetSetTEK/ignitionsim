@@ -38,6 +38,11 @@ Before the numbers, fix the two sliders that ruin more ACC setups than Gain ever
 
 **Road Effects should be HIGH, and this is the opposite of the original AC.** In the first Assetto Corsa, Road Effects was canned rumble — fake texture layered on top, so you turned it down. ACC rebuilt it: the slider now **amplifies real suspension telemetry**, the actual load coming through the virtual chassis. Run it low and you blank out genuine kerb strike and surface change. Run it at **60-100%** (most drivers settle around 70-80%) and the car tells you what the tarmac is doing.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>If you've ever copied a settings table off a Logitech G29 thread onto your DD base, the Min Force value is the line that ruined your feel. That number exists only to punch through a gear wheel's deadzone — a direct-drive shaft has none, so it just bolts a constant fake weight onto the lightest cues you need. Zero it out and half the "my expensive base feels numb" complaints vanish.</p>
+</div>
+
 ## Per-base starting values
 
 Set your **wheelbase software to a neutral baseline first** — 100% strength, filters off or minimal — then do the real work in-game. ACC knows the physics; your job is to scale it to your motor without clipping. These are honest start points, not gospel:
@@ -70,6 +75,20 @@ Here's the ACC tax on strong bases: drive a fast straight in a GT3 car on a 12Nm
 
 Two dampers cure it. **Dynamic Damping** (in-game, 5-10%) resists rapid direction changes. Your **base software's wheel damper** (20-25 on a [MOZA R12](/racing/gear/moza-r12) or [Simagic Evo](/racing/gear/simagic-evo), more on bigger bases) does the same at the hardware layer. Add damping a few points at a time until the straight goes quiet — but stop the moment cornering feel starts going syrupy. Damping is a scalpel, not a volume knob. **Who should skip damping entirely:** anyone on a 5-9Nm base. There's not enough torque to oscillate, and damping there just dulls a base that's already light on detail.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">12Nm reference</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm, Pit House</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">The base most of this table is written around: at 12Nm, ACC wants ~48-55% Gain and a Pit House wheel damper around 20-25 to silence the straight-line wobble. Strong enough to clip if you over-cook the Gain, which is exactly why the numbers run lower than people expect.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The silent controls.json bug: steering lock
 
 This is the one that costs lap time without ever feeling wrong. ACC reads your physical wheel's degrees of rotation and maps it to each car's steering ratio. If your **base software is set to 1080° but ACC thinks it's getting 900°** (or vice versa), every input is subtly mis-scaled — the car turns more or less than your hands ask for, and you'll fight it forever without knowing why.
@@ -83,5 +102,19 @@ The consensus on the ACC subreddit and OverTake forums has converged on a few ha
 ## The verdict
 
 ACC rewards restraint. Set **Min Force to 0**, **Road Effects high**, pick your Gain from the table above as a starting point, and then **tune to the steering-torque graph until it stops clipping.** Add just enough damping to silence straight-line wobble on strong bases and no more. Get those four things right and a humble [Fanatec CSL DD](/racing/gear/fanatec-csl-dd) will feel sharper than a flagship that someone left at 80% Gain.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-csl-dd"><span class="gp-tag">Punches above price</span><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry DD base · 5-8Nm, PC + Xbox</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-csl-dd">Fanatec CSL DD</a></span>
+    <p class="gp-why">The proof that settings beat spec: a humble CSL DD with Min Force at 0, Road Effects high and a clip-free Gain will out-inform a flagship someone left parked at 80%. Set it to ~60-65% Gain in ACC and it never feels like the budget base it is.</p>
+    <span class="gp-price">~$350 (base)</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-csl-dd">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 Hardware still sets the ceiling — a clean 9Nm base with perfect settings out-informs a mis-tuned 21Nm one, but it can't manufacture detail the motor never delivered. If you're still deciding what to run ACC on, [the wheelbase comparison](/racing/best-sim-racing-wheelbases-2026) lays out the tiers, or build a full kit in [the Rig Configurator](/racing/configurator) and dial it in with the numbers above.

@@ -52,6 +52,11 @@ The power comes from offloading the binds you do not need on the stick. The mech
 
 **What the community says:** the recurring verdict on the Elite and Star Citizen forums is that adding speech recognition is "certainly worth it," and that the production quality of the better packs genuinely surprises people. The friction people report is almost always setup and mic quality, not the concept.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The pairing veterans recommend: a labeled button panel for the <em>deliberate, visible</em> binds, VoiceAttack for the <em>conversational</em> ones. Voice is brilliant for "request docking" and "all power to engines," and terrible for anything you fire under pressure — recognition lag and the occasional misfire will get you killed in a dogfight. Speak the housekeeping, press the combat.</p>
+</div>
+
 ## HCS Voice Packs: the copilot layer
 
 VoiceAttack alone is a silent macro tool. **HCS Voice Packs** are professionally produced profiles — many celebrity-voiced — that turn it into a character. For Star Citizen, **ASTRA** is the dedicated pack; Elite Dangerous has several (the long-running packs feature voice talent including well-known sci-fi actors). They ship with hundreds of prebuilt commands, spoken confirmations ("Landing gear deployed, Commander"), banter, and chatter that fills the silence of deep space.
@@ -82,6 +87,20 @@ VoiceAttack earns its keep hardest in exactly the situations a stick struggles w
 ## Who should skip it
 
 If you have a small, comfortable bind list — you fly a gamepad, a single stick for casual PvE, or you simply do not run out of buttons — VoiceAttack solves a problem you do not have. It also struggles in shared rooms with background noise, and it adds a setup tax that not everyone enjoys. If "fiddling with config" makes you groan, the better spend is a [button box or more capable HOTAS](/space/best-controls-for-elite-dangerous) instead.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">The no-config alternative</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Macro panel · 32 labeled LCD keys</span>
+    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <p class="gp-why">If config-fiddling makes you groan but the bind list still overflows, this is the hardware answer to the same problem voice solves in software: 32 labeled, light-up keys for the housekeeping binds, no mic training, no misfires in a noisy room. Many pilots run both — Deck for the visible deliberate binds, voice for the conversational ones.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Verdict
 

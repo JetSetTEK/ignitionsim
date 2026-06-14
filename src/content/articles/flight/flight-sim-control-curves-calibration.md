@@ -60,6 +60,11 @@ This is the recipe I hand to anyone whose controls feel twitchy. Tune from here;
 
 Community-reported values land in a wide band — some pilots run pitch/roll curves equivalent to roughly **0.3 to 0.5** of softening depending on the aircraft, and add a touch of dead zone when an airframe zigzags. There is no universal number. The right curve is the one where the airplane stops nodding and you stop fighting it.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Change one value, fly the same approach, then judge — never tweak three sliders at once. And trim the aircraft level before you blame the curve: an out-of-trim airplane fights you in a way that feels exactly like over-sensitivity but isn't.</p>
+</div>
+
 ## Tune per aircraft, not once globally
 
 This is the step that separates a smooth setup from a frustrating one. A **light, twitchy aircraft** — a TBM 850, a fighter, an aerobatic biplane — wants a **softer curve** than a heavy, stable **airliner** that already damps your inputs through its own flight model. Forcing one global curve makes the airliner feel mushy or the light aircraft feel nervous. MSFS 2024 stores per-aircraft profiles for exactly this reason; spend ten minutes setting a soft profile for the aircraft that gives you trouble and leave the calm ones near default.
@@ -67,6 +72,20 @@ This is the step that separates a smooth setup from a frustrating one. A **light
 ## The hardware angle: drift is real, but it is not the curve
 
 One honest caveat. If an axis **drifts on its own** — the trim creeps, the aircraft banks with your hands off — that may not be a curve problem. Aging **potentiometer** sensors physically wear and develop dead spots and drift, and no curve fully hides that. **Hall-effect and contactless** sensors largely eliminate it. So: a *twitchy* axis is a curve problem (fix it in software), but a *drifting* axis on old pot-based gear is a hardware problem (a small dead zone is a band-aid; new sensors are the cure). Know which one you have before you blame the wrong thing. If you are shopping with this in mind, the [HOTAS buying guide](/flight/best-hotas-msfs-2024) flags which sticks use contactless sensors.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Drift-free reference</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">GA yoke · steel shaft on dual ball bearings, low deadzone</span>
+    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <p class="gp-why">If you're tuning out twitch, start from gear that isn't fighting you. The Alpha's steel shaft runs almost no deadzone, so a clean -35% Reactivity curve does its whole job — no dead-zone band-aids needed to mask worn pots.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## What the community says
 

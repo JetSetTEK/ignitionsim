@@ -51,6 +51,20 @@ Elgato's lineup splits by key count and whether it has dials. For space sims the
 
 My honest recommendation for most pilots is the **32-key XL**. Fifteen keys forces constant folder-paging, which defeats the "glance and press" point. Thirty-two keys is enough to keep flight systems, modes, and the UI layer each on a visible cluster. The **dials on the Stream Deck +** are genuinely useful for analog-ish jobs like shield-pip balancing, throttle nudging, or zoom, so if those matter to you the + or + XL is worth the premium. The 15-key **MK.2** is fine if budget or desk space is tight and you accept paging.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">The sweet spot</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Macro panel · 32 labeled LCD keys, nested folders</span>
+    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <p class="gp-why">The pragmatic fix for the 200-bind problem. Thirty-two custom-iconed keys keep flight systems, roles, and the UI layer each on a visible cluster, and folders give effectively unlimited binds. It only sends keystrokes — not analog axes — so bind everything to a keyboard key in-game first, then point the Deck at it.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 This pairs naturally with whatever flight controller you run. If you're flying a [gamepad rather than a stick](/space/gamepad-vs-hotas-star-citizen), a Stream Deck is arguably the single best upgrade you can make — it fixes the gamepad's real weakness (button shortage) for less than the cost of a HOTAS.
 
 ## The free plugins that make it smart
@@ -74,11 +88,30 @@ Don't build 200 buttons. Build categories. A layout that works:
 
 Color-code by page so your eyes find the cluster before your hand does. This is where a Stream Deck beats more stick buttons outright: it's labeled. When you're learning the [six-axis HOSAS bind scheme](/space/how-to-bind-six-axes-hosas) on the sticks, offloading every non-flight action to a labeled panel keeps the sticks focused on flying.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>A trick the Star Citizen Deck crowd swears by: reserve one key on every page as a "home" button that jumps back to page 1. The fastest way to hate your Stream Deck is to get lost three folders deep and not find the exit while a hostile is on your tail. One consistent escape hatch per page and the panel stops feeling like a phone menu.</p>
+</div>
+
 ## Where DIY still beats it
 
 I'm an honest broker, so: a Stream Deck isn't the only answer, and for some pilots a real switch panel is better.
 
 A Stream Deck's keys are flat LCDs — no toggle switches, no covered missile-guards, no rotary encoders beyond the + 's four dials. If your immersion comes from *flipping* physical switches, a DIY USB button box (an Arduino/Leonardo build) or an Etsy-built panel gives you real toggles, guarded switches, and rotaries that a Stream Deck can't. WinWing's ICP and MFD panels do the same from the commercial side.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-mfd-cougar-pack"><span class="gp-tag">The cheap physical-button route</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Cockpit panels · 2 bezels, 48 programmable buttons</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack (2 panels)</a></span>
+    <p class="gp-why">If you'd rather have tactile buttons framing your monitor than a glowing LCD grid, this is the value play: two F-16 bezel panels, 48 plug-and-play buttons, no software. Dated and all-plastic, with no labels of its own — you supply the legend — but the value-per-button is hard to beat for offloading targeting and ship-system keys.</p>
+    <span class="gp-price">~$110</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 The trade-off is labeling and flexibility. A physical switch is fixed — it does one thing forever, and relabeling means a sticker. A Stream Deck reconfigures in software in seconds and shows live state. For most pilots the Stream Deck's flexibility wins; for cockpit-immersion builders chasing the *feel* of switches, DIY wins. Many serious simpits run both.
 

@@ -57,7 +57,40 @@ The most expensive mistake in a low-ceiling build is buying the wrong *kind* of 
 - **Overhead camera (WRONG for low rooms).** Units like the **Uneekor EYE XO2** (~$11,000) and **Garmin Approach R50** (~$4,999) mount *above* the ball and need **9–10 feet of ceiling** for the camera's downward throw. In an 8.5-foot room they physically cannot see correctly. Do not buy one for a low basement no matter how good the reviews are.
 - **Radar (USABLE WITH CARE).** The **Garmin R10** (~$600) and similar radar units don't care about ceiling height, but they want **depth behind the hitter** to read full ball flight — often 14–16 feet from unit to screen. If your basement is low *and* short, radar struggles. If it's low but deep, radar is viable on a budget.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The painful low-ceiling thread that recurs: someone reads glowing EYE XO2 or R50 reviews, buys overhead, and only then learns the cameras can't see in an 8.5-foot basement. No mounting trick fixes it — the throw needs the height. In a low room the reviews don't matter; the geometry does. Side-mount or nothing.</p>
+</div>
+
 The clean recommendation for an 8.5-foot room is a **side-mount photometric unit.** The deeper logic behind this — why camera-at-impact beats flight-tracking in tight spaces — is in the [radar vs photometric breakdown](/golf/radar-vs-photometric-launch-monitor). For most low-basement builders, a [SkyTrak+](/golf/skytrak-plus-review) is the sweet spot: side-mounted, accurate, no overhead clearance, and no annual subscription.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Best for 8.5 ft</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Side-of-ball photometric · no overhead clearance</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">The unit a low basement is practically asking for. It sits beside the ball and reads it at impact, so the ceiling never enters the equation — no downward camera throw to choke off. Accurate, tight-room friendly, and no annual fee while you spend your money on the room instead.</p>
+    <span class="gp-price">~$2,995</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/skytrak-plus">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Accuracy-first alternative</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Foresight FSP sensor · side-of-ball</span>
+    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <p class="gp-why">The other right answer for a low room: same side-of-ball geometry, with a Foresight sensor delivering ball data within ~2% of a $14K GCQuad. It suits a low-but-deeper basement; just price the subscription tiers in, because club data and full sim live behind annual fees.</p>
+    <span class="gp-price">~$2,499</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Step 3: Short-Throw Projection, Not Long-Throw
 
@@ -76,6 +109,11 @@ Low-ceiling rooms are rarely uniformly low — they have a *lowest* point (a duc
 - **Mind the projector and sensor placement** so neither eats into the clearance you just bought.
 
 A few inches of thoughtful layout often turns a "won't fit" room into a comfortable one — cheaper than any gear swap.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Low ceilings are rarely uniformly low. Find the single lowest point — a duct, a beam, a joist run — and offset your hitting position toward the highest open span. Recovering even four inches of effective clearance can be the difference between catching a beam and a clean follow-through, and it costs nothing but a tape measure.</p>
+</div>
 
 ## Step 5: Accept the Honest Compromises
 

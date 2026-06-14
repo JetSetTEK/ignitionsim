@@ -30,6 +30,13 @@ Wheelbase and pedals get all the attention, but the controls that separate a tid
 
 This guide sorts it out by what you actually drive. If you race GT3 on tarmac, your priorities are different from a rally or drift driver, and the honest answer for a lot of people is that they need neither yet — [pedals are still the upgrade that buys the most lap time](/racing/pedals-over-power). But if you're chasing slides or rowing through gears, here's how to spend well.
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/moza-hbp-handbrake"><img src="/images/gear/racing/moza-hbp-handbrake.jpg" alt="MOZA HBP handbrake" loading="lazy"></a><figcaption>MOZA HBP — handbrake</figcaption></figure>
+  <figure><a href="/racing/gear/moza-sgp-shifter"><img src="/images/gear/racing/moza-sgp-shifter.jpg" alt="MOZA SGP sequential shifter" loading="lazy"></a><figcaption>MOZA SGP — sequential</figcaption></figure>
+  <figure><a href="/racing/gear/thrustmaster-th8a"><img src="/images/gear/racing/thrustmaster-th8a.jpg" alt="Thrustmaster TH8A shifter" loading="lazy"></a><figcaption>TH8A — H-pattern</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-clubsport-shifter-sq-v15"><img src="/images/gear/racing/fanatec-clubsport-shifter-sq-v15.jpg" alt="Fanatec ClubSport Shifter SQ V1.5" loading="lazy"></a><figcaption>ClubSport SQ — premium</figcaption></figure>
+</div>
+
 ## Handbrakes: load-cell vs analog
 
 A sim handbrake does one job — give you a repeatable, modulated way to break rear grip — and the sensor type decides how well it does it.
@@ -46,6 +53,20 @@ A sim handbrake does one job — give you a repeatable, modulated way to break r
 
 If you drift or run gravel rally regularly, **buy load-cell.** If you pull the handbrake a handful of times a lap on the odd circuit, analog Hall is plenty.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-hbp-handbrake"><span class="gp-tag">Best value handbrake</span><img src="/images/gear/racing/moza-hbp-handbrake.jpg" alt="MOZA HBP handbrake" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Handbrake · spring/damping, USB or MOZA</span>
+    <span class="gp-name"><a href="/racing/gear/moza-hbp-handbrake">MOZA HBP Handbrake</a></span>
+    <p class="gp-why">Aluminum, mounts horizontal or vertical, and adjusts for angle, hardness and travel so you can dial it stiff for drift or progressive for rally. Not a true load cell, but its damped feel gets shockingly close for $99 — and it runs standalone on any rig over USB.</p>
+    <span class="gp-price">~$99</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-hbp-handbrake">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+HBP+handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Shifters: sequential vs H-pattern
 
 Two completely different tools, and people buy the wrong one constantly.
@@ -55,6 +76,34 @@ Two completely different tools, and people buy the wrong one constantly.
 **H-pattern shifters** replicate a classic gated manual — six-plus positions, and they pair with a clutch pedal for proper heel-toe. They're for **vintage cars, trucks, and the manual-immersion crowd.** Brilliant in an old Group A touring car or a road car; pointless in a GT3 that has no manual gate in real life. The catch: an H-pattern without a clutch pedal is half an experience, so factor a three-pedal set into the budget.
 
 **Combo units** that switch between sequential, H-pattern and even handbrake mode exist and are tempting, but a do-everything unit usually compromises the feel of each. If a single discipline matters most to you, buy the dedicated tool for it.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-sgp-shifter"><span class="gp-tag">Best sequential</span><img src="/images/gear/racing/moza-sgp-shifter.jpg" alt="MOZA SGP sequential shifter" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Sequential shifter · all-metal, Hall sensor</span>
+    <span class="gp-name"><a href="/racing/gear/moza-sgp-shifter">MOZA SGP Sequential Shifter</a></span>
+    <p class="gp-why">Aerospace aluminum and a wear-free Hall sensor at a budget-sequential price. It covers modern rally, touring and most GT racing — the one shifter that fits the widest slice of current content. Sequential only, so buy it for the right job.</p>
+    <span class="gp-price">~$129</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-sgp-shifter">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+SGP+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/thrustmaster-th8a"><span class="gp-tag">Best H-pattern value</span><img src="/images/gear/racing/thrustmaster-th8a.jpg" alt="Thrustmaster TH8A shifter" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">H-pattern + sequential · switchable, USB</span>
+    <span class="gp-name"><a href="/racing/gear/thrustmaster-th8a">Thrustmaster TH8A</a></span>
+    <p class="gp-why">The smart-money do-everything stick: full-metal 7+1 H-pattern that flips to sequential, contactless Hall sensors that won't wear, and a knob that takes real aftermarket shifter knobs. Works on PC and console — the one to own if classic manuals are your thing.</p>
+    <span class="gp-price">~$160</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/thrustmaster-th8a">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TH8A+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## What each discipline actually needs
 

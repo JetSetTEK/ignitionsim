@@ -54,6 +54,11 @@ This is the whole fix, and it works on any base in any sim:
 
 You've now found the highest gain where you keep your detail. That's the target: maximum strength *without* throwing data away.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>You want the meter living in the green-to-amber and only kissing red on the genuinely violent stuff — a curb you hit hard, a snap lockup. A little clipping on those peaks is fine; you can't feel detail past a wall you're slamming into anyway. It's the constant red through every fast corner that's stealing your information.</p>
+</div>
+
 ## Recommended starting gains (so the walk-down is short)
 
 | Base torque | iRacing start | ACC start |
@@ -62,6 +67,20 @@ You've now found the highest gain where you keep your detail. That's the target:
 | **10Nm+** | ~60-65% | ~50-55% |
 
 Notice the heavier base starts *lower*. More torque means more headroom, but only if you don't immediately spend it by cranking the gain. Start conservative and walk **up** if the meter never reaches the top, rather than starting maxed and wondering why it's numb.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">More headroom</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">If your base genuinely runs out of ceiling on the biggest impacts even at a sane gain, 12Nm buys real headroom — a 12Nm base at 55% clips less than an 8Nm one at 80%. But fix the tuning first: most "dead" bases are over-cranked, not under-powered.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Step 3: Surgical fixes for problem cars
 

@@ -53,11 +53,44 @@ Torque does three jobs. It sets the *ceiling* on how hard the wheel can push bac
 
 Read that table once and the marketing arms race dissolves. The reason brands sell 21Nm and 28Nm flagships is not that you need them — it is that "more Nm" is the easiest spec to print on a box.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/cammus-c5"><span class="gp-tag">Cheapest real DD</span><img src="/images/gear/racing/cammus-c5.jpg" alt="Cammus C5 direct-drive wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry DD bundle · 5Nm</span>
+    <span class="gp-name"><a href="/racing/gear/cammus-c5">Cammus C5</a></span>
+    <p class="gp-why">Proof that the floor moved: genuine direct-drive feel — base, wheel and pedals — for $299. Five newton-metres already out-resolves any belt wheel ever made, which is exactly why the "do I need DD" question is now a "yes, and it's cheap."</p>
+    <span class="gp-price">~$299</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/cammus-c5">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Cammus+C5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">The sweet spot</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">If you can stretch, this is where the "how much torque" answer lands for most people: 12Nm of real headroom, run at 70%, with detail that comes from a good motor and encoder rather than a bigger Nm number. The base you stop at, not the one you replace.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The diminishing-returns wall
 
 I keep a simple rule when someone asks me to spec their first real base: **buy the torque you will use at 70%, not 100%.** Almost nobody runs a base at its maximum — you would be arm-wrestling the car all race. A 12Nm base set to a comfortable 8Nm in software gives you a strong, honest signal with headroom in reserve. A 21Nm base set to that same 8Nm gives you... the same 8Nm, minus several hundred dollars and a louder, hotter, heavier box on your desk.
 
 The detail you feel — the texture of the asphalt, the tiny corrections as the rear steps out — comes from the motor's smoothness and the encoder's resolution, not its peak force. This is why **Simagic's Alpha Evo** line earned its reputation: its low-inertia servos and 21-bit encoders feel more *detailed* than rivals at the same Nm, which is the spec that actually matters once you are past 8Nm or so.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>When you compare two bases at the same torque, ignore the Nm entirely and look at two numbers nobody markets: encoder resolution (21-bit and up is excellent) and whether the motor is described as "low-inertia" or "low-cogging." Those decide how much detail rides on top of the force — and detail, not peak torque, is what you actually feel at the limit.</p>
+</div>
 
 If you are mapping a budget, plug your numbers into [the Rig Configurator](/racing/configurator) and watch how little the lap-time-relevant feel changes between the mid and high tiers. The money is better spent elsewhere — which is the entire argument I make in [Pedals Over Power](/racing/pedals-over-power).
 

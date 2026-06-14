@@ -64,6 +64,11 @@ The fix the community swears by: **disable twist on the right stick.** Move yaw 
 
 Either way, the principle holds: **don't let your aiming axis share a control with an accidental motion.** Keep twist on the *left* stick, where it does a translation axis you're not relying on for fine aim. This single change is the difference between "my aim drifts and I don't know why" and steady gimbal tracking at range.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most common "my HOSAS feels broken" post on r/hotas is a buried double-bind: a default keyboard or stick binding still driving an axis you also mapped to a stick. Both games happily let two inputs fight over one ship axis, and the result is a ship that cheats sideways when you roll. Clear every default in the category before you assign your own — it fixes 90% of these.</p>
+</div>
+
 ## Setting it up in Elite Dangerous
 
 Elite detects multiple devices cleanly, which makes this the easy game.
@@ -91,6 +96,11 @@ Because Star Citizen leans on an off-hand strafe grip, this is where an analog l
 ## After the binds: tune the curves
 
 Raw linear axes feel twitchy near center, where fine aim lives. Once your binds are in, the next job is a mild **S-curve** plus a small center deadzone on the aiming stick so long-range tracking holds steady. That's a tuning task, not a binding task, and it lives in your stick's software — VKBDevCfg for VKB, VPC for Virpil, SimAppPro for WinWing. Get the binds right first; tune the feel second.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Build the curve in your stick's software, not the game's. Star Citizen's per-axis sensitivity gets wiped or shuffled across patches, and Elite's curve tools are coarse. A curve baked into VKBDevCfg, VPC, or SimAppPro rides along at the hardware level — it survives game updates, transfers between titles, and applies before the game ever sees the axis.</p>
+</div>
 
 ## Verdict
 

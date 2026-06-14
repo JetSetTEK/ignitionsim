@@ -31,6 +31,13 @@ Most boutique flight gear punishes you for starting cheap — your entry stick b
 
 This is the ladder, rung by rung, with the price of each step and — more importantly — the *trigger* that tells you it's time to take it. If you're not yet committed to VKB specifically, weigh it against the field in [the best beginner HOSAS setup under $300](/space/best-beginner-hosas-under-300) first. This guide assumes you've decided to buy into VKB and want to know how far the road goes.
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a><figcaption>Step 1 — Gladiator NXT EVO pair</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a><figcaption>Step 2 — Omni-Throttle</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Base" loading="lazy"></a><figcaption>Step 3 — Gunfighter Mk.IV base</figcaption></figure>
+  <figure><a href="/space/gear/vkb-mcg-pro-grip"><img src="/images/gear/space/vkb-mcg-pro-grip.jpg" alt="VKB MCG Pro Grip" loading="lazy"></a><figcaption>Step 4 — MCG combat grip</figcaption></figure>
+</div>
+
 ## The ladder at a glance
 
 | Step | Hardware | Added cost | Trigger to buy it |
@@ -58,6 +65,20 @@ The **Gladiator NXT EVO Omni-Throttle** (around $149) fixes that. It's a Gladiat
 
 **Trigger to buy:** you've caught yourself wishing the left stick would stay where you put it. If that's never bothered you, skip this rung entirely.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Step 2 · the cruise fix</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Off-hand controller · multi-axis thrust, holds position</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator NXT EVO Omni-Throttle</a></span>
+    <p class="gp-why">The rung you add the day a forty-minute supercruise makes you wish the left stick would just stay put. Same magnetic-sensor quality as the Gladiator, mounted on an Omni adapter so your off hand strafes and holds a cruise position. Skip it entirely if a self-centering left stick has never bugged you.</p>
+    <span class="gp-price">~$149</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Omni-Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 3: The Gunfighter base — the feel upgrade
 
 This is the real upgrade, and it's a *feel* upgrade, not a capability one. The **Gunfighter Mk.IV base** (around $200, base-only) brings adjustable cams — you can tune the centering force and the breakout feel in ways the Gladiator's fixed mechanism can't. The gimbal is heavier, smoother, and built for combat grips with more mass.
@@ -66,11 +87,39 @@ Because grips move between bases, you can do this incrementally: buy one Gunfigh
 
 **Trigger to buy:** you can articulate, specifically, what you dislike about the Gladiator's centering or breakout feel. If you can't name the complaint, you don't need the fix yet.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Step 3 · the feel upgrade</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Base" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Endgame base (base only) · adjustable cams, springs, dampers</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV (Base Only)</a></span>
+    <p class="gp-why">A feel upgrade, not a capability one — and that's the point. Swappable cams and springs let you tune centering force and breakout the Gladiator's fixed mechanism can't. Because grips move between bases, buy one base, move a Gladiator grip onto it, and run a mixed rig while you decide on the second. That staged path is the ladder's superpower.</p>
+    <span class="gp-price">~$289</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk.IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 4: The MCG Ultimate grip — the flagship
 
 The top rung is the **Gunfighter Mk.IV MCG Ultimate** (around $585-609 configured in the EU), which pairs VKB's flagship combat grip with the Gunfighter base. The MCG's trigger and button cluster are designed for the kind of bind-heavy combat that **Star Citizen** throws at you, and on the Gunfighter base it's the best thing VKB makes.
 
 This rung is unapologetically for enthusiasts. It's a want. The performance delta over a well-tuned Gladiator pair is real but small, and it's measured in grams of grip feel and the satisfaction of flagship hardware, not in kills-per-hour.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-mcg-pro-grip"><span class="gp-tag">Step 4 · the flagship grip</span><img src="/images/gear/space/vkb-mcg-pro-grip.jpg" alt="VKB MCG Pro Grip" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Combat grip (add-on) · 6 analog axes, 2 ministicks</span>
+    <span class="gp-name"><a href="/space/gear/vkb-mcg-pro-grip">VKB MCG Pro (Modern Combat Grip) Add-On</a></span>
+    <p class="gp-why">The top of the ladder for bind-heavy Star Citizen combat: six analog axes plus two ministicks, modular hats, and an adjustable palm rest for all-day comfort. It's a grip only — useless without a Gunfighter base under it. The Pro already covers six axes; most pilots don't need the pricier Ultimate's extra modules.</p>
+    <span class="gp-price">~$136</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-mcg-pro-grip">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+MCG+Pro+grip&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The honest stopping points
 
@@ -82,6 +131,11 @@ Here's where most pilots actually get off the ladder:
 - **Step 4 is for people who want the best, knowing the gap is small.** No shame in it — just go in clear-eyed.
 
 To make the most of any rung, learn VKB's tuning environment. VKBDevCfg is where curves, deadzones, and axis logic live, and an untuned Gunfighter aims worse than a well-tuned Gladiator. The hardware ladder and the software skill climb together.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>When you do step to a Gunfighter base, don't swap both hands at once. Move your premium base under the <em>aiming</em> hand first and leave the Gladiator on the off hand for a week. Almost nobody can feel the adjustable-cam difference on the translation stick — so if your budget only stretches to one base, that's the one base worth buying, and you may find you never need the second.</p>
+</div>
 
 ## Verdict
 

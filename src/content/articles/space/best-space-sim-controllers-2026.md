@@ -32,11 +32,32 @@ Space sim is the one discipline where the *kind* of controller matters more than
 
 So this ranking starts from the decision that actually shapes your purchase: HOSAS for pure space flexibility, HOTAS if you also fly aircraft, a single stick if you're on a console or just dipping in. I'll name the best at every budget, the price per stick, why it wins and who it's for. The good news: this is a niche where boutique sensor quality is genuinely affordable now.
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a><figcaption>VKB Gladiator NXT EVO — best overall building block</figcaption></figure>
+  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space Joystick" loading="lazy"></a><figcaption>WinWing Ursa Minor Space — best value</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Base" loading="lazy"></a><figcaption>VKB Gunfighter Mk.IV — best premium</figcaption></figure>
+  <figure><a href="/space/gear/turtle-beach-velocityone-flightstick"><img src="/images/gear/space/turtle-beach-velocityone-flightstick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Turtle Beach VelocityOne — best for Xbox</figcaption></figure>
+</div>
+
 ## Best overall HOSAS building block: VKB Gladiator NXT EVO Space Combat Edition
 
 The [VKB Gladiator NXT EVO 'Space Combat Edition'](/space/gear/vkb-gladiator-nxt-evo-space-combat-edition) (~$119 each) is the single most-recommended HOSAS building block, and for good reason: it puts an all-metal-internals gimbal with **contactless magnetic sensors** — no potentiometer drift — at a price that lets you buy two for a complete twin-stick rig. The self-centering twist axis gives you the sixth axis you need, the space-oriented button layout is purpose-built, and it's available as dedicated left- or right-hand sticks. The trade versus the Gunfighter tier is a non-adjustable cam/spring feel, but for most pilots that feel is already excellent.
 
 Want the off-hand half done right? The [Gladiator NXT EVO Omni-Throttle](/space/gear/vkb-gladiator-nxt-evo-omni-throttle) (~$149) mounts a Gladiator on an adapter so your off-hand becomes a true multi-axis thrust/strafe controller — exactly what a six-axis ship wants instead of a single-axis lever.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Best overall</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">HOSAS building block · contactless magnetic, all-metal gimbal</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO "Space Combat Edition"</a></span>
+    <p class="gp-why">The single most-recommended HOSAS stick for one reason: boutique magnetic-sensor quality at a price that lets you buy two. The self-centering twist covers your sixth axis, and the grips climb onto a Gunfighter base later. Buy one left, one right — and budget for VKBDevCfg's learning curve.</p>
+    <span class="gp-price">~$119</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Best value: WinWing Ursa Minor Space
 
@@ -50,6 +71,20 @@ The classic cheapest credible HOSAS. The [T.16000M FCS](/space/gear/thrustmaster
 
 When you outgrow the Gladiator's fixed feel, the [Gunfighter Mk.IV base](/space/gear/vkb-gunfighter-mk4-base) (~$289, base only) is the endgame destination. It adds adjustable axis dampers, swappable cams and springs, and a no-stiction soft-start clutch for the smoothest movement in VKB's lineup, with five interchangeable grips on one connector. Top it with the [MCG Pro grip](/space/gear/vkb-mcg-pro-grip) (~$136) — six analog axes and two ministicks for enormous bind coverage. The Virpil equivalent is the [VPC WarBRD-D base](/space/gear/virpil-warbrd-d-base) (~$260) under a [Constellation ALPHA grip](/space/gear/virpil-constellation-alpha-grip) (~$210), available in dedicated left and right variants for a true mirrored pair and the deepest on-grip control set in the hobby. Pure HOTAS players who keep a throttle should look at the superb [Virpil MongoosT-50CM3 throttle](/space/gear/virpil-mongoost-50cm3-throttle) (~$380) with its CosmoSim detent profile.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Best premium</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Base" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Endgame base (base only) · adjustable cams + dampers</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV (Base Only)</a></span>
+    <p class="gp-why">The destination when the Gladiator's fixed feel stops satisfying. Swappable cams, springs, and a no-stiction soft-start clutch give you the smoothest, most tunable gimbal VKB makes, and five grips drop onto one connector. Remember it's a base only — a grip adds $130+, so price the whole thing before you fall in love.</p>
+    <span class="gp-price">~$289</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk.IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Best for Xbox: Turtle Beach VelocityOne Flightstick
 
 Console pilots can't use any of the boutique gear above, full stop. The [Turtle Beach VelocityOne Flightstick](/space/gear/turtle-beach-velocityone-flightstick) (~$130, often ~$97-99 on sale) is the rare licensed Xbox flight stick, explicitly marketed for air *and* space combat. It packs an OLED data display, 27 programmable buttons, an integrated mini-throttle and ambidextrous adjustment. The headline complaint is a very stiff, non-adjustable centering spring, and it's a single stick rather than a HOSAS — but for Xbox space pilots, it's the option that matters.
@@ -57,6 +92,25 @@ Console pilots can't use any of the boutique gear above, full stop. The [Turtle 
 ## Don't forget the mount: Monstertech Table Mount
 
 The most under-appreciated problem in space sim: tabletop sticks slide under aggressive combat input. The [Monstertech Table Mount](/space/gear/monstertech-table-mount) (~$100 each) is the standard fix — an anodized aluminum profile with a quick-release clamp that locks each stick rigid, broadly compatible across VKB, Virpil, WinWing, Thrustmaster and more. A HOSAS needs two. Pricey, but a buy-once item that transforms how a rig feels.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Don't skip this</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech Joystick / HOTAS Table Mount" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Mount · anodized aluminum, quick-release clamp</span>
+    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Joystick / HOTAS Table Mount</a></span>
+    <p class="gp-why">The cheapest upgrade that fixes a problem you didn't know you had: sticks walking across the desk mid-dogfight. Anodized aluminum, quick-release clamp, locks each stick rigid at an ergonomic angle. A HOSAS needs two — budget it in from the start, not after your aim mysteriously "gets worse."</p>
+    <span class="gp-price">~$100</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most-repeated newbie regret on r/hotas isn't "I bought the wrong stick" — it's "I bought one stick to try HOSAS." The off-hand variant is always the one that's out of stock, so people fly single-stick for a month, get a bad first impression of two-stick flying, and bounce. If you're going HOSAS, commit to the pair up front.</p>
+</div>
 
 ## The 2026 space controller shortlist
 

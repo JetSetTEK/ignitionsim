@@ -27,6 +27,11 @@ I have built and torn down enough home golf bays to know exactly where the money
 
 There are four honest tiers. Everything else is marketing.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The number that surprises every first-time buyer on r/golfsimulator: the room costs about as much as the thing reading the ball. People budget $3K for a sensor and are stunned the screen, enclosure, projector, mat, and PC add up to another $3K–$5K. Price the whole bay before you fall in love with a launch monitor spec sheet.</p>
+</div>
+
 ## Tier 1 — The $1,000–$3,000 Practice Setup
 
 This is the "real data, modest immersion" tier. You hit into a net or a basic enclosure, you stare at a tablet, and you get genuinely useful numbers.
@@ -42,6 +47,20 @@ The anchor is a portable radar or fusion launch monitor. The **Garmin Approach R
 | **All-in** | **$1,100–$1,650** | Plus a laptop you likely own |
 
 The honest gotcha at this tier: radar units like the R10 and Mevo want **depth behind the hitter** to read full ball flight, so a closet-depth garage corner will degrade your data. If your space is tight, you are already being pushed toward photometric tech — which is the [room-size conversation](/golf/golf-simulator-room-size) you should have *before* buying.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Tier 1 anchor</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Dual-camera + radar fusion · ~$700</span>
+    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
+    <p class="gp-why">The most data-rich way to anchor a $1K–$3K practice build: measured spin (with RPT balls), real swing-review video, and official GSPro direct connect. It does the heavy lifting while the net, mat, and laptop you already own carry the rest of the tier.</p>
+    <span class="gp-price">~$699</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Tier 2 — The $5,000–$10,000 First Real Room
 
@@ -61,6 +80,20 @@ The launch monitor steps up to a **SkyTrak+** (~$2,995), the new **SkyTrak ST MA
 
 The trap here is subscriptions. The Bushnell Launch Pro is tour-grade, but full simulation and club data are gated behind annual fees — Silver around **$199/yr**, Gold around **$499/yr**, plus roughly **$250/yr** for GSPro. SkyTrak+ ships with its own practice range included and connects broadly without an annual fee, which is why subscription-averse buyers gravitate to it.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Tier 2 sweet spot</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Camera + dual radar · no mandatory fee</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">The unit that keeps a first-real-room build's lifetime cost honest. Strong photometric accuracy, broad software support, and — the part the subscription-gated rivals can't match — a practice range that never sends you a January bill. Friendly to a tighter room, too.</p>
+    <span class="gp-price">~$2,995</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/skytrak-plus">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Tier 3 — The $12,000–$30,000 Prosumer Build
 
 Now we are spending launch-monitor money on the *room* too. The sensor becomes a prosumer or near-commercial photometric unit, and the enclosure gets finished.
@@ -77,7 +110,26 @@ The **Foresight GC3** (~$6,999) brings fitting-grade triple-camera ball and club
 | Room finishing | $2,000–$8,000 | Flooring, lighting, trim |
 | **All-in** | **$15,500–$31,500** | |
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/foresight-gc3"><span class="gp-tag">Tier 3 club-data jump</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Triple-camera · fitting-grade club data</span>
+    <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight Sports GC3</a></span>
+    <p class="gp-why">Where a prosumer build earns its name — GCQuad-lineage club metrics at roughly half the GCQuad's price, with lifetime FSX Play on the straight GC3 (read the variant; the GC3S trades that for an annual fee). Worth it if you fit or instruct; mostly theoretical if you just want to play Pebble.</p>
+    <span class="gp-price">~$6,999</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/foresight-gc3">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 Who should skip this tier: if you are not a club fitter, instructor, or genuinely chasing tour-grade *club* data, the jump from a SkyTrak+ to a GC3 is mostly about club metrics, not ball flight realism. Many players are better served putting that delta into the mat, screen, and room finishing.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Build your budget from the bottom up, not the sensor down. Lock the mat, screen, and projector lines <em>first</em> — they're the safety-and-immersion floor — then spend whatever's left on the launch monitor. Buyers who do it the other way end up with a $7K sensor reading a swing off a $99 mat into a baggy screen.</p>
+</div>
 
 ## Tier 4 — The $40,000–$70,000 Luxury Install
 

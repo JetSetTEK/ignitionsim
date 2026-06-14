@@ -30,6 +30,12 @@ Space sims demoted the throttle. In Star Citizen and Elite, the off-hand stick d
 
 So this guide is throttle-first. I'll walk the three tiers — budget, mid, and flagship — and tell you honestly what each price jump actually buys you in feel and function.
 
+<div class="shotgrid">
+  <figure><a href="/space/gear/thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — budget rail throttle</figcaption></figure>
+  <figure><a href="/space/gear/virpil-mongoost-50cm3-throttle"><img src="/images/gear/space/virpil-mongoost-50cm3-throttle.jpg" alt="Virpil MongoosT-50CM3 Throttle" loading="lazy"></a><figcaption>Virpil MongoosT-50CM3 — flagship lever</figcaption></figure>
+  <figure><a href="/space/gear/vkb-stecs-standard-mk2-throttle"><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Mk.II Standard Throttle" loading="lazy"></a><figcaption>VKB STECS Mk.II — the value flagship</figcaption></figure>
+</div>
+
 ## What "good" means for a DCS throttle
 
 Before the picks, the spec sheet that matters:
@@ -41,6 +47,11 @@ Before the picks, the spec sheet that matters:
 - **Switch and axis count.** Flaps, speedbrake, comms, countermeasures — the systems load is heavy, and the throttle carries a lot of it.
 
 Sensor type matters too: Hall-effect / magnetic sensors don't drift the way old potentiometers do, and in 2026 they're the bar to clear.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Set your afterburner detent so the gate sits a hair <em>below</em> 100% axis travel, not at the very top. DCS reads full mil power before the physical notch, so leaving a sliver of travel above the detent gives you a clean, repeatable "mil vs burner" break you can feel in the dark — and stops you from accidentally lighting the cans during a formation join.</p>
+</div>
 
 ## The 2026 tier table
 
@@ -62,7 +73,21 @@ The honest caveats: the TWCS spring is stiff out of the box (many pilots loosen 
 
 This is the tier I'd send most serious DCS buyers to. WinWing crossed over from building DCS cockpit replicas, and it shows: the **Orion 2** pairs an all-metal base with a DCS-faithful grip — the **F-16EX** or an **F/A-18C** Hornet grip — plus a metal throttle, and it uses the same class of Hall-effect sensors as VKB's high-end gear. For around $500 it's widely called the best bang-for-buck HOTAS for a beginner who wants something to grow into.
 
-The two honest gripes: the stock cams and springs run soft, so a heavier grip can feel slack until you buy a stiffer spring kit, and the F-16EX grip is right-hand-shaped (irrelevant for DCS, but a poor fit if you later want a symmetric HOSAS). The decisive advantage is the ecosystem — WinWing's ICP, UFC, and MFD panels plug straight in, so the Orion 2 is the on-ramp to a real cockpit, not just a stick. The [WinWing Orion 2 base](/space/gear/best-space-sim-controllers-2026) is the platform piece here.
+The two honest gripes: the stock cams and springs run soft, so a heavier grip can feel slack until you buy a stiffer spring kit, and the F-16EX grip is right-hand-shaped (irrelevant for DCS, but a poor fit if you later want a symmetric HOSAS). The decisive advantage is the ecosystem — WinWing's ICP, UFC, and MFD panels plug straight in, so the Orion 2 is the on-ramp to a real cockpit, not just a stick. The [WinWing Orion 2 base](/space/gear/winwing-orion-2-base) is the platform piece here.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/winwing-orion-2-hotas-f16ex"><span class="gp-tag">The value sweet spot</span><img src="/images/gear/space/winwing-orion-2-hotas-f16ex.jpg" alt="WinWing Orion 2 HOTAS F-16EX combo" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Metal HOTAS combo · F-16EX grip, Hall sensors</span>
+    <span class="gp-name"><a href="/space/gear/winwing-orion-2-hotas-f16ex">WinWing Orion 2 HOTAS (F-16EX combo)</a></span>
+    <p class="gp-why">WinWing built DCS cockpit replicas before it built HOTAS, and it shows in the F-16EX grip's fidelity. The real reason to buy it over the budget tier isn't the throttle — it's that the ICP, UFC, and MFD panels bolt straight on, so this is the on-ramp to a full pit. Budget a stiffer spring kit; the stock cams run soft.</p>
+    <span class="gp-price">~$460</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/winwing-orion-2-hotas-f16ex">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Flagship throttle — Virpil MongoosT-50CM3 (~$380)
 
@@ -70,9 +95,37 @@ When you want the throttle to be the star, this is the one most people land on. 
 
 Two realities to plan around: Virpil sells in restock waves and frequent B-stock drops rather than constant retail supply, so prices swing (often down near $315 on sale) and stock is intermittent — buy when a drop lands. And it's a standalone throttle; you're pairing it with a separate stick base. For DCS pilots who already own a good stick and want the best lever in the room, it's arguably the finest standalone throttle made.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/virpil-mongoost-50cm3-throttle"><span class="gp-tag">Flagship throttle</span><img src="/images/gear/space/virpil-mongoost-50cm3-throttle.jpg" alt="Virpil MongoosT-50CM3 Throttle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Standalone throttle · dual levers, 4 detent profiles, slew</span>
+    <span class="gp-name"><a href="/space/gear/virpil-mongoost-50cm3-throttle">Virpil MongoosT-50CM3 Throttle</a></span>
+    <p class="gp-why">When the throttle is the star, this is the one. Dual linkable levers, two adjustable detents for the afterburner gate, a slew ministick for the TGP, and a tank-like duralumin feel. Four detent profiles take it from A-10 to Hornet to spaceship. Just learn to pounce on the B-stock drops — retail stock is a rumor.</p>
+    <span class="gp-price">~$380</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/virpil-mongoost-50cm3-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Flagship alternative — VKB STECS Mk.II Standard (~$289)
 
 VKB famously doesn't make a traditional HOTAS throttle of its own gimbals — the **STECS** is its answer, and it's the natural pairing if your stick is a VKB Gunfighter or Gladiator. It's a modular dual-lever throttle with adjustable detents and VKB's usual contactless-sensor quality at a notably lower price than the Virpil. If you're building inside the VKB world, this keeps you in one software ecosystem (VKBDevCfg) and one support channel. It's the value flagship of the throttle tier.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-stecs-standard-mk2-throttle"><span class="gp-tag">Value flagship</span><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Throttle System Mk.II Standard" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Modular dual-lever throttle · swappable detent frames</span>
+    <span class="gp-name"><a href="/space/gear/vkb-stecs-standard-mk2-throttle">VKB STECS Throttle System Mk.II — Standard</a></span>
+    <p class="gp-why">The throttle to buy if your stick already says VKB on it. Heavy steel base, a swappable detent system with L/V/W inserts for custom afterburner and reverse gates, and two ministicks — all for less than the Virpil. One software ecosystem (VKBDevCfg), one support channel, no vendor-mixing headaches.</p>
+    <span class="gp-price">~$289</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-stecs-standard-mk2-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+STECS+Mk.II+Standard&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Prestige — Thrustmaster Warthog Throttle, standalone (~$330)
 

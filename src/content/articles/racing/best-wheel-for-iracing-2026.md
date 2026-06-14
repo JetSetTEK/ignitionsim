@@ -28,6 +28,13 @@ related:
 
 iRacing is the sim that turns gear into a religion, and the most-asked question in any rookie Discord is the same every week: *what wheel should I buy for iRacing?* The honest answer annoys people, because it isn't a model number — it's a principle. iRacing rewards **consistency over a stint**, and consistency comes from a base that's smooth, detailed and stable for an hour, not the one with the biggest Nm sticker. Let me show you the shortlist that actually matters in 2026, and why I'd stop spending sooner than the marketing wants you to.
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the pick</figcaption></figure>
+  <figure><a href="/racing/gear/moza-r9"><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a><figcaption>MOZA R9 — spend less</figcaption></figure>
+  <figure><a href="/racing/gear/simagic-evo-sport"><img src="/images/gear/racing/simagic-evo-sport.jpg" alt="Simagic Alpha Evo Sport wheelbase" loading="lazy"></a><figcaption>Evo Sport — value</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-csl-dd"><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD wheelbase" loading="lazy"></a><figcaption>CSL DD — console</figcaption></figure>
+</div>
+
 ## Why iRacing has a torque ceiling around 12Nm
 
 iRacing's tire model is famously communicative, but it's not asking for arm-wrestling forces. Across every class — Mazda MX-5, GT4, GT3, the open-wheel cars — the meaningful information lives well under 12Nm. Past that you're buying *headroom* (so spikes don't clip) and *heavy-car realism* (older non-power-steering cars), not raw pace.
@@ -47,6 +54,34 @@ That's why the community consensus has hardened: **9-12Nm is the sweet spot, and
 
 **The pick for most people: the MOZA R9 or R12.** The R9 at ~$400 gives you 9Nm and arguably the best wheelbase software in the business — and on a PC-only iRacing rig, its FFB refinement edges the CSL DD. Stretch to the **R12 (~$429, 12Nm)** and you get the practical torque ceiling, extra ports so pedals and a handbrake plug into the base instead of your PC, and compatibility with every current MOZA rim. That last point matters: some newer MOZA rims won't run on the older R9.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Best for iRacing</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 12Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">iRacing's tire model never asks for more than this delivers. Practical-ceiling torque, the best tuning software in the business, and an upgrade ladder you won't outgrow. The drivers winning splits aren't on 21Nm — they're on something like this, run below max and tuned to never clip.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/simagic-evo-sport"><span class="gp-tag">Best value</span><img src="/images/gear/racing/simagic-evo-sport.jpg" alt="Simagic Alpha Evo Sport wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 9Nm, low-inertia servo</span>
+    <span class="gp-name"><a href="/racing/gear/simagic-evo-sport">Simagic Alpha Evo Sport</a></span>
+    <p class="gp-why">Nine newton-metres of clean, low-cogging detail for $399, with an open QR-A that won't trap your rims. For PC-only iRacing it gives up almost nothing to the R9 and undercuts it on price.</p>
+    <span class="gp-price">~$399</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/simagic-evo-sport">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Sport&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The console asterisk
 
 Here's the catch that catches people: **most direct-drive bases are PC-only**, and iRacing runs on PC only anyway — so if iRacing is your *only* game, the console question is moot and the PC-only MOZA and Simagic bases are fair game.
@@ -62,6 +97,11 @@ The base makes the force; the rim makes you fast on race day. For iRacing road a
 - Enough buttons for pit limiter, black-box cycling, and headlights for multi-class endurance.
 
 A great base with a button-starved rim is a fast car with no dashboard.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Map brake bias to a rotary encoder, not two buttons, before your first endurance race. In a long iRacing stint you'll trim bias a dozen times a lap entering different corners — a detented dial you spin by feel keeps your eyes on the road, while hunting for "+ / −" buttons mid-braking is how rookies lock a wheel and lose three spots.</p>
+</div>
 
 ## What the community gets right (and wrong)
 

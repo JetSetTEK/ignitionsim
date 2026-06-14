@@ -25,6 +25,12 @@ related:
 
 The sub-$1,000 launch monitor is the most democratizing thing to happen to home golf. Ten years ago, real launch data meant a five-figure commercial unit. Today, three sensors under a grand will give you honest numbers and connect to a real simulator. But "under $1,000" is not one decision — it is three different bets on technology, software, and your room. Let me break down the bracket the way I'd lay it out for a buddy who just cleared a corner of the garage.
 
+<div class="shotgrid">
+  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10" loading="lazy"></a><figcaption>Garmin Approach R10 — the value benchmark</figcaption></figure>
+  <figure><a href="/golf/gear/rapsodo-mlm2pro"><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO" loading="lazy"></a><figcaption>Rapsodo MLM2PRO — the data-honest pick</figcaption></figure>
+  <figure><a href="/golf/gear/flightscope-mevo-gen2"><img src="/images/gear/golf/flightscope-mevo-gen2.jpg" alt="FlightScope Mevo Gen 2" loading="lazy"></a><figcaption>FlightScope Mevo Gen 2 — the no-fee fusion step-up</figcaption></figure>
+</div>
+
 ## The Contenders
 
 Three units own this tier:
@@ -52,11 +58,44 @@ The R10 is the unit I point most first-timers to. For around **$600** you get a 
 
 The honest catch is radar's nature: it wants **depth behind you** to read full ball flight. In a shallow indoor room it extrapolates from less data and gets less reliable — which is the [whole radar-vs-photometric story](/golf/radar-vs-photometric-launch-monitor). Spin is estimated, not measured, which matters more to data nerds than to weekend players.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Best value</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Doppler radar · ~16 metrics · on-device sim</span>
+    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <p class="gp-why">The cheapest credible door into real launch data, and the only one in this bracket with a true on-device simulator — you can play before you ever build a PC. Just feed it the depth behind you that every radar unit quietly demands.</p>
+    <span class="gp-price">~$600</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Rapsodo MLM2PRO: The Data-Honest Pick
 
 The MLM2PRO is the one I'd buy if I cared about *measured* numbers. At roughly **$700** it adds dual-camera fusion to radar, which gets you genuinely measured spin rather than an estimate, and the camera component makes it more forgiving indoors than pure radar. The headline development is the **official GSPro direct connect** announced at the 2025 PGA Show — that collapsed the price of legitimately GSPro-ready hardware toward $700, which is a big deal.
 
 It is phone-tethered and portable, indoor and outdoor friendly. The premium subscription is a lifetime unlock around **$500** rather than an annual bleed, which suits the no-recurring-fee crowd. If your room is tight and you want the best data per dollar, this is the pick.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Most data per dollar</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Dual-camera + radar fusion · measured spin</span>
+    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
+    <p class="gp-why">The richest data set under a grand, and the only one here with official GSPro direct connect. Measured spin needs RPT-marked balls — the asterisk nobody mentions until your spin numbers look suspiciously round — but for $700 nothing else packs in this much.</p>
+    <span class="gp-price">~$699</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The recurring r/golfsimulator confession: "I bought the radar unit, jammed it three feet off my back wall, and spent a month blaming the software." Radar isn't broken in a shallow room — it's just guessing. Give it depth or buy the fusion unit; don't make it extrapolate a 300-yard flight from the first six feet.</p>
+</div>
 
 ## FlightScope Mevo: The Practice Specialist
 
@@ -69,6 +108,11 @@ The entry **Mevo** at around **$500** is the budget radar that leans more "pract
 - **Range-first practice with optional upgrades:** FlightScope Mevo entry — but understand it's the most practice-oriented of the three.
 
 Whichever you pick, budget for the software layer. GSPro runs about **$250/yr** and needs a Windows gaming PC, so factor that into the real cost — and choose your [simulator software](/golf/best-golf-simulator-software) deliberately, because compatibility can quietly rule a sensor in or out.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>The sticker price is the down payment, not the bill. A $600 R10 plus a $250/yr GSPro sub plus a ~$1,000 gaming PC is the real first-year number. If you'd rather not own a PC at all, the R10's on-device sim and the MLM2PRO's app keep you playing today — just know the deep course library lives on the GSPro side.</p>
+</div>
 
 ## The Verdict
 

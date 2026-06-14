@@ -46,6 +46,20 @@ It's also **smooth, silent and thermally stable** over long sessions. No fan whi
 
 Where you feel the ceiling is in **heavy cars and big moments.** A high-downforce LMP or an old non-power-steering car will ask for more than 5.5Nm can give, and you'll sense the base run out of room. For GT3, formula and road racing, though, 5.5Nm is plenty — you are not leaving lap time on the table at this tier.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">The subject</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 wheelbase bundle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry DD bundle · 5.5Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <p class="gp-why">The cheapest real MOZA — base, ES wheel and SR-P Lite pedals in a clean bundle. Silent, thermally stable, and stronger than newcomers expect at 5.5Nm. Buy it to spend less now and resell cheap when you climb the ladder; just confirm your mount's bolt pattern first.</p>
+    <span class="gp-price">~$440 (bundle)</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r5">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The two real catches
 
 I won't bury these, because they decide the purchase:
@@ -68,6 +82,20 @@ The R5 doesn't exist in a vacuum — it's the bottom rung of a ladder, and the n
 This is where buyers agonize, and there's a clean way to think about it. The R5 decision is **less "which is best" and more "which matches my cockpit and my budget right now."** Financially, the R5 is often the smart play: you spend less upfront, learn what you actually want, and **resell the bundle with minimal loss** to move up to an R12 or R16 a year later with real knowledge instead of guesses.
 
 The counter-argument is just as honest: for someone who already knows they're hooked, the **R9 delivers the 9Nm sweet spot for similar money**, and the **R12 adds extra ports** (pedals, handbrake and shifter plug into the base, not your PC) plus **compatibility with every current MOZA rim** — some newer MOZA wheels won't run on the older R9. If you're confident you'll keep racing, stepping up once is cheaper than buying twice.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r9"><span class="gp-tag">The step-up</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive base · 9Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9 V2</a></span>
+    <p class="gp-why">If you already know you're hooked, this is the smarter single purchase: the 9Nm FFB sweet spot for roughly the R5 bundle's money, with wireless V2 wheel comms. Buy once instead of twice — unless budget or cockpit size genuinely favors the smaller R5.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r9">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R9+V2+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Pro tips
 

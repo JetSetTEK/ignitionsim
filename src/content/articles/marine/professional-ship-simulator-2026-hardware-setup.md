@@ -53,7 +53,49 @@ That is the honest framing the rest of this niche lacks. You are not building ha
 
 **Rig 2 — "The engine room is mine" ($120–$220).** A throttle quadrant for twin throttles plus a small button box for the high-frequency switches — nav lights, horn, telegraph stages, autopilot toggles. With 100+ mappable buttons on offer, a 24- or 32-button box finally has somewhere to put every press. This is the sweet spot: it captures the bridge-officer workflow without fabricating furniture.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><span class="gp-tag">Engine room</span><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Twin throttles + thruster · 3 axes</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)</a></span>
+    <p class="gp-why">Three of PSS's nine axes, sorted for ~$60: port throttle, starboard throttle, bow thruster. The single cheapest upgrade that makes ringing up "half ahead" feel like a job instead of a mouse click.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/pxn-cb1-button-box"><span class="gp-tag">No-fab panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Button box · 19 controls, 30 functions</span>
+    <span class="gp-name"><a href="/marine/gear/pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
+    <p class="gp-why">With 100+ mappable buttons on offer, a finished panel finally has somewhere to put them. Driver-free over USB-C, 30 functions for nav lights, horn, telegraph stages and autopilot — no soldering, just bind and go. Racing-styled RGB rather than salty, but it works day one.</p>
+    <span class="gp-price">~$80</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+button+box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 **Rig 3 — "Full bridge ambitions" ($250–$450).** Add a HOTAS stick or rudder pedals to exploit the rudder-deadzone option, a second monitor for the chart/radar screen, and a deeper button box. Beyond this you are into the DIY-console territory covered in our [Bridge Command DIY helm build](/marine/diy-bridge-command-throttle) — the same BU0836-and-potentiometer skills transfer directly, and a homemade lever set will read into PSS the same way it reads into any axis-aware sim. If you want to plan the whole desk before you buy, run the parts list through [the Rig Configurator](/racing/configurator) to sanity-check axis counts and USB ports.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/thrustmaster-t16000m-rudder"><span class="gp-tag">Rudder axis</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Rudder · Hall-effect twist axis</span>
+    <span class="gp-name"><a href="/marine/gear/thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
+    <p class="gp-why">PSS added a rudder-deadzone option specifically for HOTAS rigs — this is the stick to exploit it. The twist axis maps to rudder, and the Hall-effect sensors won't drift or develop dead spots after years, unlike the pot-based sticks they replace. Cheap for the build quality.</p>
+    <span class="gp-price">~$80</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Pro tip: do not pre-buy bindings
 
@@ -64,6 +106,11 @@ Here is the discipline that saves money. **Wait for the input menu to stabilize 
 Paraphrasing the sentiment across the Steam hub and maritime-sim forums: the excitement is real but cautious. Simmers burned by titles that slap "Simulator" on the box without analog support are treating the 9-axis claim as a promise to be verified, not a feature to celebrate yet. The most-asked questions are whether existing flight throttle quadrants will map cleanly to engine telegraphs, and whether the rudder-deadzone option is enough to make a HOTAS stick feel like a real wheel. Those are exactly the right questions — they are about feel under load, not spec sheets.
 
 There is also healthy skepticism about Early Access scope. The clickable cockpit and NMEA/GPX external-data support are headline features, but modding (custom harbors, player-built ships) is roadmap, not launch. Build for what ships, not what is promised.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The veterans keep saying the same thing under every PSS hype post: "Nine axes on a slide is a number, not a feel." They've been burned by titles that advertised analog support and shipped a deadzone-free mess. The early-tester wisdom is to hold off on ship-specific bindings until the input menu stops moving between hotfixes — buy general-purpose gear that earns its keep across every sim you own, and assign axes last.</p>
+</div>
 
 ## Who should skip this
 

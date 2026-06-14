@@ -28,6 +28,13 @@ related:
 
 Here's the upgrade nobody puts on their wishlist and everybody underestimates: **what you bolt your wheel to.** You'll obsess over Nm and load cells and then mount the whole thing to a flexing desk that quietly throws half the feel in the bin. Direct drive made this question urgent — belt wheels were too weak to expose a wobbly mount, but a DD base will twist a cheap desk and smear your force feedback into mush. So before you spend another dollar on torque, let's settle desk vs wheel stand vs cockpit honestly, with the torque thresholds where each one actually fails.
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/desk-clamp"><img src="/images/gear/racing/desk-clamp.jpg" alt="Generic desk clamp mount" loading="lazy"></a><figcaption>Desk clamp — entry only</figcaption></figure>
+  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a><figcaption>GT Omega Apex — entry cockpit</figcaption></figure>
+  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 rig" loading="lazy"></a><figcaption>Trak Racer TR80 — 8020</figcaption></figure>
+  <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro rig" loading="lazy"></a><figcaption>Sim-Lab P1-X — high end</figcaption></figure>
+</div>
+
 ## Why rigidity is a performance feature, not a luxury
 
 Force feedback is a *signal*. The whole point of direct drive is that the signal arrives sharp — the instant snap of oversteer, the precise edge of front grip, the hard transient of a curb. A mount that flexes is a low-pass filter you didn't ask for: it absorbs and rounds off exactly those sharp transitions, turning crisp information into vague wobble.
@@ -53,6 +60,20 @@ A good wheel stand is wildly underrated. It solves the desk's biggest problem �
 
 What you give up: a stand is still less rigid than a bolted rig, and the ergonomics are more limited — you're adjusting around a fixed-ish geometry rather than dialing in a true seating position. But for an entry-to-mid DD base in a space-constrained room, a quality foldable stand beats a flexing desk every single time. The **Next Level Racing F-GT Lite** is a frequent 2026 pick precisely because it supports DD up to about 10Nm yet still folds away.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Entry cockpit</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Steel-tube cockpit · seat included</span>
+    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
+    <p class="gp-why">The honest first step past a folding stand: a complete bolt-down cockpit with the seat in the box, rigid enough for belt and lower-torque DD. Heavy flagship racers will outgrow the steel tube, but for an entry-to-mid base it's a big rigidity jump at a friendly price.</p>
+    <span class="gp-price">~$389</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## When you've earned a cockpit (and the 8020 case)
 
 Move to a real cockpit when any of these are true:
@@ -62,6 +83,20 @@ Move to a real cockpit when any of these are true:
 - You plan to **keep upgrading** the base, pedals and seat over years.
 
 That last point is the whole argument for **8020 aluminum-profile rigs** — cockpits built from slotted extrusion that bolt together like industrial Lego. They're maximally rigid, infinitely adjustable, and crucially **future-proof**: you keep the frame across base swaps, pedal upgrades and seat changes instead of rebuying a stand that flexes the moment you go up a torque tier. Solid affordable entries (GT Omega, Sim-Lab, Trak Racer) start far cheaper than people assume, and they're the last rig most people buy.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Best-value 8020</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">8020 rig · 80x40mm profile, 25Nm+</span>
+    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <p class="gp-why">The point where "buy once" actually starts. The thick 80mm profile carries a 17Nm Simucube or a 25Nm flagship with no perceptible flex at the wheel mount, so it deletes the desk's lift problem permanently. Frame only — add a seat — but it's the last rig most people buy.</p>
+    <span class="gp-price">~$499 (frame)</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Pro tips before you mount anything
 

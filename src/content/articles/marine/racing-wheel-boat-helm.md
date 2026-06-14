@@ -38,6 +38,34 @@ The G923's headline feature over the G29 is **TrueForce** force feedback. In a r
 
 The practical conclusion: **for boats, buy the G29, not the G923.** You are paying roughly $50–$100 more for a feature the bay cannot use. Save it for the rig fund.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-g29-helm"><span class="gp-tag">Buy this one</span><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helm stand-in · 900° leather wheel</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-g29-helm">Logitech G G29 Driving Force (as helm)</a></span>
+    <p class="gp-why">The right racing wheel for marine, full stop. It steers as a credible helm, drops to ~$200 secondhand, and skips the TrueForce tax the G923 charges for force feedback no boat sim sends. The asterisk: verify your title reads analog steering before you buy.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-g29-helm">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-g923-helm"><span class="gp-tag">Skip for marine</span><img src="/images/gear/marine/logitech-g923-helm.jpg" alt="Logitech G G923 (as helm)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helm stand-in · TrueForce FFB (unused)</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-g923-helm">Logitech G G923 (as helm)</a></span>
+    <p class="gp-why">A fine wheel that's the wrong purchase here. Its whole reason to cost more than a G29 — TrueForce force feedback — is dead weight in marine sims that don't support FFB. Buy it if you race too; never buy it <em>for</em> boats.</p>
+    <span class="gp-price">~$300</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-g923-helm">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G923&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The real test: analog vs. left/right
 
 Here is what actually decides whether your wheel is a helm or a glorified arrow key. When a marine sim has proper **analog-axis support**, your wheel steers proportionally — a small turn is a small rudder angle, a hard-over is a hard-over. When a sim only reads **digital/keyboard-style input**, the wheel collapses to binary: any turn left is "press left," any turn right is "press right," with nothing in between. You lose the entire point of a helm.
@@ -61,6 +89,11 @@ A practical mapping checklist for a wheel-as-helm:
 3. **If steering is binary or absent**, layer in JoyToKey or vJoy to remap rotation to the title's steering input.
 4. **Reduce the wheel's rotation range** in the Logitech software if a full 900° turn feels absurd for a slow-responding vessel — a tighter range often feels more ship-like.
 5. **Ignore force feedback settings entirely.** They will do nothing here.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Dial the wheel's rotation down in Logitech G HUB before you judge the feel. A racing wheel's full 900° lock-to-lock is wrong for a vessel that answers its helm slowly — drop it to ~360–540° and a hard-over starts to feel like a ship leaning into a turn instead of a go-kart twitch.</p>
+</div>
 
 ## What about the throttle?
 

@@ -26,6 +26,13 @@ related:
 
 If you read only one article before spending money in this bay, make it this one. The expensive mistake in marine sim is buying a wheel and a throttle quadrant, plugging them in, and discovering the game never reads the axes — your wheel collapses to left/right and your throttle lever does literally nothing. The hardware was never the problem. The *software gate* is. So this is the map I wish existed when I started: which titles actually read your analog inputs, which only see keyboard-style digital presses, and what glue software bridges the gap.
 
+<div class="shotgrid">
+  <figure><a href="/marine/gear/bridge-command-free-sim"><img src="/images/gear/marine/bridge-command-free-sim.jpg" alt="Bridge Command (free open-source ship sim)" loading="lazy"></a><figcaption>Bridge Command — native, documented build</figcaption></figure>
+  <figure><a href="/marine/gear/professional-ship-simulator-context"><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a><figcaption>Professional Ship Simulator — 9-axis, the one to watch</figcaption></figure>
+  <figure><a href="/marine/gear/logitech-g29-helm"><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a><figcaption>Logitech G29 — the wheel you're checking support for</figcaption></figure>
+  <figure><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a><figcaption>Saitek quadrant — needs an analog-aware title</figcaption></figure>
+</div>
+
 ## The one rule that explains everything
 
 Marine titles fall into two camps on input. Some have proper **analog-axis support**, so a wheel steers proportionally and a throttle lever reads continuously. Others only accept **digital, keyboard-style input**, so any analog signal collapses: a wheel becomes binary left/right, and an analog throttle axis is simply never polled. There is no in-between for a given input — either the game reads the axis or it doesn't.
@@ -49,7 +56,33 @@ A few things jump out of that table, and they are the whole point.
 
 **Bridge Command is the gold standard for builders.** It is the only title that *documents its own hardware*, which is exactly why it is the [flagship DIY build target](/marine/diy-bridge-command-throttle). When a sim publishes the build, axis support is a given.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/bridge-command-free-sim"><span class="gp-tag">Native, today</span><img src="/images/gear/marine/bridge-command-free-sim.jpg" alt="Bridge Command (free open-source ship sim)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Free ship sim · documents its own hardware</span>
+    <span class="gp-name"><a href="/marine/gear/bridge-command-free-sim">Bridge Command (free open-source ship sim)</a></span>
+    <p class="gp-why">The only title that ends the analog-axis argument before it starts, because it ships the build guide for the very hardware it reads. Free, open-source, ship-handling focused — if you're buying or building a DIY board, this is the sim it was designed around.</p>
+    <span class="gp-price">Free</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Full review ▸</a>
+    </span>
+  </div>
+</aside>
+
 **Professional Ship Simulator is the one to watch.** Rebranded from NauticXP and targeting Steam Early Access in **2026**, it advertises a **9-axis** input model, **50+ buttons**, a triple-layer keyboard layout, and a **HOTAS rudder-deadzone** option. In a bay where most sims ignore half your hardware, a developer explicitly designing around nine axes is the most hardware-friendly signal in years.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/professional-ship-simulator-context"><span class="gp-tag">One to watch</span><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Upcoming ship sim · 9 axes, 50+ buttons</span>
+    <span class="gp-name"><a href="/marine/gear/professional-ship-simulator-context">Professional Ship Simulator (ex-Nautic XP)</a></span>
+    <p class="gp-why">The first mainstream marine title built to read a builder's rig as a first-class citizen — nine axes, a rudder-deadzone option aimed at HOTAS setups, the works. Steam Early Access targeted for 2026; treat the spec as a promise to verify, but it's the most hardware-friendly signal the niche has had.</p>
+    <span class="gp-price">TBD</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Full review ▸</a>
+    </span>
+  </div>
+</aside>
 
 **The middle of the table is where money gets wasted.** eSail, Sailaway III, Fishing: Barents Sea, and Seafarer all land in "partial" or "limited" — they will see *some* of your hardware natively and ignore the rest. For those titles, glue software is not optional.
 
@@ -63,6 +96,11 @@ When a title falls short of full native support, you bridge the gap with input-t
 - **x360ce** — emulates an Xbox controller, useful when a sim only recognizes gamepad input.
 
 For a title in the "partial" column, the workflow is usually: enable the controller natively, see what works, then layer **JoyToKey** or **vJoy** on top to remap the inputs the game ignored. For a "digital only" title, you go straight to **JoyToKey** to turn your analog wheel into the left/right keystrokes the game expects — accepting that you lose proportional steering in the process.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most expensive lesson in this bay gets posted weekly: "Bought a wheel and a quadrant, the wheel only goes hard-left or hard-right and the throttle does nothing — is my gear broken?" It isn't. The gear is fine; the title just doesn't poll analog axes. Read the row before you read the return policy.</p>
+</div>
 
 ## How to use this map before you buy
 

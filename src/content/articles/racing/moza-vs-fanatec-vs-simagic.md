@@ -31,6 +31,12 @@ Because here is the thing nobody tells you up front: the base is the cheapest, m
 
 In 2026 it is a genuine four-way war at the high end, but for most buyers it comes down to three: **MOZA Racing**, **Fanatec**, and **Simagic**. Here is how they actually compare as long-term homes.
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12 — deepest ladder</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a><figcaption>Fanatec — widest catalog</figcaption></figure>
+  <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic — best Nm/$</figcaption></figure>
+</div>
+
 ## The three at a glance
 
 | | **MOZA Racing** | **Fanatec** | **Simagic** |
@@ -49,6 +55,20 @@ MOZA's whole strategy is the *ladder*. It runs an unbroken value progression fro
 
 That is MOZA's pitch in one sentence: start cheap, upgrade in place, never re-buy your peripherals. The **CRP2** load-cell pedals (~$300, CNC aluminum, 200kg load cell) round out a fully in-house kit, and the Pit House software is genuinely well-regarded — not an afterthought. If you want a clear path from $300 to a 21Nm prosumer rig without ever leaving one brand, MOZA is built precisely for you. The catch: the single proprietary QR means you are buying MOZA rims, mostly, for the life of the setup.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Ladder anchor</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">MOZA ecosystem · 12Nm sweet spot</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">The rung most people stop on, and the clearest argument for the whole ladder. Buy here, climb to the R16 or R21 later, and your rims and software come with you — the entire point of choosing MOZA.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Fanatec: the mature catalog, post-Corsair
 
 Fanatec is the elder statesman, and the past two years were rough — the pre-acquisition turmoil scared off a lot of buyers. The **Corsair acquisition settled in 2025**, and the stabilization is real: a **3-year warranty**, **30-day returns** since June 2025, mid-2025 **price cuts** (the **ClubSport DD** dropped from ~$1,000 to ~$700), and a unified Fanatec App that finally tidied the software sprawl.
@@ -56,6 +76,20 @@ Fanatec is the elder statesman, and the past two years were rough — the pre-ac
 What you get for buying in is the **widest accessory ecosystem in the hobby** — more rims, more pedals, more shifters, more handbrakes than anyone — and the only realistic **PS5** path of these three (the **GT DD Pro** bundle, ~$600-700, 8Nm, is the go-to). The lineup runs **CSL DD** (5-8Nm) → **GT DD Pro** (8Nm) → **ClubSport DD** (12Nm) → **ClubSport DD+** (15Nm, PS5) → **Podium DD** (25Nm). The **ClubSport V3** pedals are still a load-cell realism benchmark.
 
 The honest downside is lock-in, and it is the worst of the three. Fanatec's **QR2 base-side will not enable force feedback on a non-Fanatec rim** unless you buy the Podium Hub adapter. That is the exact trap I dissect in [The Quick-Release Trap](/racing/quick-release-trap). Buy Fanatec knowing you are largely buying Fanatec rims forever — but if you race PS5 or want the deepest catalog, that is a price worth paying.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">The PS5 path</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Fanatec ecosystem · 8Nm, PS5 licensed</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <p class="gp-why">The one reason to choose Fanatec that the other two can't answer: real PS5 direct drive. It's the doorway into the widest accessory catalog in the hobby — just go in knowing the QR2 lock-in is the price of admission.</p>
+    <span class="gp-price">~$650</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Simagic: the 2025 value disruptor
 
@@ -65,11 +99,30 @@ The bigger story is the new **QR-A quick-release**, which finally opened Simagic
 
 The one disqualifier: **Simagic is PC-only, across the entire range.** If you race on console, stop reading and look at Fanatec or the MOZA R3. For PC racers chasing the best feel-per-dollar with the friendliest QR, though, Simagic is the 2026 value champion.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">Best Nm/$</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Simagic ecosystem · 18Nm, open QR-A</span>
+    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
+    <p class="gp-why">The base that reset everyone's value expectations: 18Nm for under $700, low-inertia servo feel, and a QR-A that finally lets Simagic owners run third-party rims. The PC value champion of 2026 — if your console never enters the equation.</p>
+    <span class="gp-price">~$699</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/simagic-evo-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Who should skip each one
 
 - **Skip MOZA** if you want maximum freedom to mix third-party rims — the single proprietary QR keeps you in-house.
 - **Skip Fanatec** if you are a pure-PC buyer optimizing for value, and you don't need the giant accessory catalog — you'll pay a premium for breadth you won't use, and inherit the worst lock-in.
 - **Skip Simagic** if you race on PS5 or Xbox. Full stop. The value is irrelevant if it won't run on your console.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The veterans in every ecosystem thread say the same thing the new buyers won't believe: the base you're agonizing over is the part you'll resell first. Nobody regrets which 12Nm base they bought — they regret the $1,200 of brand-locked rims and pedals they hung off it before realizing they wanted to switch. Pick the tribe, not the torque.</p>
+</div>
 
 ## The verdict
 

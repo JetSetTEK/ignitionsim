@@ -58,6 +58,25 @@ If you already own a racing wheel, sure, use it. eSail makes this easy: tick **"
 
 But the headline stays the same: **don't buy a wheel for a sailing sim.** It adds a touch of tactility and nothing to your capability. If you want the engine-control feel for a motor-sailing setup, a [Saitek flight throttle quadrant](/marine/gear/logitech-saitek-throttle-quadrant-telegraph) at ~$60–$80 is a far better-value addition than a wheel — three analog levers that actually map to something.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-g29-helm"><span class="gp-tag">Only if you own it</span><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helm stand-in · force feedback wasted here</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-g29-helm">Logitech G G29 Driving Force (as helm)</a></span>
+    <p class="gp-why">For sailing, a wheel is decoration with a USB cable. If you already own a G29 it'll auto-detect in eSail and steer fine — but never buy one for a sailing sim, and never pay the G923 premium for FFB the genre doesn't have. That money belongs in a second monitor.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-g29-helm">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Running a T500RS or other FFB wheel in eSail? Disable force feedback in the wheel's own software. The sim sends no FFB, so the wheel's self-centering just fights your hands the whole passage — a classic "why does my helm feel like it's possessed" support thread.</p>
+</div>
+
 ## A note on glue software
 
 Sailing sims are better-behaved than the ship and fishing titles when it comes to controllers — eSail's auto-detect genuinely works for the main axes. But "main axes" is the operative phrase. Anything beyond steer-and-throttle (mapping a button box, a custom sheet control, fine sail-trim bindings) often needs a mapping layer like JoyToKey or vJoy sitting between the hardware and the game. The full title-by-title support picture is in [the analog-axis compatibility map](/marine/marine-sim-controller-support); budget an evening for setup if you're going past a basic wheel-and-pad.
@@ -69,6 +88,20 @@ Sailing sims are better-behaved than the ship and fishing titles when it comes t
 **The comfortable sailing rig (~$200–$300).** Both sims, a dedicated second monitor for charts, and either a wheel you already own or a Saitek throttle quadrant for motoring. No new wheel purchase. The dollars go to screen real estate, which is where sailing skill actually lives.
 
 **The immersion route (~$499+).** A Meta Quest 3 for MarineVerse. This is the one case where the "hardware" is genuinely transformative — you hold the tiller and sheet with your hands — but it trades away the easy chart-reading of a flat second monitor. See [the VR sailing guide](/marine/vr-sailing-simulator) for the full trade-off.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">Immersion route</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">VR sailing · hand-tracked tiller & sheet</span>
+    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <p class="gp-why">The one hardware purchase that genuinely transforms a sailing sim — you grab the tiller and haul the sheet with your own hands, and the NauticEd course integration turns play into practice. The trade: charts get harder to read than on a flat second monitor.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 If you're building a shared rig that also does racing or flight and want to plan the desk layout and mounts around all three, [the Rig Configurator](/racing/configurator) is the place to lay it out before you buy.
 

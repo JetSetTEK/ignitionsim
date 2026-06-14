@@ -5,6 +5,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import StatBand from '../components/StatBand.astro';
 import BrandMarquee from '../components/BrandMarquee.astro';
 import RigFinder from '../components/RigFinder.astro';
+import GearCarousel from '../components/GearCarousel.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
@@ -31,6 +32,25 @@ const slides = hubCopy.map((c, i) => {
     ? { src: p.src, alt: p.alt || c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }
     : { src: `/images/hub/slide-${i + 1}.jpg`, alt: c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption };
 });
+
+// cross-bay editor's gear picks — top 2 per bay by rating, interleaved for visual variety
+const amazonTag = (site as any).affiliate?.amazonTag;
+const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
+const buyUrl = (p: any) => p.amazonAsin
+  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
+  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
+const topByBay = bays.map((b) =>
+  allProducts.filter((p) => p.bay === b.slug).sort((a, c) => (c.rating?.overall || 0) - (a.rating?.overall || 0)).slice(0, 2)
+);
+const gearItems: any[] = [];
+for (let i = 0; i < 2; i++) for (const list of topByBay) if (list[i]) {
+  const p = list[i];
+  gearItems.push({
+    href: `/${p.bay}/gear/${p.id}`, image: p.image || `/images/gear/${p.bay}/${p.id}.jpg`,
+    brand: p.brand, model: p.model, price: p.price, type: p.bay, buyUrl: buyUrl(p),
+  });
+}
 
 const schema = [{
   '@context': 'https://schema.org',
@@ -124,6 +144,16 @@ const schema = [{
             </div>
           ))}
         </div>
+      </section>
+    )}
+
+    {gearItems.length > 0 && (
+      <section class="sec">
+        <div class="sec-head">
+          <h2>Editor's gear picks</h2>
+          <a class="lbl" href="/racing/gear">browse the full database →</a>
+        </div>
+        <GearCarousel items={gearItems} id="home-gear-rail" />
       </section>
     )}
 

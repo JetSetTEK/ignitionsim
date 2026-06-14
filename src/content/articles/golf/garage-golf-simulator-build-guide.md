@@ -53,11 +53,39 @@ Garages tend to be deep but ceiling-limited, which steers the technology choice.
 
 If you are starting at the affordable end, our [breakdown of launch monitors under $1,000](/golf/best-golf-launch-monitor-under-1000) covers the R10, Rapsodo MLM2PRO, and entry Mevo trade-offs in detail. Spend here in proportion to how seriously you will use the data — not because a forum thread told you to.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Deep-garage starter</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Doppler radar · ~16 metrics · indoor/outdoor</span>
+    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <p class="gp-why">The radar pick that loves a garage — deep two-car bays give it the room behind the hitter it craves, and it doubles as an outdoor range unit on nice days. Pair it with a short-throw projector and a DIY frame and you have the sub-$2,000 weekend build the forums actually recommend.</p>
+    <span class="gp-price">~$600</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 3: The enclosure and screen — your safety system
 
 This is where garage builds get under-budgeted. The impact screen is not a movie screen; it is the thing standing between a 150 mph ball strike and your drywall. A bare net is fine for a hit-into-the-dark practice bay, but a real bay wants a tensioned screen inside a frame, with **releasable zip ties and a weighted bottom cable** to kill bounceback. Our [impact screen guide](/golf/best-impact-screen-golf-simulator) walks through the material tiers and the bounceback physics; the short version is that a premium tightly-woven screen costs more and bounces less, and the tensioning matters as much as the fabric.
 
 Budget $1,000 to $3,000 for a DIY enclosure kit plus screen at the garage tier. Build the frame 12 to 18 inches off the back wall so the screen has room to absorb and the ball never reaches concrete.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">DIY backbone</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY Golf Simulator Enclosure Kit" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Impact screen + nylon enclosure · bounceback control</span>
+    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure Kit with Impact Screen</a></span>
+    <p class="gp-why">The way to put your money in the sensor and self-build the room. Releasable zip ties and a weighted bottom cable kill the bounceback that sends balls back at your shins — the engineered version of the physics a bare net gets wrong. Add the pipe-framing kit if you don't want to source your own 2x4 frame.</p>
+    <span class="gp-price">~$1,155</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Carl%27s+Place+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Step 4: Projector and mat — the comfort layer
 
@@ -65,12 +93,31 @@ A short-throw projector earns its keep in a garage because it mounts close to th
 
 The mat is the most injury-relevant cheap part of the build. A premium turf platform that absorbs impact and accepts a real tee protects your wrists and elbows across thousands of swings; a $100 doormat-grade mat transmits shock into your joints and corrupts your contact data. Budget $300 to $700 and treat it as non-negotiable.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/country-club-elite-mat"><span class="gp-tag">Garage-tier mat</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite Golf Mat" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">110 oz nylon · real-tee · joint-friendly</span>
+    <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Real Feel Country Club Elite Golf Mat</a></span>
+    <p class="gp-why">The high-value first upgrade on a slab: forgiving enough to spare your wrists over thousands of reps, honest enough to punish a fat one, and tall enough in the pile to hold a real wooden tee. Commercial-grade durability without the platform-tier price.</p>
+    <span class="gp-price">~$599</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/country-club-elite-mat">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 5: The garage-specific gotchas
 
 - **Climate.** Most sensors are rated roughly 40 to 100 degrees Fahrenheit. Photometric cameras hate direct sun through a garage window, and screens stiffen in the cold. Real winters mean real climate control, or a three-season bay.
 - **The slab slopes.** Garage floors pitch toward the door. A leveled hitting platform under the mat keeps your stance square and your data honest.
 - **Parking duty.** If the car still needs the bay, a freestanding frame on casters or a hinged platform lets you stow everything — at the cost of re-leveling and re-aiming each time.
 - **Power and PC.** GSPro and E6 want a Windows machine; whether that has to be a gaming rig is a real question we answer in [do you need a gaming PC for a golf simulator](/golf/do-you-need-a-gaming-pc-golf-simulator).
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The garage-build regret order is remarkably consistent across r/golfsimulator: nobody wishes they'd bought a fancier launch monitor first. They wish they'd upgraded the screen (bounceback) and the mat (sore joints) before anything else, and that they'd priced the winter heating <em>before</em> committing. A frozen, dim two-car bay is the most expensive way to not play golf.</p>
+</div>
 
 ## What the community says
 

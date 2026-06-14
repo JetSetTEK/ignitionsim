@@ -36,17 +36,64 @@ This is not a consolation prize. The honest truth running through this whole bay
 
 If anything earns its place in a $200 budget, it is engine levers — not a wheel. The **Logitech G Saitek Pro Flight Throttle Quadrant** runs about **$60–$80** and gives you three analog levers that map naturally to port throttle, starboard throttle, and a bow thruster. In sims that read analog axes, this is the single best immersion-per-dollar purchase in the bay. The full repurposing walkthrough lives in the [hardware reality check](/marine/marine-sim-hardware-reality), but the headline is simple: real levers you can set and hold transform engine control in a way a keyboard never will.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><span class="gp-tag">Budget MVP</span><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Engine telegraph · 3 analog levers</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)</a></span>
+    <p class="gp-why">The bay's best immersion-per-dollar buy and it isn't close. Three levers become port throttle, starboard throttle and bow thruster — the one purchase under $200 that actually changes how the rig feels.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Maybe a wheel — but buy the cheap one, and check first
 
 A racing wheel as a helm is *optional*, and if you go that route, buy the budget option. The **Logitech G29** (~$250–$300) is technically over our $200 ceiling and the **G923** (~$349) further still — which is part of the point. A wheel is a stretch purchase, not a starter one. And whatever you do, **do not pay for the G923 over the G29 expecting force feedback to matter** — marine sims don't use FFB, so that premium buys nothing on water.
 
 Critically: before any wheel purchase, confirm your chosen title reads analog steering. As the [compatibility map](/marine/marine-sim-controller-support) shows, several popular titles only see the wheel as binary left/right, in which case you spent $250 to press the arrow keys. I unpack this in detail in [Can a Racing Wheel Be a Boat Helm?](/marine/racing-wheel-boat-helm).
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-g29-helm"><span class="gp-tag">Stretch buy</span><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helm stand-in · 900° wheel</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-g29-helm">Logitech G G29 Driving Force (as helm)</a></span>
+    <p class="gp-why">If you must have a wheel, this is the one — frequently ~$200 secondhand, and you skip the G923's TrueForce tax that buys you exactly nothing on water. Confirm your sim reads analog steering before you spend, or you've bought a very heavy arrow key.</p>
+    <span class="gp-price">~$250</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-g29-helm">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Live with the free-sim-plus-pad rig for a full week before you buy anything. The controls you keep wishing were physical are your shopping list — and they're almost never "a wheel." For most people the first dollar that earns its keep is engine levers, not steering.</p>
+</div>
+
 ## The smartest budget move: DIY
 
 Here is where the budget actually beats the wallet. For roughly **$25–$40** — a **BU0836** USB interface board and a few **10k linear potentiometers** from the junk drawer — you can build a first analog throttle lever that the sim reads as a real axis. Scale it up and the full [Bridge Command DIY helm and throttle build](/marine/diy-bridge-command-throttle) comes in under $60 total. That is a complete, position-holding ship's helm for less than a single off-the-shelf wheel, feeding the sim that documented the build.
 
 If you have any appetite for a soldering iron, this is the best dollar-for-dollar path in the entire bay.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836a-diy-board"><span class="gp-tag">Best value</span><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">DIY interface · 8 axes, no code</span>
+    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836a-diy-board">Leo Bodnar Electronics BU0836A USB Joystick Interface</a></span>
+    <p class="gp-why">Forty-two dollars and a fistful of 10k pots buys a true analog helm and twin throttles — a complete ship's wheel for less than a single off-the-shelf racing wheel. No firmware, no drivers; solder, plug in, done. The smartest money in the whole bay.</p>
+    <span class="gp-price">~$42</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/leobodnar-bu0836a-diy-board">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The budget tiers at a glance
 

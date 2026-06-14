@@ -46,6 +46,11 @@ Here is what each layout actually reaches as a smooth analog input versus a butt
 
 Count the analog rows. HOTAS gets four. HOSAS gets six. In a knife-fight at 200 meters where you are bleeding lateral thrust to slide your reticle onto a target, the difference between an analog strafe and a button is the difference between a controlled drift and a binary lurch.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The line you'll see over and over from converts on r/starcitizen: "the first three hours of HOSAS feel like learning to write with your off hand, and then one day it just clicks and you never go back." Nobody loves it on day one. The pilots who quit two-stick flying almost always quit inside that first awkward session — push through it.</p>
+</div>
+
 This is why the community consensus shifted. A few years ago "get a HOTAS" was the default advice. In 2026 the default for **Star Citizen** and **Elite Dangerous** is HOSAS, and the reason is not fashion — it is that the throttle's one job, smooth forward thrust, is the *least* combat-relevant axis a spaceship has.
 
 ## Where the throttle's job goes
@@ -53,6 +58,20 @@ This is why the community consensus shifted. A few years ago "get a HOTAS" was t
 The honest pushback on HOSAS is: "I want a throttle. I like setting a cruise speed and forgetting it." Fair. So where does that go in a two-stick world?
 
 You have three options. First, a self-centering left stick where forward thrust springs back to zero — fine for combat, annoying for long hauls. Second, a non-centering or detented off-hand grip like the **VKB Gladiator NXT EVO Omni-Throttle** (around $149), which puts a Gladiator stick on an omnidirectional adapter so the off-hand acts as a multi-axis thrust controller that can hold a position. Third — keep a throttle. Nobody is stopping you from running stick + stick + throttle if you have the desk space and the USB ports.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">The HOSAS throttle answer</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Off-hand controller · multi-axis thrust/strafe, holds position</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator NXT EVO Omni-Throttle</a></span>
+    <p class="gp-why">VKB's clever fix for the "I want a throttle but I fly HOSAS" itch. A Gladiator stick on an omnidirectional adapter, so your off hand strafes <em>and</em> holds a cruise position instead of springing back to zero. You keep analog lateral thrust and get set-and-forget speed — no wasted single-axis lever.</p>
+    <span class="gp-price">~$149</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Omni-Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 The point is that HOSAS does not *delete* throttle control. It demotes it from a dedicated lever to one of eight axes you can assign however you like. If cruise control matters to you, you spend an axis on it. If it doesn't, you get that axis back for something else.
 
@@ -65,9 +84,37 @@ I am an honest broker, so here is when you should *not* chase HOSAS:
 - **Cockpit immersion is the point.** If you want the A-10 throttle feel under your left hand because it *feels* like flying, that emotional payoff is real and no axis chart overrules it.
 - **You only fly Xbox.** Boutique twin-stick rigs are PC-only. On console your realistic choice is a single licensed stick like the **Turtle Beach VelocityOne Flightstick** (around $130), so the HOSAS debate is moot.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">When HOTAS wins</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">All-metal HOTAS · A-10C 1:1 replica, dual-throttle</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <p class="gp-why">The honest-broker exception to the HOSAS case. If you split time with DCS, this all-metal A-10 replica is the right tool for the aircraft — and forcing a second stick on it makes a worse plane setup. Note the catch the axis chart predicts: no twist axis, so for pure space it leaves two axes on buttons.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The hardware reality of going two-stick
 
 The catch with HOSAS is symmetry. You need a left-hand stick, and not every grip is ambidextrous. The cheapest path is two identical fully-mappable sticks: a **Thrustmaster T.16000M Space Sim Duo** (around $150) is the canonical budget on-ramp because the stick is genuinely left-hand mappable. Step up and a **WinWing Ursa Minor** pair (around $220-260) adds magnetic sensors and in-stick vibration. Above that, a **VKB Gladiator NXT EVO "Space Combat Edition"** (around $119 per stick) is the boutique entry that opens a real upgrade ladder.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Budget HOSAS on-ramp</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">HOSAS building block · ambidextrous, Hall-effect</span>
+    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <p class="gp-why">The reason two-stick flying is cheap now. One genuinely ambidextrous stick reconfigures left or right, so two identical units make the canonical budget HOSAS — eight analog axes for the six a ship needs, for around $160 the pair. Light and plastic, but the Hall-effect sensors don't drift. Buy two and learn the left-hand thrusters.</p>
+    <span class="gp-price">~$80</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 I walk through those head-to-head in [the best beginner HOSAS setup under $300](/space/best-beginner-hosas-under-300), and if you want to model spend against your specific desk and games, run [the Rig Configurator](/racing/configurator) before you buy anything.
 

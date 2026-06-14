@@ -74,6 +74,34 @@ Here's the honest part: **most people don't need either yet.** A modern GT wheel
 
 If you're a sprint-race-only GT driver, your wheel is enough and the money belongs [further up the upgrade path](/racing/smart-upgrade-path) — on pedals or your base. Buying a Stream Deck "to look pro" while your wheel still has three unmapped buttons is the classic accessory-drawer purchase.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-rs-v2"><span class="gp-tag">Buttons built in</span><img src="/images/gear/racing/moza-rs-v2.jpg" alt="MOZA RS V2 round GT wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Round GT wheel · dual-clutch, RGB LEDs</span>
+    <span class="gp-name"><a href="/racing/gear/moza-rs-v2">MOZA RS V2</a></span>
+    <p class="gp-why">Before you buy a control panel, check whether your rim already covers you. A real-GT 330mm wheel with programmable buttons, dual-clutch paddles and shift LEDs handles sprint racing without a box or a deck in sight. Run out of inputs first; then add a panel.</p>
+    <span class="gp-price">~$249</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-rs-v2">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+RS+V2+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-mclaren"><span class="gp-tag">Value GT rim</span><img src="/images/gear/racing/fanatec-mclaren.jpg" alt="Fanatec McLaren GT3 V2 wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">GT3-replica rim · rotary encoders</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-mclaren">Fanatec McLaren GT3 V2</a></span>
+    <p class="gp-why">A standout-value primary GT wheel with the encoders and buttons that cover sprint racing on their own. For a Fanatec racer, it answers most of the "do I need a button box" question before you've spent a cent on a panel.</p>
+    <span class="gp-price">~$299</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-mclaren">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+McLaren+GT3+V2&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## What the community says
 
 The forums have converged on exactly the VR fork above: VR racers are near-unanimous that a Stream Deck is useless in a headset and a physical box is the answer, while monitor racers rave about Stream Deck labels and SimHub telemetry keys. The other consistent note is from endurance and iRacing crowds — once you're managing pit functions and black boxes, *some* extra control surface stops being optional. The bikeshed argument is always button box versus Stream Deck; the real answer is usually "what do you actually run out of, and can you see the screen."

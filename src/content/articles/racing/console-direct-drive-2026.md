@@ -29,6 +29,12 @@ If you race on a console, you've probably noticed that every sim racing buying g
 
 So let's fix that. Here is exactly which direct-drive bases work on which console in 2026, what it costs, and the licensing gotcha behind all of it.
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a><figcaption>Fanatec GT DD Pro — PS5</figcaption></figure>
+  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a><figcaption>Logitech G PRO — premium</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-csl-dd"><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD wheelbase" loading="lazy"></a><figcaption>Fanatec CSL DD — Xbox</figcaption></figure>
+</div>
+
 ## Why your console says no
 
 PC is an open platform. Plug in nearly any wheel and it works. Consoles are *licensed* platforms — Sony and Microsoft require manufacturers to include specific authentication chips and pass certification before a wheel will be recognized. That licensing costs money and effort, so a lot of brands simply skip it and ship PC-only.
@@ -43,6 +49,34 @@ The **Fanatec GT DD Pro** is the established PS5 pick and the one I point most p
 
 The **Logitech G Pro Racing Wheel** is the premium PlayStation option (~$1,000, 11Nm DD), and it also runs on Xbox and PC. More torque, premium build, and Logitech now ships an official RS QR adapter to allow some third-party rims — historically Logitech was a sealed-bundle world. The Logitech **G Pro Pedals** (~$399, 75kg load-cell brake) are a strong companion. The honest catch: a full G Pro setup with pedals lands near ~$1,400, and at this tier the extra 3Nm of torque is not what makes you faster. I lay out that head-to-head in detail elsewhere, but the short version is that the cheaper, weaker GT DD Pro is often the smarter PS5 buy.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">PS5 direct-drive bundle · 8Nm</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <p class="gp-why">The console DD question is short and this is the answer: Gran Turismo-licensed, complete with wheel and pedals, and a doorway into Fanatec's whole catalog. Eight newton-metres is plenty when the alternative is no PS5 support at all.</p>
+    <span class="gp-price">~$650</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/logitech-g-pro"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Console DD · 11Nm, TRUEFORCE</span>
+    <span class="gp-name"><a href="/racing/gear/logitech-g-pro">Logitech G PRO Racing Wheel</a></span>
+    <p class="gp-why">The nicest base a console racer can buy — superb build, TRUEFORCE detail, and it spans PS5 or Xbox plus PC per SKU. You're paying a real premium for that 3Nm, so buy it for the build, not the torque chart.</p>
+    <span class="gp-price">~$999</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/logitech-g-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The Xbox options
 
 Xbox is the harder road. Direct drive on Xbox is *rare* — the list is two names long.
@@ -50,6 +84,20 @@ Xbox is the harder road. Direct drive on Xbox is *rare* — the list is two name
 The **Fanatec CSL DD** is the more capable choice: 5-8Nm, officially licensed for Xbox *and* PS5 *and* PC, and the entry to Fanatec's catalog. At ~$350 for the base (plus a wheel and pedals), it's the flexible Xbox pick, especially if you might also play on other platforms.
 
 The **MOZA R3** is the budget Xbox door — a complete bundle (~$279-399) with 3.9Nm of genuine direct drive, Xbox and PC support, and a place at the bottom of MOZA's deep upgrade ladder. It's the cheapest way onto Xbox direct drive and a legitimately good experience, just with a modest torque ceiling. I cover where it sits against the rest of the budget field in [the cheapest direct drive guide](/racing/cheapest-direct-drive-2026).
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-csl-dd"><span class="gp-tag">Best for Xbox</span><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry DD base · 5-8Nm, Xbox + PS5 + PC</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-csl-dd">Fanatec CSL DD</a></span>
+    <p class="gp-why">Xbox DD is a two-name list and this is the capable one — the rare base licensed for every platform at once. Add the Boost Kit 180 later for 8Nm. If you might also touch PS5 or PC, it's the one base that follows you everywhere.</p>
+    <span class="gp-price">~$350 (base)</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-csl-dd">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The console direct-drive map
 
@@ -70,6 +118,11 @@ Two takeaways jump out. PS5 racers have a clean value pick (GT DD Pro) and a pre
 - **Watch for "PS5-compatible via a Fanatec wheel" wording.** Some setups gate console support behind using a specific licensed rim — read the fine print on the bundle.
 - **Don't buy the T818 for console yet.** The 2026 console version is *signaled*, not shipped. Treat today's T818 as a PC base.
 - **Pedals are usually fine cross-platform** — they're typically USB and brand-agnostic, so that part of your budget is safe regardless of console, the same point I make in [the ecosystem comparison](/racing/moza-vs-fanatec-vs-simagic).
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The most-repeated console burn isn't buying weak — it's buying the wrong SKU. "I bought the wheel everyone recommended and my PS5 won't see it" almost always means a PC-only variant of a brand that also sells a console one. Read the licensing line on the exact model page, not the brand reputation.</p>
+</div>
 
 ## Who should skip console DD entirely
 

@@ -60,9 +60,28 @@ This is the step everyone skips and then blames the software. When you remap a p
 
 The honest limitation: this is **stepped, not smooth**. You are turning a continuous lever into key taps. It is night-and-day better than no throttle, but it is not true analog. No software can conjure analog control out of an engine that never reads it — that requires a game with native axis support, the subject of our [marine sim controller support compatibility map](/marine/marine-sim-controller-support).
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><span class="gp-tag">Maps cleanly</span><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Engine telegraph · 3 analog levers</span>
+    <span class="gp-name"><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)</a></span>
+    <p class="gp-why">The hardware most of this guide's mapping work is in service of. Three cheap analog levers that AntiMicro can split into ahead/astern key zones for the many titles that won't read the axis natively — turning a dead lever into a working telegraph for ~$60.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Step 3 — When axes fight: the vJoy decoy trick
 
 Some setups have a different problem. A flight stick, a throttle quadrant, and a wheel all enumerate as separate devices, and a stubborn game grabs the wrong one or refuses the second. JoyToKey documents the fix: install **vJoy** to create a virtual joystick, then configure JoyToKey to treat your physical device as the second or third device while feeding the clean vJoy device to the game. The game sees one tidy virtual controller; the priority conflict evaporates. This is overkill for a single throttle but a lifesaver for a multi-part rig — exactly the kind of build described in our [marine sim hardware reality check](/marine/marine-sim-hardware-reality). If you are still planning that rig, [the Rig Configurator](/racing/configurator) will flag how many USB devices you are about to throw at the problem.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>A recurring head-scratcher: the game "only sees the wheel, never the throttle." Nine times out of ten the title grabs whichever controller enumerates as device #1 and ignores the rest. The vJoy decoy fixes it — but the lazy first test is just unplugging everything except the device you're binding, mapping it, then plugging the others back in one at a time.</p>
+</div>
 
 ## What works where (community-reported)
 

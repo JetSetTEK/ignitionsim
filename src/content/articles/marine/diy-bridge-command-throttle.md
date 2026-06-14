@@ -46,7 +46,35 @@ The entire build runs roughly **$30–$60** in parts. Here is the core list.
 
 The **BU0836** is the heart of it. It is a small board that presents your potentiometers to the PC as analog axes on a standard USB game controller — no firmware, no coding. You wire a pot to it, Windows sees an axis. That is the whole magic, and it is why the BU0836 is the documented choice over a code-it-yourself board. (If you *want* the flexible, programmable route instead, that is the [Arduino-as-joystick path](/marine/arduino-joystick-helm-build) — same idea, more control, more work.)
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836a-diy-board"><span class="gp-tag">The brains</span><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">DIY interface · 8 axes, no firmware</span>
+    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836a-diy-board">Leo Bodnar Electronics BU0836A USB Joystick Interface</a></span>
+    <p class="gp-why">The exact board the Bridge Command build guide names — and for good reason. Wire a pot, Windows sees an axis; there's no sketch to write and no driver to chase. Eight axes and 32 inputs is room for a full helm console for the price of lunch out.</p>
+    <span class="gp-price">~$42</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/leobodnar-bu0836a-diy-board">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 The **three 10k linear pots** map to the three things a small-ship helm needs: a port throttle, a starboard throttle, and the wheel itself. Use *linear* taper, not logarithmic — you want the lever's physical middle to read as the electrical middle.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Code-it route</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Programmable DIY · native USB HID</span>
+    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <p class="gp-why">The BU0836's flexible cousin: spend an evening in the IDE and you get software detents, button matrices and a combined helm-plus-button-box on one ~$25 board. More work, more control — pick it if you'd rather write a sketch than buy a finished part.</p>
+    <span class="gp-price">~$25</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The build, step by step
 
@@ -62,6 +90,16 @@ The **three 10k linear pots** map to the three things a small-ship helm needs: a
 A raw potentiometer offers almost no resistance — the lever flops. A real engine control holds wherever you set it. The documented Bridge Command fix is delightfully low-tech: **add friction to the throttle pots by wrapping string around the pot shaft and anchoring it.** The string drags against the shaft as the lever moves, so the throttle *stays* where you push it instead of springing or sliding back.
 
 This is the difference between a toy and a control. Without friction, you fight the lever constantly and it never feels like a ship's telegraph. With a few wraps of string anchored to the enclosure, the lever holds a setting the way a real engine control does. Tune the number of wraps until the drag feels right — too little and it slips, too much and it binds.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>Every first-timer skips the friction step, posts a video of a throttle lever flopping back to idle, and asks what they did wrong. The answer is always "string." A waxed boot-lace around the pot shaft is the bridge-builder's secret handshake — and if string feels too crude, an o-ring or a felt washer under the knob does the same job with less of a workshop look.</p>
+</div>
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Buy linear-taper pots, not the audio/logarithmic ones the bargain bins are full of. A log taper crams most of its travel into one end, so your lever's physical center won't read as electrical center and "half ahead" lands nowhere near the middle. Check the printed code: a "B10k" is linear, an "A10k" is log.</p>
+</div>
 
 ## What this build is not
 

@@ -235,6 +235,38 @@ nav.primary a[aria-current] { color: var(--accent); }
 /* callouts inside articles */
 .callout { border: 1px solid var(--line2); border-left: 3px solid var(--accent); border-radius: 10px; padding: 16px 18px; margin: 1.6em 0; background: color-mix(in srgb, var(--accent) 6%, var(--panel)); }
 .callout .ct { font-family: var(--font-mono); font-size: .62rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 6px; }
+/* forum-wit / pro-tip variants of the callout */
+.callout.forum { border-left-color: var(--cyan); background: color-mix(in srgb, var(--cyan) 7%, var(--panel)); }
+.callout.forum .ct { color: var(--cyan); }
+.callout.tip { border-left-color: var(--accent2, var(--accent)); }
+.callout p:last-child { margin-bottom: 0; }
+
+/* inline gear pick — a real product card embedded in article prose */
+.gearpick { display: grid; grid-template-columns: 200px 1fr; gap: 0; margin: 1.8em 0; border: 1px solid var(--line2); border-radius: 14px; overflow: hidden; background: var(--panel); transition: border-color .25s, box-shadow .25s; }
+@media (prefers-reduced-motion: no-preference) { .gearpick:hover { border-color: var(--accent); box-shadow: 0 14px 38px color-mix(in srgb, var(--accent) 14%, transparent); } }
+.gearpick .gp-shot { position: relative; display: block; background: var(--panel2); overflow: hidden; aspect-ratio: 1 / 1; }
+.gearpick .gp-shot img { width: 100%; height: 100%; object-fit: cover; margin: 0; border: none; border-radius: 0; transition: transform .4s; }
+@media (prefers-reduced-motion: no-preference) { .gearpick:hover .gp-shot img { transform: scale(1.06); } }
+.gearpick .gp-tag { position: absolute; top: 10px; left: 10px; font-family: var(--font-mono); font-size: .54rem; letter-spacing: .12em; text-transform: uppercase; color: var(--night); background: var(--accent); padding: 4px 9px; border-radius: 6px; font-weight: 700; }
+.gearpick .gp-body { padding: 18px 20px; display: flex; flex-direction: column; gap: 7px; }
+.gearpick .gp-eyebrow { font-family: var(--font-mono); font-size: .58rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
+.gearpick .gp-name { font-family: var(--font-display, inherit); font-size: 1.15rem; font-weight: 700; line-height: 1.2; }
+.gearpick .gp-name a { color: inherit; }
+.gearpick .gp-name a:hover { color: var(--accent); }
+.gearpick .gp-why { color: var(--dim); font-size: .9rem; margin: 0; }
+.gearpick .gp-price { font-family: var(--font-mono); font-size: .78rem; color: var(--txt); }
+.gearpick .gp-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 6px; }
+.gearpick .gp-actions a { font-family: var(--font-mono); font-size: .72rem; letter-spacing: .03em; padding: 8px 14px; border-radius: 8px; text-decoration: none; }
+.gearpick .gp-review { border: 1px solid var(--line2); color: var(--txt); }
+.gearpick .gp-review:hover { border-color: var(--accent); color: var(--accent); }
+.gearpick .gp-buy { background: var(--accent); color: var(--night); font-weight: 700; }
+.gearpick .gp-buy:hover { filter: brightness(1.08); }
+@media (max-width: 620px) { .gearpick { grid-template-columns: 1fr; } .gearpick .gp-shot { aspect-ratio: 16 / 9; } }
+
+/* in-article image gallery strip (2-3 shots side by side) */
+.shotgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 1.8em 0; }
+.shotgrid figure { margin: 0; }
+.shotgrid img { aspect-ratio: 4 / 3; object-fit: cover; margin: 0; }
 
 /* in-article configurator CTA */
 .cfg-cta { display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; border: 1px solid var(--accent); border-radius: 12px; padding: 20px 24px; margin: 2em 0; background: linear-gradient(120deg, color-mix(in srgb, var(--accent) 10%, var(--baybg)), var(--baybg)); }

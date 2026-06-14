@@ -47,6 +47,11 @@ If you have not locked in your software yet, do that first — it changes the sp
 
 Two things jump out. First, the GPU floor across all three is roughly an **RTX 3060-class card** for smooth 1080p — that is a genuinely mid-range part now, not an enthusiast splurge. Second, FSX is the strict one: it locks out AMD graphics entirely and discourages AMD processors. If a Foresight or Bushnell unit running FSX is anywhere in your plans, **build Intel + NVIDIA** and do not gamble on a Ryzen-plus-Radeon machine.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The Foresight owner's lament that shows up over and over: "Built a slick all-AMD rig, then FSX Play refused to launch on the Radeon card." FSX simply doesn't support AMD GPUs — there's no driver hack around it. If a Bushnell or Foresight unit is even a maybe in your future, the cheap insurance is building Intel + NVIDIA from the start.</p>
+</div>
+
 ## What an actual build costs in 2026
 
 You do not have to guess at parts. Three sensible tiers:
@@ -79,6 +84,20 @@ The forums have largely buried the "you need a monster rig" myth. The recurring 
 ## Who can skip the gaming PC entirely
 
 There is a real out for some buyers. The **Garmin Approach R50** (~$5,000) runs a full built-in simulator on-device with no external PC at all, and the entry **R10** has its own basic on-device simulation. SkyTrak+ ships with its own practice range that needs no GSPro subscription or gaming rig for range work. If your goal is data and casual play rather than deep course libraries, an all-in-one unit may let you skip the PC line entirely — at the cost of the course depth that only a PC platform like GSPro delivers. To pair the right sensor with the right brain for your goals, run the combination through [the Rig Configurator](/racing/configurator) before you buy either half.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">Skip the PC entirely</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">3-camera · built-in 10" sim · no external PC</span>
+    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <p class="gp-why">The only consumer unit that <em>is</em> the PC — a full Home Tee Hero simulator on a 10-inch touchscreen, hitting in under a minute with no gaming rig to build or break. You pay a premium for the convenience and trade away GSPro's bottomless course library; for many buyers that's a fair deal. Wants 9–10 ft of ceiling for the overhead cameras.</p>
+    <span class="gp-price">~$4,999</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## The verdict
 

@@ -53,9 +53,28 @@ This is the step that trips people up. Launch monitors reach GSPro one of three 
 
 The pattern is the same regardless of path: a small connector window runs **alongside** GSPro, pairs with your launch monitor (Bluetooth or USB), and passes shot data through. Keep both windows open during play — closing the connector kills the data feed mid-round, which is the most common "GSPro stopped reading my shots" report on the forums.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Easiest GSPro path under $1K</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Official GSPro direct connect (2025)</span>
+    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
+    <p class="gp-why">The budget unit that picked up <em>official</em> GSPro direct connect in 2025 — which collapsed the steep community-middleware learning curve into near-plug-and-play. The richest sub-$1K data set, now with the smoothest connector story to match. Just feed it RPT balls when you want measured spin.</p>
+    <span class="gp-price">~$699</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 **Pro tip on ball placement:** Photometric units are fussy about distance. Square Golf, for example, wants the ball about 42 cm from the sensor; the R10 wants its prescribed depth behind the ball. Mark the correct spot on your mat with a paint pen so you are not re-measuring every session.
 
 ## Step 4: Kill the dropouts before they ruin a round
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The line that ends half the "GSPro is broken" threads: "go wired if you can, and don't blame GSPro for a Bluetooth problem." Owners on official or built-in integrations report near-plug-and-play; the ones fighting dropouts are almost always fighting a crowded 2.4 GHz band, not the software. A direct USB cable makes the entire problem class disappear.</p>
+</div>
 
 Nine times out of ten, "GSPro is laggy" or "shots are dropping" is not GSPro — it is the wireless link between the sensor and the connector. Fixes, in order of impact:
 

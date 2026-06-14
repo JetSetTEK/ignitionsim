@@ -57,6 +57,11 @@ The headline trade: **triples push ~11 million pixels to give you a correct FOV;
 
 **Ultrawide is the value middle.** It delivers most of the wraparound from a single, easy-to-calibrate panel that's far kinder to a mid-range GPU. For the racer who wants immersion without a triple-monitor GPU bill or a headset on their face, it's the smart-money pick in 2026.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Spec the display to the GPU you already own, then leave a third of its frame-rate budget on the table. A triple or VR setup that dips below its target under a full grid of cars at race start is worse than a smooth ultrawide — and the first lap, when everyone's bunched up, is exactly when you can least afford a stutter.</p>
+</div>
+
 ## The 2026 cultural shift
 
 The most interesting thing about this year's version of the debate is that **a lot of serious racers stopped choosing.** They train and run rookie races **in VR** for the depth perception, then switch to **triples for streamed or endurance events** where overlays and traffic readability matter. The hardware got cheap and good enough that "both, for different jobs" is now a real answer — which is exactly why the old "which is best" framing finally died.

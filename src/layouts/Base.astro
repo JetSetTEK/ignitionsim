@@ -133,6 +133,8 @@ const allSchema = [orgSchema, siteSchema, ...schema];
         if (tgt.closest('#lightbox .lb-nav.prev')) { nav(-1); return; }
         if (tgt.id === 'lightbox') { close(); return; }
         const img = tgt.closest('[data-lightbox] img, .prose img, .pano img, img.zoomable') as HTMLImageElement | null;
+        // linked images (e.g. inline gear-pick product shots) should follow their link, not zoom
+        if (img && img.closest('a') && !img.classList.contains('zoomable')) return;
         if (img && img.tagName === 'IMG') {
           const cont = img.closest('[data-images]') as HTMLElement | null;
           let list = [img.currentSrc || img.src], idx = 0;

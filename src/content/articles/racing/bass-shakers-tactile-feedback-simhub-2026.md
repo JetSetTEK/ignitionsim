@@ -48,6 +48,20 @@ The numbers that matter:
 
 The classic overheating trap is the **ButtKicker Mini-LFE**, the unit that pioneered this category. It hits frequencies almost nothing else reaches, but it's notorious for thermal shutdown after 15-20 minutes if you starve it — it wants a **200W+ amplifier** to run cool and controlled. Underpower a big shaker and you'll get a unit that thumps for a while and then quietly dies mid-stint. Match the amp to the shaker and the problem disappears.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Amp included</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer PRO tactile transducer" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Tactile transducer · 150W amp bundled</span>
+    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer PRO</a></span>
+    <p class="gp-why">The shortcut past the underpowered-amp trap: a magnetic-suspension driver that hits harder than voice-coil shakers, and it ships with its own 150W amp so you're not guessing at impedance matching. Works even through headphones, so the room stays quiet while your spine doesn't.</p>
+    <span class="gp-price">~$200</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 | Component | Budget tier | Performance tier |
 |---|---|---|
 | **Shakers** | 2x compact exciters under seat | 2x large transducers + 2x pedal exciters |
@@ -67,6 +81,11 @@ The classic overheating trap is the **ButtKicker Mini-LFE**, the unit that pione
 - **Engine RPM** — a baseline hum that rises with revs
 
 You assign each effect to an output channel, set its frequency and intensity, and SimHub does the real-time conversion while you drive. **Pro tip:** don't run every effect at once on day one. Turn on **wheelspin and lockup first** — those two carry the most actionable information — get them feeling right, then layer in road, kerbs and RPM. Stacking ten effects at full intensity immediately just produces mud you can't read.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Tune each effect's frequency, not just its volume. Pile every effect onto the same low band and they smear into one indistinguishable rumble. Put wheelspin and engine RPM on separate frequencies far enough apart that your body can tell them apart — that separation is what turns "vibration" into actual information you can drive on.</p>
+</div>
 
 ## Mounting: isolation is everything
 

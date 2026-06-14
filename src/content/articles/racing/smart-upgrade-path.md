@@ -45,11 +45,39 @@ Buy a complete entry DD bundle — a **Cammus C5** (~$299, 5Nm), a **MOZA R3** (
 
 The one decision that matters here is not the base — it's the *ecosystem*. Because your quick-release and rim choices will follow this base for years, spend ten minutes on [MOZA vs Fanatec vs Simagic](/racing/moza-vs-fanatec-vs-simagic) and pick a tribe with an upgrade path you like. That single choice saves you the most money downstream.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/cammus-c5"><span class="gp-tag">Stage 1 starter</span><img src="/images/gear/racing/cammus-c5.jpg" alt="Cammus C5 direct-drive wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Entry DD bundle · 5Nm</span>
+    <span class="gp-name"><a href="/racing/gear/cammus-c5">Cammus C5</a></span>
+    <p class="gp-why">The cheapest real direct drive there is — base, wheel and pedals in one box for $299. Stage 1's whole job is to get you driving and learning what you actually want; the C5 does that for less than a belt wheel used to cost.</p>
+    <span class="gp-price">~$299</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/cammus-c5">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Cammus+C5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Stage 2 — Load-cell pedals (get consistent)
 
 Goal: braking you can repeat lap after lap.
 
 This is your *first* upgrade, full stop. A quality load-cell set — the **MOZA SR-P**, the **Fanatec CSL** load-cell pedals, or similar under $300 — transforms your consistency because it senses pressure, not travel. You start braking to a *force* instead of a *position*, and trail-braking becomes a skill you can actually develop. Pedals are also usually USB and brand-agnostic, so this purchase is safe no matter what base you end up on. Highest impact, lowest spend, zero lock-in risk. It is the easiest "yes" on the whole path.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Stage 2 upgrade</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
+    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <p class="gp-why">The highest-impact, lowest-regret purchase on the whole path: a 200kg load cell and adjustable hydraulic damper for ~$300, on plain USB. It survives every base change you'll ever make, so it's the one piece you can buy "too good" on day two and never replace.</p>
+    <span class="gp-price">~$300</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-crp2">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Stage 3 — The rig (kill the flex)
 
@@ -57,11 +85,30 @@ Goal: a platform that doesn't move when the base does.
 
 If you started on a wheel stand, direct-drive torque is already telling you about its weaknesses — the flex, the creep, the wobble under a hard kerb. **An 8020 aluminum-profile rig is the future-proof answer**: slotted aluminum extrusion that bolts together like industrial Lego, rigid, tool-free to adjust, and something you keep across every future base and pedal upgrade. Affordable picks like the GT Omega Prime Lite, Sim-Lab GT1 Pro, or Trak Racer TR80 do the job; the Sim-Lab P1X Pro waits at the high end. The full case is in [aluminum-profile vs foldable rigs](/racing/configurator) — but the short version is: buy the rig early enough that you only buy one.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Stage 3 rig</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">8020 rig · 80x40mm profile, 25Nm+</span>
+    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <p class="gp-why">The best-value way to stop buying rigs. The thick 80mm profile holds a flagship base with no flex at the wheel mount, so you carry this frame across every future base and pedal upgrade — the literal point of buying it early.</p>
+    <span class="gp-price">~$499 (frame)</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Stage 4 — The base upgrade (now, finally, torque)
 
 Goal: more headroom, *if and only if* you've hit the ceiling.
 
 Now — after pedals and a solid rig — is when a stronger base earns its money. The trigger is specific: you are racing leagues consistently *and* your entry base's torque genuinely feels limiting in heavy cars. That usually means stepping up to **9-12Nm** — a **MOZA R12 V2** (12Nm), a **Simagic Alpha Evo Standard** (12Nm), a **Fanatec ClubSport DD** (12Nm). Because you chose your ecosystem back in Stage 1, your rims and quick-release carry over and the base is the *only* thing you replace. That is the payoff for thinking ahead.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>The trigger for Stage 4 is a feeling, not a calendar. If you can't point to a specific car or moment where your current base ran out of torque — a heavy LMP washing wide, a big kerb you couldn't feel — you haven't hit the ceiling yet, and a stronger base is just spending money to feel the same thing harder. Wait for the genuine "I want more" before you climb.</p>
+</div>
 
 ## Stage 5 — The forever-rig refinements (taste, not need)
 

@@ -40,11 +40,30 @@ VR sailing is not free, but the math is friendlier than it looks. The **MarineVe
 
 But the Quest is not a single-use marine purchase. It plays every VR title there is, and it pairs with VR racing and flight sims too. Judged as a marine-only spend, $499 is steep. Judged as a headset you already own or would buy anyway, the marine experience is a $20–$30 add-on. That framing matters a lot when you decide whether it's "worth it."
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">The whole rig</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">VR sailing · hand-tracked tiller & sheet</span>
+    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <p class="gp-why">In MarineVerse your hands <em>are</em> the helm — no wheel, no DIY board, no analog-axis caveat. Pricey as a marine-only buy, but it's a full standalone VR headset that happens to sail, and the NauticEd course integration is something no desk rig can touch. The cheaper Quest 3S runs the same app.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The training angle: more than a game
 
 Here is what separates MarineVerse from a novelty. It partners with **NauticEd** to deliver actual sailing course modules inside VR. That means the same headset you use to race a virtual fleet can run real instructional content, blurring the line between game and sail training. You are not just pretending to sail; you are running coursework from a recognized sailing-education provider, in a spatial environment where the hand motions map to the real thing.
 
 That is a value a built helm rig simply cannot offer. A DIY Bridge Command console teaches you *that sim's* controls beautifully — but it can't put you in a spatial, course-backed sailing lesson.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>Real-world sailors who've tried it keep landing on the same verdict: VR nails the <em>spatial</em> stuff a flat screen never could — wind awareness, where the boom is, looking up at your own telltales — but they still drop the headset for serious chart work. The community move is VR for the feel and the lessons, a flat monitor for the passage planning. Different tools, same hobby.</p>
+</div>
 
 ## VR vs. a physical helm: the honest scorecard
 

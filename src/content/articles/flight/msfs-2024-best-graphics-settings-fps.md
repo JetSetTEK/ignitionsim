@@ -70,6 +70,11 @@ Here is the counterintuitive truth. **Frame pacing — the consistency of the ga
 
 A steady cap below your peak will feel dramatically smoother than an uncapped rate that yo-yos. This is the single highest-impact change most simmers never make.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>A locked 30 FPS feels better than a 60 that lurches. Counterintuitive, but try it: cap to a number you can <em>hold</em> — often 30, 45, or your refresh-minus-3 — and turn off in-game VSync. Most "I have high FPS but it stutters" complaints die right there, before you touch a single graphics slider.</p>
+</div>
+
 ## NVIDIA-specific settings
 
 On RTX cards, prioritize **stability over aggressive overrides**:

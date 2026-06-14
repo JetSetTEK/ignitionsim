@@ -32,11 +32,32 @@ The wheelbase is the single most consequential purchase in a sim racing rig. It'
 
 So let me cut through it. I've ranked the best wheelbases of 2026 the way I'd advise a friend with their own money on the line: by what the base *does for you*, not what it scores in a spec sheet drag race. The headline truth up front, the one nobody selling 21Nm wants to say: **most drivers are happiest somewhere between 9 and 15Nm, and a 12Nm base is a destination, not a stepping stone.**
 
+<div class="shotgrid">
+  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — best overall</figcaption></figure>
+  <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro — best value</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-csl-dd"><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD wheelbase" loading="lazy"></a><figcaption>Fanatec CSL DD — best budget</figcaption></figure>
+  <figure><a href="/racing/gear/asetek-invicta"><img src="/images/gear/racing/asetek-invicta.jpg" alt="Asetek Invicta wheelbase" loading="lazy"></a><figcaption>Asetek Invicta — best premium</figcaption></figure>
+</div>
+
 ## Best overall: MOZA R12
 
 The [MOZA R12](/racing/gear/moza-r12) (~$429, 12Nm) is the base I'd put in most rigs without hesitation. It lands exactly in the torque sweet spot — enough to feel weight transfer, kerbs and the front axle loading up, with real headroom for heavier cars — inside a compact body and at a price that still feels almost unfair. The NexGen 4.0 algorithm and 21-bit encoder deliver clean, detailed feedback, and MOZA's Pit House software is the easiest tuning suite in the business.
 
 But the deeper reason it wins is the ecosystem behind it. Buy an R12 and you've bought into a ladder — [R5](/racing/gear/moza-r5), [R9](/racing/gear/moza-r9), [R16](/racing/gear/moza-r16), [R21](/racing/gear/moza-r21) — that shares quick releases, wheels and software. It's a buy-once-and-stop base for the vast majority of racers, and a sane on-ramp for the few who'll climb higher. **Who it's for:** the PC enthusiast who wants to buy the right thing once. The catch: it's PC-only and needs a proper 4-bolt mount.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Direct-drive wheelbase · 12Nm</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <p class="gp-why">The torque sweet spot most drivers never outgrow, the easiest tuning software in the business, and a full upgrade ladder waiting behind it. The buy-once-and-stop base.</p>
+    <span class="gp-price">~$429</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/moza-r12">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Best value: Simagic Alpha Evo Pro
 
@@ -44,11 +65,30 @@ If "best overall" is about balance, **best value is about the steepest performan
 
 Is 18Nm overkill? For most people, yes — you'll run it well below max. But the Pro's value is so aggressive that the headroom comes at almost no premium over a 12Nm base, which is what makes it the enthusiast's smart-money pick. If you want the same DNA at the actual sweet spot, the [Alpha Evo](/racing/gear/simagic-evo) (~$548, 12Nm) and the [Alpha Evo Sport](/racing/gear/simagic-evo-sport) (~$399, 9Nm) are class-leading on Nm-per-dollar too.
 
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The recurring r/simracing confession: nobody who bought an 18Nm base actually runs it at 18Nm. Most settle around 60–70% in-game and never touch it again. Buy the headroom for the heavy-car nights — not because the box prints a bigger number than your friend's.</p>
+</div>
+
 ## Best budget: Fanatec CSL DD
 
 For the smallest credible entry into real direct drive, the [Fanatec CSL DD](/racing/gear/fanatec-csl-dd) (~$350) remains the benchmark years after launch. It runs 5Nm on the stock supply — plenty to learn on — and steps up to 8Nm with the optional Boost Kit 180. Crucially, it's one of the very few entry bases that runs on **Xbox** as well as PC, and it opens the door to Fanatec's enormous accessory catalog.
 
 The pure-value alternative is the [Cammus C5](/racing/gear/cammus-c5) (~$299), the cheapest genuine direct-drive bundle on the market, with a clever integrated motor that saves desk space. It's a complete starter kit rather than a platform you build on — shallow upgrade path, PC-only — but for a budget-first newcomer who just wants real DD feel, nothing's cheaper.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">PS5 direct-drive bundle · 8Nm</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <p class="gp-why">The established PS5 answer: officially licensed for Gran Turismo, ships complete with wheel and pedals, and plugs straight into the whole Fanatec ecosystem.</p>
+    <span class="gp-price">~$650</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## Best for PlayStation: Fanatec GT DD Pro
 

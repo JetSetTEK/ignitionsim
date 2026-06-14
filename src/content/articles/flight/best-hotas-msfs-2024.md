@@ -30,6 +30,12 @@ The yoke crowd will tell you a HOTAS is for space games. They are half right. If
 
 So let me lay out the HOTAS ladder for 2026 honestly — what each tier buys you, which units bind cleanly in MSFS 2024, and where the money stops being worth it.
 
+<div class="shotgrid">
+  <figure><a href="/flight/gear/thrustmaster-hotas-warthog"><img src="/images/gear/flight/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>HOTAS Warthog — premium A-10C replica</figcaption></figure>
+  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — throttle pairing</figcaption></figure>
+  <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a><figcaption>VelocityOne Flight Stick — console all-in-one</figcaption></figure>
+</div>
+
 ## What "HOTAS" actually means for a civil simmer
 
 HOTAS stands for **Hands On Throttle And Stick** — a combat-aviation concept where every switch you need lives on the two grips so you never let go. For civil flying that ergonomic obsession is mostly wasted; you are not slewing a radar while pulling 6 G. What you actually want from a "HOTAS" in MSFS 2024 is:
@@ -62,15 +68,62 @@ The **Thrustmaster T.Flight HOTAS One** in its MSFS edition is the floor. It is 
 
 The **VKB Gladiator NXT EVO** (around $110-130) is where I send most people who fly civil. It uses VKB's contactless sensors, so it holds its center far longer than any pot-based stick, and the build quality embarrasses sticks twice the price. It does not include a throttle — pair it with the **Thrustmaster TCA Quadrant** (~$90-120) or a Bravo you already own. Binding is clean but you map it by hand, which is the right way anyway. For the trim/curve work that follows, see [how to set up control curves](/flight/flight-sim-control-curves-calibration).
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Best throttle pairing</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Dual-lever throttle · authentic Airbus detents</span>
+    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
+    <p class="gp-why">The half a bare stick is missing. Real Idle/Climb/Flex/TO-GA detent gates and fingertip reversers, on contactless sensors that never wear out. Binds clean, and you can disable the detents by flipping two pads if you fly something other than an Airbus.</p>
+    <span class="gp-price">~$100</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ### Premium — Warthog and modular bases
 
 The **Thrustmaster HOTAS Warthog** (around $500) is a faithful A-10C replica: all-metal, gorgeous, and genuinely overkill for civil flying. It earns its place if you also fly DCS. The throttle has no twist-rudder, so budget for [rudder pedals](/flight/best-flight-sim-rudder-pedals). The **Winwing Orion 2** (base from ~$300, full F-16-style sets past $1,100) is the modular answer — swappable grips let one base serve a fighter today and a different airframe tomorrow, configured through Winwing's SimApp Pro. Both are cockpit-builder territory, not first buys.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/thrustmaster-hotas-warthog"><span class="gp-tag">Premium replica</span><img src="/images/gear/flight/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Military HOTAS · all-metal 1:1 A-10C, Hall-effect stick</span>
+    <span class="gp-name"><a href="/flight/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <p class="gp-why">Gorgeous, overbuilt, and only truly at home in DCS. Binds clean once you accept the heavy TARGET config, and the metal will outlive your PC. No twist rudder, so pedals are non-negotiable — and a Cessna will never need any of it.</p>
+    <span class="gp-price">~$500</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/thrustmaster-hotas-warthog">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 ## What the community says
 
 Across r/flightsim, the AVSIM forums, and the Steam MSFS 2024 boards, a few patterns repeat. Reviewers and simmers consistently flag the **Warthog as the "buy it for life" stick** but caution it is more than civil flying needs. The **VKB Gladiator** is the near-universal value recommendation for anyone without a yoke. And the loudest recurring complaint is not about hardware at all — it is **MSFS 2024 mangling default bindings**, with the common fix being to clear all assignments and re-map by hand, then save as the default profile. Treat any new stick as "unbound until proven otherwise."
 
 The **Turtle Beach VelocityOne Flightdeck** draws praise from console flyers specifically — the integrated touchscreen adds soft buttons that an Xbox controller can never match — but PC simmers generally prefer the precision of a VKB-plus-quadrant build at a similar price.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Console all-in-one</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">All-in-one stick · OLED display, integrated twist rudder</span>
+    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
+    <p class="gp-why">The console flyer's easy starting point: genuinely Xbox-and-PC licensed, 27 buttons, an OLED status screen, and a twist rudder so it flies solo. Plastic-heavy and a touch happier on PC than Xbox, but a lot of features for the money.</p>
+    <span class="gp-price">~$130</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The loudest recurring HOTAS complaint on r/flightsim isn't about any stick — it's MSFS 2024 mangling default bindings on first detection. The community fix is blunt: clear every assignment, map the stick by hand, save it as your default profile. Treat any new stick as unbound until you've proven otherwise, and half the "this thing is broken" posts evaporate.</p>
+</div>
 
 ## Pro tips before you buy
 

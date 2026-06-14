@@ -56,6 +56,20 @@ Take a breath, because the trap is narrower than it sounds. **Pedals and shifter
 
 The lock-in lives in precisely two places: the **rims** and the **wheel-side QR**. Everything else you can mix and match. So the real decision is narrow and clear: choose a base whose quick-release won't strand the rims you'll want to buy.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/racing/gear/cube-gt"><span class="gp-tag">Cross-brand rim</span><img src="/images/gear/racing/cube-gt.jpg" alt="Cube Controls GT Pro wheel" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Premium GT rim · universal 70mm mount</span>
+    <span class="gp-name"><a href="/racing/gear/cube-gt">Cube Controls GT Pro</a></span>
+    <p class="gp-why">The anti-lock-in rim: a universal 70mm bolt pattern that fits most brands' quick releases, so the expensive part of your setup moves with you when the base changes. You supply the QR — and that's the whole freedom.</p>
+    <span class="gp-price">~$649</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/racing/gear/cube-gt">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Cube+Controls+GT+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## How to avoid the trap
 
 This is a how-to with a short list, because the rules really are simple once you see them.
@@ -65,6 +79,11 @@ This is a how-to with a short list, because the rules really are simple once you
 3. **Buy the base before the expensive rim.** A bundled or basic rim is cheap to leave behind; a $400 carbon rim is not. Get the base settled, then invest in rims that fit it.
 4. **Keep pedals separate in your mental budget.** They're brand-agnostic, so buy the best you can afford early — they survive every future base change.
 5. **Map it before you spend.** Run your intended base, rims, and upgrade arc through [the Rig Configurator](/racing/configurator) so the lock-in shows up on a screen instead of in your closet.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>The single most-posted heartbreak photo in this hobby is a gorgeous third-party rim clicked onto a Fanatec base with the caption "why is there no force feedback?" The rim mounted fine — the QR2 just refuses to power a non-Fanatec wheel without the Podium Hub. Budget the hub up front if you go Fanatec, or buy a brand whose QR doesn't gate FFB at all.</p>
+</div>
 
 ## Who can ignore all of this
 

@@ -67,6 +67,20 @@ A **Logitech G X56** (around $200-250) is a popular helicopter pick because it i
 
 If helicopters are your *main* sim, dedicated gear exists. Makers like **Komodo Simulations** build replica cyclic grips and collectives with authentic switchgear, a twist throttle on the collective head, and proper friction. Paired with **pendular pedals** like the Thrustmaster TPR (~$600), a full dedicated rig lands around **$1,200-1,800**. It is wonderful and completely unnecessary for anyone who flies helicopters occasionally. Buy this only when you have logged serious hover hours and the budget tier is genuinely limiting you.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/komodo-simulations-collective"><span class="gp-tag">Dedicated collective</span><img src="/images/gear/flight/komodo-simulations-collective.jpg" alt="Komodo Simulations Helicopter Collective" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Helicopter collective · weighted lever, twist-grip throttle</span>
+    <span class="gp-name"><a href="/flight/gear/komodo-simulations-collective">Komodo Simulations Helicopter Collective</a></span>
+    <p class="gp-why">What turns helicopter flying from a fight with a spring into something you actually fly. A long, weighted, friction-adjustable lever that stays where you leave it, hand-built in the UK on Bell 206-style controls. Plug-and-play in MSFS, X-Plane and DCS — a specialist piece, but close to the reference.</p>
+    <span class="gp-price">~$450</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/komodo-simulations-collective">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Komodo+Simulations+Helicopter+Collective&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## The bindings that actually work
 
 Hardware is only half the battle — MSFS 2024's defaults will fight you. The three fixes that matter:
@@ -74,6 +88,11 @@ Hardware is only half the battle — MSFS 2024's defaults will fight you. The th
 - **Collective axis, inverted.** Assign your throttle lever to the *collective* axis, not the throttle, and invert it so pulling the lever *up* increases collective pitch. The backwards collective is the single most common complaint, and this is the fix.
 - **Cyclic on pitch and roll** with a sensible center deadzone — small, not zero — and a softened curve near center so micro-corrections in the hover do not over-control.
 - **Pedals on yaw**, full travel, and get comfortable being on them constantly. If you are still on a twist-rudder, this is where you will feel its limits hardest.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>If your helicopter sinks when you pull the lever up, you haven't broken anything — your collective axis just isn't inverted. Throttles default to idle-at-bottom; a collective adds power as it rises. Flip the invert checkbox and 90% of "my heli flies backwards" frustration disappears in one click.</p>
+</div>
 
 A collective sits low and to your left, so plan the physical layout before you buy — mapping the cyclic, collective and pedal positions in [the Rig Configurator](/racing/configurator) saves you from a cramped, unflyable seat.
 

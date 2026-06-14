@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import PanoSlider from '../../components/PanoSlider.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import GearCarousel from '../../components/GearCarousel.astro';
 import FAQ from '../../components/FAQ.astro';
 import { getCollection } from 'astro:content';
 import bays from '../../data/bays.json';
@@ -31,6 +32,25 @@ const typeLabel: Record<string, string> = {
 const byType = typeOrder
   .map((t) => ({ t, items: articles.filter((a) => a.data.type === t) }))
   .filter((g) => g.items.length);
+
+// top gear for the carousel — all products in this bay, best-rated first
+const amazonTag = (site as any).affiliate?.amazonTag;
+const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
+const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
+const buyUrl = (p: any) => p.amazonAsin
+  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
+  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
+const gearItems = allProducts
+  .filter((p) => p.bay === bay.slug)
+  .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0))
+  .slice(0, 12)
+  .map((p, i) => ({
+    href: `/${bay.slug}/gear/${p.id}`,
+    image: p.image || `/images/gear/${bay.slug}/${p.id}.jpg`,
+    brand: p.brand, model: p.model, price: p.price, type: p.type,
+    buyUrl: buyUrl(p),
+    tag: i === 0 ? 'Top rated' : undefined,
+  }));
 
 const photos = ((photography as any)[bay.slug] || []) as any[];
 const slides: any[] = photos.length
@@ -98,6 +118,13 @@ const schema = [
       </div>
       <a class="btn btn-primary btn-lg" href={`/${bay.slug}/gear`}>Browse {bay.name} gear ▸</a>
     </section>
+
+    {gearItems.length > 0 && (
+      <section class="sec" style="padding-top:8px">
+        <div class="sec-head"><h2>Gear spotlight</h2><a class="lbl" href={`/${bay.slug}/gear`}>all {gearItems.length >= 12 ? '' : gearItems.length + ' '}{bay.name.toLowerCase()} gear →</a></div>
+        <GearCarousel items={gearItems} id={`${bay.slug}-gear-rail`} />
+      </section>
+    )}
 
     {articles.length === 0 ? (
       <section class="sec"><p style="color:var(--dim)">Fresh {bay.name.toLowerCase()} guides are being written and will appear here shortly.</p></section>

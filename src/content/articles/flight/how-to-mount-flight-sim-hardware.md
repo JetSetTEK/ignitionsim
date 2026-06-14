@@ -35,6 +35,11 @@ Nearly every yoke and throttle ships with desk clamps, and most people never tig
 
 For most single-yoke, single-throttle setups on a sturdy desk, good clamps are the entire answer. Do not overbuild before you need to.
 
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Clamp against a solid edge of the desktop, never an overhanging lip that flexes — and on a thin or veneered top, slip a thin pad under the clamp to spread the load. Snug them firm, not cranked: the cracked desk corner is almost always over-tightening on a flimsy surface, not the clamp's fault.</p>
+</div>
+
 ## Level 2 — Bracket and rail mounting for multi-piece setups
 
 The clamp approach starts breaking down when you add panels. A radio panel, a multi-panel, an instrument panel — each one wants a fixed position, and loose units scattered across the desk look and feel wrong.
@@ -51,6 +56,20 @@ The good news with modern gear: a key selling point of **WinCTRL** metal panels 
 
 The rule is firm. The moment you go past three or four devices, buy a **powered** USB hub — one with its own wall adapter. Panels draw power over USB, and an unpowered or overloaded hub causes intermittent detection, where a panel works one session and vanishes the next. That single symptom is behind a large share of "my sim won't see my hardware" complaints.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/desktop-pilot-10-port-usb-hub"><span class="gp-tag">Cheap insurance</span><img src="/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg" alt="Desktop Pilot 10-Port Powered USB Hub" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Powered USB hub · 10 ports, dedicated 12V supply</span>
+    <span class="gp-name"><a href="/flight/gear/desktop-pilot-10-port-usb-hub">Desktop Pilot 10-Port Powered USB Hub</a></span>
+    <p class="gp-why">The fix for the intermittent-detection headache that masquerades as broken hardware. Its own 12V adapter powers every panel regardless of the PC, with per-port switches and ten ports of headroom — because cockpit builds only ever grow.</p>
+    <span class="gp-price">~$60</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/desktop-pilot-10-port-usb-hub">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Desktop+Pilot+10-Port+Powered+USB+Hub&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 ## Mounting at a glance
 
 | Your setup | Mounting solution | USB plan |
@@ -65,6 +84,20 @@ The rule is firm. The moment you go past three or four devices, buy a **powered*
 There is a clear threshold where clamps stop being enough: rudder pedals, multiple panels, and especially a **force-feedback yoke**.
 
 Pedals are the first reason — they need a fixed distance from the seat, and a floor that does not let them slide backward as you push. But the decisive reason is FFB. A force-feedback base like the **MOZA AY210** uses servos that push back with real torque — roughly 9 Nm of roll force and over 200 N of pitch force. A clamp on a desk edge cannot hold that. The base will rock the desk or work itself loose, and you will fight the mount instead of the airplane. (Whether that force is worth the spend at all is its own question, which I cover in [is a force-feedback yoke worth it](/flight/force-feedback-yoke-worth-it).)
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/flight/gear/moza-ay210-ffb-yoke"><span class="gp-tag">Why you'd build a frame</span><img src="/images/gear/flight/moza-ay210-ffb-yoke.jpg" alt="MOZA AY210 Force Feedback Yoke" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">FFB yoke · 9 Nm roll / 210 N pitch, dual servo</span>
+    <span class="gp-name"><a href="/flight/gear/moza-ay210-ffb-yoke">MOZA AY210 Force Feedback Yoke</a></span>
+    <p class="gp-why">The single piece of gear that turns "nice clamps" into "I need a frame." Those dual servos shove back with real torque a desk edge can't hold — buy this and a rigid mount or cockpit rig stops being optional in the same breath.</p>
+    <span class="gp-price">~$699</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/flight/gear/moza-ay210-ffb-yoke">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 At that point you graduate to a rigid desk mount bolted through the surface, or a dedicated cockpit rig with a proper seat and mounting points. It is a real expense, but it is the only thing that holds FFB hardware honest.
 

@@ -55,9 +55,42 @@ At the premium end, the conversation comes down to two brands that have dominate
 
 **Fiberbuilt** is the popular pick for **joint protection.** Its angled-fiber, cushioned grass-series design lets the club skim through with minimal jarring, which is why players with existing wrist or elbow issues gravitate to it. The full studio platform also solves stance height and consistency on bare concrete in one piece. The cost is a swing feel that's a touch more "perfect" and a little less like resisting real turf.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Joints first</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Hitting Mat" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Studio platform · ~94.7% shock absorption</span>
+    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Hitting Mat</a></span>
+    <p class="gp-why">The closest thing to insurance for your wrists and elbows — the vibration layer eats nearly 95% of the shock a chunked 7-iron sends up the shaft. Rated for 300,000 shots and takes a real wooden tee, so your driver setup matches the course.</p>
+    <span class="gp-price">~$1,249</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+Studio+Hitting+Mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 **Country Club Elite** is the realism pick. Its long, dense fiber system — built on roughly 110 oz of nylon turf over closed-cell foam — lets you swing **down and through**, taking what feels like a real divot path, and it readily accepts a wooden tee for driver. The honest caveat from build forums: some players find CCE firmer than Fiberbuilt on fat strikes. It delivers the most authentic fairway feel of any mat at its price, and at around **$600** it's the value champion of the premium tier.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/country-club-elite-mat"><span class="gp-tag">Realism value pick</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite Golf Mat" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">110 oz nylon · True Divot Action</span>
+    <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Real Feel Country Club Elite Golf Mat</a></span>
+    <p class="gp-why">The enthusiast darling that won't let you cheat a fat shot — the dense pile gives honest down-and-through feedback instead of the bounce-and-forgive of cheap turf, yet still cushions your joints. Accepts a real tee and costs a fraction of a full platform.</p>
+    <span class="gp-price">~$599</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/country-club-elite-mat">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 The decision: **joints first, buy Fiberbuilt; realism first, buy CCE.** Both are correct answers; there is no wrong one between them.
+
+<div class="callout forum">
+  <div class="ct">// From the forums</div>
+  <p>Nobody on r/golfsimulator regrets the mat they overspent on. The thread that repeats forever is the opposite: "$3K launch monitor, $99 mat, now my left wrist clicks." The cheap mat is the only piece of the build that can physically injure you — treat it like the safety gear it is, not the rounding error at checkout.</p>
+</div>
 
 ## Strip vs Platform: Match It to Your Floor
 
@@ -67,6 +100,11 @@ A second decision sits underneath the brand choice — how much mat you actually
 - **Full platform mat** (Fiberbuilt studio) gives a **uniform, level stance** with the ball and your feet on the same engineered surface. This is the cleaner answer on **bare concrete**, where stance height and consistent ball position matter for comfort and for repeatable data.
 
 If you're building on a garage slab, budget toward a platform or build a level stance area around your strip. The [garage build guide](/golf/garage-golf-simulator-build-guide) covers flooring the bay so the mat sits right.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Stand at the same height as the ball. If your feet sit on bare concrete and the ball sits on a 1.75-inch pad, you're effectively hitting off a tee you didn't ask for — and your launch monitor's club path goes with it. A platform (or a matched landing-pad floor) keeps your stance level, which keeps your data honest.</p>
+</div>
 
 ## The Real-Tee Question
 

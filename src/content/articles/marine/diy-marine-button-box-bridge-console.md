@@ -45,7 +45,35 @@ You have two clean choices for the controller board, and the decision is effort 
 
 The **Pro Micro** is the value king. Its ATmega32u4 chip has native USB, so with the open-source ArduinoJoystickLibrary it presents to Windows as a real HID joystick — your switches show up as buttons, your encoders as inputs, no extra drivers. At a few dollars it's the cheapest custom-controller foundation there is. The catch is you write a sketch and calibrate. See [the Arduino-as-helm gear page](/marine/gear/arduino-leonardo-diy-hid) for the full board rundown — the Leonardo and Pro Micro use the same chip and the same library.
 
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Value king</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">Programmable DIY · native USB HID</span>
+    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <p class="gp-why">Same ATmega32u4 brain as the Pro Micro, and the cheapest way to make a wall of switches and encoders read as a real controller. Worth it for the code flexibility alone — a sketch can turn a latching toggle into a clean single press, which the no-code boards can't.</p>
+    <span class="gp-price">~$25</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
+
 The **BU0836A** is the no-code shortcut: solder your switches to the pin headers, plug in, done. It's the documented choice for [the Bridge Command DIY helm build](/marine/diy-bridge-command-throttle), and if you're already building a wheel and throttle around one, adding your button-box switches to the same board is the obvious move. The [BU0836A gear page](/marine/gear/leobodnar-bu0836a-diy-board) covers its 8 axes and 32 inputs.
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836a-diy-board"><span class="gp-tag">No-code shortcut</span><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">DIY interface · 8 axes + 32 buttons</span>
+    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836a-diy-board">Leo Bodnar Electronics BU0836A USB Joystick Interface</a></span>
+    <p class="gp-why">The zero-IDE answer, and the smart pick if you're already running a DIY helm — your throttle pots and your bridge switches can share one board. Skip the sketch entirely; just solder and plug in. Note the 32-button cap if your console gets ambitious.</p>
+    <span class="gp-price">~$42</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/marine/gear/leobodnar-bu0836a-diy-board">Full review ▸</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+    </span>
+  </div>
+</aside>
 
 For a button box specifically — lots of switches, no analog axes needed — the Pro Micro is the smart pick. For a *combined* helm-plus-buttons console, the BU0836A's analog inputs earn their keep.
 
@@ -63,6 +91,11 @@ A solid first build is roughly **16 momentary buttons, 6 toggle switches, and 2 
 ## The switch-type trap
 
 One thing that trips up first-time builders, marine or racing: **latching (non-momentary) toggle switches register as press-and-hold, not a single press.** If your sim's "anchor light on" command expects a momentary tap, a latching toggle will hold the input down forever. You have two fixes. On the **Arduino route**, handle it in the sketch — detect the state *change* and fire a single button press. On the **BU0836 route**, you have no code, so you either use momentary switches for those functions or add a mapping layer. This is exactly the kind of job [marine sim mapping software](/marine/marine-sim-mapping-software-guide) — JoyToKey, vJoy and friends — exists for: converting a held state into a clean single trigger.
+
+<div class="callout tip">
+  <div class="ct">// Pro tip</div>
+  <p>Don't want to fabricate at all? A ready-made panel like the PXN CB1 (~$80) gives you 19 controls and ~30 mappable functions out of the box, driver-free over USB-C — you just bind its buttons to your sim's bridge commands. It's racing-styled RGB rather than a salty bridge aesthetic, and being all-digital it pairs with an analog throttle, but it skips every solder joint in this guide.</p>
+</div>
 
 ## The build, step by step
 
