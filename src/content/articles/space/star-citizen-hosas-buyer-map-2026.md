@@ -41,6 +41,8 @@ The goal is simple: put analog control under both hands without turning your des
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount for joysticks" loading="lazy"></a><figcaption>Mounts: consistency and ergonomics</figcaption></figure>
 </div>
 
+![HOSAS six-axis control map showing right hand steering, left hand strafe, twist or pedals, and mounts](/images/infographics/space/hosas-six-axis-map.png)
+
 ## The Buy Order
 
 | Phase | Buy | Why |
@@ -113,6 +115,8 @@ Monstertech-style table mounts are the clean premium answer. DIY mounts can work
 ## Stream Decks and Button Layers
 
 A Stream Deck is great for power management, mining, comms, shields, camera, and mode toggles. It is not a substitute for axes. Buy it after the sticks and mounts are settled. Otherwise you own a glowing macro pad attached to a control problem.
+
+![HOSAS upgrade ladder showing one stick, dual VKB, mounts, tracking, and premium bases](/images/infographics/space/hosas-upgrade-ladder.png)
 
 ## Research Notes
 

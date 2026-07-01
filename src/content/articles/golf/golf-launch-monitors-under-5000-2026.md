@@ -40,7 +40,7 @@ That is the whole fight. The sensor spec sheet matters, but the room and softwar
 <div class="shotgrid">
   <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor with built-in screen" loading="lazy"></a><figcaption>Garmin R50: premium no-PC path</figcaption></figure>
   <figure><a href="/golf/gear/skytrak-st-max"><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a><figcaption>SkyTrak ST MAX: indoor value</figcaption></figure>
-  <figure><a href="/golf/gear/uneekor-eye-mini-core"><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core launch monitor" loading="lazy"></a><figcaption>Uneekor Eye Mini Lite/Core: PC-first camera route</figcaption></figure>
+  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: discounted camera fallback</figcaption></figure>
   <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Launch Pro: accuracy with subscription math</figcaption></figure>
   <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: still a smart indoor fallback</figcaption></figure>
   <figure><a href="/golf/gear/rapsodo-mlm2pro"><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a><figcaption>MLM2PRO: budget spoiler, room dependent</figcaption></figure>
@@ -115,15 +115,15 @@ Uneekor is the nerdier recommendation, and I mean that lovingly. The Eye Mini Li
 That makes it a great fit for the builder who already wants GSPro, a projector, and a permanent sim bay. It is a worse fit for the buyer who wants a portable tablet-friendly toy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-mini-core"><span class="gp-tag">PC builder pick</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Sale-watch pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Buy now if you are building a real bay</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-mini-core">Uneekor Eye Mini Lite / Core path</a></span>
-    <p class="gp-why">Strong indoor camera route for PC-first simulator people. The value is real, but so is the setup expectation: Ethernet, PC specs, software, calibration, and a room that stays put.</p>
-    <span class="gp-price">Often $1.5K-$2.5K depending model/package</span>
+    <span class="gp-eyebrow">Buy if the discount is real</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">Still a strong indoor camera route when discounted. If ST MAX is close in price, buy the newer workflow; if SkyTrak+ is meaningfully cheaper, pocket the difference for mat and screen quality.</p>
+    <span class="gp-price">Often discounted below ST MAX</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/uneekor-eye-mini-core">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Uneekor+Eye+Mini+Lite+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -203,12 +203,12 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-mini-core"><span class="gp-tag">PC-first pick</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Sale-watch pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Best for permanent bays</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-mini-core">Uneekor Eye Mini Lite / Core path</a></span>
-    <p class="gp-why">Great if you are already building the PC/projector/GSPro room. Less great if you want portable simplicity.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Uneekor+Eye+Mini+Lite+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">Best when older inventory is discounted</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">The practical fallback when the ST MAX premium is too high. Same room-friendly camera logic, more money left for enclosure safety.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 

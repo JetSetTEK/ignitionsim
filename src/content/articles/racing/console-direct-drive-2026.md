@@ -38,11 +38,11 @@ Verdict first: **PS5 buyers should shortlist Fanatec GT DD Pro, Thrustmaster T59
 Console direct drive used to be a tiny, confusing corner of sim racing. In 2026 it is better, but still full of gotchas. The most expensive mistake is not buying too little torque. It is buying a beautiful direct-drive base that your console refuses to authenticate.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-rs50-system"><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech G RS50 direct-drive racing wheel system" loading="lazy"></a><figcaption>Logitech RS50: new 8 Nm midrange</figcaption></figure>
+  <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: new console-friendly midrange</figcaption></figure>
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: affordable PS5/PC DD bundle</figcaption></figure>
   <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive racing bundle" loading="lazy"></a><figcaption>MOZA R3: budget Xbox door</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro" loading="lazy"></a><figcaption>GT DD Pro: Fanatec PS value</figcaption></figure>
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a><figcaption>G PRO: 11 Nm premium console</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus direct-drive wheel base" loading="lazy"></a><figcaption>DD+: premium PlayStation headroom</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ direct-drive wheel base" loading="lazy"></a><figcaption>ClubSport DD+: PS premium base</figcaption></figure>
 </div>
 
@@ -112,15 +112,15 @@ The Logitech RS50 is the new product that makes old console DD guides feel stale
 The only thing to watch is compatibility language. The RS50 ecosystem has PC, PlayStation, and Xbox paths, but you still need the correct SKU. Treat the product page like a legal document, because in console hardware it basically is.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-rs50-system"><span class="gp-tag">Midrange pick</span><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech RS50 System" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">Midrange pick</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Modern 8 Nm console path</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-rs50-system">Logitech G RS50 System</a></span>
-    <p class="gp-why">The one to check before defaulting to older advice. 8 Nm, TRUEFORCE, Logitech build, and a more approachable price than G PRO.</p>
-    <span class="gp-price">Around $699 system class</span>
+    <span class="gp-eyebrow">Modern PlayStation middle</span>
+    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
+    <p class="gp-why">The one to check before assuming PlayStation direct drive has to be expensive. Modern drive tech, official console support, and a complete bundle.</p>
+    <span class="gp-price">Around $499 bundle class</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/logitech-rs50-system">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+RS50+System&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -152,20 +152,20 @@ The Logitech G PRO Racing Wheel remains the premium plug-and-play console DD fee
 The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained torque, official PS5/PS4 and PC support, QR2, passive cooling, and Fanatec ecosystem depth. It is a base-first purchase, not a cheap complete bundle.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a><figcaption>G PRO: premium Logitech console feel</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro bundle" loading="lazy"></a><figcaption>GT DD Pro: proven PlayStation bundle</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a><figcaption>ClubSport DD+: premium PlayStation base</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-csl-dd"><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD base" loading="lazy"></a><figcaption>CSL DD: Xbox via compatible Fanatec wheel</figcaption></figure>
+  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a><figcaption>R3: cleaner Xbox entry path</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-g-pro"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">11 Nm plug-and-play premium</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-g-pro">Logitech G PRO Racing Wheel</a></span>
-    <p class="gp-why">A gorgeous, strong console-friendly wheel when you want less ecosystem fiddling and more polished out-of-box driving.</p>
+    <span class="gp-eyebrow">15 Nm premium PlayStation base</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
+    <p class="gp-why">The serious PlayStation base when GT DD Pro feels too soft and you want Fanatec's deep wheel and pedal ecosystem behind the purchase.</p>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/logitech-g-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD%2B&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -222,12 +222,12 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-rs50-system"><span class="gp-tag">Modern middle</span><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech RS50 System" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox value</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Best midrange console DD to watch</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-rs50-system">Logitech G RS50 System</a></span>
-    <p class="gp-why">8 Nm plus TRUEFORCE in a newer Logitech system. Confirm platform SKU, then shortlist hard.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+RS50+System&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">Best budget Xbox DD</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
+    <p class="gp-why">The cleanest Xbox entry when you want real direct-drive feel without forcing a premium cockpit and pedal upgrade on day one.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+Bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 

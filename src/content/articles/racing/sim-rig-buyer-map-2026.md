@@ -37,9 +37,11 @@ The actual order is less glamorous and far more useful: **stable seating positio
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a><figcaption>MOZA R5: smart first direct drive</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-csl-lc"><img src="/images/gear/racing/fanatec-csl-lc.jpg" alt="Fanatec CSL load cell pedals" loading="lazy"></a><figcaption>Load-cell brake: the consistency upgrade</figcaption></figure>
+  <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint load cell pedals" loading="lazy"></a><figcaption>Load-cell brake: the consistency upgrade</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum profile cockpit" loading="lazy"></a><figcaption>8020 cockpit: where torque finally behaves</figcaption></figure>
 </div>
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## The Buy Order
 

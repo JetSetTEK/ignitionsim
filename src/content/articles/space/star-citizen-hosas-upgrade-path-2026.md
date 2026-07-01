@@ -40,8 +40,8 @@ If your budget is tight, **WinWing Ursa Minor** is the value disruptor. If your 
 <div class="shotgrid">
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator: safest first serious stick</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle left hand controller" loading="lazy"></a><figcaption>Omni-Throttle: off-hand strafe/thrust magic</figcaption></figure>
-  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a><figcaption>WinWing Ursa Minor: aggressive value</figcaption></figure>
-  <figure><a href="/space/gear/virpil-constellation-alpha-grip"><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a><figcaption>Virpil Alpha: premium grip path</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Modern Combat Edition" loading="lazy"></a><figcaption>Gunfighter: premium precision path</figcaption></figure>
+  <figure><a href="/space/gear/vkb-stecs-standard-mk2-throttle"><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Standard Mk.II throttle" loading="lazy"></a><figcaption>STECs: HOTAS fallback if you fly mixed sims</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil WarBRD-D joystick base" loading="lazy"></a><figcaption>WarBRD-D: adjustable premium base</figcaption></figure>
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount for joysticks" loading="lazy"></a><figcaption>Mounts: stop chasing desk slide</figcaption></figure>
 </div>
@@ -109,15 +109,15 @@ WinWing’s Ursa Minor Space deserves attention because it hits the value nerve 
 The caveat is trust. VKB has a longer “we can recommend this without drama” trail in space sim circles. WinWing can be the smarter budget buy if you are price-sensitive and comfortable with SimAppPro, but it is not yet the default no-regrets community answer.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/winwing-ursa-minor-space"><span class="gp-tag">Value disruptor</span><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a>
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Value disruptor</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Budget HOSAS contender</span>
-    <span class="gp-name"><a href="/space/gear/winwing-ursa-minor-space">WinWing Ursa Minor Space</a></span>
-    <p class="gp-why">Buy if the price gap matters and you want a modern feature set. Pick VKB if community support confidence matters more than saving the last dollar.</p>
-    <span class="gp-price">Aggressive value tier</span>
+    <span class="gp-eyebrow">Off-hand value controller</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator Omni-Throttle</a></span>
+    <p class="gp-why">Buy if Star Citizen is the main event and you want left-hand thrust/strafe control that feels physical without giving up analog axes.</p>
+    <span class="gp-price">Reliable value tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/winwing-ursa-minor-space">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+Joystick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -149,22 +149,22 @@ Virpil Constellation Alpha/Alpha Prime gear is gorgeous and genuinely suited to 
 The catch is real cost. A Virpil grip is not a full stick by itself. You need a base, often mounts, and sometimes patience for backorder windows. The community summary right now is fair: **Virpil feels premium and durable; VKB gives you similar performance value faster and cheaper.**
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/virpil-constellation-alpha-grip"><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a><figcaption>Alpha grip: the premium space handle</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a><figcaption>Gunfighter: VKB's premium path</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil WarBRD-D base" loading="lazy"></a><figcaption>WarBRD-D: compact adjustable base</figcaption></figure>
   <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a><figcaption>VKB Gunfighter: VKB’s premium base path</figcaption></figure>
-  <figure><a href="/space/gear/vkb-mcg-pro-grip"><img src="/images/gear/space/vkb-mcg-pro-grip.jpg" alt="VKB MCG Pro grip" loading="lazy"></a><figcaption>MCG Pro: more binds, more seriousness</figcaption></figure>
+  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Warthog: aircraft-first HOTAS reference</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/virpil-constellation-alpha-grip"><span class="gp-tag">Premium</span><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a>
+  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Premium</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Endgame grip path</span>
-    <span class="gp-name"><a href="/space/gear/virpil-constellation-alpha-grip">Virpil Constellation Alpha Grip</a></span>
-    <p class="gp-why">Buy after you know your binds, your mounting, and your flying style. It is an upgrade for feel and input density, not a beginner shortcut.</p>
-    <span class="gp-price">Grip only, base separate</span>
+    <span class="gp-eyebrow">Endgame gimbal path</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
+    <p class="gp-why">Buy after you know your binds, mounting, and flying style. It is an upgrade for precision and tuning, not a beginner shortcut.</p>
+    <span class="gp-price">Premium base tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/virpil-constellation-alpha-grip">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+Constellation+Alpha+Prime&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>

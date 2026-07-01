@@ -36,10 +36,12 @@ Direct drive shopping looks like a spreadsheet argument until you realize the re
 Duke's ladder below is built around stopping points. You do not need to climb every rung. In fact, the best sim racing purchase is often the rung you stop on because it is good enough and leaves money for pedals, displays, and rent. Weird hobby, still requires shelter.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO racing wheel" loading="lazy"></a><figcaption>Logitech G PRO: polished console/PC path</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro direct-drive racing wheel bundle" loading="lazy"></a><figcaption>GT DD Pro: polished console/PC path</figcaption></figure>
   <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12: PC sweet spot</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro: feel-per-dollar</figcaption></figure>
 </div>
+
+![Direct-drive stop point ladder showing 5 Nm, 8 to 12 Nm, 15 to 18 Nm, 21 Nm plus, and pedals-first advice](/images/infographics/racing/direct-drive-stop-points.png)
 
 ## The Ladder
 
@@ -57,15 +59,15 @@ The first direct-drive jump is the biggest subjective leap. Even 5 Nm feels shar
 Buy this rung if you are still deciding whether sim racing is a forever hobby. The **MOZA R5** is the clean value starter. The **Cammus C5** is the oddball cheapest genuine DD. Console buyers should consider the **MOZA R3** for Xbox or Fanatec for PlayStation.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/cammus-c5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/cammus-c5.jpg" alt="Cammus C5 direct drive wheel" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Cheapest real DD feel</span>
-    <span class="gp-name"><a href="/racing/gear/cammus-c5">Cammus C5</a></span>
-    <p class="gp-why">Not the deepest ecosystem, not the fanciest wheel, but a genuine direct-drive on-ramp for buyers who want the motor feel without immediately joining a rim-collecting support group.</p>
+    <span class="gp-eyebrow">Cleanest starter ecosystem</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <p class="gp-why">The safer starter DD pick when you want a real upgrade ladder behind the first purchase: R9, R12, better rims, better pedals, fewer mystery compromises.</p>
     <span class="gp-price">Entry DD</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/cammus-c5">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Cammus+C5+direct+drive+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+direct+drive+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -123,6 +125,8 @@ Buy this rung only after you have a cockpit, pedals, display, and ecosystem plan
 **Quick release:** Fanatec's QR2 world has the most gotchas. MOZA is simple but proprietary. Simagic's newer QR-A makes third-party rims easier. Always price the rim adapter before you fall in love.
 
 **Software:** The best wheelbase is annoying if the tuning app fights you. Budget a setup night. Snacks help.
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## Research Notes
 

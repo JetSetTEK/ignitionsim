@@ -10,7 +10,7 @@ heroImage: "/images/space/vkb-vs-virpil-vs-winwing-space-sticks-2026.jpg"
 heroAlt: "VKB, Virpil, and WinWing space sim sticks arranged for comparison"
 excerpt: "VKB wins value, Virpil wins boutique cockpit drama, WinWing wins aggressive feature pricing. The right HOSAS ecosystem depends on how far you plan to climb."
 featured: true
-goldStatus: "certified"
+goldStatus: "refresh"
 goldCertifiedDate: 2026-07-01
 sourceReviewDate: 2026-07-01
 revenueTier: "B"

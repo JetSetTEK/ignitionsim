@@ -182,7 +182,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
 
 ## Upgrade Ladder
 
-1. **Entry pedals to Fanatec CSL LC / MOZA CRP2:** huge consistency jump.
+1. **Entry pedals to MOZA CRP2 / Heusinkveld Sprint:** huge consistency jump.
 2. **MOZA CRP2 to Heusinkveld Sprint:** better software, build, and control refinement.
 3. **Sprint to Simagic P2000 / Asetek Invicta:** chase hydraulic feel and premium brake character.
 4. **High-end pedals to ActivePedal Pro / mBooster:** chase software-defined feel, feedback, and profile switching.
@@ -190,12 +190,12 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-csl-lc"><span class="gp-tag">Budget upgrade</span><img src="/images/gear/racing/fanatec-csl-lc.jpg" alt="Fanatec CSL Pedals LC" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Control upgrade</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">First serious brake</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-csl-lc">Fanatec CSL Pedals LC</a></span>
-    <p class="gp-why">The obvious Fanatec/console path when you want load-cell braking without boutique pricing.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">First genuinely serious brake</span>
+    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
+    <p class="gp-why">The classic club-racer step: precise load-cell feel, clean software, and a brake pedal that rewards pressure discipline instead of ankle guesswork.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 

@@ -43,6 +43,8 @@ Duke's rule: **buy the weakest frame you will not outgrow.** That sounds backwar
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X aluminum profile cockpit" loading="lazy"></a><figcaption>8020 profile: endgame mounting freedom</figcaption></figure>
 </div>
 
+![Sim racing rigidity flex ladder showing pedal deck, wheel uprights, seat mount, and accessory arms](/images/infographics/racing/rigidity-flex-ladder.png)
+
 ## The Short Version
 
 | Rig type | Best torque | Pedals | Space | Upgrade ceiling |
@@ -128,6 +130,8 @@ Before buying more torque, test your current rig:
 4. If anything moves independently, that is your next upgrade.
 
 Do not tune force feedback around flex. Fix the flex. Otherwise you are just teaching your nervous system to compensate for furniture.
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## Verdict
 

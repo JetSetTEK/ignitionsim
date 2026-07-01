@@ -67,6 +67,7 @@ The public path should prioritize:
 ## Publishing Checklist
 Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
+- Run `npm run gold-audit`; it must pass before build, deploy, or push. The build now runs this automatically, but run it directly while editing so failures are caught early.
 - Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended product.
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.
 - Search the output for placeholder markers, `PHOTO SLOT READY`, `cimg-fallback`, procedural hero art, missing images, and product pages that are only spec cards. Fix or demote before deploy.

@@ -41,6 +41,8 @@ The truth is simple: **motion moves the chassis; tactile tells your body what th
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum cockpit" loading="lazy"></a><figcaption>Aluminum profile gives hardware somewhere sane to live</figcaption></figure>
 </div>
 
+![Bass shaker wiring map showing solid mounting, rig isolation, limited effects, and strain relief](/images/infographics/racing/tactile-wiring-map.png)
+
 ## The Immersion Ladder
 
 | Phase | Upgrade | Cost/complexity | What it adds |
@@ -108,6 +110,10 @@ Motion can add heave, pitch, roll, braking dive, acceleration cues, and chassis 
 | Cost and setup | Easier | Much harder |
 | Neighbor risk | Medium | Medium-high |
 
+![Immersion upgrade path showing cockpit, seat shaker, pedal haptics, four-corner tactile, and motion](/images/infographics/racing/immersion-upgrade-path.png)
+
+![Sim racing rigidity flex ladder showing pedal deck, wheel uprights, seat mount, and accessory arms](/images/infographics/racing/rigidity-flex-ladder.png)
+
 ## The Smart Upgrade Path
 
 1. Rigid cockpit.
@@ -116,6 +122,8 @@ Motion can add heave, pitch, roll, braking dive, acceleration cues, and chassis 
 4. Add pedal haptics if you race ABS cars.
 5. Add left/right or four-corner tactile only if you can tune it cleanly.
 6. Consider motion after the rig, wiring, and room are ready.
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## Research Notes
 

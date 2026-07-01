@@ -41,6 +41,8 @@ The right launch monitor is a match between **room, data needs, software, and ow
   <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a><figcaption>Garmin R50: all-in-one swing lab</figcaption></figure>
 </div>
 
+![Golf launch monitor decision ladder showing no-PC, tight room, budget radar, accuracy, and permanent bay choices](/images/infographics/golf/launch-monitor-decision-ladder.png)
+
 ## The Ladder
 
 | Tier | Models | Best for | Watch out for |
@@ -132,6 +134,8 @@ The **Bushnell Launch Pro** is compelling because Foresight-grade sensing enters
 ## The Decision
 
 Choose **Garmin R10/MLM2PRO** if your room is deep, your budget is tight, and you accept radar limitations. Choose **SkyTrak+ or ST MAX** if you are building a serious indoor room and want strong value. Choose **Garmin R50** if no-PC convenience is worth the premium. Choose **Launch Pro/GC3** if accuracy and club data justify the recurring-cost conversation.
+
+![Golf simulator room reality map showing impact screen, hitting mat, launch monitor, safety gap, and sensor space](/images/infographics/golf/golf-room-reality-map.png)
 
 ## Research Notes
 

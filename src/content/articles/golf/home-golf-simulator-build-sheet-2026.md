@@ -41,6 +41,8 @@ Nina's first question is not "SkyTrak or Garmin?" It is "Can you swing driver in
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>Enclosure and screen: the safety layer</figcaption></figure>
 </div>
 
+![Golf simulator room reality map showing impact screen, hitting mat, launch monitor, safety gap, and sensor space](/images/infographics/golf/golf-room-reality-map.png)
+
 ## The Build Order
 
 | Phase | Decide | Why it matters |
@@ -57,6 +59,8 @@ Nina's first question is not "SkyTrak or Garmin?" It is "Can you swing driver in
 Typical comfortable targets are around **10 feet wide, 9-10 feet high, and 15 feet deep**, but body size and swing plane matter. A tall player with driver may need more height. A radar launch monitor may need space behind the ball. A side photometric unit may fit a shallower room but needs a clear hitting zone and lighting discipline.
 
 Do not buy the enclosure first. Do not buy the projector first. Measure swing clearance with the longest club you will actually hit, then read the room guide.
+
+![Golf launch monitor decision ladder showing no-PC, tight room, budget radar, accuracy, and permanent bay choices](/images/infographics/golf/launch-monitor-decision-ladder.png)
 
 ## Phase 2: Pick Radar or Photometric
 

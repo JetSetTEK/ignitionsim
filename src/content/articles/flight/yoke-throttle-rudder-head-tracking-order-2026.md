@@ -38,8 +38,10 @@ Val's quick answer: buy the controls that remove the most mouse work from the ai
 <div class="shotgrid">
   <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Stick path: compact and versatile</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a><figcaption>Rudder path: taxi, crosswinds, helicopters</figcaption></figure>
-  <figure><a href="/flight/gear/winwing-fcu-efis-combo-a320"><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing FCU and EFIS Airbus panels" loading="lazy"></a><figcaption>Panel path: after the foundations</figcaption></figure>
+  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>Airbus path: throttle workflow first</figcaption></figure>
 </div>
+
+![Pilot type buying map for GA, airliner, helicopter, and combat flight sim hardware](/images/infographics/flight/pilot-type-buy-map.png)
 
 ## The Upgrade Order by Pilot Type
 
@@ -62,18 +64,22 @@ If you are budget constrained, buy a good yoke/stick and throttle first, then ru
 Airliner simming is about modes, automation, power, spoilers, flaps, radios, and staying ahead of the aircraft. A yoke alone is not enough. The **Honeycomb Bravo** works well for Boeing-ish and general multi-engine workflows. Airbus builders should look at TCA controls and WinWing panels once they know they are committed.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/winwing-fcu-efis-combo-a320"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing Airbus FCU and EFIS panels" loading="lazy"></a>
+  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Airbus autopilot workflow</span>
-    <span class="gp-name"><a href="/flight/gear/winwing-fcu-efis-combo-a320">WinWing FCU + EFIS Combo</a></span>
-    <p class="gp-why">A genuine workflow upgrade for committed Airbus pilots. For everyone else, it is a beautiful way to own the wrong panel.</p>
-    <span class="gp-price">Panel tier</span>
+    <span class="gp-eyebrow">Airbus throttle workflow</span>
+    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
+    <p class="gp-why">The safer first Airbus buy before you chase FCU panels: physical thrust levers, spoilers/flaps expansion path, and less risk of owning the wrong shiny panel.</p>
+    <span class="gp-price">Airbus control tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/winwing-fcu-efis-combo-a320">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
+
+![Flight sim control priority map showing stick or yoke, throttle, rudders, head tracking, then panels](/images/infographics/flight/control-priority-map.png)
+
+![MSFS cockpit USB map showing powered hubs, direct ports, labels, and sleep setting checks](/images/infographics/flight/msfs-usb-sanity-map.png)
 
 ## Rudders: The Upgrade That Makes Bad Habits Visible
 

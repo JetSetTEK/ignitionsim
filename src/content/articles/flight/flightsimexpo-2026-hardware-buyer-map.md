@@ -11,7 +11,7 @@ heroImage: "/images/flight/flightsimexpo-2026-hardware-buyer-map.jpg"
 heroAlt: "FlightSimExpo 2026 flight simulator hardware buyer map with yokes, panels, sticks, rudders, and powered USB gear"
 excerpt: "FlightSimExpo 2026 made one thing obvious: the smart cockpit is not the biggest cart, it is the right control path for the aircraft you actually fly."
 featured: true
-goldStatus: "certified"
+goldStatus: "refresh"
 goldCertifiedDate: 2026-07-01
 sourceReviewDate: 2026-07-01
 revenueTier: "B"

@@ -9,14 +9,18 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 - IgnitionSim Verdict /10: a single disclosed editorial review per product by Robert Pruitt, scored on axes (Value, Build, Upgrade ceiling, plus type-specific axes like Accuracy or Value-for-space) and an Overall. It is one expert's editorial opinion, never crowd-sourced stars and never our difficulty numbers as quality.
 - We never fabricate prices/specs/stock; approximate figures are marked "around $X" and dated.
 
-## Racing gear (11)
+## Racing gear (15)
 - MOZA R5 — ~$440 — Verdict 7.8/10 — The MOZA R5 is the smallest of MOZA's 'real' direct-drive bases and the usual first rung into the brand's deep value ladder. Its 5.5Nm motor is modest by modern standards but, like all DD, it delivers the road texture and instant response no belt wheel can match. Reviewers treat it as a clean, well-priced bundle entry whose biggest selling point is what comes next: a clear upgrade path to the R9, R12, R16 and R21 on the same MOZA quick release and Pit House software. [https://ignitionsim.com/racing/gear/moza-r5]
 - Fanatec GT DD Pro — ~$650 — Verdict 8.3/10 — The Fanatec GT DD Pro is the go-to PlayStation-and-PC direct-drive bundle, officially licensed for Gran Turismo and one of the only credible DD options for PS5 buyers. It produces 8Nm of peak torque and ships as a complete kit with a GT-style wheel and pedals. Reviewers frame it as the smart console value pick: weaker than rivals on paper, but its huge Fanatec upgrade ecosystem and PS5 license make it the established choice for living-room racers. [https://ignitionsim.com/racing/gear/fanatec-gt-dd-pro]
 - MOZA R9 V2 — ~$429 — Verdict 8.2/10 — The MOZA R9 V2 sits in the heart of the mid-tier value sweet spot, delivering 9Nm for around $429 inside MOZA's deep upgrade ladder. It uses wireless wheel communication so V2 rims connect cleanly, and pairs with the well-regarded Pit House software. Reviewers treat it as a strong, sensible enthusiast base, though MOZA's own R12 at a similar price has made the R9 a slightly awkward middle child for buyers who can stretch to 12Nm. [https://ignitionsim.com/racing/gear/moza-r9]
 - MOZA R12 — ~$429 — Verdict 8.9/10 — The MOZA R12 is widely called the mid-tier sweet spot: 12Nm of direct drive for around $429, a compact body, and MOZA's NexGen 4.0 force-feedback algorithm with a 21-bit encoder. Reviewers describe it as enough torque for a long-term relationship, strong and immersive with real headroom for heavy cars while staying accessible in size and price. It anchors MOZA's ladder and is one of the most recommended first 'serious' direct-drive bases of 2025-2026. [https://ignitionsim.com/racing/gear/moza-r12]
 - Simucube Simucube 2 Sport — ~$1199 — Verdict 9/10 — The Simucube 2 Sport is the entry point to Simucube's PC-only premium line and a long-standing reference for fidelity, delivering 17Nm from a machined-metal body with a 22-bit absolute encoder and dual-CPU architecture for ultra-low latency. Reviewers consistently note its complete absence of cogging, torque ripple or notchiness, and praise the SQR quick release as essentially immortal. It is the base others are measured against, and one of the most third-party-friendly ecosystems. [https://ignitionsim.com/racing/gear/simucube-2-sport]
+- Simagic Alpha Evo Pro — ~$699 — Verdict 8.8/10 — The Simagic Alpha Evo Pro delivers 18Nm for around $699 and is widely flagged as the value standout of the Alpha Evo line, with reviewers noting you never miss the extra torque of pricier bases. It pairs the line's low-inertia servo, 21-bit encoder and near-zero cogging with the open QR-A quick release. At 18Nm for under $700 it badly undercuts similarly powerful Asetek and Simucube units, making it a frequent value-pick recommendation. PC-only. [https://ignitionsim.com/racing/gear/simagic-evo-pro]
 - Asetek Forte — ~$1199 — Verdict 8.9/10 — The Asetek Forte is the 18Nm mid-range of Asetek SimSports' industrial-grade line, sharing the same 22-bit encoder, slipring and electronics as the flagship Invicta. Reviewers report its performance is difficult to distinguish from the Simucube 2 Ultimate at a fraction of the cost, with low cogging and clean detail. Its quick release combines Simucube-style mounting with integrated power and data via pogo pins, and the base acts as a USB hub for Asetek peripherals. PC-only, upper-mid tier. [https://ignitionsim.com/racing/gear/asetek-forte]
 - Simagic Alpha Evo Ultra — ~$969 — Verdict 8.9/10 — The Simagic Alpha Evo Ultra is the 28Nm flagship of the Alpha Evo line and a 2025 benchmark for hardcore enthusiasts, pairing the highest torque in the range with the line's low-inertia servo, 21-bit encoder and open QR-A. Reviewers call 28Nm absolutely overkill for most racers but pitch the Ultra at serious enthusiasts who want maximum force at a price that dramatically undercuts Simucube and Asetek flagships. PC-only, and the standout torque-per-dollar option at the very top. [https://ignitionsim.com/racing/gear/simagic-evo-ultra]
+- MOZA CRP2 — ~$300 — Verdict 8.6/10 — The MOZA CRP2 is MOZA's flagship pedal set and a frequently cited budget-to-mid load-cell set to beat: a cast-aluminum, high-strength-steel construction with a 200kg load-cell brake paired to a 15-bit angle sensor and a customizable hydraulic damper (125 combinations). Crucially it connects via standalone USB and is brand-agnostic, so it pairs with any base. Reviewers rate it as premium-feeling load-cell hardware at a price well below boutique sets. [https://ignitionsim.com/racing/gear/moza-crp2]
+- Simagic P2000 — ~$499 — Verdict 8.8/10 — The Simagic P2000 is a premium pedal set that combines a full hydraulic brake with a load cell (100kg or 200kg, depending on the S100/S200/L200 variant), so braking is controlled by pressure for repeatable performance while the hydraulics replicate a real race-car pedal feel. The multi-stage clutch takes optional springs and the throttle is fully adjustable for damping, stroke and pressure. Reviewers rate it among the best load-cell-plus-hydraulic sets they have tested, all on CNC-machined parts. [https://ignitionsim.com/racing/gear/simagic-p2000]
+- Heusinkveld Sprint — ~$669 — Verdict 9/10 — The Heusinkveld Sim Pedals Sprint are widely regarded as among the best professional load-cell pedals available, with a 120kg-rated brake load cell (about 65kg of usable force) tuned via progressive elastomers and hydraulic damping, all configured in the praised SmartControl software. Every pedal uses a load cell, making them more robust than rivals that load-cell only the brake. They connect via standalone USB, work with any base, and reviewers consider their value, while not cheap, essentially unbeatable. [https://ignitionsim.com/racing/gear/heusinkveld-sprint]
 - Asetek Invicta Pedals — ~$1200 — Verdict 9/10 — The Asetek Invicta Pedals are a top-tier hydraulic load-cell set, the pedal counterpart to Asetek's flagship base, built to industrial standards with an elaborately engineered clutch and a true hydraulic brake for progressive, real-car feel. Reviewers treat them as a high-end alternative to Heusinkveld and Simagic's best, prized for hydraulic realism and build quality. They connect via standalone USB and work with any base, sitting at the aspirational end of the pedal market below only active pedals. [https://ignitionsim.com/racing/gear/asetek-invicta-pedals]
 - GT Omega Apex Cockpit — ~$389 — Verdict 8/10 — The GT Omega Apex is an affordable entry rigid cockpit, around $389-449, that positions itself as the step up from a wheel stand into a proper seated rig. Reviewers describe it as a steel-tube construction (not 8020 aluminum profile) that includes a seat and handles belt-drive and lower-torque direct-drive wheels well. It is a strong value for newcomers who want a complete bolt-down cockpit, while heavy direct-drive racers will eventually want a stiffer aluminum-profile rig. [https://ignitionsim.com/racing/gear/gt-omega-apex]
 - Next Level GT Track — ~$699 — Verdict 8.3/10 — The Next Level Racing GT Track is a rigid, feature-packed cockpit that supports direct-drive wheels and professional pedal sets, with broad compatibility for Thrustmaster, Logitech and Fanatec gear. It includes gear-shift and handbrake mounts, a Buttkicker adapter, a racing harness and lockable feet, and is expandable to NLR's Motion Platform V3. Reviewers note tidy packaging and a roughly two-hour assembly. It is a well-rounded mid-tier cockpit, sturdier than a wheel stand though not full 8020 extrusion. [https://ignitionsim.com/racing/gear/nlr-gt-track]
@@ -32,9 +36,10 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 - MOZA MTQ Throttle Quadrant — ~$199 — Verdict 8/10 — The MTQ is MOZA's modular, jet-focused throttle quadrant and the rising alternative to the Honeycomb Bravo. It ships with fighter-style (TQF) levers and accepts optional Airbus (TQA) and Boeing (TQB) lever packs at $39 each that swap in seconds and actually change the detent behavior, so one base can feel like an F-18, an A320 or a 737. It packs four axes, 23 controls including a landing-gear lever and three rotaries, and telemetry-reactive RGB backlighting with no plugins. Reviewers love the versatility in a compact body; the main knock is non-removable flap detents that can break immersion. [https://ignitionsim.com/flight/gear/moza-mtq-throttle-quadrant]
 - Turtle Beach VelocityOne Flight Stick — ~$130 — Verdict 8/10 — The VelocityOne Flight Stick is the console-friendly all-in-one for newcomers: an Xbox- and PC-licensed stick with integrated twist-rudder, an OLED status display and a surprising 27 programmable buttons. The OLED gives quick access to settings like rudder lock and even headset audio EQ, there is a height-adjustable palm rest mountable left or right, and adjustable RGB lighting. Reviewers consistently find it impressively featured for around $130, though they note it is plastic-heavy and actually a bit better on PC than Xbox. For a console flyer who wants one device to get airborne, it is a strong start. [https://ignitionsim.com/flight/gear/turtle-beach-velocityone-flight-stick]
 
-## Space gear (7)
+## Space gear (8)
 - VKB Gladiator NXT EVO 'Space Combat Edition' — ~$119 — Verdict 9/10 — The canonical affordable on-ramp into a 'real' magnetic-sensor stick, and the single most-recommended HOSAS building block for Star Citizen and Elite Dangerous. It pairs an all-metal-internals gimbal with contactless sensors and VKB's self-centering twist mechanism at a price that lets you buy two for a full twin-stick rig. The Space Combat Edition adds a space-friendly button cluster and is fully buildable as a left- or right-hand stick. The trade-off versus the Gunfighter tier is a non-adjustable cam/spring feel and a smaller, lighter footprint. [https://ignitionsim.com/space/gear/vkb-gladiator-nxt-evo-space-combat-edition]
 - VKB Gladiator NXT EVO Omni-Throttle — ~$149 — Verdict 8/10 — A clever HOSAS-native answer to the throttle question: it mounts a Gladiator EVO stick on an Omni-Throttle Adapter (OTA) so your off-hand becomes a multi-axis thrust/strafe controller instead of a single-axis lever. That maps perfectly to a spaceship's six-axis flight model, where lateral strafing matters as much as forward thrust. It shares the Gladiator's magnetic sensors, ALPS buttons and self-centering twist. It is essentially the left-hand half of a purpose-built VKB space rig. [https://ignitionsim.com/space/gear/vkb-gladiator-nxt-evo-omni-throttle]
+- VKB Gunfighter Mk.IV (Base Only) — ~$289 — Verdict 9/10 — VKB's premium full-metal gimbal base and the upgrade destination for serious pilots who outgrow the Gladiator's fixed feel. Released in 2023, the Mk.IV adds next-gen adjustable axis dampers, swappable cams and springs with pre-tighteners, and a no-stiction soft-start clutch for glass-smooth movement. Five interchangeable grips drop onto one common Rev.C connector, so a matched pair of Gunfighters makes a genuine endgame HOSAS. It is a base only — budget for a grip (MCG, SCG, etc.) on top. [https://ignitionsim.com/space/gear/vkb-gunfighter-mk4-base]
 - Virpil VPC WarBRD-D Base — ~$260 — Verdict 9/10 — Virpil's compact, popular spring-cam base and the affordable way into the VPC ecosystem. The 'D' revision inherits the flagship MongoosT-50's independently adjustable axis clutch dampers, so you can run the stick fully free for raw inputs, semi-damped to steady your aim, or fully locked. It uses an aircraft-grade duralumin gimbal and a 14-bit native-resolution contactless sensor (0.02-degree detection), and every cam set now ships in the box. Swapping springs/cams means partial disassembly, which is the main usability gripe. [https://ignitionsim.com/space/gear/virpil-warbrd-d-base]
 - Thrustmaster T.16000M FCS (Stick Only) — ~$80 — Verdict 8/10 — The mass-retail gateway stick and the classic cheap HOSAS building block. It uses Thrustmaster's H.E.A.R.T Hall-effect magnetic sensors for 16-bit (16000x16000) precision that won't drift over time, and it's fully ambidextrous — three removable components reconfigure it for left or right hand, so two T.16000Ms make the standard budget twin-stick rig. You get 16 buttons with braille-style markings, an 8-way hat and four axes including twist. The trade-off is a plastic build and a lighter, simpler feel than the boutique sticks. [https://ignitionsim.com/space/gear/thrustmaster-t16000m-fcs]
 - Thrustmaster T.16000M FCS HOTAS (stick + TWCS throttle) — ~$170 — Verdict 8/10 — The budget HOTAS gateway: the ambidextrous Hall-effect T.16000M stick paired with the TWCS throttle, which slides linearly on rails like a real fighter throttle rather than rotating. Together they give 9 axes, 30 buttons and two 8-way hats — generous for the money. It's comfortable beyond its looks and accurate, with the headline caveat being a stiff throttle and a setup curve (you map inputs individually). For space, many still prefer twin T.16000M sticks, but this is a solid air-and-space starter HOTAS. [https://ignitionsim.com/space/gear/thrustmaster-t16000m-fcs-hotas]
@@ -50,9 +55,10 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 - Bridge Command Bridge Command (free open-source ship sim) — price varies — Verdict 8/10 — Not a hardware product — included as essential context because it's the closest thing the niche has to a native hardware ecosystem. Bridge Command is a free, open-source, ship-handling-focused simulator that uniquely publishes an official how-to for building your own throttles and wheel (BU0836 board plus three 10k linear pots, with a string-friction trick for realistic throttle drag). It's the reference target for nearly every hobbyist DIY helm build, which is why it anchors the marine bay's maker projects. If you're buying or building any DIY interface board, this is the sim those builds were designed around. [https://ignitionsim.com/marine/gear/bridge-command-free-sim]
 - Professional Ship Simulator Professional Ship Simulator (ex-Nautic XP) — price varies — Verdict 8/10 — Not hardware — included as context because it's the most important hardware signal the marine bay has seen in years. Rebranded from Nautic XP, this system-driven ship sim is built around deep input flexibility: over 50 buttons, 9 axes, a triple-layer keyboard layout, and explicit support for everything from a joystick to a gamepad, plus a rudder deadzone option aimed squarely at HOTAS/controller rigs. That 9-axis input model is the hardware-friendly target builders have wanted — it's the upcoming title most likely to actually read your repurposed wheel, throttle quadrant and button box as the analog axes they are. Steam Early Access is targeted for 2026; price is not yet announced. [https://ignitionsim.com/marine/gear/professional-ship-simulator-context]
 
-## Golf gear (9)
+## Golf gear (14)
 - Garmin Approach R10 — ~$600 — Verdict 8/10 — The default sub-$1,000 entry point: a pocket-sized Doppler radar unit that reads roughly 16 launch and club metrics and connects to GSPro or E6 for full sim play. As a radar unit it wants several feet of depth behind you to read full ball flight, so it's happier in a deeper room or outdoors than crammed against a back wall. Accuracy is good rather than great, and the optional Garmin Golf subscription unlocks 42,000+ courses for on-device practice. It delivers most of what a five-figure unit does at a fraction of the price, which is exactly why it's still the value benchmark in 2026. [https://ignitionsim.com/golf/gear/garmin-approach-r10]
 - Garmin Approach R50 — ~$4999 — Verdict 8/10 — Garmin's priciest consumer launch monitor folds a 3-camera sensor, a 10-inch touchscreen, and a full built-in simulator into one self-contained box. It is the only consumer unit that runs a complete sim with no separate PC, tablet, or phone, launching a round through Home Tee Hero in under a minute. As an overhead-leaning camera system it wants 9-10 feet of ceiling, and reviewers found ball data strong (within roughly 4% of premium units) but club data inconsistent shot to shot. You are paying a real premium for all-in-one convenience rather than a leap in raw accuracy. [https://ignitionsim.com/golf/gear/garmin-approach-r50]
+- SkyTrak SkyTrak+ — ~$2995 — Verdict 9/10 — The subscription-averse favorite at the $3K tier: a photometric camera paired with dual Doppler radar that delivers carry distances often within a couple yards of $20,000 units and consistent spin reads. It sits to the side of the ball, so it tolerates tighter rooms than a radar-behind setup, and its own practice range is included rather than gated behind a fee. It connects broadly to GSPro, E6, TGC 2019, and Awesome Golf, which keeps your software options open. For most home builders this is the accuracy-per-dollar sweet spot. [https://ignitionsim.com/golf/gear/skytrak-plus]
 - SkyTrak ST MAX — ~$2995 — Verdict 9/10 — SkyTrak's late-2025 refinement of the SkyTrak+ keeps the same photometric-plus-dual-radar engine but adds a faster processor that trims shot delay to roughly 1-2 seconds, a hitting zone about 40% larger, dual USB-C, and GOLFTEC-powered speed training. The core accuracy story is unchanged from the SkyTrak+, so this is an experience upgrade (quicker feedback, less waiting between shots) rather than a data leap. Several reviewers note the older SkyTrak+ remains a smart-money alternative when it is discounted. Buy the MAX for the snappier feel; buy the + to save. [https://ignitionsim.com/golf/gear/skytrak-st-max]
 - Bushnell Launch Pro — ~$2499 — Verdict 8/10 — Tour-grade ball data on the cheap: the Launch Pro runs the same triple-camera Foresight sensor as the GC3, capturing ball metrics out of the box within about 2% of the $14K+ GCQuad. The catch is the software model. Full simulation, club data, and course access live behind annual subscriptions (Silver around $199/yr, Gold around $499/yr to unlock GSPro and full sim). As a side-of-ball photometric unit it suits 12-15 ft deep rooms where rear radar won't fit. Run the total cost-of-ownership math before you fall in love with the sticker price. [https://ignitionsim.com/golf/gear/bushnell-launch-pro]
 - Foresight Sports GC3 — ~$6999 — Verdict 9/10 — Foresight's prosumer triple-camera unit delivers fitting-grade ball and club data that rivals the GCQuad at roughly half the price. The straight GC3 includes lifetime FSX Play and 25 courses with no recurring subscription, while the cheaper GC3S trades a lower upfront price for an annual software fee, so read the variant carefully. It sits to the side of the ball, friendly to 12-15 ft deep rooms, and is portable enough to take outdoors. This is the unit for buyers who genuinely want pro-grade club metrics and will pay for them. [https://ignitionsim.com/golf/gear/foresight-gc3]
@@ -60,243 +66,12 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 - FlightScope Mevo Gen 2 — ~$1299 — Verdict 8/10 — FlightScope's replacement for the beloved Mevo+ puts patented Fusion Tracking (3D Doppler radar combined with synchronized image processing) into a compact, no-subscription package. It tracks 15 full-swing and chipping parameters plus 3 putting metrics, with measured rather than estimated club data, and includes a lifetime E6 Connect simulation bundle. As a radar unit it prefers room depth behind the player. At $1,299 base it is the easiest FlightScope to recommend in 2026; the loaded version near $2,274 adds the Pro Package and Face Impact Location. [https://ignitionsim.com/golf/gear/flightscope-mevo-gen2]
 - Rapsodo MLM2PRO — ~$699 — Verdict 8/10 — The most data-rich portable launch monitor under $1,000: a dual-camera plus Doppler radar fusion unit that captures 15 metrics including directly measured spin (with RPT balls), club path, and angle of attack. Rapsodo earned official GSPro direct-connect integration in 2025, and it also runs E6 Connect across 30K+ courses. It is phone-tethered and works indoor or outdoor. The honest caveat: spin rate and spin axis need RPT-marked Callaway or Titleist balls, and the best features live in the premium subscription (a one-time lifetime option runs around $500). For the price, nothing else packs in this much. [https://ignitionsim.com/golf/gear/rapsodo-mlm2pro]
 - Full Swing KIT — ~$4999 — Verdict 8/10 — The premium portable radar behind TGL and Tiger Woods' own practice: dual-mode radar plus a built-in 4K swing camera capturing 16 data points with instant overhead-style replay on a 5.3-inch OLED display. It is a fraction of the cost of $15K-plus overhead units yet carries genuine tour pedigree as the official launch monitor of the ESPN indoor golf league. As radar, it wants space behind the hitter and works indoor or outdoor. You are paying for brand cachet, the integrated 4K camera, and a polished experience rather than category-leading raw accuracy. [https://ignitionsim.com/golf/gear/full-swing-kit]
+- Carl's Place DIY Golf Simulator Enclosure Kit with Impact Screen — ~$1155 — Verdict 8/10 — The backbone of the build-it-yourself room: a full-length impact screen plus a durable nylon enclosure with connector hardware, designed around a no-border bottom and releasable zip ties with a weighted bottom cable to cut bounceback. The base kit lands near $1,155 on sale; you then choose the screen tier (Preferred adds ~$230, Premium 3-layer ~$480, High-Contrast Gray ~$575) and can add a pipe-framing kit. It is the way to spend your money on the sensor and self-build the room. Note it is a frame-and-screen kit, not free-standing furniture, so you supply the structure or pipe kit. [https://ignitionsim.com/golf/gear/carls-place-diy-enclosure]
+- Carl's Place SIGPRO Premium Impact Screen — ~$710 — Verdict 9/10 — Carl's in-house premium screen and a MyGolfSpy testing winner, built from three-layer spacer-mesh fabric (two tight-knit polyester faces sandwiching vertical spacer yarns) at about 3.5 inches thick. That construction makes it the quietest, smoothest impact screen in the category, capable of crisp 4K images with no pixelation or grain, while the thickness and double-stitched vinyl edges keep bounceback low. Third-party testing showed it beating the leading competitor on image quality, sound, bounceback, and durability. Pricing runs from roughly $550 for the smallest size to about $1,150 for the largest, with sizes up to 10x10 and multiple aspect ratios. [https://ignitionsim.com/golf/gear/sigpro-premium-impact-screen]
+- Fiberbuilt Studio Hitting Mat — ~$1249 — Verdict 9/10 — A premium studio mat built around Fiberbuilt's fiber-and-grass hitting panel, whose proprietary Vibration Absorption Layer absorbs about 94.7% of clubhead shock to protect wrists and elbows over years of indoor reps. The Pure Impact / Grass Series surface is launch-monitor tested to mimic real fairway launch conditions, and a friction-fit tee holder lets you use real wooden tees for any club. Panels carry a 300,000-shot durability guarantee. The most-referenced 7'x4' Grass Series runs about $1,249; the Player Preferred studio line starts near $1,399 and scales up to 12-foot double-hitting layouts. It is the high-ROI, injury-prevention upgrade most builders under-budget. [https://ignitionsim.com/golf/gear/fiberbuilt-studio-mat]
+- Real Feel Country Club Elite Golf Mat — ~$599 — Verdict 9/10 — The enthusiast-favorite forgiving turf mat: 110 ounces of thick-pile nylon bonded to a 5/8-inch closed-cell foam backing, 1.75 inches thick overall, tall enough to accept a real wooden tee. Its dense fiber system delivers True Divot Action so you feel the difference between pure contact and a fat shot, with enough cushion to protect shoulders, elbows, and wrists while still punishing genuine mishits, no bounce-and-cheat. It is widely regarded as one of the best sim mats for the money, and the common 4'x5' size runs about $479-600 (larger sizes cost more). A high-value first upgrade for any build. [https://ignitionsim.com/golf/gear/country-club-elite-mat]
 
 ## Guides & reviews (full text)
-
-### FlightSimExpo 2026 Hardware Buyer Map: What to Buy Now, What to Watch, and What Actually Builds a Better Cockpit
-flight · buying-guide · by Robert Pruitt · 2026-07-01 · https://ignitionsim.com/flight/flightsimexpo-2026-hardware-buyer-map
-A verdict-first FlightSimExpo 2026 hardware guide for MSFS buyers: TCA Sky Yoke, MOZA AY210, Honeycomb, WinWing panels, Turtle Beach, rudders, head tracking, and USB warnings.
-
-Verdict first: **do not buy “flight sim hardware.” Buy the cockpit path for the airplane you actually fly.** The FlightSimExpo 2026 signal is clear: beginners finally get better console-friendly options, while serious PC builders should spend on force feedback, panels, rudders, and power stability instead of stacking random shiny boxes.
-
-The short version: **watch the Thrustmaster TCA Sky Yoke if you want a low-cost PC/Xbox/PS5 yoke. Buy Honeycomb Alpha + Bravo if you want the proven GA deck today. Buy MOZA AY210 only if force feedback is the reason you are upgrading. Buy WinWing panels if Airbus airliners are your home. Buy a powered USB hub before your cockpit starts disconnecting mid-approach.**
-
-<div class="shotgrid">
-  <figure><a href="/flight/gear/thrustmaster-tca-sky-yoke"><img src="/images/gear/flight/thrustmaster-tca-sky-yoke.png" alt="Thrustmaster TCA Sky Yoke announced at FlightSimExpo 2026" loading="lazy"></a><figcaption>TCA Sky Yoke: the $199 console-friendly watchlist</figcaption></figure>
-  <figure><a href="/flight/gear/moza-ay210-ffb-yoke"><img src="/images/gear/flight/moza-ay210-ffb-yoke.jpg" alt="MOZA AY210 force feedback yoke bundle" loading="lazy"></a><figcaption>MOZA AY210: force-feedback GA leap</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha: proven GA workhorse</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Bravo: throttle, trim, autopilot, fewer mouse crimes</figcaption></figure>
-  <figure><a href="/flight/gear/winwing-fcu-efis-combo-a320"><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing A320 FCU and EFIS panels" loading="lazy"></a><figcaption>WinWing FCU/EFIS: Airbus muscle memory</figcaption></figure>
-  <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>VelocityOne Flightstick: Xbox-friendly first stick</figcaption></figure>
-</div>
-
-## The 2026 Cockpit Decision Map
-
-| You fly mostly... | Buy now | Watch / wait | Skip for now | Why |
-| --- | --- | --- | --- | --- |
-| Cessna / bush / GA | Honeycomb Alpha + Bravo | Thrustmaster TCA Sky Yoke | Airbus panels | A yoke, throttle, trim, and rudder path matters more than cockpit decoration |
-| Serious GA on PC | MOZA AY210 + throttle + pedals | More FFB ecosystem support | Cheap yokes | Force feedback changes trim, pressure, and autopilot feel |
-| Xbox MSFS | Turtle Beach VelocityOne Flightstick or licensed yoke | TCA Sky Yoke | PC-only boutique gear | Console compatibility is the whole game |
-| PS5 MSFS | Controller now, TCA Sky Yoke watchlist | T.Flight Hotas 5 / TCA Sky Yoke | PC-only Honeycomb/VKB/MOZA unless certified | PS5 flight hardware is still thin |
-| Airbus A320 / A330 | TCA Sidestick + WinWing FCU/EFIS/MCDU | More native aircraft support | Boeing yokes | You need the FCU/MCDU workflow, not a generic yoke |
-| DCS / combat | Warthog-class HOTAS or VKB/Virpil | Warthog MKII reviews | GA yokes | Combat wants stick, throttle, pedals, and binds |
-| Multi-panel cockpit | Powered USB hub first | Better panel integration | Unpowered hubs | Power brownouts make “broken hardware” that is not broken |
-
-## Buy Now, Buy With Caveats, Wait, Skip
-
-| Verdict | Product/path | IgnitionSim take |
-| --- | --- | --- |
-| Buy now | Honeycomb Alpha + Bravo | Still the best boring answer for a first serious PC GA deck |
-| Buy now | Turtle Beach VelocityOne Flightstick | Good Xbox/PC first stick if you are not ready for a yoke |
-| Buy now | WinWing FCU/EFIS/MCDU | Brilliant if Airbus add-ons are your daily driver |
-| Buy with caveats | MOZA AY210 | Amazing when force feedback is the goal; overkill if you are still learning MSFS |
-| Wait / watch | Thrustmaster TCA Sky Yoke | $199.99 and PC/Xbox/PS5 support could be huge, but wait for retail durability reports |
-| Wait / watch | Warthog MKII | Exciting for DCS/HOTAS people, but do not preorder from nostalgia alone |
-| Skip for now | Random generic yoke bundles | If it does not solve your aircraft, platform, and mounting problem, it is shelf filler |
-
-## The FlightSimExpo Headliner: Thrustmaster TCA Sky Yoke
-
-Thrustmaster's TCA Sky Yoke is the most interesting mainstream reveal because it attacks the beginner problem directly: yoke, throttle, trim, and yaw controls in one affordable unit, with announced PC, Xbox Series X|S, and PS5 compatibility.
-
-Official materials list a built-in steel pitch-axis shaft, **7 axes**, throttle and trim controls, yaw inputs, **24 action buttons**, an 8-way POV hat, a mini-stick, and two analog triggers. The press release puts availability in **Q3 2026** at **$199.99** in the US. That is not a tiny footnote. That is a “flight sim can finally be less annoying on console” moment.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sky-yoke"><span class="gp-tag">Watchlist</span><img src="/images/gear/flight/thrustmaster-tca-sky-yoke.png" alt="Thrustmaster TCA Sky Yoke" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">FlightSimExpo 2026 reveal</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sky-yoke">Thrustmaster TCA Sky Yoke</a></span>
-    <p class="gp-why">The smart waitlist pick for console MSFS and first-yoke buyers. Great announced price and compatibility, but we want retail durability and mapping reports before calling it a blind buy.</p>
-    <span class="gp-price">$199.99 announced MSRP / Q3 2026</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-sky-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sky+Yoke&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Watch Amazon</a>
-    </span>
-  </div>
-</aside>
-
-Kenji would put a sticky note on it: **do not confuse “announced” with “proven.”** If you are flying tonight on PC, Honeycomb is safer. If you are buying for Xbox or PS5 and can wait, this is the thing to track.
-
-## The Proven GA Deck: Honeycomb Alpha + Bravo
-
-The Honeycomb Alpha and Bravo combo survives another year because it solves a real cockpit workflow. The Alpha gives you a yoke and switch panel. The Bravo gives you six configurable levers, a trim wheel, a gear lever, and autopilot controls. That means you stop pawing around the virtual cockpit every time you need flaps, trim, altitude hold, or power.
-
-It is not sexy in the “new reveal” way. It is sexy in the “my landing checklist stopped being a mouse-click scavenger hunt” way.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">GA foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Yoke + switch panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha Flight Controls</a></span>
-    <p class="gp-why">The stable first serious yoke for PC GA pilots. Add Bravo when you want power, trim, and autopilot under your fingers.</p>
-    <span class="gp-price">Approx $250-$300 street class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">Throttle brain</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo Throttle Quadrant" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Throttle, trim, autopilot</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Bravo Throttle Quadrant</a></span>
-    <p class="gp-why">The part that makes the Alpha feel like a cockpit instead of a yoke attached to a keyboard. Buy it early if you fly GA, twins, or light jets.</p>
-    <span class="gp-price">Approx $280 street class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## The Force-Feedback Jump: MOZA AY210
-
-Force feedback is not “stronger spring.” It is the yoke moving and pushing back because the aircraft is trimmed, untrimmed, loaded, stalled, or being managed by autopilot. That is why MOZA AY210 belongs in a different buying bucket than Honeycomb and Thrustmaster.
-
-MOZA lists the AY210 bundle with **9 Nm force feedback**, **210 N push force**, **150 mm travel**, dual servo motors, and an MFY yoke with 34 inputs. Community pilots are excited because it brings consumer-priced force feedback closer to reach, but the real cart is not just the base: you still need a throttle, rudders, mounting space, and software patience.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/moza-ay210-ffb-yoke"><span class="gp-tag">FFB leap</span><img src="/images/gear/flight/moza-ay210-ffb-yoke.jpg" alt="MOZA AY210 force feedback yoke" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Force-feedback yoke</span>
-    <span class="gp-name"><a href="/flight/gear/moza-ay210-ffb-yoke">MOZA AY210 FFB Yoke Bundle</a></span>
-    <p class="gp-why">Buy when the reason you are upgrading is feel: trim pressure, autopilot motion, and aircraft loading. Do not buy it as your first impulse yoke.</p>
-    <span class="gp-price">Premium PC yoke tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/moza-ay210-ffb-yoke">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+AY210+force+feedback+yoke&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## The Airbus Path: Sidestick First, Panels Second
-
-If you live in the Fenix A320, iniBuilds Airbus fleet, or airliner cockpit workflows, a general yoke is not your best spend. Your buy order should be:
-
-1. Airbus-style sidestick.
-2. Throttle quadrant with detents.
-3. FCU/EFIS panels.
-4. MCDU/FMC panel.
-5. Powered USB hub.
-
-The WinWing FCU/EFIS and MCDU pieces matter because they move the Airbus workflow off the mouse. You twist altitude, heading, baro, and range. You punch the MCDU like a human instead of trying to click a virtual keypad at 2 a.m. while descending into weather. That is a quality-of-life upgrade with teeth.
-
-<div class="shotgrid">
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick: cheap authentic Airbus first buy</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant: detents matter</figcaption></figure>
-  <figure><a href="/flight/gear/winwing-fcu-efis-combo-a320"><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing A320 FCU and EFIS panels" loading="lazy"></a><figcaption>FCU/EFIS: Airbus autopilot muscle memory</figcaption></figure>
-  <figure><a href="/flight/gear/winwing-mcdu-a320"><img src="/images/gear/flight/winwing-mcdu-a320.jpg" alt="WinWing MCDU A320 panel" loading="lazy"></a><figcaption>MCDU: stop clicking tiny virtual keys</figcaption></figure>
-</div>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/winwing-fcu-efis-combo-a320"><span class="gp-tag">Airbus stack</span><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing A320 FCU EFIS combo" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Airbus panel upgrade</span>
-    <span class="gp-name"><a href="/flight/gear/winwing-fcu-efis-combo-a320">WinWing FCU + EFIS A320 Combo</a></span>
-    <p class="gp-why">Buy if Airbus is not a phase. This is where airliner simming starts feeling deliberate instead of like a browser game trapped inside a cockpit.</p>
-    <span class="gp-price">Panel stack tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/winwing-fcu-efis-combo-a320">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## The Xbox-Friendly First Stick
-
-Windows Central’s 2026 testing still points newcomers toward simple sticks and HOTAS sets before they overbuild. That tracks with our cockpit logic: a first stick lets you learn whether you like flying enough to buy a full yoke, rudders, and panels.
-
-The Turtle Beach VelocityOne Flightstick is especially relevant because it is PC/Xbox compatible, has 27 programmable buttons, 8 axes, throttle/flap levers, an OLED display, and a twist/yaw path. It is not boutique. It is not force feedback. It is a good first cockpit answer for someone trying to fly tonight.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Xbox starter</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">PC/Xbox first controller</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flightstick</a></span>
-    <p class="gp-why">The clean first step before a yoke rabbit hole. Great if your question is “can I enjoy MSFS without making my desk an airport?”</p>
-    <span class="gp-price">Starter stick tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## The “Do Not Ruin Saturday” Hardware Rules
-
-**Rule 1: Platform support beats everything.** If you are on Xbox or PS5, do not buy PC gear and hope. Console hardware has authentication and profile requirements.
-
-**Rule 2: A yoke without rudder control is half a cockpit.** You can start with auto-rudder, twist rudder, or integrated yaw, but real rudder pedals eventually make taxi, takeoff, crosswind, and coordinated flight feel less haunted.
-
-**Rule 3: Panels need power.** Multi-panel builds fail in stupid ways when a PC tries to power everything. If you run yoke, throttle, pedals, MCDU, FCU, EFIS, radio panel, and head tracking, buy a powered hub before troubleshooting fake ghosts.
-
-**Rule 4: Buy aircraft-first.** GA, Airbus, Boeing, DCS, and helicopters want different controls. A generic “best flight sim setup” is how you buy three wrong things and one correct cable.
-
-<div class="shotgrid">
-  <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a><figcaption>Rudders: crosswind and taxi sanity</figcaption></figure>
-  <figure><a href="/flight/gear/vkb-t-rudder-mk4"><img src="/images/gear/flight/vkb-t-rudder-mk4.jpg" alt="VKB T-Rudder Mk4 pedals" loading="lazy"></a><figcaption>VKB T-Rudder: compact desk pedal pick</figcaption></figure>
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker" loading="lazy"></a><figcaption>TrackIR: look around without VR</figcaption></figure>
-  <figure><a href="/flight/gear/desktop-pilot-10-port-usb-hub"><img src="/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg" alt="Desktop Pilot 10-port powered USB hub" loading="lazy"></a><figcaption>Powered USB: boring, mandatory, heroic</figcaption></figure>
-</div>
-
-## The $500 / $1,500 / $3,000 Build Ladders
-
-| Budget | Build | Buy list | What it solves |
-| --- | --- | --- | --- |
-| $200-$500 | Console / beginner stick | VelocityOne Flightstick now, or TCA Sky Yoke watchlist | Learn MSFS without overbuying |
-| $600-$900 | Proven GA desk | Honeycomb Alpha + Bravo, starter rudder path later | Yoke, throttle, trim, autopilot |
-| $1,200-$1,800 | Airbus desk | TCA Sidestick + Quadrant + WinWing FCU/EFIS + powered hub | Real airliner procedures under your fingers |
-| $1,500-$2,500 | Force-feedback GA | MOZA AY210 + throttle + pedals + hub | Trim, autopilot movement, aircraft feel |
-| $3,000+ | Full cockpit stack | FFB/yoke or airliner controls + pedals + panels + head tracking + mounts | Dedicated room/desk with fewer compromises |
-
-## What to Buy
-
-| Product | Best reason to buy | Affiliate shortcut |
-| --- | --- | --- |
-| Thrustmaster TCA Sky Yoke | Waitlist for affordable PC/Xbox/PS5 yoke | [Watch Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Sky+Yoke&tag=ignitionsim-20) |
-| Honeycomb Alpha Flight Controls | Proven GA yoke and switch panel | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Alpha+Flight+Controls&tag=ignitionsim-20) |
-| Honeycomb Bravo Throttle Quadrant | The throttle/trim/autopilot piece that changes GA flying | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Bravo+Throttle+Quadrant&tag=ignitionsim-20) |
-| MOZA AY210 Force Feedback Yoke | Force-feedback realism for serious PC GA pilots | [Check Amazon](https://www.amazon.com/s?k=MOZA+AY210+force+feedback+yoke&tag=ignitionsim-20) |
-| Thrustmaster TCA Sidestick Airbus | Affordable Airbus first controller | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus&tag=ignitionsim-20) |
-| Thrustmaster TCA Quadrant Airbus | Airbus throttle detents on a sane budget | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus&tag=ignitionsim-20) |
-| WinWing FCU/EFIS A320 | Airliner autopilot and EFIS workflow | [Check Amazon](https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20) |
-| WinWing MCDU A320 | Physical MCDU/FMC entry for Airbus builders | [Check Amazon](https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20) |
-| Turtle Beach VelocityOne Flightstick | PC/Xbox beginner flight stick | [Check Amazon](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20) |
-| Honeycomb Charlie Rudder Pedals | Rudder and toe brake path for Honeycomb decks | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Charlie+Rudder+Pedals&tag=ignitionsim-20) |
-| Desktop Pilot 10-Port Powered USB Hub | Multi-panel reliability before you rage-diagnose hardware | [Check Amazon](https://www.amazon.com/s?k=powered+USB+hub+flight+sim+panels&tag=ignitionsim-20) |
-
-## FAQ
-
-### Is the TCA Sky Yoke a Honeycomb killer?
-
-No. It is a different animal. The TCA Sky Yoke looks like a brilliant beginner/console yoke because of price and platform support. Honeycomb Alpha + Bravo is the proven modular PC cockpit. MOZA AY210 is the force-feedback upgrade.
-
-### Should I buy a yoke or a stick first?
-
-Buy for the aircraft. GA and Boeing-style flying make more sense on a yoke. Airbus and combat aircraft make more sense on a stick. If you are brand new and unsure, a PC/Xbox stick is the lowest-risk way to start.
-
-### Do I need rudder pedals immediately?
-
-Not immediately, but you will want a rudder path. Integrated yaw, twist stick, and auto-rudder can get you started. Pedals become important for taxi, crosswind, taildraggers, helicopters, and coordinated flying.
-
-### What is the most underrated flight sim accessory?
-
-A powered USB hub. It does not photograph like a yoke, but it prevents panel dropouts and weird connection failures once your cockpit has more devices than your motherboard can comfortably power.
-
-Useful source shelf: [Thrustmaster FlightSimExpo 2026 reveal](https://www.thrustmaster.com/en-us/fse-2026-reveal/), [Thrustmaster 2026 FlightSimExpo press release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035), [Windows Central FlightSimExpo coverage](https://www.windowscentral.com/gaming/microsoft-flight-simulator-new-flight-stick-and-yoke-options-from-thrustmaster), [MOZA AY210 official specs](https://mozaracing.com/products/ay210-ffb-yoke-bundle), [Honeycomb Alpha official](https://flyhoneycomb.com/products/alpha-flight-controls), [Turtle Beach VelocityOne Flightstick official](https://www.turtlebeach.com/products/velocity-one-flight-stick), [Windows Central 2026 MSFS flight sticks guide](https://www.windowscentral.com/best-joysticks-and-flight-sticks-microsoft-flight-simulator), [MSFS forum MOZA AY210 discussion](https://forums.flightsimulator.com/t/the-new-moza-force-feedback-yoke/711808).
-
----
 
 ### MSFS Home Cockpit Buyer Map 2026: Yoke, Throttle, Rudders, Panels, Head Tracking, and USB Sanity
 flight · buying-guide · by Robert Pruitt · 2026-07-01 · https://ignitionsim.com/flight/msfs-home-cockpit-buyer-map-2026
@@ -311,6 +86,8 @@ Val's order is simpler: **primary controls, throttle, rudders, head tracking, th
   <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Bravo: throttle plus autopilot workflow</figcaption></figure>
   <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a><figcaption>TrackIR: hands stay on controls</figcaption></figure>
 </div>
+
+![Flight sim control priority map showing yoke or stick, throttle, rudders, head tracking, then panels](/images/infographics/flight/control-priority-map.png)
 
 ## The Buy Order
 
@@ -391,23 +168,13 @@ Head tracking changes how you fly because it removes the mouse from basic visual
 
 Multi-panel cockpits fail in boring ways: weak hubs, overloaded ports, sleep settings, and cables stressed by moving desks. Use a powered USB hub, label cables, disable USB selective suspend if needed, and do not route every device through the cheapest passive hub in the drawer.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/desktop-pilot-10-port-usb-hub"><span class="gp-tag">Boring hero</span><img src="/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg" alt="Powered USB hub for flight simulator hardware" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Powered USB hub</span>
-    <span class="gp-name"><a href="/flight/gear/desktop-pilot-10-port-usb-hub">Desktop Pilot 10-Port USB Hub</a></span>
-    <p class="gp-why">Not glamorous. Absolutely useful. The difference between a cockpit and a support ticket with wings.</p>
-    <span class="gp-price">Infrastructure</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/desktop-pilot-10-port-usb-hub">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=powered+USB+hub+flight+simulator&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
+![MSFS cockpit USB sanity map showing powered hub, separate high-draw devices, and labeled cables](/images/infographics/flight/msfs-usb-sanity-map.png)
+
+The boring buy here is a reputable powered USB hub with enough current for the cockpit, not a mystery passive splitter from the cable drawer. Put the yoke/throttle stack, panels, head tracker, and rudders on labeled runs; keep firmware-updated devices easy to unplug; and test sleep/wake behavior before you tidy cables so aggressively that troubleshooting requires archaeology.
 
 ## Research Notes
 
-This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, and current MSFS community hardware patterns. Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
+This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, Tobii's [Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/) specs, and current MSFS community hardware patterns. Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
 
 ## Verdict
 
@@ -426,8 +193,10 @@ Val's quick answer: buy the controls that remove the most mouse work from the ai
 <div class="shotgrid">
   <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Stick path: compact and versatile</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a><figcaption>Rudder path: taxi, crosswinds, helicopters</figcaption></figure>
-  <figure><a href="/flight/gear/winwing-fcu-efis-combo-a320"><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing FCU and EFIS Airbus panels" loading="lazy"></a><figcaption>Panel path: after the foundations</figcaption></figure>
+  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>Airbus path: throttle workflow first</figcaption></figure>
 </div>
+
+![Pilot type buying map for GA, airliner, helicopter, and combat flight sim hardware](/images/infographics/flight/pilot-type-buy-map.png)
 
 ## The Upgrade Order by Pilot Type
 
@@ -450,18 +219,22 @@ If you are budget constrained, buy a good yoke/stick and throttle first, then ru
 Airliner simming is about modes, automation, power, spoilers, flaps, radios, and staying ahead of the aircraft. A yoke alone is not enough. The **Honeycomb Bravo** works well for Boeing-ish and general multi-engine workflows. Airbus builders should look at TCA controls and WinWing panels once they know they are committed.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/winwing-fcu-efis-combo-a320"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/winwing-fcu-efis-combo-a320.jpg" alt="WinWing Airbus FCU and EFIS panels" loading="lazy"></a>
+  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Airbus autopilot workflow</span>
-    <span class="gp-name"><a href="/flight/gear/winwing-fcu-efis-combo-a320">WinWing FCU + EFIS Combo</a></span>
-    <p class="gp-why">A genuine workflow upgrade for committed Airbus pilots. For everyone else, it is a beautiful way to own the wrong panel.</p>
-    <span class="gp-price">Panel tier</span>
+    <span class="gp-eyebrow">Airbus throttle workflow</span>
+    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
+    <p class="gp-why">The safer first Airbus buy before you chase FCU panels: physical thrust levers, spoilers/flaps expansion path, and less risk of owning the wrong shiny panel.</p>
+    <span class="gp-price">Airbus control tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/winwing-fcu-efis-combo-a320">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
+
+![Flight sim control priority map showing stick or yoke, throttle, rudders, head tracking, then panels](/images/infographics/flight/control-priority-map.png)
+
+![MSFS cockpit USB map showing powered hubs, direct ports, labels, and sleep setting checks](/images/infographics/flight/msfs-usb-sanity-map.png)
 
 ## Rudders: The Upgrade That Makes Bad Habits Visible
 
@@ -519,7 +292,7 @@ That is the whole fight. The sensor spec sheet matters, but the room and softwar
 <div class="shotgrid">
   <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor with built-in screen" loading="lazy"></a><figcaption>Garmin R50: premium no-PC path</figcaption></figure>
   <figure><a href="/golf/gear/skytrak-st-max"><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a><figcaption>SkyTrak ST MAX: indoor value</figcaption></figure>
-  <figure><a href="/golf/gear/uneekor-eye-mini-core"><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core launch monitor" loading="lazy"></a><figcaption>Uneekor Eye Mini Lite/Core: PC-first camera route</figcaption></figure>
+  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: discounted camera fallback</figcaption></figure>
   <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Launch Pro: accuracy with subscription math</figcaption></figure>
   <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: still a smart indoor fallback</figcaption></figure>
   <figure><a href="/golf/gear/rapsodo-mlm2pro"><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a><figcaption>MLM2PRO: budget spoiler, room dependent</figcaption></figure>
@@ -594,15 +367,15 @@ Uneekor is the nerdier recommendation, and I mean that lovingly. The Eye Mini Li
 That makes it a great fit for the builder who already wants GSPro, a projector, and a permanent sim bay. It is a worse fit for the buyer who wants a portable tablet-friendly toy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-mini-core"><span class="gp-tag">PC builder pick</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Sale-watch pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Buy now if you are building a real bay</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-mini-core">Uneekor Eye Mini Lite / Core path</a></span>
-    <p class="gp-why">Strong indoor camera route for PC-first simulator people. The value is real, but so is the setup expectation: Ethernet, PC specs, software, calibration, and a room that stays put.</p>
-    <span class="gp-price">Often $1.5K-$2.5K depending model/package</span>
+    <span class="gp-eyebrow">Buy if the discount is real</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">Still a strong indoor camera route when discounted. If ST MAX is close in price, buy the newer workflow; if SkyTrak+ is meaningfully cheaper, pocket the difference for mat and screen quality.</p>
+    <span class="gp-price">Often discounted below ST MAX</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/uneekor-eye-mini-core">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Uneekor+Eye+Mini+Lite+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -682,12 +455,12 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-mini-core"><span class="gp-tag">PC-first pick</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor Eye Mini Core" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Sale-watch pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Best for permanent bays</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-mini-core">Uneekor Eye Mini Lite / Core path</a></span>
-    <p class="gp-why">Great if you are already building the PC/projector/GSPro room. Less great if you want portable simplicity.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Uneekor+Eye+Mini+Lite+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">Best when older inventory is discounted</span>
+    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <p class="gp-why">The practical fallback when the ST MAX premium is too high. Same room-friendly camera logic, more money left for enclosure safety.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 
@@ -920,6 +693,8 @@ Nina's first question is not "SkyTrak or Garmin?" It is "Can you swing driver in
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>Enclosure and screen: the safety layer</figcaption></figure>
 </div>
 
+![Golf simulator room reality map showing impact screen, hitting mat, launch monitor, safety gap, and sensor space](/images/infographics/golf/golf-room-reality-map.png)
+
 ## The Build Order
 
 | Phase | Decide | Why it matters |
@@ -936,6 +711,8 @@ Nina's first question is not "SkyTrak or Garmin?" It is "Can you swing driver in
 Typical comfortable targets are around **10 feet wide, 9-10 feet high, and 15 feet deep**, but body size and swing plane matter. A tall player with driver may need more height. A radar launch monitor may need space behind the ball. A side photometric unit may fit a shallower room but needs a clear hitting zone and lighting discipline.
 
 Do not buy the enclosure first. Do not buy the projector first. Measure swing clearance with the longest club you will actually hit, then read the room guide.
+
+![Golf launch monitor decision ladder showing no-PC, tight room, budget radar, accuracy, and permanent bay choices](/images/infographics/golf/launch-monitor-decision-ladder.png)
 
 ## Phase 2: Pick Radar or Photometric
 
@@ -1273,6 +1050,8 @@ The right launch monitor is a match between **room, data needs, software, and ow
   <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a><figcaption>Garmin R50: all-in-one swing lab</figcaption></figure>
 </div>
 
+![Golf launch monitor decision ladder showing no-PC, tight room, budget radar, accuracy, and permanent bay choices](/images/infographics/golf/launch-monitor-decision-ladder.png)
+
 ## The Ladder
 
 | Tier | Models | Best for | Watch out for |
@@ -1365,104 +1144,11 @@ The **Bushnell Launch Pro** is compelling because Foresight-grade sensing enters
 
 Choose **Garmin R10/MLM2PRO** if your room is deep, your budget is tight, and you accept radar limitations. Choose **SkyTrak+ or ST MAX** if you are building a serious indoor room and want strong value. Choose **Garmin R50** if no-PC convenience is worth the premium. Choose **Launch Pro/GC3** if accuracy and club data justify the recurring-cost conversation.
 
+![Golf simulator room reality map showing impact screen, hitting mat, launch monitor, safety gap, and sensor space](/images/infographics/golf/golf-room-reality-map.png)
+
 ## Research Notes
 
 This ladder uses current official product information from [Garmin R10](https://www.garmin.com/en-US/newsroom/press-release/outdoor/tee-up-from-home-or-the-driving-range-with-garmins-approach-r10-portable-golf-launch-monitor/), [Garmin R50](https://www.garmin.com/en-US/p/736810/), [Rapsodo MLM2PRO](https://rapsodo.com/products/mlm2pro-mobile-launch-monitor-golf-simulator), and Bushnell/Foresight subscription documentation. Before buying, verify active subscriptions and software compatibility, because that is where the "deal" often changes shape.
-
----
-
-### The Marine Sim Hardware Reality Check: Why There's No 'Boat Wheel' (And What You Actually Buy)
-marine · gear-explainer · by Robert Pruitt · 2026-06-06 · https://ignitionsim.com/marine/marine-sim-hardware-reality
-There is almost no purpose-built consumer marine sim hardware. Here's the honest map of repurposed racing wheels, flight throttles, DIY rigs, and the software gate that decides whether any of it works.
-
-I have written hardware buying guides for racing rigs where the hard part is choosing between three excellent direct-drive bases. The marine bay is the opposite problem. Walk into the question "what do I buy for a ship sim?" expecting a shelf of boat wheels and engine telegraphs, and you will walk out empty-handed. **No dedicated consumer marine sim helm controller exists.** That is not a gap in my research. That is the whole story, and once you accept it, the bay actually makes sense.
-
-So let me be the honest broker up front: the value of this bay is not in pointing you at a product. It is in showing you which gear from *other* hobbies you can repurpose, when DIY is the smarter move, and — most importantly — the one technical gate that decides whether any of it works.
-
-<div class="shotgrid">
-  <figure><a href="/marine/gear/logitech-g29-helm"><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a><figcaption>Logitech G29 — racing wheel as helm</figcaption></figure>
-  <figure><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a><figcaption>Saitek quadrant — flight throttle as telegraph</figcaption></figure>
-  <figure><a href="/marine/gear/raildriver-ship-throttle"><img src="/images/gear/marine/raildriver-ship-throttle.jpg" alt="RailDriver Desktop Train Cab Controller (as ship throttle)" loading="lazy"></a><figcaption>RailDriver — train controller as engine lever</figcaption></figure>
-  <figure><a href="/marine/gear/leobodnar-bu0836a-diy-board"><img src="/images/gear/marine/leobodnar-bu0836a-diy-board.jpg" alt="Leo Bodnar Electronics BU0836A USB Joystick Interface" loading="lazy"></a><figcaption>Leo Bodnar BU0836A — the DIY route</figcaption></figure>
-</div>
-
-## The market, stated plainly
-
-There is no meaningful native-marine-hardware ecosystem at the consumer level. The entire bay runs on cross-pollination from racing and flight sim gear, plus DIY. Dedicated, polished marine hardware only exists at two extreme poles, with nothing in between:
-
-- **Free DIY.** [Bridge Command](/marine/diy-bridge-command-throttle), an open-source ship-handling sim, publishes an official how-to for building your own throttles and wheel from a **BU0836** USB chip and three **10k linear potentiometers**. That is the closest thing the niche has to a "native" hardware spec, and it is entirely homemade.
-- **Professional STCW training tier.** **Kongsberg K-Sim** and **Wärtsilä NTPRO 5000** (formerly Transas) full-mission bridges run from roughly **€5,000** for a desktop unit to **over €500,000** for a motion-equipped wraparound bridge. No consumer product lives anywhere near this.
-
-Everything a hobbyist actually uses falls in the wide canyon between those poles, and all of it was built for something else.
-
-## What you actually buy (because it was built for another hobby)
-
-Here is the repurposing map. None of these are marine products. All of them are what the community reaches for.
-
-| Real-world role | What people use | Built for | Approx. price |
-|---|---|---|---|
-| Ship's helm / wheel | **Logitech G29 / G923** racing wheel | Car racing | ~$250–$349 |
-| Engine telegraph / throttles | **Logitech G Saitek Pro Flight Throttle Quadrant** | Flight sim | ~$60–$80 |
-| Rudder axis | **HOTAS stick** (Thrustmaster, etc.) | Flight sim | ~$80–$400 |
-| Engine throttle lever | **RailDriver** desk controller | Train sim | ~$200 |
-| Custom helm / button box | **BU0836** or **Arduino Leonardo** as HID | Maker electronics | ~$25–$40 |
-
-The **G923** is the most-recommended helm stand-in, but here is a detail worth your money: its TrueForce force feedback is essentially wasted in marine sims, because marine titles almost never support FFB and a car wheel does not replicate a boat wheel's feel anyway. If FFB is the reason you were eyeing the G923 over the cheaper **G29**, do not bother — for boats, that premium buys nothing. I cover this in detail in [Can a Racing Wheel Be a Boat Helm?](/marine/racing-wheel-boat-helm).
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/logitech-g29-helm"><span class="gp-tag">Helm stand-in</span><img src="/images/gear/marine/logitech-g29-helm.jpg" alt="Logitech G G29 Driving Force (as helm)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Repurposed racing wheel · 900°</span>
-    <span class="gp-name"><a href="/marine/gear/logitech-g29-helm">Logitech G G29 Driving Force (as helm)</a></span>
-    <p class="gp-why">Built for cars, drafted as a ship's wheel because nothing else fits the role. Buy this over the G923 every time for marine — the TrueForce you'd pay extra for does precisely nothing on water. Just confirm the sim reads an analog steering axis first.</p>
-    <span class="gp-price">~$250</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/logitech-g29-helm">Full review ▸</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
-    </span>
-  </div>
-</aside>
-
-The **Saitek throttle quadrant** is the quiet hero of the bay. Three analog levers, around $60–$80, mapping naturally to port throttle, starboard throttle, and bow thruster. Dollar for dollar it adds more marine-sim immersion than the wheel does.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph"><span class="gp-tag">Quiet hero</span><img src="/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg" alt="Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Engine telegraph · 3 analog levers</span>
-    <span class="gp-name"><a href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)</a></span>
-    <p class="gp-why">A flight throttle wearing a sailor's hat, and the best-value pick in the whole bay. Port, starboard and thruster on three levers for ~$60 — more immersion per dollar than the wheel, and it daisy-chains when one quadrant isn't enough.</p>
-    <span class="gp-price">~$60</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/logitech-saitek-throttle-quadrant-telegraph">Full review ▸</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
-    </span>
-  </div>
-</aside>
-
-## The gate that ruins everything: analog axis support
-
-Now the part that separates people who are happy with their setup from people who returned their wheel. The hard limit in marine sim is not hardware. It is software.
-
-Many marine titles still only accept digital, keyboard-style input. When that is true, your beautiful analog wheel does not steer proportionally — it maps to a binary **left/right**, exactly as if you were tapping arrow keys. Worse, your analog throttle lever often does *nothing at all*, because the game never reads the axis. You bought a $349 wheel to press the equivalent of two keys.
-
-This is why glue software is part of nearly every serious marine rig. Tools like **vJoy**, **Xpadder**, **JoyToKey**, and **x360ce** translate your hardware's axes and buttons into whatever input the stubborn title will actually accept. It is not optional polish; for several popular sims it is the difference between working and not. Before you buy *anything*, check the title-by-title breakdown in [the analog-axis compatibility map](/marine/marine-sim-controller-support).
-
-<div class="callout tip">
-  <div class="ct">// Pro tip</div>
-  <p>Treat the sim's store page as a hardware spec sheet. If "controller support" or analog-axis input isn't explicitly listed, assume keyboard-only and budget an evening of glue software — or skip the wheel entirely. The cheapest gear that the game actually reads beats the priciest rig it ignores.</p>
-</div>
-
-## The one bright spot on the horizon
-
-The most important consumer signal in years is **Professional Ship Simulator** (rebranded from NauticXP), targeting Steam Early Access in **2026**. It is explicitly built around input flexibility: a **9-axis** input model, support for **50+ buttons**, a triple-layer keyboard layout, and a rudder deadzone option specifically for HOTAS and controller rigs. In a bay defined by software that ignores your hardware, a developer advertising nine axes is genuinely exciting. If it ships as described, it becomes the first mainstream marine sim that treats a builder's rig as a first-class citizen.
-
-## Planning a rig
-
-Because marine gear is borrowed from racing and flight, the smartest way to plan a setup is to treat it as one shared rig across disciplines. If you are mapping out wheel, throttle, and mounting before you commit, the [Rig Configurator](/racing/configurator) is worth a pass — it thinks in terms of a base you reuse, which is exactly the right mental model here.
-
-## The verdict
-
-Stop looking for the boat wheel. It does not exist, and chasing it is how people waste money in this bay. The honest setup is a repurposed racing wheel as a helm, a flight throttle quadrant as engine levers, and a folder of free mapping software to force unwilling sims to listen. For under a hundred dollars you can do better still with DIY. The only thing you must do *before* spending a dollar is confirm your chosen sim reads analog axes — because in marine, the cheapest hardware that actually works beats the most expensive hardware the game refuses to read.
 
 ---
 
@@ -1619,7 +1305,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
 
 ## Upgrade Ladder
 
-1. **Entry pedals to Fanatec CSL LC / MOZA CRP2:** huge consistency jump.
+1. **Entry pedals to MOZA CRP2 / Heusinkveld Sprint:** huge consistency jump.
 2. **MOZA CRP2 to Heusinkveld Sprint:** better software, build, and control refinement.
 3. **Sprint to Simagic P2000 / Asetek Invicta:** chase hydraulic feel and premium brake character.
 4. **High-end pedals to ActivePedal Pro / mBooster:** chase software-defined feel, feedback, and profile switching.
@@ -1627,12 +1313,12 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-csl-lc"><span class="gp-tag">Budget upgrade</span><img src="/images/gear/racing/fanatec-csl-lc.jpg" alt="Fanatec CSL Pedals LC" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Control upgrade</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">First serious brake</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-csl-lc">Fanatec CSL Pedals LC</a></span>
-    <p class="gp-why">The obvious Fanatec/console path when you want load-cell braking without boutique pricing.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">First genuinely serious brake</span>
+    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
+    <p class="gp-why">The classic club-racer step: precise load-cell feel, clean software, and a brake pedal that rewards pressure discipline instead of ankle guesswork.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 
@@ -1689,6 +1375,8 @@ Duke's rule: **buy the weakest frame you will not outgrow.** That sounds backwar
   <figure><a href="/racing/gear/nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GTTrack cockpit" loading="lazy"></a><figcaption>Fixed cockpit: easy, stable, less modular</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X aluminum profile cockpit" loading="lazy"></a><figcaption>8020 profile: endgame mounting freedom</figcaption></figure>
 </div>
+
+![Sim racing rigidity flex ladder showing pedal deck, wheel uprights, seat mount, and accessory arms](/images/infographics/racing/rigidity-flex-ladder.png)
 
 ## The Short Version
 
@@ -1776,6 +1464,8 @@ Before buying more torque, test your current rig:
 
 Do not tune force feedback around flex. Fix the flex. Otherwise you are just teaching your nervous system to compensate for furniture.
 
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
+
 ## Verdict
 
 Wheel stand if space rules the room. Fixed cockpit if you want a complete, stable package. 8020 if this is no longer a phase and you need the last frame first.
@@ -1791,11 +1481,11 @@ Verdict first: **PS5 buyers should shortlist Fanatec GT DD Pro, Thrustmaster T59
 Console direct drive used to be a tiny, confusing corner of sim racing. In 2026 it is better, but still full of gotchas. The most expensive mistake is not buying too little torque. It is buying a beautiful direct-drive base that your console refuses to authenticate.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-rs50-system"><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech G RS50 direct-drive racing wheel system" loading="lazy"></a><figcaption>Logitech RS50: new 8 Nm midrange</figcaption></figure>
+  <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: new console-friendly midrange</figcaption></figure>
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: affordable PS5/PC DD bundle</figcaption></figure>
   <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive racing bundle" loading="lazy"></a><figcaption>MOZA R3: budget Xbox door</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro" loading="lazy"></a><figcaption>GT DD Pro: Fanatec PS value</figcaption></figure>
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a><figcaption>G PRO: 11 Nm premium console</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus direct-drive wheel base" loading="lazy"></a><figcaption>DD+: premium PlayStation headroom</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ direct-drive wheel base" loading="lazy"></a><figcaption>ClubSport DD+: PS premium base</figcaption></figure>
 </div>
 
@@ -1865,15 +1555,15 @@ The Logitech RS50 is the new product that makes old console DD guides feel stale
 The only thing to watch is compatibility language. The RS50 ecosystem has PC, PlayStation, and Xbox paths, but you still need the correct SKU. Treat the product page like a legal document, because in console hardware it basically is.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-rs50-system"><span class="gp-tag">Midrange pick</span><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech RS50 System" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">Midrange pick</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Modern 8 Nm console path</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-rs50-system">Logitech G RS50 System</a></span>
-    <p class="gp-why">The one to check before defaulting to older advice. 8 Nm, TRUEFORCE, Logitech build, and a more approachable price than G PRO.</p>
-    <span class="gp-price">Around $699 system class</span>
+    <span class="gp-eyebrow">Modern PlayStation middle</span>
+    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
+    <p class="gp-why">The one to check before assuming PlayStation direct drive has to be expensive. Modern drive tech, official console support, and a complete bundle.</p>
+    <span class="gp-price">Around $499 bundle class</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/logitech-rs50-system">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+RS50+System&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -1905,20 +1595,20 @@ The Logitech G PRO Racing Wheel remains the premium plug-and-play console DD fee
 The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained torque, official PS5/PS4 and PC support, QR2, passive cooling, and Fanatec ecosystem depth. It is a base-first purchase, not a cheap complete bundle.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a><figcaption>G PRO: premium Logitech console feel</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro bundle" loading="lazy"></a><figcaption>GT DD Pro: proven PlayStation bundle</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a><figcaption>ClubSport DD+: premium PlayStation base</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-csl-dd"><img src="/images/gear/racing/fanatec-csl-dd.jpg" alt="Fanatec CSL DD base" loading="lazy"></a><figcaption>CSL DD: Xbox via compatible Fanatec wheel</figcaption></figure>
+  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a><figcaption>R3: cleaner Xbox entry path</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-g-pro"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO Racing Wheel" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">11 Nm plug-and-play premium</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-g-pro">Logitech G PRO Racing Wheel</a></span>
-    <p class="gp-why">A gorgeous, strong console-friendly wheel when you want less ecosystem fiddling and more polished out-of-box driving.</p>
+    <span class="gp-eyebrow">15 Nm premium PlayStation base</span>
+    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
+    <p class="gp-why">The serious PlayStation base when GT DD Pro feels too soft and you want Fanatec's deep wheel and pedal ecosystem behind the purchase.</p>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/logitech-g-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD%2B&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -1975,12 +1665,12 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/logitech-rs50-system"><span class="gp-tag">Modern middle</span><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech RS50 System" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox value</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Best midrange console DD to watch</span>
-    <span class="gp-name"><a href="/racing/gear/logitech-rs50-system">Logitech G RS50 System</a></span>
-    <p class="gp-why">8 Nm plus TRUEFORCE in a newer Logitech system. Confirm platform SKU, then shortlist hard.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+RS50+System&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+    <span class="gp-eyebrow">Best budget Xbox DD</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
+    <p class="gp-why">The cleanest Xbox entry when you want real direct-drive feel without forcing a premium cockpit and pedal upgrade on day one.</p>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+Bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
   </div>
 </aside>
 
@@ -2011,10 +1701,12 @@ Direct drive shopping looks like a spreadsheet argument until you realize the re
 Duke's ladder below is built around stopping points. You do not need to climb every rung. In fact, the best sim racing purchase is often the rung you stop on because it is good enough and leaves money for pedals, displays, and rent. Weird hobby, still requires shelter.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/logitech-g-pro"><img src="/images/gear/racing/logitech-g-pro.jpg" alt="Logitech G PRO racing wheel" loading="lazy"></a><figcaption>Logitech G PRO: polished console/PC path</figcaption></figure>
+  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro direct-drive racing wheel bundle" loading="lazy"></a><figcaption>GT DD Pro: polished console/PC path</figcaption></figure>
   <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12: PC sweet spot</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro: feel-per-dollar</figcaption></figure>
 </div>
+
+![Direct-drive stop point ladder showing 5 Nm, 8 to 12 Nm, 15 to 18 Nm, 21 Nm plus, and pedals-first advice](/images/infographics/racing/direct-drive-stop-points.png)
 
 ## The Ladder
 
@@ -2032,15 +1724,15 @@ The first direct-drive jump is the biggest subjective leap. Even 5 Nm feels shar
 Buy this rung if you are still deciding whether sim racing is a forever hobby. The **MOZA R5** is the clean value starter. The **Cammus C5** is the oddball cheapest genuine DD. Console buyers should consider the **MOZA R3** for Xbox or Fanatec for PlayStation.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/cammus-c5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/cammus-c5.jpg" alt="Cammus C5 direct drive wheel" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Cheapest real DD feel</span>
-    <span class="gp-name"><a href="/racing/gear/cammus-c5">Cammus C5</a></span>
-    <p class="gp-why">Not the deepest ecosystem, not the fanciest wheel, but a genuine direct-drive on-ramp for buyers who want the motor feel without immediately joining a rim-collecting support group.</p>
+    <span class="gp-eyebrow">Cleanest starter ecosystem</span>
+    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <p class="gp-why">The safer starter DD pick when you want a real upgrade ladder behind the first purchase: R9, R12, better rims, better pedals, fewer mystery compromises.</p>
     <span class="gp-price">Entry DD</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/cammus-c5">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Cammus+C5+direct+drive+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+direct+drive+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -2099,6 +1791,8 @@ Buy this rung only after you have a cockpit, pedals, display, and ecosystem plan
 
 **Software:** The best wheelbase is annoying if the tuning app fights you. Budget a setup night. Snacks help.
 
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
+
 ## Research Notes
 
 This ladder cross-checks current spec pages for [MOZA R12](https://mozaracing.com/products/r12-wheelbase), [Fanatec's ClubSport DD family](https://www.fanatec.com/us/en/explorer/products/racing-wheels-wheel-bases/whats-the-difference-between-csl-dd-gran-turismo-dd-pro-clubsport-dd-and-clubsport-dd/), [Simagic Alpha Evo](https://simagic.com/pages/alpha-evo), and community upgrade patterns from the [r/simracing buying guide](https://www.reddit.com/r/simracing/wiki/buyingguide/).
@@ -2122,6 +1816,8 @@ The truth is simple: **motion moves the chassis; tactile tells your body what th
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X cockpit for tactile and motion mounting" loading="lazy"></a><figcaption>Rigid profile rig: the base layer</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum cockpit" loading="lazy"></a><figcaption>Aluminum profile gives hardware somewhere sane to live</figcaption></figure>
 </div>
+
+![Bass shaker wiring map showing solid mounting, rig isolation, limited effects, and strain relief](/images/infographics/racing/tactile-wiring-map.png)
 
 ## The Immersion Ladder
 
@@ -2190,6 +1886,10 @@ Motion can add heave, pitch, roll, braking dive, acceleration cues, and chassis 
 | Cost and setup | Easier | Much harder |
 | Neighbor risk | Medium | Medium-high |
 
+![Immersion upgrade path showing cockpit, seat shaker, pedal haptics, four-corner tactile, and motion](/images/infographics/racing/immersion-upgrade-path.png)
+
+![Sim racing rigidity flex ladder showing pedal deck, wheel uprights, seat mount, and accessory arms](/images/infographics/racing/rigidity-flex-ladder.png)
+
 ## The Smart Upgrade Path
 
 1. Rigid cockpit.
@@ -2198,6 +1898,8 @@ Motion can add heave, pitch, roll, braking dive, acceleration cues, and chassis 
 4. Add pedal haptics if you race ABS cars.
 5. Add left/right or four-corner tactile only if you can tune it cleanly.
 6. Consider motion after the rig, wiring, and room are ready.
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## Research Notes
 
@@ -2219,9 +1921,11 @@ The actual order is less glamorous and far more useful: **stable seating positio
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a><figcaption>MOZA R5: smart first direct drive</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-csl-lc"><img src="/images/gear/racing/fanatec-csl-lc.jpg" alt="Fanatec CSL load cell pedals" loading="lazy"></a><figcaption>Load-cell brake: the consistency upgrade</figcaption></figure>
+  <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint load cell pedals" loading="lazy"></a><figcaption>Load-cell brake: the consistency upgrade</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum profile cockpit" loading="lazy"></a><figcaption>8020 cockpit: where torque finally behaves</figcaption></figure>
 </div>
+
+![Sim racing build order map showing mount, pedals, wheelbase, display, and immersion](/images/infographics/racing/build-order-map.png)
 
 ## The Buy Order
 
@@ -2543,6 +2247,8 @@ The goal is simple: put analog control under both hands without turning your des
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount for joysticks" loading="lazy"></a><figcaption>Mounts: consistency and ergonomics</figcaption></figure>
 </div>
 
+![HOSAS six-axis control map showing right hand steering, left hand strafe, twist or pedals, and mounts](/images/infographics/space/hosas-six-axis-map.png)
+
 ## The Buy Order
 
 | Phase | Buy | Why |
@@ -2616,6 +2322,8 @@ Monstertech-style table mounts are the clean premium answer. DIY mounts can work
 
 A Stream Deck is great for power management, mining, comms, shields, camera, and mode toggles. It is not a substitute for axes. Buy it after the sticks and mounts are settled. Otherwise you own a glowing macro pad attached to a control problem.
 
+![HOSAS upgrade ladder showing one stick, dual VKB, mounts, tracking, and premium bases](/images/infographics/space/hosas-upgrade-ladder.png)
+
 ## Research Notes
 
 This guide cross-checks VKB's [Gladiator NXT EVO](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition) product line, VIRPIL's [Constellation Alpha](https://virpil-controls.us.com/vpc-constellation-alpha-prime-r.html) ecosystem, WinWing's space-control entries, and community HOSAS binding patterns from Star Citizen and Elite Dangerous players. Game patches can change default bindings, so save your profiles.
@@ -2637,8 +2345,8 @@ If your budget is tight, **WinWing Ursa Minor** is the value disruptor. If your 
 <div class="shotgrid">
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator: safest first serious stick</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle left hand controller" loading="lazy"></a><figcaption>Omni-Throttle: off-hand strafe/thrust magic</figcaption></figure>
-  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a><figcaption>WinWing Ursa Minor: aggressive value</figcaption></figure>
-  <figure><a href="/space/gear/virpil-constellation-alpha-grip"><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a><figcaption>Virpil Alpha: premium grip path</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk.IV Modern Combat Edition" loading="lazy"></a><figcaption>Gunfighter: premium precision path</figcaption></figure>
+  <figure><a href="/space/gear/vkb-stecs-standard-mk2-throttle"><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Standard Mk.II throttle" loading="lazy"></a><figcaption>STECs: HOTAS fallback if you fly mixed sims</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil WarBRD-D joystick base" loading="lazy"></a><figcaption>WarBRD-D: adjustable premium base</figcaption></figure>
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount for joysticks" loading="lazy"></a><figcaption>Mounts: stop chasing desk slide</figcaption></figure>
 </div>
@@ -2706,15 +2414,15 @@ WinWing’s Ursa Minor Space deserves attention because it hits the value nerve 
 The caveat is trust. VKB has a longer “we can recommend this without drama” trail in space sim circles. WinWing can be the smarter budget buy if you are price-sensitive and comfortable with SimAppPro, but it is not yet the default no-regrets community answer.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/winwing-ursa-minor-space"><span class="gp-tag">Value disruptor</span><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a>
+  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Value disruptor</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Budget HOSAS contender</span>
-    <span class="gp-name"><a href="/space/gear/winwing-ursa-minor-space">WinWing Ursa Minor Space</a></span>
-    <p class="gp-why">Buy if the price gap matters and you want a modern feature set. Pick VKB if community support confidence matters more than saving the last dollar.</p>
-    <span class="gp-price">Aggressive value tier</span>
+    <span class="gp-eyebrow">Off-hand value controller</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator Omni-Throttle</a></span>
+    <p class="gp-why">Buy if Star Citizen is the main event and you want left-hand thrust/strafe control that feels physical without giving up analog axes.</p>
+    <span class="gp-price">Reliable value tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/winwing-ursa-minor-space">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+Joystick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -2746,22 +2454,22 @@ Virpil Constellation Alpha/Alpha Prime gear is gorgeous and genuinely suited to 
 The catch is real cost. A Virpil grip is not a full stick by itself. You need a base, often mounts, and sometimes patience for backorder windows. The community summary right now is fair: **Virpil feels premium and durable; VKB gives you similar performance value faster and cheaper.**
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/virpil-constellation-alpha-grip"><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a><figcaption>Alpha grip: the premium space handle</figcaption></figure>
+  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a><figcaption>Gunfighter: VKB's premium path</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil WarBRD-D base" loading="lazy"></a><figcaption>WarBRD-D: compact adjustable base</figcaption></figure>
   <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a><figcaption>VKB Gunfighter: VKB’s premium base path</figcaption></figure>
-  <figure><a href="/space/gear/vkb-mcg-pro-grip"><img src="/images/gear/space/vkb-mcg-pro-grip.jpg" alt="VKB MCG Pro grip" loading="lazy"></a><figcaption>MCG Pro: more binds, more seriousness</figcaption></figure>
+  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Warthog: aircraft-first HOTAS reference</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/virpil-constellation-alpha-grip"><span class="gp-tag">Premium</span><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a>
+  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Premium</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a>
   <div class="gp-body">
-    <span class="gp-eyebrow">Endgame grip path</span>
-    <span class="gp-name"><a href="/space/gear/virpil-constellation-alpha-grip">Virpil Constellation Alpha Grip</a></span>
-    <p class="gp-why">Buy after you know your binds, your mounting, and your flying style. It is an upgrade for feel and input density, not a beginner shortcut.</p>
-    <span class="gp-price">Grip only, base separate</span>
+    <span class="gp-eyebrow">Endgame gimbal path</span>
+    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
+    <p class="gp-why">Buy after you know your binds, mounting, and flying style. It is an upgrade for precision and tuning, not a beginner shortcut.</p>
+    <span class="gp-price">Premium base tier</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/virpil-constellation-alpha-grip">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+Constellation+Alpha+Prime&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
@@ -2841,106 +2549,6 @@ You can, but we would still solve mounts and binds early. Virpil is excellent pr
 Right-hand VKB Gladiator, left-hand VKB Omni-Throttle or second Gladiator, and a plan for mounts. If you cannot reach that budget, price dual WinWing Ursa Minors and accept the support/reliability tradeoff.
 
 Useful source shelf: [VKB Gladiator NXT EVO official](https://vkbsimcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand-us), [VIRPIL Constellation Alpha announcement](https://virpil.com/en/blog/174-introducing-the-vpc-constellation-alpha-grip), [VIRPIL Alpha Prime official](https://virpil-controls.us.com/vpc-constellation-alpha-prime-r.html), [WinWing Ursa Minor official](https://winctrl.com/view/goods-details.html?id=558), [Skyward Flight Media Ursa Minor review](https://www.skywardfm.com/post/winwing-ursa-minor-fighter-short-honest-review), [r/hotas 2026 X56 discussion](https://www.reddit.com/r/hotas/comments/1swnf8e/first_hotas_for_star_citizen_is_the_x56_still/), [r/starcitizen current HOSAS recommendations](https://www.reddit.com/r/starcitizen/comments/1r3rj9z/what_hostas_to_get_are_these_good_or_star_citizen/), [r/starcitizen Virpil vs VKB upgrade discussion](https://www.reddit.com/r/starcitizen/comments/1u3lvs5/hosas_upgrade_virpil_vs_vkb/).
-
----
-
-### VKB vs Virpil vs WinWing for Space Sims in 2026: Which Premium Stick Ecosystem Should You Buy?
-space · comparison · by Robert Pruitt · 2026-07-01 · https://ignitionsim.com/space/vkb-vs-virpil-vs-winwing-space-sticks-2026
-A 2026 space-sim controls comparison for VKB, Virpil, and WinWing: Gladiator, Gunfighter, Virpil Alpha, WarBRD-D, WinWing Ursa/Orion, HOSAS value, and upgrade paths.
-
-VKB, Virpil, and WinWing are not just brands. They are three different answers to the same space-sim question: how much hardware do you need before flying stops feeling like you are negotiating with a plastic spring?
-
-Val's short verdict: **VKB for value and sensible upgrade paths, Virpil for premium cockpit-builder hardware, WinWing for aggressive feature pricing and flight/space crossover.**
-
-<div class="shotgrid">
-  <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a><figcaption>VKB Gunfighter: tunable endgame base</figcaption></figure>
-  <figure><a href="/space/gear/virpil-constellation-alpha-grip"><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a><figcaption>Virpil Alpha: boutique grip drama</figcaption></figure>
-  <figure><a href="/space/gear/winwing-ursa-minor-space"><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a><figcaption>WinWing Ursa: aggressive value challenger</figcaption></figure>
-</div>
-
-## The Comparison
-
-| Ecosystem | Best strength | Best buyer | Watch out for |
-| --- | --- | --- | --- |
-| VKB | Value, sensors, upgrade path | First serious HOSAS, practical enthusiasts | Config software depth |
-| Virpil | Premium feel, cockpit ecosystem | No-regrets builders | Price and stock timing |
-| WinWing | Feature-per-dollar, flight crossover | Budget/mid buyers, DCS crossover | Layout/software fit |
-
-## VKB: The Sensible Default
-
-VKB owns the "smart first HOSAS" lane. The **Gladiator NXT EVO Space Combat Edition** is affordable enough to buy as a pair, but serious enough to avoid cheap-stick drift. The **Omni-Throttle** variant is purpose-built for off-hand space control. The **Gunfighter Mk IV** is the higher-end base with adjustable cams, springs, dampers, and swappable grips.
-
-The drawback is software depth. VKBDevCfg is powerful, but it does not hold your hand. It hands you a toolbox and quietly judges your labeling.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">VKB endgame</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable premium base</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk IV</a></span>
-    <p class="gp-why">The step up when you love the Gladiator idea but want adjustable feel, heavier grips, and a base that can become a long-term cockpit platform.</p>
-    <span class="gp-price">Premium VKB</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## Virpil: The Premium Cockpit Builder
-
-Virpil hardware feels like it is made for people building a cockpit, not just clearing desk space. The **Constellation Alpha** grip is beloved in space-sim circles because it is input-dense and ergonomic. Pair it with a **WarBRD-D** or MongoosT base and you are in premium HOSAS territory.
-
-The downside is cost and availability. Virpil can be worth every dollar, but it is rarely the value answer for a first build.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/virpil-constellation-alpha-grip"><span class="gp-tag">Premium grip</span><img src="/images/gear/space/virpil-constellation-alpha-grip.jpg" alt="Virpil Constellation Alpha grip" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Boutique space grip</span>
-    <span class="gp-name"><a href="/space/gear/virpil-constellation-alpha-grip">Virpil Constellation Alpha</a></span>
-    <p class="gp-why">Input-rich, dramatic, and built for serious cockpit layouts. Amazing when paired with the right base and mounts; overkill if you still fly once a month.</p>
-    <span class="gp-price">Premium grip</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/virpil-constellation-alpha-grip">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+Constellation+Alpha+grip&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## WinWing: The Aggressive Challenger
-
-WinWing has been pushing hard on feature-per-dollar, especially for flight sim panels and crossover controls. For space sim buyers, the **Ursa Minor Space** and related hardware are worth watching because they attack the middle of the market where a lot of buyers want more than cheap plastic but less than boutique totals.
-
-Check layout, handedness, mounting, and software before buying. WinWing can be a strong deal, but the right stick is the one whose physical controls match your binding plan.
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/winwing-ursa-minor-space"><span class="gp-tag">Value challenger</span><img src="/images/gear/space/winwing-ursa-minor-space.jpg" alt="WinWing Ursa Minor Space joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Space control challenger</span>
-    <span class="gp-name"><a href="/space/gear/winwing-ursa-minor-space">WinWing Ursa Minor Space</a></span>
-    <p class="gp-why">The pick to cross-shop when VKB is the obvious answer and you want to see whether the feature set fits your hand, mounts, and budget better.</p>
-    <span class="gp-price">Mid value tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/winwing-ursa-minor-space">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
-
-## Who Should Buy What
-
-**Buy VKB** if you want the safest value path and a strong HOSAS pair without premium shock.
-
-**Buy Virpil** if you are building a permanent cockpit and want premium grips, bases, and mounts with no apology.
-
-**Buy WinWing** if feature-per-dollar matters and you fly both space and atmospheric sims enough to value crossover hardware.
-
-## Research Notes
-
-This comparison cross-checks official current product families from [VKB](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [Virpil](https://virpil-controls.us.com/), and [WinWing](https://winwingsim.com/) with space-sim community binding patterns. Stock, regional pricing, and shipping can change the real winner, so compare landed cost before calling anything a deal.
-
-## Verdict
-
-VKB is the default recommendation because it is hard to waste money there. Virpil is the premium dream if the cockpit is permanent. WinWing is the challenger that keeps everyone honest. Choose the ecosystem your hands, mounts, and upgrade path can actually live with.
 
 ---
 

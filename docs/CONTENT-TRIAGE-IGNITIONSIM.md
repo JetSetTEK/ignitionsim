@@ -1,6 +1,6 @@
 # IgnitionSim Content Triage
 
-Current library: 83 articles across racing, flight, space, marine, and golf. The library is worth keeping, but the public strategy should favor the strongest buyer-intent pages while older/thinner pieces get refreshed into the IgnitionSim standard.
+Current library: 89 articles across racing, flight, space, marine, and golf. The library is worth keeping, but the public strategy should favor the strongest buyer-intent pages while older/thinner pieces get refreshed into the IgnitionSim standard.
 
 ## Decision
 - Clean-slate rule: only `goldStatus: "certified"` articles are public.
@@ -11,19 +11,31 @@ Current library: 83 articles across racing, flight, space, marine, and golf. The
 - Refresh articles rather than deleting them unless a page is inaccurate, obsolete, or too thin to rescue.
 
 ## Certified Starter Set
-These are the current public article paths. They should be visible from homepage, bay pages, guides, related articles, and sitemap output. Everything else is a refresh candidate until upgraded.
+These are the current public article paths. They should be visible from homepage, bay pages, guides, related articles, and sitemap output. Everything else is a refresh candidate until upgraded. As of the July 1, 2026 media audit, every certified article must pass `npm run gold-audit`: at least 8 inline visuals, no unverified gear imagery, no missing image files, no placeholder markers, and no internal gear links to unverified product pages.
 
+- `racing/active-pedals-vs-load-cell-hydraulic-2026.md`
+- `racing/console-direct-drive-2026.md`
 - `racing/sim-rig-buyer-map-2026.md`
 - `racing/direct-drive-upgrade-ladder-2026.md`
 - `racing/cockpit-rigidity-wheel-stand-vs-8020-2026.md`
 - `racing/diy-motion-vs-bass-shakers-2026.md`
+- `racing/triple-monitor-vs-ultrawide-vs-vr-2026.md`
 - `flight/msfs-home-cockpit-buyer-map-2026.md`
 - `flight/yoke-throttle-rudder-head-tracking-order-2026.md`
 - `space/star-citizen-hosas-buyer-map-2026.md`
-- `space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md`
+- `space/star-citizen-hosas-upgrade-path-2026.md`
+- `golf/golf-launch-monitors-under-5000-2026.md`
+- `golf/golf-mats-screens-enclosures-2026.md`
 - `golf/home-golf-simulator-build-sheet-2026.md`
+- `golf/home-golf-simulator-under-10000-2026.md`
 - `golf/launch-monitor-ladder-2026.md`
+
+## Demoted During Media Audit
+These topics still matter, but they were moved back to `refresh` because the public page depended on blocked, procedural, or insufficiently verified product media.
+
+- `flight/flightsimexpo-2026-hardware-buyer-map.md`
 - `marine/marine-sim-hardware-reality.md`
+- `space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md`
 
 ## Tier 2: Refresh Into Strong Earners
 These already match high-intent searches. Add real product photos, current source shelves, low-star warning checks, comparison tables, and clearer buy/wait verdicts.
@@ -32,6 +44,7 @@ These already match high-intent searches. Add real product photos, current sourc
 - Flight: `best-flight-sim-hardware-2026.md`, `best-flight-sim-setup-beginners.md`, `honeycomb-vs-thrustmaster-tca.md`, `head-tracking-trackir-vs-tobii-msfs.md`, `flight-sim-usb-hub-wiring-multi-panel.md`, `vr-vs-monitor-flight-sim.md`
 - Space: `hosas-vs-hotas.md`, `best-beginner-hosas-under-300.md`, `best-space-sim-controllers-2026.md`, `best-hotas-for-star-citizen.md`, `stream-deck-button-box-space-sim.md`, `mounting-your-hosas-monstertech.md`
 - Golf: `golf-simulator-room-size.md`, `golf-simulator-cost.md`, `skytrak-vs-bushnell-launch-pro-vs-gc3.md`, `best-golf-launch-monitor-under-1000.md`, `golf-simulator-impact-screen-enclosure.md`, `golf-simulator-projector-guide.md`, `best-golf-simulator-software.md`
+- Audit-demoted rescues: `flight/flightsimexpo-2026-hardware-buyer-map.md`, `marine/marine-sim-hardware-reality.md`, `space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md`
 
 ## Tier 3: Keep, But Do Not Lead With Yet
 These can work as long-tail support pages after a source/photo refresh. They should not dominate homepage or first-click paths until improved.

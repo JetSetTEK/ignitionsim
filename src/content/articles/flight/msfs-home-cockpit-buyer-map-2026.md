@@ -41,6 +41,8 @@ Val's order is simpler: **primary controls, throttle, rudders, head tracking, th
   <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a><figcaption>TrackIR: hands stay on controls</figcaption></figure>
 </div>
 
+![Flight sim control priority map showing yoke or stick, throttle, rudders, head tracking, then panels](/images/infographics/flight/control-priority-map.png)
+
 ## The Buy Order
 
 | Phase | Buy | Why it matters |
@@ -120,23 +122,13 @@ Head tracking changes how you fly because it removes the mouse from basic visual
 
 Multi-panel cockpits fail in boring ways: weak hubs, overloaded ports, sleep settings, and cables stressed by moving desks. Use a powered USB hub, label cables, disable USB selective suspend if needed, and do not route every device through the cheapest passive hub in the drawer.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/desktop-pilot-10-port-usb-hub"><span class="gp-tag">Boring hero</span><img src="/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg" alt="Powered USB hub for flight simulator hardware" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Powered USB hub</span>
-    <span class="gp-name"><a href="/flight/gear/desktop-pilot-10-port-usb-hub">Desktop Pilot 10-Port USB Hub</a></span>
-    <p class="gp-why">Not glamorous. Absolutely useful. The difference between a cockpit and a support ticket with wings.</p>
-    <span class="gp-price">Infrastructure</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/desktop-pilot-10-port-usb-hub">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=powered+USB+hub+flight+simulator&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
-  </div>
-</aside>
+![MSFS cockpit USB sanity map showing powered hub, separate high-draw devices, and labeled cables](/images/infographics/flight/msfs-usb-sanity-map.png)
+
+The boring buy here is a reputable powered USB hub with enough current for the cockpit, not a mystery passive splitter from the cable drawer. Put the yoke/throttle stack, panels, head tracker, and rudders on labeled runs; keep firmware-updated devices easy to unplug; and test sleep/wake behavior before you tidy cables so aggressively that troubleshooting requires archaeology.
 
 ## Research Notes
 
-This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, and current MSFS community hardware patterns. Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
+This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, Tobii's [Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/) specs, and current MSFS community hardware patterns. Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
 
 ## Verdict
 
