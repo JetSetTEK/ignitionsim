@@ -22,15 +22,19 @@ IgnitionSim is an authority site for people who want to buy real simulator hardw
 - Use real licensed product, manufacturer, affiliate-feed, Amazon Associates, or owned photos for physical products and rigs.
 - Use Pexels/Unsplash only for lifestyle or rig atmosphere, with visible credit where required.
 - Do not use AI-generated imagery to represent an actual component, cockpit, launch monitor, wheelbase, pedal set, stick, yoke, enclosure, or rig.
+- Do not use procedural/abstract placeholder art for certified article covers, related cards, gear cards, product benches, or money-page thumbnails. If a public card cannot show real product/use/parts imagery, the page stays `refresh` until it can.
 - Product thumbnails and gear cards should center the product, use `object-fit: contain`, and avoid aggressive cropping.
 - AI imagery is allowed for abstract backdrops, editorial textures, characters, retro UI flavor, or diagrams that cannot be mistaken for real hardware.
 - Diagrams must be useful: wiring paths, room measurements, cockpit mounting points, cable management, display geometry, pedal/load-cell forces, throw-ratio math, or decision trees.
+- Certified cornerstone articles need visual density: real product shots, official install/use photos, part closeups, comparison benches, and practical diagrams. The goal is a page a builder can scan with coffee in hand and immediately understand what goes in the cart and what goes on the desk/rig/wall.
 
 ## Article Requirements
 Every cornerstone article should include:
 - A fast verdict near the top: buy now, buy with caveats, wait, or skip.
 - A "what to buy first" path for different budgets and seriousness levels.
-- Product photos or photo-ready spec benches for every recommended product.
+- Verified product photos, use photos, diagrams, or manufacturer/store images for every recommended product.
+- At least one article-cover/product-bench image made from real products, not decorative geometry.
+- At least 8 useful visuals for a normal certified buyer guide, and 12+ visuals for high-ROI cornerstone guides.
 - Practical warnings: setup tax, weekend killers, compatibility traps, room/desk/mount limits, software gotchas, and return-window advice.
 - Official sources for hard specs and compatibility claims.
 - Community pattern reads paraphrased in our own voice, linked to Reddit/forum searches or specific threads when useful.
@@ -65,7 +69,13 @@ Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
 - Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended product.
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.
+- Search the output for placeholder markers, `PHOTO SLOT READY`, `cimg-fallback`, procedural hero art, missing images, and product pages that are only spec cards. Fix or demote before deploy.
 - Check mobile and desktop layouts for overflow, tiny infographic text, unreadable contrast, and cropped important content.
-- Run `npm run build`.
+- Run `npm run art` only after verifying it uses the real-product collage pipeline. Then run `npm run build`.
 - If a page relies on current prices, release dates, firmware, ratings, product availability, or active community sentiment, verify with current sources before publishing.
 - Update the relevant hub/homepage/gear/best-of surfaces when the article is strategically important.
+
+## Revenue Horizon
+- The site is being built toward a $10,000/month revenue horizon within a year. Every certified article should move the site toward that with high-intent topics, buyer confidence, product-photo trust, internal links to gear pages, and monetizable next steps.
+- Revenue never outranks trust. The editorial stance remains blunt: buy now, buy with caveats, wait, or skip.
+- When a content cluster has enough certified depth, look for tools that reduce purchase uncertainty: compatibility checkers, room/rig calculators, build ladders, cable/power planners, and cart-ready buyer paths.

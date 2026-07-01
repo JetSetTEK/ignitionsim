@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import FAQ from '../../components/FAQ.astro';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
+import { hasVerifiedProductImage } from '../../lib/productMedia';
 
 const slugify = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
@@ -10,7 +11,7 @@ export async function getStaticPaths() {
   const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
   const brands = ((Object.values(brandMods)[0] as any)?.default || []) as any[];
   const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
-  const products = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
+  const products = (Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[]).filter(hasVerifiedProductImage);
   const sl = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
   return brands.map((brand) => ({
     params: { id: brand.id },

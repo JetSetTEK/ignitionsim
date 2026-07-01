@@ -117,7 +117,7 @@ Two completely different tools, and people buy the wrong one constantly.
 
 Here's the line that should be tattooed on every newcomer: **most shifter and handbrake problems are mounting problems.** A precise load-cell handbrake bolted to a desk edge that flexes will feel vague and mushy, and you'll wrongly conclude the hardware is bad. The same unit on rigid aluminum profile feels surgical.
 
-You need **zero flex** at the mount. That means a steel or 8020 aluminum cockpit arm, not a clamp on particle board. This is one more reason the [desk-versus-cockpit decision](/racing/desk-vs-cockpit-sim-racing-2026) matters: a handbrake you pull hard and a shifter you slam into gear both load the mount far more than a wheel does, and a desk setup rarely survives it. If you're on a [proper aluminum-profile rig](/racing/gear/trak-racer-tr80), you already have the side rails you need.
+You need **zero flex** at the mount. That means a steel or 8020 aluminum cockpit arm, not a clamp on particle board. This is one more reason the [desk-versus-cockpit decision](/racing/desk-vs-cockpit-sim-racing-2026) matters: a handbrake you pull hard and a shifter you slam into gear both load the mount far more than a wheel does, and a desk setup rarely survives it. If you're on a [proper aluminum-profile rig](/racing/gear/sim-lab-p1x), you already have the side rails you need.
 
 Position matters too. The handbrake wants to sit where your hand naturally falls off the wheel — low and slightly forward, vertical or angled like a real lever. The shifter wants to be close enough to reach without leaning, roughly where a real gearstick lives relative to the seat.
 

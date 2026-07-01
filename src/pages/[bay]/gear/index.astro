@@ -2,6 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import bays from '../../../data/bays.json';
 import site from '../../../data/site.json';
+import { hasVerifiedProductImage } from '../../../lib/productMedia';
 
 export async function getStaticPaths() {
   return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
@@ -9,7 +10,7 @@ export async function getStaticPaths() {
 const { bay } = Astro.props;
 const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(mods).flatMap((m: any) => (m.default || [])) as any[];
-const products = all.filter((p) => p.bay === bay.slug).sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0));
+const products = all.filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p)).sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0));
 
 const types = [...new Set(products.map((p) => p.type))];
 const typeLabel = (t: string) => t.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase()) + 's';

@@ -6,13 +6,14 @@
  * Racing keeps its dedicated compatibility-engine Configurator.
  */
 import configs from '../data/build-configs.json';
+import { hasVerifiedProductImage } from '../lib/productMedia';
 interface Props { bay: string; }
 const { bay } = Astro.props;
 const cfg = (configs as any)[bay];
 
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
-const bayProducts = all.filter((p) => p.bay === bay && p.price > 0);
+const bayProducts = all.filter((p) => p.bay === bay && p.price > 0 && hasVerifiedProductImage(p));
 
 const toOption = (p: any) => ({
   id: p.id, brand: p.brand, model: p.model, price: p.price, type: p.type,

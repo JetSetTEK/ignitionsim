@@ -8,6 +8,9 @@ import { dirname, join } from 'node:path';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const site = JSON.parse(await readFile(join(root, 'src', 'data', 'site.json'), 'utf8'));
 const bays = JSON.parse(await readFile(join(root, 'src', 'data', 'bays.json'), 'utf8'));
+const verifiedImages = new Set(JSON.parse(await readFile(join(root, 'src', 'data', 'verified-product-images.json'), 'utf8')));
+const productImage = (p) => Array.isArray(p.images) && p.images.length ? p.images[0] : p.image;
+const isCertifiedFm = (fm) => /goldStatus:\s*["']?certified["']?/i.test(fm) && !/draft:\s*true/i.test(fm);
 
 let out = `# IgnitionSim — Full Text Corpus for AI
 
@@ -26,7 +29,7 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 for (const bay of bays) {
   const f = join(root, 'src', 'data', 'products', `${bay.slug}.json`);
   if (!existsSync(f)) continue;
-  const list = JSON.parse(await readFile(f, 'utf8'));
+  const list = JSON.parse(await readFile(f, 'utf8')).filter((p) => verifiedImages.has(productImage(p)));
   out += `## ${bay.name} gear (${list.length})\n`;
   for (const p of list) {
     out += `- ${p.brand} ${p.model} — ${p.price ? '~$' + p.price : 'price varies'} — Verdict ${p.rating?.overall ?? '?'}/10 — ${p.summary} [${site.url}/${p.bay}/gear/${p.id}]\n`;
@@ -44,6 +47,7 @@ for (const bay of await readdir(artRoot)) {
     const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
     if (!m) continue;
     const fm = m[1]; const body = m[2].trim();
+    if (!isCertifiedFm(fm)) continue;
     const g = (k) => (fm.match(new RegExp(k + ':\\s*"?([^"\\n]+)', 'i')) || [])[1] || '';
     out += `### ${g('title')}\n${bay} · ${g('type')} · by ${g('author') || site.author.name} · ${g('publishDate')} · ${site.url}/${bay}/${fn.replace(/\.md$/, '')}\n${g('description')}\n\n${body}\n\n---\n\n`;
   }

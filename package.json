@@ -6,10 +6,11 @@
   "description": "IgnitionSim.com — the engineer's guide to sim hardware. Compatibility-checked builds, honest gear reviews, and restock alerts for racing, flight, space, marine, and golf sim rigs.",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/prune-unverified-gear-images.mjs",
     "preview": "astro preview",
     "images": "node scripts/fetch-images.mjs",
-    "art": "node scripts/make-art.mjs",
+    "product-images": "node scripts/fetch-real-product-images.mjs",
+    "art": "node scripts/make-real-product-collages.mjs",
     "og": "node scripts/make-og-cards.mjs",
     "track": "node scripts/track.mjs",
     "diff": "node scripts/diff-events.mjs"

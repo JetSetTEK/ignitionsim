@@ -38,7 +38,7 @@ The truth is simple: **motion moves the chassis; tactile tells your body what th
 <div class="shotgrid">
   <figure><a href="/racing/gear/buttkicker-gamer-pro"><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro haptic transducer" loading="lazy"></a><figcaption>Seat shaker: highest immersion ROI</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X cockpit for tactile and motion mounting" loading="lazy"></a><figcaption>Rigid profile rig: the base layer</figcaption></figure>
-  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum cockpit" loading="lazy"></a><figcaption>Aluminum profile gives hardware somewhere sane to live</figcaption></figure>
+  <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum cockpit" loading="lazy"></a><figcaption>Aluminum profile gives hardware somewhere sane to live</figcaption></figure>
 </div>
 
 ## The Immersion Ladder

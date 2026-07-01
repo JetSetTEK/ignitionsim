@@ -8,6 +8,7 @@ import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import signals from '../../data/research-signals.json';
 import { isCertifiedArticle } from '../../lib/content';
+import { displayProductImage, hasVerifiedProductImage } from '../../lib/productMedia';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
@@ -38,11 +39,9 @@ const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)
 const buyUrl = (p: any) => p.amazonAsin
   ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
   : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
-const displayImage = (p: any) => Array.isArray(p.images) && p.images.length ? p.images[0] : p.image;
-const hasRealImage = (src?: string) => Boolean(src && (/^https?:/.test(src) || /-\d+\.(jpe?g|png|webp)$/i.test(src)));
 const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 3000) / 1000;
 const articleProducts = allProducts
-  .filter((p) => p.bay === d.bay)
+  .filter((p) => p.bay === d.bay && hasVerifiedProductImage(p))
   .sort((a, b) => rankProduct(b) - rankProduct(a))
   .slice(0, 5);
 const sourceLinks = [
@@ -135,9 +134,7 @@ if (d.faqs.length) {
           <div class="bench-products">
             {articleProducts.map((p: any) => (
               <a class="bench-product" href={`/${p.bay}/gear/${p.id}`}>
-                {hasRealImage(displayImage(p))
-                  ? <img src={displayImage(p)} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
-                  : <span class="bench-spec"><b>{p.brand}</b><em>{p.model}</em></span>}
+                <img src={displayProductImage(p)} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
                 <span>{p.brand}</span>
                 <strong>{p.model}</strong>
                 <small>{p.rating?.overall ? `${p.rating.overall}/10` : 'review'} · {p.price ? `~$${p.price.toLocaleString()}` : 'price varies'}</small>
@@ -295,20 +292,6 @@ if (d.faqs.length) {
     border-radius: 8px;
     border: 1px solid var(--line);
   }
-  .bench-spec {
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 6px;
-    background: #fff;
-    border-radius: 8px;
-    border: 1px solid var(--line);
-    padding: 10px;
-  }
-  .bench-spec b { font-family: var(--font-disp); color: var(--txt); line-height: 1; }
-  .bench-spec em { font-style: normal; color: var(--dim); font-size: .74rem; line-height: 1.2; }
   .bench-product span,
   .bench-product small {
     font-family: var(--font-mono);

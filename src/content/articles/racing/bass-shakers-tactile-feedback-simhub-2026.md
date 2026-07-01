@@ -99,7 +99,7 @@ Placement strategy:
 - **Pedal tray (add second):** smaller exciters for wheelspin and lockup felt through your feet, which is exactly where a real driver senses traction at the contact patch.
 - **Wheel deck (advanced):** small exciters for fine detail at the hands, supplementing FFB rather than replacing it.
 
-This is also a strong argument for a [real cockpit over a desk setup](/racing/desk-vs-cockpit-sim-racing-2026): you need solid surfaces to bolt shakers to, and an [aluminum-profile rig](/racing/gear/trak-racer-tr80) gives you seat rails, pedal deck and side extrusion all ready to mount and isolate. A wobbly desk has nowhere good to put a transducer.
+This is also a strong argument for a [real cockpit over a desk setup](/racing/desk-vs-cockpit-sim-racing-2026): you need solid surfaces to bolt shakers to, and an [aluminum-profile rig](/racing/gear/sim-lab-p1x) gives you seat rails, pedal deck and side extrusion all ready to mount and isolate. A wobbly desk has nowhere good to put a transducer.
 
 ## What the community says
 

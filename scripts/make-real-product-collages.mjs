@@ -6,6 +6,7 @@ const root = process.cwd();
 const publicDir = path.join(root, 'public');
 const productsDir = path.join(root, 'src/data/products');
 const articlesDir = path.join(root, 'src/content/articles');
+const verifiedPath = path.join(root, 'src/data/verified-product-images.json');
 
 const bayMeta = {
   racing: { name: 'Racing', accent: '#f97316', soft: '#fff4e8', line: '#fed7aa' },
@@ -38,13 +39,24 @@ const escapeXml = (value = '') => String(value)
   .replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
 
+const verifiedProductImages = fs.existsSync(verifiedPath)
+  ? new Set(readJson(verifiedPath))
+  : new Set();
+
 const productFiles = fs.readdirSync(productsDir)
   .filter((file) => file.endsWith('.json'))
   .map((file) => path.join(productsDir, file));
 
+const productImage = (p) => Array.isArray(p.images) && p.images.length ? p.images[0] : p.image;
+
 const products = productFiles.flatMap((file) => readJson(file))
   .filter((p) => p?.bay && p?.image)
-  .filter((p) => fs.existsSync(path.join(publicDir, p.image.replace(/^\//, ''))));
+  .filter((p) => {
+    const image = productImage(p);
+    return image
+      && verifiedProductImages.has(image)
+      && fs.existsSync(path.join(publicDir, image.replace(/^\//, '')));
+  });
 
 const byBay = Object.groupBy(products, (p) => p.bay);
 
@@ -57,7 +69,8 @@ function wrapText(text, maxChars = 42, maxLines = 3) {
   const words = String(text || '').replace(/\s+/g, ' ').trim().split(' ');
   const lines = [];
   let line = '';
-  for (const word of words) {
+  for (let i = 0; i < words.length; i += 1) {
+    const word = words[i];
     const next = line ? `${line} ${word}` : word;
     if (next.length > maxChars && line) {
       lines.push(line);
@@ -65,7 +78,11 @@ function wrapText(text, maxChars = 42, maxLines = 3) {
     } else {
       line = next;
     }
-    if (lines.length === maxLines - 1) break;
+    if (lines.length === maxLines - 1 && i < words.length - 1) {
+      const remaining = words.slice(i + 1).join(' ');
+      line = `${line}${remaining ? '...' : ''}`;
+      break;
+    }
   }
   if (line && lines.length < maxLines) lines.push(line);
   return lines;
@@ -74,13 +91,17 @@ function wrapText(text, maxChars = 42, maxLines = 3) {
 async function productTile(product, width, height) {
   const price = typeof product.price === 'number' ? `$${product.price.toLocaleString('en-US')}` : 'price varies';
   const label = escapeXml(`${product.brand} ${product.model}`);
+  const labelLines = wrapText(`${product.brand} ${product.model}`, 23, 2);
   const type = escapeXml(String(product.type || '').replace(/-/g, ' ').toUpperCase());
   const specLine = escapeXml(Object.entries(product.specs || {}).slice(0, 2).map(([k, v]) => `${k}: ${v}`).join(' / '));
-  const productImage = Array.isArray(product.images) && product.images.length ? product.images[0] : product.image;
-  const localImagePath = productImage && String(productImage).startsWith('/')
-    ? path.join(publicDir, String(productImage).replace(/^\//, ''))
+  const imagePath = productImage(product);
+  const localImagePath = imagePath && String(imagePath).startsWith('/')
+    ? path.join(publicDir, String(imagePath).replace(/^\//, ''))
     : null;
   const hasLicensedImage = localImagePath && fs.existsSync(localImagePath);
+  if (!hasLicensedImage) {
+    throw new Error(`Gold Standard image missing for ${product.id}: ${imagePath || 'no image path'}`);
+  }
   const image = hasLicensedImage
     ? await sharp(localImagePath)
       .resize(width - 34, height - 86, { fit: 'contain', background: '#ffffff' })
@@ -96,20 +117,10 @@ async function productTile(product, width, height) {
   `);
   const labelSvg = Buffer.from(`
     <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
-      <text x="18" y="${height - 42}" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#17202b">${label}</text>
-      <text x="18" y="${height - 18}" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748b">${type} / ${price}</text>
+      ${labelLines.map((line, i) => `<text x="18" y="${height - 52 + i * 17}" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#17202b">${escapeXml(line)}</text>`).join('')}
+      <text x="18" y="${height - 15}" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#64748b">${type} / ${price}</text>
     </svg>
   `);
-  const specSvg = Buffer.from(`
-    <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
-      <rect x="18" y="18" width="${width - 36}" height="${height - 100}" rx="18" fill="#f8fafc" stroke="#e2e8f0"/>
-      <text x="34" y="58" font-family="JetBrains Mono, Menlo, monospace" font-size="14" font-weight="800" fill="#f97316">PHOTO SLOT READY</text>
-      <text x="34" y="105" font-family="Saira, Arial Black, Arial, sans-serif" font-size="34" font-weight="900" fill="#17202b">${escapeXml(product.brand)}</text>
-      ${wrapText(product.model, 24, 2).map((line, i) => `<text x="34" y="${142 + i * 34}" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#17202b">${escapeXml(line)}</text>`).join('')}
-      <text x="34" y="${height - 96}" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748b">${specLine}</text>
-    </svg>
-  `);
-
   return sharp({
     create: {
       width,
@@ -120,14 +131,17 @@ async function productTile(product, width, height) {
   })
     .composite([
       { input: bgSvg, left: 0, top: 0 },
-      ...(image ? [{ input: image, left: 17, top: 18 }] : [{ input: specSvg, left: 0, top: 0 }]),
+      { input: image, left: 17, top: 18 },
       { input: labelSvg, left: 0, top: 0 },
     ])
     .png()
     .toBuffer();
 }
 
-async function makeHero({ out, bay = 'racing', title, kicker = 'REAL PRODUCT BENCH', products: picks }) {
+async function makeHero({ out, bay = 'racing', title, kicker = 'VERIFIED PRODUCT BENCH', products: picks }) {
+  if (picks.length < 4) {
+    throw new Error(`Not enough verified product images to generate ${out}. Need at least 4; got ${picks.length}.`);
+  }
   const meta = bayMeta[bay] || bayMeta.racing;
   const width = 1600;
   const height = 900;
@@ -149,28 +163,31 @@ async function makeHero({ out, bay = 'racing', title, kicker = 'REAL PRODUCT BEN
       <rect x="96" y="92" width="116" height="8" rx="4" fill="${meta.accent}"/>
       <text x="96" y="142" font-family="JetBrains Mono, Menlo, monospace" font-size="24" font-weight="800" fill="${meta.accent}">${escapeXml(kicker)}</text>
       <text x="96" y="790" font-family="JetBrains Mono, Menlo, monospace" font-size="22" font-weight="800" fill="#475569">IGNITIONSIM / ${escapeXml(meta.name.toUpperCase())} / BUY FAST, BUILD SMART</text>
-      <text x="1240" y="790" font-family="JetBrains Mono, Menlo, monospace" font-size="18" font-weight="800" fill="#64748b">PHOTO-READY SPEC BENCH</text>
+      <text x="1128" y="790" font-family="JetBrains Mono, Menlo, monospace" font-size="18" font-weight="800" fill="#64748b">VERIFIED PRODUCT BENCH</text>
     </svg>
   `);
 
-  const canvas = sharp(bgSvg);
-  const tileW = 330;
-  const tileH = 255;
+  const tileW = 386;
+  const tileH = 212;
   const positions = [
-    [86, 186], [438, 160], [790, 186], [1142, 160],
-    [180, 472], [532, 500], [884, 472], [1236, 500],
+    [696, 142], [1104, 142],
+    [654, 382], [1062, 382],
+    [696, 622], [1104, 622],
   ];
-  const tiles = await Promise.all(picks.slice(0, 8).map((p) => productTile(p, tileW, tileH)));
-  const titleLines = wrapText(title, 46, 3);
+  const tiles = await Promise.all(picks.slice(0, 6).map((p) => productTile(p, tileW, tileH)));
+  const titleLines = wrapText(title, 17, 6);
   const titleSvg = Buffer.from(`
-    <svg width="930" height="220" xmlns="http://www.w3.org/2000/svg">
-      ${titleLines.map((line, i) => `<text x="0" y="${62 + i * 64}" font-family="Saira, Arial Black, Arial, sans-serif" font-size="58" font-weight="900" fill="#111827">${escapeXml(line)}</text>`).join('')}
+    <svg width="560" height="470" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="536" height="470" rx="30" fill="#ffffff" opacity=".74"/>
+      <text x="0" y="64" font-family="JetBrains Mono, Menlo, monospace" font-size="19" font-weight="800" fill="${meta.accent}">NO FILLER / REAL GEAR PHOTOS</text>
+      ${titleLines.map((line, i) => `<text x="0" y="${128 + i * 52}" font-family="Saira, Arial Black, Arial, sans-serif" font-size="46" font-weight="900" fill="#111827">${escapeXml(line)}</text>`).join('')}
+      <text x="0" y="430" font-family="JetBrains Mono, Menlo, monospace" font-size="20" font-weight="800" fill="#64748b">BUY WITH CAVEATS, CONFIDENCE, OR WAIT.</text>
     </svg>
   `);
 
   const composites = [
     { input: bgSvg, left: 0, top: 0 },
-    { input: titleSvg, left: 96, top: 612 },
+    { input: titleSvg, left: 96, top: 222 },
     ...tiles.map((input, i) => ({
       input,
       left: positions[i][0],
@@ -222,7 +239,7 @@ async function main() {
     out: '/images/brand/ignitionsim-garage-lab-hero.webp',
     bay: 'racing',
     title: 'Buy the parts. Build the rig. Start playing.',
-    kicker: 'IGNITIONSIM SPEC BENCH',
+    kicker: 'IGNITIONSIM VERIFIED BENCH',
     products: [
       ...topForBay('racing', 3),
       ...topForBay('flight', 2),
@@ -234,7 +251,7 @@ async function main() {
     out: '/images/hub/product-bench.jpg',
     bay: 'racing',
     title: 'Components, compatibility notes, and fewer dead-end carts.',
-    kicker: 'PHOTO-READY PRODUCT BENCH',
+    kicker: 'VERIFIED PRODUCT BENCH',
     products: [
       ...topForBay('racing', 2),
       ...topForBay('flight', 2),
@@ -251,7 +268,7 @@ async function main() {
         out: `/images/${bay}/slide-${i}.jpg`,
         bay,
         title: i === 1 ? `${bayMeta[bay].name} buyer map` : i === 2 ? 'Parts that fit together' : 'Warnings before checkout',
-        kicker: `${bayMeta[bay].name.toUpperCase()} BENCH ${i}`,
+      kicker: `${bayMeta[bay].name.toUpperCase()} VERIFIED BENCH ${i}`,
         products: top.slice(i - 1).concat(top).slice(0, 8),
       });
     }
@@ -262,7 +279,7 @@ async function main() {
       out: article.heroImage,
       bay: article.bay,
       title: article.title,
-      kicker: 'GUIDE BENCH / PHOTO-READY SPECS',
+      kicker: 'GUIDE BENCH / VERIFIED PRODUCT PHOTOS',
       products: productsForArticle(article.bay, article.slug, article.title),
     });
   }

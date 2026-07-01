@@ -7,16 +7,18 @@ import site from '../../../data/site.json';
 import signals from '../../../data/research-signals.json';
 import { getCollection } from 'astro:content';
 import { isCertifiedArticle } from '../../../lib/content';
+import { displayProductImage, hasVerifiedProductImage } from '../../../lib/productMedia';
 
 export async function getStaticPaths() {
   const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
   const all = Object.values(mods).flatMap((m: any) => (m.default || []));
-  return all.map((p: any) => ({ params: { bay: p.bay, id: p.id }, props: { product: p, all } }));
+  const visible = all.filter((p: any) => hasVerifiedProductImage(p));
+  return visible.map((p: any) => ({ params: { bay: p.bay, id: p.id }, props: { product: p, all: visible } }));
 }
 const { product, all } = Astro.props;
 const p = product;
-const hasRealGallery = Array.isArray(p.images) && p.images.length;
-const imgs: string[] = hasRealGallery ? p.images : [];
+const imgs: string[] = Array.isArray(p.images) && p.images.length ? p.images : (displayProductImage(p) ? [displayProductImage(p)!] : []);
+const hasRealGallery = imgs.length > 0;
 const bay = bays.find((b) => b.slug === p.bay)!;
 const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
 const amazonTag = (site as any).affiliate?.amazonTag;
@@ -84,20 +86,7 @@ const buyPulse = verdictScore >= 8.5
     <section class="gear-hero">
       <div class="gh-left">
         <figure class={`gh-img ${hasRealGallery ? '' : 'gh-spec-card'}`} data-lightbox={hasRealGallery ? true : undefined} data-images={JSON.stringify(imgs)}>
-          {hasRealGallery
-            ? <img id="gh-main" class="zoomable" src={imgs[0]} alt={`${p.brand} ${p.model}`} />
-            : <div class="gear-spec-art">
-                <div>
-                  <span>{p.brand}</span>
-                  <strong>{p.model}</strong>
-                  <em>{typeLabel || 'sim hardware'} · photo slot ready</em>
-                </div>
-                {specEntries.length > 0 && (
-                  <ul>
-                    {specEntries.slice(0, 5).map(([k, v]) => <li><b>{k}</b><small>{v}</small></li>)}
-                  </ul>
-                )}
-              </div>}
+          {hasRealGallery && <img id="gh-main" class="zoomable" src={imgs[0]} alt={`${p.brand} ${p.model}`} />}
           {p.rating?.overall && <span class="gh-score">{p.rating.overall}<small>/10</small></span>}
         </figure>
         {imgs.length > 1 && (
@@ -107,7 +96,7 @@ const buyPulse = verdictScore >= 8.5
             ))}
           </div>
         )}
-        <p class="gh-hint lbl">{hasRealGallery ? 'Click image to expand' : 'Licensed product photos wire in through Amazon / affiliate feeds'}</p>
+        <p class="gh-hint lbl">Click image to expand</p>
         <script>
           (() => {
             const main = document.getElementById('gh-main') as HTMLImageElement | null;
@@ -212,7 +201,7 @@ const buyPulse = verdictScore >= 8.5
         <div class="card-grid">
           {guides.map((a: any) => (
             <a class="card" href={`/${a.data.bay}/${guideSlug(a)}`}>
-              <div class="cimg">{a.data.heroImage ? <img src={a.data.heroImage} alt={a.data.heroAlt || a.data.title} loading="lazy" /> : <div class="cimg-fallback"></div>}</div>
+              {a.data.heroImage && <div class="cimg"><img src={a.data.heroImage} alt={a.data.heroAlt || a.data.title} loading="lazy" /></div>}
               <div class="cbody">
                 <span class="ctype">{a.data.type.replace(/-/g, ' ')}</span>
                 <h3 style="font-size:1.05rem">{a.data.title}</h3>
@@ -234,16 +223,6 @@ const buyPulse = verdictScore >= 8.5
   .gh-hint { margin-top: 8px; color: var(--dimmer); font-size: .6rem; }
   .gh-score { position: absolute; top: 14px; right: 14px; font-family: var(--font-disp); font-weight: 800; font-size: 1.5rem; color: var(--accent); background: color-mix(in srgb, #ffffff 82%, transparent); border: 1px solid var(--accent); border-radius: 12px; padding: 6px 12px; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); box-shadow: 0 8px 22px rgba(15,23,42,.12); }
   .gh-score small { font-size: .8rem; color: var(--dim); }
-  .gh-spec-card { background: linear-gradient(135deg, #fff, var(--panel2)); display:flex; align-items:center; justify-content:center; }
-  .gh-spec-card::before { content:""; position:absolute; inset:0; opacity:.55; background-image:linear-gradient(var(--line) 1px, transparent 1px), linear-gradient(90deg, var(--line) 1px, transparent 1px); background-size:42px 42px; }
-  .gear-spec-art { position:relative; z-index:1; display:grid; grid-template-columns: .9fr 1.1fr; gap:28px; align-items:center; padding:34px; width:100%; }
-  .gear-spec-art span { font-family:var(--font-mono); color:var(--accent); letter-spacing:.12em; text-transform:uppercase; font-size:.72rem; font-weight:800; }
-  .gear-spec-art strong { display:block; font-family:var(--font-disp); font-size:clamp(2.3rem,5vw,4rem); line-height:.95; color:var(--txt); max-width:10ch; margin:10px 0; }
-  .gear-spec-art em { font-style:normal; color:var(--dim); font-family:var(--font-mono); letter-spacing:.06em; text-transform:uppercase; font-size:.68rem; }
-  .gear-spec-art ul { list-style:none; display:grid; gap:8px; margin:0; padding:0; }
-  .gear-spec-art li { display:flex; justify-content:space-between; gap:14px; align-items:baseline; border:1px solid var(--line); border-radius:10px; background:rgba(255,255,255,.78); padding:9px 11px; }
-  .gear-spec-art li b { font-family:var(--font-mono); color:var(--accent); font-size:.62rem; letter-spacing:.08em; text-transform:uppercase; }
-  .gear-spec-art li small { color:#334155; text-align:right; font-size:.78rem; }
   .gh-info h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 8px 0; }
   .gh-who { color: var(--dim); font-size: 1.05rem; }
   .gh-price { font-family: var(--font-disp); font-weight: 800; font-size: 1.6rem; color: var(--accent); margin-top: 12px; }
@@ -276,5 +255,5 @@ const buyPulse = verdictScore >= 8.5
   .review-pulse p { color: #475569; font-size: .84rem; line-height: 1.55; margin: 9px 0; }
   .review-pulse b { color: var(--txt); }
   .review-pulse a { display: inline-block; margin-top: 8px; font-family: var(--font-mono); font-size: .62rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
-  @media (max-width: 880px) { .gear-hero, .gear-body, .gear-spec-art { grid-template-columns: 1fr; } .proscons { grid-template-columns: 1fr; } }
+  @media (max-width: 880px) { .gear-hero, .gear-body { grid-template-columns: 1fr; } .proscons { grid-template-columns: 1fr; } }
 </style>

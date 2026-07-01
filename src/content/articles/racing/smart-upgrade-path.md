@@ -86,14 +86,14 @@ Goal: a platform that doesn't move when the base does.
 If you started on a wheel stand, direct-drive torque is already telling you about its weaknesses — the flex, the creep, the wobble under a hard kerb. **An 8020 aluminum-profile rig is the future-proof answer**: slotted aluminum extrusion that bolts together like industrial Lego, rigid, tool-free to adjust, and something you keep across every future base and pedal upgrade. Affordable picks like the GT Omega Prime Lite, Sim-Lab GT1 Pro, or Trak Racer TR80 do the job; the Sim-Lab P1X Pro waits at the high end. The full case is in [aluminum-profile vs foldable rigs](/racing/configurator) — but the short version is: buy the rig early enough that you only buy one.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Stage 3 rig</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Stage 3 rig</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum-profile rig" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">8020 rig · 80x40mm profile, 25Nm+</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X Pro</a></span>
     <p class="gp-why">The best-value way to stop buying rigs. The thick 80mm profile holds a flagship base with no flex at the wheel mount, so you carry this frame across every future base and pedal upgrade — the literal point of buying it early.</p>
     <span class="gp-price">~$499 (frame)</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Full review ▸</a>
+      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Full review ▸</a>
       <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
     </span>
   </div>

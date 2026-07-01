@@ -29,9 +29,9 @@ related:
 Here's the upgrade nobody puts on their wishlist and everybody underestimates: **what you bolt your wheel to.** You'll obsess over Nm and load cells and then mount the whole thing to a flexing desk that quietly throws half the feel in the bin. Direct drive made this question urgent — belt wheels were too weak to expose a wobbly mount, but a DD base will twist a cheap desk and smear your force feedback into mush. So before you spend another dollar on torque, let's settle desk vs wheel stand vs cockpit honestly, with the torque thresholds where each one actually fails.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/desk-clamp"><img src="/images/gear/racing/desk-clamp.jpg" alt="Generic desk clamp mount" loading="lazy"></a><figcaption>Desk clamp — entry only</figcaption></figure>
+  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a><figcaption>Entry cockpit — stable first step</figcaption></figure>
   <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a><figcaption>GT Omega Apex — entry cockpit</figcaption></figure>
-  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 rig" loading="lazy"></a><figcaption>Trak Racer TR80 — 8020</figcaption></figure>
+  <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro rig" loading="lazy"></a><figcaption>Sim-Lab P1-X Pro — 8020</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro rig" loading="lazy"></a><figcaption>Sim-Lab P1-X — high end</figcaption></figure>
 </div>
 
@@ -85,14 +85,14 @@ Move to a real cockpit when any of these are true:
 That last point is the whole argument for **8020 aluminum-profile rigs** — cockpits built from slotted extrusion that bolt together like industrial Lego. They're maximally rigid, infinitely adjustable, and crucially **future-proof**: you keep the frame across base swaps, pedal upgrades and seat changes instead of rebuying a stand that flexes the moment you go up a torque tier. Solid affordable entries (GT Omega, Sim-Lab, Trak Racer) start far cheaper than people assume, and they're the last rig most people buy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Best-value 8020</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Buy-once 8020</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum-profile rig" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">8020 rig · 80x40mm profile, 25Nm+</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X Pro</a></span>
     <p class="gp-why">The point where "buy once" actually starts. The thick 80mm profile carries a 17Nm Simucube or a 25Nm flagship with no perceptible flex at the wheel mount, so it deletes the desk's lift problem permanently. Frame only — add a seat — but it's the last rig most people buy.</p>
     <span class="gp-price">~$499 (frame)</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Full review ▸</a>
+      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Full review ▸</a>
       <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
     </span>
   </div>

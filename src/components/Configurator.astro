@@ -1,5 +1,6 @@
 ---
 import catalog from '../data/catalog-racing.json';
+import { hasVerifiedProductImage } from '../lib/productMedia';
 // Merge deep product data (image, summary, pros, gear link) into each catalog
 // item by id. Resilient glob so the build works before the data file exists.
 const prodMods = import.meta.glob('/src/data/products/racing.json', { eager: true });
@@ -7,7 +8,8 @@ const products = ((Object.values(prodMods)[0] as any)?.default || []) as any[];
 const pmap = Object.fromEntries(products.map((p) => [p.id, p]));
 const enrich = (arr: any[]) => arr.map((o) => {
   const p = pmap[o.id];
-  return p ? { ...o, image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3), gearId: p.id, prating: p.rating?.overall } : o;
+  if (!p || !hasVerifiedProductImage(p)) return { ...o, image: undefined, summary: undefined, pros: [], gearId: undefined, prating: undefined };
+  return { ...o, image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3), gearId: p.id, prating: p.rating?.overall };
 });
 const enriched = {
   ...catalog,

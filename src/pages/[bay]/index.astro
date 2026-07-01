@@ -12,6 +12,7 @@ import stats from '../../data/stat-lists.json';
 import signals from '../../data/research-signals.json';
 import photography from '../../data/photography.json';
 import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { hasVerifiedProductImage } from '../../lib/productMedia';
 const sentColor: Record<string, string> = { consensus: 'var(--cyan)', debate: 'var(--amber)', warning: 'var(--red)', tip: 'var(--green)' };
 const commItems = ((community as any)[Astro.props.bay.slug] || []) as any[];
 const bayStats = (stats as any[]).filter((s) => s.bay === Astro.props.bay.slug).slice(0, 4);
@@ -52,7 +53,7 @@ const buyUrl = (p: any) => p.amazonAsin
   ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
   : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
 const gearItems = allProducts
-  .filter((p) => p.bay === bay.slug)
+  .filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p))
   .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0))
   .slice(0, 12)
   .map((p, i) => ({

@@ -1,9 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
+import { hasVerifiedProductImage } from '../lib/productMedia';
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
 const index: Record<string, any> = {};
-all.forEach((p) => { index[`${p.bay}/${p.id}`] = { brand: p.brand, model: p.model, bay: p.bay, image: p.image, price: p.price, rating: p.rating?.overall || null }; });
+all.filter(hasVerifiedProductImage).forEach((p) => { index[`${p.bay}/${p.id}`] = { brand: p.brand, model: p.model, bay: p.bay, image: p.image, price: p.price, rating: p.rating?.overall || null }; });
 ---
 <Base title="My Garage — your saved sim gear" description="Save sim hardware to your Garage and share the list. A private, link-shareable shortlist across racing, flight, space, marine and golf." noindex={true}>
   <div class="wrap">

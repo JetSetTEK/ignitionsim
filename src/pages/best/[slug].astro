@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import lists from '../../data/stat-lists.json';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
+import { hasVerifiedProductImage } from '../../lib/productMedia';
 
 export async function getStaticPaths() {
   return (lists as any[]).map((list) => ({ params: { slug: list.slug }, props: { list } }));
@@ -13,7 +14,7 @@ const bay = bays.find((b) => b.slug === list.bay)!;
 const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(mods).flatMap((m: any) => (m.default || [])) as any[];
 const types = [list.type, ...(list.altTypes || [])];
-let items = all.filter((p) => p.bay === list.bay && types.includes(p.type));
+let items = all.filter((p) => p.bay === list.bay && types.includes(p.type) && hasVerifiedProductImage(p));
 if (list.priceMax) items = items.filter((p) => p.price && p.price <= list.priceMax);
 if (list.priceMin) items = items.filter((p) => p.price && p.price >= list.priceMin);
 const mv = (p: any) => list.sortBy === 'value' ? (p.rating?.value || 0) : list.sortBy === 'accuracy' ? (p.rating?.accuracy || 0) : list.sortBy.startsWith('price') ? (p.price || 0) : (p.rating?.overall || 0);

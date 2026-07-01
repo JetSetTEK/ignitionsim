@@ -1,10 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import site from '../../data/site.json';
+import { hasVerifiedProductImage } from '../../lib/productMedia';
 const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
 const brands = (((Object.values(brandMods)[0] as any)?.default) || []) as any[];
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
-const products = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
+const products = (Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[]).filter(hasVerifiedProductImage);
 const slugify = (s: string) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 const counts: Record<string, number> = {};
 products.forEach((p) => { const id = slugify(p.brand); counts[id] = (counts[id] || 0) + 1; });

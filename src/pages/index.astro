@@ -10,6 +10,7 @@ import bays from '../data/bays.json';
 import signals from '../data/research-signals.json';
 import photography from '../data/photography.json';
 import { isCertifiedArticle, sortNewestArticles } from '../lib/content';
+import { hasVerifiedProductImage } from '../lib/productMedia';
 
 const portalClass: Record<string, string> = {
   racing: 'p-racing', flight: 'p-flight', space: 'p-space', marine: 'p-marine', golf: 'p-golf',
@@ -36,14 +37,15 @@ const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Bool
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
-const brandCount = new Set(allProducts.map((p) => p.brand)).size;
+const verifiedProducts = allProducts.filter(hasVerifiedProductImage);
+const brandCount = new Set(verifiedProducts.map((p) => p.brand)).size;
 const buyUrl = (p: any) => p.amazonAsin
   ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
   : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
 const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 3000) / 1000;
 const productsByBay = new Map(bays.map((b) => [
   b.slug,
-  allProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
+  verifiedProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
 ]));
 const gearItem = (p: any, tag?: string) => ({
   href: `/${p.bay}/gear/${p.id}`,
@@ -123,14 +125,14 @@ const schema = [{
       </div>
       <figure class="hero-bench">
         <img src={heroPhoto?.src || '/images/hub/product-bench.jpg'} alt={heroPhoto?.alt || 'Real sim racing rig photo'} loading="eager" decoding="async" />
-        <figcaption>{heroPhoto ? <>Photo: <a href={heroPhoto.photoUrl} target="_blank" rel="noopener nofollow">{heroPhoto.by}</a> / {heroPhoto.source}. Component specs below are photo-ready until licensed product feeds are connected.</> : 'Real rig photos plus photo-ready component guidance.'}</figcaption>
+        <figcaption>{heroPhoto ? <>Photo: <a href={heroPhoto.photoUrl} target="_blank" rel="noopener nofollow">{heroPhoto.by}</a> / {heroPhoto.source}. Component benches below use verified product imagery.</> : 'Real rig photos plus verified component guidance.'}</figcaption>
       </figure>
     </section>
 
     <StatBand stats={[
       { value: 5, label: 'Sim disciplines' },
       { value: all.length, label: 'Practical guides' },
-      { value: allProducts.length, label: 'Gear pages' },
+      { value: verifiedProducts.length, label: 'Gear pages' },
       { value: brandCount, label: 'Brands decoded' },
       { value: 0, label: 'Sponsored verdicts' },
     ]} />
