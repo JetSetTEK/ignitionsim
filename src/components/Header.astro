@@ -14,8 +14,7 @@ const { activeNav } = Astro.props;
         <a href={`/${b.slug}`} aria-current={activeNav === b.slug ? 'page' : undefined}>{b.name}</a>
       ))}
       <a href="/guides" aria-current={activeNav === 'guides' ? 'page' : undefined}>Guides</a>
-      <a href="/drops" aria-current={activeNav === 'drops' ? 'page' : undefined}>Drops</a>
     </nav>
-    <a class="btn btn-ghost" href="/racing/configurator">▸ Build a Rig</a>
+    <a class="btn btn-ghost" href="/guides">▸ Start Here</a>
   </div>
 </header>

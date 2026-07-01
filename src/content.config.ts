@@ -22,6 +22,11 @@ const articles = defineCollection({
     excerpt: z.string().optional(),               // card teaser
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
+    goldStatus: z.enum(['certified', 'refresh', 'archived']).default('refresh'),
+    goldCertifiedDate: z.coerce.date().optional(),
+    sourceReviewDate: z.coerce.date().optional(),
+    revenueTier: z.enum(['A', 'B', 'C']).default('B'),
+    contentCluster: z.enum(['racing', 'golf', 'flight', 'space', 'marine', 'cross-sim']).optional(),
     readingTime: z.number().optional(),
     // FAQPage schema source — rendered EXPANDED on the page (never collapsed)
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),

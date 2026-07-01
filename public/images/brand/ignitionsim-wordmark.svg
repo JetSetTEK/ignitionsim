@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 116" role="img" aria-labelledby="title desc">
+  <title id="title">IgnitionSim wordmark</title>
+  <desc id="desc">IgnitionSim wordmark with the ignition hex mark.</desc>
+  <defs>
+    <linearGradient id="hexStroke" x1="14" y1="14" x2="86" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".65" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#FF5E1A"/>
+    </linearGradient>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="520" height="116" rx="18" fill="#0A0E17"/>
+  <g transform="translate(24 16)" filter="url(#glow)">
+    <polygon points="72 42 57 16.02 27 16.02 12 42 27 67.98 57 67.98"
+      fill="none" stroke="url(#hexStroke)" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M42 18 48 36 66 42 48 48 42 66 36 48 18 42 36 36Z" fill="#FF5E1A"/>
+    <circle cx="42" cy="42" r="4.2" fill="#FFF3E9"/>
+  </g>
+  <text x="116" y="69" fill="#E6EDF6" font-family="Saira, Inter, system-ui, sans-serif" font-size="42" font-weight="800" letter-spacing="1.5">IGNITION</text>
+  <text x="363" y="69" fill="#95A3B7" font-family="JetBrains Mono, monospace" font-size="27" font-weight="500" letter-spacing="8">SIM</text>
+</svg>

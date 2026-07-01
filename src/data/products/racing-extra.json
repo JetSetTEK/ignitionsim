@@ -306,5 +306,493 @@
       "note": "Sold on Amazon (model BK-GR-PRO) and at thebuttkicker.com; standard Amazon affiliate path applies."
     },
     "platforms": "PC"
+  },
+  {
+    "id": "simucube-activepedal-pro",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "Simucube",
+    "model": "ActivePedal Pro",
+    "price": 1849,
+    "priceNote": "starting price varies by bundle and region",
+    "image": "/images/gear/racing/simucube-activepedal-pro.jpg",
+    "summary": "The Simucube ActivePedal Pro is the reference active force-feedback pedal: a software-defined brake/throttle/clutch platform that can change pedal feel, travel, ABS vibration, traction-control effects, engine vibration and resistance curves without opening a spring stack. Simucube lists up to 110 kg of force, 5-74 mm of travel and Simucube Link connectivity with passive pedal ports. It is expensive, PC-focused and best justified for drivers who switch cars often, tune brake traces seriously or want the most refined active pedal feel available.",
+    "specs": {
+      "Pedals": "Single active pedal, brake/throttle/clutch configurable",
+      "Force range": "Up to 110 kg",
+      "Travel range": "5-74 mm",
+      "Effects": "ABS, TC, engine vibration, software-defined curves",
+      "Connection": "Simucube Link plus passive pedal ports",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Reference active-pedal refinement and profile control",
+      "Software changes replace spring/elastomer rebuilds",
+      "Can simulate ABS and other feedback through the pedal"
+    ],
+    "cons": [
+      "Extremely expensive compared with load-cell pedals",
+      "Best value requires tuning time and serious use",
+      "PC-focused and overkill for casual racers"
+    ],
+    "whoFor": "A high-end PC sim racer who changes cars often, cares about brake-trace consistency and wants the most refined active pedal path.",
+    "rating": {
+      "overall": 9.2,
+      "value": 6.5,
+      "build": 9.5,
+      "upgradeCeiling": 10,
+      "beginnerFriendly": 5
+    },
+    "faqs": [
+      {
+        "q": "Does the ActivePedal Pro replace a load-cell brake?",
+        "a": "Yes. It is an active force-feedback pedal that measures and generates pedal force through a software-defined system rather than relying on a traditional elastomer stack alone."
+      },
+      {
+        "q": "Is it worth it for casual racers?",
+        "a": "Usually no. It is best for serious PC racers who will actually use car profiles, brake tuning and active effects."
+      }
+    ],
+    "affiliate": {
+      "primary": "Simucube direct / specialty retailers",
+      "note": "Sold through Simucube and authorized sim-racing retailers; Amazon availability may vary."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "moza-mbooster-active-pedal",
+    "bay": "racing",
+    "type": "pedals",
+    "brand": "MOZA",
+    "model": "mBooster Active Pedal",
+    "price": 799,
+    "priceNote": "regular price; sale pricing varies",
+    "image": "/images/gear/racing/moza-mbooster-active-pedal.png",
+    "summary": "The MOZA mBooster Active Pedal is the value disruptor in active pedals, bringing servo-driven force feedback, ABS and traction-control effects, software-defined pedal curves and one-click profile changes far below Simucube pricing. MOZA lists dual 200 kg load-cell sensing, a 15-bit angle sensor, 270 W peak power and CRP2 ecosystem integration. It is the active pedal to consider if you want the tech without spending full Simucube money, but reviews and owner reports are more mixed on refinement than the price sheet suggests.",
+    "specs": {
+      "Pedals": "Single active pedal, brake/throttle/clutch configurable",
+      "Pressure sensor": "Dual 200 kg load cells",
+      "Angle sensor": "15-bit",
+      "Peak power": "270 W",
+      "Effects": "ABS, TC, engine vibration, G-force effects",
+      "Platforms": "PC"
+    },
+    "pros": [
+      "Far cheaper active-pedal entry than Simucube",
+      "Strong specs with dual load cells and servo force feedback",
+      "Integrates cleanly with MOZA CRP2 pedal ecosystem"
+    ],
+    "cons": [
+      "Refinement reports are mixed versus Simucube",
+      "Still expensive compared with excellent load-cell pedals",
+      "Active effects require tuning and software support"
+    ],
+    "whoFor": "A MOZA or PC sim racer who wants active-pedal adjustability and feedback at a less absurd price than the flagship active systems.",
+    "rating": {
+      "overall": 8.5,
+      "value": 8,
+      "build": 8.2,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 5.5
+    },
+    "faqs": [
+      {
+        "q": "Is the mBooster only a brake pedal?",
+        "a": "No. MOZA positions it as configurable for brake, throttle or clutch, though most buyers will use it as the brake."
+      },
+      {
+        "q": "Is it as refined as Simucube?",
+        "a": "Reviews and owner reports are split. It is much cheaper, but Simucube still carries the stronger refinement reputation."
+      }
+    ],
+    "affiliate": {
+      "primary": "MOZA direct / Amazon search",
+      "note": "Sold through MOZA and specialty sim retailers; use Amazon search when available."
+    },
+    "platforms": "PC"
+  },
+  {
+    "id": "samsung-odyssey-oled-g9-49",
+    "bay": "racing",
+    "type": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey OLED G9 49",
+    "price": 1199,
+    "priceNote": "street price varies widely by generation and sale",
+    "image": "/images/gear/racing/samsung-odyssey-oled-g9-49.jpg",
+    "summary": "The Samsung Odyssey OLED G9 is the flagship 49-inch 32:9 ultrawide path for sim racing: a 5120 x 1440 dual-QHD panel with a 240 Hz refresh rate, OLED contrast and a single-cable setup that avoids triple-monitor alignment. It does not give true side-window geometry like triples, but it delivers a huge horizontal view with far less calibration and fewer pixels than triple 1440p. It is the premium easy-mode display for racers who want one screen, high refresh and a cleaner rig.",
+    "specs": {
+      "Size": "49 in",
+      "Aspect ratio": "32:9",
+      "Resolution": "5120 x 1440",
+      "Refresh": "240 Hz",
+      "Panel": "OLED",
+      "Use": "Single ultrawide sim display"
+    },
+    "pros": [
+      "Huge single-panel horizontal view",
+      "Far easier than triple-monitor alignment",
+      "OLED contrast and high refresh rate"
+    ],
+    "cons": [
+      "Not true triple-screen side geometry",
+      "OLED burn-in habits matter for static HUDs",
+      "Premium price versus three budget 27-inch panels"
+    ],
+    "whoFor": "A sim racer who wants most of the triple-screen feeling without bezels, angle setup or triple rendering cost.",
+    "rating": {
+      "overall": 8.8,
+      "value": 7.5,
+      "build": 9,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Is a 49-inch ultrawide as good as triples?",
+        "a": "No. It is easier and cleaner, but triples can render side windows with more correct geometry and wider peripheral vision."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Samsung direct",
+      "note": "Widely sold through Amazon, Samsung and electronics retailers; verify exact generation before buying."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "logitech-rs50-system",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Logitech G",
+    "model": "RS50 System",
+    "price": 699,
+    "priceNote": "system price; base-only and platform variants vary",
+    "image": "/images/gear/racing/logitech-rs50-system.jpg",
+    "summary": "The Logitech G RS50 System is the current midrange console/PC direct-drive disruptor: an 8 Nm direct-drive base with TRUEFORCE, an integrated quick release, wheel hub and round wheel in the system bundle. Logitech positions it below the 11 Nm G PRO but above gear/belt wheels, with separate ecosystem pieces and platform-specific compatibility paths. It is the product console buyers should check before defaulting to older GT DD Pro or G PRO advice.",
+    "specs": {
+      "Torque": "8 Nm peak",
+      "Feedback": "TRUEFORCE direct drive",
+      "Bundle": "RS50 base, wheel hub, round wheel",
+      "Pedals": "RS Pedals sold separately in some bundles",
+      "Compatibility": "PC / PlayStation / Xbox variants",
+      "Use": "Midrange console and PC direct drive"
+    },
+    "pros": [
+      "Modern 8 Nm console-capable direct-drive path",
+      "TRUEFORCE support and modular Logitech ecosystem",
+      "More affordable than Logitech G PRO"
+    ],
+    "cons": [
+      "Platform variant must be checked carefully",
+      "Pedal bundle/package can vary",
+      "Ecosystem still smaller than Fanatec"
+    ],
+    "whoFor": "A console or PC racer who wants modern 8 Nm direct drive without jumping to the Logitech G PRO price tier.",
+    "rating": {
+      "overall": 8.6,
+      "value": 8.5,
+      "build": 8.5,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Does the RS50 work on both Xbox and PlayStation?",
+        "a": "Logitech sells platform-specific compatibility paths. Verify the exact SKU before buying because console compatibility is not something to infer from the name."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Logitech direct",
+      "note": "Sold through Logitech and major retailers; verify platform-specific SKU."
+    },
+    "platforms": "PC / PlayStation / Xbox variants"
+  },
+  {
+    "id": "thrustmaster-t598",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Thrustmaster",
+    "model": "T598",
+    "price": 499,
+    "priceNote": "bundle price varies by retailer",
+    "image": "/images/gear/racing/thrustmaster-t598.webp",
+    "summary": "The Thrustmaster T598 is the PlayStation/PC direct-drive gateway: a Direct Axial Drive wheel with 5 Nm of constant torque, overshoot capability, HARMONY high-frequency effects, Race Dash display, detachable 30 cm wheel rim and included Raceline Pedals LTE. It is not the strongest console DD, but the bundle price and PS5/PS4/PC compatibility make it a very real alternative to Fanatec's GT DD Pro entry path.",
+    "specs": {
+      "Torque": "5 Nm constant, overshoot effects",
+      "Motor": "Direct Axial Drive",
+      "Wheel": "11.8 in / 30 cm detachable rim",
+      "Display": "Race Dash",
+      "Pedals": "Raceline Pedals LTE included",
+      "Compatibility": "PS5 / PS4 / PC"
+    },
+    "pros": [
+      "Affordable PlayStation direct-drive bundle",
+      "Included pedals and wheel make it simple to start",
+      "Axial motor has smooth low-cogging feel"
+    ],
+    "cons": [
+      "Lower constant torque than 8-11 Nm options",
+      "Bundled rim is often the first thing enthusiasts outgrow",
+      "Thrustmaster ecosystem path differs from Fanatec/Logitech"
+    ],
+    "whoFor": "A PS5/PS4 racer who wants an affordable direct-drive bundle and does not need 8-15 Nm right away.",
+    "rating": {
+      "overall": 8.1,
+      "value": 8.7,
+      "build": 7.6,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 8.5
+    },
+    "faqs": [
+      {
+        "q": "Is the T598 a real direct-drive wheel?",
+        "a": "Yes. Thrustmaster uses a Direct Axial Drive motor with 5 Nm constant torque and overshoot effects."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Thrustmaster direct",
+      "note": "Sold through Thrustmaster and major retailers."
+    },
+    "platforms": "PS5 / PS4 / PC"
+  },
+  {
+    "id": "moza-r3-xbox-bundle",
+    "bay": "racing",
+    "type": "base",
+    "brand": "MOZA",
+    "model": "R3 Racing Bundle for Xbox",
+    "price": 319,
+    "priceNote": "sale price varies; regular price often higher",
+    "image": "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "summary": "The MOZA R3 Xbox bundle is the budget direct-drive door for Xbox and PC: a 3.9 Nm DD servo base, Xbox-licensed ES wheel, SR-P Lite pedals and table clamp. It is not powerful, but it is officially Xbox-compatible and dramatically cleaner than gear-driven entry wheels. For Xbox racers who want direct drive without spending Logitech/Fanatec money, it is the obvious first shortlist.",
+    "specs": {
+      "Torque": "3.9 Nm",
+      "Encoder": "15-bit",
+      "Bundle": "R3 base, ES wheel, SR-P Lite pedals, table clamp",
+      "License": "Official Xbox license",
+      "Software": "MOZA Pit House / mobile app support",
+      "Compatibility": "Xbox Series X|S / Xbox One / PC"
+    },
+    "pros": [
+      "Cheapest credible Xbox direct-drive bundle",
+      "Complete package with wheel, pedals and clamp",
+      "MOZA ecosystem upgrade path"
+    ],
+    "cons": [
+      "3.9 Nm torque ceiling is modest",
+      "Entry pedals invite a load-cell upgrade later",
+      "Not PlayStation-compatible"
+    ],
+    "whoFor": "An Xbox racer leaving Logitech G920/G923 territory who wants true direct drive for the least money.",
+    "rating": {
+      "overall": 8.2,
+      "value": 9,
+      "build": 8,
+      "upgradeCeiling": 7,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Is the MOZA R3 enough torque?",
+        "a": "It is enough to feel the direct-drive difference, but it is not a long-term torque ceiling for serious PC racers."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / MOZA direct",
+      "note": "Sold through MOZA, Amazon and sim racing retailers."
+    },
+    "platforms": "Xbox / PC"
+  },
+  {
+    "id": "fanatec-clubsport-dd-plus",
+    "bay": "racing",
+    "type": "base",
+    "brand": "Fanatec",
+    "model": "ClubSport DD+",
+    "price": 999,
+    "priceNote": "base price varies by bundle and sale",
+    "image": "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "summary": "The Fanatec ClubSport DD+ is the premium PlayStation direct-drive base: 15 Nm of sustained torque, official PS5/PS4 support, PC support, QR2, FullForce support and Fanatec ecosystem compatibility. Fanatec's Xbox compatibility model means Xbox support can depend on pairing with an Xbox-compatible Fanatec wheel, so PlayStation buyers should treat it as the premium PS/PC base first and Xbox-capable only when configured correctly.",
+    "specs": {
+      "Torque": "15 Nm sustained",
+      "Feedback": "FullForce / FluxBarrier",
+      "Quick release": "QR2",
+      "Cooling": "Passive",
+      "Compatibility": "PS5 / PS4 / PC; Xbox with compatible Fanatec wheel",
+      "Use": "Premium console/PC base"
+    },
+    "pros": [
+      "Strongest mainstream PlayStation DD base",
+      "15 Nm sustained torque with QR2",
+      "Deep Fanatec ecosystem"
+    ],
+    "cons": [
+      "Expensive before wheel and pedals",
+      "Xbox compatibility requires the correct wheel setup",
+      "Overkill for casual console racers"
+    ],
+    "whoFor": "A PlayStation-first racer building a serious rig who wants more headroom than GT DD Pro or RS50.",
+    "rating": {
+      "overall": 8.9,
+      "value": 7.2,
+      "build": 9,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 6
+    },
+    "faqs": [
+      {
+        "q": "Is the ClubSport DD+ Xbox compatible?",
+        "a": "Fanatec Xbox compatibility is wheel-dependent. Use an Xbox-compatible Fanatec steering wheel if you need Xbox support."
+      }
+    ],
+    "affiliate": {
+      "primary": "Fanatec direct / Amazon search",
+      "note": "Sold through Fanatec and some retailer channels; verify bundle and platform before buying."
+    },
+    "platforms": "PS5 / PS4 / PC / Xbox with compatible wheel"
+  },
+  {
+    "id": "asus-tuf-vg27aq",
+    "bay": "racing",
+    "type": "monitor",
+    "brand": "ASUS",
+    "model": "TUF Gaming VG27AQ",
+    "price": 249,
+    "priceNote": "approx street price; triple builds need three displays",
+    "image": "/images/gear/racing/asus-tuf-vg27aq.png",
+    "summary": "The ASUS TUF Gaming VG27AQ is a practical 27-inch triple-monitor candidate: 2560 x 1440 resolution, high refresh rate, adaptive sync support and a price low enough that buying three makes sense. It is not the newest OLED showpiece, but triple 27-inch 1440p remains one of the best sim-racing formats because the side screens can be angled for correct FOV and traffic awareness.",
+    "specs": {
+      "Size": "27 in",
+      "Aspect ratio": "16:9",
+      "Resolution": "2560 x 1440",
+      "Refresh": "Up to 165 Hz",
+      "Panel": "IPS",
+      "Use": "Triple-monitor builds"
+    },
+    "pros": [
+      "Affordable path to triple 1440p",
+      "Good refresh and adaptive sync support",
+      "Common size for cockpit monitor stands"
+    ],
+    "cons": [
+      "Three panels demand more GPU and space",
+      "Bezels and angle setup take work",
+      "Not as clean as a single ultrawide"
+    ],
+    "whoFor": "A racer building triples who wants proven 27-inch 1440p panels rather than one giant ultrawide.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8.8,
+      "build": 8,
+      "upgradeCeiling": 8,
+      "beginnerFriendly": 7
+    },
+    "faqs": [
+      {
+        "q": "Why use 27-inch monitors for triples?",
+        "a": "They are affordable, easy to mount, and large enough for a correct field of view without the rig becoming enormous."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / ASUS direct",
+      "note": "Commonly stocked at Amazon and electronics retailers."
+    },
+    "platforms": "PC / console"
+  },
+  {
+    "id": "meta-quest-3",
+    "bay": "racing",
+    "type": "vr",
+    "brand": "Meta",
+    "model": "Quest 3",
+    "price": 499,
+    "priceNote": "depends on storage and bundle",
+    "image": "/images/gear/racing/meta-quest-3.jpg",
+    "summary": "The Meta Quest 3 is the mainstream VR headset choice for sim racers who want low entry cost, standalone flexibility and PC VR support through Link, Air Link or Steam Link. Its pancake lenses are a major comfort and clarity upgrade over older budget headsets. It is not the highest-resolution PCVR headset, but it is widely available, relatively affordable and good enough to prove whether VR sim racing fits your eyes, stomach and PC.",
+    "specs": {
+      "Type": "Standalone plus PC VR",
+      "Display": "2064 x 2208 pixels per eye",
+      "Lenses": "Pancake",
+      "Refresh": "Up to 120 Hz",
+      "Connection": "USB-C Link / Air Link / Steam Link",
+      "Use": "Mainstream VR sim racing"
+    },
+    "pros": [
+      "Affordable VR entry with strong lenses",
+      "Works standalone and with PC VR",
+      "Easy to resell or repurpose if VR is not for you"
+    ],
+    "cons": [
+      "Compression/latency setup matters for PC VR",
+      "Battery, strap and comfort upgrades may add cost",
+      "Not as sharp as high-end PCVR headsets"
+    ],
+    "whoFor": "A sim racer testing VR seriously without jumping straight into premium PCVR pricing.",
+    "rating": {
+      "overall": 8.4,
+      "value": 8.5,
+      "build": 8,
+      "upgradeCeiling": 7.5,
+      "beginnerFriendly": 8
+    },
+    "faqs": [
+      {
+        "q": "Is Quest 3 good enough for sim racing?",
+        "a": "Yes, if your PC and Link/Air Link setup are tuned well. It is the mainstream gateway, not the ultimate clarity headset."
+      }
+    ],
+    "affiliate": {
+      "primary": "Amazon / Meta direct",
+      "note": "Widely sold at Amazon, Meta and major electronics retailers."
+    },
+    "platforms": "PC / standalone"
+  },
+  {
+    "id": "pimax-crystal-light",
+    "bay": "racing",
+    "type": "vr",
+    "brand": "Pimax",
+    "model": "Crystal Light",
+    "price": 899,
+    "priceNote": "configuration and payment model vary",
+    "image": "/images/gear/racing/pimax-crystal-light.png",
+    "summary": "The Pimax Crystal Light is the high-clarity PCVR path many sim racers watch because distant braking boards, apexes and dashboards need resolution. It is more specialized and demanding than Quest 3, but that is the point: it targets seated sim users who care more about sharpness and field-of-view feel than standalone convenience. Budget GPU headroom before buying.",
+    "specs": {
+      "Type": "PCVR headset",
+      "Resolution": "High-resolution QLED panels",
+      "Tracking": "Inside-out",
+      "Use": "High-clarity seated sim racing",
+      "Connection": "PC tethered",
+      "GPU demand": "High"
+    },
+    "pros": [
+      "Stronger clarity target than mainstream standalone VR",
+      "Built for serious PCVR users",
+      "Better fit for seated sim rigs than casual mixed-use headsets"
+    ],
+    "cons": [
+      "Requires a strong PC",
+      "More setup and support risk than Quest",
+      "Price and configuration can be confusing"
+    ],
+    "whoFor": "A sim racer who already knows they love VR and wants more PCVR clarity for cockpits, apexes and braking boards.",
+    "rating": {
+      "overall": 8.6,
+      "value": 7.3,
+      "build": 8,
+      "upgradeCeiling": 9,
+      "beginnerFriendly": 5.5
+    },
+    "faqs": [
+      {
+        "q": "Should a first-time VR racer buy Crystal Light?",
+        "a": "Usually no. Try a mainstream headset first unless you already know VR comfort and PCVR setup work for you."
+      }
+    ],
+    "affiliate": {
+      "primary": "Pimax direct / Amazon search",
+      "note": "Sold through Pimax and occasionally Amazon; check the exact package and payment terms."
+    },
+    "platforms": "PC"
   }
 ]

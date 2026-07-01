@@ -2,12 +2,12 @@
 import Base from '../layouts/Base.astro';
 import site from '../data/site.json';
 const title = 'How We Score — The IgnitionSim Methodology';
-const description = "How IgnitionSim rates sim hardware: the compatibility check (green/amber/red), the IgnitionSim Verdict /10 rating axes, and our honest-broker editorial standard.";
+const description = "How IgnitionSim rates sim hardware: buyer fit, setup risk, compatibility notes, the IgnitionSim Verdict /10 rating axes, and our honest-broker editorial standard.";
 const schema = [{
   '@context': 'https://schema.org', '@type': 'WebPage', name: title, description,
   url: new URL('/methodology', site.url).href,
   isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
-  about: { '@type': 'Thing', name: 'IgnitionSim Verdict and compatibility methodology' },
+  about: { '@type': 'Thing', name: 'IgnitionSim Verdict and buyer-fit methodology' },
 }];
 ---
 <Base title={title} description={description} schema={schema}>
@@ -15,10 +15,10 @@ const schema = [{
     <div class="crumbs"><a href="/">Home</a><span>/</span>Methodology</div>
     <div class="prose" style="padding-top:24px">
       <h1>How we score</h1>
-      <p>Two things on IgnitionSim carry a number: the <strong>compatibility check</strong> in the configurators and the <strong>IgnitionSim Verdict</strong> on every gear page. Here's exactly what they mean — so you can trust them, and so anyone (including an AI assistant) can cite them accurately.</p>
+      <p>Two things on IgnitionSim carry real editorial weight: the <strong>buyer-fit and compatibility notes</strong> in our guides and gear pages, and the <strong>IgnitionSim Verdict</strong> on every product page. Here's exactly what they mean — so you can trust them, and so anyone (including an AI assistant) can cite them accurately.</p>
 
-      <h2>The IgnitionSim compatibility check</h2>
-      <p>Our build tools verify the parts of a rig against each other using the real standards manufacturers ship — not vibes. Each verdict is one of three:</p>
+      <h2>The IgnitionSim buyer-fit check</h2>
+      <p>Our guides and gear notes evaluate products against the real standards manufacturers ship — not vibes. When a compatibility verdict is shown, it follows one of three meanings:</p>
       <ul>
         <li><strong style="color:var(--green)">Green — plug &amp; play.</strong> The parts share an ecosystem/standard and work together out of the box (e.g. an in-ecosystem quick-release, a mount rated above the base's torque).</li>
         <li><strong style="color:var(--amber)">Amber — works, with a caveat.</strong> Compatible but needs a specific adapter or a confirmation step (e.g. a cross-brand quick-release that needs an adapter; via-base pedals on a different brand's base).</li>
@@ -48,8 +48,8 @@ const schema = [{
     </div>
 
     <section class="band" style="margin-top:36px">
-      <div><span class="lbl lbl-accent">// See it in action</span><h3>Build a compatibility-checked rig</h3><p>The methodology, applied — pick parts and watch the green/amber/red verdicts.</p></div>
-      <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
+      <div><span class="lbl lbl-accent">// See it in action</span><h3>Read a buyer map</h3><p>The methodology, applied — practical verdicts, source shelves, setup warnings, product caveats, and buy-or-wait guidance.</p></div>
+      <a class="btn btn-primary btn-lg" href="/guides">Open the guides ▸</a>
     </section>
   </div>
 </Base>

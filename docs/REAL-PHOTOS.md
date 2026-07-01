@@ -1,5 +1,15 @@
 # Real Photos — how we fill IgnitionSim with licensed imagery
 
+This file supports the broader publishing rules in `docs/GOLD-STANDARD-IGNITIONSIM.md`.
+
+## Gold standard going forward
+- Physical rigs, components, boxes, cockpits, launch monitors, yokes, wheels, sticks, pedals, enclosures, and bridge controls should be shown with real product photography, licensed manufacturer/media-kit imagery, Amazon Associates/SiteStripe imagery, affiliate-feed imagery, or photos we own.
+- AI-generated imagery is only acceptable for abstract backgrounds, diagrams, non-product concept art, or placeholder mood pieces that cannot be mistaken for a real component. It should not be used to show a rig or product a builder is trying to buy.
+- Product thumbnails, galleries, gear rails, configurator option photos, and article “parts bench” panels should use `object-fit: contain` unless the image is an editorial collage or lifestyle hero. Builders need to inspect shape, ports, mounts, knobs, and scale.
+- Hard review claims need a source and date. If Amazon or seller star ratings are not captured and dated, link the reader to the live review page instead of publishing a stale number.
+- Community claims should be written as pattern reads in our own voice, with the source thread, subreddit, forum, or search linked where possible. Do not paste long forum/Reddit quotes into commercial pages unless we have explicit permission and a clear editorial reason.
+- Every major guide should expose: fast buy verdict, warnings, setup tax/weekend-killer, source shelf, product-photo bench, live seller-review checks, and relevant internal links.
+
 The whole visual system is built and live: framed galleries, click-to-expand **lightbox**,
 thumbnail **rotators**, and `images[]` on every product. It just needs *licensed* photos.
 We never scrape/re-host copyrighted manufacturer or forum/Reddit photos onto the commercial

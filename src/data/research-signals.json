@@ -1,0 +1,107 @@
+{
+  "racing": {
+    "buyFast": "For most new sim racers, the fast answer is a mid-torque direct-drive bundle plus load-cell braking and a mount that will not flex. Torque is fun; braking consistency and rigidity are what make the setup feel expensive.",
+    "watchOut": "Do not put a strong direct-drive base on a wobbly desk and then blame the wheel. Budget the stand or cockpit in the same cart.",
+    "weekendKiller": "Firmware, wheel profiles, pedal calibration, and FFB tuning can eat the first evening. Treat software setup as part of the build, not an afterthought.",
+    "waitFor": "Wait if the only upgrade path you can afford locks you into rims, pedals, or mounts you already know you will replace.",
+    "officialSources": [
+      { "label": "MOZA R12 specs", "url": "https://mozaracing.com/products/r12-wheel-base" },
+      { "label": "Logitech G PRO Racing Wheel", "url": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html" },
+      { "label": "ButtKicker Gamer PLUS", "url": "https://thebuttkicker.com/products/buttkicker-gamer-plus" },
+      { "label": "SimHub telemetry software", "url": "https://www.simhubdash.com/" }
+    ],
+    "communitySources": [
+      { "label": "r/simracing buying guide", "url": "https://www.reddit.com/r/simracing/wiki/buyingguide/" },
+      { "label": "r/simracing build discussions", "url": "https://www.reddit.com/r/simracing/search/?q=build%20rig&restrict_sr=1&sort=top" }
+    ],
+    "surpriseRigGames": [
+      "Euro Truck Simulator 2 and American Truck Simulator turn a wheel, shifter, head tracking, and button deck into a brilliant long-haul machine.",
+      "BeamNG.drive rewards pedals, shifters, and bass shakers because the crash and suspension telemetry makes a cheap rig feel alive.",
+      "SnowRunner is not a racing sim, but a wheel and tactile setup can make mud, winching, and low-speed traction oddly hypnotic."
+    ]
+  },
+  "flight": {
+    "buyFast": "The fastest satisfying flight setup is yoke or stick, throttle, rudder pedals, and head tracking. Panels are dessert; physical power, yaw, and viewpoint control are dinner.",
+    "watchOut": "USB power and hub layout matter more than glamorous panel photos. Multi-panel setups fail in boring ways when everything is hanging off a cheap unpowered hub.",
+    "weekendKiller": "Axis curves, sensitivity, reverse thrust bindings, and per-aircraft profiles can burn time. Save profiles once they work.",
+    "waitFor": "Wait on expensive force-feedback yokes unless you know the sim and aircraft you fly support it well enough to justify the cost.",
+    "officialSources": [
+      { "label": "Honeycomb Alpha controls", "url": "https://flyhoneycomb.com/products/alpha-flight-controls" },
+      { "label": "Honeycomb Bravo throttle", "url": "https://flyhoneycomb.com/products/bravo-throttle-quadrant" },
+      { "label": "TrackIR 5", "url": "https://www.trackir.com/trackir5/" },
+      { "label": "Tobii Eye Tracker 5", "url": "https://gaming.tobii.com/product/eye-tracker-5/" }
+    ],
+    "communitySources": [
+      { "label": "r/flightsim hardware searches", "url": "https://www.reddit.com/r/flightsim/search/?q=hardware%20yoke%20throttle%20rudder&restrict_sr=1&sort=top" },
+      { "label": "r/hotas hardware discussions", "url": "https://www.reddit.com/r/hotas/search/?q=MSFS%20hardware&restrict_sr=1&sort=top" }
+    ],
+    "surpriseRigGames": [
+      "Helicopter sims make pedals and a collective feel like entirely different hardware, not just accessories.",
+      "Truck and farm sims can steal flight throttles and panels for satisfying machinery controls when you map them deliberately.",
+      "Space sims can reuse sticks and head tracking, but they usually want more buttons and often a second stick."
+    ]
+  },
+  "space": {
+    "buyFast": "For Star Citizen and Elite, dual-stick HOSAS is the fast path if you dogfight or strafe heavily. HOTAS is still comfortable for hauling, exploration, and big-ship flying.",
+    "watchOut": "The real cost is not only sticks. Mounts, USB routing, extra buttons, and a saved binding profile are what make the setup usable after the first wow moment.",
+    "weekendKiller": "Binding six degrees of freedom plus targeting, power, mining, and camera layers can eat a night. Screenshot and export your bindings.",
+    "waitFor": "Wait on boutique metal controls if you have not decided whether you are a HOSAS pilot, HOTAS pilot, or gamepad-plus-keyboard pilot.",
+    "officialSources": [
+      { "label": "VKB Gladiator NXT EVO Space Combat", "url": "https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition" },
+      { "label": "VIRPIL Constellation Alpha", "url": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html" },
+      { "label": "WinWing Ursa Minor", "url": "https://winwingsim.com/view/goods-details.html?id=557" },
+      { "label": "Elgato Stream Deck XL", "url": "https://www.elgato.com/us/en/p/stream-deck-xl" }
+    ],
+    "communitySources": [
+      { "label": "r/hotas buying questions", "url": "https://www.reddit.com/r/hotas/search/?q=Star%20Citizen%20HOSAS%20VKB%20Virpil&restrict_sr=1&sort=top" },
+      { "label": "r/starcitizen control setup searches", "url": "https://www.reddit.com/r/starcitizen/search/?q=HOSAS%20setup&restrict_sr=1&sort=top" }
+    ],
+    "surpriseRigGames": [
+      "Mech games can feel wild on sticks and pedals if you are willing to map torso, legs, and weapons like a cockpit.",
+      "Survival horror is experimental but promising with tactile bass feedback, head tracking, and a Stream Deck for diegetic controls.",
+      "MMOs are not natural cockpit games, but a button deck plus pedals can make ability layers and push-to-talk feel like a command station."
+    ]
+  },
+  "golf": {
+    "buyFast": "Measure ceiling height, room depth, and hitting width before shopping launch monitors. The monitor must fit the room, not the other way around.",
+    "watchOut": "Radar monitors need space behind the ball and ball flight in front. Photometric units are often safer in garages and basements.",
+    "weekendKiller": "Projector throw, screen tension, turf height, tee position, and software subscriptions are the details that turn a simple purchase into a weekend project.",
+    "waitFor": "Wait if your ceiling forces you into half swings. A premium launch monitor cannot fix a room that physically will not let you swing.",
+    "officialSources": [
+      { "label": "Garmin Approach R50", "url": "https://www.garmin.com/en-US/p/972606" },
+      { "label": "Bushnell Launch Pro", "url": "https://www.bushnellgolf.com/products/launch-monitors/launch-pro/" },
+      { "label": "Foresight GC3", "url": "https://www.foresightsports.com/products/gc3" },
+      { "label": "SkyTrak launch monitors", "url": "https://skytrakgolf.com/" }
+    ],
+    "communitySources": [
+      { "label": "r/Golfsimulator planning threads", "url": "https://www.reddit.com/r/Golfsimulator/search/?q=room%20size%20ceiling%20height&restrict_sr=1&sort=top" },
+      { "label": "Golf Simulator Forum", "url": "https://golfsimulatorforum.com/" }
+    ],
+    "surpriseRigGames": [
+      "A golf bay can double as a family sports room if the PC, projector, and screen are chosen with multi-use gaming in mind.",
+      "Putting practice gets much better when the mat surface and camera placement are treated as part of the simulator, not an accessory afterthought.",
+      "Rhythm games and party games become surprisingly good in a projector bay, but protect the screen and keep clubs out of reach."
+    ]
+  },
+  "marine": {
+    "buyFast": "Marine sim buyers should start with software support, then map controls around it. A used racing wheel, throttle quadrant, and button board often beat hunting for a mythical off-the-shelf ship console.",
+    "watchOut": "Expect mapping work. Many marine sims do not expose every axis and switch the way racing and flight sims do.",
+    "weekendKiller": "DIY button boxes, HID boards, and bridge layouts are satisfying but fussy. Label every wire and save every profile.",
+    "waitFor": "Wait on premium bridge hardware until you know your chosen sim supports the axes and commands you want.",
+    "officialSources": [
+      { "label": "Leo Bodnar BU0836A board", "url": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" },
+      { "label": "Logitech G923 wheel", "url": "https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html" },
+      { "label": "Arduino Leonardo", "url": "https://docs.arduino.cc/hardware/leonardo/" },
+      { "label": "Bridge Command", "url": "https://www.bridgecommand.co.uk/" }
+    ],
+    "communitySources": [
+      { "label": "Ship simulator hardware searches", "url": "https://www.reddit.com/search/?q=ship%20simulator%20hardware%20controls" },
+      { "label": "DIY controller projects", "url": "https://www.reddit.com/r/hotas/search/?q=DIY%20button%20box&restrict_sr=1&sort=top" }
+    ],
+    "surpriseRigGames": [
+      "Train sims are a natural cousin for throttle levers and button panels.",
+      "Farming and construction sims can use a marine-style bridge panel as a general machinery console.",
+      "Slow survival games can become weirdly immersive with mapped lighting, radio, and environmental controls."
+    ]
+  }
+}

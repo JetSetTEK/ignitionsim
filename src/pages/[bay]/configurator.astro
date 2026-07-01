@@ -31,7 +31,7 @@ const schema = [
   },
 ];
 ---
-<Base title={title} description={description} bay={bay.slug} activeNav={bay.slug} schema={schema} image={`/images/${bay.slug}/hero.jpg`}>
+<Base title={title} description={description} bay={bay.slug} activeNav={bay.slug} schema={schema} image={`/images/${bay.slug}/hero.jpg`} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${bay.slug}`}>{bay.name}</a><span>/</span>Builder</div>
     <section class="hero" style="padding:36px 0 8px;text-align:left">

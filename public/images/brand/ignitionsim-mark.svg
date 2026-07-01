@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">IgnitionSim mark</title>
+  <desc id="desc">A machined hexagon with an ember ignition spark in the center.</desc>
+  <defs>
+    <radialGradient id="emberGlow" cx="50%" cy="50%" r="56%">
+      <stop offset="0" stop-color="#FF5E1A" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#FF5E1A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hexStroke" x1="10" y1="8" x2="86" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".55" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#FF5E1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="#0A0E17"/>
+  <circle cx="48" cy="48" r="39" fill="url(#emberGlow)"/>
+  <polygon points="82 48 65 18.56 31 18.56 14 48 31 77.44 65 77.44"
+    fill="none" stroke="url(#hexStroke)" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M48 20 55 41 76 48 55 55 48 76 41 55 20 48 41 41Z" fill="#FF5E1A"/>
+  <circle cx="48" cy="48" r="5.5" fill="#FFF3E9"/>
+</svg>

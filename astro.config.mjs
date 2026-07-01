@@ -13,6 +13,7 @@ try {
     for (const f of readdirSync(dir)) {
       if (!f.endsWith('.md')) continue;
       const head = readFileSync(join(dir, f), 'utf8').slice(0, 900);
+      if (!/goldStatus:\s*["']?certified["']?/.test(head)) continue;
       const upd = (head.match(/updatedDate:\s*"?([0-9-]+)/) || [])[1];
       const pub = (head.match(/publishDate:\s*"?([0-9-]+)/) || [])[1];
       const d = upd || pub;
@@ -28,7 +29,20 @@ export default defineConfig({
   trailingSlash: 'ignore',
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/_'),
+      filter: (page) => {
+        const path = new URL(page).pathname.replace(/\/$/, '') || '/';
+        if (page.includes('/_')) return false;
+        return ![
+          '/drops',
+          '/alerts',
+          '/garage',
+          '/racing/configurator',
+          '/flight/configurator',
+          '/space/configurator',
+          '/marine/configurator',
+          '/golf/configurator',
+        ].includes(path);
+      },
       serialize(item) {
         const path = new URL(item.url).pathname.replace(/\/$/, '');
         item.lastmod = dateMap[path] || BUILD_ISO;

@@ -16,10 +16,10 @@ These unlock **real photography across the whole site immediately.**
 ## 💳 Reusable application answers (paste into every form)
 - **Site name:** IgnitionSim
 - **URL:** https://ignitionsim.com
-- **What the site is:** "Independent, engineer-minded review and buying-guide site for simulation hardware — sim racing, flight, space, marine and golf. Features a compatibility-checked rig configurator, honest gear reviews, and deep per-product pages."
+- **What the site is:** "Independent, engineer-minded review and buying-guide site for simulation hardware — sim racing, flight, space, marine and golf. Features real-photo buyer maps, honest gear reviews, deep per-product pages, and practical setup guidance."
 - **Primary categories:** Consumer electronics / gaming peripherals / sporting goods (golf simulators)
 - **Audience:** Enthusiasts researching $300–$10,000 hardware purchases; high buying intent.
-- **How you drive traffic / promotional methods:** SEO buying guides & comparisons, a free rig-configurator tool, email restock/deal alerts, social (Pinterest/YouTube/Reddit-aware).
+- **How you drive traffic / promotional methods:** SEO buying guides and comparisons, product research hubs, gear pages, email/newsletter growth, and social research-driven content.
 - **Monthly visits:** New site (launched 2026) — be honest; growing via SEO + tools.
 - **Disclosure:** FTC + network disclosure is live site-wide at https://ignitionsim.com/disclosure
 - **Content count:** 51 original articles, 102 product pages, 5 build tools (real, original content — passes "established site" checks).
@@ -41,6 +41,6 @@ These unlock **real photography across the whole site immediately.**
 
 ## 📸 Getting the product photos in (once you have a source)
 1. Fill `pipeline/product-images.template.json` → save as `pipeline/product-images.json`, mapping our product ids to your **licensed** image URLs (Amazon SiteStripe / network feed / approved media kit). All 101 product ids are already listed there.
-2. I run `node scripts/fetch-product-photos.mjs && npm run build && deploy` — real product shots appear in every gallery, configurator drawer, lightbox and rotator.
+2. I run `node scripts/fetch-product-photos.mjs && npm run build && deploy` — real product shots appear in every product gallery, gear rail, lightbox, article bench, and future builder surface.
 
 (If you give me feed API access, I'll map the feed → that JSON for you automatically — you won't touch it.)

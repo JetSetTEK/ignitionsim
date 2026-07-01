@@ -12,7 +12,7 @@ Hi [Name / Marketing team],
 
 I run **IgnitionSim.com**, an independent, engineer-minded review and buying-guide site for sim
 hardware (racing, flight, space, marine and golf). We publish honest gear breakdowns, a
-compatibility-checked rig configurator, and deep per-product pages — and we already cover several
+real-photo buyer maps, honest gear reviews, and deep per-product pages — and we already cover several
 [BRAND] products in detail.
 
 I'd like permission to display [BRAND]'s official product photography on the relevant product and

@@ -2,11 +2,11 @@
 import Base from '../../layouts/Base.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 
-const all = (await getCollection('articles', ({ data }) => !data.draft))
-  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const slug = (a: any) => a.id.split('/').pop();
 const byBay = bays.map((b) => ({ bay: b, items: all.filter((a) => a.data.bay === b.slug) })).filter((g) => g.items.length);
 

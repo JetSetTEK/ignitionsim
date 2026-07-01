@@ -1,138 +1,295 @@
 ---
 import Base from '../layouts/Base.astro';
-import PanoSlider from '../components/PanoSlider.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import StatBand from '../components/StatBand.astro';
 import BrandMarquee from '../components/BrandMarquee.astro';
-import RigFinder from '../components/RigFinder.astro';
 import GearCarousel from '../components/GearCarousel.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
+import signals from '../data/research-signals.json';
 import photography from '../data/photography.json';
+import { isCertifiedArticle, sortNewestArticles } from '../lib/content';
 
 const portalClass: Record<string, string> = {
   racing: 'p-racing', flight: 'p-flight', space: 'p-space', marine: 'p-marine', golf: 'p-golf',
 };
 
-const all = (await getCollection('articles', ({ data }) => !data.draft))
-  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const featured = all.filter((a) => a.data.featured).slice(0, 6);
 const latest = (featured.length ? featured : all).slice(0, 6);
-
-const hubCopy = [
-  { eyebrow: '// Racing', title: 'One engine. Five worlds.', caption: 'Compatibility-checked builds for every discipline — starting with the rig that started it all.', alt: 'A sim racing cockpit glowing at night' },
-  { eyebrow: '// Space', title: 'Decoded by an engineer’s eye', caption: 'We test the gear so you don’t gamble on it — honest verdicts, real compatibility, no fluff.', alt: 'A neon-lit cockpit' },
-  { eyebrow: '// Flight', title: 'Stop guessing. Start building.', caption: 'From your first yoke to a full airliner panel — the smart upgrade path, mapped.', alt: 'A backlit cockpit panel stack' },
+const articleById = new Map(all.map((a) => [a.id, a]));
+const cornerstoneIds = [
+  'racing/sim-rig-buyer-map-2026',
+  'racing/direct-drive-upgrade-ladder-2026',
+  'racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
+  'racing/diy-motion-vs-bass-shakers-2026',
+  'golf/home-golf-simulator-build-sheet-2026',
+  'golf/launch-monitor-ladder-2026',
+  'flight/msfs-home-cockpit-buyer-map-2026',
+  'flight/yoke-throttle-rudder-head-tracking-order-2026',
+  'space/star-citizen-hosas-buyer-map-2026',
+  'space/vkb-vs-virpil-vs-winwing-space-sticks-2026',
 ];
-const hubPhotos = ((photography as any).hub || []) as any[];
-const slides = hubCopy.map((c, i) => {
-  const p = hubPhotos[i];
-  return p
-    ? { src: p.src, alt: p.alt || c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }
-    : { src: `/images/hub/slide-${i + 1}.jpg`, alt: c.alt, eyebrow: c.eyebrow, title: c.title, caption: c.caption };
-});
+const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Boolean);
 
-// cross-bay editor's gear picks — top 2 per bay by rating, interleaved for visual variety
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
+const brandCount = new Set(allProducts.map((p) => p.brand)).size;
 const buyUrl = (p: any) => p.amazonAsin
   ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
   : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
-const topByBay = bays.map((b) =>
-  allProducts.filter((p) => p.bay === b.slug).sort((a, c) => (c.rating?.overall || 0) - (a.rating?.overall || 0)).slice(0, 2)
-);
-const gearItems: any[] = [];
-for (let i = 0; i < 2; i++) for (const list of topByBay) if (list[i]) {
-  const p = list[i];
-  gearItems.push({
-    href: `/${p.bay}/gear/${p.id}`, image: p.image || `/images/gear/${p.bay}/${p.id}.jpg`,
-    brand: p.brand, model: p.model, price: p.price, type: p.bay, buyUrl: buyUrl(p),
-  });
-}
+const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 3000) / 1000;
+const productsByBay = new Map(bays.map((b) => [
+  b.slug,
+  allProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
+]));
+const gearItem = (p: any, tag?: string) => ({
+  href: `/${p.bay}/gear/${p.id}`,
+  image: p.image || `/images/gear/${p.bay}/${p.id}.jpg`,
+  brand: p.brand,
+  model: p.model,
+  price: p.price,
+  priceNote: p.priceNote,
+  type: p.type,
+  buyUrl: buyUrl(p),
+  tag,
+});
+const photos = photography as any;
+const pickPhoto = (baySlug: string) => {
+  const list = photos[baySlug] || [];
+  return list.find((p: any) => p.source === 'Pexels') || list[0];
+};
+const heroPhoto = pickPhoto('racing');
+const trendingProducts = [
+  ...((productsByBay.get('racing') || []).filter((p) => ['base', 'pedals', 'cockpit', 'haptics'].includes(p.type)).slice(0, 4)),
+  ...((productsByBay.get('flight') || []).filter((p) => ['yoke', 'throttle', 'rudder', 'head-tracking'].includes(p.type)).slice(0, 3)),
+  ...((productsByBay.get('space') || []).filter((p) => ['stick', 'throttle', 'mount'].includes(p.type)).slice(0, 3)),
+  ...((productsByBay.get('golf') || []).filter((p) => ['launch-monitor', 'enclosure', 'mat', 'projector'].includes(p.type)).slice(0, 3)),
+].slice(0, 12).map((p, i) => gearItem(p, i < 3 ? 'Hot check' : undefined));
+const bayLanes = bays.map((b) => {
+  const products = (productsByBay.get(b.slug) || []).slice(0, 4);
+  const signal = (signals as any)[b.slug];
+  const photo = pickPhoto(b.slug);
+  return { bay: b, products, signal, photo };
+});
+const answerCards = [
+  { label: 'I want to drive tonight', bay: 'racing', href: '/racing/sim-rig-buyer-map-2026', answer: 'Start with a direct-drive bundle, load-cell brake path, and a mount that will not flex.' },
+  { label: 'I want a home cockpit', bay: 'flight', href: '/flight/msfs-home-cockpit-buyer-map-2026', answer: 'Buy controls in this order: yoke or stick, throttle, rudders, head tracking, then panels.' },
+  { label: 'I want Star Citizen controls', bay: 'space', href: '/space/star-citizen-hosas-buyer-map-2026', answer: 'Dual sticks for six-axis dogfighting; HOTAS for hauling, exploration, and big-ship comfort.' },
+  { label: 'I want indoor golf', bay: 'golf', href: '/golf/home-golf-simulator-build-sheet-2026', answer: 'Measure the room before you pick a launch monitor. Ceiling height beats spec sheets.' },
+  { label: 'I want a ship bridge', bay: 'marine', href: '/marine/marine-sim-hardware-reality', answer: 'Start with software support and mapped controls. The hardware shelf is mostly DIY.' },
+  { label: 'I want weird rig games', bay: 'racing', href: '#wildcards', answer: 'Truck, mud, mech, train, and tactile horror setups can be great when the controls are mapped on purpose.' },
+];
+const sourceCards = bays.map((b) => {
+  const signal = (signals as any)[b.slug];
+  return {
+    bay: b,
+    source: signal?.communitySources?.[0],
+    line: signal?.watchOut,
+  };
+}).filter((x) => x.source);
 
 const schema = [{
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'IgnitionSim simulation bays',
+  name: 'IgnitionSim simulation hardware categories',
   itemListElement: bays.map((b, i) => ({
-    '@type': 'ListItem', position: i + 1, name: `${b.name} sim hardware`, url: new URL(`/${b.slug}`, site.url).href,
+    '@type': 'ListItem',
+    position: i + 1,
+    name: `${b.name} sim hardware`,
+    url: new URL(`/${b.slug}`, site.url).href,
   })),
 }];
 ---
 <Base title={site.name} description={site.descriptor} schema={schema}>
   <div class="wrap">
-    <section class="hero">
-      <div class="lbl">{site.eyebrow}</div>
-      <h1>Build the <span class="ember">perfect rig.</span><br>Skip the <span class="neon2">$2,000 mistake.</span></h1>
-      <p>{site.heroSubhead} Wheelbases, yokes, sticks, helms and launch monitors change faster than anyone can keep up with — and half of them don't fit together. {site.name} checks compatibility, tracks stock, and tells you the honest truth about what's worth your money.</p>
-      <p class="sub">RACING · FLIGHT · SPACE · MARINE · GOLF — one engine, five worlds</p>
-      <div class="cta-row">
-        <a class="btn btn-primary btn-lg" href="/racing/configurator">▸ Build a Rig</a>
-        <a class="btn btn-lg" href="#bays">Explore the bays</a>
+    <section class="home-hero" aria-label="IgnitionSim buyer bench">
+      <div class="hero-copy">
+        <span class="lbl lbl-accent">{site.eyebrow}</span>
+        <h1>Buy the right sim parts. Play this weekend.</h1>
+        <p>{site.descriptor} We organize real products, practical fit checks, setup warnings, and community pattern reads so you can move from “what should I buy?” to a cart that actually makes sense.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary btn-lg" href="#sim-types">Choose your sim type</a>
+          <a class="btn btn-lg" href="/guides">Browse buyer maps</a>
+        </div>
+        <div class="trust-strip" aria-label="Research standards">
+          <span>Real rig photos</span>
+          <span>Compatibility notes</span>
+          <span>Official specs</span>
+          <span>Community warnings</span>
+        </div>
       </div>
-    </section>
-
-    <section class="sec" style="padding-top:18px">
-      <PanoSlider slides={slides} height="440px" id="hub-pano" />
+      <figure class="hero-bench">
+        <img src={heroPhoto?.src || '/images/hub/product-bench.jpg'} alt={heroPhoto?.alt || 'Real sim racing rig photo'} loading="eager" decoding="async" />
+        <figcaption>{heroPhoto ? <>Photo: <a href={heroPhoto.photoUrl} target="_blank" rel="noopener nofollow">{heroPhoto.by}</a> / {heroPhoto.source}. Component specs below are photo-ready until licensed product feeds are connected.</> : 'Real rig photos plus photo-ready component guidance.'}</figcaption>
+      </figure>
     </section>
 
     <StatBand stats={[
       { value: 5, label: 'Sim disciplines' },
-      { value: all.length, label: 'Bylined guides' },
-      { value: 23, label: 'Brands decoded' },
+      { value: all.length, label: 'Practical guides' },
+      { value: allProducts.length, label: 'Gear pages' },
+      { value: brandCount, label: 'Brands decoded' },
       { value: 0, label: 'Sponsored verdicts' },
     ]} />
 
-    <section class="sec" id="bays">
+    <section class="sec" id="sim-types">
       <div class="sec-head">
-        <h2>Choose your bay</h2>
-        <span class="lbl">5 disciplines · one configurator engine</span>
+        <div>
+          <span class="lbl lbl-accent">// Start by build type</span>
+          <h2>Separate the sims before you separate your money from your wallet</h2>
+        </div>
+        <span class="lbl">fast paths by discipline</span>
       </div>
-      <div class="portal-grid">
-        {bays.map((b) => (
-          <a class={`portal ${portalClass[b.slug]} ${b.slug === 'racing' ? 'flagship' : ''}`} href={`/${b.slug}`}>
-            <span class="ptag">{b.slug === 'racing' ? '● Flagship' : '● Live'}</span>
-            <div class="pglow"></div>
-            <h3>{b.name.toUpperCase()}</h3>
-            <div class="pdesc">{b.descriptor}</div>
-            <div class="penter">{b.enterLabel} →</div>
+      <div class="bay-lane-grid">
+        {bayLanes.map(({ bay, products, signal, photo }) => (
+          <a class={`bay-lane ${portalClass[bay.slug]}`} href={`/${bay.slug}`} data-bay={bay.slug}>
+            <div class="lane-top">
+              <span class="ptag">{bay.status}</span>
+              <h3>{bay.name}</h3>
+              <p>{bay.descriptor}</p>
+            </div>
+            <div class="lane-photo">
+              {photo && <img src={photo.src} alt={photo.alt || `${bay.name} sim hardware`} loading="lazy" decoding="async" />}
+            </div>
+            <div class="lane-product-chips" aria-label={`${bay.name} products covered`}>
+              {products.slice(0, 3).map((p: any) => <span>{p.brand} {p.model}</span>)}
+            </div>
+            <p class="lane-verdict">{signal?.buyFast}</p>
+            <span class="penter">{bay.enterLabel} →</span>
           </a>
         ))}
       </div>
     </section>
 
-    <BrandMarquee />
+    {trendingProducts.length > 0 && (
+      <section class="sec">
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">// Trending component checks</span>
+            <h2>The specs people are actually trying to buy around</h2>
+          </div>
+          <a class="lbl" href="/guides">buyer maps →</a>
+        </div>
+        <GearCarousel items={trendingProducts} id="home-trending-gear" />
+      </section>
+    )}
 
-    <section class="feat">
-      <div class="fcard">
-        <div class="fi" style="border-color:color-mix(in srgb,var(--ember) 45%,transparent)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF5E1A" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></div>
-        <h3>Honest gear pages</h3>
-        <p>Every wheelbase, yoke, stick and launch monitor rated on value, upgrade ceiling and the things buyers actually get burned on — by someone who'll tell you when to skip it.</p>
-        <span class="badge">// written to be cited</span>
+    <section class="sec">
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">// Fast answers</span>
+          <h2>What are you trying to build?</h2>
+        </div>
+        <span class="lbl">answer-first navigation</span>
       </div>
-      <div class="fcard">
-        <div class="fi" style="border-color:rgba(34,211,238,.4)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22d3ee" stroke-width="2"><path d="M12 2v6m0 8v6M2 12h6m8 0h6"/><circle cx="12" cy="12" r="3"/></svg></div>
-        <h3>The Rig Configurator</h3>
-        <p>Pick a base, wheel, pedals and mount and we check every part against the others — quick-release standard, mount footprint, torque — and hand you a shareable build.</p>
-        <span class="badge">// no incompatible carts</span>
-      </div>
-      <div class="fcard">
-        <div class="fi" style="border-color:rgba(217,70,239,.4)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#d946ef" stroke-width="2"><path d="M3 17l6-6 4 4 8-8"/><path d="M21 7v6h-6"/></svg></div>
-        <h3>Ecosystem upgrade paths</h3>
-        <p>"You bought a MOZA R5 — here's your smart upgrade ladder, and what NOT to buy." The map through every ecosystem war, in every bay.</p>
-        <span class="badge">// no dead-end purchases</span>
+      <div class="answer-grid">
+        {answerCards.map((card) => (
+          <a class="answer-card" data-bay={card.bay} href={card.href}>
+            <span>{card.label}</span>
+            <p>{card.answer}</p>
+          </a>
+        ))}
       </div>
     </section>
 
-    <RigFinder />
+    {cornerstones.length > 0 && (
+      <section class="sec" id="cornerstones">
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">// Cornerstone buyer maps</span>
+            <h2>Build maps with real gear photos and no dead-end carts</h2>
+          </div>
+          <a class="lbl" href="/guides">all guides →</a>
+        </div>
+        <div class="cornerstone-grid">
+          {cornerstones.map((a: any, i) => (
+            <a class="cornerstone-card" href={`/${a.data.bay}/${a.id.split('/').pop()}`} data-bay={a.data.bay}>
+              <span class="cornerstone-num">{String(i + 1).padStart(2, '0')}</span>
+              {a.data.heroImage && <img src={a.data.heroImage} alt={a.data.heroAlt || a.data.title} loading="lazy" decoding="async" />}
+              <span class="ctype">{a.data.type.replace(/-/g, ' ')}</span>
+              <h3>{a.data.title}</h3>
+              <p>{a.data.excerpt || a.data.description}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <BrandMarquee />
+
+    <section class="sec">
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">// Real build research</span>
+          <h2>Build threads worth studying before you buy</h2>
+        </div>
+        <span class="lbl">linked out, summarized in our voice</span>
+      </div>
+      <div class="source-grid">
+        {sourceCards.map(({ bay, source, line }) => (
+          <a class="source-card" data-bay={bay.slug} href={source.url} target="_blank" rel="noopener nofollow">
+            <span class="lbl lbl-accent">{bay.name} community signal</span>
+            <h3>{source.label}</h3>
+            <p>{line}</p>
+            <small>Open source thread/search →</small>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="sec" id="wildcards">
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">// Rig wildcards</span>
+          <h2>Games you did not buy the rig for, but should try anyway</h2>
+        </div>
+        <span class="lbl">experimental, useful, occasionally ridiculous</span>
+      </div>
+      <div class="wild-grid">
+        {['racing', 'space', 'marine'].map((baySlug) => {
+          const signal = (signals as any)[baySlug];
+          const bay = bays.find((b) => b.slug === baySlug)!;
+          return (
+            <article class="wild-card" data-bay={baySlug}>
+              <span class="lbl lbl-accent">{bay.name} crossover ideas</span>
+              <ul>
+                {signal.surpriseRigGames.map((item: string) => <li>{item}</li>)}
+              </ul>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+
+    <section class="feat">
+      <div class="fcard">
+        <div class="fi">01</div>
+        <h3>Verdicts that help you buy</h3>
+        <p>Every recommendation should answer: buy now, buy with caveats, or wait. Specs matter, but fit, mounting, software, and support decide whether your weekend survives.</p>
+        <span class="badge">// answer buffet for humans and AI search</span>
+      </div>
+      <div class="fcard">
+        <div class="fi">02</div>
+        <h3>Real photos before render fantasy</h3>
+        <p>Rigs and components are physical objects. We use product photos, gear galleries, diagrams, and source links wherever possible so builders can inspect what they are buying.</p>
+        <span class="badge">// no fake component glamour</span>
+      </div>
+      <div class="fcard">
+        <div class="fi">03</div>
+        <h3>Research without forum fog</h3>
+        <p>We read the recurring community advice, strip out the shouting, and turn it into practical buyer language: what works, what breaks, and what gets expensive fast.</p>
+        <span class="badge">// sourced, paraphrased, useful</span>
+      </div>
+    </section>
 
     {latest.length > 0 && (
       <section class="sec">
         <div class="sec-head">
           <h2>Latest from the bays</h2>
-          <span class="lbl">By {site.author.name}</span>
+          <span class="lbl">updated as the product shelf changes</span>
         </div>
         <div class="card-grid">
           {latest.map((a) => (
@@ -147,26 +304,199 @@ const schema = [{
       </section>
     )}
 
-    {gearItems.length > 0 && (
-      <section class="sec">
-        <div class="sec-head">
-          <h2>Editor's gear picks</h2>
-          <a class="lbl" href="/racing/gear">browse the full database →</a>
-        </div>
-        <GearCarousel items={gearItems} id="home-gear-rail" />
-      </section>
-    )}
-
     <section class="band">
       <div>
-        <span class="lbl lbl-accent">// Restock + deal alerts</span>
-        <h3>Never miss a drop again</h3>
-        <p>Fanatec and MOZA sell out in minutes. Pick the bays you care about and we'll only ping you when something you actually want is back in stock or on sale.</p>
+        <span class="lbl lbl-accent">// Build notes</span>
+        <h3>One useful upgrade note, not a firehose</h3>
+        <p>{site.newsletter.blurb} We are aiming this at builders who want to buy once, install cleanly, and get back to playing.</p>
       </div>
-      <form onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv signup wires in at launch'); this.reset();">
-        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required />
-        <button class="btn btn-primary" type="submit">Arm alerts</button>
+      <form onsubmit="event.preventDefault(); window.toast && window.toast('newsletter signup wires in at launch'); this.reset();">
+        <input type="email" placeholder="driver@weekendbuild.com" aria-label="Email address" required />
+        <button class="btn btn-primary" type="submit">Join the bench list</button>
       </form>
     </section>
   </div>
 </Base>
+
+<style>
+  .home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, .92fr) minmax(420px, 1.08fr);
+    gap: 32px;
+    align-items: center;
+    margin: 24px 0 24px;
+    padding: clamp(22px, 3vw, 34px);
+    border: 1px solid var(--line2);
+    border-radius: 20px;
+    background:
+      linear-gradient(135deg, rgba(255,255,255,.94), rgba(248,250,252,.86)),
+      radial-gradient(600px 360px at 100% 0%, color-mix(in srgb, var(--ember) 14%, transparent), transparent 70%);
+    box-shadow: 0 24px 70px rgba(15, 23, 42, .11);
+    overflow: hidden;
+  }
+  .hero-copy h1 {
+    font-size: clamp(2.15rem, 3.65vw, 3.25rem);
+    letter-spacing: 0;
+    margin: 14px 0 18px;
+    max-width: 14ch;
+  }
+  .hero-copy p { color: #334155; font-size: 1.08rem; max-width: 65ch; }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+  .home-hero .cta-row { flex-wrap: nowrap; }
+  .home-hero .btn-lg { padding: 11px 14px; font-size: .68rem; letter-spacing: .08em; white-space: nowrap; }
+  .trust-strip { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+  .trust-strip span {
+    font-family: var(--font-mono);
+    font-size: .62rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--dim);
+    border: 1px solid var(--line2);
+    background: #fff;
+    border-radius: 999px;
+    padding: 7px 10px;
+  }
+  .hero-bench {
+    margin: 0;
+    border: 1px solid var(--line2);
+    border-radius: 18px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 18px 48px rgba(15, 23, 42, .12);
+  }
+  .hero-bench img { width: 100%; display: block; aspect-ratio: 16 / 9; object-fit: cover; }
+  .hero-bench figcaption {
+    font-family: var(--font-mono);
+    color: var(--dim);
+    font-size: .68rem;
+    letter-spacing: .04em;
+    padding: 10px 14px 12px;
+    border-top: 1px solid var(--line);
+  }
+  .hero-bench figcaption a { color: var(--accent); }
+  .bay-lane-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
+  .bay-lane {
+    color: inherit;
+    position: relative;
+    min-height: 360px;
+    padding: 18px;
+    border: 1px solid var(--line2);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    overflow: hidden;
+  }
+  .bay-lane:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 16px 38px rgba(15, 23, 42, .1); }
+  .lane-top h3 { font-size: 1.55rem; margin: 18px 0 6px; }
+  .lane-top p { color: var(--dim); font-family: var(--font-mono); font-size: .68rem; letter-spacing: .03em; line-height: 1.5; }
+  .lane-photo {
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    background: #fff;
+  }
+  .lane-photo img {
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    display: block;
+  }
+  .lane-product-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .lane-product-chips span {
+    font-family: var(--font-mono);
+    font-size: .56rem;
+    letter-spacing: .04em;
+    color: var(--dim);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: #fff;
+    padding: 5px 8px;
+  }
+  .lane-verdict { color: #334155; font-size: .88rem; line-height: 1.55; flex: 1; }
+  .answer-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+  .answer-card {
+    color: inherit;
+    display: block;
+    border: 1px solid var(--line2);
+    border-left: 4px solid var(--accent);
+    border-radius: 14px;
+    padding: 18px 20px;
+    background: #fff;
+    box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+  }
+  .answer-card span { font-family: var(--font-disp); font-weight: 800; color: var(--txt); }
+  .answer-card p { color: #475569; margin-top: 8px; font-size: .92rem; line-height: 1.55; }
+  .answer-card:hover { border-color: var(--accent); box-shadow: 0 16px 36px color-mix(in srgb, var(--accent) 14%, transparent); }
+  #cornerstones { scroll-margin-top: 92px; }
+  .cornerstone-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
+  .cornerstone-card {
+    position: relative;
+    min-height: 326px;
+    border: 1px solid var(--line2);
+    border-radius: 14px;
+    overflow: hidden;
+    background: var(--panel);
+    color: var(--txt);
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 26px rgba(15, 23, 42, .06);
+  }
+  .cornerstone-card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--panel2); }
+  .cornerstone-card .cornerstone-num {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+    font-family: var(--font-mono);
+    font-size: .6rem;
+    color: #fff;
+    background: var(--accent);
+    border-radius: 7px;
+    padding: 4px 7px;
+    font-weight: 800;
+  }
+  .cornerstone-card .ctype { margin: 14px 14px 0; font-family: var(--font-mono); font-size: .55rem; letter-spacing: .14em; color: var(--accent); text-transform: uppercase; }
+  .cornerstone-card h3 { margin: 7px 14px 0; font-size: 1rem; line-height: 1.2; }
+  .cornerstone-card p { margin: 8px 14px 16px; color: var(--dim); font-size: .82rem; line-height: 1.45; }
+  .cornerstone-card:hover { border-color: var(--accent); box-shadow: 0 18px 42px color-mix(in srgb, var(--accent) 16%, transparent); }
+  .source-grid, .wild-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
+  .source-card, .wild-card {
+    border: 1px solid var(--line2);
+    border-radius: 14px;
+    padding: 18px;
+    background: #fff;
+    color: inherit;
+    box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+  }
+  .source-card h3 { font-size: 1rem; margin: 10px 0 8px; }
+  .source-card p, .wild-card li { color: #475569; font-size: .86rem; line-height: 1.55; }
+  .source-card small { display: block; margin-top: 12px; color: var(--accent); font-family: var(--font-mono); font-size: .62rem; letter-spacing: .06em; text-transform: uppercase; }
+  .wild-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .wild-card ul { padding-left: 1.1em; margin-top: 12px; }
+  .wild-card li + li { margin-top: 8px; }
+  .fcard .fi {
+    width: 42px;
+    height: 42px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-mono);
+    font-weight: 800;
+    color: #fff;
+    background: var(--accent);
+    margin-bottom: 14px;
+  }
+  @media (max-width: 1120px) {
+    .home-hero { grid-template-columns: 1fr; }
+    .hero-copy h1 { max-width: 14ch; }
+    .bay-lane-grid, .cornerstone-grid, .source-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 720px) {
+    .home-hero { padding: 22px; }
+    .home-hero .cta-row { flex-wrap: wrap; }
+    .home-hero .btn-lg { width: 100%; justify-content: center; }
+    .answer-grid, .bay-lane-grid, .cornerstone-grid, .source-grid, .wild-grid { grid-template-columns: 1fr; }
+  }
+</style>

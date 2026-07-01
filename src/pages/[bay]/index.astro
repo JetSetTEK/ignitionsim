@@ -9,7 +9,9 @@ import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import community from '../../data/community.json';
 import stats from '../../data/stat-lists.json';
+import signals from '../../data/research-signals.json';
 import photography from '../../data/photography.json';
+import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 const sentColor: Record<string, string> = { consensus: 'var(--cyan)', debate: 'var(--amber)', warning: 'var(--red)', tip: 'var(--green)' };
 const commItems = ((community as any)[Astro.props.bay.slug] || []) as any[];
 const bayStats = (stats as any[]).filter((s) => s.bay === Astro.props.bay.slug).slice(0, 4);
@@ -18,10 +20,19 @@ export async function getStaticPaths() {
   return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
 }
 const { bay } = Astro.props;
+const baySignal = ((signals as any)[bay.slug] || {}) as any;
 
-const articles = (await getCollection('articles', ({ data }) => data.bay === bay.slug && !data.draft))
-  .sort((a, b) => +new Date(b.data.publishDate) - +new Date(a.data.publishDate));
+const articles = sortNewestArticles(await getCollection('articles', ({ data }) => data.bay === bay.slug && isCertifiedArticle(data)));
 const slug = (a: any) => a.id.split('/').pop();
+const starterGuideByBay: Record<string, string> = {
+  racing: 'sim-rig-buyer-map-2026',
+  flight: 'msfs-home-cockpit-buyer-map-2026',
+  space: 'star-citizen-hosas-buyer-map-2026',
+  golf: 'home-golf-simulator-build-sheet-2026',
+  marine: 'marine-sim-hardware-reality',
+};
+const starterGuideSlug = starterGuideByBay[bay.slug] || (articles[0] ? slug(articles[0]) : '');
+const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` : `/${bay.slug}/gear`;
 
 const typeOrder = ['buying-guide', 'comparison', 'ecosystem-upgrade-path', 'how-to', 'gear-explainer', 'diy'];
 const typeLabel: Record<string, string> = {
@@ -52,10 +63,14 @@ const gearItems = allProducts
     tag: i === 0 ? 'Top rated' : undefined,
   }));
 
-const photos = ((photography as any)[bay.slug] || []) as any[];
-const slides: any[] = photos.length
-  ? photos.map((p) => ({ src: p.src, alt: p.alt, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }))
-  : [1, 2, 3].map((n) => ({ src: `/images/${bay.slug}/slide-${n}.jpg`, alt: `${bay.name} sim hardware — ${bay.theme}` }));
+const photoList = ((photography as any)[bay.slug] || []) as any[];
+const realPhotos = photoList
+  .filter((p: any) => p?.src)
+  .sort((a: any, b: any) => (a.source === 'Pexels' ? -1 : 0) - (b.source === 'Pexels' ? -1 : 0))
+  .slice(0, 3);
+const slides: any[] = realPhotos.length
+  ? realPhotos.map((p: any) => ({ src: p.src, alt: p.alt || `${bay.name} sim hardware`, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }))
+  : [1, 2, 3].map((n) => ({ src: `/images/${bay.slug}/slide-${n}.jpg`, alt: `${bay.name} sim hardware product bench ${n}` }));
 slides[0] = { ...slides[0], eyebrow: `// ${bay.name} bay`, title: bay.tagline, caption: bay.descriptor };
 
 const crumbName = `${bay.name} sim hardware`;
@@ -90,25 +105,30 @@ const schema = [
       <p class="byline" style="margin-top:14px">Researched &amp; reviewed by <b>{site.author.name}</b> · {bay.theme} theme</p>
     </section>
 
-    {bay.slug === 'racing' ? (
-      <section class="cfg-cta">
-        <div>
-          <span class="lbl lbl-accent">// The centerpiece</span>
-          <h4 style="margin-top:6px">Build a compatibility-checked racing rig</h4>
-          <p>Pick a base, wheel, pedals and cockpit — we check every part against the others and hand you a shareable build.</p>
-        </div>
-        <a class="btn btn-primary btn-lg" href="/racing/configurator">Open the configurator ▸</a>
-      </section>
-    ) : (
-      <section class="cfg-cta">
-        <div>
-          <span class="lbl lbl-accent">// The build tool</span>
-          <h4 style="margin-top:6px">Spec your {bay.name.toLowerCase()} setup</h4>
-          <p>Pick your parts for a running total plus the compatibility notes that matter for {bay.name.toLowerCase()} — with a picture and the full rundown on every component.</p>
-        </div>
-        <a class="btn btn-primary btn-lg" href={`/${bay.slug}/configurator`}>Open the {bay.name} builder ▸</a>
-      </section>
-    )}
+    <section class="bay-reality">
+      <div class="bay-real-main">
+        <span class="lbl lbl-accent">// {bay.name} buying truth</span>
+        <h2>{baySignal.buyFast}</h2>
+      </div>
+      <div class="bay-real-card"><span>Watch out</span><p>{baySignal.watchOut}</p></div>
+      <div class="bay-real-card"><span>Weekend killer</span><p>{baySignal.weekendKiller}</p></div>
+      <div class="bay-real-card"><span>Source shelf</span>
+        <p>
+          {(baySignal.officialSources || []).slice(0, 2).map((s: any, i: number) => (
+            <><a href={s.url} target="_blank" rel="noopener nofollow">{s.label}</a>{i === 0 ? ' · ' : ''}</>
+          ))}
+        </p>
+      </div>
+    </section>
+
+    <section class="cfg-cta">
+      <div>
+        <span class="lbl lbl-accent">// Start here</span>
+        <h4 style="margin-top:6px">Read the {bay.name} buyer map first</h4>
+        <p>Start with the practical path: what to buy first, what to avoid, what quietly adds setup work, and which products deserve a closer look.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href={starterGuideHref}>Open the buyer map ▸</a>
+    </section>
 
     <section class="band" style="margin:10px 0 0">
       <div>
@@ -172,13 +192,13 @@ const schema = [
 
     <section class="band">
       <div>
-        <span class="lbl lbl-accent">// {bay.name} restock + deal alerts</span>
-        <h3>Track {bay.name.toLowerCase()} gear drops</h3>
-        <p>{site.newsletter.blurb} Pick {bay.name} and we'll only ping you when something you want is back in stock or on sale.</p>
+        <span class="lbl lbl-accent">// {bay.name} build notes</span>
+        <h3>Keep the {bay.name.toLowerCase()} bench honest</h3>
+        <p>{site.newsletter.blurb} Pick {bay.name} and we'll keep the signal practical: what to buy, what to skip, and what deserves another look.</p>
       </div>
       <form onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv signup wires in at launch'); this.reset();">
         <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required />
-        <button class="btn btn-primary" type="submit">Arm alerts</button>
+        <button class="btn btn-primary" type="submit">Join the bench list</button>
       </form>
     </section>
   </div>
@@ -188,6 +208,15 @@ const schema = [
   .comm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
   .comm-card { border: 1px solid var(--line2); border-left: 3px solid var(--accent); border-radius: 12px; padding: 16px 18px; background: var(--panel); }
   .comm-sent { display: inline-block; font-family: var(--font-mono); font-size: .56rem; letter-spacing: .14em; text-transform: uppercase; border: 1px solid; border-radius: 20px; padding: 3px 9px; }
-  .comm-point { color: #d8e0ec; font-size: .95rem; margin: 10px 0 8px; line-height: 1.55; }
+  .comm-point { color: #334155; font-size: .95rem; margin: 10px 0 8px; line-height: 1.55; }
   .comm-ctx { font-family: var(--font-mono); font-size: .64rem; color: var(--dimmer); letter-spacing: .03em; }
+  .bay-reality { display: grid; grid-template-columns: 1.3fr repeat(3, 1fr); gap: 12px; margin: 8px 0 26px; }
+  .bay-real-main, .bay-real-card { border: 1px solid var(--line2); border-radius: 14px; padding: 18px 20px; background: #fff; box-shadow: 0 12px 30px rgba(15,23,42,.06); }
+  .bay-real-main h2 { font-size: 1.18rem; line-height: 1.35; margin-top: 8px; }
+  .bay-real-card { border-left: 4px solid var(--accent); }
+  .bay-real-card span { display:block; font-family:var(--font-mono); font-size:.58rem; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
+  .bay-real-card p { color:#475569; font-size:.86rem; line-height:1.55; }
+  .bay-real-card a { color: var(--accent); }
+  @media (max-width: 980px) { .bay-reality { grid-template-columns: 1fr 1fr; } .bay-real-main { grid-column: 1 / -1; } }
+  @media (max-width: 620px) { .bay-reality { grid-template-columns: 1fr; } }
 </style>

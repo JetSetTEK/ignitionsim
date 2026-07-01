@@ -71,7 +71,7 @@ What you're accepting:
 - **A learning curve** — you bind it yourself, and the first hour is humbling.
 - **Desk space and a mount**, because a loose base slides under combat input.
 
-I lay out the specific Star Citizen stick picks in [the best HOTAS for Star Citizen](/space/best-hotas-for-star-citizen), and the [Logitech X56](/space/gear/best-hotas-for-star-citizen) remains the standard answer for an all-in-one.
+I lay out the specific Star Citizen stick picks in [the best HOTAS for Star Citizen](/space/best-hotas-for-star-citizen), and the **Logitech X56** remains the standard answer for an all-in-one.
 
 <aside class="gearpick">
   <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Cheapest HOTAS entry</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>

@@ -148,6 +148,43 @@
     "platforms": "PC"
   },
   {
+    "id": "thrustmaster-tca-sky-yoke",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Thrustmaster",
+    "model": "TCA Sky Yoke",
+    "price": 200,
+    "priceNote": "Q3 2026 MSRP announced at $199.99",
+    "image": "/images/gear/flight/thrustmaster-tca-sky-yoke.png",
+    "summary": "Thrustmaster's FlightSimExpo 2026 headline for general-aviation flyers: a $199.99 yoke aimed at MSFS newcomers who want PC, Xbox Series X|S, and PS5 compatibility in one approachable unit. The Sky Yoke integrates throttle, trim, and yaw controls into the yoke body, uses a built-in steel pitch-axis shaft, and exposes 7 axes, 24 action buttons, an 8-way POV hat, a mini-stick, and two analog triggers. It is not a force-feedback yoke and it is not trying to replace a Honeycomb Alpha/Bravo deck or MOZA AY210 force-feedback system. The appeal is console support, all-in-one controls, and price.",
+    "specs": {
+      "Availability": "Q3 2026 announced",
+      "MSRP": "$199.99 / €199.99 / £169.99",
+      "Compatibility": "PC, Xbox Series X|S, PS5",
+      "Axes": "7 axes with integrated throttle, trim, and yaw controls",
+      "Buttons": "24 action buttons, 8-way POV hat, mini-stick, 2 analog triggers",
+      "Pitch": "Built-in steel pitch-axis shaft"
+    },
+    "pros": [
+      "Rare PC, Xbox, and PS5 yoke path for Microsoft Flight Simulator buyers",
+      "Integrated throttle, trim, and yaw controls mean fewer first-day purchases",
+      "$199.99 announced MSRP undercuts most serious yoke setups"
+    ],
+    "cons": [
+      "Not force feedback",
+      "Real-world durability and mapping reports are still pending before launch",
+      "Integrated controls cannot replace a dedicated throttle quadrant for serious airliner work"
+    ],
+    "whoFor": "Console and beginner MSFS pilots who want an affordable yoke-first setup without assembling a full cockpit stack on day one.",
+    "rating": { "overall": 8, "value": 9, "build": 7, "realism": 7 },
+    "faqs": [
+      { "q": "Is the TCA Sky Yoke available now?", "a": "Thrustmaster announced Q3 2026 availability with a $199.99 MSRP, so treat it as a watchlist/preorder item until retail units and reviews land." },
+      { "q": "Is the TCA Sky Yoke better than Honeycomb Alpha?", "a": "It is better for cross-console compatibility and first setup cost. Honeycomb Alpha/Bravo remains the more serious modular GA cockpit path, while MOZA AY210 is the force-feedback jump." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Watch Amazon and Thrustmaster retail listings as Q3 2026 stock opens." },
+    "platforms": "PC / Xbox Series X|S / PS5"
+  },
+  {
     "id": "desktop-pilot-10-port-usb-hub",
     "bay": "flight",
     "type": "accessory",

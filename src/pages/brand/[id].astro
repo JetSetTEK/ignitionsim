@@ -65,8 +65,8 @@ const primaryBay = (brand.bays && brand.bays[0]) || (products[0] && products[0].
 
     {primaryBay && (
       <section class="cfg-cta">
-        <div><span class="lbl lbl-accent">// Explore</span><h4 style="margin-top:6px">See where {brand.name} fits in a full build</h4><p>Spec a setup and check {brand.name} gear against the rest of your rig.</p></div>
-        <a class="btn btn-primary btn-lg" href={primaryBay === 'racing' ? '/racing/configurator' : `/${primaryBay}/configurator`}>Open the builder ▸</a>
+        <div><span class="lbl lbl-accent">// Explore</span><h4 style="margin-top:6px">See where {brand.name} fits in the gear bench</h4><p>Compare {brand.name} against the other products in its bay, with specs, caveats, and buyer notes close at hand.</p></div>
+        <a class="btn btn-primary btn-lg" href={`/${primaryBay}/gear`}>Browse the gear ▸</a>
       </section>
     )}
   </div>

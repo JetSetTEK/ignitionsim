@@ -5,7 +5,7 @@ import bays from '../data/bays.json';
 const title = 'Restock & Deal Alerts';
 const description = "The spark for your next upgrade — restock and deal alerts for sim hardware, segmentable by bay. No noise, just the drops you actually want.";
 ---
-<Base title={title} description={description} activeNav="alerts">
+<Base title={title} description={description} activeNav="alerts" noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span>Alerts</div>
     <section class="hero" style="padding:48px 0 16px">
@@ -17,7 +17,7 @@ const description = "The spark for your next upgrade — restock and deal alerts
     <section class="sec" style="max-width:640px;margin:0 auto">
       <form class="alert-form" onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv double-opt-in wires in at launch'); this.reset();">
         <label class="lbl" style="display:block;margin-bottom:10px">Email</label>
-        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required style="width:100%;background:var(--night);border:1px solid var(--line2);border-radius:8px;padding:13px 15px;color:var(--txt);font-family:var(--font-mono)" />
+        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required style="width:100%;background:#fff;border:1px solid var(--line2);border-radius:8px;padding:13px 15px;color:var(--txt);font-family:var(--font-mono)" />
         <p class="lbl" style="margin:20px 0 10px">Which bays?</p>
         <div class="bay-picks">
           {bays.map((b) => (
