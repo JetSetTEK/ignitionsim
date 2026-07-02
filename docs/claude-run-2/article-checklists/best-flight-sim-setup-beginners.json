@@ -1,0 +1,23 @@
+{
+  "slug": "best-flight-sim-setup-beginners",
+  "articleFile": "src/content/articles/flight/best-flight-sim-setup-beginners.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 15,
+  "realProductImageCount": 15,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "The two headline beginner products — Logitech G PRO Flight Yoke System ($179.99) and Logitech G Flight Rudder Pedals ($179.99) — have NO verified product image, so they are text-and-link only in the body. For a beginner buying guide whose No.1 budget pick IS the Logitech yoke, certification should wait until real photos are sourced so the primary recommendation can render as an embedded gearpick.",
+    "Their /flight/gear/logitech-g-pro-flight-yoke-system and /flight/gear/logitech-g-flight-rudder-pedals pages do not currently build (the gear route only generates pages for products that pass hasVerifiedProductImage), so the in-text gear links to those two products are dead until images are added. Mirrors the reference gold article's own text-only links (Warthog, WinWing, MOZA AY210) — an intentional forward-compatible pattern, but resolve before certifying if dead internal links block the gate.",
+    "Confirm exact current Honeycomb Alpha + Bravo bundle/sale price (left as ~$600 MSRP / less on sale; no single bundle SKU price on the Alpha page).",
+    "Re-confirm TCA Sky Yoke retail price and ship date (currently announced Q3 2026 / $199.99, pre-launch) before treating its figures as certified fact.",
+    "/flight/configurator link has no built page in dist (source in src/stowed-pages/); site-wide issue also present in the reference gold article — resolve the route or the link sitewide."
+  ],
+  "notes": "Rewrote best-flight-sim-setup-beginners.md to the gold structure: author Mac Donovan; goldStatus left as 'refresh' (NOT certified, per run rules); added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster flight; heroImage set to the VERIFIED /images/gear/flight/honeycomb-alpha-yoke.jpg; 5 FAQs; related[] of 4 flight articles. Body is verdict-first, keeps the three-build ladder (~$150/$300/$500-600) with verified 2026 prices, a shotgrid, gearpick asides, a forum callout + pro-tip callouts (original paraphrase), a rudder-when-it-matters section, a Boeing-exception fork, a who-should-skip section, a setup-tax list, a What-to-buy stack, and a dated Sources Checked shelf with 13 real links. Exactly 2 frontmatter fences confirmed. ALL 15 embedded gear <img> paths + the hero are in verified-product-images.json (verified via a node script against the manifest); the previous pass's UNVERIFIED logitech-g-pro-flight-yoke-system.jpg image was removed and that product converted to text+Amazon-link only. 7 distinct verified products embedded (Alpha, Bravo, Charlie, TCA Sidestick, TCA Quadrant, TCA Yoke Boeing, VelocityOne) — the full applicable verified beginner catalog; the ~8+ target is met by count of visuals (15) though distinct products (7) is the honest ceiling of what the verified catalog + beginner topic support. `npx astro build` completed cleanly (166 pages, no errors); the article intentionally does not emit a public page because isCertifiedArticle requires goldStatus==='certified'. Left as refresh per run rules; a strong certification candidate once the two Logitech beginner photos are sourced and the bundle/Sky-Yoke prices confirmed."
+}

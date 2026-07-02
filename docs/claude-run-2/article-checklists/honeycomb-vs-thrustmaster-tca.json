@@ -1,0 +1,24 @@
+{
+  "slug": "honeycomb-vs-thrustmaster-tca",
+  "articleFile": "src/content/articles/flight/honeycomb-vs-thrustmaster-tca.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 12,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Distinct embedded verified products = 5 (Honeycomb Alpha, Honeycomb Bravo, TCA Sidestick, TCA Quadrant, TCA Boeing Yoke). This is below the >=8-verified-product-visuals aspiration, but it is the honest ceiling for a two-ecosystem head-to-head: the comparison's real cast is the GA pair vs the Airbus pair plus the Boeing fork. Total visuals (12: hero + 4-figure shotgrid + 6 gearpicks, several reusing the same verified photos) meet the visual-density bar; distinct products are capped by the topic. Not a defect, but noted honestly against the numeric target.",
+    "The already-verified Honeycomb Charlie pedals photo is referenced text/link-only (natural-next GA piece), not embedded. Promoting it to a 6th gearpick would raise distinct embedded products to 6 if desired before certification.",
+    "Prices left as ranges / check-current where sale- or channel-dependent: Alpha + Bravo bundle (~$600 official, no single SKU price on official pages, bundle discounts vary), TCA Quadrant Airbus ($129.99 official MSRP vs ~$100 street), TCA Yoke Pack Boeing ($549.99 official, current street not confirmed). Confirm exact figures before certifying.",
+    "TCA Sidestick action-button count: used Thrustmaster's official '17 action buttons'; a third-party guide cited 12 remappable. Reconcile before certifying if exactness is required.",
+    "Gear-page links (/flight/gear/honeycomb-charlie-pedals etc.) and /flight/best-flight-sim-hardware-2026 build only when their targets are certified/have verified images; internal links follow the same forward-compatible pattern as the reference gold article. Confirm no dead internal links block the gate before certifying.",
+    "Article intentionally does not emit a public page: isCertifiedArticle requires goldStatus==='certified' and this is left as 'refresh' per run rules. npx astro build completed cleanly (166 pages, no errors)."
+  ],
+  "notes": "Rewrote honeycomb-vs-thrustmaster-tca.md to the gold structure: author changed from Robert Pruitt to Mac Donovan; goldStatus left as 'refresh' (NOT certified, per run rules); added updatedDate 2026-07-02, sourceReviewDate 2026-07-02, revenueTier A, contentCluster flight, readingTime 11. heroImage switched from the UNVERIFIED /images/flight/honeycomb-vs-thrustmaster-tca.jpg to the VERIFIED /images/gear/flight/honeycomb-alpha-yoke.jpg. 4 FAQs -> now 5 richer, question-led FAQs. related[] retargeted to two existing flight articles (best-flight-sim-hardware-2026, best-flight-sim-setup-beginners) since the previous related slugs (honeycomb-flight-deck-upgrade-path) are not confirmed to exist. Body is verdict-first, adds a 4-branch mission decision fork, a head-to-head table with a best-value-single-buy row, a sensors/build section, a Boeing fork with a verified gearpick, a 'both cockpits from one ecosystem?' section, a forum callout + an autopilot-gap pro-tip callout (original paraphrase), a who-should-skip-each section, a What-to-buy stack, and a dated Sources Checked shelf with 17 real links (8 official + 5 pricing + 4 review/community). Every embedded gear <img> (5 distinct products, 11 img tags) + the hero verified against verified-product-images.json via node script — the previous pass's UNVERIFIED hero was removed and no unverified gear image remains. Exactly 2 frontmatter fences confirmed. All prices are official-page-sourced 2026 figures (Alpha $299.99, Bravo $299.99, Charlie $349.99, TCA Sidestick $79.99, TCA Quadrant $129.99 MSRP, Captain Pack X ~$300, Boeing Yoke $549.99). Left as refresh per run rules; a strong certification candidate once the price ranges are pinned and (optionally) the Charlie photo is promoted to a 6th embedded gearpick."
+}

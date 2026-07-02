@@ -198,37 +198,33 @@ async function productCutout(abs, rel = '') {
   }
 }
 
-function overlaySvg({ article, art, accent, crew }) {
+function overlaySvg({ article, art, accent, crew, productCount }) {
   const label = escapeXml(
     art?.label && art.label !== 'Product proof'
       ? art.label
-      : 'Main gear'
+      : 'Product bench'
   );
-  const titleLines = wrapText(label, 18, 2);
-  const title = titleLines.map((line, index) =>
-    `<text x="78" y="${190 + index * 74}" class="title">${escapeXml(line)}</text>`
-  ).join('');
   const type = escapeXml((article.type || 'buyer guide').replace(/-/g, ' '));
   return Buffer.from(`
     <svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="scrim" x1="0" x2="1" y1="0" y2="0">
-          <stop offset="0" stop-color="#101820" stop-opacity="0.90"/>
-          <stop offset="0.44" stop-color="#101820" stop-opacity="0.54"/>
-          <stop offset="1" stop-color="#101820" stop-opacity="0.14"/>
+          <stop offset="0" stop-color="#101820" stop-opacity="0.74"/>
+          <stop offset="0.42" stop-color="#101820" stop-opacity="0.36"/>
+          <stop offset="1" stop-color="#101820" stop-opacity="0.04"/>
         </linearGradient>
-        <radialGradient id="glow" cx="78%" cy="18%" r="64%">
-          <stop offset="0" stop-color="${accent}" stop-opacity="0.52"/>
+        <radialGradient id="glow" cx="70%" cy="22%" r="68%">
+          <stop offset="0" stop-color="${accent}" stop-opacity="0.62"/>
           <stop offset="1" stop-color="${accent}" stop-opacity="0"/>
         </radialGradient>
         <radialGradient id="bench" cx="66%" cy="64%" r="46%">
-          <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
-          <stop offset=".52" stop-color="${accent}" stop-opacity="0.18"/>
+          <stop offset="0" stop-color="#ffffff" stop-opacity="0.56"/>
+          <stop offset=".52" stop-color="${accent}" stop-opacity="0.24"/>
           <stop offset="1" stop-color="#101820" stop-opacity="0"/>
         </radialGradient>
         <style>
           .mono { font-family: "JetBrains Mono", "Courier New", monospace; font-weight: 800; letter-spacing: 3px; text-transform: uppercase; }
-          .title { font-family: "Saira", "Arial Black", Arial, sans-serif; font-weight: 900; font-size: 68px; line-height: 1; fill: #ffffff; text-transform: uppercase; filter: drop-shadow(0 4px 18px rgba(0,0,0,.45)); }
+          .label { font-family: "Saira", "Arial Black", Arial, sans-serif; font-weight: 950; font-size: 44px; line-height: 1; fill: #ffffff; text-transform: uppercase; filter: drop-shadow(0 4px 18px rgba(0,0,0,.38)); }
           .small { font-family: Inter, Arial, sans-serif; font-weight: 700; fill: rgba(255,255,255,0.82); }
           .caption { font-family: Inter, Arial, sans-serif; font-weight: 850; fill: #ffffff; }
         </style>
@@ -240,15 +236,18 @@ function overlaySvg({ article, art, accent, crew }) {
         ${Array.from({ length: 36 }, (_, i) => `<line x1="${i * 48}" y1="0" x2="${i * 48}" y2="900" stroke="#fff" stroke-width="1"/>`).join('')}
         ${Array.from({ length: 21 }, (_, i) => `<line x1="0" y1="${i * 48}" x2="1600" y2="${i * 48}" stroke="#fff" stroke-width="1"/>`).join('')}
       </g>
-      <ellipse cx="1110" cy="724" rx="400" ry="72" fill="#000000" opacity=".30"/>
-      <rect x="74" y="72" width="252" height="46" rx="10" fill="${accent}" stroke="#101820" stroke-width="3"/>
-      <text x="94" y="103" class="mono" font-size="17" fill="#101820">${type}</text>
-      ${title}
-      <rect x="78" y="612" width="575" height="96" rx="18" fill="rgba(16,24,32,.58)" stroke="rgba(255,255,255,.18)"/>
-      <text x="322" y="650" class="caption" font-size="24">${escapeXml(crew.name)}:</text>
-      <text x="322" y="684" class="small" font-size="21" opacity="0.86">${escapeXml(crew.note)}</text>
-      <rect x="1050" y="798" width="484" height="42" rx="10" fill="rgba(255,255,255,0.86)" stroke="rgba(255,255,255,0.42)"/>
-      <text x="1068" y="825" class="mono" font-size="13" fill="#101820">AI scene + verified product photo</text>
+      <ellipse cx="1086" cy="722" rx="472" ry="76" fill="#000000" opacity=".26"/>
+      <ellipse cx="1200" cy="690" rx="250" ry="52" fill="${accent}" opacity=".20"/>
+      <rect x="76" y="72" width="354" height="48" rx="12" fill="${accent}" stroke="#101820" stroke-width="3"/>
+      <text x="96" y="103" class="mono" font-size="16" fill="#101820">${type}</text>
+      <rect x="76" y="138" width="448" height="92" rx="20" fill="rgba(16,24,32,.55)" stroke="rgba(255,255,255,.22)"/>
+      <text x="104" y="176" class="mono" font-size="14" fill="${accent}">verified product bench</text>
+      <text x="104" y="214" class="label">${label}</text>
+      <rect x="78" y="622" width="610" height="112" rx="22" fill="rgba(16,24,32,.58)" stroke="rgba(255,255,255,.20)"/>
+      <text x="322" y="662" class="caption" font-size="24">${escapeXml(crew.name)}:</text>
+      <text x="322" y="698" class="small" font-size="21" opacity="0.88">${escapeXml(crew.note)}</text>
+      <rect x="1054" y="798" width="466" height="42" rx="10" fill="rgba(255,255,255,0.88)" stroke="rgba(255,255,255,0.42)"/>
+      <text x="1072" y="825" class="mono" font-size="13" fill="#101820">${productCount} verified product photo${productCount === 1 ? '' : 's'} + AI scene</text>
     </svg>
   `);
 }
@@ -281,13 +280,13 @@ async function main() {
       ...inlineImages,
       worlds[bay],
     ].filter(Boolean);
-    let productRel = candidates[0];
+    const productRels = [];
     for (const candidate of candidates) {
-      if (await existsPublic(candidate)) {
-        productRel = candidate;
-        break;
-      }
+      if (!productRels.includes(candidate) && await existsPublic(candidate)) productRels.push(candidate);
     }
+    const gearRels = productRels.filter((rel) => rel.startsWith('/images/gear/'));
+    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 3);
+    const productRel = displayRels[0] || worlds[bay];
     const productAbs = path.join(publicDir, productRel.replace(/^\//, ''));
     const worldAbs = path.join(publicDir, (worlds[bay] || worlds.racing).replace(/^\//, ''));
     const crew = crewByBay[bay] || crewByBay.racing;
@@ -299,13 +298,34 @@ async function main() {
     try {
       const background = await sharp(worldAbs)
         .resize(1600, 900, { fit: 'cover' })
-        .modulate({ saturation: 1.08, brightness: 0.92 })
-        .blur(1.4)
+        .modulate({ saturation: 1.16, brightness: 1.03 })
+        .blur(0.8)
         .toBuffer();
-      const product = await productCutout(productAbs, productRel);
-      const productMeta = await sharp(product).metadata();
-      const productLeft = 848 + Math.round((690 - (productMeta.width || 700)) / 2);
-      const productTop = 226 + Math.round((480 - (productMeta.height || 500)) / 2);
+      const productLayers = [];
+      for (const [index, rel] of displayRels.entries()) {
+        const abs = path.join(publicDir, rel.replace(/^\//, ''));
+        const cutout = await productCutout(abs, rel);
+        const resized = await sharp(cutout)
+          .resize(index === 0 ? 860 : 420, index === 0 ? 600 : 300, { fit: 'inside', withoutEnlargement: false })
+          .png()
+          .toBuffer();
+        const meta = await sharp(resized).metadata();
+        const positions = [
+          {
+            left: 712 + Math.round((770 - (meta.width || 760)) / 2),
+            top: 214 + Math.round((506 - (meta.height || 520)) / 2),
+          },
+          {
+            left: 1124 + Math.round((330 - (meta.width || 360)) / 2),
+            top: 86 + Math.round((236 - (meta.height || 260)) / 2),
+          },
+          {
+            left: 1186 + Math.round((334 - (meta.width || 360)) / 2),
+            top: 560 + Math.round((244 - (meta.height || 260)) / 2),
+          },
+        ];
+        productLayers.push({ input: resized, ...positions[index] });
+      }
       const curator = await roundedImage(crewAbs, 220, 270, 30);
       const article = {
         title: data.title || slug.replace(/-/g, ' '),
@@ -314,8 +334,8 @@ async function main() {
 
       await sharp(background)
         .composite([
-          { input: overlaySvg({ article, art, accent, crew }), left: 0, top: 0 },
-          { input: product, left: Math.max(790, productLeft), top: Math.max(154, productTop) },
+          { input: overlaySvg({ article, art, accent, crew, productCount: displayRels.length || 1 }), left: 0, top: 0 },
+          ...productLayers,
           { input: curator, left: 78, top: 610 },
         ])
         .webp({ quality: 88 })

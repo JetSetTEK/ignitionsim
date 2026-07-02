@@ -1,0 +1,107 @@
+{
+  "slug": "best-acc-wheel-settings-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "visualGoal": "This is a low-product-density how-to/settings explainer, not a shopping guide. Visuals should make the per-base FFB numbers legible and trustworthy — the hero and shotgrid establish which bases the numbers are written around, and the biggest wins are INFOGRAPHICS (per-base settings table, the Road Effects correction, the tuning-by-feel flow) rather than more product cards. Do NOT force product photos.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Fanatec CSL DD (CSL DD QR2)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2_us/csl-dd-qr2-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named as the budget ACC base (75-100% Gain). Currently text + Amazon link only because no verified image. The prior version of this article WRONGLY embedded this unverified path in a gearpick; it has been removed. Source a real base photo before it can appear as a gearpick/shotgrid."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/simucube-2-sport.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-acc-ffb-bench",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing tuning bench at cool blue-and-amber screen light, a direct-drive wheelbase on a rigid 8020 stand with an open 4-bolt mount plate for a real wheelbase product overlay, a monitor beside it showing a generic (non-branded) racing HUD, curator Duke Alvarez leaning in adjusting a rotary dial, focused mechanic energy, no fake branded software UI, no fake logos, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake ACC UI, fake logos, invented settings numbers, warped wheel rim, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "acc-per-base-settings-table",
+      "title": "ACC FFB start values by base torque",
+      "format": "1600x1200",
+      "content": [
+        "Columns: Base (torque) | In-game Gain | Min Force | Dynamic Damping | Road Effects",
+        "G29/G920 gear ~2.5Nm | 90-100% | 3-8% | 20-35% | 20-40%",
+        "5-5.5Nm (Cammus C5 / MOZA R5) | 90-100% | 0% | 60-100% | 0-10%",
+        "5-8Nm (Fanatec CSL DD / GT DD Pro) | 75-100% | 0% | 60-100% | 0-10%",
+        "9-10Nm (MOZA R9 / Simagic Evo Sport) | 60-70% | 0% | 60-100% | 0-10%",
+        "12Nm (MOZA R12 / Simagic Evo / ClubSport DD) | 50-60% | 0% | 60-100% | 0-10%",
+        "15-18Nm (MOZA R16 / Evo Pro / DD+) | 40-45% | 0% | 50-100% | 0-5%",
+        "17-21Nm (MOZA R21 / Simucube 2 Sport) | 30-40% | 0% | 50-100% | 0-5%",
+        "Footer callout: stronger base = LOWER Gain. Min Force always 0 on DD."
+      ],
+      "style": "IgnitionSim command-center table, large readable text, racing colors, torque axis emphasized, Min Force '0' column visually locked/highlighted"
+    },
+    {
+      "id": "road-effects-myth-correction",
+      "title": "The Road Effects correction (DD = LOW)",
+      "format": "1600x1000",
+      "content": [
+        "MYTH: Road Effects high = more detail",
+        "TRUTH on direct drive: high Road Effects masks fine steering signal",
+        "Direct drive: 0-15% (often 0)",
+        "Entry gear/belt wheels: 20-40%",
+        "Same rule for Min Force: 0 on DD, 3-8% only on gear wheels"
+      ],
+      "style": "Two-column myth-vs-truth card, red 'myth' / green 'truth', bold numbers, IgnitionSim palette"
+    },
+    {
+      "id": "acc-tune-by-feel-flow",
+      "title": "Tuning ACC FFB without a clipping meter",
+      "format": "1600x1000",
+      "content": [
+        "1 Set Min Force 0 (DD)",
+        "2 Match steering rotation software = game, enable per-car soft-lock",
+        "3 Road Effects low on DD",
+        "4 Pick Gain from table",
+        "5 Lower Gain until fast corners stop going flat (heavy-then-flat = clipping)",
+        "6 Add damper only to kill straight-line wobble on strong bases",
+        "Note: ACC has NO in-game force meter — tune by feel"
+      ],
+      "style": "Numbered decision-flow ladder, 'no meter — tune by feel' warning banner, IgnitionSim racing colors"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-acc-min-force-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez seated at a clean cockpit, one hand on a direct-drive rim, pointing at a settings sheet showing 'Min Force 0', confident teaching energy, practical garage-workshop setting not fantasy, 4:5 portrait, no fake branded UI.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "acc-controls-ffb-panel",
+      "need": "A clean screenshot of the ACC in-game Controls > Force Feedback panel (Gain, Min Force, Dynamic Damping, Road Effects, FFB Frequency sliders) to anchor the 'two sliders' and per-base sections. Must be a genuine ACC screenshot, not a mockup.",
+      "status": "needs-capture",
+      "notes": "Optional but high-value for a settings how-to. If captured, do not overlay invented numbers — show the real panel."
+    },
+    {
+      "id": "acc-steering-degrees-panel",
+      "need": "Screenshot of the ACC steering degrees / rotation control matched to a base-software rotation screen, to illustrate the mismatch section.",
+      "status": "needs-capture",
+      "notes": "Optional. Supports the steering-lock section."
+    }
+  ],
+  "openQuestions": [
+    "Road Effects: sources split on WHY (canned vibration vs real-but-noisy telemetry) but agree DD = LOW. Article states LOW without asserting mechanism — confirm this framing is acceptable, or pick one mechanism if editorial prefers a single explanation.",
+    "Per-base Gain: article gives ranges reconciling two scaling schools (scale in-game Gain vs scale base-software strength). If a single authoritative number per base is wanted, lock to the in-game-Gain school and update both the table and the infographic.",
+    "Dynamic Damping: sources split 60% vs 100%; left as range. Resolve if a single value is desired.",
+    "Should we capture real ACC screenshots (FFB panel + steering degrees) to lift this from 'good' to certification-grade? Currently 4 verified product photos + planned infographics; no game screenshots yet."
+  ]
+}

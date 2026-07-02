@@ -1,0 +1,22 @@
+{
+  "slug": "honeycomb-flight-deck-upgrade-path",
+  "articleFile": "src/content/articles/flight/honeycomb-flight-deck-upgrade-path.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 9,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Honeycomb Charlie stock is genuinely unreliable (official listing Out of Stock on 2026-07-02, some retailers pre-order-only with no firm date, one major retailer dropped the line, three-piece bundle page 404s). The Charlie gearpick embeds a verified image but the PRODUCT may not be purchasable — re-verify live stock before certifying, and decide whether to demote the Charlie gearpick to text-only if it stays vaporware.",
+    "Three in-stock alternative pedals (Logitech G Flight Rudder Pedals, VKB T-Rudder Mk.IV, Turtle Beach VelocityOne Rudder Pedals) are text-and-link only because none has a verified product image — source real photos before stage 3 gets a verified visual or before certification if the shortfall must be closed.",
+    "WinWing MIP airliner panels (MCDU, PFP 3N, PAP 3) referenced in the airliner detour are text/link only (no verified images).",
+    "Alpha + Bravo bundle price left as a range ($599.98 list / ~$632 Aircraft Spruce / occasional sub-$500 sale) with check-current — confirm a single figure before certifying if a hard price is required."
+  ],
+  "notes": "All 9 distinct embedded product images are verified (verified against src/data/verified-product-images.json: Alpha, Bravo, Charlie, MOZA MTQ, TCA Sidestick, TCA Quadrant, TCA Yoke Boeing, TrackIR 5, Tobii Eye Tracker 5). heroImage switched from the old unverified /images/flight/honeycomb-flight-deck-upgrade-path.jpg to the verified /images/gear/flight/honeycomb-alpha-yoke.jpg. Author set to Mac Donovan (curator). Frontmatter carries goldStatus refresh, sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster flight, 5 FAQs, related[] (all 3 targets exist as files). Body is verdict-first with an at-a-glance staged table, a decision-led three-stage ladder, an amber warning callout on Charlie stock, a pro-tip callout, a forum callout, an airliner-detour section, head-tracking finisher, mounting/setup-tax note, who-should-skip, verdict, and a dated Sources Checked shelf with real links. visualCount 12 = 3 shotgrid figures + 9 gearpick asides (gearpicks reuse some verified images, so 9 distinct real product photos). Left as refresh per run rules; candidateForCertification is FALSE because Charlie stock uncertainty is a live honesty blocker that a human/Codex must resolve. `npx astro build` compiles cleanly (166 pages, no errors); the page itself does not emit a route until goldStatus is flipped to certified, which is expected."
+}

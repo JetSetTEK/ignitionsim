@@ -1,0 +1,101 @@
+{
+  "slug": "best-hotas-msfs-2024",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make a civil MSFS 2024 simmer confident a stick-and-throttle is a legitimate (and cheaper) alternative to a yoke, matched to what they fly. Real product proof throughout for verified picks; honest text-only treatment for the premium/entry products without a verified flight photo.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Thrustmaster HOTAS Warthog (flight-bay path)",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-hotas-warthog.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/products/hotas-warthog/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A flight-folder file exists on disk but is NOT in verified-product-images.json, so it cannot be embedded. A verified copy exists at /images/gear/space/thrustmaster-hotas-warthog.jpg. Either add the flight-folder path to the verified set (after vision-verifying it matches) or copy the verified space photo to a flight path. Until then the Warthog is text-and-link only, matching the reference gold article's treatment."
+    },
+    {
+      "product": "VKB Gladiator NXT EVO (standard/EVO grip, flight-bay path)",
+      "preferredLocalPath": "/images/gear/flight/vkb-gladiator-nxt-evo.jpg",
+      "officialSourceUrl": "https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks",
+      "amazonUrl": "https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The article's smart-money value pick, currently text-only. Only /space/ Gladiator variants (Space Combat Edition, Omni Throttle) are verified. Needs a real GA/EVO-grip base photo before it can carry a gearpick/shotgrid in the flight bay."
+    },
+    {
+      "product": "WinWing Orion 2 (joystick base + grip)",
+      "preferredLocalPath": "/images/gear/flight/winwing-orion-2-hotas.jpg",
+      "officialSourceUrl": "https://winctrl.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Modular premium pick. No verified image on file. Text-only until a real photo is sourced."
+    },
+    {
+      "product": "Thrustmaster T.Flight HOTAS One (MSFS Edition)",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tflight-hotas-one-msfs.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/products/t-flight-hotas-one-microsoft-flight-simulator-edition/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+T.Flight+HOTAS+One+MSFS+Edition&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Entry-tier pick. No verified image. Text-only for now."
+    },
+    {
+      "product": "Turtle Beach VelocityOne Flightdeck (PC HOTAS)",
+      "preferredLocalPath": "/images/gear/flight/turtle-beach-velocityone-flightdeck.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocity-one-flight-deck",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightdeck&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "PC-only all-in-one, mentioned to disambiguate from the Xbox Flight Stick. Low priority; text-only."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg",
+    "/images/gear/flight/naturalpoint-trackir-5.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-stick-vs-yoke",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home flight-sim desk at blue-hour monitor glow, a clean desk-edge with an empty mounting spot left open for a real flight-stick product overlay, MSFS 2024 cockpit blurred on a widescreen monitor behind, curator Mac Donovan gesturing at the stick position, cable tray visible, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joystick, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "hotas-by-what-you-fly",
+      "title": "Which HOTAS for what you fly",
+      "format": "1600x1000",
+      "content": ["GA + airliners -> a yoke, not a HOTAS", "Airbus -> TCA Sidestick (~$80)", "Fighters/warbirds -> VKB Gladiator + quadrant", "Xbox -> VelocityOne Flight Stick", "DCS/combat -> Warthog or Orion 2"],
+      "style": "IgnitionSim command-center decision chart, large readable text, flight palette, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "hotas-buy-order",
+      "title": "HOTAS buy order",
+      "format": "1600x1000",
+      "content": ["1 Name your airplane", "2 Stick (contactless > pot)", "3 Throttle quadrant", "4 Rudder pedals", "5 Map by hand + export profile"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-binding-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a tidy home cockpit desk, one hand on a flight stick, other hand pointing at a monitor showing a controls-mapping menu, calm instructor energy, product overlay space beside the stick, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "msfs2024-controls-menu",
+      "purpose": "Illustrate the MSFS 2024 controls/bindings menu referenced in the binding-fix callout, so readers recognize the profile-swap problem.",
+      "notes": "Neutral in-sim UI capture only; no fabricated UI. Optional supporting visual, not required for certification."
+    }
+  ],
+  "openQuestions": [
+    "Should the verified /images/gear/space/thrustmaster-hotas-warthog.jpg be copied to a verified flight path so the Warthog can carry a gearpick image in this flight-bay article?",
+    "Confirm a hard top-end price for a full WinWing Orion 2 F-16-style HOTAS set ($1,100+ is an estimate).",
+    "Confirm current Warthog street price ($499 official vs ~$580 retail) before certifying.",
+    "Source a real flight-folder VKB Gladiator NXT EVO photo so the value pick can appear as a body visual."
+  ]
+}

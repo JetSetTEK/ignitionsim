@@ -1,0 +1,111 @@
+{
+  "slug": "quick-release-trap",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "visualGoal": "This is a low-density how-to/explainer, not a product ranking. The visual job is to make ecosystem lock-in legible: show the four representative QR behaviors (Fanatec gated, MOZA medium, Simagic open, Simucube open) with real base photos, then let a comparison infographic and a PCD diagram carry the teaching load. Do NOT force product cards; the value is in the table, the decision tree, and the tip/forum callouts.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Cube Controls GT Pro (universal 70mm-PCD anti-lock-in rim)",
+      "preferredLocalPath": "/images/gear/racing/cube-gt.jpg",
+      "officialSourceUrl": "https://www.cubecontrols.com/en/prodotto/gt-pro/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cube+Controls+GT+Pro&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The article's poster child for buying the PCD/pattern instead of the brand. Currently TEXT + Amazon-search link only because /images/gear/racing/cube-gt.jpg is NOT in verified-product-images.json. Source a real photo before it can ever appear as a gearpick/shotgrid figure. Do not embed the existing unverified path."
+    },
+    {
+      "product": "Fanatec Podium Hub / Wheel Hub (QR2 FFB-enabling adapter for third-party rims)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-podium-hub.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/sim-racing-accessories/crd-9020024-ww/fanatec-wheel-hub",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+Podium+Hub&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The single most-cited escape hatch in the article. A clean product shot of the hub would make the 'why doesn't my rim get FFB' section concrete. No verified image exists; text-only for now."
+    },
+    {
+      "product": "Simagic QR-A adapter (2025 lock-in break, 50/70mm PCD, built-in USB)",
+      "preferredLocalPath": "/images/gear/racing/simagic-qr-a.jpg",
+      "officialSourceUrl": "https://simagic.com/products/simagic-qr-a",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+QR-A+adapter&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Would visually anchor the '2025 cracked things open' claim. Accessory, no gear page. Text-only until sourced."
+    },
+    {
+      "product": "Logitech RS QR Adapter (opened G PRO to third-party rims, 70/50.8mm PCD)",
+      "preferredLocalPath": "/images/gear/racing/logitech-rs-qr-adapter.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/rs-qr-adapter",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+RS+QR+Adapter&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Optional. Reinforces the de-lock-in movement. Low priority; the brand table already carries the point in text."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-qr-click",
+      "type": "AI scene + real product composite",
+      "prompt": "Extreme macro of a machined-aluminum sim-racing quick-release coupling half-clicked onto a direct-drive wheelbase shaft, warm tungsten rim light, shallow depth of field, cables softly out of focus, editorial 16:9, space on the left for a real wheelbase product overlay. No fake logos, no fake UI text.",
+      "realOverlays": ["/images/gear/racing/fanatec-clubsport-dd-plus.webp"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, warped mechanism, impossible geometry, unreadable tiny text, procedural gradient art, plastic toy look"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "qr-brand-matrix",
+      "title": "Quick-release lock-in by brand (2026)",
+      "format": "1600x1000",
+      "content": [
+        "Fanatec QR2 (6x70mm) - HIGHEST - FFB gated; needs Podium Hub for third-party FFB",
+        "MOZA QR (6x70mm) - MEDIUM - adapter is steering-only, buttons need USB",
+        "Simagic QR-A (50/70mm) - LOW - ~$89 adapter, built-in USB, opens Alpha Evo",
+        "Logitech RS QR (70/50.8mm) - MEDIUM/improving - ~$60 official adapter opened G PRO",
+        "Simucube SQR (70/50.8mm) - LOW - open by design, zero-lash",
+        "Asetek QR (pogo-pin) - LOW - power+data through QR, comparatively open"
+      ],
+      "style": "IgnitionSim command-center matrix, color-coded lock-in column (red->green), large readable text, real base photos as row markers for Codex overlay. This is the single highest-value visual for the article."
+    },
+    {
+      "id": "pcd-explainer",
+      "title": "The 70mm / 50.8mm PCD loophole",
+      "format": "1600x1000",
+      "content": [
+        "PCD = bolt-hole spacing that clamps a rim to a QR",
+        "Two near-standards: 70mm and 50.8mm",
+        "Most rims + real-car wheels use one of them",
+        "An adapter exposing 70mm/50.8mm is what crosses brands"
+      ],
+      "style": "Clean technical diagram of a bolt circle with 6x70mm pattern labeled, second smaller 50.8mm circle, minimal racing palette, large callouts. Teaches the one spec that decodes every spec sheet."
+    },
+    {
+      "id": "avoid-the-trap-tree",
+      "title": "Decision tree: avoiding the quick-release trap",
+      "format": "1600x1000",
+      "content": [
+        "Bundle, never swap rims? QR barely matters",
+        "Want third-party rims later? Favor Simagic QR-A / Simucube SQR / Logitech RS QR",
+        "Set on Fanatec? Budget the Podium Hub",
+        "Already own third-party rims? Let the rims choose the base"
+      ],
+      "style": "Branching flowchart, IgnitionSim styling, large readable nodes, no product photos required."
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-qr-warning",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, holding a bare steering rim in one hand and gesturing at an empty wheelbase quick-release shaft, patient 'let me save you a mistake' energy, product overlay space beside him, practical not fantasy, 4:5 portrait. No fake logos.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm current USD price of the Fanatec Podium Hub / Wheel Hub before any price is quoted (article intentionally leaves it unpriced).",
+    "Verify Logitech RS QR Adapter is still ~$60 and Simagic QR-A still ~$89 at cert time.",
+    "Should we source real photos of the four adapters (Podium Hub, QR-A, RS QR, MOZA QR) so the explainer can show the escape hatches, not just the bases? Highest-leverage adds are the qr-brand-matrix infographic + the Podium Hub photo.",
+    "Cube Controls GT Pro is text-only (no verified image). Source a real GT Pro photo if we want it as a body visual."
+  ]
+}

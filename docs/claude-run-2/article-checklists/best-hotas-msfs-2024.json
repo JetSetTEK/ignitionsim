@@ -1,0 +1,22 @@
+{
+  "slug": "best-hotas-msfs-2024",
+  "articleFile": "src/content/articles/flight/best-hotas-msfs-2024.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 9,
+  "realProductImageCount": 9,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Warthog, VKB Gladiator NXT EVO, WinWing Orion 2, T.Flight HOTAS One (MSFS), and VelocityOne Flightdeck are text-and-link only because no verified flight-folder product photo exists for them. For a HOTAS buying guide, the Warthog and VKB Gladiator especially should carry real product images before certification — source photos (or promote the verified space-folder Warthog to a flight path).",
+    "Warthog price is unresolved between $499 official and ~$580 retail; left as 'check current' and must be pinned before certifying.",
+    "WinWing Orion 2 full-set top-end price ($1,100+) is an estimate, not a retrieved figure.",
+    "goldStatus intentionally left as 'refresh' per run rules — not certified."
+  ],
+  "notes": "Rewrote to gold structure: author=curator (Mac Donovan), goldStatus refresh, sourceReviewDate/updatedDate 2026-07-02, revenueTier A, contentCluster flight. Verdict-first opening, ladder table, budget/aircraft-matched picks, verified shotgrid (3) + 6 verified gearpicks (TCA Quadrant x3, TCA Sidestick, VelocityOne Flight Stick x2 across body/What-to-buy, TrackIR 5), one forum callout (original paraphrase), setup-tax + who-should-skip warnings, shortlist table, dated Sources Checked shelf with real retrieved links. All 9 embedded gear images (heroImage + shotgrid + gearpicks) are verified against verified-product-images.json — programmatic check passed, zero unverified. Exactly 2 frontmatter fences confirmed. `npx astro build` compiles clean (166 pages, OG image generated). Article does not render to a public HTML route yet because [bay]/[slug].astro only builds goldStatus==='certified' entries — same as the reference gold article, correct for a 'refresh'. Corrected a factual error carried from the reference: the VelocityOne Flightdeck is PC-only, not an Xbox 'console all-in-one'; the Xbox all-in-one is the VelocityOne Flight Stick. Also corrected stale pricing: T.Flight HOTAS One is ~$100 base / ~$110 MSFS Edition (reference said $60)."
+}

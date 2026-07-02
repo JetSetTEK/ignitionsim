@@ -1,0 +1,23 @@
+{
+  "slug": "how-to-fix-ffb-clipping-direct-drive-2026",
+  "articleFile": "src/content/articles/racing/how-to-fix-ffb-clipping-direct-drive-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 1,
+  "realProductImageCount": 1,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low visual density BY DESIGN: 1 verified product image (MOZA R12). A settings how-to cannot hit 8 verified product images without forcing irrelevant hardware (run rules forbid). Certification should rest on the 4 infographics in the image manifest (signal-shear diagram, is-it-clipping decision tree, 5% walk-down loop, per-sim meter cheat-sheet) plus OWNED meter screenshots (iRacing F-bar, ACC FFBClip graph, SimHub overlay) — Codex to produce.",
+    "iRacing native-360Hz 'irFFB no longer required for direct drive' is season/firmware-dependent — re-verify at cert time.",
+    "MOZA R12 US price shown as '~$429 · check current' (MOZA page geo-served CAD $549 to the fetch; no hard US MSRP quoted) — confirm before certifying.",
+    "ACC FFBClip app is named but not hyperlinked (OverTake download page 403s to automated fetch) — confirm a stable URL or leave named.",
+    "Per-sim gain values are intentionally relative (walk-down method); no absolute numbers fabricated — correct; do not add invented settings."
+  ],
+  "notes": "Gold-candidate content quality for a low-density how-to: verdict-first bold opening; new 'is it actually clipping?' decision-tree callout (three non-clipping causes of dead feel); per-sim meter locations corrected against fresh research (iRacing F-bar turns ORANGE at max; ACC has NO native numeric meter -> FFBClip app / SimHub overlay / feel, replacing the prior draft's inaccurate 'Analyze-tab Steering Torque graph' claim; LMU torque cap + feel; SimHub community overlay as catch-all); 5% walk-down; two-traps section; headroom edge case with a single verified MOZA R12 gearpick; who-should-skip; 2026 irFFB/Wheelcheck section updated with the rebuilt irFFB2026 (Pacejka SAT cues + SimHub clipping-% overlay + auto-tune Max Force); ordered fix; dated Sources Checked refreshed with the real tool + guidance URLs actually retrieved on 2026-07-02 (iRacing meter-box + calibration support pages, SimHub, irFFB2026 GitHub, SimRacingCockpit iRacing/LMU, directdrivewheels, Coach Dave ACC, Driver Labs, MOZA official). Curator=author (Duke Alvarez). goldStatus 'refresh' (NOT certified). Frontmatter has exactly 2 fences; every embedded /images/gear/ path (only moza-r12.jpg) is in verified-product-images.json; no literal wrapper text; free/OSS tools linked to official pages, not Amazon. npx astro build passes with no errors (article intentionally not routed to a public page because isCertifiedArticle gates on goldStatus==='certified')."
+}

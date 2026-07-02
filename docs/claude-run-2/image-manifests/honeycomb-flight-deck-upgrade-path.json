@@ -1,0 +1,99 @@
+{
+  "slug": "honeycomb-flight-deck-upgrade-path",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make a GA simmer want to start the Honeycomb ladder at the Alpha yoke and climb it in order, while being told the honest 2026 truth that the Charlie pedals are hard to buy. Real product proof for every in-stock piece; no procedural art. The emotional beat is 'buy the two pieces that are real and excellent, then grab whatever pedal is actually in stock.'",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G Flight Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/space/flight-rudder-pedals.945-000023.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget in-stock alternative to the unavailable Charlie. Currently text-only in the 'pedals you can actually buy today' list. A real base photo would let it become a gearpick/shotgrid and strengthen the stage-3 answer."
+    },
+    {
+      "product": "VKB T-Rudder Mk.IV",
+      "preferredLocalPath": "/images/gear/flight/vkb-t-rudder-mk4.jpg",
+      "officialSourceUrl": "https://vkbcontrollers.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=VKB+T-Rudder+rudder+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Combat/warbird in-stock pedal (no toe brakes). Text-only until a real photo is sourced. Note the newer Mk.V is the current revision — verify which generation the photo shows."
+    },
+    {
+      "product": "Turtle Beach VelocityOne Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/turtle-beach-velocityone-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocity-one-rudder",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The only serious Xbox + PC pedal option and the console-flyer's answer for stage 3. Text-only until a real photo is sourced. Note turtle-beach-velocityone-flight-stick.jpg IS verified but that is the STICK, not the pedals — do not substitute."
+    },
+    {
+      "product": "WinWing MIP MCDU (A320)",
+      "preferredLocalPath": "/images/gear/flight/winwing-mcdu-a320.jpg",
+      "officialSourceUrl": "https://winctrl.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Airliner-detour panel, text/link only. WinWing/WinCTRL store link preferred over Amazon. Low priority for this GA-focused article."
+    },
+    {
+      "product": "WinWing PFP 3N (Boeing 737 CDU) and PAP 3 (737 MCP)",
+      "preferredLocalPath": "/images/gear/flight/winwing-pap-3-mcp.jpg",
+      "officialSourceUrl": "https://winctrl.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+PAP+3+MCP&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Airliner-detour panels, text/link only. Low priority; this article's core is the GA Honeycomb ladder."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/flight/honeycomb-bravo-throttle.jpg",
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "/images/gear/flight/moza-mtq-throttle-quadrant.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg",
+    "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "/images/gear/flight/tobii-eye-tracker-5.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-honeycomb-ladder",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home GA flight-sim desk at blue-hour window light, a clean wooden desk with an empty desk-clamp zone at front-center left open for a real Honeycomb Alpha yoke product overlay, and staged empty placement zones to its right for a throttle and a floor pedal set, subtle navy-and-cyan IgnitionSim palette, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/honeycomb-alpha-yoke.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake yoke, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "honeycomb-buy-order",
+      "title": "The Honeycomb upgrade ladder",
+      "format": "1600x1000",
+      "content": ["1 Alpha yoke — pitch/roll + start-up switches (~$300, in stock)", "2 Bravo throttle — power + autopilot panel (~$300, in stock)", "3 Rudder pedals — yaw + toe brakes (Charlie ~$350 but OFTEN OUT OF STOCK; buy an in-stock set instead)", "Finish: head tracking ties the view together"],
+      "style": "Numbered ladder, IgnitionSim command-center chart, large readable text, real Honeycomb product photos as row markers for Codex overlay, a clear 'check current stock' flag on rung 3"
+    },
+    {
+      "id": "charlie-stock-truth",
+      "title": "Can you actually buy a Charlie in 2026?",
+      "format": "1600x1000",
+      "content": ["Official store: listed $349.99 but OUT OF STOCK (2026-07-02)", "Some pilot shops: open pre-order, no firm date", "One major retailer: dropped the Honeycomb line", "Three-piece bundle page: no longer resolves", "Verdict: treat as check-current; buy an in-stock pedal"],
+      "style": "Honest-broker status card, amber warning accents, IgnitionSim palette, large legible text, no fake stock badges"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-charlie-honesty",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan in a tidy home cockpit corner, one hand resting on a desk-mounted yoke, gesturing toward an empty floor space where rudder pedals would go, calm honest-advisor energy, practical not fantasy, product overlay space beside him, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Re-verify Honeycomb Charlie stock and the Captain's Bundle URL before any future refresh — if Charlie genuinely restocks, soften the warning callout; if it stays vaporware, consider demoting the Charlie gearpick to text-only.",
+    "Do we want to source real photos for the three in-stock alternative pedals (Logitech G, VKB T-Rudder Mk.IV, Turtle Beach VelocityOne) so stage 3 has a verified visual rather than three text links?",
+    "Exact current Alpha + Bravo bundle price ($599.98 list vs ~$632 Aircraft Spruce vs sub-$500 sale bundles) — quoted as a range with check-current."
+  ]
+}

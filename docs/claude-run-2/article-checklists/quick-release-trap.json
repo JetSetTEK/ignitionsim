@@ -1,0 +1,21 @@
+{
+  "slug": "quick-release-trap",
+  "articleFile": "src/content/articles/racing/quick-release-trap.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 4,
+  "realProductImageCount": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Only 4 verified product images embedded (hero + shotgrid). This is a low-density QR/lock-in explainer, so product cards were intentionally NOT forced; reaching the 8-verified-image bar honestly requires Codex to source the highest-value visuals for this topic — the qr-brand-matrix infographic and real photos of the escape-hatch adapters (Fanatec Podium Hub, Simagic QR-A, Logitech RS QR, MOZA QR adapter), none of which are in verified-product-images.json.",
+    "Cube Controls GT Pro is referenced in the body as the anti-lock-in rim but has NO verified image; it is text + Amazon-search link only. A real GT Pro photo is a needs-download item before it could become a body visual.",
+    "Fanatec Podium Hub / Wheel Hub current USD price is unconfirmed; the article deliberately quotes no price. Confirm before certifying if a price is added. Verify Logitech RS QR (~$60) and Simagic QR-A (~$89) are still current."
+  ],
+  "notes": "Rewritten to gold structure: author Duke Alvarez, goldStatus refresh (NOT certified), added sourceReviewDate/updatedDate 2026-07-02, revenueTier B, contentCluster racing. Verdict-first opening; verified hero (fanatec-clubsport-dd-plus.webp) + 4-figure verified shotgrid; brand-vs-QR comparison table; a dedicated PCD explainer section (the one spec that decodes compatibility); a tip callout ('an adapter is not always a full unlock' — MOZA steering-only nuance); a forum callout (Fanatec FFB-gating heartbreak); a decision tree; buy order; dated Sources Checked shelf with 10 real links. All 4 embedded gear images verified against verified-product-images.json. Exactly 2 frontmatter fences confirmed. Deliberately low product density per run instructions — no gearpick cards forced. 5 FAQs. Both related slugs (moza-vs-fanatec-vs-simagic, smart-upgrade-path) exist. Left as refresh, candidate=false because verified image count is honestly 4, not 8."
+}

@@ -973,103 +973,94 @@ const schema = [{
     font-size: .52rem;
     letter-spacing: .04em;
   }
+  /* Feature-guide cards — bulletproof vertical card: never skinny (min 320px),
+     never towering (capped title/excerpt). Media on top, copy below. */
   .feature-guide-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
   }
   .feature-guide {
     --world-a: var(--accent);
     --world-b: var(--accent2);
     color: #101820;
-    display: grid;
-    grid-template-rows: auto 1fr;
-    min-height: 0;
+    display: flex;
+    flex-direction: column;
     overflow: hidden;
-    border: 2px solid color-mix(in srgb, var(--world-a) 38%, rgba(16,24,32,.16));
-    border-radius: 24px 24px 18px 18px;
-    background:
-      radial-gradient(420px 280px at 10% 12%, color-mix(in srgb, var(--world-a) 13%, transparent), transparent 70%),
-      linear-gradient(135deg, #fff, color-mix(in srgb, var(--world-a) 6%, #f7fafc));
-    box-shadow: 0 12px 0 rgba(16,24,32,.12), 0 30px 64px rgba(16,24,32,.12);
+    border: 2px solid color-mix(in srgb, var(--world-a) 34%, rgba(16,24,32,.16));
+    border-radius: 20px;
+    background: linear-gradient(160deg, #fff, color-mix(in srgb, var(--world-a) 5%, #f6f9fb));
+    box-shadow: 0 10px 0 rgba(16,24,32,.10), 0 26px 56px rgba(16,24,32,.13);
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
   }
-  .feature-guide:hover {
-    transform: translateY(-5px);
-    border-color: #101820;
-    box-shadow: 0 14px 0 rgba(16,24,32,.15), 0 34px 70px color-mix(in srgb, var(--world-a) 17%, transparent);
+  @media (prefers-reduced-motion: no-preference) {
+    .feature-guide:hover {
+      transform: translateY(-5px);
+      border-color: #101820;
+      box-shadow: 0 14px 0 rgba(16,24,32,.15), 0 34px 70px color-mix(in srgb, var(--world-a) 18%, transparent);
+    }
   }
   .feature-guide-media {
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    aspect-ratio: 16 / 9;
-    min-height: 0;
-    padding: 30px;
+    display: grid;
+    place-items: center;
+    aspect-ratio: 16 / 10;
+    width: 100%;
+    padding: 22px 22px 26px;
     overflow: hidden;
-    border-right: 0;
     border-bottom: 2px solid rgba(16,24,32,.1);
     background:
-      radial-gradient(420px 240px at 72% 24%, color-mix(in srgb, var(--world-b) 18%, transparent), transparent 70%),
-      radial-gradient(400px 210px at 14% 100%, color-mix(in srgb, var(--world-a) 14%, transparent), transparent 70%),
-      linear-gradient(145deg, color-mix(in srgb, var(--world-a) 12%, #fff), #fff 50%, color-mix(in srgb, var(--world-b) 10%, #fff)),
-      repeating-linear-gradient(90deg, rgba(16,24,32,.045) 0 1px, transparent 1px 32px);
+      radial-gradient(360px 200px at 70% 18%, color-mix(in srgb, var(--world-b) 20%, transparent), transparent 72%),
+      radial-gradient(340px 180px at 12% 108%, color-mix(in srgb, var(--world-a) 16%, transparent), transparent 72%),
+      linear-gradient(150deg, color-mix(in srgb, var(--world-a) 12%, #fff), #fff 52%, color-mix(in srgb, var(--world-b) 10%, #fff));
   }
+  /* soft pedestal so the product reads as staged, not lost */
   .feature-guide-media::before {
     content: "";
     position: absolute;
-    inset: auto 14% 24px 14%;
-    height: 22%;
+    left: 18%; right: 18%; bottom: 16px;
+    height: 16%;
     border-radius: 999px;
-    background: linear-gradient(90deg, color-mix(in srgb, var(--world-a) 22%, transparent), color-mix(in srgb, var(--world-b) 16%, transparent));
-    filter: blur(20px);
-    transform: perspective(500px) rotateX(58deg);
-  }
-  .feature-guide-media::after {
-    content: "";
-    position: absolute;
-    inset: 14px;
-    border: 1px solid color-mix(in srgb, var(--world-a) 16%, transparent);
-    border-radius: 18px;
-    pointer-events: none;
+    background: radial-gradient(ellipse at center, rgba(16,24,32,.20), transparent 70%);
+    filter: blur(10px);
   }
   .feature-guide-media img {
     position: relative;
     z-index: 1;
-    width: min(100%, 360px);
-    height: min(250px, 82%);
+    width: auto;
+    max-width: 88%;
+    max-height: 100%;
     object-fit: contain;
-    mix-blend-mode: multiply;
-    filter: drop-shadow(0 26px 30px rgba(16,24,32,.28));
-    transition: transform .48s ease;
+    filter: drop-shadow(0 20px 26px rgba(16,24,32,.26));
+    transition: transform .4s ease;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .feature-guide:hover .feature-guide-media img { transform: scale(1.06); }
   }
   .feature-guide-media.is-wide-art {
     padding: 0;
     background: #101820;
   }
-  .feature-guide-media.is-wide-art::before,
-  .feature-guide-media.is-wide-art::after {
-    display: none;
-  }
+  .feature-guide-media.is-wide-art::before { display: none; }
   .feature-guide-media.is-wide-art img {
     width: 100%;
     max-width: none;
     height: 100%;
-    min-height: 0;
+    max-height: none;
     object-fit: cover;
-    mix-blend-mode: normal;
     filter: none;
   }
-  .feature-guide:hover .feature-guide-media.is-wide-art img { transform: scale(1.025); }
-  .feature-guide:hover .feature-guide-media img { transform: scale(1.08) rotate(-1deg); }
+  @media (prefers-reduced-motion: no-preference) {
+    .feature-guide:hover .feature-guide-media.is-wide-art img { transform: scale(1.03); }
+  }
   .feature-guide-badge {
     position: absolute;
     left: 14px;
     top: 14px;
     z-index: 2;
-    padding: 7px 9px;
-    border-radius: 10px;
-    background: linear-gradient(135deg, #101820, color-mix(in srgb, var(--world-a) 28%, #101820));
+    padding: 6px 10px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #101820, color-mix(in srgb, var(--world-a) 30%, #101820));
     color: #fff;
     font-family: var(--font-mono);
     font-size: .54rem;
@@ -1079,10 +1070,11 @@ const schema = [{
     box-shadow: 0 8px 18px rgba(16,24,32,.2);
   }
   .feature-guide-copy {
-    padding: 22px 24px 26px;
+    padding: 18px 22px 22px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    gap: 8px;
+    flex: 1;
   }
   .feature-guide-index {
     font-family: var(--font-mono);
@@ -1093,23 +1085,32 @@ const schema = [{
     font-weight: 800;
   }
   .feature-guide h3 {
-    margin-top: 10px;
-    font-size: clamp(1.16rem, 1.75vw, 1.55rem);
-    line-height: 1.08;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .feature-guide p {
-    margin-top: 12px;
-    color: #334155;
-    font-size: .92rem;
-    line-height: 1.55;
+    font-size: clamp(1.12rem, 1.4vw, 1.4rem);
+    line-height: 1.16;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    min-height: 3.5em;
+  }
+  .feature-guide p {
+    color: #334155;
+    font-size: .9rem;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .feature-guide-copy::after {
+    content: "Read the guide →";
+    margin-top: auto;
+    padding-top: 12px;
+    font-family: var(--font-mono);
+    font-size: .68rem;
+    font-weight: 800;
+    letter-spacing: .04em;
+    color: var(--accent);
   }
   .crew-grid {
     display: grid;

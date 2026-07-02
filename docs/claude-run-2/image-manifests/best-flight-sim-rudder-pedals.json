@@ -1,0 +1,116 @@
+{
+  "slug": "best-flight-sim-rudder-pedals",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make a simmer buy pedals at the RIGHT time and by the RIGHT mechanism (sliding vs low-profile vs pendular vs force-feedback), not day-one and not by brand prestige. Real pedal product proof throughout; no procedural art. Only the Honeycomb Charlie has a verified photo, so real photos of the rest of the roster are the top visual need.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G Flight Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget all-rounder and the article's recommended first buy. Image file exists on disk but is NOT in verified-product-images.json, so it is currently a labeled Honeycomb Charlie stand-in. Verify or re-source before it can appear as its own gearpick/shotgrid or before certification."
+    },
+    {
+      "product": "VKB T-Rudder Mk.V",
+      "preferredLocalPath": "/images/gear/flight/vkb-t-rudder-mk4.jpg",
+      "officialSourceUrl": "https://vkbsimcontrollers.com/products/t-rudders-mk-v-rudder-pedals-us",
+      "amazonUrl": "https://www.amazon.com/s?k=VKB+T-Rudder+Mk.V+rudder+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "No-toe-brake combat/warbird pick. Existing on-disk file is the Mk.IV image and is NOT verified; the gear page id is still vkb-t-rudder-mk4. Source a verified Mk.V photo (and consider renaming the id to mk5) before real visual or certification."
+    },
+    {
+      "product": "Turtle Beach VelocityOne Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/turtle-beach-velocityone-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocity-one-rudder",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The only serious Xbox+PC pedal option. Image file exists on disk but is NOT verified; currently a labeled Charlie stand-in."
+    },
+    {
+      "product": "Thrustmaster TPR Pendular Rudder",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tpr-pendular-rudder.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/tpr-thrustmaster-pendular-rudder/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TPR+Pendular+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Premium pendular flagship, text-and-link only in body. No catalog entry and no image yet. Add flight.json entry + gear page + verified photo to make it a body visual."
+    },
+    {
+      "product": "Thrustmaster TFRP T.Flight Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tfrp-flight-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/t-flight-rudder-pedals/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TFRP+Flight+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Cheapest entry, text-and-link only. No catalog entry and no image yet."
+    },
+    {
+      "product": "MFG Crosswind V3",
+      "preferredLocalPath": "/images/gear/flight/mfg-crosswind-v3-rudder-pedals.jpg",
+      "officialSourceUrl": "https://mfg-sim.com/rudders/mfg-crosswind-v3-combat-rudder-pedals.html",
+      "amazonUrl": "https://www.amazon.com/s?k=MFG+Crosswind+V3+rudder+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Enthusiast Hall-effect standard, text-and-link only (official mfg-sim.com link in body). No catalog entry and no image yet."
+    },
+    {
+      "product": "WinCTRL Orion 32 Rudder Pedals (Metal)",
+      "preferredLocalPath": "/images/gear/flight/winctrl-orion-32-rudder-pedals.jpg",
+      "officialSourceUrl": "https://winctrl.com/view/goods-details.html?id=1845",
+      "amazonUrl": "https://www.amazon.com/s?k=WinCTRL+Orion+32+rudder+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "New-for-2026 airliner heel-pivot set, text-and-link only (official winctrl.com link in body). No catalog entry and no image yet."
+    },
+    {
+      "product": "WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)",
+      "preferredLocalPath": "/images/gear/flight/winctrl-cybertaurus-ffb-rudder-pedals.jpg",
+      "officialSourceUrl": "https://winctrl.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinCTRL+CyberTaurus+force+feedback+rudder+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The force-feedback rudder pedals that finally shipped in 2026, text-and-link only (official winctrl.com link in body). No catalog entry and no image yet; prices/force ratings still settling."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-when-to-buy-pedals",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home flight-sim desk at golden-hour rim light, a real pair of rudder pedals under the desk on a rubber anti-slip mat, a yoke and throttle above on the desk, empty floor space beside the pedals left open for a real product overlay, curator Mac Donovan seated with feet on the pedals mid-crosswind-correction, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/honeycomb-charlie-pedals.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake pedals, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "pedal-mechanism-map",
+      "title": "The four rudder-pedal mechanisms",
+      "format": "1600x1000",
+      "content": ["Sliding (rails, cheapest)", "Low-profile / heel-pivot (compact, often no brakes)", "Pendular (swings on a pivot, premium feel)", "Force feedback (powered yaw, new 2026)"],
+      "style": "IgnitionSim command-center chart, large readable text, flight colors, real pedal photos as row markers for Codex overlay"
+    },
+    {
+      "id": "pedal-buy-timing",
+      "title": "When to actually buy rudder pedals",
+      "format": "1600x1000",
+      "content": ["Beginner: twist-axis is fine", "Signal: crosswind landings fight you", "Signal: taildragger ground handling", "Signal: twist cross-couples into roll", "Then: match mechanism + toe-brake need"],
+      "style": "Numbered decision ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-pedal-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan in a clean home cockpit bay, feet on a pair of rudder pedals, one hand gesturing to a mat under the pedals, calm instructor energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Verify (or re-source) the on-disk-but-unverified pedal images: logitech-g-flight-rudder-pedals.jpg, vkb-t-rudder-mk4.jpg, turtle-beach-velocityone-rudder-pedals.jpg — why are they on disk but absent from verified-product-images.json?",
+    "Confirm exact current USD pricing for WinCTRL Orion 32 (metal vs with-damper), WinCTRL CyberTaurus EB195/EB590, MFG Crosswind V3 complete pack, and Thrustmaster TPR street price before certifying.",
+    "Do we want to add flight.json catalog entries + gear pages for TFRP, TPR, MFG Crosswind V3, WinCTRL Orion 32 (and possibly CyberTaurus) so their references become internal links?",
+    "Should the VKB gear-page id migrate from vkb-t-rudder-mk4 to a Mk.V id to match the current-gen product the article now recommends?"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "best-flight-sim-setup-beginners",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make a brand-new MSFS 2024 pilot feel calm about the buy order: fly free first, then buy the ONE control that matches their airplane. Real, verified product proof on every recommended first buy (yoke, side-stick, console stick, throttle, pedals); no procedural art. The two most-cited beginner products (Logitech G PRO Yoke, Logitech G rudder pedals) are honestly text-only until real photos are sourced.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G PRO Flight Yoke System",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-pro-flight-yoke-system.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/flight-simulator-yoke-system",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+PRO+Flight+Yoke+System&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The single most-recommended beginner GA buy ($179.99 official). Currently text-and-link only in Build 1 because no verified image. Highest-priority photo to source: this is the article's headline budget pick. Until sourced, its /flight/gear/logitech-g-pro-flight-yoke-system page does not build (gear route requires a verified image)."
+    },
+    {
+      "product": "Logitech G Flight Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The standard budget rudder-pedal answer ($179.99 official). Text-and-link only in the rudder section until a real photo is sourced. Its gear page also does not build until an image exists."
+    },
+    {
+      "product": "Thrustmaster TCA Sky Yoke (verified .png exists but product is pre-launch)",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tca-sky-yoke.png",
+      "officialSourceUrl": "https://fselite.net/content/thrustmaster-fsexpo-2026/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TCA+Sky+Yoke&tag=ignitionsim-20",
+      "status": "verified-but-prelaunch",
+      "notes": "Image IS in the verified set (.png). Referenced in a pro-tip and the verdict as a Q3 2026 watchlist console-yoke option, but deliberately NOT embedded as a gearpick because the product has not shipped and specs/price are pre-launch. Promote to an embedded gearpick once retail units + reviews confirm the specs."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/flight/honeycomb-bravo-throttle.jpg",
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg",
+    "/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-buy-order-staircase",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic warm-lit home desk at dusk with cyan and amber cockpit glow, a clean GA sim setup: an empty desk-edge clamp mount left open for a real yoke product overlay, an Xbox-style gamepad resting beside it to imply the free starting point, curator Mac Donovan gesturing from gamepad toward the mount as a step up, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/honeycomb-alpha-yoke.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake yoke, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "beginner-buy-order-ladder",
+      "title": "What to buy first (and what to skip)",
+      "format": "1600x1000",
+      "content": ["0 Fly the gamepad you own (free)", "1 One control matched to your airplane: yoke (GA) / side-stick (Airbus) / stick (Xbox)", "2 Throttle quadrant", "3 Rudder pedals — only when a maneuver demands them", "SKIP on day one: pedals, panels, head tracking"],
+      "style": "IgnitionSim command-center numbered ladder, large readable text, flight colors, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "three-builds-price-tiers",
+      "title": "Three beginner builds by budget",
+      "format": "1600x1000",
+      "content": ["~$130-180 Get airborne: Logitech G PRO Yoke / TCA Sidestick / VelocityOne", "~$300 Committed GA: Honeycomb Alpha + basic quadrant", "~$500-600 Enthusiast: Honeycomb Alpha + Bravo", "Rudder: add pedals later from ~$180"],
+      "style": "Three stacked price-tier cards, product-photo placeholders for Codex overlays, flight accent colors"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-name-your-airplane-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan seated at a tidy home cockpit desk, one hand resting on a GA yoke, calm mentor energy pointing at a small Cessna on screen, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source real product photos for the Logitech G PRO Flight Yoke System and Logitech G Flight Rudder Pedals so the article's two headline beginner picks can become embedded gearpicks and their gear pages build?",
+    "Confirm exact current Honeycomb Alpha + Bravo bundle/sale price before certifying (Alpha page shows no single bundle SKU price)?",
+    "Re-confirm TCA Sky Yoke retail price/ship date once units land, then decide whether to promote it from pro-tip mention to an embedded gearpick?"
+  ]
+}

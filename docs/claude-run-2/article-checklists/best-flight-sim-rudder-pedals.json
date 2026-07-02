@@ -1,0 +1,22 @@
+{
+  "slug": "best-flight-sim-rudder-pedals",
+  "articleFile": "src/content/articles/flight/best-flight-sim-rudder-pedals.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 8,
+  "realProductImageCount": 8,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Only ONE verified product image exists for the entire pedal roster (Honeycomb Charlie). Every other embedded visual reuses honeycomb-charlie-pedals.jpg as a clearly-labeled stand-in. Real, verified studio photos are needed for the Logitech G, VKB T-Rudder Mk.V, Turtle Beach VelocityOne, Thrustmaster TPR/TFRP, MFG Crosswind V3, and WinCTRL Orion 32 before the article can carry true per-product visuals or be certified.",
+    "The Logitech / VKB / VelocityOne image files exist on disk under /images/gear/flight/ but are NOT in verified-product-images.json — resolve whether they were rejected or just never verified before treating them as usable.",
+    "Confirm exact current USD pricing before certifying: WinCTRL Orion 32 (~$298.55 metal / ~$372.75 damper), WinCTRL CyberTaurus EB195 (~$499.95) / EB590 (~$799.95), MFG Crosswind V3 complete pack (~$335), and Thrustmaster TPR street price vs the $599.99 official MSRP. All left as approximate / check-current in the body.",
+    "Turtle Beach VelocityOne and Honeycomb Charlie prices are from the internal product DB and left as ~ / check-current — verify against live retail before certification."
+  ],
+  "notes": "Rewrite to gold structure complete: author Mac Donovan; verdict-first bold opening; four-mechanism explainer (sliding / low-profile / pendular / force-feedback); buy-order ladder; do-you-need-them-yet gate; per-tier sections budget->cheapest->no-brake->matched-deck->enthusiast Hall-effect->airliner heel-pivot->console->premium pendular->now-shipping FFB; shortlist comparison table; setup-tax warnings; toe-brake question settled; who-should-skip; What-to-buy stack; dated Sources Checked shelf with real 2026 links. 6 FAQs, related[] set to 4 existing flight slugs. Biggest 2026 content update vs prior version: force-feedback rudder pedals moved from 'announced' to SHIPPING (WinCTRL CyberTaurus EB195/EB590) and the new WinCTRL Orion 32 airliner heel-pivot set added; VKB updated Mk.IV->Mk.V; all prices refreshed to official 2026 figures. HARD IMAGE RULE honored: only honeycomb-charlie-pedals.jpg (the sole verified pedal image) is embedded; all 8 embeds point to it, 4 of them as inline-disclosed stand-ins for products lacking a verified photo. Products without a verified image are text + Amazon-search (rel='sponsored nofollow noopener') or official manufacturer links (MFG/WinCTRL). Exactly 2 frontmatter fences; npx astro build passes clean (166 pages). Left as goldStatus:refresh per run rules — NOT certified (site only builds a page when goldStatus==='certified', which is the intended human gate). candidateForCertification=false because the single-verified-image shortfall and unconfirmed check-current prices are real certification blockers, surfaced honestly rather than papered over. visualCount/realProductImageCount = 8 embeds of the one verified photo; the honest distinct-verified-product-photo count is 1."
+}

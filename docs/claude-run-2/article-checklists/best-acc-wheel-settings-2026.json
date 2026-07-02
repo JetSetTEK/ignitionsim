@@ -1,0 +1,22 @@
+{
+  "slug": "best-acc-wheel-settings-2026",
+  "articleFile": "src/content/articles/racing/best-acc-wheel-settings-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 6,
+  "realProductImageCount": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low-product-density settings explainer: only 4 distinct verified product photos are genuinely relevant (MOZA R12, Simagic Evo Pro, Fanatec ClubSport DD+, Simucube 2 Sport). Reaching 8 verified images would require forcing irrelevant product cards, which the run rules forbid. Certification should wait on Codex infographics (per-base settings table, Road Effects correction, tune-by-feel flow) and optional real ACC screenshots, not on padded product cards.",
+    "Two accuracy dependencies carried in the manifest openQuestions: (a) Road Effects mechanism is disputed across sources (the article states the LOW-on-DD consensus without asserting a mechanism — acceptable, but a human should confirm the framing); (b) per-base Gain is given as ranges reconciling two valid scaling schools. If editorial wants a single authoritative number per base, lock the table to one school before certifying.",
+    "Fanatec CSL DD has no verified studio photo, so it is text + Amazon-search link only (needs-download in the image manifest). Not required for this how-to, but flagged.",
+    "All prices left as 'check current' (no hard figures quoted) — intentional, but means there is nothing time-stamped to verify at cert time beyond re-confirming the settings guidance still holds post-patch."
+  ],
+  "notes": "Full gold-structure rewrite from prior version. Author set to Duke Alvarez; goldStatus left 'refresh' (NOT certified) per run rules; added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster racing. Hero swapped to a VERIFIED path (/images/gear/racing/moza-r12.jpg) — the prior hero (/images/racing/best-acc-wheel-settings-2026.jpg) was NOT in verified-product-images.json. MAJOR FACTUAL CORRECTIONS vs prior version, all sourced: (1) Road Effects on DD reversed from 'HIGH, amplifies real telemetry' to 'LOW (0-15%)' per 2026 DD guides; (2) removed the invented 'ACC Analyze-tab clipping graph' — ACC has no in-game force meter, tuning is by feel; (3) reframed the invented 'controls.json bug' as the real steering-degrees mismatch between base software and game. 5 FAQs (up from 4), all rewritten to match corrected guidance. Verdict-first bold opening, verified shotgrid (4 bases), 2 verified gearpicks, per-base table, tip + forum callouts, setup-tax warnings, settings buy-order, dated Sources Checked shelf with 8 real retrieved links. Every embedded image confirmed against verified-product-images.json; no unverified fanatec-csl-dd.jpg remains. Exactly 2 frontmatter fences. npx astro build completes cleanly (166 pages) when an unrelated pre-existing broken flight WIP file is parked; my article's YAML+markdown parse without error. Did NOT touch the flight file or any other agent's in-flight files."
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "how-to-fix-ffb-clipping-direct-drive-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "visualGoal": "A settings how-to / explainer: the load-bearing visuals are DIAGRAMS (what clipping does to the force signal, the diagnose-the-dead-feel decision tree, the 5% walk-down loop, per-sim meter locations) and OWNED meter screenshots — NOT product photos. One verified product photo (MOZA R12) anchors the narrow 'more headroom' edge case. Do NOT force unrelated verified hardware into an FFB explainer to inflate image count.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg"
+  ],
+  "editorialCompositePrompts": [],
+  "infographicPrompts": [
+    {
+      "id": "clipping-signal-shear",
+      "title": "What clipping does to the force signal",
+      "format": "1600x1000",
+      "content": ["Requested force wave rising past the motor ceiling (e.g. 12Nm line)", "Everything above ceiling sheared flat", "Lost cues labeled: oversteer onset, front-grip loss, curb strike", "Same wave at lower gain: full detail preserved under the ceiling"],
+      "style": "IgnitionSim command-center chart, waveform + horizontal ceiling line, racing colors, large readable labels"
+    },
+    {
+      "id": "is-it-clipping-decision-tree",
+      "title": "Is it actually clipping? Diagnose the 'dead' feel",
+      "format": "1600x1000",
+      "content": ["Strong but flat wall under load, worst on curbs -> CLIPPING (lower gain)", "Weak/vague everywhere -> too little gain or low-torque base (raise gain)", "Notchy/rattly on straights, fine under load -> cogging / Min Force / over-filter (set Min Force 0)", "FFB vanished mid-session on MOZA -> Hands-Off Protection (check Pit House)"],
+      "style": "Four-branch decision tree, colour-coded, product-photo-free, big text; mirrors the article's decision-tree callout"
+    },
+    {
+      "id": "five-percent-walkdown",
+      "title": "The 5% walk-down loop",
+      "format": "1600x1000",
+      "content": ["1 Meter on screen", "2 Drive 5 laps on a GT3 with one big curb", "3 Pinned at top through normal corners? -5% gain", "4 Repeat", "5 Stop when it flashes at the top only on genuine impacts"],
+      "style": "Numbered flow loop, product-photo-free, big text"
+    },
+    {
+      "id": "per-sim-meter-locations",
+      "title": "Where the force meter lives, sim by sim",
+      "format": "1600x1000",
+      "content": ["iRacing: press F -> F bar fills orange = clipping", "ACC: no native meter -> FFBClip app or SimHub overlay, or feel for the wall", "LMU: no numeric meter -> set torque cap + feel, or SimHub overlay", "Any sim: SimHub community FFB overlay"],
+      "style": "Four-panel cheat sheet, real OWNED screenshots preferred where available; NO fabricated game UI"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-clipping-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez at a direct-drive rig, one hand easing an in-game gain slider down, force-meter overlay visible on the monitor (real owned capture, not fabricated UI), confident-mechanic energy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    "OWNED capture of iRacing F-bar clipping (bar full and orange) vs a healthy breathing bar",
+    "OWNED capture of the ACC FFBClip app graph: delivered-force trace flatlined against the ceiling vs spiking-but-breathing",
+    "OWNED capture of a SimHub FFB-meter overlay in LMU / rFactor 2 (bar pinned at top vs moving)",
+    "NEVER AI-generate fake game UI or telemetry for any of these."
+  ],
+  "openQuestions": [
+    "Re-verify iRacing native-360Hz 'irFFB not required for DD' claim at cert time (season/firmware-dependent).",
+    "Confirm a stable link for the ACC FFBClip app before hyperlinking it (OverTake download page 403s to automated fetch); currently named-not-linked in the body.",
+    "Confirm SimHub still has no single built-in one-click clip warning (capability is community FFB-meter dashboards + irFFB2026 overlay).",
+    "This how-to legitimately cannot reach 8 verified product images without forcing irrelevant hardware; certification should rest on the four infographics + OWNED meter screenshots above, not product-photo count."
+  ]
+}

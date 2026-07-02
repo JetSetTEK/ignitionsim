@@ -1,0 +1,71 @@
+{
+  "slug": "honeycomb-vs-thrustmaster-tca",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make the yoke-vs-sidestick mission split instantly legible: Honeycomb GA gear on one side, Thrustmaster TCA airliner gear on the other, with real verified product proof for every ecosystem's anchor pieces (Alpha, Bravo, TCA Sidestick, TCA Quadrant, TCA Boeing Yoke). No procedural art. Reinforce the 'name your airplane' decision, not a spec-sheet brawl. The Honeycomb Charlie pedals photo IS verified but is honestly kept text-only as a natural-next GA piece rather than a head-to-head contender.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Honeycomb Charlie Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+      "officialSourceUrl": "https://flyhoneycomb.com/products/charlie-rudder-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "verified-not-embedded",
+      "notes": "Image is ALREADY in verified-product-images.json. It is referenced in text/links only (the natural-next GA piece that finishes the Honeycomb three-piece deck), not embedded as a gearpick, to keep the article focused on the two head-to-head ecosystems. Optional: promote to a 6th gearpick to raise distinct-embedded-product count from 5 to 6."
+    },
+    {
+      "product": "Thrustmaster TCA Captain Pack X Airbus Edition (bundle)",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tca-captain-pack-x.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/tca-captain-pack-x-airbus-edition/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TCA+Captain+Pack+X+Airbus+Edition&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The ~$300 Sidestick+Quadrant bundle referenced in the TCA entry math. No verified image; mentioned as text/link only. A real photo would let the 'best entry bundle' recommendation render as its own gearpick. Low priority — the individual Sidestick and Quadrant are already embedded with verified photos."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/flight/honeycomb-bravo-throttle.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-yoke-vs-sidestick-split",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dusk-lit home flight-sim desk split down the middle by warm amber (left) and cool cyan (right) cockpit glow: on the left an empty desk-edge yoke clamp mount left open for a real GA yoke product overlay; on the right an empty side-stick pad left open for a real Airbus side-stick product overlay; curator Mac Donovan standing between them gesturing to both as two different airplanes, a small Cessna silhouette on the left screen and an A320 tail on the right screen, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/honeycomb-alpha-yoke.jpg", "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake yoke, fake side-stick, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "mission-decision-fork",
+      "title": "Name your airplane first",
+      "format": "1600x1000",
+      "content": ["Fly GA (Cessna/King Air) -> Honeycomb Alpha + Bravo (~$600)", "Fly Airbus (A320/Fenix) -> TCA Sidestick + Quadrant (~$200)", "Fly Boeing (737/777/787) -> TCA Yoke Pack Boeing (~$550)", "Fly both -> you'll own pieces of both (that's normal)"],
+      "style": "IgnitionSim command-center decision fork, large readable text, flight colors, real product photos as branch markers for Codex overlay"
+    },
+    {
+      "id": "ecosystem-gap-autopilot",
+      "title": "The gap nobody quotes: hardware autopilot",
+      "format": "1600x1000",
+      "content": ["Honeycomb: autopilot panel BUILT INTO the Bravo throttle", "TCA Airbus: autopilot lives on a SEPARATE FCU/glareshield you add later", "So GA is 'complete' at 2 buys; Airbus needs FCU + MCDU panels for full autopilot", "Budget the panel gap up front"],
+      "style": "Two-column comparison card, flight accent colors, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-name-your-airplane",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan seated between two desk setups, calm mentor energy, left hand resting on a GA yoke and right hand near an Airbus side-stick, pointing at whichever airplane the reader flies, product overlay space on both sides, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Promote the already-verified Honeycomb Charlie pedals photo from text-only to a 6th embedded gearpick, or keep the article tight on the two head-to-head ecosystems?",
+    "Source a real TCA Captain Pack X bundle photo so the ~$300 'best Airbus entry bundle' can render as its own gearpick?",
+    "Confirm exact current Alpha + Bravo bundle/sale price and TCA Quadrant street-vs-MSRP figure before certifying (both left as ranges / check-current)."
+  ]
+}
