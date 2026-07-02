@@ -1,0 +1,594 @@
+[
+  {
+    "experienceRole": "swing-software / course-play",
+    "category": "Simulation software (subscription)",
+    "product": "GSPro",
+    "bay": "golf",
+    "whyHot": "The single most-recommended sim software of 2026 — the community default for serious practice, ~$250/yr, 150k+ community courses via the GSPro depot, and the platform most launch monitors are judged by. Roundups call it the pick 'if the priority is serious practice with detailed feedback.'",
+    "communitySources": [
+      "https://homeperformancelab.com/best-golf-simulator-software/",
+      "https://www.yardstickgolf.com/gspro-vs-e6-connect.html"
+    ],
+    "priceApprox": "$250/yr",
+    "affiliatePotential": "medium",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has ZERO software entries — it's all hardware. Software is the #1 decision after the launch monitor ('your launch monitor determines your software options more than your budget does'). GSPro needs its own line + a 'which software works with my launch monitor' explainer. Affiliate is thin but the topic drives huge search + build-guide traffic."
+  },
+  {
+    "experienceRole": "course-play / multiplayer visuals",
+    "category": "Simulation software (subscription)",
+    "product": "E6 Connect / E6 Apex",
+    "bay": "golf",
+    "whyHot": "The go-to for the best-looking courses and playing with friends; E6 Apex added 7,000+ on-demand courses in late 2025. Reviewers pair it against GSPro as the 'visuals + social play' alternative.",
+    "communitySources": [
+      "https://homeperformancelab.com/best-golf-simulator-software/",
+      "https://www.yardstickgolf.com/gspro-vs-e6-connect.html"
+    ],
+    "priceApprox": "$160-500/yr",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "The other half of the GSPro-vs-E6 debate every buyer runs into. Belongs beside GSPro as the visual/social alternative. Together they anchor a 'best golf sim software 2026' comparison pillar the catalog is completely missing."
+  },
+  {
+    "experienceRole": "compute / render engine",
+    "category": "Simulator PC (prebuilt)",
+    "product": "SurfThing SG3-5802 (RTX 5080 / Core Ultra 7 265F / 32GB DDR5)",
+    "bay": "golf",
+    "whyHot": "2026's benchmark prebuilt sim PC — reviewers clocked stable 60+ FPS at maxed 4K Ultra in GSPro and 100+ FPS on Trackman Virtual Golf 3. It's the turnkey answer to 'what PC runs GSPro at 4K.'",
+    "communitySources": [
+      "https://homeperformancelab.com/gspro-system-requirements/",
+      "https://homeperformancelab.com/golf-simulator-pc-requirements/"
+    ],
+    "priceApprox": "$2,500-3,500",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The catalog has NO compute category at all, yet every non-tablet build needs a PC and 'what computer for GSPro' is one of the highest-intent searches in the niche. A prebuilt line + a 'GSPro PC requirements by budget' explainer is a big diversity + affiliate win."
+  },
+  {
+    "experienceRole": "compute / GPU",
+    "category": "Graphics card (GPU)",
+    "product": "NVIDIA GeForce RTX 4070 (12GB)",
+    "bay": "golf",
+    "whyHot": "The documented 'community sweet spot' GPU for 4K Ultra GSPro in 2026 (RTX 3080 the floor, 4070 the recommended target). GSPro is GPU-bound and doesn't use DLSS/frame-gen, so raw raster like the 4070 is exactly what the community tells DIY builders to buy.",
+    "communitySources": [
+      "https://homeperformancelab.com/golf-simulator-pc-requirements/",
+      "https://homeperformancelab.com/gspro-system-requirements/"
+    ],
+    "priceApprox": "$550-650",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "For the DIY builder who has a PC and just needs the right card. 'Prioritize GPU budget over CPU' is the repeated community mantra. Anchors a 'GPU by resolution' buyer table (RTX 4060 = 1080p, 4070 = 4K)."
+  },
+  {
+    "experienceRole": "ball-flight / hero (budget hybrid)",
+    "category": "Launch monitor (portable radar+camera)",
+    "product": "FlightScope Mevo+ Gen 2",
+    "bay": "golf",
+    "whyHot": "Called 'the most significant launch in this space in years' — Fusion Tracking (radar + camera) delivers dramatically better indoor accuracy at a mid price. It's the 2026 breakout the roundups keep leading with.",
+    "communitySources": [
+      "https://golfsimulatorvideos.com/best-golf-simulators-2026-jays-complete-guide-after-testing-them-all/",
+      "https://breakingeighty.com/best-golf-launch-monitors"
+    ],
+    "priceApprox": "$1,299-2,000",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog already lists a FlightScope Mevo Gen 2 — verify it's the Fusion-Tracking Gen 2 that's actually trending, not the older unit. If the listing is the old model, this is a refresh, not a net-new. Included for accuracy, not as a gap."
+  },
+  {
+    "experienceRole": "ball-flight / hero (ceiling overhead)",
+    "category": "Launch monitor (ceiling-mounted)",
+    "product": "ProTee VX",
+    "bay": "golf",
+    "whyHot": "The most-cited affordable ceiling/overhead launch monitor of 2026 — 'most anticipated ceiling launch monitor' that balances high-tech and simplicity, and works for both righties and lefties without moving the unit. Ceiling LMs are THE trend theme out of PGA Show 2026.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://rainorshinegolf.com/blogs/industry-news/pga-show-2026-whats-new"
+    ],
+    "priceApprox": "$3,500-4,000",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog's overhead LMs are all Uneekor/Foresight ($4.5k-$18k). ProTee VX is the affordable overhead everyone is comparing them to — fills a real price/format gap and rides the biggest 2026 narrative (ceiling-mounted going mainstream)."
+  },
+  {
+    "experienceRole": "ball-flight / hero (indoor/outdoor)",
+    "category": "Launch monitor (2026 new release)",
+    "product": "Square Golf Omni",
+    "bay": "golf",
+    "whyHot": "A headline 2026 PGA Show release generating buzz for 'affordability meeting performance' — extends indoor/outdoor capability, available for preorder. Square Golf is the value brand builders are watching this year.",
+    "communitySources": [
+      "https://rainorshinegolf.com/blogs/industry-news/pga-show-2026-whats-new",
+      "https://www.carlofet.com/blog/how-to-choose-a-golf-simulator-launch-monitor"
+    ],
+    "priceApprox": "$700-1,000",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog lists the older Square Golf Launch Monitor; the Omni is the buzzy 2026 follow-up. Net-new because it's the indoor/outdoor value story of the year — good 'new for 2026' badge candidate."
+  },
+  {
+    "experienceRole": "enclosure / impact protection (budget)",
+    "category": "Net + simulator screen kit",
+    "product": "The Net Return Pro Series Simulator Kit",
+    "bay": "golf",
+    "whyHot": "The most-recommended framed-net-to-sim upgrade path — self-tensioning screen, no frame required, ball returns to you after impact. Appears in nearly every budget/mid DIY build as the 'skip the wood frame' answer (~$349 screen, kit up).",
+    "communitySources": [
+      "https://www.thenetreturn.com/products/simulator-kit-golf-simulator-screen-valence",
+      "https://thegolface.com/golf-accessories/diy-home-golf-simulator-setup/"
+    ],
+    "priceApprox": "$349-1,700",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog's enclosures are all Carl's Place / Shop Indoor Golf. The Net Return is the #1 'no-DIY-frame' alternative and the ball-return feature is a genuine differentiator worth its own line. Big affiliate brand."
+  },
+  {
+    "experienceRole": "enclosure / impact protection (ultra-budget)",
+    "category": "Practice / hitting net",
+    "product": "Rukket HAACK Golf Net (10' x 7')",
+    "bay": "golf",
+    "whyHot": "Repeatedly named 'best net under $200' — 10'x7', #42 mesh, sets up in under 5 minutes with the included frame. The default first purchase for net-only and starter sim builds across 2026 guides.",
+    "communitySources": [
+      "https://t5golf.com/best-golf-nets-home-practice/",
+      "https://thegolface.com/golf-accessories/diy-home-golf-simulator-setup/"
+    ],
+    "priceApprox": "$150-200",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Entry-tier net for the 'I just want to hit into something' buyer before they commit to a full enclosure. High-volume Amazon affiliate item; anchors the cheapest build tier the catalog doesn't currently serve."
+  },
+  {
+    "experienceRole": "projector-mount / install",
+    "category": "Ceiling projector mount",
+    "product": "QualGear Universal Projector Ceiling Mount",
+    "bay": "golf",
+    "whyHot": "The most-recommended budget projector ceiling mount in 2026 accessory roundups — versatile install, universal plate. Every ceiling-mounted projector build needs one and this is the default pick under $40.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://homeperformancelab.com/golf-simulator-projector-placement/"
+    ],
+    "priceApprox": "$30-45",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog sells projectors but ZERO mounts. You cannot ceiling-mount a projector without one — this is a mandatory-but-missing companion SKU. Cheap, high-attach-rate cross-sell."
+  },
+  {
+    "experienceRole": "projector-mount / install (premium)",
+    "category": "Adjustable sliding projector mount",
+    "product": "AllSportSystems SkyRail Adjustable Projector Mount",
+    "bay": "golf",
+    "whyHot": "The enthusiast upgrade over a fixed mount — slide the projector along a track to dial in image position without re-drilling. AllSportSystems is a rising accessory brand and SkyRail/SkyRail+ (bay-attached, no ceiling holes) are frequently recommended for renters and garages.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://allsportsystems.shop/blogs/golf-simulators/top-golf-simulator-picks-2026-allsportsystems-ethan"
+    ],
+    "priceApprox": "$150-300",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Premium tier of the projector-mount gap. The 'no holes in the ceiling' SkyRail+ variant solves a real renter/garage pain point — good story + affiliate. Pairs with the QualGear budget pick as a good/better table."
+  },
+  {
+    "experienceRole": "projector-protection",
+    "category": "Projector shield / protective cage",
+    "product": "AllSportSystems Projector Shield",
+    "bay": "golf",
+    "whyHot": "A ceiling-mounted cage that isolates and protects the projector from stray shots — a recurring 'wish I'd bought it sooner' item once someone drills a $2k projector with a shank. Complete Golf Store lists a floor-mount projector shield as a premium accessory too.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/"
+    ],
+    "priceApprox": "$150-3,000",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Protects the single most-expensive fragile component in the bay. Genuinely missing category — insurance-buy framing sells well. Range spans a simple cage to the premium floor-mount enclosure."
+  },
+  {
+    "experienceRole": "hitting-surface / mat (premium)",
+    "category": "Golf simulator hitting mat",
+    "product": "Fiberbuilt Player Preferred Simulator Mat",
+    "bay": "golf",
+    "whyHot": "Named one of the best home-sim mats of 2026 — premium build, Fiberbuilt Nylon Grass 'some of the best in the business,' takes real club through it without shockwave to the joints. Repeatedly the 'buy once, cry once' mat pick.",
+    "communitySources": [
+      "https://golferlogic.com/golf-simulator-mats/",
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/"
+    ],
+    "priceApprox": "$1,000-1,500",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog already has a Fiberbuilt Studio mat + Real Feel — this is the higher-tier Player Preferred that reviewers single out. Refresh/upgrade line rather than a gap, but worth confirming which Fiberbuilt is listed."
+  },
+  {
+    "experienceRole": "hitting-surface / mat (value pick)",
+    "category": "Golf simulator hitting mat (value)",
+    "product": "SIGPRO Softy 4' x 7' Hitting Mat",
+    "bay": "golf",
+    "whyHot": "The community's most-cited best-value premium mat — forgiving 'softy' turf that spares wrists/elbows at well under the TrueStrike/Fiberbuilt price. Shows up constantly as 'the mat that punches above its price.'",
+    "communitySources": [
+      "https://golferlogic.com/golf-simulator-mats/",
+      "https://www.carlofet.com/blog/golf-simulator-flooring"
+    ],
+    "priceApprox": "$700-900",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog has a SIGPRO 4'x7' mat listed already — confirm it's the Softy. The value-mat slot between the $200 foam pads and the $1,200 Fiberbuilt is the sweet spot for most buyers."
+  },
+  {
+    "experienceRole": "hitting-surface / mat (joint-safe budget)",
+    "category": "Combo turf / hitting mat (budget)",
+    "product": "TrueStrike Dual Mat",
+    "bay": "golf",
+    "whyHot": "Called out as 'the single highest-leverage upgrade in a budget build' — a gel-underlay dual mat that takes a real divot-like strike and protects wrists/elbows, the value hero of the $2,000 garage build guide.",
+    "communitySources": [
+      "https://thegolface.com/golf-accessories/diy-home-golf-simulator-setup/",
+      "https://golferlogic.com/golf-simulator-mats/"
+    ],
+    "priceApprox": "$299-1,000",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "The joint-protection angle ('a thin hard mat transfers shock to your wrists and elbows, especially over 40') is a strong health-framed sell the catalog isn't using. Distinct brand/feel from Fiberbuilt/Real Feel."
+  },
+  {
+    "experienceRole": "landing-surface / turf",
+    "category": "Landing-zone turf strip",
+    "product": "Carl's Place / Elite Factory Direct Putting & Landing Turf",
+    "bay": "golf",
+    "whyHot": "The continuous turf strip that ties the mat to the screen and catches roll-out — part of the 2026 'universal winner' flooring config (rubber base + continuous turf + landing pad + level hitting mat). Every clean-looking bay has one.",
+    "communitySources": [
+      "https://www.carlofet.com/blog/golf-simulator-flooring",
+      "https://www.virtual-golf-simulator.com/best-golf-simulator-flooring-and-turf-complete-guide-for-home-setups/"
+    ],
+    "priceApprox": "$150-500",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has the SIG Landing Pad but no general turf-strip / flooring-turf line. This is the piece that makes a bay look finished and protects the floor between mat and screen. Feeds a 'flooring build' explainer."
+  },
+  {
+    "experienceRole": "flooring / subfloor",
+    "category": "Interlocking EVA foam floor tiles",
+    "product": "Interlocking EVA Foam Gym Mats (1/2\" - 1\", 24\"x24\")",
+    "bay": "golf",
+    "whyHot": "The universally recommended DIY subfloor base of 2026 — dense enough to protect the floor, cushion the joints, and level the bay under turf. The 'OSB plywood + 1/2\" EVA foam + turf' stack is the most-repeated build recipe.",
+    "communitySources": [
+      "https://www.carlofet.com/blog/golf-simulator-flooring",
+      "https://www.greatmats.com/what-kind-of-mats-are-good-for-a-golf-simulator.php"
+    ],
+    "priceApprox": "$50-200",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Flooring/subfloor is a whole missing category. Cheap, high-attach, and the foundation every build sits on. Anchors a 'golf sim flooring layers' explainer (subfloor -> turf -> landing pad -> level hitting mat)."
+  },
+  {
+    "experienceRole": "putting / short-game surface",
+    "category": "Simulator putting green (sloped)",
+    "product": "Big Moss V2 GST Simulator Putting Turf",
+    "bay": "golf",
+    "whyHot": "The most-recommended dedicated sim putting green of 2026 — patented Gradual Slope Technology gives real breaking putts and true roll, and it's engineered to drop into Carl's Place, SIG, and SIGPRO bays. Putting is the #1 'my sim can't do this well' complaint it solves.",
+    "communitySources": [
+      "https://bigmoss.com/product/simulator-solutions-putting-greens/",
+      "https://indoorgolfoutlet.com/products/big-moss-v2-gst-golf-simulator-putting-turf"
+    ],
+    "priceApprox": "$500-1,200",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has NO dedicated putting surface. Serious simmers almost always add one because launch-monitor putting is weak. Big Moss is the category leader — strong affiliate + a genuine experience-completeness gap."
+  },
+  {
+    "experienceRole": "putting / short-game surface (combo)",
+    "category": "2-in-1 putting green + hitting turf",
+    "product": "BirdieBall 2-in-1 Simulator Turf & Putting Green",
+    "bay": "golf",
+    "whyHot": "A community favorite for small rooms — one surface that's tour-grade putting AND hitting turf, so you don't need separate mats. BirdieBall has a loyal following on the forums for realistic roll at a friendlier price than full sloped greens.",
+    "communitySources": [
+      "https://www.birdieball.com/products/2-in-1-simulator-turf-putting-green-combined",
+      "https://golfsimulatorforum.com/forum/golf-simulator-forum/golf-simulators/41267-birdie-ball-putting-greens-anyone-have-try-it"
+    ],
+    "priceApprox": "$300-700",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The space-saving alternative to a dedicated sloped green — good for the apartment/small-garage buyer. Different job than Big Moss (flat combo vs sloped-realistic). Both belong; gives a good/better putting table."
+  },
+  {
+    "experienceRole": "putting / practice device",
+    "category": "Standalone putting simulator",
+    "product": "Exputt EX500D Putting Simulator",
+    "bay": "golf",
+    "whyHot": "Explicitly tagged a 'game-changer' (9.3/10) in the 2026 accessory roundup — a dedicated putting analyzer/sim that fixes the weakest part of every launch-monitor setup. Recurring 'this made my sim feel complete' item.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$500-700",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "A device (not just turf) that solves sim-putting. Distinct from the green surfaces above. 'Game-changer' editorial tag is a ready-made hook."
+  },
+  {
+    "experienceRole": "ball-feed / tee automation",
+    "category": "Automatic ball dispenser + auto tee",
+    "product": "FlyHero Automatic Tee-Up Machine",
+    "bay": "golf",
+    "whyHot": "A 'Top Choice' (9.3/10) in the 2026 accessory roundup — auto-tees the next ball so you never bend over between shots. The range-style convenience upgrade that keeps showing up in 'best purchase I didn't know I needed' threads.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://www.amazon.com/automatic-golf-ball-tee-up-machine/s?k=automatic+golf+ball+tee+up+machine"
+    ],
+    "priceApprox": "$150-400",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Whole missing 'automation/convenience' category. Auto-tee is a delight-factor upsell with strong Amazon affiliate volume. Pairs with the EZ-Shot commercial systems for a range of price points."
+  },
+  {
+    "experienceRole": "ball-feed / tee (commercial)",
+    "category": "Auto tee system (flush-mount)",
+    "product": "Range Systems EZ-Shot Auto Tee (UltraSlim variant)",
+    "bay": "golf",
+    "whyHot": "The premium/commercial auto-tee — stays flush with the hitting surface until a ball rolls over it, then lifts to set height; UltraSlim is 'the shortest auto tee in the world' for easy install. What serious home builders and commercial bays step up to.",
+    "communitySources": [
+      "https://rangesystems.com/ez-shot-golf-auto-tee-system/",
+      "https://rangesystems.com/auto-tee-machine-ultraslim/"
+    ],
+    "priceApprox": "$800-1,500",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "High end of the automation gap; pairs with a DR1600 dispenser for a full 'wave-club-to-dispense-then-auto-tee' EZ-Bay flow. Aspirational content that builds authority even if affiliate is thinner."
+  },
+  {
+    "experienceRole": "tees / consumables",
+    "category": "Simulator rubber tees (multi-pack)",
+    "product": "Adjustable-Height Simulator Rubber Tees (24-pack)",
+    "bay": "golf",
+    "whyHot": "A staple consumable in every mat build — adjustable-height rubber tees that don't fly away and let you match driver vs iron height. Listed among the 18 must-have 2026 accessories; the classic cheap add-to-cart.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://www.carlofet.com/blog/golf-simulator-flooring"
+    ],
+    "priceApprox": "$10-25",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Impulse consumable / cart-filler with near-100% attach rate. Zero risk, easy Amazon affiliate, and completes the 'what else do I need' checklist."
+  },
+  {
+    "experienceRole": "camera-lighting / video capture",
+    "category": "LED camera light panels",
+    "product": "Neewer 660 LED Panel (set of 4)",
+    "bay": "golf",
+    "whyHot": "The community-standard lighting for blur-free swing video and better camera-based launch-monitor reads — '4 Neewer 660 panels (~$70 each) is considered a minimum for blur-free videos.' The specific product the forums name for anyone recording swings or running a swing camera.",
+    "communitySources": [
+      "https://golfsimulatorforum.com/forum/golf-simulator-forum/simulator-builds/153182-anyone-set-up-a-camera-system-for-capturing-swing-video",
+      "https://swingcatalyst.com/golf-software"
+    ],
+    "priceApprox": "$70 each (~$280 for 4)",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Lighting is a total gap and this is the exact product the community names. Doubles as evenness lighting for the bay AND the requirement for swing-camera/photometric setups. Strong Amazon affiliate."
+  },
+  {
+    "experienceRole": "swing-analysis / second angle",
+    "category": "Swing capture software + camera",
+    "product": "Swing Catalyst (with SkyTrak trigger integration)",
+    "bay": "golf",
+    "whyHot": "The best-regarded multi-camera swing-recording solution of 2026 — integrates with SkyTrak as the shot trigger, plays front + down-the-line simultaneously with overlay/ghosting. The serious-improvement layer beyond just playing courses.",
+    "communitySources": [
+      "https://swingcatalyst.com/golf-software",
+      "https://golfsimulatorforum.com/forum/skytrak/226657-skytrak-now-compatible-with-swing-catalyst"
+    ],
+    "priceApprox": "$500-2,000+",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The 'get better, not just play' category the catalog ignores. Pairs naturally with the Neewer lighting and a swing camera. Good authority/expert content even if affiliate is modest."
+  },
+  {
+    "experienceRole": "launch-monitor-mount / overhead",
+    "category": "Overhead launch monitor mount (sliding)",
+    "product": "AllSportSystems SkyRail-LM Sliding Track Mount",
+    "bay": "golf",
+    "whyHot": "The recommended mount for overhead LMs (Uneekor EYE XO/XO2, ProTee VX) — slide the unit left/right on a track to center it for righties and lefties. As ceiling LMs go mainstream in 2026, this is the companion piece everyone needs.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://allsportsystems.shop/products/uneekor-eye-xo-golf-simulator-overhead-launch-monitor"
+    ],
+    "priceApprox": "$150-350",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog sells overhead LMs but no way to mount them. Mandatory companion SKU that also rides the ceiling-LM trend. High attach rate to the pricey overhead units."
+  },
+  {
+    "experienceRole": "safety-netting / side barrier",
+    "category": "Side barrier netting",
+    "product": "AllSportSystems SkyGuard Top & Side Safety Netting",
+    "bay": "golf",
+    "whyHot": "The most-cited bay safety add-on — articulating arms extend the net 4'6\" in front to catch shanks and skulls that miss the screen. The 'protect the TV / the wall / your kid' upgrade that every enclosed bay eventually adds.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/"
+    ],
+    "priceApprox": "$100-400",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has SIGPRO side barrier netting listed — this is the articulating-arm premium version + a distinct brand. Safety framing sells; overlaps the netting slot but adds the 'catches balls in FRONT of the screen' angle."
+  },
+  {
+    "experienceRole": "impact-protection / wall padding",
+    "category": "Foam wall padding panels",
+    "product": "Self-Adhesive Golf Simulator Wall Padding Panels (20\"x20\", 2\" foam)",
+    "bay": "golf",
+    "whyHot": "A 2026 garage-build staple — 2\" high-density open-cell peel-and-stick foam that absorbs stray-shot impact AND cuts the garage echo/noise. 'Garages echo a lot and walls dent easily' is the recurring pain these solve on the forums.",
+    "communitySources": [
+      "https://elitesimgolf.com/products/golf-simulator-wall-panels-peel-and-stick",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$100-400",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Dual-purpose (impact + sound) and a whole missing category. Strong fit for the huge 'garage golf sim' segment. Peel-and-stick renter-friendliness is a selling point."
+  },
+  {
+    "experienceRole": "cabling / signal routing",
+    "category": "Long HDMI cable (4K)",
+    "product": "Soonsoonic 4K HDMI Cable 50ft",
+    "bay": "golf",
+    "whyHot": "The specific cable the 2026 accessory roundup names for running a ceiling projector back to a PC across the room — '50ft, 4K, future-proof.' The unglamorous but mandatory part every ceiling-projector build forgets to buy.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://homeperformancelab.com/golf-simulator-projector-placement/"
+    ],
+    "priceApprox": "$25-50",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Cable management is a total gap and this is a near-mandatory cross-sell for any ceiling projector. Cheap Amazon affiliate; completes the 'don't forget' checklist."
+  },
+  {
+    "experienceRole": "cabling / wireless signal",
+    "category": "Wireless HDMI transmitter",
+    "product": "Mpiolife Wireless HDMI Adapter",
+    "bay": "golf",
+    "whyHot": "The roundup's pick for builders who can't or won't run a 50ft cable — 'lag-free streaming' from PC to a ceiling projector wirelessly. Popular in finished-room and rental builds where drilling/fishing cable isn't an option.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$80-200",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The wireless alternative to the long-HDMI-cable pick — good/better pairing. Solves the 'my PC is across the room and I rent' problem. Novel enough to be its own explainer."
+  },
+  {
+    "experienceRole": "compute-support / PC placement",
+    "category": "Laptop / PC stand",
+    "product": "Rain or Shine Golf Laptop Stand",
+    "bay": "golf",
+    "whyHot": "Highly rated (9.5/10) in the 2026 accessory roundup — a purpose-built stand to keep the laptop/PC and launch-monitor tablet at hand height, out of the swing path and off the floor. Small but recurring 'tidied my whole bay' item.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$100-150",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Ergonomics/organization gap. Pairs with the PC/software entries as the 'where does the computer go' answer. Purpose-built-for-golf branding gives it an edge over generic stands."
+  },
+  {
+    "experienceRole": "alignment / setup aid",
+    "category": "Launch monitor alignment stand",
+    "product": "Carl's Place Launch Monitor Alignment Stand",
+    "bay": "golf",
+    "whyHot": "Listed among the 18 must-have 2026 accessories — a stand that repeatably positions a Mevo+/R10-class radar LM at the correct distance/angle every session, so you stop eyeballing placement and getting bad reads.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://www.carlofet.com/blog/how-to-choose-a-golf-simulator-launch-monitor"
+    ],
+    "priceApprox": "$50-150",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Fixes a real accuracy pain for the huge R10/Mevo+ radar crowd. Cheap, high-relevance companion SKU to the budget launch monitors the catalog already sells."
+  },
+  {
+    "experienceRole": "screen-longevity / consumable",
+    "category": "Replaceable impact screen strips",
+    "product": "AllSportSystems Replaceable Impact Screen Strips",
+    "bay": "golf",
+    "whyHot": "A clever 2026 longevity item — swap just the worn center strip instead of replacing the whole impact screen when the sweet spot wears through. Repeat 'wish I'd known about these' comments from people who wore out a $300 screen.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/"
+    ],
+    "priceApprox": "$30-100",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Under-known money-saver that makes great 'protect your screen' content. Ongoing consumable = repeat affiliate. Sleeper pick the community loves once they hear about it."
+  },
+  {
+    "experienceRole": "stance-flooring / finishing",
+    "category": "Stance mats / flooring border",
+    "product": "AllSportSystems Stance Mats",
+    "bay": "golf",
+    "whyHot": "The 'ties the whole setup together' finishing turf around the hitting mat — affordable stance/flooring mats that give a level, consistent footing surface and a clean built-in look instead of bare concrete or foam.",
+    "communitySources": [
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons",
+      "https://www.carlofet.com/blog/golf-simulator-flooring"
+    ],
+    "priceApprox": "$100-400",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The aesthetic-finish flooring layer distinct from subfloor and landing turf. 'Level footing' matters for consistent strikes. Completes the flooring build-out."
+  },
+  {
+    "experienceRole": "seating / lounge",
+    "category": "Sim-room seating (power recliner)",
+    "product": "Valencia Tuscany Power Recliner",
+    "bay": "golf",
+    "whyHot": "The 'luxury option' seating in the 2026 accessory roundup — theater-style power recliners are the recurring answer to 'what do my buddies sit in during a round.' The room-experience upgrade for social/entertaining builds.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$800-2,500",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Seating is a total gap. The 'sim room as hangout' angle sells high-ticket furniture with strong affiliate. Frames the bay as a social space, not just a practice tool."
+  },
+  {
+    "experienceRole": "room-experience / amenity",
+    "category": "Beverage cooler / kegerator",
+    "product": "EdgeStar KC2000SS Kegerator",
+    "bay": "golf",
+    "whyHot": "Listed as an 'optional amenity' in the 2026 must-have accessory roundup — the classic man-cave/sim-room beverage upgrade that turns a practice bay into a hangout. Recurring flex item in finished sim-room reveal threads.",
+    "communitySources": [
+      "https://completegolfstore.com/simulator/best-golf-simulator-accessories/",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$400-900",
+    "affiliatePotential": "high",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Pure room-experience/lifestyle gap. High-ticket, high-margin affiliate, and great 'complete your sim room' content. Sleeper because it's rarely on hardware-focused sim sites but always in the actual builds."
+  },
+  {
+    "experienceRole": "climate / comfort",
+    "category": "Air circulation fan",
+    "product": "High-Velocity Floor / Wall Fan (garage sim)",
+    "bay": "golf",
+    "whyHot": "A recurring comfort must-have for garage and enclosed bays — swinging in a hot, unventilated garage is the top complaint after joints, and a high-velocity fan or portable AC is the fix builders keep recommending.",
+    "communitySources": [
+      "https://www.carlofet.com/blog/golf-simulator-flooring",
+      "https://allsportsystems.shop/blogs/golf-simulators/must-have-golf-simulator-add-ons"
+    ],
+    "priceApprox": "$50-200",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Climate/comfort is a missing category that the huge garage-sim audience cares about. Cheap Amazon affiliate, easy 'don't forget ventilation' content. Sleeper but universally relevant."
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "Tactile transducer / bass shaker",
+    "product": "Dayton Audio BST-1",
+    "bay": "racing",
+    "whyHot": "The single most-recommended bass shaker of 2026 across sim-racing guides; repeatedly named the best-value first tactile unit — the balance of ~$80-120 price and 50W punch that everyone tells newcomers to buy first.",
+    "communitySources": [
+      "https://www.narcosis-the-game.com/best-bass-shakers-for-sim-racing-seats/",
+      "https://sabertoothgames.com/best-bass-shakers-for-sim-racing/"
+    ],
+    "priceApprox": "$80-120",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has ONE haptic (ButtKicker Gamer PRO). Tactile is the #1 immersion upgrade the community pushes after a base+pedals. The BST-1 is the canonical entry point — needs its own product + a 'how tactile works' explainer."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "Tactile transducer / bass shaker (high-power)",
+    "product": "Dayton Audio BST-300EX",
+    "bay": "racing",
+    "whyHot": "2026 'Editor's Choice' for maximum immersion — 300W RMS; reviewers call it a smarter pick than the ButtKicker Mini LFE with more power, better cooling and a lower price.",
+    "communitySources": [
+      "https://www.narcosis-the-game.com/best-bass-shakers-for-sim-racing-seats/",
+      "https://sabertoothgames.com/best-bass-shakers-for-sim-racing/"
+    ],
+    "priceApprox": "$200-250",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The step-up tactile unit for people who outgrow the BST-1. Pairs with a dedicated amp (see Fosi). Good 'upgrade path' story alongside BST-1."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "All-in-one haptic pad",
+    "product": "Next Level Racing HF8 Haptic Gaming Pad",
+    "bay": "racing",
+    "whyHot": "The community's go-to plug-and-play tactile answer — 8 vibration motors in a seat pad, telemetry-driven via SimHub, and crucially QUIET, so apartment racers who can't run bass shakers still get feedback. Boosted Media calls it 'affordable haptic feedback.'",
+    "communitySources": [
+      "https://boostedmedia.net/sim-racing/hardware-reviews/next-level-racing/hf8-detailed-review/",
+      "https://nextlevelracing.com/products/hf8-haptic-gaming-pad/"
+    ],
+    "priceApprox": "$200-230",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "The 'no-mounting, no-wiring, no-amp' tactile solution — perfect for the apartment/quiet-house buyer. Different job than a bass shaker; belongs as its own catalog line, not a shaker variant."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "All-in-one haptic pad (premium)",
+    "product": "Next Level Racing HF8 Pro Haptic Feedback Pad",
+    "bay": "racing",
+    "whyHot": "2026 refresh generating fresh buzz — stronger, more responsive motors (75fps response), better materials; reviewers say the timing accuracy on gear shifts and ABS pulses is a real step up over the original.",
+    "communitySources": [
+      "https://boostedmedia.net/sim-racing/hardware-reviews/next-level-racing/next-level-racing-hf8-pro-haptic-feedback-pad-detailed-review/",
+      "https://nextlevelracing.com/products/hf8-pro-haptic-feedback-pad/"
+    ],
+    "priceApprox": "$280-300",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "New-2026 premium version of the HF8. Good 'good/better' pairing with the standard HF8."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "Tactile transducer (legacy premium)",
+    "product": "ButtKicker Mini LFE (BK-LFE-MINI)",
+    "bay": "racing",
+    "whyHot": "The brand that pioneered bass shakers and still the default name search — 250W, deep low-end. Community caveat is real and worth documenting: it overheats without a beefy 200W+ amp and proper cooling.",
+    "communitySources": [
+      "https://www.narcosis-the-game.com/best-bass-shakers-for-sim-racing-seats/",
+      "https://sabertoothgames.com/best-bass-shakers-for-sim-racing/"
+    ],
+    "priceApprox": "$200-250",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Brand-recognition magnet. Catalog already has the ButtKicker Gamer PRO; the Mini LFE serves the 'build your own multi-shaker rig' crowd. Note the thermal caveat honestly."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "Tactile puck (budget multi-point)",
+    "product": "Dayton Audio TT25-16 'Puck'",
+    "bay": "racing",
+    "whyHot": "The cheap entry into tactile — ~$15-25 each, so racers buy 2-4 and distribute them under the seat/pedal deck. Recurring 'start here for almost nothing' recommendation.",
+    "communitySources": [
+      "https://www.narcosis-the-game.com/best-bass-shakers-for-sim-racing-seats/",
+      "https://www.zleague.gg/theportal/the-ultimate-guide-to-sim-racing-bass-shakers-rankings-and-recommendations/"
+    ],
+    "priceApprox": "$15-25 each",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "The absolute-cheapest tactile on-ramp. Great for a 'try tactile for $50' angle; drives amp + wiring attach-sales."
+  },
+  {
+    "experienceRole": "tactile-immersion",
+    "category": "Amplifier for tactile",
+    "product": "Fosi Audio (BT20A / TP-02 class) tactile amp",
+    "bay": "racing",
+    "whyHot": "The amp is the missing half of every bass-shaker build; Fosi budget amps are the recurring 2026 pairing recommendation to actually drive a BST-300EX or ButtKicker without overheating it.",
+    "communitySources": [
+      "https://www.narcosis-the-game.com/best-bass-shakers-for-sim-racing-seats/",
+      "https://sabertoothgames.com/best-bass-shakers-for-sim-racing/"
+    ],
+    "priceApprox": "$40-90",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Nobody sells this to sim racers as a bundle piece and they should — every shaker needs an amp. High attach-rate accessory the catalog completely lacks."
+  },
+  {
+    "experienceRole": "seating",
+    "category": "Sim-specific reclining seat",
+    "product": "Next Level Racing ES1 Elite Seat",
+    "bay": "racing",
+    "whyHot": "Purpose-built for sim racing (not an FIA track seat) — wider bolsters, more reclined position for long stints; the recurring 'first proper seat' recommendation for cockpit builders under ~$400.",
+    "communitySources": [
+      "https://racingrigguide.com/blog/best-racing-sim-cockpits-2026",
+      "https://simracingsetup.com/product-guides/best-budget-sim-racing-seats/"
+    ],
+    "priceApprox": "$399",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has ZERO seats. The seat is the comfort foundation of a cockpit rig; this is the mainstream sim-specific pick."
+  },
+  {
+    "experienceRole": "seating",
+    "category": "Fiberglass bucket race seat",
+    "product": "Sparco R100 sim racing seat",
+    "bay": "racing",
+    "whyHot": "Sparco is the aspirational real-motorsport brand; the R100 with redesigned bolsters and QRT weight-saving is the 2026 'buy the real thing' pick for GT/formula authenticity.",
+    "communitySources": [
+      "https://competitionmotorsport.com/collections/sim-racing-seats",
+      "https://www.sparcousa.com/sim-racing-seats"
+    ],
+    "priceApprox": "$350-500",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "The premium/authenticity seat option to sit above the ES1. Real-brand halo. Note: needs a seat bracket/side-mount to fit an aluminum rig."
+  },
+  {
+    "experienceRole": "chassis",
+    "category": "80/20 aluminum-profile cockpit",
+    "product": "Trak Racer Alpine Racing TRX V2",
+    "bay": "racing",
+    "whyHot": "2026 flagship 80x40mm profile rig with tool-free Formula<->GT position switching; handles DD up to 16Nm. The rig enthusiasts point to as the do-everything aluminum cockpit.",
+    "communitySources": [
+      "https://racingrigguide.com/blog/best-racing-sim-cockpits-2026",
+      "https://simracingcockpit.gg/best-sim-rigs-on-the-market/"
+    ],
+    "priceApprox": "$700-1000+",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog mounts skew to smaller cockpits (GT Omega Apex, Next Level GT Track). A true convertible 8020 flagship anchors the 'serious rig' tier and pairs with DD bases the catalog already carries."
+  },
+  {
+    "experienceRole": "chassis",
+    "category": "80/20 aluminum-profile cockpit (value)",
+    "product": "Trak Racer TR8 Pro V2",
+    "bay": "racing",
+    "whyHot": "Second-gen update built on feedback from 10,000+ original TR8 owners; the community's default 'first proper cockpit after a desk mount' recommendation.",
+    "communitySources": [
+      "https://racingrigguide.com/blog/best-racing-sim-cockpits-2026",
+      "https://simracingcockpit.gg/best-sim-rigs-on-the-market/"
+    ],
+    "priceApprox": "$500-700",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "The upgrade target for anyone on the catalog's Generic Desk Clamp. Strong 'desk -> real rig' funnel piece."
+  },
+  {
+    "experienceRole": "motion",
+    "category": "Motion platform (2DOF seat mover)",
+    "product": "Next Level Racing Motion Platform V3",
+    "bay": "racing",
+    "whyHot": "The best-known consumer motion entry — belt-driven, quiet, ~2-3hr install. Big buzz but community is refreshingly split: r/simracing consensus warns 2DOF is where regret concentrates and to stretch to 3DOF+.",
+    "communitySources": [
+      "https://simracingcockpit.gg/sim-racing-motion-platform/",
+      "https://racingrigguide.com/blog/motion-simulator-platforms-explained-worth-2000-complete-guide-2026"
+    ],
+    "priceApprox": "$2,999",
+    "affiliatePotential": "medium",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has NO motion category. Big-ticket halo product. IMPORTANT editorial angle: document the honest 2DOF-vs-3DOF debate rather than just hyping it — that candor is a trust builder."
+  },
+  {
+    "experienceRole": "motion",
+    "category": "Motion platform (3DOF+ / heave)",
+    "product": "DOF Reality H3 / HERO 4",
+    "bay": "racing",
+    "whyHot": "The value-motion brand r/simracing actually recommends when someone insists on motion — 3DOF pitch+roll+yaw (H3) up to traction-loss HERO models, at a fraction of high-end platforms. 'Skip 2DOF, start at 3DOF' points straight here.",
+    "communitySources": [
+      "https://dofreality.com/",
+      "https://racingrigguide.com/blog/motion-simulator-platforms-explained-worth-2000-complete-guide-2026"
+    ],
+    "priceApprox": "$2,000-4,000",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The 'do it right' motion pick to contrast with the NLR V3. Pairs with the honest motion-buyer's-guide narrative (30% regret stat is a great hook)."
+  },
+  {
+    "experienceRole": "wind-immersion",
+    "category": "Wind simulator kit",
+    "product": "Wind Sim Direct Kit (Sim3D) / SimWind-class 2-fan kit",
+    "bay": "racing",
+    "whyHot": "Speed-reactive wind (dual ~179cfm fans) driven by SimHub / Sim Racing Studio is a rising 'cheap immersion' category — adds a real sense of speed for a modest spend, and integrates with software builders already run.",
+    "communitySources": [
+      "https://www.sim-3d.co.uk/product/wind-sim-direct-kit/29",
+      "https://sabertoothgames.com/best-wind-simulator-kits-for-sim-racing/"
+    ],
+    "priceApprox": "$120-250",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Whole category missing. High-immersion-per-dollar; natural cross-sell with SimHub content and tactile. Note quiet-fan option (AC Infinity) for apartment builders."
+  },
+  {
+    "experienceRole": "display",
+    "category": "Ultrawide QD-OLED monitor",
+    "product": "Samsung Odyssey OLED G9 (49\" 5120x1440, G93SC)",
+    "bay": "racing",
+    "whyHot": "The default 'one monitor that feels like triples' pick for 2026 — 240Hz QD-OLED; dropped to ~$799 in spring sales, which reignited recommendations as the value super-ultrawide.",
+    "communitySources": [
+      "https://simracingsetup.com/product-guides/best-ultrawide-monitor-for-sim-racing/",
+      "https://coachdaveacademy.com/tutorials/best-sim-racing-monitors/"
+    ],
+    "priceApprox": "$799-1,299",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog lists the Odyssey OLED G9 49 already — keep, but frame around the 2026 price drop and the 'ultrawide vs triples' decision, which is the real buyer question."
+  },
+  {
+    "experienceRole": "display",
+    "category": "5K2K OLED ultrawide (new 2026)",
+    "product": "LG UltraGear 45GX950A",
+    "bay": "racing",
+    "whyHot": "New 2026 flagship — 45\" 5K2K (5120x2160), 800R curve, Dual Mode, class-leading 125 PPI. The buzzy 'next-gen ultrawide' that fixes the soft-text complaint of older 1440p ultrawides.",
+    "communitySources": [
+      "https://thewearify.com/best-oled-ultrawide-monitors/",
+      "https://simracingsetup.com/product-guides/best-ultrawide-monitor-for-sim-racing/"
+    ],
+    "priceApprox": "$1,400-1,700",
+    "affiliatePotential": "high",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Net-new 2026 halo display. Higher pixel density than the G9 — the aspirational ultrawide pick. Note it needs a strong GPU (ties to the GPU entry)."
+  },
+  {
+    "experienceRole": "display-mounting",
+    "category": "Free-standing triple monitor stand",
+    "product": "Next Level Racing Free Standing Triple Monitor Stand",
+    "bay": "racing",
+    "whyHot": "The default triples stand — 61lb powder-coated steel, supports 32-65\" screens for ~195 degrees of vision, rock-solid with no wobble. Recurring 'buy the stand that won't flex' recommendation.",
+    "communitySources": [
+      "https://nextlevelracing.com/products/next-level-racing-free-standing-triple-monitor-stand/",
+      "https://sabertoothgames.com/best-triple-monitor-stands-for-sim-racing/"
+    ],
+    "priceApprox": "$300-400",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has ZERO monitor stands. Triple owners need this and it's a high-margin attach to the monitor. Free-standing (vs rig-mounted) is the community-preferred approach to isolate screen vibration."
+  },
+  {
+    "experienceRole": "display-mounting",
+    "category": "Triple monitor stand (value)",
+    "product": "VIVO Freestanding Triple Monitor Desk Mount",
+    "bay": "racing",
+    "whyHot": "The budget-favorite triples mount with independent swivel/tilt/rotation per screen — the pick for mismatched or curved displays; huge review counts signal broad community trust.",
+    "communitySources": [
+      "https://torqueandgear.com/articles/best-free-standing-triple-monitor-stand.html",
+      "https://sabertoothgames.com/best-triple-monitor-stands-for-sim-racing/"
+    ],
+    "priceApprox": "$120-200",
+    "affiliatePotential": "high",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Value counterpart to the NLR stand. Amazon-friendly, high-volume affiliate item for budget triples builders."
+  },
+  {
+    "experienceRole": "display-vr",
+    "category": "PC-VR headset (resolution flagship)",
+    "product": "Pimax Crystal Super",
+    "bay": "racing",
+    "whyHot": "The 2026 resolution benchmark for sim VR — the pick when you want the highest pixel count and have the GPU for it. Named the top-end target above the Crystal Light most racers land on.",
+    "communitySources": [
+      "https://simracingcockpit.gg/vr-headsets-sim-racing/",
+      "https://simracingcockpit.gg/vr-headset-comparison-2026/"
+    ],
+    "priceApprox": "$1,700-1,900",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Catalog has the Crystal Light (value) + Quest 3 (entry). The Crystal Super is the aspirational top of the VR ladder — completes the 3-tier VR story."
+  },
+  {
+    "experienceRole": "display-vr",
+    "category": "PC-VR headset (lightweight)",
+    "product": "Bigscreen Beyond 2",
+    "bay": "racing",
+    "whyHot": "The 2026 answer 'when weight matters more than wireless' — featherweight micro-OLED for long endurance stints without neck fatigue, a top complaint about the Quest 3.",
+    "communitySources": [
+      "https://simracingcockpit.gg/vr-headset-comparison-2026/",
+      "https://simracingcockpit.gg/vr-headsets-sim-racing/"
+    ],
+    "priceApprox": "$1,000-1,200",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Distinct VR value prop (comfort/weight for endurance racers). Caveat to document: needs external base stations + separate controllers."
+  },
+  {
+    "experienceRole": "wheel-interface",
+    "category": "Quick release hub",
+    "product": "MOZA Quick Release (aviation-grade QR)",
+    "bay": "racing",
+    "whyHot": "The connective tissue of a multi-rim setup — swap between a formula rim and a GT round wheel in seconds. Cheap (~$49) and cross-compatible across the MOZA ecosystem the catalog already sells.",
+    "communitySources": [
+      "https://simracingcockpit.gg/complete-guide-to-qr-hubs/",
+      "https://mysimrig.nl/en/blog/simracing/simagic-moza-fanatec-simucube-ecosystem-comparison-europe-2026/"
+    ],
+    "priceApprox": "$49",
+    "affiliatePotential": "medium",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "QR/adapters are invisible-but-essential for the multi-wheel owner (which the catalog's 9 wheels imply). Enables '70mm PCD third-party rim' cross-sells."
+  },
+  {
+    "experienceRole": "wheel-interface",
+    "category": "Third-party wheel rim (premium)",
+    "product": "Ascher Racing McLaren Artura Pro",
+    "bay": "racing",
+    "whyHot": "The 2026 'best premium rim' recommendation for the 70mm-PCD open-standard crowd — licensed McLaren feel, integrated dash. The aspirational rim once you own a good base.",
+    "communitySources": [
+      "https://simracingcockpit.gg/sim-racing-wheels/",
+      "https://www.apexsimracing.com/blogs/sim-racing-blog/best-platform-sim-racing"
+    ],
+    "priceApprox": "$900-1,100",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog has Ascher F28-SC + Cube Controls already; the Artura Pro is the current halo. Pair with the QR entry so buyers see how a base + QR + premium rim ecosystem fits."
+  },
+  {
+    "experienceRole": "control-interface",
+    "category": "Stream Deck race controller",
+    "product": "Elgato Stream Deck MK.2 (15-key) + SimHub plugin",
+    "bay": "racing",
+    "whyHot": "The 2026 'race deck' — the SimHub Stream Deck plugin makes keys two-way (pit-limiter key lights when limiter's on, tyre key flips colour when cold). Huge community mindshare for single-screen/triples racers.",
+    "communitySources": [
+      "https://simracingcockpit.gg/stream-deck-for-simracers/",
+      "https://www.apexsimracing.com/blogs/sim-racing-blog/turn-stream-deck-race-deck"
+    ],
+    "priceApprox": "$150",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "Zero button-box/Stream Deck coverage in catalog. Massive content hook (SimHub integration is a whole tutorial). Caveat: useless in VR (can't see labels) — document the button-box-vs-Stream-Deck choice."
+  },
+  {
+    "experienceRole": "control-interface",
+    "category": "Button box with display",
+    "product": "Apex Sim Racing GTE button box (5\" telemetry display)",
+    "bay": "racing",
+    "whyHot": "2026 buyer's-guide pick for a physical button box with an integrated 5\" SimHub display — muscle-memory switches that work in VR (unlike a Stream Deck) plus live gear/delta/tyre-temp readout.",
+    "communitySources": [
+      "https://simracingcockpit.gg/sim-racing-button-boxes/",
+      "https://www.apexsimracing.com/blogs/sim-racing-blog/turn-stream-deck-race-deck"
+    ],
+    "priceApprox": "$254",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The VR-friendly control counterpart to the Stream Deck. Physical-switch crowd + dashboard-in-one. Complements the SimHub dashboard entry."
+  },
+  {
+    "experienceRole": "telemetry-dash",
+    "category": "SimHub telemetry dashboard/DDU",
+    "product": "SimHub-driven dash screen (e.g. USB DDU / tablet mount)",
+    "bay": "racing",
+    "whyHot": "SimHub is the software that ties nearly every dashboard build together; a dedicated dash/DDU screen showing fuel, deltas, tyre temps and shift lights is a top 'looks-pro, races-better' upgrade discussed constantly in 2026.",
+    "communitySources": [
+      "https://simracingcockpit.gg/sim-racing-dashboard/",
+      "https://www.simhubdash.com/community-2/simhub/stream-deck-integration/"
+    ],
+    "priceApprox": "$60-300",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "Whole telemetry-display category is missing. Strong content pillar (SimHub setup) + hardware (dash screens, USB rev displays). Bridges software immersion with a physical buy."
+  },
+  {
+    "experienceRole": "pedal-feel",
+    "category": "Active (haptic) pedal",
+    "product": "Simucube ActivePedal Pro",
+    "bay": "racing",
+    "whyHot": "The most-hyped pedal tech of the era — 1100N software-defined force feedback that simulates ABS, lockup and traction loss in the pedal itself. Owners say 'can't imagine going back to passive pedals.'",
+    "communitySources": [
+      "https://simucube.com/simucube-activepedal-pro/",
+      "https://boostedmedia.net/sim-racing/hardware-reviews/simucube-activepedal-detailed-review/"
+    ],
+    "priceApprox": "$1,000-1,500 (per pedal)",
+    "affiliatePotential": "medium",
+    "hotness": "hot",
+    "diversityGap": false,
+    "notesForCatalog": "Catalog already has Simucube ActivePedal Pro + MOZA mBooster — keep, but this is THE aspirational pedal story; make sure the active-pedal explainer exists, since it's a whole new sub-category most buyers don't understand yet."
+  },
+  {
+    "experienceRole": "compute",
+    "category": "GPU (triple 1440p / VR)",
+    "product": "NVIDIA GeForce RTX 5080 (16GB)",
+    "bay": "racing",
+    "whyHot": "The 2026 sweet spot for triple 1440p and high-res VR — holds 120Hz on a full iRacing grid where the 5070 Ti dips, and is the minimum credible pick for Pimax Crystal Light native render. The GPU the community keeps naming.",
+    "communitySources": [
+      "https://simracingcockpit.gg/best-graphics-card-sim-racing/",
+      "https://simracingcockpit.gg/triple-monitors-1080p-vs-1440p/"
+    ],
+    "priceApprox": "$1,000-1,200",
+    "affiliatePotential": "medium",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "The rig is useless without a PC and the catalog ignores compute entirely. The GPU is the single biggest driver of whether triples/VR are even viable — huge content + affiliate opportunity, and a natural 'what PC do I need' pillar."
+  },
+  {
+    "experienceRole": "compute",
+    "category": "GPU (triple 1080p / value)",
+    "product": "NVIDIA GeForce RTX 5070 (12GB)",
+    "bay": "racing",
+    "whyHot": "The 2026 value baseline — locks 144Hz at high settings across triple 1080p even at full iRacing grids, at ~$550-650. The 'don't overspend, the 5090 sleeps through iRacing' community pick.",
+    "communitySources": [
+      "https://simracingcockpit.gg/best-graphics-card-sim-racing/",
+      "https://simracingcockpit.gg/gaming-pc-guide-sim-racing/"
+    ],
+    "priceApprox": "$550-650",
+    "affiliatePotential": "medium",
+    "hotness": "rising",
+    "diversityGap": true,
+    "notesForCatalog": "The value GPU pick to pair with the 5080 aspirational. Anchors an honest 'you don't need a 5090' guide — that candor ranks well and builds trust."
+  },
+  {
+    "experienceRole": "audio",
+    "category": "Wireless gaming headset",
+    "product": "SteelSeries Arctis Nova 7 Wireless",
+    "bay": "racing",
+    "whyHot": "2026 top headset pick for sim racing — wireless freedom, all-day comfort, solid spatial audio. The default recommendation for apartment/endurance/VR-adjacent racers who need positional sound without disturbing others.",
+    "communitySources": [
+      "https://racingrigguide.com/blog/best-sim-racing-headsets-2026-complete-guide",
+      "https://simracingsetup.com/product-guides/best-headphones-for-sim-racing/"
+    ],
+    "priceApprox": "$130-180",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "No audio/headset category in catalog. Positional audio is a genuine performance aid (hearing a car alongside). High-volume Amazon affiliate. Pair with a 'headphones vs speakers vs bass shaker' explainer."
+  },
+  {
+    "experienceRole": "audio",
+    "category": "Wireless headset (spatial/positional)",
+    "product": "Razer BlackShark V2 Pro (THX Spatial)",
+    "bay": "racing",
+    "whyHot": "Recurring 2026 pick for pinpoint positional audio via THX Spatial + fast 2.4GHz wireless — the 'hear exactly where the car is' headset esports-minded racers reach for.",
+    "communitySources": [
+      "https://simracingsetup.com/product-guides/best-headphones-for-sim-racing/",
+      "https://racingrigguide.com/blog/best-sim-racing-headsets-2026-complete-guide"
+    ],
+    "priceApprox": "$150-200",
+    "affiliatePotential": "high",
+    "hotness": "staple",
+    "diversityGap": true,
+    "notesForCatalog": "Second headset option (positional-accuracy angle). Rounds out the audio tier."
+  },
+  {
+    "experienceRole": "ambient-lighting",
+    "category": "Bias / ambient RGB lighting",
+    "product": "Govee RGBIC Gaming Light Bars (with sim-rig mount)",
+    "bay": "racing",
+    "whyHot": "The community-favorite 'cheap game-changer' for rig ambience — RGBIC light bars (often reactive to on-screen action) clamped to the cockpit; described as premium-feeling and a genuine mood upgrade for the space.",
+    "communitySources": [
+      "https://simsportgadget.com/collections/light-mounts",
+      "https://ocracing.com/guides/3-cheap-sim-racing-accessories/"
+    ],
+    "priceApprox": "$60-120",
+    "affiliatePotential": "high",
+    "hotness": "hot",
+    "diversityGap": true,
+    "notesForCatalog": "No lighting category exists. Cheap, photogenic, high-attach, Amazon-friendly. Sells the 'complete the room' experience beyond the hardware. Note aftermarket rig-mount brackets exist for the aluminum-profile crowd."
+  },
+  {
+    "experienceRole": "cable-management",
+    "category": "Cable management box / kit",
+    "product": "SimSportGadget Cable Management Box (aluminum-profile)",
+    "bay": "racing",
+    "whyHot": "The unglamorous-but-universally-loved rig tidy-up — a profile-mounted box that hides the power bricks and cable nest. Recurring 'wish I'd done this sooner' quality-of-life buy.",
+    "communitySources": [
+      "https://simsportgadget.com/products/cable-management-box-for-sim-racing",
+      "https://simsportgadget.com/collections/cable-management"
+    ],
+    "priceApprox": "$25-60",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Zero cable-management coverage. Every multi-device rig has a cable-nest problem; low price, high satisfaction, good 'finish your build' content."
+  },
+  {
+    "experienceRole": "connectivity",
+    "category": "Powered USB hub",
+    "product": "Powered USB Hub (e.g. Sabrent/Anker 7-10 port)",
+    "bay": "racing",
+    "whyHot": "OC Racing's #1 'cheap accessory that improved my setup more than expected' — a modern DD base + pedals + wheel + button box + shifter overwhelms motherboard USB; a powered hub kills random disconnects and centralizes cabling.",
+    "communitySources": [
+      "https://ocracing.com/guides/3-cheap-sim-racing-accessories/",
+      "https://simsportgadget.com/collections/cable-management"
+    ],
+    "priceApprox": "$25-45",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "The classic 'nobody thinks of it until their wheel disconnects mid-race' item. High-satisfaction sleeper; Amazon affiliate; solves a real, documented pain."
+  },
+  {
+    "experienceRole": "input-comfort",
+    "category": "Rig keyboard / trackpad",
+    "product": "Logitech K400 Plus wireless keyboard + trackpad",
+    "bay": "racing",
+    "whyHot": "OC Racing calls it 'practically the sim racing keyboard' — one lightweight lap-friendly unit for menu navigation, huge battery life, cheap. A recurring sleeper QoL pick.",
+    "communitySources": [
+      "https://ocracing.com/guides/3-cheap-sim-racing-accessories/",
+      "https://competitionmotorsport.com/collections/sim-racing-gear"
+    ],
+    "priceApprox": "$25-35",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Tiny price, universal recommendation. Perfect 'complete the experience' filler that no hero-item catalog bothers to list. Amazon-friendly."
+  },
+  {
+    "experienceRole": "comfort",
+    "category": "Rig accessory / comfort",
+    "product": "Sim rig cup holder + phone/tablet mount",
+    "bay": "racing",
+    "whyHot": "The comfort/QoL cluster OC Racing highlights — cup holder + accessory mounts make a rig 'feel more complete' and support long-session endurance racing. Small spend, disproportionate satisfaction.",
+    "communitySources": [
+      "https://ocracing.com/guides/3-cheap-sim-racing-accessories/",
+      "https://trakracer.com/collections/accessories"
+    ],
+    "priceApprox": "$15-40",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "The finishing-touches category. Cheap, high-margin, Amazon-friendly cluster (cup holder, phone mount, keyboard tray). Rounds out 'complete the experience' breadth."
+  },
+  {
+    "experienceRole": "chassis-ergonomics",
+    "category": "Seat slider / keyboard tray / mouse tray",
+    "product": "Aluminum-profile keyboard/mouse tray + seat slider add-ons",
+    "bay": "racing",
+    "whyHot": "Profile-mount add-ons (keyboard/mouse deck, seat slider) are the recurring 'make the 8020 rig actually livable' upgrades builders add after the frame — enable non-race PC use and quick position tweaks.",
+    "communitySources": [
+      "https://trakracer.com/collections/accessories",
+      "https://trakracer.com/collections/seats-seat-add-ons"
+    ],
+    "priceApprox": "$40-120",
+    "affiliatePotential": "medium",
+    "hotness": "sleeper",
+    "diversityGap": true,
+    "notesForCatalog": "Attach-sale to the aluminum-rig entries. The 'my rig is also my desk' crowd is large; these are the enabling add-ons."
+  }
+]

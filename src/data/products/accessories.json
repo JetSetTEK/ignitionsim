@@ -1,0 +1,686 @@
+[
+  {
+    "id": "dayton-bst-1",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "Dayton Audio",
+    "model": "BST-1 High Power Pro Tactile Bass Shaker (50W)",
+    "price": 55,
+    "priceNote": "approx 2026 (~$50-60 USD at Parts Express/Amazon; official listing 50W 4-ohm shaker)",
+    "image": "/images/gear/racing/dayton-bst-1.jpg",
+    "summary": "Budget sim racers adding physical rumble/road-feel to a cockpit or seat without a full motion rig. Key specs: 50 watts RMS power handling, 4 ohms impedance; Frequency response tuned for tactile sub-bass lows (turns any surface into a bass transducer); High-grade aluminum housing, ~3.75 lb weight; Wireable in series (8 ohm), parallel (2 ohm) or series-parallel (4 ohm); Pairs with SA70 amp (single) or SPA250 amp (2-4 shakers).",
+    "specs": {
+      "Highlight 1": "50 watts RMS power handling, 4 ohms impedance",
+      "Highlight 2": "Frequency response tuned for tactile sub-bass lows (turns any surface into a bass transducer)",
+      "Highlight 3": "High-grade aluminum housing, ~3.75 lb weight",
+      "Highlight 4": "Wireable in series (8 ohm), parallel (2 ohm) or series-parallel (4 ohm)",
+      "Highlight 5": "Pairs with SA70 amp (single) or SPA250 amp (2-4 shakers)"
+    },
+    "pros": [
+      "50 watts RMS power handling, 4 ohms impedance",
+      "Frequency response tuned for tactile sub-bass lows (turns any surface into a bass transducer)",
+      "High-grade aluminum housing, ~3.75 lb weight"
+    ],
+    "cons": [],
+    "whoFor": "Budget sim racers adding physical rumble/road-feel to a cockpit or seat without a full motion rig.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nlr-hf8",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "Next Level Racing",
+    "model": "HF8 Haptic Gaming Pad",
+    "price": 179,
+    "priceNote": "approx 2026 (official US $179; retail range $169-229)",
+    "image": "/images/gear/racing/nlr-hf8.jpg",
+    "summary": "Sim racers who want haptic body feedback that drops onto any existing seat with zero cockpit modification. Key specs: 8 localized haptic motors positioned across the seat/back; USB connection for PC + 3.5mm audio jack for console/audio devices; Plug-and-play PC software with multi-channel profiles (no sound card/amp needed); Customizable and shareable haptic profiles per game title; Supports users up to 6'9\" and 330 lbs.",
+    "specs": {
+      "Highlight 1": "8 localized haptic motors positioned across the seat/back",
+      "Highlight 2": "USB connection for PC + 3.5mm audio jack for console/audio devices",
+      "Highlight 3": "Plug-and-play PC software with multi-channel profiles (no sound card/amp needed)",
+      "Highlight 4": "Customizable and shareable haptic profiles per game title",
+      "Highlight 5": "Supports users up to 6'9\" and 330 lbs"
+    },
+    "pros": [
+      "8 localized haptic motors positioned across the seat/back",
+      "USB connection for PC + 3.5mm audio jack for console/audio devices",
+      "Plug-and-play PC software with multi-channel profiles (no sound card/amp needed)"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers who want haptic body feedback that drops onto any existing seat with zero cockpit modification.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "buttkicker-gamer-plus",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "ButtKicker",
+    "model": "Gamer Plus (Haptic Transducer + Power Amplifier)",
+    "price": 280,
+    "priceNote": "approx 2026 (official thebuttkicker.com $279.95)",
+    "image": "/images/gear/racing/buttkicker-gamer-plus.jpg",
+    "summary": "Sim racers wanting a single powerful bolt-on bass shaker with a matched amp and one-cable setup. Key specs: Haptic transducer with universal clamp mount, 5-200 Hz response, 6 oz piston; Included 90W RMS power amplifier @ 2 ohm with wireless remote; Transducer power handling 75W min to 250W max, 2 ohm nominal impedance; Connects via USB-C and RCA/3.5mm; 9.8' quick-release transducer cable; Amp: 10-300 Hz response, ~3.7 lb.",
+    "specs": {
+      "Amp": "10-300 Hz response, ~3.7 lb",
+      "Highlight 1": "Haptic transducer with universal clamp mount, 5-200 Hz response, 6 oz piston",
+      "Highlight 2": "Included 90W RMS power amplifier @ 2 ohm with wireless remote",
+      "Highlight 3": "Transducer power handling 75W min to 250W max, 2 ohm nominal impedance",
+      "Highlight 4": "Connects via USB-C and RCA/3.5mm; 9.8' quick-release transducer cable"
+    },
+    "pros": [
+      "Haptic transducer with universal clamp mount, 5-200 Hz response, 6 oz piston",
+      "Included 90W RMS power amplifier @ 2 ohm with wireless remote",
+      "Transducer power handling 75W min to 250W max, 2 ohm nominal impedance"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers wanting a single powerful bolt-on bass shaker with a matched amp and one-cable setup.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "fosi-ht4s",
+    "bay": "racing",
+    "type": "amp",
+    "brand": "Fosi Audio",
+    "model": "HT4S 4.1/5.0-Channel Bluetooth Power Amplifier",
+    "price": 120,
+    "priceNote": "approx 2026 (official fosiaudio.com $119.99)",
+    "image": "/images/gear/racing/fosi-ht4s.jpg",
+    "summary": "Sim racers driving multiple bass shakers who want an affordable multi-channel amp instead of one amp per shaker. Key specs: 5-channel Class D amp, 30W x4 + 60W x1 @4ohm (4.1) or 30W x5 (5.0); Dual TPA3116 amplifier chips; Inputs: 3.5mm AUX, optical, Bluetooth; outputs to passive speakers + subwoofer/shakers; All-aluminum CNC unibody chassis with remote control; 24-month manufacturer warranty.",
+    "specs": {
+      "Inputs": "3.5mm AUX, optical, Bluetooth; outputs to passive speakers + subwoofer/shakers",
+      "Highlight 1": "5-channel Class D amp, 30W x4 + 60W x1 @4ohm (4.1) or 30W x5 (5.0)",
+      "Highlight 2": "Dual TPA3116 amplifier chips",
+      "Highlight 3": "All-aluminum CNC unibody chassis with remote control",
+      "Highlight 4": "24-month manufacturer warranty"
+    },
+    "pros": [
+      "5-channel Class D amp, 30W x4 + 60W x1 @4ohm (4.1) or 30W x5 (5.0)",
+      "Dual TPA3116 amplifier chips",
+      "All-aluminum CNC unibody chassis with remote control"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers driving multiple bass shakers who want an affordable multi-channel amp instead of one amp per shaker.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nlr-elite-es1",
+    "bay": "racing",
+    "type": "seat",
+    "brand": "Next Level Racing",
+    "model": "Elite ES1 Sim Racing Seat (NLR-E011)",
+    "price": 399,
+    "priceNote": "approx 2026 (official US $399; retail range $399-449)",
+    "image": "/images/gear/racing/nlr-elite-es1.jpg",
+    "summary": "Sim racers upgrading to a rigid, motorsport-grade fixed bucket seat for a serious cockpit. Key specs: Fixed-back single-piece seat eliminates recliner flex; Five-axis roto-molded construction for rigidity; PU molded foam suede cushions, seat belts included; 98 unique mounting configurations with NLR seat bracket; Fits waists up to 42\", supports up to 550 lb (250 kg).",
+    "specs": {
+      "Highlight 1": "Fixed-back single-piece seat eliminates recliner flex",
+      "Highlight 2": "Five-axis roto-molded construction for rigidity",
+      "Highlight 3": "PU molded foam suede cushions, seat belts included",
+      "Highlight 4": "98 unique mounting configurations with NLR seat bracket",
+      "Highlight 5": "Fits waists up to 42\", supports up to 550 lb (250 kg)"
+    },
+    "pros": [
+      "Fixed-back single-piece seat eliminates recliner flex",
+      "Five-axis roto-molded construction for rigidity",
+      "PU molded foam suede cushions, seat belts included"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers upgrading to a rigid, motorsport-grade fixed bucket seat for a serious cockpit.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "trak-racer-trx",
+    "bay": "racing",
+    "type": "cockpit",
+    "brand": "Trak Racer",
+    "model": "TR160 V5 Aluminium Racing Simulator Cockpit",
+    "price": 657,
+    "priceNote": "approx 2026 (official trakracer.com $657 on sale, reg $730; flagship TR160S variant ~$769)",
+    "image": "/images/gear/racing/trak-racer-trx.jpg",
+    "summary": "Serious sim racers running high-end direct-drive wheels who need a rigid, motion-ready 80/20 aluminium chassis. Key specs: Heavy 160x40mm aluminium profile chassis, zero measurable flex under 16 Nm direct drive; TR One Wheel Mounting System for adjustable wheel position; Adjustable pedal mount compatible with all major pedal brands; Premium seat slider rails included (seat sold separately); Motion-ready wide-body, low-to-ground design with anodized finish.",
+    "specs": {
+      "Highlight 1": "Heavy 160x40mm aluminium profile chassis, zero measurable flex under 16 Nm direct drive",
+      "Highlight 2": "TR One Wheel Mounting System for adjustable wheel position",
+      "Highlight 3": "Adjustable pedal mount compatible with all major pedal brands",
+      "Highlight 4": "Premium seat slider rails included (seat sold separately)",
+      "Highlight 5": "Motion-ready wide-body, low-to-ground design with anodized finish"
+    },
+    "pros": [
+      "Heavy 160x40mm aluminium profile chassis, zero measurable flex under 16 Nm direct drive",
+      "TR One Wheel Mounting System for adjustable wheel position",
+      "Adjustable pedal mount compatible with all major pedal brands"
+    ],
+    "cons": [],
+    "whoFor": "Serious sim racers running high-end direct-drive wheels who need a rigid, motion-ready 80/20 aluminium chassis.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nlr-gtlite",
+    "bay": "racing",
+    "type": "cockpit",
+    "brand": "Next Level Racing",
+    "model": "GTLite Foldable Cockpit",
+    "price": 199,
+    "priceNote": "approx 2026 (official US $199)",
+    "image": "/images/gear/racing/nlr-gtlite.jpg",
+    "summary": "Space-constrained sim racers who need a rigid cockpit that folds flat for storage between sessions. Key specs: Foldable GT-position cockpit that packs away even with electronics installed; NLR Hubs each withstand 150 kg of force for a rigid racing position; Dedicated shifter mount included (Thrustmaster, Logitech, Moza, Fanatec compatible); Designed for limited-space setups with quick setup and folding; Wheel/pedal/shifter mounting standard.",
+    "specs": {
+      "Highlight 1": "Foldable GT-position cockpit that packs away even with electronics installed",
+      "Highlight 2": "NLR Hubs each withstand 150 kg of force for a rigid racing position",
+      "Highlight 3": "Dedicated shifter mount included (Thrustmaster, Logitech, Moza, Fanatec compatible)",
+      "Highlight 4": "Designed for limited-space setups with quick setup and folding",
+      "Highlight 5": "Wheel/pedal/shifter mounting standard"
+    },
+    "pros": [
+      "Foldable GT-position cockpit that packs away even with electronics installed",
+      "NLR Hubs each withstand 150 kg of force for a rigid racing position",
+      "Dedicated shifter mount included (Thrustmaster, Logitech, Moza, Fanatec compatible)"
+    ],
+    "cons": [],
+    "whoFor": "Space-constrained sim racers who need a rigid cockpit that folds flat for storage between sessions.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nlr-motion-v3",
+    "bay": "racing",
+    "type": "motion",
+    "brand": "Next Level Racing",
+    "model": "Motion Platform V3",
+    "price": 2999,
+    "priceNote": "approx 2026 (official US $2,999; retail up to ~$3,440)",
+    "image": "/images/gear/racing/nlr-motion-v3.jpg",
+    "summary": "Enthusiasts chasing the most realistic immersion who want true seat motion on a compact footprint. Key specs: Seat-mover motion platform for maximum immersion (moves the seat, not the whole rig); Two-point tactile feedback for road bumps, texture, gear changes, collisions; Includes NLR Platform Manager software, click-and-play with major racing/flight titles on PC; Compact design fits within an existing cockpit footprint, no extra space required; European-made, engineered with commercial motion engineers.",
+    "specs": {
+      "Highlight 1": "Seat-mover motion platform for maximum immersion (moves the seat, not the whole rig)",
+      "Highlight 2": "Two-point tactile feedback for road bumps, texture, gear changes, collisions",
+      "Highlight 3": "Includes NLR Platform Manager software, click-and-play with major racing/flight titles on PC",
+      "Highlight 4": "Compact design fits within an existing cockpit footprint, no extra space required",
+      "Highlight 5": "European-made, engineered with commercial motion engineers"
+    },
+    "pros": [
+      "Seat-mover motion platform for maximum immersion (moves the seat, not the whole rig)",
+      "Two-point tactile feedback for road bumps, texture, gear changes, collisions",
+      "Includes NLR Platform Manager software, click-and-play with major racing/flight titles on PC"
+    ],
+    "cons": [],
+    "whoFor": "Enthusiasts chasing the most realistic immersion who want true seat motion on a compact footprint.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "dof-reality-h3",
+    "bay": "racing",
+    "type": "motion",
+    "brand": "DOF Reality",
+    "model": "H3 (3-Axis HERO) Motion Platform",
+    "price": 2599,
+    "priceNote": "approx 2026 (base H3 chassis historically ~$1,949-2,599; H3 with SFU/xtra-smooth gearing configs list ~$2,999)",
+    "image": "/images/gear/racing/dof-reality-h3.jpg",
+    "summary": "DIY-minded sim racers who want full 3-axis motion at a lower price than premium seat-mover rigs. Key specs: 3 DOF: pitch + roll + yaw (rear traction loss); Motion range 40 degrees, speed 75 cm/s (105 deg/s), torque 28 N/m; Acceleration 0.75G transverse / 0.5G longitudinal, ~1400W peak power; Footprint 100x150 cm (3x5.2 ft), 60 cm height; supports up to 440 lb / 200 kg; Includes SimRacingStudio license; seat/wheel/pedals purchased separately.",
+    "specs": {
+      "3 DOF": "pitch + roll + yaw (rear traction loss)",
+      "Highlight 1": "Motion range 40 degrees, speed 75 cm/s (105 deg/s), torque 28 N/m",
+      "Highlight 2": "Acceleration 0.75G transverse / 0.5G longitudinal, ~1400W peak power",
+      "Highlight 3": "Footprint 100x150 cm (3x5.2 ft), 60 cm height; supports up to 440 lb / 200 kg",
+      "Highlight 4": "Includes SimRacingStudio license; seat/wheel/pedals purchased separately"
+    },
+    "pros": [
+      "Motion range 40 degrees, speed 75 cm/s (105 deg/s), torque 28 N/m",
+      "Acceleration 0.75G transverse / 0.5G longitudinal, ~1400W peak power",
+      "Footprint 100x150 cm (3x5.2 ft), 60 cm height; supports up to 440 lb / 200 kg"
+    ],
+    "cons": [],
+    "whoFor": "DIY-minded sim racers who want full 3-axis motion at a lower price than premium seat-mover rigs.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "steelseries-arctis-nova-7",
+    "bay": "racing",
+    "type": "audio",
+    "brand": "SteelSeries",
+    "model": "Arctis Nova 7 Wireless",
+    "price": 179,
+    "priceNote": "approx 2026 (original Nova 7 MSRP $179.99, often ~$149; Gen 2 is $199.99)",
+    "image": "/images/gear/racing/steelseries-arctis-nova-7.jpg",
+    "summary": "Sim racers wanting low-latency wireless audio + clear comms across PC and console without a wired tether. Key specs: Dual wireless: 2.4GHz lossless dongle + simultaneous mixable Bluetooth; Custom neodymium magnetic drivers (Nova Acoustic System); ClearCast Gen 2 AI retractable mic, up to ~25dB noise reduction; ~38 hr battery, USB-C fast charge; Multi-platform: PC, PS5, Switch, VR, mobile.",
+    "specs": {
+      "Dual wireless": "2.4GHz lossless dongle + simultaneous mixable Bluetooth",
+      "Multi-platform": "PC, PS5, Switch, VR, mobile",
+      "Highlight 1": "Custom neodymium magnetic drivers (Nova Acoustic System)",
+      "Highlight 2": "ClearCast Gen 2 AI retractable mic, up to ~25dB noise reduction",
+      "Highlight 3": "~38 hr battery, USB-C fast charge"
+    },
+    "pros": [
+      "Custom neodymium magnetic drivers (Nova Acoustic System)",
+      "ClearCast Gen 2 AI retractable mic, up to ~25dB noise reduction",
+      "~38 hr battery, USB-C fast charge"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers wanting low-latency wireless audio + clear comms across PC and console without a wired tether.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "govee-rgbic-bars",
+    "bay": "racing",
+    "type": "lighting",
+    "brand": "Govee",
+    "model": "RGBIC Gaming Light Bars (H6047)",
+    "price": 90,
+    "priceNote": "approx 2026 (official Govee US $89.99, MSRP $119.99; frequently on sale ~$54-60)",
+    "image": "/images/gear/racing/govee-rgbic-bars.jpg",
+    "summary": "Sim racers adding reactive ambient RGB behind a monitor or cockpit for immersion and setup aesthetics. Key specs: RGBIC segmented lighting, 16 million colors, 41 light beads; 215-degree curved lens for wide, bright spread; Built-in mic music/sync modes + 40-60 scene modes; Smart Dial controller; Wi-Fi, works with Alexa & Google Assistant; Razer Chroma sync; ~16.7 in bars.",
+    "specs": {
+      "Highlight 1": "RGBIC segmented lighting, 16 million colors, 41 light beads",
+      "Highlight 2": "215-degree curved lens for wide, bright spread",
+      "Highlight 3": "Built-in mic music/sync modes + 40-60 scene modes",
+      "Highlight 4": "Smart Dial controller; Wi-Fi, works with Alexa & Google Assistant",
+      "Highlight 5": "Razer Chroma sync; ~16.7 in bars"
+    },
+    "pros": [
+      "RGBIC segmented lighting, 16 million colors, 41 light beads",
+      "215-degree curved lens for wide, bright spread",
+      "Built-in mic music/sync modes + 40-60 scene modes"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers adding reactive ambient RGB behind a monitor or cockpit for immersion and setup aesthetics.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "sabrent-powered-usb-hub",
+    "bay": "racing",
+    "type": "accessory",
+    "brand": "Sabrent",
+    "model": "10-Port 60W Powered USB 3.0 Hub (HB-BU10)",
+    "price": 50,
+    "priceNote": "approx 2026 (official sabrent.com $49.99)",
+    "image": "/images/gear/racing/sabrent-powered-usb-hub.jpg",
+    "summary": "Sim racers connecting many USB peripherals (wheel, pedals, shifter, button box, shakers) from one powered hub. Key specs: 10 USB 3.0 ports, up to 5 Gbps data transfer; Individual power switches with blue LED status per port; 3 smart charging ports; up to 900mA per port; Included 60W 12V/5A power adapter; Plug-and-play, no drivers required.",
+    "specs": {
+      "Highlight 1": "10 USB 3.0 ports, up to 5 Gbps data transfer",
+      "Highlight 2": "Individual power switches with blue LED status per port",
+      "Highlight 3": "3 smart charging ports; up to 900mA per port",
+      "Highlight 4": "Included 60W 12V/5A power adapter",
+      "Highlight 5": "Plug-and-play, no drivers required"
+    },
+    "pros": [
+      "10 USB 3.0 ports, up to 5 Gbps data transfer",
+      "Individual power switches with blue LED status per port",
+      "3 smart charging ports; up to 900mA per port"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers connecting many USB peripherals (wheel, pedals, shifter, button box, shakers) from one powered hub.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "meta-quest-3s",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Meta",
+    "model": "Quest 3S",
+    "price": 300,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/flight/meta-quest-3s.jpg",
+    "summary": "Budget-minded newcomers who want standalone mixed reality plus wireless PCVR flight sim on a wallet-friendly headset. Key specs: Qualcomm Snapdragon XR2 Gen 2 SoC, 8GB RAM; 1832 x 1920 per-eye LCD resolution, fresnel lenses; Full-color passthrough mixed reality (4MP RGB cameras, no depth sensor); 128GB ($299.99) or 256GB ($399.99) storage, Touch Plus controllers included; Standalone all-in-one, ~2.2 hr battery; PCVR-capable via Link/Air Link.",
+    "specs": {
+      "Highlight 1": "Qualcomm Snapdragon XR2 Gen 2 SoC, 8GB RAM",
+      "Highlight 2": "1832 x 1920 per-eye LCD resolution, fresnel lenses",
+      "Highlight 3": "Full-color passthrough mixed reality (4MP RGB cameras, no depth sensor)",
+      "Highlight 4": "128GB ($299.99) or 256GB ($399.99) storage, Touch Plus controllers included",
+      "Highlight 5": "Standalone all-in-one, ~2.2 hr battery; PCVR-capable via Link/Air Link"
+    },
+    "pros": [
+      "Qualcomm Snapdragon XR2 Gen 2 SoC, 8GB RAM",
+      "1832 x 1920 per-eye LCD resolution, fresnel lenses",
+      "Full-color passthrough mixed reality (4MP RGB cameras, no depth sensor)"
+    ],
+    "cons": [],
+    "whoFor": "Budget-minded newcomers who want standalone mixed reality plus wireless PCVR flight sim on a wallet-friendly headset.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC (VR/MSFS)"
+  },
+  {
+    "id": "pimax-crystal-super",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Pimax",
+    "model": "Crystal Super",
+    "price": 1799,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/flight/pimax-crystal-super.jpg",
+    "summary": "Enthusiast PCVR flight simmers chasing maximum cockpit-gauge sharpness and long-range spotting on high-end GPUs. Key specs: QLED panels up to 3840 x 3840 per eye, 57 PPD 'retina-level' clarity; Glass aspheric lenses with local dimming; swappable optical engine (upgrade/repair); Inside-out SLAM tracking, four cameras, no base stations required; 120Hz eye tracking driving Dynamic Foveated Rendering; PCVR-only via DisplayPort; min RTX 2080, recommended RTX 3070+.",
+    "specs": {
+      "Highlight 1": "QLED panels up to 3840 x 3840 per eye, 57 PPD 'retina-level' clarity",
+      "Highlight 2": "Glass aspheric lenses with local dimming; swappable optical engine (upgrade/repair)",
+      "Highlight 3": "Inside-out SLAM tracking, four cameras, no base stations required",
+      "Highlight 4": "120Hz eye tracking driving Dynamic Foveated Rendering",
+      "Highlight 5": "PCVR-only via DisplayPort; min RTX 2080, recommended RTX 3070+"
+    },
+    "pros": [
+      "QLED panels up to 3840 x 3840 per eye, 57 PPD 'retina-level' clarity",
+      "Glass aspheric lenses with local dimming; swappable optical engine (upgrade/repair)",
+      "Inside-out SLAM tracking, four cameras, no base stations required"
+    ],
+    "cons": [],
+    "whoFor": "Enthusiast PCVR flight simmers chasing maximum cockpit-gauge sharpness and long-range spotting on high-end GPUs.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC (VR/MSFS)"
+  },
+  {
+    "id": "bigscreen-beyond-2",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Bigscreen",
+    "model": "Beyond 2",
+    "price": 1019,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/flight/bigscreen-beyond-2.jpg",
+    "summary": "Simmers who prize a featherweight, ultra-sharp OLED headset for long comfortable flight sessions and don't mind the SteamVR base-station setup. Key specs: Dual 1-inch micro-OLED displays, 2560 x 2560 per eye; Ultralight 107g custom-molded body; 90Hz refresh; 116 degree diagonal / 108 degree FoV with edge-to-edge clarity; Adjustable IPD mechanism (tool-set, mm markings); SteamVR-tracked PCVR (1.0/2.0 base stations); 2e variant adds eye tracking + DFR.",
+    "specs": {
+      "Highlight 1": "Dual 1-inch micro-OLED displays, 2560 x 2560 per eye",
+      "Highlight 2": "Ultralight 107g custom-molded body; 90Hz refresh",
+      "Highlight 3": "116 degree diagonal / 108 degree FoV with edge-to-edge clarity",
+      "Highlight 4": "Adjustable IPD mechanism (tool-set, mm markings)",
+      "Highlight 5": "SteamVR-tracked PCVR (1.0/2.0 base stations); 2e variant adds eye tracking + DFR"
+    },
+    "pros": [
+      "Dual 1-inch micro-OLED displays, 2560 x 2560 per eye",
+      "Ultralight 107g custom-molded body; 90Hz refresh",
+      "116 degree diagonal / 108 degree FoV with edge-to-edge clarity"
+    ],
+    "cons": [],
+    "whoFor": "Simmers who prize a featherweight, ultra-sharp OLED headset for long comfortable flight sessions and don't mind the SteamVR base-station setup.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC (VR/MSFS)"
+  },
+  {
+    "id": "samsung-odyssey-neo-g9-57",
+    "bay": "racing",
+    "type": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey Neo G9 57\" (G95NC / LS57CG952NNXZA)",
+    "price": 2000,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/racing/samsung-odyssey-neo-g9-57.jpg",
+    "summary": "Sim racers who want a single super-ultrawide panel delivering triple-monitor width without bezels for maximum immersion. Key specs: 57-inch 7680 x 2160 Dual UHD (32:9) 1000R curved VA panel; 240Hz refresh, 1ms response, DisplayPort 2.1 (needed for full res/refresh); Quantum Mini-LED FALD, ~2392 dimming zones, DisplayHDR 1000, 1000-nit peak; AMD FreeSync Premium Pro, VRR support; Massive single-panel triple-monitor replacement for sim cockpits.",
+    "specs": {
+      "Highlight 1": "57-inch 7680 x 2160 Dual UHD (32:9) 1000R curved VA panel",
+      "Highlight 2": "240Hz refresh, 1ms response, DisplayPort 2.1 (needed for full res/refresh)",
+      "Highlight 3": "Quantum Mini-LED FALD, ~2392 dimming zones, DisplayHDR 1000, 1000-nit peak",
+      "Highlight 4": "AMD FreeSync Premium Pro, VRR support",
+      "Highlight 5": "Massive single-panel triple-monitor replacement for sim cockpits"
+    },
+    "pros": [
+      "57-inch 7680 x 2160 Dual UHD (32:9) 1000R curved VA panel",
+      "240Hz refresh, 1ms response, DisplayPort 2.1 (needed for full res/refresh)",
+      "Quantum Mini-LED FALD, ~2392 dimming zones, DisplayHDR 1000, 1000-nit peak"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers who want a single super-ultrawide panel delivering triple-monitor width without bezels for maximum immersion.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nlr-triple-monitor-stand",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Next Level Racing",
+    "model": "Free Standing Triple Monitor Stand (NLR-A010)",
+    "price": 399,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/racing/nlr-triple-monitor-stand.jpg",
+    "summary": "Sim racers running big triple displays who need a standalone, rollable stand independent of their cockpit or desk. Key specs: Holds three screens from 32 to 65 inches for ~195 degrees peripheral vision; Fully free-standing (no desk/cockpit attachment required); Lockable caster wheels for mobility + height-adjustable feet; Universal VESA mounting range; wide screen-position adjustment; Designed for events, sim-racing centers, and large triple-screen setups.",
+    "specs": {
+      "Highlight 1": "Holds three screens from 32 to 65 inches for ~195 degrees peripheral vision",
+      "Highlight 2": "Fully free-standing (no desk/cockpit attachment required)",
+      "Highlight 3": "Lockable caster wheels for mobility + height-adjustable feet",
+      "Highlight 4": "Universal VESA mounting range; wide screen-position adjustment",
+      "Highlight 5": "Designed for events, sim-racing centers, and large triple-screen setups"
+    },
+    "pros": [
+      "Holds three screens from 32 to 65 inches for ~195 degrees peripheral vision",
+      "Fully free-standing (no desk/cockpit attachment required)",
+      "Lockable caster wheels for mobility + height-adjustable feet"
+    ],
+    "cons": [],
+    "whoFor": "Sim racers running big triple displays who need a standalone, rollable stand independent of their cockpit or desk.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC / cross-platform"
+  },
+  {
+    "id": "nvidia-rtx-5090",
+    "bay": "flight",
+    "type": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5090 (Founders Edition)",
+    "price": 1999,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/flight/nvidia-rtx-5090.jpg",
+    "summary": "No-compromise simmers driving retina-class PCVR headsets or triple-4K rigs at high frame rates. Key specs: Blackwell architecture, 21,760 CUDA cores, ~2.41 GHz boost; 32GB GDDR7, 512-bit bus, ~1.79 TB/s memory bandwidth; 575W total graphics power; DLSS 4 with Multi Frame Generation; Flagship GPU for high-resolution PCVR flight sim (drives Crystal Super / triple 4K).",
+    "specs": {
+      "Highlight 1": "Blackwell architecture, 21,760 CUDA cores, ~2.41 GHz boost",
+      "Highlight 2": "32GB GDDR7, 512-bit bus, ~1.79 TB/s memory bandwidth",
+      "Highlight 3": "575W total graphics power",
+      "Highlight 4": "DLSS 4 with Multi Frame Generation",
+      "Highlight 5": "Flagship GPU for high-resolution PCVR flight sim (drives Crystal Super / triple 4K)"
+    },
+    "pros": [
+      "Blackwell architecture, 21,760 CUDA cores, ~2.41 GHz boost",
+      "32GB GDDR7, 512-bit bus, ~1.79 TB/s memory bandwidth",
+      "575W total graphics power"
+    ],
+    "cons": [],
+    "whoFor": "No-compromise simmers driving retina-class PCVR headsets or triple-4K rigs at high frame rates.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC (VR/MSFS)"
+  },
+  {
+    "id": "nvidia-rtx-5080",
+    "bay": "flight",
+    "type": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5080 (Founders Edition)",
+    "price": 1000,
+    "priceNote": "approx 2026",
+    "image": "/images/gear/flight/nvidia-rtx-5080.jpg",
+    "summary": "Simmers wanting near-flagship PCVR and triple-screen performance at a more reachable price than the 5090. Key specs: Blackwell architecture (GB203), 10,752 CUDA cores, ~2.62 GHz boost; 16GB GDDR7 memory; DLSS 4 with Multi Frame Generation; ~360W class TGP, dual-slot Founders Edition design; High-end GPU for smooth PCVR and triple-monitor sim setups below flagship cost.",
+    "specs": {
+      "Highlight 1": "Blackwell architecture (GB203), 10,752 CUDA cores, ~2.62 GHz boost",
+      "Highlight 2": "16GB GDDR7 memory",
+      "Highlight 3": "DLSS 4 with Multi Frame Generation",
+      "Highlight 4": "~360W class TGP, dual-slot Founders Edition design",
+      "Highlight 5": "High-end GPU for smooth PCVR and triple-monitor sim setups below flagship cost"
+    },
+    "pros": [
+      "Blackwell architecture (GB203), 10,752 CUDA cores, ~2.62 GHz boost",
+      "16GB GDDR7 memory",
+      "DLSS 4 with Multi Frame Generation"
+    ],
+    "cons": [],
+    "whoFor": "Simmers wanting near-flagship PCVR and triple-screen performance at a more reachable price than the 5090.",
+    "rating": {
+      "overall": 8.2,
+      "value": 8,
+      "build": 8
+    },
+    "faqs": [],
+    "affiliate": {
+      "primary": "Amazon",
+      "note": "Amazon affiliate path (tag=ignitionsim-20); also sold direct from the manufacturer."
+    },
+    "platforms": "PC (VR/MSFS)"
+  }
+]

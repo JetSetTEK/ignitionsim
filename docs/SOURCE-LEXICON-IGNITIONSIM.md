@@ -31,6 +31,15 @@ Every new article pass should save a small local background/context pool under `
 - Flight: Honeycomb, Thrustmaster, Logitech G/Saitek, MOZA Flight, WinWing/WINCTRL, Turtle Beach, VKB, Virpil, NaturalPoint TrackIR, Tobii, FlightSimExpo exhibitors, MSFS official/Marketplace screenshots.
 - Marine: Bridge Command, MarineVerse, Sailaway, eSail, Professional Ship Simulator, Leo Bodnar, Arduino/DIY throttle documentation, RailDriver, Logitech/Saitek panels, generic USB button-box makers, ship bridge/helm stock libraries.
 
+## Image Source URLs
+
+- Licensed context/photo pools: [Pexels license](https://www.pexels.com/license/), [Unsplash license](https://unsplash.com/license), [NASA Image and Video Library](https://images.nasa.gov/), [NASA image use policy](https://gpm.nasa.gov/image-use-policy), [Wikimedia Commons](https://commons.wikimedia.org/).
+- Space / HOTAS product media: [VKB](https://vkbsimcontrollers.com/), [VIRPIL](https://virpil-controls.us.com/), [WINWING](https://winwingsim.com/), [Thrustmaster](https://www.thrustmaster.com/), [Monstertech](https://www.monster.tech/), [Elgato](https://www.elgato.com/), [Tobii](https://gaming.tobii.com/), [TrackIR](https://www.trackir.com/).
+- Racing product media: [MOZA Racing](https://mozaracing.com/), [Fanatec](https://fanatec.com/), [Simagic](https://en.simagic.com/), [Simucube](https://simucube.com/), [Asetek SimSports](https://www.asetek.com/simsports/), [Sim-Lab](https://sim-lab.eu/), [Trak Racer](https://trakracer.com/), [Next Level Racing](https://nextlevelracing.com/).
+- Golf product media: [Garmin Golf](https://www.garmin.com/en-US/c/sports-fitness/golf-gps-devices/), [SkyTrak](https://skytrakgolf.com/), [Foresight Sports](https://www.foresightsports.com/), [Uneekor](https://uneekor.com/), [FlightScope](https://flightscope.com/), [Rapsodo](https://rapsodo.com/), [BenQ Golf Simulator Projectors](https://www.benq.com/en-us/projector/golf-simulator.html), [Carl's Place](https://www.carlofet.com/).
+- Flight product media: [Honeycomb Aeronautical](https://flyhoneycomb.com/), [Turtle Beach VelocityOne](https://www.turtlebeach.com/), [Logitech G Flight](https://www.logitechg.com/en-us/products/flight.html), [FlightSimExpo](https://flightsimexpo.com/), [Microsoft Flight Simulator](https://www.flightsimulator.com/).
+- Marine/DIY media: [Bridge Command](https://www.bridgecommand.co.uk/), [Bridge Command throttle docs](https://www.bridgecommand.co.uk/Doc/makethrottle.php), [MarineVerse](https://www.marineverse.com/), [Sailaway](https://sailaway.world/home), [eSail](https://www.esailyachtsimulator.com/), [Leo Bodnar](http://www.leobodnar.com/).
+
 Useful search patterns:
 
 - `site:manufacturer.com product-name manual pdf`

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "meta-quest-3s",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Meta",
+    "model": "Quest 3S",
+    "price": 300,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "Qualcomm Snapdragon XR2 Gen 2 SoC, 8GB RAM",
+      "1832 x 1920 per-eye LCD resolution, fresnel lenses",
+      "Full-color passthrough mixed reality (4MP RGB cameras, no depth sensor)",
+      "128GB ($299.99) or 256GB ($399.99) storage, Touch Plus controllers included",
+      "Standalone all-in-one, ~2.2 hr battery; PCVR-capable via Link/Air Link"
+    ],
+    "whoFor": "Budget-minded newcomers who want standalone mixed reality plus wireless PCVR flight sim on a wallet-friendly headset.",
+    "officialProductUrl": "https://www.meta.com/quest/quest-3s/",
+    "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Meta_Quest_3S_Display_Unit.jpg/1280px-Meta_Quest_3S_Display_Unit.jpg",
+    "imageNotes": "Meta's own product page and Best Buy/Amazon listings are JS-rendered with no static og:image, and the Meta fbcdn image URL 403s on hotlink. Using the Wikimedia Commons product photo (verified HTTP 200, image/jpeg, 184KB) as a stable, hotlinkable direct asset."
+  },
+  {
+    "id": "pimax-crystal-super",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Pimax",
+    "model": "Crystal Super",
+    "price": 1799,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "QLED panels up to 3840 x 3840 per eye, 57 PPD 'retina-level' clarity",
+      "Glass aspheric lenses with local dimming; swappable optical engine (upgrade/repair)",
+      "Inside-out SLAM tracking, four cameras, no base stations required",
+      "120Hz eye tracking driving Dynamic Foveated Rendering",
+      "PCVR-only via DisplayPort; min RTX 2080, recommended RTX 3070+"
+    ],
+    "whoFor": "Enthusiast PCVR flight simmers chasing maximum cockpit-gauge sharpness and long-range spotting on high-end GPUs.",
+    "officialProductUrl": "https://pimax.com/products/pimax-crystal-super",
+    "directImageUrl": "https://pimax.com/cdn/shop/files/product_pimaxcrystalsuper-withcontrollers_white.webp",
+    "imageNotes": "Clean white product shot pulled from the official Pimax Shopify product gallery (verified HTTP 200). The page og:image is a 'Mid-year sale' promo banner, so used the dedicated product-photo asset instead."
+  },
+  {
+    "id": "bigscreen-beyond-2",
+    "bay": "flight",
+    "type": "vr",
+    "brand": "Bigscreen",
+    "model": "Beyond 2",
+    "price": 1019,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "Dual 1-inch micro-OLED displays, 2560 x 2560 per eye",
+      "Ultralight 107g custom-molded body; 90Hz refresh",
+      "116 degree diagonal / 108 degree FoV with edge-to-edge clarity",
+      "Adjustable IPD mechanism (tool-set, mm markings)",
+      "SteamVR-tracked PCVR (1.0/2.0 base stations); 2e variant adds eye tracking + DFR"
+    ],
+    "whoFor": "Simmers who prize a featherweight, ultra-sharp OLED headset for long comfortable flight sessions and don't mind the SteamVR base-station setup.",
+    "officialProductUrl": "https://store.bigscreenvr.com/products/bigscreen-beyond-2",
+    "directImageUrl": "https://store.bigscreenvr.com/cdn/shop/files/Clear_with_Strap.webp?v=1743475007",
+    "imageNotes": "Official Bigscreen Shopify og:image (product with strap), verified HTTP 200. Direct CDN asset from store.bigscreenvr.com."
+  },
+  {
+    "id": "samsung-odyssey-neo-g9-57",
+    "bay": "racing",
+    "type": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey Neo G9 57\" (G95NC / LS57CG952NNXZA)",
+    "price": 2000,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "57-inch 7680 x 2160 Dual UHD (32:9) 1000R curved VA panel",
+      "240Hz refresh, 1ms response, DisplayPort 2.1 (needed for full res/refresh)",
+      "Quantum Mini-LED FALD, ~2392 dimming zones, DisplayHDR 1000, 1000-nit peak",
+      "AMD FreeSync Premium Pro, VRR support",
+      "Massive single-panel triple-monitor replacement for sim cockpits"
+    ],
+    "whoFor": "Sim racers who want a single super-ultrawide panel delivering triple-monitor width without bezels for maximum immersion.",
+    "officialProductUrl": "https://www.samsung.com/us/monitors/gaming/57-inch-odyssey-neo-g9-dual-4k-uhd-quantum-mini-led-240hz-1ms-hdr-1000-curved-gaming-monitor-sku-ls57cg952nnxza/",
+    "directImageUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/ls57cg952nnxza/gallery/us-gaming-ls57cg952nnxza-odyssey-neo-g--g--nc-white-552023677?$product-details-jpg$",
+    "imageNotes": "Samsung Scene7 gallery asset for SKU LS57CG952NNXZA (verified HTTP 200). URL uses Samsung's $product-details-jpg$ preset image renderer; serves a clean product image."
+  },
+  {
+    "id": "nlr-triple-monitor-stand",
+    "bay": "racing",
+    "type": "mount",
+    "brand": "Next Level Racing",
+    "model": "Free Standing Triple Monitor Stand (NLR-A010)",
+    "price": 399,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "Holds three screens from 32 to 65 inches for ~195 degrees peripheral vision",
+      "Fully free-standing (no desk/cockpit attachment required)",
+      "Lockable caster wheels for mobility + height-adjustable feet",
+      "Universal VESA mounting range; wide screen-position adjustment",
+      "Designed for events, sim-racing centers, and large triple-screen setups"
+    ],
+    "whoFor": "Sim racers running big triple displays who need a standalone, rollable stand independent of their cockpit or desk.",
+    "officialProductUrl": "https://nextlevelracing.com/products/next-level-racing-free-standing-triple-monitor-stand/",
+    "directImageUrl": "https://cdn.nlr.sh/wp-content/uploads/2019/12/Free-Standing-Triple-Monitor-Stand-1.png",
+    "imageNotes": "Direct product image from Next Level Racing's own cdn.nlr.sh (verified HTTP 200, image/png). One of six gallery assets on the official product page."
+  },
+  {
+    "id": "nvidia-rtx-5090",
+    "bay": "flight",
+    "type": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5090 (Founders Edition)",
+    "price": 1999,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "Blackwell architecture, 21,760 CUDA cores, ~2.41 GHz boost",
+      "32GB GDDR7, 512-bit bus, ~1.79 TB/s memory bandwidth",
+      "575W total graphics power",
+      "DLSS 4 with Multi Frame Generation",
+      "Flagship GPU for high-resolution PCVR flight sim (drives Crystal Super / triple 4K)"
+    ],
+    "whoFor": "No-compromise simmers driving retina-class PCVR headsets or triple-4K rigs at high frame rates.",
+    "officialProductUrl": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "directImageUrl": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5090/geforce-rtx-5090-learn-more-og-1200x630.jpg",
+    "imageNotes": "Official NVIDIA og:image (Founders Edition card render), verified HTTP 200 image/jpeg from nvidia.com DAM. 1200x630 marketing asset."
+  },
+  {
+    "id": "nvidia-rtx-5080",
+    "bay": "flight",
+    "type": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5080 (Founders Edition)",
+    "price": 1000,
+    "priceNote": "approx 2026",
+    "keySpecs": [
+      "Blackwell architecture (GB203), 10,752 CUDA cores, ~2.62 GHz boost",
+      "16GB GDDR7 memory",
+      "DLSS 4 with Multi Frame Generation",
+      "~360W class TGP, dual-slot Founders Edition design",
+      "High-end GPU for smooth PCVR and triple-monitor sim setups below flagship cost"
+    ],
+    "whoFor": "Simmers wanting near-flagship PCVR and triple-screen performance at a more reachable price than the 5090.",
+    "officialProductUrl": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "directImageUrl": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5080/geforce-rtx-5080-og-1200x630.jpg",
+    "imageNotes": "Official NVIDIA og:image (Founders Edition card render), verified HTTP 200 image/jpeg from nvidia.com DAM. 1200x630 marketing asset."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "dayton-bst-1",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "Dayton Audio",
+    "model": "BST-1 High Power Pro Tactile Bass Shaker (50W)",
+    "price": 55,
+    "priceNote": "approx 2026 (~$50-60 USD at Parts Express/Amazon; official listing 50W 4-ohm shaker)",
+    "keySpecs": [
+      "50 watts RMS power handling, 4 ohms impedance",
+      "Frequency response tuned for tactile sub-bass lows (turns any surface into a bass transducer)",
+      "High-grade aluminum housing, ~3.75 lb weight",
+      "Wireable in series (8 ohm), parallel (2 ohm) or series-parallel (4 ohm)",
+      "Pairs with SA70 amp (single) or SPA250 amp (2-4 shakers)"
+    ],
+    "whoFor": "Budget sim racers adding physical rumble/road-feel to a cockpit or seat without a full motion rig.",
+    "officialProductUrl": "https://www.daytonaudio.com/product/1245/bst-1-high-power-pro-tactile-bass-shaker-50-watts",
+    "directImageUrl": "https://willys-hifi.com/cdn/shop/files/DAYTON-AUDIO-BST1_2048x.jpg?v=1760625553",
+    "imageNotes": "daytonaudio.com official page blocked WebFetch (empty body); direct image pulled from authorized reseller willys-hifi.com Shopify CDN (clean white-background product shot). Alt backup: https://smoketronics.com/wp-content/uploads/2018/06/BST_1_18.jpg"
+  },
+  {
+    "id": "nlr-hf8",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "Next Level Racing",
+    "model": "HF8 Haptic Gaming Pad",
+    "price": 179,
+    "priceNote": "approx 2026 (official US $179; retail range $169-229)",
+    "keySpecs": [
+      "8 localized haptic motors positioned across the seat/back",
+      "USB connection for PC + 3.5mm audio jack for console/audio devices",
+      "Plug-and-play PC software with multi-channel profiles (no sound card/amp needed)",
+      "Customizable and shareable haptic profiles per game title",
+      "Supports users up to 6'9\" and 330 lbs"
+    ],
+    "whoFor": "Sim racers who want haptic body feedback that drops onto any existing seat with zero cockpit modification.",
+    "officialProductUrl": "https://nextlevelracing.com/products/hf8-haptic-gaming-pad/",
+    "directImageUrl": "https://cdn.nlr.sh/wp-content/uploads/2023/01/HF8-Haptic-Gaming-Pad-6.webp",
+    "imageNotes": "Direct image from official Next Level Racing CDN (cdn.nlr.sh) main product gallery, .webp."
+  },
+  {
+    "id": "buttkicker-gamer-plus",
+    "bay": "racing",
+    "type": "haptic",
+    "brand": "ButtKicker",
+    "model": "Gamer Plus (Haptic Transducer + Power Amplifier)",
+    "price": 280,
+    "priceNote": "approx 2026 (official thebuttkicker.com $279.95)",
+    "keySpecs": [
+      "Haptic transducer with universal clamp mount, 5-200 Hz response, 6 oz piston",
+      "Included 90W RMS power amplifier @ 2 ohm with wireless remote",
+      "Transducer power handling 75W min to 250W max, 2 ohm nominal impedance",
+      "Connects via USB-C and RCA/3.5mm; 9.8' quick-release transducer cable",
+      "Amp: 10-300 Hz response, ~3.7 lb"
+    ],
+    "whoFor": "Sim racers wanting a single powerful bolt-on bass shaker with a matched amp and one-cable setup.",
+    "officialProductUrl": "https://thebuttkicker.com/products/buttkicker-gamer-plus",
+    "directImageUrl": "https://thebuttkicker.com/cdn/shop/products/gamer-plus-2000x2000-1_300x300.jpg?v=1654195556",
+    "imageNotes": "Direct image from official ButtKicker Shopify CDN. URL contains _300x300 thumbnail suffix - can request larger by editing to _2000x2000 or removing the size token if a bigger asset is needed."
+  },
+  {
+    "id": "fosi-ht4s",
+    "bay": "racing",
+    "type": "amp",
+    "brand": "Fosi Audio",
+    "model": "HT4S 4.1/5.0-Channel Bluetooth Power Amplifier",
+    "price": 120,
+    "priceNote": "approx 2026 (official fosiaudio.com $119.99)",
+    "keySpecs": [
+      "5-channel Class D amp, 30W x4 + 60W x1 @4ohm (4.1) or 30W x5 (5.0)",
+      "Dual TPA3116 amplifier chips",
+      "Inputs: 3.5mm AUX, optical, Bluetooth; outputs to passive speakers + subwoofer/shakers",
+      "All-aluminum CNC unibody chassis with remote control",
+      "24-month manufacturer warranty"
+    ],
+    "whoFor": "Sim racers driving multiple bass shakers who want an affordable multi-channel amp instead of one amp per shaker.",
+    "officialProductUrl": "https://fosiaudio.com/products/fosi-audio-ht4s-bluetooth-amplifier",
+    "directImageUrl": "https://fosiaudio.com/cdn/shop/files/B0CYQ1B598.MAIN.jpg?v=1751599214&width=1600",
+    "imageNotes": "Direct image from official Fosi Audio Shopify CDN, 1600px main product shot."
+  },
+  {
+    "id": "nlr-elite-es1",
+    "bay": "racing",
+    "type": "seat",
+    "brand": "Next Level Racing",
+    "model": "Elite ES1 Sim Racing Seat (NLR-E011)",
+    "price": 399,
+    "priceNote": "approx 2026 (official US $399; retail range $399-449)",
+    "keySpecs": [
+      "Fixed-back single-piece seat eliminates recliner flex",
+      "Five-axis roto-molded construction for rigidity",
+      "PU molded foam suede cushions, seat belts included",
+      "98 unique mounting configurations with NLR seat bracket",
+      "Fits waists up to 42\", supports up to 550 lb (250 kg)"
+    ],
+    "whoFor": "Sim racers upgrading to a rigid, motorsport-grade fixed bucket seat for a serious cockpit.",
+    "officialProductUrl": "https://nextlevelracing.com/products/elite-es1-sim-racing-seat/",
+    "directImageUrl": "https://cdn.nlr.sh/wp-content/uploads/2021/09/es1_sim_racing_seat_2.png",
+    "imageNotes": "Direct image from official Next Level Racing CDN (cdn.nlr.sh) product gallery, .png."
+  },
+  {
+    "id": "trak-racer-trx",
+    "bay": "racing",
+    "type": "cockpit",
+    "brand": "Trak Racer",
+    "model": "TR160 V5 Aluminium Racing Simulator Cockpit",
+    "price": 657,
+    "priceNote": "approx 2026 (official trakracer.com $657 on sale, reg $730; flagship TR160S variant ~$769)",
+    "keySpecs": [
+      "Heavy 160x40mm aluminium profile chassis, zero measurable flex under 16 Nm direct drive",
+      "TR One Wheel Mounting System for adjustable wheel position",
+      "Adjustable pedal mount compatible with all major pedal brands",
+      "Premium seat slider rails included (seat sold separately)",
+      "Motion-ready wide-body, low-to-ground design with anodized finish"
+    ],
+    "whoFor": "Serious sim racers running high-end direct-drive wheels who need a rigid, motion-ready 80/20 aluminium chassis.",
+    "officialProductUrl": "https://trakracer.com/products/tr160-v5",
+    "directImageUrl": "https://trakracer.com/cdn/shop/files/TR1605Blacke-cm05-min_e3389b9b-4b36-4993-aaee-45bda39ac449.png?v=1778591699",
+    "imageNotes": "Direct image from official Trak Racer Shopify CDN, anodized black variant. Product task allowed 'TR160S or Alpine TRX'; TR160 V5 is the current-gen aluminium chassis in that line."
+  },
+  {
+    "id": "nlr-gtlite",
+    "bay": "racing",
+    "type": "cockpit",
+    "brand": "Next Level Racing",
+    "model": "GTLite Foldable Cockpit",
+    "price": 199,
+    "priceNote": "approx 2026 (official US $199)",
+    "keySpecs": [
+      "Foldable GT-position cockpit that packs away even with electronics installed",
+      "NLR Hubs each withstand 150 kg of force for a rigid racing position",
+      "Dedicated shifter mount included (Thrustmaster, Logitech, Moza, Fanatec compatible)",
+      "Designed for limited-space setups with quick setup and folding",
+      "Wheel/pedal/shifter mounting standard"
+    ],
+    "whoFor": "Space-constrained sim racers who need a rigid cockpit that folds flat for storage between sessions.",
+    "officialProductUrl": "https://nextlevelracing.com/products/gt-lite/",
+    "directImageUrl": "https://cdn.nlr.sh/wp-content/uploads/2020/10/gt_lite_website_gallery_8-1.png",
+    "imageNotes": "Direct image from official Next Level Racing CDN (cdn.nlr.sh) product gallery, .png."
+  },
+  {
+    "id": "nlr-motion-v3",
+    "bay": "racing",
+    "type": "motion",
+    "brand": "Next Level Racing",
+    "model": "Motion Platform V3",
+    "price": 2999,
+    "priceNote": "approx 2026 (official US $2,999; retail up to ~$3,440)",
+    "keySpecs": [
+      "Seat-mover motion platform for maximum immersion (moves the seat, not the whole rig)",
+      "Two-point tactile feedback for road bumps, texture, gear changes, collisions",
+      "Includes NLR Platform Manager software, click-and-play with major racing/flight titles on PC",
+      "Compact design fits within an existing cockpit footprint, no extra space required",
+      "European-made, engineered with commercial motion engineers"
+    ],
+    "whoFor": "Enthusiasts chasing the most realistic immersion who want true seat motion on a compact footprint.",
+    "officialProductUrl": "https://nextlevelracing.com/products/next-level-racing-motion-platform-v3/",
+    "directImageUrl": "https://cdn.nlr.sh/wp-content/uploads/2019/12/motion_v3_gallery_1-1.png",
+    "imageNotes": "Direct image from official Next Level Racing CDN (cdn.nlr.sh) product gallery, .png."
+  },
+  {
+    "id": "dof-reality-h3",
+    "bay": "racing",
+    "type": "motion",
+    "brand": "DOF Reality",
+    "model": "H3 (3-Axis HERO) Motion Platform",
+    "price": 2599,
+    "priceNote": "approx 2026 (base H3 chassis historically ~$1,949-2,599; H3 with SFU/xtra-smooth gearing configs list ~$2,999)",
+    "keySpecs": [
+      "3 DOF: pitch + roll + yaw (rear traction loss)",
+      "Motion range 40 degrees, speed 75 cm/s (105 deg/s), torque 28 N/m",
+      "Acceleration 0.75G transverse / 0.5G longitudinal, ~1400W peak power",
+      "Footprint 100x150 cm (3x5.2 ft), 60 cm height; supports up to 440 lb / 200 kg",
+      "Includes SimRacingStudio license; seat/wheel/pedals purchased separately"
+    ],
+    "whoFor": "DIY-minded sim racers who want full 3-axis motion at a lower price than premium seat-mover rigs.",
+    "officialProductUrl": "https://dofreality.com/product/racing/motion-racing-rig-3-axis-hero-h3/",
+    "directImageUrl": "https://dofreality.com/wp-content/uploads/h3_racing_0-1024x709.png",
+    "imageNotes": "Direct image from official DOF Reality WordPress wp-content upload, .png (1024x709). Price varies widely by gearing/damper config; official page WebFetch reported $2,999 for the SFU+xtra-smooth build."
+  },
+  {
+    "id": "steelseries-arctis-nova-7",
+    "bay": "racing",
+    "type": "audio",
+    "brand": "SteelSeries",
+    "model": "Arctis Nova 7 Wireless",
+    "price": 179,
+    "priceNote": "approx 2026 (original Nova 7 MSRP $179.99, often ~$149; Gen 2 is $199.99)",
+    "keySpecs": [
+      "Dual wireless: 2.4GHz lossless dongle + simultaneous mixable Bluetooth",
+      "Custom neodymium magnetic drivers (Nova Acoustic System)",
+      "ClearCast Gen 2 AI retractable mic, up to ~25dB noise reduction",
+      "~38 hr battery, USB-C fast charge",
+      "Multi-platform: PC, PS5, Switch, VR, mobile"
+    ],
+    "whoFor": "Sim racers wanting low-latency wireless audio + clear comms across PC and console without a wired tether.",
+    "officialProductUrl": "https://steelseries.com/gaming-headsets/arctis-nova-7",
+    "directImageUrl": "https://images.ctfassets.net/hmm5mo4qf4mf/656blOm98ncSC8GsJv9QUN/853167c9ec252f79986681b6da4ca64e/arctis_nova_7p_black_pdp_img_buy_01.png__1920x1080_crop-fit_optimize_subsampling-2-190.png?fm=webp&q=90&fit=scale&w=1920",
+    "imageNotes": "Direct image from official SteelSeries Contentful CDN (images.ctfassets.net) primary PDP shot. This is the 7P (PlayStation) colorway on the shared Nova 7 page; base black Nova 7 is visually identical."
+  },
+  {
+    "id": "govee-rgbic-bars",
+    "bay": "racing",
+    "type": "lighting",
+    "brand": "Govee",
+    "model": "RGBIC Gaming Light Bars (H6047)",
+    "price": 90,
+    "priceNote": "approx 2026 (official Govee US $89.99, MSRP $119.99; frequently on sale ~$54-60)",
+    "keySpecs": [
+      "RGBIC segmented lighting, 16 million colors, 41 light beads",
+      "215-degree curved lens for wide, bright spread",
+      "Built-in mic music/sync modes + 40-60 scene modes",
+      "Smart Dial controller; Wi-Fi, works with Alexa & Google Assistant",
+      "Razer Chroma sync; ~16.7 in bars"
+    ],
+    "whoFor": "Sim racers adding reactive ambient RGB behind a monitor or cockpit for immersion and setup aesthetics.",
+    "officialProductUrl": "https://us.govee.com/products/govee-rgbic-wi-fi-gaming-light-bars-with-smart-controller",
+    "directImageUrl": "https://lightsdaddy.com/cdn/shop/files/61PZawwCWwL.jpg?v=1763886257&width=1400",
+    "imageNotes": "Govee US official page is a multi-product collection page (no single clean product image via WebFetch); direct H6047-specific product image pulled from authorized retailer lightsdaddy.com Shopify CDN. Amazon ASIN B0B6CQ2LQ2 is the official listing but its media-amazon image src was not exposed to WebFetch."
+  },
+  {
+    "id": "sabrent-powered-usb-hub",
+    "bay": "racing",
+    "type": "accessory",
+    "brand": "Sabrent",
+    "model": "10-Port 60W Powered USB 3.0 Hub (HB-BU10)",
+    "price": 50,
+    "priceNote": "approx 2026 (official sabrent.com $49.99)",
+    "keySpecs": [
+      "10 USB 3.0 ports, up to 5 Gbps data transfer",
+      "Individual power switches with blue LED status per port",
+      "3 smart charging ports; up to 900mA per port",
+      "Included 60W 12V/5A power adapter",
+      "Plug-and-play, no drivers required"
+    ],
+    "whoFor": "Sim racers connecting many USB peripherals (wheel, pedals, shifter, button box, shakers) from one powered hub.",
+    "officialProductUrl": "https://sabrent.com/products/hb-bu10",
+    "directImageUrl": "https://sabrent.com/cdn/shop/products/81ggRdW9T6L._SL1500.jpg?v=1635797678",
+    "imageNotes": "Direct image from official Sabrent Shopify CDN (1500px). Note: product task said 'HB-BUP3' but the actual current 10-port powered USB 3.0 hub SKU is HB-BU10."
+  }
+]
