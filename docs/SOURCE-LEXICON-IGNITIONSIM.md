@@ -11,6 +11,38 @@ This is the starting source registry for product-photo hunting, source review, a
 
 Do not hotlink. Save verified product media into `public/images/gear/...`, keep the product source URL in the product registry or fetch script, and verify the local file before it can appear on public product benches.
 
+## Reusable Image Source Pools
+
+Use this order when filling article visuals, thumbnails, and product benches. The goal is product-photo porn with receipts: real gear, real rooms, real setup friction, then curated atmosphere.
+
+1. Official product media: manufacturer product pages, manuals, installation PDFs, press kits, and official setup photos. Best for product proof, box art, rear-port shots, scale, mount compatibility, and diagrams.
+2. Specialty retailers: B&H, Micro Center, PlayBetter, Shop Indoor Golf, Rain or Shine Golf, Carl's Place, Trak Racer, Sim-Lab, Next Level Racing, and distributor pages with clear product galleries. Use when official pages are thin or missing setup angles.
+3. Licensed context images: Pexels, Unsplash, Wikimedia Commons, NASA media, and other clearly licensed sources. Use for room mood, cockpit/garage/bridge atmosphere, category backgrounds, and non-product lifestyle context.
+4. Community rigs and build photos: Reddit, forums, Discord-posted galleries, YouTube thumbnails, and personal blogs are inspiration and outbound links unless we have explicit permission to embed or a compatible license.
+5. AI/editorial scenes: allowed for curators, diagrams, vibe, and hypothetical room layouts only. Do not use AI to impersonate a real joystick, wheelbase, launch monitor, projector, game UI, box, review screenshot, or installed rig.
+
+Every new article pass should save a small local background/context pool under `public/images/source-backgrounds/{category}/` when useful. These images can support varied thumbnails, but the article body still needs real product photos, setup photos, diagrams, and screenshots close to the buying decision. Keep the original attribution and source URL in `src/data/photography.json` or the product registry when a local source-background file is added.
+
+## Fast Image Hunt List
+
+- Space / HOTAS / HOSAS: VKB, Virpil, WinWing/WINCTRL, Thrustmaster, Logitech G/Saitek, Monstertech, Foxx Mount, Predator Mounts, Elgato, Tobii, TrackIR, Star Citizen official media, Elite Dangerous official/Steam media, NASA media, Pexels SpaceX images.
+- Racing: MOZA, Fanatec, Logitech G, Thrustmaster, Simagic, Simucube, Asetek SimSports, Heusinkveld, Sim-Lab, Trak Racer, Next Level Racing, GT Omega, ButtKicker, Samsung/ASUS display pages, Boosted Media and Sim Racing Cockpit for review-source context.
+- Golf: Garmin, SkyTrak, Bushnell/Foresight, Uneekor, FlightScope, Rapsodo, Full Swing, Square Golf, BenQ, Optoma, Fiberbuilt, SIGPRO, Carl's Place, Shop Indoor Golf, Rain or Shine Golf, PlayBetter, Breaking Eighty.
+- Flight: Honeycomb, Thrustmaster, Logitech G/Saitek, MOZA Flight, WinWing/WINCTRL, Turtle Beach, VKB, Virpil, NaturalPoint TrackIR, Tobii, FlightSimExpo exhibitors, MSFS official/Marketplace screenshots.
+- Marine: Bridge Command, MarineVerse, Sailaway, eSail, Professional Ship Simulator, Leo Bodnar, Arduino/DIY throttle documentation, RailDriver, Logitech/Saitek panels, generic USB button-box makers, ship bridge/helm stock libraries.
+
+Useful search patterns:
+
+- `site:manufacturer.com product-name manual pdf`
+- `site:manufacturer.com product-name press kit`
+- `site:retailer.com product-name rear ports`
+- `site:reddit.com/r/simracing full rig setup photo product-name`
+- `site:reddit.com/r/hotas HOSAS desk mount setup`
+- `site:golfsimulatorforum.com launch monitor room setup photos`
+- `product-name installation guide`
+- `product-name box contents`
+- `product-name low star review issue`
+
 ## Racing Sources
 
 - MOZA Racing product pages: wheelbases, pedals, bundles, and flight crossover gear.

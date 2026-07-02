@@ -11,7 +11,8 @@ heroImage: "/images/gear/flight/honeycomb-alpha-yoke.jpg"
 heroAlt: "Honeycomb Aeronautical Alpha Flight Controls yoke — the best first GA buy of 2026"
 excerpt: "The right first purchase depends entirely on what you fly. Here's the honest 2026 buy order — the one thing to buy first, then the ladder from first stick to a full airliner cockpit, matched to GA, Airbus, Boeing and combat."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "flight"
@@ -223,11 +224,11 @@ The budget and combat pedals below are text-and-link only because we haven't ver
 
 ## Rung 4 — Best airliner panels: WinWing MIP series
 
-If you're building toward a home cockpit, WinWing's MIP-series panels are the value story of the era, and they're rung four: buy them when a mouse click starts breaking your immersion. The [WinWing MCDU](/flight/gear/winwing-mcdu-a320) (from ~$130) is a full-scale backlit Airbus MCDU confirmed for the Fenix A320, connecting over a single USB cable with zero GPU load. The Boeing equivalents — the [PFP 3N FMC/CDU](/flight/gear/winwing-pfp-3n-boeing-fmc) (from ~$130) and the superb [PAP 3 MCP](/flight/gear/winwing-pap-3-mcp) (~$150), a 1:1 737 Mode Control Panel — bring four-figure realism down to mid-tier money. Add the [A320 FCU + EFIS combo](/flight/gear/winwing-fcu-efis-combo-a320) to finish the Airbus glareshield.
+If you're building toward a home cockpit, WinWing's MIP-series panels are the value story of the era, and they're rung four: buy them when a mouse click starts breaking your immersion. The WinWing MCDU (from ~$130) is a full-scale backlit Airbus MCDU confirmed for the Fenix A320, connecting over a single USB cable with zero GPU load. The Boeing equivalents — the [PFP 3N FMC/CDU](/flight/gear/winwing-pfp-3n-boeing-fmc) (from ~$130) and the superb [PAP 3 MCP](/flight/gear/winwing-pap-3-mcp) (~$150), a 1:1 737 Mode Control Panel — bring four-figure realism down to mid-tier money. Add the [A320 FCU + EFIS combo](/flight/gear/winwing-fcu-efis-combo-a320) to finish the Airbus glareshield.
 
 WinWing panels are text-and-link only here because we haven't verified their exact product photos (all confirmed via the WinWing/WinCTRL store):
 
-- **[WinWing MCDU (A320)](/flight/gear/winwing-mcdu-a320)** — full-scale backlit Airbus MCDU, single USB, Fenix A320, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, Fenix A320, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
 - **[WinWing PFP 3N (737 FMC/CDU)](/flight/gear/winwing-pfp-3n-boeing-fmc)** — backlit Boeing 737 CDU for PMDG, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+PFP+3N+737+CDU&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
 - **[WinWing PAP 3 (737 MCP)](/flight/gear/winwing-pap-3-mcp)** — 1:1 737 Mode Control Panel with disconnect bar, ~$150, [check Amazon](https://www.amazon.com/s?k=WinWing+PAP+3+MCP&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
 - **[WinWing FCU + EFIS combo (A320)](/flight/gear/winwing-fcu-efis-combo-a320)** — Airbus glareshield autopilot + EFIS panels, ~$480, [check Amazon](https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
@@ -302,7 +303,7 @@ No verified studio photo is on file for the AY210 yet, so it's text-and-link onl
 | [Logitech G Pedals](/flight/gear/logitech-g-flight-rudder-pedals) | $180 | 3 · budget pedals | Best budget entry |
 | [VelocityOne Pedals](/flight/gear/turtle-beach-velocityone-rudder-pedals) | $300 | 3 · console pedals | Best Xbox pedals |
 | [WinWing PAP 3 MCP](/flight/gear/winwing-pap-3-mcp) | $150 | 4 · panel | **Best airliner panel** |
-| [WinWing MCDU](/flight/gear/winwing-mcdu-a320) | $130 | 4 · panel | Best Airbus FMC value |
+| WinWing MCDU | $130 | 4 · panel | Best Airbus FMC value |
 | [TrackIR 5](/flight/gear/naturalpoint-trackir-5) | $170 | 5 · head tracking | **Best head tracking** |
 | [Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5) | $299-369 | 5 · head tracking | Best no-clip option |
 | [Logitech G PRO Yoke](/flight/gear/logitech-g-pro-flight-yoke-system) | $180 | 1 · budget GA | Best beginner bundle |
