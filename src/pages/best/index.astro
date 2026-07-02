@@ -6,7 +6,7 @@ import site from '../../data/site.json';
 const byBay = bays.map((b) => ({ bay: b, items: (lists as any[]).filter((l) => l.bay === b.slug) })).filter((g) => g.items.length);
 const schema = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'IgnitionSim best-of rankings', url: new URL('/best', site.url).href }];
 ---
-<Base title="Best-Of Rankings — sim hardware, ranked" description="Ranked best-of lists for sim hardware — by the IgnitionSim Verdict, by price, by category. Cheapest direct drive, best launch monitors, best HOSAS sticks and more." schema={schema}>
+<Base title="Best-Of Rankings — sim hardware, ranked" description="Ranked best-of lists for sim hardware — by the IgnitionSim Verdict, by price, by category. Cheapest direct drive, best launch monitors, best HOSAS sticks and more." schema={schema} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span>Best</div>
     <section class="hero" style="text-align:left;padding:36px 0 10px">

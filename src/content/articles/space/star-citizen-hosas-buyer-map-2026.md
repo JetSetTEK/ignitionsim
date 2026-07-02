@@ -6,8 +6,8 @@ type: "buying-guide"
 primaryKeyword: "Star Citizen HOSAS buyer guide 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/space/star-citizen-hosas-buyer-map-2026.jpg"
-heroAlt: "A Star Citizen HOSAS build map with dual sticks, omni throttle, mounts, Stream Deck, and head tracking"
+heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"
+heroAlt: "VKB Gladiator NXT EVO Space Combat Edition joystick"
 excerpt: "Val's space map: dual sticks first, mounts second, head tracking third, button layers later. Six-axis control beats cockpit cosplay."
 featured: true
 goldStatus: "certified"

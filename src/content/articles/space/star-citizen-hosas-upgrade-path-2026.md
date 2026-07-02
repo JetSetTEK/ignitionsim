@@ -7,8 +7,8 @@ primaryKeyword: "Star Citizen HOSAS upgrade path 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/space/star-citizen-hosas-upgrade-path-2026.jpg"
-heroAlt: "Star Citizen HOSAS upgrade path with VKB, Virpil, WinWing, mounts, pedals, and macro controls"
+heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg"
+heroAlt: "VKB Gladiator NXT EVO Omni Throttle for space sims"
 excerpt: "Stop buying random flight gear for Star Citizen. The winning HOSAS path is two good sticks, stable mounts, sane bindings, then premium metal only when you know why."
 featured: true
 goldStatus: "certified"

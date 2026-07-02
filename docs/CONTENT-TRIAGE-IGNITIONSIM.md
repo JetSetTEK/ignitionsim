@@ -6,7 +6,7 @@ Current library: 89 articles across racing, flight, space, marine, and golf. The
 - Clean-slate rule: only `goldStatus: "certified"` articles are public.
 - Existing incomplete articles stay in the repo as `refresh` by default and are not deleted.
 - Keep the content engine front and center.
-- Keep gear pages because they support affiliate clicks, product schema, and internal linking.
+- Keep gear/product data in the repo, but do not treat gear pages, brand pages, or best-of rankings as public SEO surfaces until they pass the product-review standard. They may exist as noindexed lab/support pages while review snapshots, low-star warnings, and source checks are added.
 - Backburner public tools until the data layer is strong enough to earn trust.
 - Refresh articles rather than deleting them unless a page is inaccurate, obsolete, or too thin to rescue.
 

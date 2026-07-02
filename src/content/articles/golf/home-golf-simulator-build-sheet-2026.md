@@ -6,8 +6,8 @@ type: "buying-guide"
 primaryKeyword: "home golf simulator build sheet 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/golf/home-golf-simulator-build-sheet-2026.jpg"
-heroAlt: "A home golf simulator build sheet with launch monitor, mat, enclosure, projector, and screen"
+heroImage: "/images/gear/golf/benq-lk936st.jpg"
+heroAlt: "BenQ LK936ST short throw golf simulator projector"
 excerpt: "Nina's rule: measure the room before shopping. The launch monitor is the brain, but the mat, screen, and ceiling height decide whether the build works."
 featured: true
 goldStatus: "certified"

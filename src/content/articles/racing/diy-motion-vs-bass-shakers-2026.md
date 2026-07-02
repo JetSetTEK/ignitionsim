@@ -6,8 +6,8 @@ type: "diy"
 primaryKeyword: "bass shakers vs motion sim rig"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/racing/diy-motion-vs-bass-shakers-2026.jpg"
-heroAlt: "A sim racing cockpit with tactile transducers, aluminum profile, wiring, and DIY motion components"
+heroImage: "/images/gear/racing/buttkicker-gamer-pro.jpg"
+heroAlt: "ButtKicker Gamer PRO tactile feedback transducer"
 excerpt: "Mac's rule: tactile first, motion later. Bass shakers teach the car's texture; motion moves the chassis; bad wiring ruins both."
 featured: true
 goldStatus: "certified"

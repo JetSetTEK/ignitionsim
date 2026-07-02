@@ -32,6 +32,9 @@ export default defineConfig({
       filter: (page) => {
         const path = new URL(page).pathname.replace(/\/$/, '') || '/';
         if (page.includes('/_')) return false;
+        if (path === '/best' || path.startsWith('/best/')) return false;
+        if (path === '/brand' || path.startsWith('/brand/')) return false;
+        if (/^\/(racing|flight|space|marine|golf)\/gear(\/|$)/.test(path)) return false;
         return ![
           '/drops',
           '/alerts',

@@ -1,41 +1,44 @@
 /* ============================================================
    IgnitionSim — Theme Tokens
-   Master shell = bright engineering bench. Per-bay accents swap
-   via [data-bay]. --ember is the global brand spark.
+   Clean-slate shell: bright workshop, catalog ink, arcade-era
+   signal colors, real-product-first.
    ============================================================ */
 
 :root {
-  /* master shell — catalog/workbench */
-  --night:   #F5F7FA;
-  --night2:  #E9EEF4;
+  /* master shell */
+  --night:   #EEF2F5;
+  --night2:  #DCE5EA;
   --panel:   #FFFFFF;
-  --panel2:  #F8FAFC;
-  --line:    #DDE4EC;
-  --line2:   #C7D2DF;
+  --panel2:  #F6F8FA;
+  --ink:     #101820;
+  --paper:   #FBFCFD;
+  --line:    #D4DEE6;
+  --line2:   #AAB8C4;
 
-  /* signature: ignition ember (name <-> color) */
+  /* signature */
   --ember:   #FF5E1A;
-  --ember-2: #FF7A3D;
+  --ember-2: #FF9B4A;
 
-  /* precise master accents */
-  --cyan: #0284C7;
-  --mag:  #7C3AED;
+  /* precision accents */
+  --cyan: #0077B6;
+  --mag:  #7B2CBF;
+  --acid: #B8F500;
 
   /* text */
-  --txt:    #151C26;
-  --dim:    #526172;
-  --dimmer: #7A8797;
+  --txt:    #101820;
+  --dim:    #435363;
+  --dimmer: #71808C;
 
   /* status — configurator verdicts */
   --green: #34D399;
   --amber: #F59E0B;
   --red:   #F87171;
 
-  /* default accent (hub / no bay) = cyan */
-  --accent:  #0284C7;
-  --accent2: #7C3AED;
-  --bayglow: rgba(2, 132, 199, .2);
-  --baybg:   #F5F7FA;
+  /* default accent */
+  --accent:  #FF5E1A;
+  --accent2: #0077B6;
+  --bayglow: rgba(255, 94, 26, .22);
+  --baybg:   #EEF2F5;
   --baypanel:#FFFFFF;
 
   /* type */
@@ -47,41 +50,41 @@
   --sp-1: .25rem; --sp-2: .5rem; --sp-3: .75rem; --sp-4: 1rem;
   --sp-5: 1.5rem; --sp-6: 2rem; --sp-7: 3rem; --sp-8: 4.5rem; --sp-9: 7rem;
 
-  --wrap: 1180px;
-  --radius: 14px;
+  --wrap: 1240px;
+  --radius: 10px;
 }
 
 /* ---------- per-bay theme token sets ---------- */
 [data-bay="racing"] {
-  --accent:  #EA580C;   /* ignition orange */
-  --accent2: #B91C1C;   /* redline */
+  --accent:  #EA580C;
+  --accent2: #B91C1C;
   --bayglow: rgba(234, 88, 12, .22);
   --baybg:   #FFF7ED;
   --baypanel:#FFFFFF;
 }
 [data-bay="flight"] {
-  --accent:  #0284C7;   /* blueprint cyan */
+  --accent:  #0077B6;
   --accent2: #0EA5E9;
   --bayglow: rgba(2, 132, 199, .22);
   --baybg:   #EFF9FF;
   --baypanel:#FFFFFF;
 }
 [data-bay="space"] {
-  --accent:  #7C3AED;   /* deep violet */
+  --accent:  #7B2CBF;
   --accent2: #0891B2;
   --bayglow: rgba(124, 58, 237, .22);
   --baybg:   #F5F3FF;
   --baypanel:#FFFFFF;
 }
 [data-bay="marine"] {
-  --accent:  #0F766E;   /* teal */
+  --accent:  #0F766E;
   --accent2: #0D9488;
   --bayglow: rgba(15, 118, 110, .22);
   --baybg:   #ECFDF5;
   --baypanel:#FFFFFF;
 }
 [data-bay="golf"] {
-  --accent:  #B45309;   /* brass */
+  --accent:  #B45309;
   --accent2: #15803D;
   --bayglow: rgba(180, 83, 9, .22);
   --baybg:   #FFF7ED;

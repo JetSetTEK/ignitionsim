@@ -1,51 +1,37 @@
 ---
 import Base from '../../layouts/Base.astro';
-import PanoSlider from '../../components/PanoSlider.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import GearCarousel from '../../components/GearCarousel.astro';
-import FAQ from '../../components/FAQ.astro';
 import { getCollection } from 'astro:content';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import community from '../../data/community.json';
-import stats from '../../data/stat-lists.json';
 import signals from '../../data/research-signals.json';
-import photography from '../../data/photography.json';
+import crew from '../../data/crew.json';
 import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import { hasVerifiedProductImage } from '../../lib/productMedia';
-const sentColor: Record<string, string> = { consensus: 'var(--cyan)', debate: 'var(--amber)', warning: 'var(--red)', tip: 'var(--green)' };
-const commItems = ((community as any)[Astro.props.bay.slug] || []) as any[];
-const bayStats = (stats as any[]).filter((s) => s.bay === Astro.props.bay.slug).slice(0, 4);
+import { getWorldForBay } from '../../lib/worlds';
 
 export async function getStaticPaths() {
   return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
 }
+
 const { bay } = Astro.props;
 const baySignal = ((signals as any)[bay.slug] || {}) as any;
-
+const world = getWorldForBay(bay.slug);
+const commItems = ((community as any)[bay.slug] || []) as any[];
 const articles = sortNewestArticles(await getCollection('articles', ({ data }) => data.bay === bay.slug && isCertifiedArticle(data)));
 const slug = (a: any) => a.id.split('/').pop();
+
 const starterGuideByBay: Record<string, string> = {
   racing: 'sim-rig-buyer-map-2026',
   flight: 'msfs-home-cockpit-buyer-map-2026',
   space: 'star-citizen-hosas-buyer-map-2026',
   golf: 'home-golf-simulator-build-sheet-2026',
-  marine: 'marine-sim-hardware-reality',
 };
 const starterGuideSlug = starterGuideByBay[bay.slug] || (articles[0] ? slug(articles[0]) : '');
-const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` : `/${bay.slug}/gear`;
+const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` : '/guides';
 
-const typeOrder = ['buying-guide', 'comparison', 'ecosystem-upgrade-path', 'how-to', 'gear-explainer', 'diy'];
-const typeLabel: Record<string, string> = {
-  'buying-guide': 'Buying guides', 'comparison': 'Head-to-head comparisons',
-  'ecosystem-upgrade-path': 'Upgrade paths', 'how-to': 'How-to guides',
-  'gear-explainer': 'Gear, explained', 'diy': 'DIY & builds',
-};
-const byType = typeOrder
-  .map((t) => ({ t, items: articles.filter((a) => a.data.type === t) }))
-  .filter((g) => g.items.length);
-
-// top gear for the carousel — all products in this bay, best-rated first
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
@@ -59,146 +45,165 @@ const gearItems = allProducts
   .map((p, i) => ({
     href: `/${bay.slug}/gear/${p.id}`,
     image: p.image || `/images/gear/${bay.slug}/${p.id}.jpg`,
-    brand: p.brand, model: p.model, price: p.price, type: p.type,
+    brand: p.brand,
+    model: p.model,
+    price: p.price,
+    type: p.type,
     buyUrl: buyUrl(p),
-    tag: i === 0 ? 'Top rated' : undefined,
+    tag: i === 0 ? 'Bench pick' : undefined,
   }));
 
-const photoList = ((photography as any)[bay.slug] || []) as any[];
-const realPhotos = photoList
-  .filter((p: any) => p?.src)
-  .sort((a: any, b: any) => (a.source === 'Pexels' ? -1 : 0) - (b.source === 'Pexels' ? -1 : 0))
-  .slice(0, 3);
-const slides: any[] = realPhotos.length
-  ? realPhotos.map((p: any) => ({ src: p.src, alt: p.alt || `${bay.name} sim hardware`, credit: { by: p.by, byUrl: p.byUrl, photoUrl: p.photoUrl, source: p.source } }))
-  : [1, 2, 3].map((n) => ({ src: `/images/${bay.slug}/slide-${n}.jpg`, alt: `${bay.name} sim hardware product bench ${n}` }));
-slides[0] = { ...slides[0], eyebrow: `// ${bay.name} bay`, title: bay.tagline, caption: bay.descriptor };
+const heroPhoto = { src: world.image, alt: world.alt, ai: true };
+const curatorByBay: Record<string, string> = {
+  racing: 'Duke Alvarez',
+  golf: 'Nina Brooks',
+  flight: 'Val Chen',
+  space: 'Val Chen',
+  marine: 'Gus Calder',
+};
+const curator = (crew as any[]).find((p) => p.name === curatorByBay[bay.slug]) || (crew as any[])[0];
 
-const crumbName = `${bay.name} sim hardware`;
 const schema = [
   {
-    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: site.url },
-      { '@type': 'ListItem', position: 2, name: crumbName, item: new URL(`/${bay.slug}`, site.url).href },
+      { '@type': 'ListItem', position: 2, name: `${bay.name} sim hardware`, item: new URL(`/${bay.slug}`, site.url).href },
     ],
   },
   {
-    '@context': 'https://schema.org', '@type': 'CollectionPage',
-    name: crumbName, description: bay.intro, url: new URL(`/${bay.slug}`, site.url).href,
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${bay.name} sim hardware`,
+    description: bay.intro,
+    url: new URL(`/${bay.slug}`, site.url).href,
     isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
   },
 ];
 ---
-<Base title={crumbName} description={bay.intro} bay={bay.slug} activeNav={bay.slug} schema={schema}
-      image={`/images/${bay.slug}/hero.jpg`}>
+<Base title={`${bay.name} Sim Hardware`} description={bay.intro} bay={bay.slug} activeNav={bay.slug} schema={schema}
+      image={world.image}>
+  <div class="bay-hero" style={`--world-bg: url('${world.image}')`}>
+    <img src={heroPhoto.src} alt={heroPhoto.alt || `${bay.name} simulator setup`} loading="eager" decoding="async" />
+    <div class="bay-hero-scrim"></div>
+    {heroPhoto.ai && <span class="ai-scene-badge">AI world scene</span>}
+    <div class="wrap bay-hero-inner">
+      <div>
+        <div class="crumbs"><a href="/">Home</a><span>/</span>{bay.name}</div>
+        <span class="lbl lbl-accent">{bay.name} bench</span>
+        <h1>{bay.tagline}</h1>
+        <p>{bay.intro}</p>
+        <div class="bay-hero-actions">
+          <a class="btn btn-primary btn-lg" href={starterGuideHref}>{articles.length ? 'Open the buyer map' : 'See certified guides'}</a>
+          {gearItems[0] && <a class="btn btn-lg" href="#parts-bench">Inspect parts bench</a>}
+        </div>
+      </div>
+      <article class="curator-note">
+        <img src={curator.image} alt={curator.alt} loading="eager" decoding="async" />
+        <div>
+          <span>{curator.handle}</span>
+          <h2>{curator.name}</h2>
+          <p>{curator.voice}</p>
+        </div>
+      </article>
+      {heroPhoto.ai && gearItems[0] && (
+        <aside class="bay-proof-chip">
+          <span>Real product proof</span>
+          <img src={gearItems[0].image} alt={`${gearItems[0].brand} ${gearItems[0].model}`} loading="eager" decoding="async" />
+          <b>{gearItems[0].brand} {gearItems[0].model}</b>
+          <small>Verified photo. Full bench below.</small>
+        </aside>
+      )}
+    </div>
+  </div>
+
   <div class="wrap">
-    <div class="crumbs"><a href="/">Home</a><span>/</span>{bay.name}</div>
-
-    <section style="margin-top:8px">
-      <PanoSlider slides={slides} height="480px" id={`${bay.slug}-hero`} />
-    </section>
-
-    <section class="sec" style="padding-top:26px">
-      <div class="accent-bar" style="height:4px;width:64px;background:var(--accent);border-radius:4px;box-shadow:0 0 18px var(--bayglow);margin-bottom:16px"></div>
-      <h1 style="font-size:clamp(2rem,5vw,3rem);max-width:20ch">{bay.tagline}</h1>
-      <p style="color:var(--dim);max-width:65ch;margin-top:14px;font-size:1.08rem">{bay.intro}</p>
-      <p class="byline" style="margin-top:14px">Researched &amp; reviewed by <b>{site.author.name}</b> · {bay.theme} theme</p>
-    </section>
-
-    <section class="bay-reality">
-      <div class="bay-real-main">
-        <span class="lbl lbl-accent">// {bay.name} buying truth</span>
+    <section class="bay-truth world-panel" style={`--world-bg: url('${world.image}')`}>
+      <article class="truth-main">
+        <span class="lbl lbl-accent">Fast verdict</span>
         <h2>{baySignal.buyFast}</h2>
-      </div>
-      <div class="bay-real-card"><span>Watch out</span><p>{baySignal.watchOut}</p></div>
-      <div class="bay-real-card"><span>Weekend killer</span><p>{baySignal.weekendKiller}</p></div>
-      <div class="bay-real-card"><span>Source shelf</span>
-        <p>
-          {(baySignal.officialSources || []).slice(0, 2).map((s: any, i: number) => (
-            <><a href={s.url} target="_blank" rel="noopener nofollow">{s.label}</a>{i === 0 ? ' · ' : ''}</>
-          ))}
-        </p>
-      </div>
+      </article>
+      <article><span>Watch out</span><p>{baySignal.watchOut}</p></article>
+      <article><span>Setup tax</span><p>{baySignal.weekendKiller}</p></article>
+      <article><span>Maybe wait</span><p>{baySignal.waitFor}</p></article>
     </section>
 
-    <section class="cfg-cta">
+    <section class="bay-dream-brief" style={`--world-bg: url('${world.image}')`}>
       <div>
-        <span class="lbl lbl-accent">// Start here</span>
-        <h4 style="margin-top:6px">Read the {bay.name} buyer map first</h4>
-        <p>Start with the practical path: what to buy first, what to avoid, what quietly adds setup work, and which products deserve a closer look.</p>
+        <span class="lbl lbl-accent">The dream · {world.label}</span>
+        <h2>{bay.slug === 'golf' ? 'A room that makes practice feel like a private club.' : bay.slug === 'racing' ? 'A cockpit that makes every lap feel expensive.' : bay.slug === 'flight' ? 'A desk that stops being a desk and becomes a cockpit.' : bay.slug === 'space' ? 'A command station with six-axis control and no desk chaos.' : 'A bridge that feels built, not borrowed.'}</h2>
       </div>
-      <a class="btn btn-primary btn-lg" href={starterGuideHref}>Open the buyer map ▸</a>
-    </section>
-
-    <section class="band" style="margin:10px 0 0">
-      <div>
-        <span class="lbl lbl-accent">// Gear database</span>
-        <h3>Every {bay.name.toLowerCase()} product, decoded</h3>
-        <p>Deep spec breakdowns, honest ratings, and pros &amp; cons for the gear in this bay — with a plain-English verdict on each.</p>
-      </div>
-      <a class="btn btn-primary btn-lg" href={`/${bay.slug}/gear`}>Browse {bay.name} gear ▸</a>
+      <p>{bay.slug === 'golf' ? 'Then the reality check starts: ceiling height, hitting width, projector throw, screen protection, and subscriptions.' : bay.slug === 'racing' ? 'Then the reality check starts: cockpit flex, brake consistency, monitor placement, and software profiles.' : bay.slug === 'flight' ? 'Then the reality check starts: USB power, bindings, rudder pedals, head tracking, and control curves.' : bay.slug === 'space' ? 'Then the reality check starts: mounts, bindings, button layers, and deciding HOSAS versus HOTAS.' : 'Then the reality check starts: software support, control mapping, DIY labels, and repurposed hardware.'}</p>
     </section>
 
     {gearItems.length > 0 && (
-      <section class="sec" style="padding-top:8px">
-        <div class="sec-head"><h2>Gear spotlight</h2><a class="lbl" href={`/${bay.slug}/gear`}>all {gearItems.length >= 12 ? '' : gearItems.length + ' '}{bay.name.toLowerCase()} gear →</a></div>
-        <GearCarousel items={gearItems} id={`${bay.slug}-gear-rail`} />
+      <section class="sec bay-world-section" id="parts-bench" style={`--world-bg: url('${world.image}')`}>
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Parts bench</span>
+            <h2>The hardware that makes the room stop feeling theoretical.</h2>
+          </div>
+          <span class="lbl">{gearItems.length} verified photos</span>
+        </div>
+        <GearCarousel items={gearItems} id={`${bay.slug}-parts-bench`} />
       </section>
     )}
 
-    {articles.length === 0 ? (
-      <section class="sec"><p style="color:var(--dim)">Fresh {bay.name.toLowerCase()} guides are being written and will appear here shortly.</p></section>
-    ) : (
-      byType.map((g) => (
-        <section class="sec">
-          <div class="sec-head"><h2>{typeLabel[g.t]}</h2><span class="lbl">{g.items.length} guide{g.items.length > 1 ? 's' : ''}</span></div>
-          <div class="card-grid">
-            {g.items.map((a) => (
-              <ArticleCard href={`/${bay.slug}/${slug(a)}`} title={a.data.title}
-                excerpt={a.data.excerpt || a.data.description} type={a.data.type}
-                image={a.data.heroImage} imageAlt={a.data.heroAlt}
-                meta={`${a.data.readingTime || 6} min read`} />
-            ))}
+    <section class="sec bay-world-section guide-shelf-world" style={`--world-bg: url('${world.image}')`}>
+      <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Certified guides</span>
+            <h2>{articles.length ? `The ${bay.name.toLowerCase()} maps worth opening before you buy.` : `${bay.name} guides stay dark until they have proof.`}</h2>
           </div>
-        </section>
-      ))
-    )}
+        <span class="lbl">certified only</span>
+      </div>
+      {articles.length > 0 ? (
+        <div class="card-grid">
+          {articles.map((a) => (
+            <ArticleCard href={`/${bay.slug}/${slug(a)}`} title={a.data.title}
+              excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+              image={a.data.heroImage} imageAlt={a.data.heroAlt}
+              meta={`${a.data.readingTime || 6} min read`} />
+          ))}
+        </div>
+      ) : (
+        <div class="stowed-note">
+          <h3>Nothing half-built is being shown here.</h3>
+          <p>This bay stays lean until the guide has real photos, useful diagrams, current sources, affiliate paths, and a verdict strong enough to help a builder buy or wait.</p>
+        </div>
+      )}
+    </section>
 
     {commItems.length > 0 && (
-      <section class="sec">
-        <div class="sec-head"><h2>What the {bay.name.toLowerCase()} community says</h2><span class="lbl">our read on the consensus · paraphrased, not quoted</span></div>
+      <section class="sec bay-world-section" style={`--world-bg: url('${world.image}')`}>
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Forum signal</span>
+            <h2>What keeps coming up when builders talk.</h2>
+          </div>
+          <span class="lbl">paraphrased, not copied</span>
+        </div>
         <div class="comm-grid">
           {commItems.map((c) => (
-            <div class="comm-card">
-              <span class="comm-sent" style={`color:${sentColor[c.sentiment] || 'var(--accent)'};border-color:${sentColor[c.sentiment] || 'var(--accent)'}`}>{c.sentiment}</span>
-              <p class="comm-point">{c.point}</p>
-              <span class="comm-ctx">{c.context}</span>
-            </div>
+            <article class="comm-card" data-sentiment={c.sentiment}>
+              <span>{c.sentiment}</span>
+              <p>{c.point}</p>
+              <small>{c.context}</small>
+            </article>
           ))}
         </div>
       </section>
     )}
 
-    {bayStats.length > 0 && (
-      <section class="sec" style="padding-top:0">
-        <div class="sec-head"><h2>{bay.name} rankings</h2><a class="lbl" href="/best">all best-of lists →</a></div>
-        <div class="card-grid">
-          {bayStats.map((l) => (
-            <a class="card" href={`/best/${l.slug}`} style="min-height:0"><div class="cbody"><span class="ctype">{bay.name} · ranking</span><h3 style="font-size:1.05rem">{l.title}</h3><p class="cexc">{l.intro}</p></div></a>
-          ))}
-        </div>
-      </section>
-    )}
-
-    <section class="band">
+    <section class="workbench-drop" style={`--world-bg: url('${world.image}')`}>
       <div>
-        <span class="lbl lbl-accent">// {bay.name} build notes</span>
-        <h3>Keep the {bay.name.toLowerCase()} bench honest</h3>
-        <p>{site.newsletter.blurb} Pick {bay.name} and we'll keep the signal practical: what to buy, what to skip, and what deserves another look.</p>
+        <span class="lbl lbl-accent">{bay.name} workbench drop</span>
+        <h2>Keep the bench honest.</h2>
+        <p>{site.newsletter.blurb} We send buyer warnings, product moves, and setup notes when they actually matter.</p>
       </div>
-      <form onsubmit="event.preventDefault(); window.toast && window.toast('beehiiv signup wires in at launch'); this.reset();">
-        <input type="email" placeholder="pilot@callsign.gg" aria-label="Email address" required />
+      <form onsubmit="event.preventDefault(); window.toast && window.toast('newsletter signup is being wired into the new stack'); this.reset();">
+        <input type="email" placeholder="builder@garage.net" aria-label="Email address" required />
         <button class="btn btn-primary" type="submit">Join the bench list</button>
       </form>
     </section>
@@ -206,18 +211,292 @@ const schema = [
 </Base>
 
 <style>
+  .bay-hero {
+    position: relative;
+    min-height: 620px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    border-bottom: 3px solid #101820;
+  }
+  .bay-hero > img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.08) contrast(1.04);
+  }
+  .bay-hero::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 0;
+    height: 38%;
+    pointer-events: none;
+    background: linear-gradient(180deg, transparent, var(--baybg));
+    opacity: .72;
+  }
+  .bay-hero-scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(720px 420px at 78% 22%, color-mix(in srgb, var(--accent) 17%, transparent), transparent 72%),
+      linear-gradient(90deg, rgba(16,24,32,.92), rgba(16,24,32,.56) 48%, rgba(16,24,32,.14)),
+      linear-gradient(180deg, rgba(16,24,32,.05), rgba(16,24,32,.62));
+  }
+  .bay-hero-inner {
+    position: relative;
+    z-index: 2;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 28px;
+    align-items: end;
+    padding-top: 84px;
+    padding-bottom: 38px;
+  }
+  .bay-hero .crumbs,
+  .bay-hero .crumbs a { color: rgba(255,255,255,.72); }
+  .bay-hero h1 {
+    color: #fff;
+    max-width: 13ch;
+    margin: 12px 0 16px;
+    font-size: clamp(3rem, 7vw, 5.6rem);
+    line-height: .9;
+    text-transform: uppercase;
+  }
+  .bay-hero p {
+    color: rgba(255,255,255,.86);
+    max-width: 66ch;
+    font-size: 1.05rem;
+  }
+  .bay-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
+  .curator-note {
+    display: grid;
+    grid-template-columns: 108px 1fr;
+    gap: 14px;
+    align-items: center;
+    padding: 12px;
+    color: #101820;
+    background: rgba(255,255,255,.92);
+    border: 2px solid rgba(255,255,255,.78);
+    border-radius: 10px;
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .curator-note img {
+    width: 108px;
+    height: 132px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 8px;
+    border: 1px solid rgba(16,24,32,.14);
+  }
+  .curator-note span {
+    font-family: var(--font-mono);
+    font-size: .56rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-weight: 800;
+  }
+  .curator-note h2 { font-size: 1.35rem; margin: 5px 0; }
+  .curator-note p { color: #435363; font-size: .86rem; line-height: 1.45; }
+  .bay-proof-chip {
+    justify-self: end;
+    width: 220px;
+    padding: 12px;
+    color: #101820;
+    background: rgba(255,255,255,.92);
+    border: 2px solid rgba(255,255,255,.78);
+    border-radius: 10px;
+    box-shadow: 0 8px 0 rgba(16,24,32,.18);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .bay-proof-chip span,
+  .bay-proof-chip small {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: .52rem;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #5d6a76;
+  }
+  .bay-proof-chip img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    margin: 8px 0;
+    border-radius: 8px;
+    border: 1px solid rgba(16,24,32,.14);
+    background: #fff;
+  }
+  .bay-proof-chip b { display: block; font-size: .9rem; line-height: 1.14; }
+  .bay-proof-chip small { margin-top: 6px; line-height: 1.35; letter-spacing: .04em; color: #435363; }
+  .bay-truth {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1.35fr repeat(3, 1fr);
+    gap: 14px;
+    margin: 28px 0 10px;
+  }
+  .bay-dream-brief {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, .95fr) minmax(0, 1fr);
+    gap: 22px;
+    align-items: end;
+    margin: 28px 0 8px;
+    padding: 26px;
+    border: 2px solid #101820;
+    border-radius: 22px;
+    background:
+      linear-gradient(90deg, rgba(16,24,32,.88), rgba(16,24,32,.52)),
+      var(--world-bg) center / cover no-repeat;
+    color: #fff;
+    overflow: hidden;
+    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 32px 72px color-mix(in srgb, var(--accent) 18%, transparent);
+  }
+  .bay-dream-brief::after,
+  .bay-world-section::after,
+  .workbench-drop::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 44px 44px;
+    opacity: .42;
+    mix-blend-mode: screen;
+  }
+  .bay-dream-brief h2 { margin-top: 8px; font-size: clamp(1.6rem, 3.2vw, 2.35rem); }
+  .bay-dream-brief p { color: rgba(255,255,255,.86); font-size: 1.02rem; line-height: 1.65; }
+  .bay-dream-brief > * { position: relative; z-index: 1; }
+  .bay-dream-brief .lbl { color: color-mix(in srgb, var(--accent) 72%, #fff); }
+  .bay-world-section {
+    position: relative;
+    margin: 34px -18px;
+    padding: 34px 18px 40px;
+    overflow: hidden;
+    border: 2px solid color-mix(in srgb, var(--accent) 36%, rgba(16,24,32,.18));
+    border-radius: 30px;
+    background:
+      radial-gradient(760px 340px at 80% 8%, color-mix(in srgb, var(--accent) 24%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.9), rgba(16,24,32,.52) 42%, rgba(16,24,32,.24)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 38px 82px color-mix(in srgb, var(--accent) 16%, transparent);
+  }
+  .bay-world-section > * { position: relative; z-index: 1; }
+  .bay-world-section .sec-head h2,
+  .bay-world-section .sec-head .lbl {
+    color: #fff;
+    text-shadow: 0 2px 18px rgba(0,0,0,.32);
+  }
+  .bay-world-section .sec-head .lbl-accent,
+  .bay-world-section .sec-head a {
+    color: color-mix(in srgb, var(--accent) 72%, #fff);
+  }
+  .bay-world-section .card-grid,
+  .bay-world-section .comm-grid {
+    padding: 2px;
+  }
+  .bay-truth article {
+    border: 2px solid rgba(16,24,32,.14);
+    border-radius: 10px;
+    padding: 18px;
+    background: rgba(255,255,255,.9);
+    box-shadow: 0 8px 0 rgba(16,24,32,.1), 0 22px 42px rgba(16,24,32,.08);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .bay-truth .truth-main h2 { margin-top: 9px; font-size: 1.3rem; line-height: 1.32; }
+  .bay-truth article > span {
+    display: block;
+    font-family: var(--font-mono);
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: .11em;
+    font-size: .58rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+  }
+  .bay-truth p { color: #435363; font-size: .9rem; line-height: 1.55; }
+  .stowed-note {
+    border: 2px dashed rgba(16,24,32,.22);
+    border-radius: 10px;
+    padding: 24px;
+    background: rgba(255,255,255,.9);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .stowed-note h3 { font-size: 1.3rem; }
+  .stowed-note p { color: #435363; margin-top: 8px; max-width: 70ch; }
   .comm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
-  .comm-card { border: 1px solid var(--line2); border-left: 3px solid var(--accent); border-radius: 12px; padding: 16px 18px; background: var(--panel); }
-  .comm-sent { display: inline-block; font-family: var(--font-mono); font-size: .56rem; letter-spacing: .14em; text-transform: uppercase; border: 1px solid; border-radius: 20px; padding: 3px 9px; }
-  .comm-point { color: #334155; font-size: .95rem; margin: 10px 0 8px; line-height: 1.55; }
-  .comm-ctx { font-family: var(--font-mono); font-size: .64rem; color: var(--dimmer); letter-spacing: .03em; }
-  .bay-reality { display: grid; grid-template-columns: 1.3fr repeat(3, 1fr); gap: 12px; margin: 8px 0 26px; }
-  .bay-real-main, .bay-real-card { border: 1px solid var(--line2); border-radius: 14px; padding: 18px 20px; background: #fff; box-shadow: 0 12px 30px rgba(15,23,42,.06); }
-  .bay-real-main h2 { font-size: 1.18rem; line-height: 1.35; margin-top: 8px; }
-  .bay-real-card { border-left: 4px solid var(--accent); }
-  .bay-real-card span { display:block; font-family:var(--font-mono); font-size:.58rem; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
-  .bay-real-card p { color:#475569; font-size:.86rem; line-height:1.55; }
-  .bay-real-card a { color: var(--accent); }
-  @media (max-width: 980px) { .bay-reality { grid-template-columns: 1fr 1fr; } .bay-real-main { grid-column: 1 / -1; } }
-  @media (max-width: 620px) { .bay-reality { grid-template-columns: 1fr; } }
+  .comm-card {
+    border: 2px solid rgba(16,24,32,.14);
+    border-left: 6px solid var(--accent);
+    border-radius: 10px;
+    padding: 18px;
+    background: rgba(255,255,255,.92);
+    box-shadow: 0 8px 0 rgba(16,24,32,.08);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .comm-card[data-sentiment="warning"] { border-left-color: var(--red); }
+  .comm-card[data-sentiment="tip"] { border-left-color: var(--green); }
+  .comm-card[data-sentiment="debate"] { border-left-color: var(--amber); }
+  .comm-card span {
+    font-family: var(--font-mono);
+    color: var(--accent);
+    font-size: .56rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+  .comm-card p { color: #2d3a46; margin-top: 10px; line-height: 1.55; }
+  .comm-card small { display: block; color: #71808c; margin-top: 10px; line-height: 1.45; }
+  .workbench-drop {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 24px;
+    align-items: center;
+    margin: 34px 0 60px;
+    padding: 26px;
+    border: 2px solid #101820;
+    border-radius: 24px;
+    color: #fff;
+    overflow: hidden;
+    background:
+      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.66)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 32px 72px color-mix(in srgb, var(--accent) 18%, transparent);
+  }
+  .workbench-drop > * { position: relative; z-index: 1; }
+  .workbench-drop h2 { font-size: clamp(1.5rem, 3.2vw, 2.2rem); margin: 8px 0; }
+  .workbench-drop p { color: rgba(255,255,255,.84); max-width: 66ch; }
+  .workbench-drop form { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+  .workbench-drop input {
+    min-width: 260px;
+    border: 2px solid rgba(16,24,32,.14);
+    border-radius: 8px;
+    padding: 13px 14px;
+    font-family: var(--font-mono);
+  }
+  @media (max-width: 980px) {
+    .bay-hero-inner, .bay-truth, .bay-dream-brief, .workbench-drop { grid-template-columns: 1fr; }
+    .curator-note { max-width: 520px; }
+    .bay-proof-chip { display: none; }
+  }
+  @media (max-width: 620px) {
+    .bay-hero { min-height: 760px; }
+    .bay-hero h1 { font-size: clamp(3rem, 16vw, 4.8rem); }
+    .curator-note { grid-template-columns: 86px 1fr; }
+    .curator-note img { width: 86px; height: 108px; }
+    .workbench-drop form { justify-content: stretch; }
+    .workbench-drop input, .workbench-drop button { width: 100%; justify-content: center; }
+  }
 </style>

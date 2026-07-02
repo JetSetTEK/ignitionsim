@@ -7,8 +7,8 @@ primaryKeyword: "active pedals vs load cell vs hydraulic sim racing"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/racing/active-pedals-vs-load-cell-hydraulic-2026.jpg"
-heroAlt: "Active pedals, load cell pedals, and hydraulic sim racing pedals compared on a real product bench"
+heroImage: "/images/gear/racing/simucube-activepedal-pro.jpg"
+heroAlt: "Simucube ActivePedal Pro active sim racing pedal"
 excerpt: "Active pedals are hot, hydraulic pedals feel cool, and load-cell pedals still win the sane-money award. Here is the blunt upgrade ladder."
 featured: true
 goldStatus: "certified"

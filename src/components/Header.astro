@@ -13,8 +13,10 @@ const { activeNav } = Astro.props;
       {bays.map((b) => (
         <a href={`/${b.slug}`} aria-current={activeNav === b.slug ? 'page' : undefined}>{b.name}</a>
       ))}
+      <a href="/games" aria-current={activeNav === 'games' ? 'page' : undefined}>Games</a>
+      <a href="/build-stream" aria-current={activeNav === 'stream' ? 'page' : undefined}>Stream</a>
       <a href="/guides" aria-current={activeNav === 'guides' ? 'page' : undefined}>Guides</a>
     </nav>
-    <a class="btn btn-ghost" href="/guides">▸ Start Here</a>
+    <a class="btn btn-ghost" href="/#build-bays">Start Here</a>
   </div>
 </header>

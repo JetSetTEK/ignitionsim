@@ -207,8 +207,11 @@ const allSchema = [orgSchema, siteSchema, ...schema];
     (() => {
       (window as any).ig = { track: (e: string, d?: any) => { try { const u = (window as any).umami; const p = (window as any).plausible; if (u && u.track) u.track(e, d); else if (p) p(e, { props: d }); } catch {} } };
       document.addEventListener('click', (e) => {
-        const el = (e.target as HTMLElement).closest('[data-event]') as HTMLElement | null;
-        if (el) (window as any).ig.track(el.dataset.event!);
+        const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"]') as HTMLElement | null;
+        if (!el) return;
+        const link = el instanceof HTMLAnchorElement ? el : el.closest('a');
+        const eventName = el.dataset.event || 'buy_click';
+        (window as any).ig.track(eventName, link ? { href: link.href, text: link.textContent?.trim().slice(0, 120) } : undefined);
       }, { capture: true });
     })();
   </script>

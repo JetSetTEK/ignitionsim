@@ -34,7 +34,7 @@ const schema: Record<string, any>[] = [
 if (brand.faqs?.length) schema.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: brand.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) });
 const primaryBay = (brand.bays && brand.bays[0]) || (products[0] && products[0].bay) || null;
 ---
-<Base title={`${brand.name} — sim hardware reviews, gear & verdict`} description={brand.tagline || brand.profile?.slice(0, 150)} bay={primaryBay} schema={schema} image={primaryBay ? `/images/${primaryBay}/hero.jpg` : '/og-default.png'}>
+<Base title={`${brand.name} — sim hardware reviews, gear & verdict`} description={brand.tagline || brand.profile?.slice(0, 150)} bay={primaryBay} schema={schema} image={primaryBay ? `/images/${primaryBay}/hero.jpg` : '/og-default.png'} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href="/brand">Brands</a><span>/</span>{brand.name}</div>
     <section class="hero" style="text-align:left;padding:34px 0 8px">

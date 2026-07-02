@@ -7,8 +7,8 @@ primaryKeyword: "triple monitors vs ultrawide vs vr sim racing"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/racing/triple-monitor-vs-ultrawide-vs-vr-2026.jpg"
-heroAlt: "Triple monitors, ultrawide monitor, and VR headset product bench for sim racing"
+heroImage: "/images/gear/racing/samsung-odyssey-oled-g9-49.jpg"
+heroAlt: "Samsung Odyssey OLED G9 ultrawide monitor"
 excerpt: "Triples win side-window geometry. Ultrawide wins sane setup. VR wins immersion and depth. The right answer is the one your GPU, space, stomach, and race format can support."
 featured: true
 goldStatus: "certified"

@@ -32,7 +32,7 @@ const schema = [
 ];
 const updated = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
 ---
-<Base title={`${list.title} (${updated})`} description={list.intro} bay={list.bay} activeNav={list.bay} schema={schema} image={`/images/${list.bay}/hero.jpg`}>
+<Base title={`${list.title} (${updated})`} description={list.intro} bay={list.bay} activeNav={list.bay} schema={schema} image={`/images/${list.bay}/hero.jpg`} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href="/best">Best</a><span>/</span>{list.title}</div>
     <section class="hero" style="text-align:left;padding:34px 0 8px">

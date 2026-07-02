@@ -6,8 +6,8 @@ type: "comparison"
 primaryKeyword: "golf launch monitor ladder 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/golf/launch-monitor-ladder-2026.jpg"
-heroAlt: "A comparison ladder of golf launch monitors from portable radar to premium photometric units"
+heroImage: "/images/gear/golf/skytrak-plus.jpg"
+heroAlt: "SkyTrak Plus launch monitor"
 excerpt: "The sticker price is only the opening bid. Nina compares the full ladder by room fit, software fees, data quality, and how much setup pain you are buying."
 featured: true
 goldStatus: "certified"

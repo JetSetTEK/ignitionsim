@@ -1,0 +1,356 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import site from '../../data/site.json';
+import bays from '../../data/bays.json';
+import games from '../../data/games.json';
+import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { getWorldForBay } from '../../lib/worlds';
+import { getArticleCardArt } from '../../lib/articleArt';
+
+const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
+const bayMap = new Map(bays.map((b) => [b.slug, b]));
+const gameRoutes = new Map<string, any[]>();
+for (const game of games as any[]) {
+  for (const id of game.guideIds || []) {
+    const list = gameRoutes.get(id) || [];
+    list.push(game);
+    gameRoutes.set(id, list);
+  }
+}
+
+const featured = articles.slice(0, 4);
+const rest = articles.slice(4);
+const description = 'IgnitionSim Build Stream: certified simulator build guides, buyer maps, comparison articles, and gear warnings for racing, golf, flight, space, and marine rigs.';
+
+const schema = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Simulator Build Guides & Gear Stream',
+  description,
+  url: new URL('/build-stream', site.url).href,
+  hasPart: articles.map((a) => ({
+    '@type': 'Article',
+    headline: a.data.title,
+    url: new URL(`/${a.data.bay}/${articleSlug(a)}`, site.url).href,
+  })),
+}];
+---
+<Base title="Simulator Build Guides & Gear Stream" description={description} image="/images/worlds/racing-world.webp" schema={schema} activeNav="stream">
+  <div class="stream-page">
+    <section class="stream-hero" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+      <div class="wrap stream-hero-inner">
+        <div class="crumbs"><a href="/">Home</a><span>/</span>Build Stream</div>
+        <span class="lbl lbl-accent">Simulator build guides &amp; gear stream</span>
+        <h1>The live river of certified rig advice.</h1>
+        <p>Only articles that pass the IgnitionSim Gold Standard appear here: buyer verdicts, real product proof, setup traps, affiliate paths, and enough hard-earned warning labels to save a weekend.</p>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <section class="stream-strip">
+        <div><b>{articles.length}</b><span>certified pieces</span></div>
+        <div><b>5</b><span>build worlds</span></div>
+        <div><b>0</b><span>drafts in public</span></div>
+        <div><b>{(games as any[]).length}</b><span>game routes</span></div>
+      </section>
+
+      {featured.length > 0 && (
+        <section class="sec stream-featured" style={`--world-bg: url('${getWorldForBay('golf').image}')`}>
+          <div class="sec-head">
+            <div>
+              <span class="lbl lbl-accent">Fresh from the bench</span>
+              <h2>The newest certified buyer maps.</h2>
+            </div>
+            <span class="lbl">reverse chronological</span>
+          </div>
+          <div class="stream-feature-grid">
+            {featured.map((a, index) => {
+              const href = `/${a.data.bay}/${articleSlug(a)}`;
+              const bay = bayMap.get(a.data.bay);
+              const routeGames = gameRoutes.get(a.id) || [];
+              const art = getArticleCardArt(href);
+              return (
+                <a class="stream-feature" data-bay={a.data.bay} href={href} style={`--world-bg: url('${getWorldForBay(a.data.bay).image}')`}>
+                  {art && (
+                    <div class="stream-feature-art">
+                      <span>{art.label}</span>
+                      <img src={art.image} alt={art.alt} loading={index === 0 ? 'eager' : 'lazy'} decoding="async" />
+                    </div>
+                  )}
+                  <div class="stream-feature-copy">
+                    <span>{String(index + 1).padStart(2, '0')} · {bay?.name || a.data.bay}</span>
+                    <h3>{a.data.title}</h3>
+                    <p>{a.data.excerpt || a.data.description}</p>
+                    {routeGames.length > 0 && <small>{routeGames.map((g) => g.name).join(' · ')}</small>}
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      <section class="sec stream-list" style={`--world-bg: url('${getWorldForBay('space').image}')`}>
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Certified archive</span>
+            <h2>Every public guide, newest first.</h2>
+          </div>
+          <a class="lbl" href="/games">browse by game</a>
+        </div>
+        <div class="card-grid">
+          {rest.map((a) => {
+            const routeGames = gameRoutes.get(a.id) || [];
+            return (
+              <div class="stream-card-wrap" data-bay={a.data.bay}>
+                <ArticleCard
+                  href={`/${a.data.bay}/${articleSlug(a)}`}
+                  title={a.data.title}
+                  excerpt={a.data.excerpt || a.data.description}
+                  type={a.data.type}
+                  image={a.data.heroImage}
+                  imageAlt={a.data.heroAlt}
+                  meta={`${a.data.bay.toUpperCase()} · ${a.data.readingTime || 7} min read${routeGames.length ? ` · ${routeGames[0].name}` : ''}`}
+                />
+              </div>
+            );
+          })}
+        </div>
+      </section>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .stream-page {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 70px;
+  }
+  .stream-page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(760px 380px at 5% 6%, rgba(255,94,26,.14), transparent 72%),
+      radial-gradient(820px 420px at 96% 10%, rgba(56,189,248,.13), transparent 70%),
+      radial-gradient(720px 380px at 76% 100%, rgba(16,185,129,.12), transparent 72%);
+  }
+  .stream-page > * { position: relative; z-index: 1; }
+  .stream-hero {
+    min-height: min(680px, 78vh);
+    display: grid;
+    align-items: end;
+    margin-top: -72px;
+    padding: 120px 0 58px;
+    color: #fff;
+    background:
+      radial-gradient(760px 360px at 78% 14%, rgba(255,94,26,.24), transparent 70%),
+      linear-gradient(90deg, rgba(10,14,23,.96), rgba(10,14,23,.62) 50%, rgba(10,14,23,.28)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: inset 0 -120px 110px rgba(245,248,251,1);
+  }
+  .stream-hero-inner { max-width: 980px; }
+  .stream-hero .crumbs,
+  .stream-hero .crumbs a { color: rgba(255,255,255,.72); }
+  .stream-hero h1 {
+    max-width: 11ch;
+    margin-top: 14px;
+    color: #fff;
+    font-size: clamp(3rem, 7vw, 6.8rem);
+    line-height: .88;
+    text-transform: uppercase;
+    text-shadow: 0 18px 60px rgba(0,0,0,.45);
+  }
+  .stream-hero p {
+    max-width: 72ch;
+    margin-top: 20px;
+    color: rgba(255,255,255,.86);
+    font-size: clamp(1rem, 1.8vw, 1.18rem);
+  }
+  .stream-strip {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin: -30px 0 34px;
+  }
+  .stream-strip div {
+    min-height: 112px;
+    padding: 20px;
+    border: 1px solid rgba(16,24,32,.16);
+    border-radius: 18px;
+    background: rgba(255,255,255,.92);
+    box-shadow: 0 12px 32px rgba(16,24,32,.12);
+  }
+  .stream-strip b {
+    display: block;
+    color: var(--txt);
+    font-family: var(--font-disp);
+    font-size: 2.4rem;
+    line-height: 1;
+  }
+  .stream-strip span {
+    display: block;
+    margin-top: 8px;
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: .75rem;
+    font-weight: 900;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .stream-featured,
+  .stream-list {
+    position: relative;
+    overflow: hidden;
+    margin: 34px -18px;
+    padding: 36px 18px 42px;
+    border: 2px solid rgba(16,24,32,.18);
+    border-radius: 32px;
+    color: #fff;
+    background:
+      radial-gradient(820px 380px at 84% 6%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.92), rgba(16,24,32,.56) 45%, rgba(16,24,32,.3)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 40px 90px rgba(16,24,32,.16);
+  }
+  .stream-featured::after,
+  .stream-list::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 46px 46px;
+    opacity: .36;
+    mix-blend-mode: screen;
+  }
+  .stream-featured > *,
+  .stream-list > * { position: relative; z-index: 1; }
+  .stream-featured .sec-head h2,
+  .stream-featured .sec-head .lbl,
+  .stream-list .sec-head h2,
+  .stream-list .sec-head .lbl { color: #fff; }
+  .stream-feature-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .stream-feature {
+    min-height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 16px;
+    position: relative;
+    overflow: hidden;
+    padding: 18px;
+    border: 2px solid rgba(255,255,255,.24);
+    border-radius: 22px;
+    color: #fff;
+    background:
+      radial-gradient(360px 180px at 64% 14%, rgba(255,255,255,.2), transparent 70%),
+      linear-gradient(180deg, rgba(16,24,32,.3), rgba(16,24,32,.9)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 10px 0 rgba(16,24,32,.18), 0 26px 58px rgba(0,0,0,.18);
+  }
+  .stream-feature:hover {
+    transform: translateY(-5px);
+    border-color: rgba(255,255,255,.72);
+  }
+  .stream-feature-art {
+    min-height: 160px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    position: relative;
+    overflow: hidden;
+    padding: 28px 18px 20px;
+    border: 1px solid rgba(255,255,255,.24);
+    border-radius: 18px;
+    background:
+      radial-gradient(280px 130px at 50% 100%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%),
+      linear-gradient(135deg, rgba(255,255,255,.93), rgba(255,255,255,.72));
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.42), 0 18px 40px rgba(0,0,0,.18);
+  }
+  .stream-feature-art::after {
+    content: "";
+    position: absolute;
+    inset: auto 12% 16px;
+    height: 28%;
+    border-radius: 999px;
+    background: rgba(16,24,32,.18);
+    filter: blur(16px);
+    transform: perspective(460px) rotateX(64deg);
+  }
+  .stream-feature-art span {
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    z-index: 2;
+    padding: 7px 9px;
+    border-radius: 9px;
+    background: #101820;
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: .5rem;
+    font-weight: 900;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .stream-feature-art img {
+    position: relative;
+    z-index: 1;
+    width: min(100%, 260px);
+    height: 150px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    filter: drop-shadow(0 18px 24px rgba(16,24,32,.28));
+    transition: transform .45s ease;
+  }
+  .stream-feature:hover .stream-feature-art img { transform: scale(1.07) rotate(-1deg); }
+  .stream-feature-copy { position: relative; z-index: 2; }
+  .stream-feature-copy span,
+  .stream-feature small {
+    color: color-mix(in srgb, var(--accent) 72%, #fff);
+    font-family: var(--font-mono);
+    font-size: .62rem;
+    font-weight: 900;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+  }
+  .stream-feature h3 {
+    margin-top: 10px;
+    color: #fff;
+    font-size: clamp(1.35rem, 2.2vw, 2.05rem);
+    line-height: .96;
+    text-transform: uppercase;
+  }
+  .stream-feature p {
+    margin-top: 12px;
+    color: rgba(255,255,255,.82);
+    font-size: .92rem;
+    line-height: 1.45;
+  }
+  .stream-feature small { display: block; margin-top: 14px; }
+  .stream-list .card-grid {
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    gap: 22px;
+  }
+  @media (max-width: 1080px) {
+    .stream-feature-grid,
+    .stream-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 720px) {
+    .stream-hero { min-height: 720px; margin-top: -66px; padding-top: 106px; }
+    .stream-feature-grid,
+    .stream-strip { grid-template-columns: 1fr; }
+    .stream-featured,
+    .stream-list { margin-inline: 0; border-radius: 22px; padding: 20px; }
+  }
+</style>

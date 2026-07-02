@@ -7,8 +7,8 @@ primaryKeyword: "best direct drive wheel for PS5 Xbox 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/racing/console-direct-drive-2026.jpg"
-heroAlt: "Console direct-drive racing wheel product bench with Fanatec, Logitech, MOZA, and Thrustmaster options"
+heroImage: "/images/gear/racing/logitech-rs50-system.jpg"
+heroAlt: "Logitech RS50 console direct-drive racing wheel system"
 excerpt: "Console direct drive is finally real, but compatibility is still the trap. PS5 buyers, Xbox buyers, and cross-platform racers need different shortlists."
 featured: true
 goldStatus: "certified"

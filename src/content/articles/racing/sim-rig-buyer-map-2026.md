@@ -6,8 +6,8 @@ type: "buying-guide"
 primaryKeyword: "sim racing rig buyer guide 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/racing/sim-rig-buyer-map-2026.jpg"
-heroAlt: "A direct drive wheelbase, load cell pedals, cockpit frame, and racing accessories arranged as a sim racing buyer map"
+heroImage: "/images/gear/racing/trak-racer-tr80.jpg"
+heroAlt: "Trak Racer TR80 sim racing cockpit"
 excerpt: "Start here if you want a real sim rig without buying the same cockpit twice. Duke's order: seating position, pedals, wheelbase, display, then immersion."
 featured: true
 goldStatus: "certified"

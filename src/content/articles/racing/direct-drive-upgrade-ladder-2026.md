@@ -6,8 +6,8 @@ type: "ecosystem-upgrade-path"
 primaryKeyword: "direct drive wheel upgrade path 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/racing/direct-drive-upgrade-ladder-2026.jpg"
-heroAlt: "A ladder of direct drive wheelbases from starter to premium sim racing hardware"
+heroImage: "/images/gear/racing/simucube-2-sport.jpg"
+heroAlt: "Simucube 2 Sport direct drive wheelbase"
 excerpt: "The wheelbase is not a trophy. It is a platform. Here is the sane ladder from 5 Nm to endgame, with console support and ecosystem lock-in included."
 featured: true
 goldStatus: "certified"

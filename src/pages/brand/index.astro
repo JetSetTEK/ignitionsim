@@ -13,7 +13,7 @@ const list = brands.map((b) => ({ ...b, n: counts[b.id] || 0 })).sort((a, b) => 
 const schema = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Sim hardware brands', url: new URL('/brand', site.url).href,
   hasPart: list.map((b) => ({ '@type': 'Brand', name: b.name, url: new URL(`/brand/${b.id}`, site.url).href })) }];
 ---
-<Base title="Sim Hardware Brands — decoded" description="Every major sim-hardware brand, decoded: who they are, their ecosystem, and their gear — MOZA, Fanatec, Simagic, Honeycomb, VKB, Garmin, SkyTrak and more." schema={schema}>
+<Base title="Sim Hardware Brands — decoded" description="Every major sim-hardware brand, decoded: who they are, their ecosystem, and their gear — MOZA, Fanatec, Simagic, Honeycomb, VKB, Garmin, SkyTrak and more." schema={schema} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span>Brands</div>
     <section class="hero" style="text-align:left;padding:36px 0 10px">

@@ -47,6 +47,26 @@ Steady state after the launch sprint:
 | Space | Star Citizen Control Binding Starter Map |
 | Marine | Marine DIY Throttle and Helm Starter Guide |
 
+## Game Review Track
+Add one Gold Standard game/software review for the top simulator in each universe. These are not filler reviews. Each one should answer: is this sim worth building hardware around, what gear actually changes the experience, what the community loves, what the community complains about, and what to buy first.
+
+| Priority | Universe | Review |
+|---|---|---|
+| 1 | Racing | iRacing Review 2026: Is the Subscription Still Worth Building a Rig Around? |
+| 2 | Golf | GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around? |
+| 3 | Flight | Microsoft Flight Simulator 2024 Review 2026: Is It Still the Home Cockpit King? |
+| 4 | Space | Star Citizen Review 2026: Is It Worth Building HOSAS Around Yet? |
+| 5 | Marine | Bridge Command Review 2026: The DIY Ship Bridge Simulator for Builders |
+
+Follow-up marine opportunity: eSail vs Sailaway vs Ships At Sea vs NAUTIS Home, because marine simulation is split between sailing practice, ship handling, training, and early-access ship-game spectacle.
+
+## Game Review Source Anchors
+- Racing: iRacing official site, iRacing season notes, r/simracing, Sim Racing Cockpit, Traxion, Sim Racing Setup, Boosted Media hardware coverage.
+- Golf: GSPro official site, GSPro compatibility docs, r/Golfsimulator, Golf Simulator Forum, Carl's Place software comparison, ProSimHQ software comparison.
+- Flight: Microsoft Flight Simulator official site, MSFS forums, FSElite, Windows Central hardware coverage, FLYING Magazine, X-Plane/DCS comparison threads for contrast.
+- Space: Star Citizen official site, r/starcitizen, r/hotas, VKB/Virpil/WinWing forums, Thrustmaster HOSAS coverage, Elite Dangerous comparison threads.
+- Marine: Bridge Command official docs, Bridge Command throttle/wheel build docs, eSail Steam reviews, Sailaway official site, Ships At Sea official roadmap, marine/sailing forum discussions.
+
 ## Weekly Rhythm After Sprint
 - Monday: trend scout plus one buyer/update article.
 - Tuesday: Golf or Racing comparison.
@@ -57,4 +77,3 @@ Steady state after the launch sprint:
 
 ## Certification Reminder
 Do not publish just because a title is on this calendar. Each piece still needs `goldStatus: "certified"` only after the IgnitionSim Gold Standard checklist passes.
-

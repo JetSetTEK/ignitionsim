@@ -7,8 +7,8 @@ primaryKeyword: "best golf launch monitor under 5000"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/golf/golf-launch-monitors-under-5000-2026.jpg"
-heroAlt: "A real product bench comparing premium golf launch monitors under five thousand dollars"
+heroImage: "/images/gear/golf/garmin-approach-r50.jpg"
+heroAlt: "Garmin Approach R50 golf launch monitor"
 excerpt: "R50, ST MAX, Eye Mini Lite, Launch Pro, and the budget spoilers. Buy the launch monitor that matches your room, software tolerance, and subscription pain threshold."
 featured: true
 goldStatus: "certified"

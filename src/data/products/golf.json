@@ -37,6 +37,80 @@
     "platforms": "PC / iOS / Android (Garmin Golf app on-device; GSPro and E6 via PC/iPad)"
   },
   {
+    "id": "square-golf-launch-monitor",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Square Golf",
+    "model": "Launch Monitor",
+    "price": 699,
+    "priceNote": "approx 2026 US street price; verify live retailer stock and Square token terms",
+    "image": "/images/gear/golf/square-golf-launch-monitor.jpg",
+    "summary": "The budget launch monitor that changes the indoor-room math: a side-of-ball photometric unit under $1,000 that tracks putting and short game, includes 1,000 Square course-play tokens, and avoids a Square annual fee. Retailer documentation positions it around $699 with GSPro, E6 Connect, and Awesome Golf support through plug-ins, while Square's own course library uses a token model. It is indoor-only and less proven than Garmin or SkyTrak, but for shallow garages and basements it is the first budget pick Nina checks.",
+    "specs": {
+      "Tech": "Side-of-ball photometric camera",
+      "Data points": "Ball speed, launch, direction, spin, carry/run/total, and club data with stickers",
+      "Placement": "Beside the ball; tight indoor-room friendly",
+      "Subscription": "No annual Square fee; tokens for Square course play; third-party software separate",
+      "Short game": "Putting, chipping, and flop-shot support",
+      "Battery": "Removable lithium-ion, USB-C, retailer-listed up to 8 hours"
+    },
+    "pros": [
+      "Only credible photometric camera path under $1,000 right now",
+      "Works in shallow indoor rooms without rear radar depth",
+      "Putting and short-game support are rare at this price"
+    ],
+    "cons": [
+      "Indoor-only, so range/outdoor buyers should look elsewhere",
+      "Square course play uses tokens, and third-party simulator software still costs money",
+      "Newer ecosystem with less long-term owner history than Garmin or SkyTrak"
+    ],
+    "whoFor": "Indoor builders with shallow rooms who want a low-subscription, short-game-capable camera unit before spending SkyTrak money.",
+    "rating": { "overall": 8, "value": 9, "accuracy": 7, "valueForSpace": 9 },
+    "faqs": [
+      { "q": "Is Square Golf better than Garmin R10 indoors?", "a": "For shallow indoor rooms, often yes, because it sits beside the ball instead of behind it and supports putting. The R10 is better for outdoor/range use and battery-first portability." },
+      { "q": "Does Square Golf have a subscription?", "a": "Square's range and practice modes avoid a Square annual fee, while Square course play uses tokens and third-party software such as GSPro, E6, or Awesome Golf uses its own pricing." }
+    ],
+    "affiliate": { "primary": "Amazon search", "note": "Also PlayBetter and Rain or Shine Golf; verify stock because availability changes quickly" },
+    "platforms": "iOS / Android / PC paths vary by simulator software; GSPro, E6 Connect, and Awesome Golf support should be verified before purchase"
+  },
+  {
+    "id": "skytrak-og-launch-monitor",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "SkyTrak",
+    "model": "OG Launch Monitor",
+    "price": 695,
+    "priceNote": "new sale price seen on SkyTrak in July 2026; used prices vary heavily by condition and transfer risk",
+    "image": "/images/gear/golf/skytrak-og-launch-monitor.jpg",
+    "summary": "The original SkyTrak remains the used-market camera sleeper: indoor photometric ball data, a side-of-ball footprint, a small 2-by-2 inch hitting zone, rechargeable 4-hour battery, Wi-Fi Direct/network modes, and a track record measured in years rather than launch-day buzz. The downside is the old experience tax: shot delay, micro-USB, app/membership plan confusion, and used-unit transfer risk. Buy only when the seller can show the app connected, a recent shot read, and a clean account path.",
+    "specs": {
+      "Tech": "Indoor photometric camera",
+      "Ball data": "Carry, total, ball speed, back spin, side spin, descent angle, side angle, launch angle, shot shape",
+      "Placement": "Beside the ball; indoor-friendly",
+      "Hitting zone": "Approx 2 in x 2 in",
+      "Battery": "Rechargeable lithium-polymer, retailer-listed about 4 hours",
+      "Connectivity": "Wi-Fi Direct, network mode, Micro-USB"
+    },
+    "pros": [
+      "Cheap photometric path if the unit is clean and transferable",
+      "Side-of-ball setup works where rear radar struggles",
+      "Long owner history means lots of troubleshooting knowledge exists"
+    ],
+    "cons": [
+      "Shot delay and small hitting zone feel old beside newer units",
+      "Used-unit account, membership, battery, and support status must be verified",
+      "Not the best outdoor/range pick"
+    ],
+    "whoFor": "Budget indoor builders who can inspect used gear carefully and want camera data without paying for a current SkyTrak+ or ST MAX.",
+    "rating": { "overall": 7, "value": 8, "accuracy": 7, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Is a used original SkyTrak still worth buying?", "a": "It can be, but only after verifying ownership transfer, app access, battery health, connectivity, and shot reads. A cheap SkyTrak with account trouble is not cheap." },
+      { "q": "What is the main downside of the original SkyTrak?", "a": "The experience feels older: shot delay, a small hitting zone, Micro-USB, and more account/software homework than modern budget units." }
+    ],
+    "affiliate": { "primary": "Amazon search", "note": "Also SkyTrak direct, eBay, and local used listings; inspect condition carefully" },
+    "platforms": "SkyTrak app; third-party simulator support depends on plan and version"
+  },
+  {
     "id": "garmin-approach-r50",
     "bay": "golf",
     "type": "launch-monitor",
@@ -45,33 +119,35 @@
     "price": 4999,
     "priceNote": "approx 2026 street price",
     "image": "/images/gear/golf/garmin-approach-r50.jpg",
-    "summary": "Garmin's priciest consumer launch monitor folds a 3-camera sensor, a 10-inch touchscreen, and a full built-in simulator into one self-contained box. It is the only consumer unit that runs a complete sim with no separate PC, tablet, or phone, launching a round through Home Tee Hero in under a minute. As an overhead-leaning camera system it wants 9-10 feet of ceiling, and reviewers found ball data strong (within roughly 4% of premium units) but club data inconsistent shot to shot. You are paying a real premium for all-in-one convenience rather than a leap in raw accuracy.",
+    "summary": "Garmin's priciest consumer launch monitor folds a 3-camera sensor, a 10-inch touchscreen, HDMI output, USB-C, and a built-in simulator workflow into one portable side-of-tee unit. It is the cleanest no-PC/no-tablet premium path: place the R50 beside the tee, use the touchscreen, and send the simulator view to a display or projector. The official spec sheet lists more than 15 ball and club metrics, measured spin rate and spin axis, high-speed impact video, Wi-Fi/Bluetooth, and Home Tee Hero course play with an active Garmin Golf membership. You are paying a real premium for all-in-one convenience, not for avoiding normal room, mat, screen, and projector planning.",
     "specs": {
       "Tech": "Photometric, 3 high-speed cameras",
       "Data points": "15+ ball and club metrics",
-      "Subscription": "None for built-in sim; Home Tee Hero with 43,000+ courses included",
-      "Placement": "Overhead/elevated; needs 9-10 ft ceiling",
-      "Display": "Built-in 10-inch touchscreen",
-      "Sim": "Full on-device simulator, no external PC required"
+      "Subscription": "Home Tee Hero course play with active Garmin Golf membership; third-party software separate",
+      "Placement": "Portable side-of-tee placement next to the hitting area",
+      "Display": "Built-in 10-inch LCD touchscreen, 800 x 1280",
+      "Size/weight": "16.5 x 10.6 x 7.5 in; 9 lb",
+      "Battery/connectivity": "Up to 4 hours, USB-C, HDMI, Wi-Fi, Bluetooth",
+      "Sim": "On-device simulator workflow plus compatible third-party simulator paths"
     },
     "pros": [
-      "Only consumer LM with a complete built-in simulator and no PC needed",
-      "Fastest setup on the market; hitting in under a minute",
-      "Strong ball-data accuracy and a huge included course library"
+      "No-PC premium workflow with built-in touchscreen and HDMI output",
+      "Portable side-of-tee setup avoids rear-radar depth and overhead mounting",
+      "Measured spin rate/spin axis plus high-speed impact videos"
     ],
     "cons": [
-      "$5,000 is the most expensive consumer launch monitor",
-      "Club data was hit-and-miss in hands-on reviews",
-      "Needs 9-10 ft of ceiling clearance for the camera throw"
+      "$5,000 is expensive before mat, screen, enclosure, projector, or software",
+      "Home Tee Hero course play needs an active Garmin Golf membership",
+      "Third-party simulator compatibility and current software paths still need checkout verification"
     ],
-    "whoFor": "Buyers who will pay a premium for a no-PC, turnkey all-in-one sim and have the ceiling height for it.",
-    "rating": { "overall": 8, "value": 6, "accuracy": 8, "valueForSpace": 6 },
+    "whoFor": "Buyers who will pay a premium for a no-PC, touchscreen-first premium launch monitor and want less room-depth drama than rear radar.",
+    "rating": { "overall": 8, "value": 7, "accuracy": 8, "valueForSpace": 8 },
     "faqs": [
-      { "q": "Does the Garmin R50 need a separate PC?", "a": "No. The R50 is the only consumer launch monitor with a full built-in simulator (Home Tee Hero on its 10-inch touchscreen), so it runs without an external gaming PC, phone, or tablet." },
-      { "q": "Is the R50 worth more than a SkyTrak+ or Bushnell Launch Pro?", "a": "It depends on what you value. The R50 buys all-in-one, no-PC convenience and a big course library, but a SkyTrak+ or Launch Pro reaches comparable or better ball accuracy for under half the price if you can supply your own screen and PC." }
+      { "q": "Does the Garmin R50 need a separate PC?", "a": "No. The R50 has a built-in 10-inch touchscreen and on-device simulator workflow, and it can output via HDMI. A PC may still matter for some third-party simulator paths, so verify your chosen software before buying." },
+      { "q": "Is the R50 worth more than a SkyTrak ST MAX or Bushnell Launch Pro?", "a": "It depends on what you value. The R50 buys all-in-one, no-PC convenience and a simpler touchscreen workflow. SkyTrak ST MAX and Bushnell Launch Pro can make more sense if you already have a PC/display plan or want a lower hardware buy-in." }
     ],
     "affiliate": { "primary": "PlayBetter", "note": "Also Shop Indoor Golf, Garmin" },
-    "platforms": "On-device (built-in simulator); no external PC required"
+    "platforms": "On-device Garmin workflow, HDMI display output, and compatible third-party simulator paths"
   },
   {
     "id": "skytrak-plus",

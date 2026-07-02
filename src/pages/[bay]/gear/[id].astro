@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import FAQ from '../../../components/FAQ.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
 import bays from '../../../data/bays.json';
 import site from '../../../data/site.json';
@@ -79,7 +80,7 @@ const buyPulse = verdictScore >= 8.5
     ? { tone: 'caveat', label: 'Buy with caveats', copy: 'Worth buying for the right builder, but read the warnings before it lands in your cart.' }
     : { tone: 'wait', label: 'Niche or wait', copy: 'There may be a better first purchase unless this solves a very specific problem for you.' };
 ---
-<Base title={`${p.brand} ${p.model} — specs, rating & verdict`} description={p.summary} bay={p.bay} activeNav={p.bay} schema={schema} image={`/og/gear/${p.bay}/${p.id}.png`}>
+<Base title={`${p.brand} ${p.model} — specs, rating & verdict`} description={p.summary} bay={p.bay} activeNav={p.bay} schema={schema} image={`/og/gear/${p.bay}/${p.id}.png`} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${p.bay}`}>{bay.name}</a><span>/</span><a href={`/${p.bay}/gear`}>Gear</a><span>/</span>{p.model}</div>
 
@@ -200,14 +201,10 @@ const buyPulse = verdictScore >= 8.5
         <div class="sec-head"><h2>Related {bay.name} guides</h2></div>
         <div class="card-grid">
           {guides.map((a: any) => (
-            <a class="card" href={`/${a.data.bay}/${guideSlug(a)}`}>
-              {a.data.heroImage && <div class="cimg"><img src={a.data.heroImage} alt={a.data.heroAlt || a.data.title} loading="lazy" /></div>}
-              <div class="cbody">
-                <span class="ctype">{a.data.type.replace(/-/g, ' ')}</span>
-                <h3 style="font-size:1.05rem">{a.data.title}</h3>
-                <span class="cmeta">{a.data.readingTime || 7} min read</span>
-              </div>
-            </a>
+            <ArticleCard href={`/${a.data.bay}/${guideSlug(a)}`} title={a.data.title}
+              excerpt={a.data.excerpt || a.data.description} type={a.data.type}
+              image={a.data.heroImage} imageAlt={a.data.heroAlt}
+              meta={`${a.data.readingTime || 7} min read`} />
           ))}
         </div>
       </section>

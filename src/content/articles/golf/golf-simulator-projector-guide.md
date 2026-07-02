@@ -1,138 +1,311 @@
 ---
-title: "Golf Simulator Projector Guide 2026: Throw Ratio, Short-Throw vs Standard, and Killing Your Shadow"
-description: "How to pick a golf simulator projector in 2026 using throw-ratio math instead of marketing. Short-throw vs standard, lumens, mounting, and which models actually fit your bay."
+title: "Best Golf Simulator Projectors 2026: BenQ AK700ST vs AH700ST vs LK936ST vs Optoma GT2100HDR"
+description: "The best golf simulator projectors for 2026, with throw-ratio math, shadow traps, 4K vs 1080p advice, BenQ and Optoma picks, and Amazon affiliate links."
 bay: "golf"
-type: "gear-explainer"
-primaryKeyword: "golf simulator projector"
-author: "Robert Pruitt"
-publishDate: 2026-06-12
+type: "buying-guide"
+primaryKeyword: "best golf simulator projector 2026"
+author: "Nina Brooks"
+publishDate: 2026-07-02
+updatedDate: 2026-07-02
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
+sourceReviewDate: 2026-07-02
+revenueTier: "A"
+contentCluster: "golf"
 heroImage: "/images/golf/golf-simulator-projector-guide.jpg"
-heroAlt: "A short-throw projector casting a vivid green championship fairway onto a floor-to-ceiling impact screen in a dim golf simulator bay"
-excerpt: "The projector is where most first builds go wrong — wrong throw ratio, a shadow across the green, or a $1,800 unit that won't fill a 10-foot screen. Here is the math that picks the right one."
-featured: false
-readingTime: 9
+heroAlt: "BenQ AK700ST projector featured as the dominant real product photo for an IgnitionSim golf simulator projector guide"
+excerpt: "Projectors are geometry purchases. Nina ranks the BenQ AK700ST, AH700ST, LK936ST, and Optoma GT2100HDR by room depth, 4K value, and shadow risk."
+featured: true
+readingTime: 18
 faqs:
+  - q: "What is the best golf simulator projector for most home bays in 2026?"
+    a: "The BenQ AK700ST is the default premium 4K pick because it combines 4,000 ANSI lumens, a 0.69-0.83 short throw ratio, laser light, Golf Mode, Auto Screen Fit, and a sealed IP5X engine. The AH700ST is the smarter value pick if 1080p is enough."
   - q: "Do I need a short-throw projector for a golf simulator?"
-    a: "Usually yes. A short-throw projector (throw ratio roughly 0.4 to 0.8) lets you mount the unit close to or above the hitting area so the golfer's body doesn't cast a shadow on the screen. Standard-throw projectors need 12 to 16 feet of distance, which in most home bays puts the unit behind the player where their backswing and head block the beam."
-  - q: "How do I calculate throw distance for my screen?"
-    a: "Throw distance equals throw ratio multiplied by image width. A 0.5 throw-ratio projector filling a 10-foot-wide screen needs to sit 5 feet from the screen; a 1.2 ratio needs 12 feet. Measure your screen width first, then pick a projector whose ratio puts the unit where you can actually mount it without blocking the swing."
+    a: "Usually yes. Short throw lets the lens sit ahead of the golfer, closer to the screen, so the player's body and club do not cross the beam. Standard throw can work only in deeper rooms where the projector can stay out of the swing path."
   - q: "Is 4K worth it for a golf simulator projector?"
-    a: "For most home bays, no. You sit 8 to 12 feet from a screen that's often only 1080p-native in the sim software's render path. A bright 1080p short-throw paired with a premium impact screen looks excellent. Spend the 4K premium only on very large screens (12 feet-plus wide) where you'll sit close enough to resolve the extra pixels."
+    a: "4K is worth it when you have a large screen, a permanent room, and the rest of the build is already good. For a 9-10 foot screen or a budget-first bay, a bright 1080p projector such as the BenQ AH700ST or Optoma GT2100HDR can be the better spend."
+  - q: "How do I calculate projector throw distance?"
+    a: "Multiply projector throw ratio by image width. A 0.70 throw ratio filling a 10 foot wide screen needs the lens about 7 feet from the screen. Run this math before buying because it decides whether the projector sits safely ahead of your swing."
   - q: "How many lumens does a golf simulator projector need?"
-    a: "Aim for 3,000 to 4,000 ANSI lumens for a dim, dedicated room and toward 4,000-plus if you have ambient light or a larger screen. Below 3,000 lumens the fairway looks washed out and flat, which kills the immersion you paid for."
-  - q: "Can I use a regular home-theater projector for a sim?"
-    a: "You can, but check two things: the throw ratio must fit your room geometry, and the input lag should be low (ideally under 30 ms) so the ball-flight animation feels connected to your swing. Many home-theater projectors are long-throw and laggy, which is exactly the wrong combination for a sim."
+    a: "Aim for roughly 3,500-4,000 ANSI lumens for most home golf bays, and step higher for large screens or rooms with ambient light. Brightness does not fix bad throw geometry, but dim projectors make even expensive courses look washed out."
+  - q: "Should I buy the Optoma GT2100HDR for golf?"
+    a: "Buy it when budget and tight-room geometry matter more than native 4K. Its 0.496:1 throw ratio, 4,200-lumen rating, 1080p native resolution, 4K HDR input support, and 8.60 ms input lag make it a strong value pick if the room math fits."
 related:
-  - "garage-golf-simulator-build-guide"
+  - "home-golf-simulator-build-sheet-2026"
+  - "golf-mats-screens-enclosures-2026"
   - "golf-simulator-room-size"
-  - "golf-simulator-cost"
+  - "home-golf-simulator-under-10000-2026"
 ---
 
-The projector is the single most-returned component in a first golf simulator build, and it's almost never the projector's fault. People buy on brightness and resolution, mount it where the box says, and then discover their backswing throws a shadow across the 14th green — or that the unit physically cannot sit far enough from the screen to fill it. The projector is a geometry problem first and a picture-quality problem second. Get the math right and a $1,200 unit looks like a country club. Get it wrong and a $2,500 unit is a shadow machine.
+Nina's rule is brutal and useful: **a golf simulator projector is not a TV purchase. It is geometry with a light engine attached.** The prettiest 4K spec sheet loses if the projector beam crosses your backswing. The cheapest 1080p laser can look excellent if the throw ratio lands the lens in the right spot and your screen is decent.
 
-Let me walk you through it the way I'd size it for my own bay.
+![AI editorial scene of Nina Brooks measuring ceiling projector placement in a premium golf simulator bay](/images/dream/nina-projector-geometry.webp)
 
-## The Only Equation That Matters: Throw Ratio
+<p class="ai-caption"><strong>AI editorial scene:</strong> Nina is fictional, the measurement problem is real. Actual product proof and specs are below.</p>
 
-Every projector has a **throw ratio** — the distance from the lens to the screen divided by the width of the image it produces. It's the spec that decides whether a projector fits your room, and it gets buried under lumens and contrast numbers that matter far less.
+## Fast Verdict
 
-The formula is simple:
+Buy the **BenQ AK700ST** if you want the clean 2026 default: 4K UHD, 4,000 ANSI lumens, laser light, 0.69-0.83 short throw, Auto Screen Fit, Golf Mode, and a sealed IP5X engine. That is the "I want this room to feel finished" pick.
 
-> **Throw distance = throw ratio × image width**
+Buy the **BenQ AH700ST** if you want the value version of that same golf-specific idea: 4,000 ANSI lumens, 1080p, 0.69-0.83 short throw, Auto Screen Fit, Golf Mode, and less pain at checkout.
 
-Measure your screen width first. A typical home sim screen is **9 to 12 feet wide**. Then work backward:
+Buy the **BenQ LK936ST** if this is a showpiece room: 5,100 lumens, 4K UHD, BenQ's 0.8 short-throw lens with 1.1x zoom, strong installation flexibility, and enough brightness to make a large screen feel expensive.
 
-| Throw ratio | Category | Distance to fill a 10 ft screen | Where it mounts |
-| --- | --- | --- | --- |
-| 0.25–0.40 | Ultra short-throw | 2.5–4 ft | On the floor or low shelf at the screen |
-| 0.40–0.80 | Short-throw | 4–8 ft | Ceiling near the screen, ahead of the golfer |
-| 0.80–1.20 | Standard (short end) | 8–12 ft | Ceiling, roughly over the hitting area |
-| 1.20–2.00+ | Long-throw | 12–20 ft | Ceiling well behind the golfer |
+Buy the **Optoma GT2100HDR** if your room is tight and budget matters: native 1080p, 4,200 lumens, 0.496:1 throw ratio, 4K HDR input, and 8.60 ms input lag. It is not the luxury image pick. It is the "this actually fits my garage" pick.
 
-The shadow problem lives in that last column. A long-throw projector mounted behind you means **your head, hands, and club pass through the beam** on the backswing and at impact. Every full swing flickers a shadow onto the fairway. That's why short-throw dominates home sims: it mounts *ahead* of the golfer, near the screen, where nothing interrupts the light path.
+Skip the projector for now if you are hitting into a net and only need shot data. Put the money into the launch monitor, mat, screen safety, and room layout first. Projection is a dream multiplier, not the foundation.
 
-<div class="callout tip">
-  <div class="ct">// Pro tip</div>
-  <p>Run the throw math before you read a single review: throw ratio × screen width = mounting distance. A 0.5-ratio unit on a 10-foot screen sits 5 feet out; a 1.2 ratio sits 12 feet out — behind your swing, casting a shadow. Measure your screen width and your room depth first, then reject any projector whose number forces the lens behind the golfer or too close to fill the screen.</p>
-</div>
+![Golf simulator projector guide cover with BenQ AK700ST real product photo](/images/golf/golf-simulator-projector-guide.jpg)
 
-## Short-Throw vs Standard: The Real Tradeoff
+## The Ranking
 
-**Short-throw (0.4–0.8)** is the default recommendation for the overwhelming majority of home bays. It mounts close to the screen, dodges the shadow problem, and fits rooms that are short on depth. The catch: short-throw lenses are more sensitive to alignment. A few degrees of tilt and the image keystones, so you want a flush, square ceiling mount and ideally a unit with lens shift.
+| Rank | Projector | Verdict | Official spec anchors | Buy it when |
+| --- | --- | --- | --- | --- |
+| 1 | BenQ AK700ST | Best default 4K golf projector | 4K UHD, 4,000 ANSI lumens, 0.69-0.83 throw, laser | You want a polished permanent bay without paying LK936ST money |
+| 2 | BenQ AH700ST | Best value golf-specific pick | 1080p, 4,000 ANSI lumens, 0.69-0.83 throw, laser | You care more about brightness and fit than 4K |
+| 3 | BenQ LK936ST | Best premium/showpiece pick | 4K UHD, 5,100 lumens, 0.8 short throw with 1.1x zoom | You have a large screen and want the room to look high-end |
+| 4 | Optoma GT2100HDR | Best tight-room/budget laser | 1080p, 4,200 lumens, 0.496:1 throw, 8.60 ms input lag | Room depth is tight and the budget needs discipline |
 
-**Standard-throw (0.8–1.5)** can produce a slightly sharper, more uniform image for less money and is more forgiving on placement — *if* your room is deep enough to mount it over or just behind the hitting zone without the player blocking it. In a deep garage bay this can work beautifully. In a 12-foot-deep basement, it won't.
+Nina's translation: **AK700ST is the best answer when you want the room to feel current. AH700ST is the grown-up value buy. LK936ST is the flex. Optoma is the clever garage solve.**
 
-The decision tree is short: **measure your room depth.** If you have 14-plus feet from screen to back wall and can mount over the hitting area, a standard-throw is viable. Under that, go short-throw. For the full footprint math, see the [room-size reality check](/golf/golf-simulator-room-size).
+![Projector buy ladder infographic for golf simulator rooms](/images/infographics/golf/projector-buy-ladder-2026.png)
 
-## Lumens, Resolution, and Input Lag — In That Order
-
-Once the geometry fits, picture quality comes down to three numbers, and most buyers rank them backward.
-
-- **Lumens (brightness) — most important.** Target **3,000–4,000 ANSI lumens**. A dim, light-controlled room can live at the low end; ambient light or a screen wider than 12 feet pushes you toward 4,000-plus. Under 3,000 and the projected fairway looks gray and lifeless — the most common "my sim looks cheap" complaint.
-- **Resolution — overrated for most.** 1080p is plenty at normal sim viewing distance. **4K is worth it only on very large screens** where you sit close enough to see the difference. A bright 1080p short-throw on a premium screen beats a dim 4K every time.
-- **Input lag — quietly critical.** You want the ball-flight animation to fire the instant the simulator reports your shot. Under **30 ms** feels connected; over ~60 ms feels rubbery. Gaming-oriented and golf-specific projectors are tuned for this; many home-theater units are not.
-
-**Laser light engines** are now the default at this tier — instant on/off, ~20,000-hour life, and no lamp to replace. For a garage that cycles through dust and temperature swings, a sealed laser engine (IP5X-rated on the better golf-specific units) is worth the small premium.
-
-<div class="callout forum">
-  <div class="ct">// From the forums</div>
-  <p>The most-returned component in a first build, and almost never the projector's fault. The r/golfsimulator pattern: buyer shops on lumens and 4K, mounts it where the box says, then discovers the backswing throws a shadow across the 14th green — or the unit can't sit far enough back to fill the screen. Geometry first, picture quality second. A right-sized $1,200 unit beats a wrong-sized $2,500 one every swing.</p>
-</div>
-
-## What to Actually Buy in 2026
-
-The market has split into purpose-built golf projectors and repurposed gaming/theater units. The golf-specific ones add genuinely useful features.
-
-| Projector | Throw ratio | Lumens | Why it's on the list |
-| --- | --- | --- | --- |
-| **BenQ AK700ST** | ~0.5 (short) | ~3,500 | Purpose-built for sims: Golf Mode, Auto Screen Fit, motorized zoom/focus, sealed IP5X laser. The default permanent-install pick. |
-| **BenQ AH700ST** | 0.69–0.83 | ~4,000 | Bright, ~16 ms lag, short-throw geometry that fits most single-bay rooms. The value-tier purpose-built unit. |
-| **Optoma GT2100HDR** | short-throw | bright laser | Compact laser short-throw, well-priced for tight spaces. |
-| **Optoma ZW350ST** | ~0.52 | budget | Most compact budget option; a 100-inch-plus image from a few feet — for very tight bays. |
-
-The **BenQ AK700ST** is the one I'd point a first-time builder toward for a permanent room: the Golf Mode color and aspect handling, Auto Screen Fit, and motorized focus remove most of the alignment headaches that sink DIY installs. If budget is the constraint, the **AH700ST** gets you 90% of the way for meaningfully less.
+## The Product Proof
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Tight-room value</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/benq-ak700st">
+    <span class="gp-tag">Best default 4K</span>
+    <img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST 4K short throw laser golf simulator projector" loading="lazy">
+  </a>
   <div class="gp-body">
-    <span class="gp-eyebrow">0.496:1 throw · 4,200 lumens · laser</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
-    <p class="gp-why">The throw-ratio answer to a shallow room — a 12-foot screen filled from under 6 feet, which mounts the unit well clear of your backswing in a garage or basement. Native 1080p, but it takes 4K HDR input and the 30,000-hour laser engine is the longest in its class. The best brightness-and-throw-per-dollar pick for most home bays.</p>
-    <span class="gp-price">~$1,199</span>
+    <span class="gp-eyebrow">4K UHD · 4,000 ANSI lumens · 0.69-0.83 throw</span>
+    <span class="gp-name"><a href="/golf/gear/benq-ak700st">BenQ AK700ST</a></span>
+    <p class="gp-why">The cleanest 2026 recommendation for a serious permanent bay. BenQ's official spec page lists 4K UHD, 4,000 ANSI lumens, a 0.69-0.83 short throw ratio, and laser light. The live product page adds Auto Screen Fit, Golf Mode, a motorized lens with 1.2x optical zoom, and IP5X dust-resistant engine language. This is the one I would spec when the room is measured and the screen is big enough to reward 4K.</p>
+    <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Full review ▸</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+      <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Premium 4K pick</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST" loading="lazy"></a>
+  <a class="gp-shot" href="/golf/gear/benq-ah700st">
+    <span class="gp-tag">Best value BenQ</span>
+    <img src="/images/gear/golf/benq-ah700st.jpg" alt="BenQ AH700ST 1080p short throw laser golf projector" loading="lazy">
+  </a>
   <div class="gp-body">
-    <span class="gp-eyebrow">True 4K · 5,100 lumens · Golf Mode</span>
+    <span class="gp-eyebrow">1080p · 4,000 ANSI lumens · 0.69-0.83 throw</span>
+    <span class="gp-name"><a href="/golf/gear/benq-ah700st">BenQ AH700ST</a></span>
+    <p class="gp-why">The AH700ST is the smart value play because it keeps the golf-specific setup tools and 4,000-lumen laser brightness, then skips the 4K tax. If your screen is around 9-11 feet wide and you are sitting/hitting at normal sim distance, that trade can make sense. Spend the saved money on a better impact screen or mat before you chase pixels you may not actually see.</p>
+    <span class="gp-price">Verify live pricing</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/benq-ah700st">Inspect specs</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AH700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+    </span>
+  </div>
+</aside>
+
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/benq-lk936st">
+    <span class="gp-tag">Premium showpiece</span>
+    <img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf simulation projector" loading="lazy">
+  </a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">4K UHD · 5,100 lumens · 0.8 short throw + 1.1x zoom</span>
     <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
-    <p class="gp-why">When you want the brightest, sharpest fairway money buys. True 4K and 5,100 lumens, plus the wide lens shift that makes a ceiling mount forgiving in a real, imperfect room — and a Golf Mode that kills the purple fringing that haunts bright impact screens. Overkill for a casual bay; exactly right for a showpiece.</p>
-    <span class="gp-price">~$4,899</span>
+    <p class="gp-why">This is the premium room projector. BenQ markets it as a 5,100-lumen, 4K UHD simulation projector with a 0.8 short throw and 1.1x zoom, and says it can project a near-10-foot-tall image from roughly 14-15 feet back. That makes sense when the room is big, the screen is large, and the whole build is trying to feel like a private club after dark.</p>
+    <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Full review ▸</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon ↗</a>
+      <a class="gp-review" href="/golf/gear/benq-lk936st">Inspect specs</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
     </span>
   </div>
 </aside>
 
-## Mounting: Flush Ceiling vs Floor Shield
+<aside class="gearpick">
+  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr">
+    <span class="gp-tag">Tight-room value</span>
+    <img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy">
+  </a>
+  <div class="gp-body">
+    <span class="gp-eyebrow">1080p · 4,200 lumens · 0.496:1 throw · 8.60 ms lag</span>
+    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <p class="gp-why">The GT2100HDR is the garage pragmatist. Optoma's official specs list a 0.496:1 throw ratio and 8.60 ms input lag, and the product page says 4,200 lumens with up to 30,000 hours from the DuraCore laser engine. It is native 1080p, but the throw ratio is the headline. Tight rooms care about fit before they care about trophy specs.</p>
+    <span class="gp-price">Verify live pricing</span>
+    <span class="gp-actions">
+      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Inspect specs</a>
+      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+    </span>
+  </div>
+</aside>
 
-Two valid strategies, dictated by your throw ratio.
+## Throw Ratio Is The Whole Game
 
-- **Flush ceiling mount** — the standard for short- and standard-throw. Mount the projector to the ceiling near the screen (short-throw) or over the hitting area (standard), perfectly square to the screen. Keep it forward of the golfer's swing arc. This is the clean, permanent approach and what most builds should default to.
-- **Floor shield** — for ultra-short-throw units placed low at the base of the screen. A clear polycarbonate shield protects the lens from shanked balls. It eliminates ceiling-height worries entirely, which makes it a real option for low rooms, but it eats a little floor space and the shield needs cleaning.
+Throw ratio tells you how far the lens must sit from the screen to fill your image width.
 
-Whatever you pick, the projector and the [impact screen](/golf/garage-golf-simulator-build-guide) are a matched pair — a bright projector on a cheap, baggy screen still looks bad, and a premium screen can't rescue a dim or shadowing projector. Budget them together, and fold the number into your [total cost plan](/golf/golf-simulator-cost). If you're still mapping the whole build, [the Rig Configurator](/racing/configurator) is a useful way to sanity-check how the projector slots in against your room and sensor choices.
+**Throw distance = throw ratio x image width**
 
-## Who Should Skip the Upgrade
+If your screen image is 10 feet wide:
 
-If you're hitting into a **net for data and practice** with no projection, you don't need a projector at all — a tablet or monitor on a stand shows your numbers. And if your room is genuinely tiny and dim and you already own a competent 1080p home-theater projector with an acceptable throw ratio, test it before spending. The projector only earns its keep once you're playing courses on a screen and immersion is the goal.
+- A 0.496 projector needs about 5 feet of throw.
+- A 0.70 projector needs about 7 feet of throw.
+- A 0.80 projector needs about 8 feet of throw.
+- A 1.20 projector needs about 12 feet of throw.
 
-## The Verdict
+The community pattern on r/Golfsimulator and Golf Simulator Forum is very consistent: shoppers obsess over lumens and 4K, then return or remount the projector because the beam lands in the swing path. Nina's version is simpler: **do the throw math before you read reviews.**
 
-Pick the projector with the throw ratio, not the brand. **Measure your screen width and your room depth, calculate where a given throw ratio forces the unit to sit, and reject anything that puts the lens behind the golfer or too close to fill the screen.** For most home bays that means a short-throw laser in the 0.5–0.8 range, 3,500–4,000 lumens, sub-30 ms lag, mounted flush to the ceiling ahead of the swing. The **BenQ AK700ST** is the no-drama default; the **AH700ST** is the value play. Get the geometry right first and everything else is just picture polish.
+![Projector throw ratio math infographic for golf simulator screens](/images/infographics/golf/projector-throw-ratio-map.png)
+
+## The Shadow Trap
+
+The shadow problem is not mysterious. A long throw projector often has to sit behind the golfer. Then your head, hands, and club pass through the beam. Every swing flickers the fairway.
+
+Short-throw projectors let you place the lens closer to the screen and ahead of the player. That does not mean every short-throw projector automatically works. It means the geometry is possible.
+
+Nina's ladder test:
+
+1. Mark the screen width on the floor.
+2. Calculate lens distance from the screen.
+3. Stand where the golfer stands.
+4. Put a ladder or box where the projector lens would be.
+5. Make a slow backswing with the longest club you plan to use.
+6. If the imaginary beam crosses your body or club, do not buy yet.
+
+![Shadow trap infographic showing bad behind-golfer projector placement and good ahead-of-swing short throw placement](/images/infographics/golf/projector-shadow-trap.png)
+
+## 4K vs 1080p: The Adult Answer
+
+4K is not stupid. It is just not the first question.
+
+Choose 4K when:
+
+- The screen is large enough to show the difference.
+- The room is permanent and treated like a real sim bay.
+- The projector is bright enough for the screen size.
+- The launch monitor, mat, screen, and enclosure are not bargain-bin weak links.
+- You care about visual immersion, not just data practice.
+
+Choose 1080p when:
+
+- The bay is budget-first.
+- The screen is closer to 9-10 feet wide.
+- You are still building the room in phases.
+- Brightness, short throw, and low input lag matter more than pixel count.
+- The savings buys a better mat, screen, enclosure, or launch monitor.
+
+That is why the AH700ST and GT2100HDR stay in the guide. A bright, correctly mounted 1080p laser beats a 4K projector mounted in the wrong place. This is not a lifestyle slogan. It is what happens when light hits a golfer.
+
+![AI golf simulator bay scene showing a ceiling mounted projector and immersive projected fairway](/images/golf/golf-projector-ai-room-2026.webp)
+
+<p class="ai-caption"><strong>AI editorial scene:</strong> use this for room inspiration, not product identification. Product recommendations use real photos above.</p>
+
+## Which One Should You Buy?
+
+### If you want the safest premium default: BenQ AK700ST
+
+The AK700ST is the best all-around answer because it hits the 2026 buyer sweet spot: 4K, 4,000 ANSI lumens, short throw, laser light, golf-specific setup features, and a sealed engine that makes sense in a dusty garage or utility room.
+
+The caveat: do not buy it just because it is 4K. Buy it because your screen size, room depth, ceiling mount, and budget all support it. If you are still debating the whole room layout, use the [home golf simulator build sheet](/golf/home-golf-simulator-build-sheet-2026) before you buy the projector.
+
+### If you want the smart value pick: BenQ AH700ST
+
+The AH700ST is where Nina gets practical. It keeps the 4,000-lumen laser and golf-specific BenQ conveniences, but it is 1080p. For many home bays, especially where the screen is not enormous, that is not a failure. That is sane prioritization.
+
+Spend the saved money on a premium screen or a mat that will not punish your joints. A dull screen and a cheap mat will make a 4K projector feel like regret with a remote control.
+
+### If you want the "this room is the hobby" projector: BenQ LK936ST
+
+The LK936ST is not subtle. BenQ's live product page emphasizes 5,100 lumens, 4K image quality, a 0.8 short throw with 1.1x zoom, Golf Mode color optimization, and lens shift. This is the projector for a large permanent bay where the image is part of the pride.
+
+The caveat is obvious: it is expensive, and it wants a room worthy of it. Do not put LK936ST money into a space with a cheap screen, bad turf, no side protection, and a weekend-warrior enclosure. Build the room to deserve it.
+
+### If the garage is shallow: Optoma GT2100HDR
+
+Optoma is not as golf-specific as BenQ here, but the GT2100HDR has one killer number: 0.496:1. That can solve rooms where a 0.70-0.80 projector pushes the lens too far back.
+
+The caveat: native 1080p. If you want the cleanest image on a big premium screen, this is not the flex. If you want a bright, low-lag, tight-throw laser that fits a normal garage without financial theater, it belongs on the shortlist.
+
+## Setup Tax: What The Box Does Not Include
+
+Budget for the stuff that makes the projector behave:
+
+- A stable ceiling mount that can be squared to the screen.
+- Power near the mount, preferably not a dangling extension cord situation.
+- A long HDMI or active optical HDMI cable if the PC is across the room.
+- Cable raceway or conduit, because nothing ruins a premium bay like spaghetti.
+- A screen with enough tension and quality to reward the projector.
+- Ambient-light control if the room has garage windows.
+- A return window long enough to test at full screen size before final drilling.
+
+Nina's warning: **keystone is a rescue tool, not a design plan.** Mount square first. Use zoom, shift, or screen fit features to finish the job. If you rely on aggressive keystone, you paid for pixels and then threw some of them away.
+
+## Community Pattern Reads
+
+I do not treat Reddit or forum posts as lab measurements. I treat them as smoke detectors. When the same complaint shows up repeatedly, it earns a warning label.
+
+The patterns worth taking seriously:
+
+- Builders are happiest when they calculate throw ratio before picking a model.
+- Short throw under about 0.90 is the recurring community advice for avoiding shadows in typical home bays.
+- 4K excitement fades quickly if the projector is dim, misaligned, or fighting a cheap screen.
+- Ceiling height, mount position, and left/right golfer use matter more than the product page makes them sound.
+- People underestimate cable routing, especially when the gaming PC is not near the projector.
+- Dust and garage conditions make sealed laser designs more attractive than old lamp projectors.
+
+Start with these community research paths:
+
+- [r/Golfsimulator projector throw ratio search](https://www.reddit.com/r/Golfsimulator/search/?q=projector%20throw%20ratio%20shadow&restrict_sr=1)
+- [Golf Simulator Forum projector discussions](https://golfsimulatorforum.com/search?query=projector%20throw%20ratio)
+- [ProjectorScreen golf simulator projector guide](https://www.projectorscreen.com/blog/Golf-Simulator-Projector-Buyers-Guide)
+
+## Source Shelf
+
+Hard specs in this guide were checked on July 2, 2026 against official pages:
+
+- [BenQ AK700ST official specs](https://www.benq.com/en-us/projector/golf/ak700st/spec.html)
+- [BenQ AK700ST official product page](https://www.benq.com/en-us/projector/golf/ak700st.html)
+- [BenQ AH700ST official specs](https://www.benq.com/en-us/projector/golf/ah700st/spec.html)
+- [BenQ AH700ST official product page](https://www.benq.com/en-us/projector/golf/ah700st.html)
+- [BenQ LK936ST official product page](https://www.benq.com/en-us/business/projector/lk936st.html)
+- [Optoma GT2100HDR official product page](https://www.optomausa.com/product/gt2100hdr)
+
+## What To Buy
+
+If you are building a serious permanent room, start here:
+
+<div class="buy-grid">
+  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
+    <img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST golf simulator projector product photo" loading="lazy">
+    <strong>BenQ AK700ST</strong>
+    <span>Best default 4K golf projector. Check Amazon.</span>
+  </a>
+  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+AH700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
+    <img src="/images/gear/golf/benq-ah700st.jpg" alt="BenQ AH700ST golf simulator projector product photo" loading="lazy">
+    <strong>BenQ AH700ST</strong>
+    <span>Best value BenQ golf-specific projector. Check Amazon.</span>
+  </a>
+  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
+    <img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST golf simulator projector product photo" loading="lazy">
+    <strong>BenQ LK936ST</strong>
+    <span>Premium large-room 4K showpiece. Check Amazon.</span>
+  </a>
+  <a class="buy-card" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
+    <img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR projector product photo" loading="lazy">
+    <strong>Optoma GT2100HDR</strong>
+    <span>Tight-room 1080p laser value pick. Check Amazon.</span>
+  </a>
+</div>
+
+If you are still planning the whole room, read these before checkout:
+
+- [Home golf simulator build sheet](/golf/home-golf-simulator-build-sheet-2026)
+- [Golf simulator room size guide](/golf/golf-simulator-room-size)
+- [Golf mats, screens, and enclosures guide](/golf/golf-mats-screens-enclosures-2026)
+- [Browse the golf gear bench](/golf/gear)
+
+## Nina's Final Call
+
+For most high-intent 2026 buyers, I would spec the **BenQ AK700ST** first, then check whether the room and screen actually justify 4K. If the budget starts breathing hard, I would drop to the **BenQ AH700ST** before I cheap out on the screen or mat. If the room is huge and the whole bay is meant to impress people, the **LK936ST** earns the upgrade. If the garage is shallow, the **Optoma GT2100HDR** may be the smartest thing in the cart.
+
+Projectors are not where you prove you are fancy. They are where you prove you measured.

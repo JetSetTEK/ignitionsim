@@ -6,8 +6,8 @@ type: "buying-guide"
 primaryKeyword: "MSFS home cockpit buyer guide 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/flight/msfs-home-cockpit-buyer-map-2026.jpg"
-heroAlt: "A Microsoft Flight Simulator home cockpit build map with yoke, throttle quadrant, rudders, panels, and head tracking"
+heroImage: "/images/gear/flight/honeycomb-alpha-yoke.jpg"
+heroAlt: "Honeycomb Alpha flight simulator yoke"
 excerpt: "Val's MSFS buy order: controls first, rudders when you care about takeoff and taxi, head tracking before panels, and a powered USB hub before the cockpit becomes haunted."
 featured: true
 goldStatus: "certified"

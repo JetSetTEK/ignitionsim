@@ -26,7 +26,7 @@ const schema = [{
 ---
 <Base title={`${bay.name} Gear Database — every product, decoded`}
       description={`Deep, honest spec breakdowns, ratings and verdicts for ${bay.name.toLowerCase()} sim hardware. ${products.length} products and counting.`}
-      bay={bay.slug} activeNav={bay.slug} schema={schema} image={`/images/${bay.slug}/hero.jpg`}>
+      bay={bay.slug} activeNav={bay.slug} schema={schema} image={`/images/${bay.slug}/hero.jpg`} noindex={true}>
   <div class="wrap">
     <div class="crumbs"><a href="/">Home</a><span>/</span><a href={`/${bay.slug}`}>{bay.name}</a><span>/</span>Gear</div>
     <section class="hero" style="text-align:left;padding:36px 0 10px">

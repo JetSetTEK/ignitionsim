@@ -7,8 +7,8 @@ primaryKeyword: "home golf simulator under 10000"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/golf/home-golf-simulator-under-10000-2026.jpg"
-heroAlt: "A home golf simulator under ten thousand dollars product bench with launch monitors, mats, projector, and enclosure"
+heroImage: "/images/gear/golf/skytrak-st-max.jpg"
+heroAlt: "SkyTrak ST MAX golf launch monitor"
 excerpt: "A $10K home golf sim is very doable, but only if you stop spending like every category is the hero. Here is the build order, the budget math, and the parts worth buying."
 featured: true
 goldStatus: "certified"

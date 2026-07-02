@@ -6,8 +6,8 @@ type: "ecosystem-upgrade-path"
 primaryKeyword: "flight sim hardware upgrade order 2026"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/flight/yoke-throttle-rudder-head-tracking-order-2026.jpg"
-heroAlt: "A flight simulator upgrade order with yoke, throttle, rudder pedals, head tracker, and panels"
+heroImage: "/images/gear/flight/honeycomb-bravo-throttle.jpg"
+heroAlt: "Honeycomb Bravo flight simulator throttle quadrant"
 excerpt: "The correct flight sim upgrade order depends on aircraft. Val gives the fast answer for GA, airliners, helicopters, and DCS-adjacent setups."
 featured: true
 goldStatus: "certified"

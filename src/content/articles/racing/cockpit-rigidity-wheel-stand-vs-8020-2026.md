@@ -6,8 +6,8 @@ type: "comparison"
 primaryKeyword: "wheel stand vs cockpit vs 8020 sim rig"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
-heroImage: "/images/racing/cockpit-rigidity-wheel-stand-vs-8020-2026.jpg"
-heroAlt: "A wheel stand, fixed cockpit, and aluminum profile sim rig compared for rigidity"
+heroImage: "/images/gear/racing/sim-lab-p1x.jpg"
+heroAlt: "Sim-Lab P1X aluminum profile sim racing cockpit"
 excerpt: "A stronger wheelbase does not fix a weak frame. This is the cockpit decision that decides whether your pedals, torque, and future motion upgrades behave."
 featured: true
 goldStatus: "certified"

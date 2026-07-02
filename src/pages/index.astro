@@ -1,52 +1,52 @@
 ---
 import Base from '../layouts/Base.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import StatBand from '../components/StatBand.astro';
-import BrandMarquee from '../components/BrandMarquee.astro';
 import GearCarousel from '../components/GearCarousel.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
+import games from '../data/games.json';
 import signals from '../data/research-signals.json';
-import photography from '../data/photography.json';
+import crew from '../data/crew.json';
 import { isCertifiedArticle, sortNewestArticles } from '../lib/content';
+import { getArticleCardArt } from '../lib/articleArt';
 import { hasVerifiedProductImage } from '../lib/productMedia';
-
-const portalClass: Record<string, string> = {
-  racing: 'p-racing', flight: 'p-flight', space: 'p-space', marine: 'p-marine', golf: 'p-golf',
-};
+import { getWorldForBay } from '../lib/worlds';
 
 const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
-const featured = all.filter((a) => a.data.featured).slice(0, 6);
-const latest = (featured.length ? featured : all).slice(0, 6);
 const articleById = new Map(all.map((a) => [a.id, a]));
+const slug = (a: any) => a.id.split('/').pop();
+
 const cornerstoneIds = [
-  'racing/sim-rig-buyer-map-2026',
-  'racing/direct-drive-upgrade-ladder-2026',
-  'racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
-  'racing/diy-motion-vs-bass-shakers-2026',
+  'racing/iracing-review-2026',
+  'golf/premium-launch-monitor-room-fit-2026',
+  'golf/budget-launch-monitor-war-2026',
+  'golf/golf-simulator-projector-guide',
+  'golf/golf-launch-monitors-under-5000-2026',
+  'golf/home-golf-simulator-under-10000-2026',
   'golf/home-golf-simulator-build-sheet-2026',
-  'golf/launch-monitor-ladder-2026',
+  'racing/console-direct-drive-2026',
+  'racing/direct-drive-upgrade-ladder-2026',
+  'racing/active-pedals-vs-load-cell-hydraulic-2026',
+  'racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
   'flight/msfs-home-cockpit-buyer-map-2026',
-  'flight/yoke-throttle-rudder-head-tracking-order-2026',
   'space/star-citizen-hosas-buyer-map-2026',
-  'space/vkb-vs-virpil-vs-winwing-space-sticks-2026',
 ];
 const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Boolean);
+const featureGuides = cornerstones.map((a: any, i) => {
+  const href = `/${a.data.bay}/${slug(a)}`;
+  return { a, href, art: getArticleCardArt(href), i };
+});
+const latest = all.slice(0, 6);
 
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
 const verifiedProducts = allProducts.filter(hasVerifiedProductImage);
-const brandCount = new Set(verifiedProducts.map((p) => p.brand)).size;
 const buyUrl = (p: any) => p.amazonAsin
   ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
   : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
-const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 3000) / 1000;
-const productsByBay = new Map(bays.map((b) => [
-  b.slug,
-  verifiedProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
-]));
+const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 4000) / 1000;
 const gearItem = (p: any, tag?: string) => ({
   href: `/${p.bay}/gear/${p.id}`,
   image: p.image || `/images/gear/${p.bay}/${p.id}.jpg`,
@@ -58,245 +58,309 @@ const gearItem = (p: any, tag?: string) => ({
   buyUrl: buyUrl(p),
   tag,
 });
-const photos = photography as any;
-const pickPhoto = (baySlug: string) => {
-  const list = photos[baySlug] || [];
-  return list.find((p: any) => p.source === 'Pexels') || list[0];
-};
-const heroPhoto = pickPhoto('racing');
-const trendingProducts = [
-  ...((productsByBay.get('racing') || []).filter((p) => ['base', 'pedals', 'cockpit', 'haptics'].includes(p.type)).slice(0, 4)),
-  ...((productsByBay.get('flight') || []).filter((p) => ['yoke', 'throttle', 'rudder', 'head-tracking'].includes(p.type)).slice(0, 3)),
-  ...((productsByBay.get('space') || []).filter((p) => ['stick', 'throttle', 'mount'].includes(p.type)).slice(0, 3)),
-  ...((productsByBay.get('golf') || []).filter((p) => ['launch-monitor', 'enclosure', 'mat', 'projector'].includes(p.type)).slice(0, 3)),
-].slice(0, 12).map((p, i) => gearItem(p, i < 3 ? 'Hot check' : undefined));
-const bayLanes = bays.map((b) => {
-  const products = (productsByBay.get(b.slug) || []).slice(0, 4);
-  const signal = (signals as any)[b.slug];
-  const photo = pickPhoto(b.slug);
-  return { bay: b, products, signal, photo };
-});
-const answerCards = [
-  { label: 'I want to drive tonight', bay: 'racing', href: '/racing/sim-rig-buyer-map-2026', answer: 'Start with a direct-drive bundle, load-cell brake path, and a mount that will not flex.' },
-  { label: 'I want a home cockpit', bay: 'flight', href: '/flight/msfs-home-cockpit-buyer-map-2026', answer: 'Buy controls in this order: yoke or stick, throttle, rudders, head tracking, then panels.' },
-  { label: 'I want Star Citizen controls', bay: 'space', href: '/space/star-citizen-hosas-buyer-map-2026', answer: 'Dual sticks for six-axis dogfighting; HOTAS for hauling, exploration, and big-ship comfort.' },
-  { label: 'I want indoor golf', bay: 'golf', href: '/golf/home-golf-simulator-build-sheet-2026', answer: 'Measure the room before you pick a launch monitor. Ceiling height beats spec sheets.' },
-  { label: 'I want a ship bridge', bay: 'marine', href: '/marine/marine-sim-hardware-reality', answer: 'Start with software support and mapped controls. The hardware shelf is mostly DIY.' },
-  { label: 'I want weird rig games', bay: 'racing', href: '#wildcards', answer: 'Truck, mud, mech, train, and tactile horror setups can be great when the controls are mapped on purpose.' },
+
+const heroPhoto = '/images/dream/ignitionsim-dream-garage.webp';
+const dreamScenes = [
+  {
+    bay: 'golf',
+    image: getWorldForBay('golf').image,
+    title: 'Golf should feel like sneaking into a private course after sunset.',
+    copy: 'The dream is the view. The buy decision is ceiling height, enclosure width, projector throw, mat pain, and launch monitor fit.',
+    href: '/golf/home-golf-simulator-build-sheet-2026',
+  },
+  {
+    bay: 'racing',
+    image: getWorldForBay('racing').image,
+    title: 'Racing should smell like hot brakes and bad decisions you can afford.',
+    copy: 'The dream is pit lane. The buy decision is cockpit rigidity, brake repeatability, display geometry, and ecosystem lock-in.',
+    href: '/racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
+  },
+  {
+    bay: 'flight',
+    image: getWorldForBay('flight').image,
+    title: 'Flight should make the spare room feel cleared for departure.',
+    copy: 'The dream is runway light. The buy decision is yoke/throttle order, rudders, head tracking, USB power, and sane bindings.',
+    href: '/flight/msfs-home-cockpit-buyer-map-2026',
+  },
+  {
+    bay: 'space',
+    image: getWorldForBay('space').image,
+    title: 'Space should feel like command authority, not desk spaghetti.',
+    copy: 'The dream is six-axis control. The buy decision is HOSAS versus HOTAS, mounts, curves, and buttons you can find under stress.',
+    href: '/space/star-citizen-hosas-buyer-map-2026',
+  },
+  {
+    bay: 'marine',
+    image: getWorldForBay('marine').image,
+    title: 'Marine should feel like a bridge console during ugly weather.',
+    copy: 'The dream is ocean glass and throttles. The buy decision is software support, DIY mapping, labels, and hardware that exists.',
+    href: '/marine',
+  },
 ];
-const sourceCards = bays.map((b) => {
-  const signal = (signals as any)[b.slug];
-  return {
-    bay: b,
-    source: signal?.communitySources?.[0],
-    line: signal?.watchOut,
-  };
-}).filter((x) => x.source);
+
+const homeGameCards = (games as any[])
+  .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen'].includes(g.slug))
+  .map((g) => ({
+    ...g,
+    bayData: bays.find((b) => b.slug === g.bay),
+    world: getWorldForBay(g.bay),
+  }));
+
+const bayPriority: Record<string, number> = { golf: 1, racing: 2, flight: 3, space: 4, marine: 5 };
+const productsByBay = new Map(bays.map((b) => [
+  b.slug,
+  verifiedProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
+]));
+const moneyProducts = [
+  ...((productsByBay.get('golf') || []).filter((p) => ['launch-monitor', 'enclosure', 'mat', 'projector'].includes(p.type)).slice(0, 5)),
+  ...((productsByBay.get('racing') || []).filter((p) => ['base', 'pedals', 'cockpit', 'haptics'].includes(p.type)).slice(0, 5)),
+  ...((productsByBay.get('flight') || []).filter((p) => ['yoke', 'throttle', 'rudder', 'head-tracking'].includes(p.type)).slice(0, 2)),
+].slice(0, 12).map((p, i) => gearItem(p, i < 4 ? 'Money part' : undefined));
+const lustKeys = [
+  'golf/garmin-approach-r50',
+  'racing/simucube-activepedal-pro',
+  'racing/samsung-odyssey-oled-g9-49',
+  'racing/sim-lab-p1x',
+  'flight/honeycomb-alpha-yoke',
+  'space/vkb-gladiator-nxt-evo-space-combat-edition',
+];
+const lustProducts = lustKeys
+  .map((key) => verifiedProducts.find((p) => `${p.bay}/${p.id}` === key))
+  .filter(Boolean)
+  .map((p: any) => ({
+    ...p,
+    href: `/${p.bay}/gear/${p.id}`,
+    buyUrl: buyUrl(p),
+  }));
+
+const bayLanes = [...bays]
+  .sort((a, b) => (bayPriority[a.slug] || 9) - (bayPriority[b.slug] || 9))
+  .map((bay) => {
+    const bayProducts = (productsByBay.get(bay.slug) || []).slice(0, 3);
+    const signal = (signals as any)[bay.slug];
+    const world = getWorldForBay(bay.slug);
+    return { bay, bayProducts, signal, world };
+  });
 
 const schema = [{
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'IgnitionSim simulation hardware categories',
-  itemListElement: bays.map((b, i) => ({
+  name: 'IgnitionSim certified simulator hardware buyer paths',
+  itemListElement: cornerstones.map((a: any, i) => ({
     '@type': 'ListItem',
     position: i + 1,
-    name: `${b.name} sim hardware`,
-    url: new URL(`/${b.slug}`, site.url).href,
+    name: a.data.title,
+    url: new URL(`/${a.data.bay}/${slug(a)}`, site.url).href,
   })),
 }];
 ---
 <Base title={site.name} description={site.descriptor} schema={schema}>
-  <div class="wrap">
-    <section class="home-hero" aria-label="IgnitionSim buyer bench">
-      <div class="hero-copy">
-        <span class="lbl lbl-accent">{site.eyebrow}</span>
-        <h1>Buy the right sim parts. Play this weekend.</h1>
-        <p>{site.descriptor} We organize real products, practical fit checks, setup warnings, and community pattern reads so you can move from “what should I buy?” to a cart that actually makes sense.</p>
-        <div class="cta-row">
-          <a class="btn btn-primary btn-lg" href="#sim-types">Choose your sim type</a>
-          <a class="btn btn-lg" href="/guides">Browse buyer maps</a>
-        </div>
-        <div class="trust-strip" aria-label="Research standards">
-          <span>Real rig photos</span>
-          <span>Compatibility notes</span>
-          <span>Official specs</span>
-          <span>Community warnings</span>
+  <section class="hero-v2" aria-label="IgnitionSim workshop">
+    <img src={heroPhoto} alt="AI editorial concept of a premium simulator garage with racing, golf, flight, and hardware benches" loading="eager" decoding="async" />
+    <div class="hero-v2-scrim"></div>
+    <span class="ai-scene-badge">AI editorial concept</span>
+    <div class="wrap hero-v2-inner">
+      <div class="hero-v2-copy">
+        <span class="lbl lbl-accent">Dream rigs. Real buying proof.</span>
+        <h1>Build the rig in your head. Then buy like an adult.</h1>
+        <p>IgnitionSim sells the dream first: the golf bay, racing cockpit, flight deck, space desk, or marine bridge you actually want to walk into. Then we get mean about fit, parts, subscriptions, install pain, and the products worth your money.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary btn-lg" href="#build-bays">Choose your sim world</a>
+          <a class="btn btn-lg" href="#money-bench">See the parts bench</a>
         </div>
       </div>
-      <figure class="hero-bench">
-        <img src={heroPhoto?.src || '/images/hub/product-bench.jpg'} alt={heroPhoto?.alt || 'Real sim racing rig photo'} loading="eager" decoding="async" />
-        <figcaption>{heroPhoto ? <>Photo: <a href={heroPhoto.photoUrl} target="_blank" rel="noopener nofollow">{heroPhoto.by}</a> / {heroPhoto.source}. Component benches below use verified product imagery.</> : 'Real rig photos plus verified component guidance.'}</figcaption>
-      </figure>
+      <div class="dream-manifesto">
+        <span>Dream first</span>
+        <b>Then make the cart honest.</b>
+        <p>Dream scenes are for ambition. Real product photos, owner complaints, and fit checks decide the cart.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="signal-strip" aria-label="IgnitionSim promise">
+      <div><b>{all.length}</b><span>certified guides</span></div>
+      <div><b>{verifiedProducts.length}</b><span>verified product photos</span></div>
+      <div><b>0</b><span>sponsored verdicts</span></div>
+      <div><b>5</b><span>sim build bays</span></div>
     </section>
 
-    <StatBand stats={[
-      { value: 5, label: 'Sim disciplines' },
-      { value: all.length, label: 'Practical guides' },
-      { value: verifiedProducts.length, label: 'Gear pages' },
-      { value: brandCount, label: 'Brands decoded' },
-      { value: 0, label: 'Sponsored verdicts' },
-    ]} />
-
-    <section class="sec" id="sim-types">
+    <section class="sec dream-strip home-world-section" aria-label="IgnitionSim dream scenes" style={`--world-bg: url('${getWorldForBay('space').image}')`}>
       <div class="sec-head">
         <div>
-          <span class="lbl lbl-accent">// Start by build type</span>
-          <h2>Separate the sims before you separate your money from your wallet</h2>
+          <span class="lbl lbl-accent">Dream mecca</span>
+          <h2>The rig has to make them want the weekend back.</h2>
         </div>
-        <span class="lbl">fast paths by discipline</span>
+        <span class="lbl">curators, rooms, consequences</span>
       </div>
-      <div class="bay-lane-grid">
-        {bayLanes.map(({ bay, products, signal, photo }) => (
-          <a class={`bay-lane ${portalClass[bay.slug]}`} href={`/${bay.slug}`} data-bay={bay.slug}>
-            <div class="lane-top">
-              <span class="ptag">{bay.status}</span>
-              <h3>{bay.name}</h3>
-              <p>{bay.descriptor}</p>
+      <div class="dream-rail">
+        {dreamScenes.map((scene) => (
+          <a class="dream-slide" data-bay={scene.bay} href={scene.href}>
+            <img src={scene.image} alt={`AI curator scene: ${scene.title}`} loading="lazy" decoding="async" />
+            <span class="ai-scene-badge">AI world scene</span>
+            <div>
+              <span>{scene.bay}</span>
+              <h3>{scene.title}</h3>
+              <p>{scene.copy}</p>
             </div>
-            <div class="lane-photo">
-              {photo && <img src={photo.src} alt={photo.alt || `${bay.name} sim hardware`} loading="lazy" decoding="async" />}
-            </div>
-            <div class="lane-product-chips" aria-label={`${bay.name} products covered`}>
-              {products.slice(0, 3).map((p: any) => <span>{p.brand} {p.model}</span>)}
-            </div>
-            <p class="lane-verdict">{signal?.buyFast}</p>
-            <span class="penter">{bay.enterLabel} →</span>
           </a>
         ))}
       </div>
     </section>
 
-    {trendingProducts.length > 0 && (
-      <section class="sec">
+    <section class="sec home-world-section home-games-world" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">Games hub</span>
+          <h2>Start with what you play. Build the room around that.</h2>
+        </div>
+        <a class="lbl" href="/games">all sim games</a>
+      </div>
+      <div class="home-game-grid">
+        {homeGameCards.map((game) => (
+          <a class="home-game-card" data-bay={game.bay} href={`/games#${game.bay}`} style={`--world-bg: url('${game.world.image}')`}>
+            <span>{game.bayData?.name || game.bay}</span>
+            <h3>{game.name}</h3>
+            <p>{game.signal}</p>
+            <small>{game.hardwareThatMatters}</small>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="sec home-world-section build-world" id="build-bays" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">Build bays</span>
+          <h2>Five worlds to build. Each one punishes lazy measurements differently.</h2>
+        </div>
+        <span class="lbl">highest-intent build lanes</span>
+      </div>
+      <div class="bay-command-grid">
+        {bayLanes.map(({ bay, bayProducts, signal, world }) => (
+          <a class="bay-command" data-bay={bay.slug} href={`/${bay.slug}`} style={`--world-bg: url('${world.image}')`}>
+            <div class="bay-command-media">
+              <img src={world.image} alt={world.alt || `${bay.name} simulator world`} loading="lazy" decoding="async" />
+              <span>{bay.name}</span>
+            </div>
+            <div class="bay-command-copy">
+              <h3>{bay.tagline}</h3>
+              <p>{signal?.buyFast || bay.intro}</p>
+              <div class="bay-chip-row">
+                {bayProducts.map((p: any) => <span>{p.brand} {p.model}</span>)}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {lustProducts.length > 0 && (
+      <section class="sec lust-section home-world-section" style={`--world-bg: url('${getWorldForBay('golf').image}')`}>
         <div class="sec-head">
           <div>
-            <span class="lbl lbl-accent">// Trending component checks</span>
-            <h2>The specs people are actually trying to buy around</h2>
+            <span class="lbl lbl-accent">Lust objects</span>
+            <h2>The big pieces people daydream about before they ask what fits.</h2>
           </div>
-          <a class="lbl" href="/guides">buyer maps →</a>
+          <span class="lbl">dream, then inspect</span>
         </div>
-        <GearCarousel items={trendingProducts} id="home-trending-gear" />
+        <div class="lust-grid">
+          {lustProducts.map((p: any) => (
+            <article class="lust-card" data-bay={p.bay}>
+              <a class="lust-image" href={p.href}>
+                <img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
+              </a>
+              <div class="lust-copy">
+                <span>{p.type.replace(/-/g, ' ')}</span>
+                <h3>{p.brand} {p.model}</h3>
+                <p>{p.whoFor || p.summary}</p>
+                <div class="lust-actions">
+                  <a href={p.href}>Dig in</a>
+                  <a href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="lust_buy_click">Amazon ↗</a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
       </section>
     )}
 
-    <section class="sec">
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">// Fast answers</span>
-          <h2>What are you trying to build?</h2>
-        </div>
-        <span class="lbl">answer-first navigation</span>
-      </div>
-      <div class="answer-grid">
-        {answerCards.map((card) => (
-          <a class="answer-card" data-bay={card.bay} href={card.href}>
-            <span>{card.label}</span>
-            <p>{card.answer}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    {cornerstones.length > 0 && (
-      <section class="sec" id="cornerstones">
+    {moneyProducts.length > 0 && (
+      <section class="sec home-world-section money-world" id="money-bench" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
         <div class="sec-head">
           <div>
-            <span class="lbl lbl-accent">// Cornerstone buyer maps</span>
-            <h2>Build maps with real gear photos and no dead-end carts</h2>
+            <span class="lbl lbl-accent">Parts bench</span>
+            <h2>The expensive parts that make the dream feel real.</h2>
           </div>
-          <a class="lbl" href="/guides">all guides →</a>
+          <a class="lbl" href="/guides">certified buyer maps</a>
         </div>
-        <div class="cornerstone-grid">
-          {cornerstones.map((a: any, i) => (
-            <a class="cornerstone-card" href={`/${a.data.bay}/${a.id.split('/').pop()}`} data-bay={a.data.bay}>
-              <span class="cornerstone-num">{String(i + 1).padStart(2, '0')}</span>
-              {a.data.heroImage && <img src={a.data.heroImage} alt={a.data.heroAlt || a.data.title} loading="lazy" decoding="async" />}
-              <span class="ctype">{a.data.type.replace(/-/g, ' ')}</span>
-              <h3>{a.data.title}</h3>
-              <p>{a.data.excerpt || a.data.description}</p>
+        <GearCarousel items={moneyProducts} id="home-money-bench" />
+      </section>
+    )}
+
+    {cornerstones.length > 0 && (
+      <section class="sec home-world-section maps-world" style={`--world-bg: url('${getWorldForBay('flight').image}')`}>
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Certified maps</span>
+            <h2>Only the buying maps strong enough to hand to a builder with a credit card.</h2>
+          </div>
+          <a class="lbl" href="/guides">all certified guides</a>
+        </div>
+        <div class="feature-guide-grid">
+          {featureGuides.map(({ a, href, art, i }) => (
+            <a class="feature-guide" href={href} data-bay={a.data.bay}>
+              <div class="feature-guide-media">
+                {art && <img src={art.image} alt={art.alt} loading="lazy" decoding="async" />}
+                {art && <span class="feature-guide-badge">{art.label}</span>}
+              </div>
+              <div class="feature-guide-copy">
+                <span class="feature-guide-index">{String(i + 1).padStart(2, '0')} / {a.data.type.replace(/-/g, ' ')}</span>
+                <h3>{a.data.title}</h3>
+                <p>{a.data.excerpt || a.data.description}</p>
+              </div>
             </a>
           ))}
         </div>
       </section>
     )}
 
-    <BrandMarquee />
-
-    <section class="sec">
+    <section class="sec crew-bench home-world-section" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
       <div class="sec-head">
         <div>
-          <span class="lbl lbl-accent">// Real build research</span>
-          <h2>Build threads worth studying before you buy</h2>
+          <span class="lbl lbl-accent">Curator bench</span>
+          <h2>Adult supervision for expensive toys.</h2>
         </div>
-        <span class="lbl">linked out, summarized in our voice</span>
+        <span class="lbl">voices with jobs to do</span>
       </div>
-      <div class="source-grid">
-        {sourceCards.map(({ bay, source, line }) => (
-          <a class="source-card" data-bay={bay.slug} href={source.url} target="_blank" rel="noopener nofollow">
-            <span class="lbl lbl-accent">{bay.name} community signal</span>
-            <h3>{source.label}</h3>
-            <p>{line}</p>
-            <small>Open source thread/search →</small>
-          </a>
+      <div class="crew-grid">
+        {(crew as any[]).map((person) => (
+          <article class="crew-card">
+            <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
+            <div>
+              <span>{person.handle}</span>
+              <h3>{person.name}</h3>
+              <p>{person.voice}</p>
+              <small>{person.beat}</small>
+            </div>
+          </article>
         ))}
       </div>
     </section>
 
-    <section class="sec" id="wildcards">
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">// Rig wildcards</span>
-          <h2>Games you did not buy the rig for, but should try anyway</h2>
-        </div>
-        <span class="lbl">experimental, useful, occasionally ridiculous</span>
-      </div>
-      <div class="wild-grid">
-        {['racing', 'space', 'marine'].map((baySlug) => {
-          const signal = (signals as any)[baySlug];
-          const bay = bays.find((b) => b.slug === baySlug)!;
-          return (
-            <article class="wild-card" data-bay={baySlug}>
-              <span class="lbl lbl-accent">{bay.name} crossover ideas</span>
-              <ul>
-                {signal.surpriseRigGames.map((item: string) => <li>{item}</li>)}
-              </ul>
-            </article>
-          );
-        })}
-      </div>
-    </section>
-
-    <section class="feat">
-      <div class="fcard">
-        <div class="fi">01</div>
-        <h3>Verdicts that help you buy</h3>
-        <p>Every recommendation should answer: buy now, buy with caveats, or wait. Specs matter, but fit, mounting, software, and support decide whether your weekend survives.</p>
-        <span class="badge">// answer buffet for humans and AI search</span>
-      </div>
-      <div class="fcard">
-        <div class="fi">02</div>
-        <h3>Real photos before render fantasy</h3>
-        <p>Rigs and components are physical objects. We use product photos, gear galleries, diagrams, and source links wherever possible so builders can inspect what they are buying.</p>
-        <span class="badge">// no fake component glamour</span>
-      </div>
-      <div class="fcard">
-        <div class="fi">03</div>
-        <h3>Research without forum fog</h3>
-        <p>We read the recurring community advice, strip out the shouting, and turn it into practical buyer language: what works, what breaks, and what gets expensive fast.</p>
-        <span class="badge">// sourced, paraphrased, useful</span>
-      </div>
-    </section>
-
     {latest.length > 0 && (
-      <section class="sec">
+      <section class="sec home-world-section latest-world" style={`--world-bg: url('${getWorldForBay('space').image}')`}>
         <div class="sec-head">
-          <h2>Latest from the bays</h2>
-          <span class="lbl">updated as the product shelf changes</span>
+          <div>
+            <span class="lbl lbl-accent">Latest certified</span>
+            <h2>Fresh from the public bench.</h2>
+          </div>
+          <span class="lbl">certified only</span>
         </div>
         <div class="card-grid">
           {latest.map((a) => (
             <div data-bay={a.data.bay}>
-              <ArticleCard href={`/${a.data.bay}/${a.id.split('/').pop()}`} title={a.data.title}
+              <ArticleCard href={`/${a.data.bay}/${slug(a)}`} title={a.data.title}
                 excerpt={a.data.excerpt || a.data.description} type={a.data.type}
                 image={a.data.heroImage} imageAlt={a.data.heroAlt}
                 meta={`${a.data.bay.toUpperCase()} · ${a.data.readingTime || 6} min read`} />
@@ -306,14 +370,14 @@ const schema = [{
       </section>
     )}
 
-    <section class="band">
+    <section class="workbench-drop" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
       <div>
-        <span class="lbl lbl-accent">// Build notes</span>
-        <h3>One useful upgrade note, not a firehose</h3>
-        <p>{site.newsletter.blurb} We are aiming this at builders who want to buy once, install cleanly, and get back to playing.</p>
+        <span class="lbl lbl-accent">Workbench Drop</span>
+        <h2>One useful upgrade note. No algorithm soup.</h2>
+        <p>{site.newsletter.blurb} Product moves, forum wisdom, weekend-killer warnings, and the occasional “do not buy that yet” from the bench.</p>
       </div>
-      <form onsubmit="event.preventDefault(); window.toast && window.toast('newsletter signup wires in at launch'); this.reset();">
-        <input type="email" placeholder="driver@weekendbuild.com" aria-label="Email address" required />
+      <form onsubmit="event.preventDefault(); window.toast && window.toast('newsletter signup is being wired into the new stack'); this.reset();">
+        <input type="email" placeholder="builder@garage.net" aria-label="Email address" required />
         <button class="btn btn-primary" type="submit">Join the bench list</button>
       </form>
     </section>
@@ -321,184 +385,622 @@ const schema = [{
 </Base>
 
 <style>
-  .home-hero {
-    display: grid;
-    grid-template-columns: minmax(0, .92fr) minmax(420px, 1.08fr);
-    gap: 32px;
-    align-items: center;
-    margin: 24px 0 24px;
-    padding: clamp(22px, 3vw, 34px);
-    border: 1px solid var(--line2);
-    border-radius: 20px;
-    background:
-      linear-gradient(135deg, rgba(255,255,255,.94), rgba(248,250,252,.86)),
-      radial-gradient(600px 360px at 100% 0%, color-mix(in srgb, var(--ember) 14%, transparent), transparent 70%);
-    box-shadow: 0 24px 70px rgba(15, 23, 42, .11);
+  .hero-v2 {
+    position: relative;
+    min-height: min(760px, calc(100vh - 72px));
+    display: flex;
+    align-items: flex-end;
     overflow: hidden;
+    border-bottom: 3px solid #101820;
   }
-  .hero-copy h1 {
-    font-size: clamp(2.15rem, 3.65vw, 3.25rem);
-    letter-spacing: 0;
+  .hero-v2 > img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.05) contrast(1.05);
+  }
+  .hero-v2-scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(90deg, rgba(16, 24, 32, .92) 0%, rgba(16, 24, 32, .58) 45%, rgba(16, 24, 32, .08) 100%),
+      linear-gradient(180deg, rgba(16, 24, 32, .08), rgba(16, 24, 32, .42));
+  }
+  .hero-v2-inner {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 28px;
+    align-items: end;
+    padding-top: 70px;
+    padding-bottom: 42px;
+  }
+  .hero-v2-copy {
+    max-width: 760px;
+    color: #fff;
+  }
+  .hero-v2-copy h1 {
+    max-width: 12ch;
     margin: 14px 0 18px;
-    max-width: 14ch;
+    color: #fff;
+    font-size: clamp(2.8rem, 6.8vw, 5.55rem);
+    line-height: .92;
+    text-transform: uppercase;
   }
-  .hero-copy p { color: #334155; font-size: 1.08rem; max-width: 65ch; }
-  .cta-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
-  .home-hero .cta-row { flex-wrap: nowrap; }
-  .home-hero .btn-lg { padding: 11px 14px; font-size: .68rem; letter-spacing: .08em; white-space: nowrap; }
-  .trust-strip { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
-  .trust-strip span {
+  .hero-v2-copy p {
+    max-width: 62ch;
+    color: rgba(255,255,255,.86);
+    font-size: 1.08rem;
+  }
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+  .dream-manifesto {
+    align-self: end;
+    padding: 22px;
+    color: #101820;
+    background: rgba(255,255,255,.88);
+    border: 2px solid rgba(255,255,255,.8);
+    border-radius: 14px;
+    box-shadow: 0 10px 0 rgba(16,24,32,.22);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
+  .dream-manifesto span {
     font-family: var(--font-mono);
     font-size: .62rem;
-    letter-spacing: .1em;
     text-transform: uppercase;
-    color: var(--dim);
-    border: 1px solid var(--line2);
-    background: #fff;
-    border-radius: 999px;
-    padding: 7px 10px;
-  }
-  .hero-bench {
-    margin: 0;
-    border: 1px solid var(--line2);
-    border-radius: 18px;
-    overflow: hidden;
-    background: #fff;
-    box-shadow: 0 18px 48px rgba(15, 23, 42, .12);
-  }
-  .hero-bench img { width: 100%; display: block; aspect-ratio: 16 / 9; object-fit: cover; }
-  .hero-bench figcaption {
-    font-family: var(--font-mono);
-    color: var(--dim);
-    font-size: .68rem;
-    letter-spacing: .04em;
-    padding: 10px 14px 12px;
-    border-top: 1px solid var(--line);
-  }
-  .hero-bench figcaption a { color: var(--accent); }
-  .bay-lane-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
-  .bay-lane {
-    color: inherit;
-    position: relative;
-    min-height: 360px;
-    padding: 18px;
-    border: 1px solid var(--line2);
-    border-radius: 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-    overflow: hidden;
-  }
-  .bay-lane:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 16px 38px rgba(15, 23, 42, .1); }
-  .lane-top h3 { font-size: 1.55rem; margin: 18px 0 6px; }
-  .lane-top p { color: var(--dim); font-family: var(--font-mono); font-size: .68rem; letter-spacing: .03em; line-height: 1.5; }
-  .lane-photo {
-    border: 1px solid var(--line);
-    border-radius: 12px;
-    overflow: hidden;
-    background: #fff;
-  }
-  .lane-photo img {
-    width: 100%;
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
-    display: block;
-  }
-  .lane-product-chips { display: flex; flex-wrap: wrap; gap: 6px; }
-  .lane-product-chips span {
-    font-family: var(--font-mono);
-    font-size: .56rem;
-    letter-spacing: .04em;
-    color: var(--dim);
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    background: #fff;
-    padding: 5px 8px;
-  }
-  .lane-verdict { color: #334155; font-size: .88rem; line-height: 1.55; flex: 1; }
-  .answer-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
-  .answer-card {
-    color: inherit;
-    display: block;
-    border: 1px solid var(--line2);
-    border-left: 4px solid var(--accent);
-    border-radius: 14px;
-    padding: 18px 20px;
-    background: #fff;
-    box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
-  }
-  .answer-card span { font-family: var(--font-disp); font-weight: 800; color: var(--txt); }
-  .answer-card p { color: #475569; margin-top: 8px; font-size: .92rem; line-height: 1.55; }
-  .answer-card:hover { border-color: var(--accent); box-shadow: 0 16px 36px color-mix(in srgb, var(--accent) 14%, transparent); }
-  #cornerstones { scroll-margin-top: 92px; }
-  .cornerstone-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
-  .cornerstone-card {
-    position: relative;
-    min-height: 326px;
-    border: 1px solid var(--line2);
-    border-radius: 14px;
-    overflow: hidden;
-    background: var(--panel);
-    color: var(--txt);
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 10px 26px rgba(15, 23, 42, .06);
-  }
-  .cornerstone-card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--panel2); }
-  .cornerstone-card .cornerstone-num {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 2;
-    font-family: var(--font-mono);
-    font-size: .6rem;
-    color: #fff;
-    background: var(--accent);
-    border-radius: 7px;
-    padding: 4px 7px;
+    letter-spacing: .08em;
     font-weight: 800;
+    color: var(--accent);
   }
-  .cornerstone-card .ctype { margin: 14px 14px 0; font-family: var(--font-mono); font-size: .55rem; letter-spacing: .14em; color: var(--accent); text-transform: uppercase; }
-  .cornerstone-card h3 { margin: 7px 14px 0; font-size: 1rem; line-height: 1.2; }
-  .cornerstone-card p { margin: 8px 14px 16px; color: var(--dim); font-size: .82rem; line-height: 1.45; }
-  .cornerstone-card:hover { border-color: var(--accent); box-shadow: 0 18px 42px color-mix(in srgb, var(--accent) 16%, transparent); }
-  .source-grid, .wild-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; }
-  .source-card, .wild-card {
-    border: 1px solid var(--line2);
-    border-radius: 14px;
-    padding: 18px;
+  .dream-manifesto b {
+    display: block;
+    margin-top: 8px;
+    font-family: var(--font-disp);
+    font-size: 1.55rem;
+    line-height: 1;
+  }
+  .dream-manifesto p {
+    margin-top: 10px;
+    color: #435363;
+    font-size: .92rem;
+    line-height: 1.55;
+  }
+  .signal-strip {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin: 28px 0 8px;
+    border: 2px solid #101820;
     background: #fff;
-    color: inherit;
-    box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+    box-shadow: 0 8px 0 rgba(16, 24, 32, .12);
   }
-  .source-card h3 { font-size: 1rem; margin: 10px 0 8px; }
-  .source-card p, .wild-card li { color: #475569; font-size: .86rem; line-height: 1.55; }
-  .source-card small { display: block; margin-top: 12px; color: var(--accent); font-family: var(--font-mono); font-size: .62rem; letter-spacing: .06em; text-transform: uppercase; }
-  .wild-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .wild-card ul { padding-left: 1.1em; margin-top: 12px; }
-  .wild-card li + li { margin-top: 8px; }
-  .fcard .fi {
-    width: 42px;
-    height: 42px;
-    border-radius: 9px;
+  .signal-strip div {
+    padding: 18px;
+    border-right: 1px solid rgba(16, 24, 32, .12);
+  }
+  .signal-strip div:last-child { border-right: 0; }
+  .signal-strip b {
+    display: block;
+    font-family: var(--font-disp);
+    font-size: 2rem;
+    line-height: 1;
+    color: var(--accent);
+  }
+  .signal-strip span {
+    display: block;
+    margin-top: 7px;
+    font-family: var(--font-mono);
+    font-size: .62rem;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: #435363;
+  }
+  .home-world-section {
+    position: relative;
+    margin: 34px -18px;
+    padding: 36px 18px 42px;
+    overflow: hidden;
+    border: 2px solid rgba(16,24,32,.18);
+    border-radius: 32px;
+    background:
+      radial-gradient(820px 380px at 84% 6%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.92), rgba(16,24,32,.58) 45%, rgba(16,24,32,.3)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 40px 90px rgba(16,24,32,.16);
+  }
+  .home-world-section::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 46px 46px;
+    opacity: .36;
+    mix-blend-mode: screen;
+  }
+  .home-world-section > * {
+    position: relative;
+    z-index: 1;
+  }
+  .home-world-section .sec-head h2,
+  .home-world-section .sec-head .lbl {
+    color: #fff;
+    text-shadow: 0 2px 18px rgba(0,0,0,.3);
+  }
+  .home-world-section .sec-head .lbl-accent,
+  .home-world-section .sec-head a {
+    color: color-mix(in srgb, var(--accent) 68%, #fff);
+  }
+  .dream-strip {
+    background:
+      radial-gradient(760px 360px at 88% 8%, rgba(217,70,239,.24), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.48)),
+      var(--world-bg) center / cover no-repeat;
+  }
+  .dream-rail {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(640px, 78%);
+    gap: 18px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding: 4px 2px 18px;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .dream-rail::-webkit-scrollbar { display: none; }
+  .dream-slide {
+    position: relative;
+    min-height: 480px;
+    overflow: hidden;
+    border: 2px solid rgba(255,255,255,.24);
+    border-radius: 22px;
+    color: #fff;
+    scroll-snap-align: start;
+    box-shadow: 0 11px 0 rgba(16,24,32,.28), 0 32px 72px rgba(0,0,0,.26);
+  }
+  .dream-slide img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform .7s ease;
+  }
+  .dream-slide::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent 34%, rgba(16,24,32,.86));
+  }
+  .dream-slide:hover img { transform: scale(1.04); }
+  .dream-slide div {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    padding: 28px;
+    max-width: 720px;
+  }
+  .dream-slide span,
+  .lust-copy span {
+    font-family: var(--font-mono);
+    color: var(--accent);
+    font-size: .58rem;
+    text-transform: uppercase;
+    letter-spacing: .12em;
+    font-weight: 900;
+  }
+  .dream-slide h3 {
+    color: #fff;
+    font-size: clamp(1.6rem, 3vw, 2.55rem);
+    margin-top: 8px;
+    max-width: 17ch;
+  }
+  .dream-slide p {
+    margin-top: 10px;
+    color: rgba(255,255,255,.86);
+    max-width: 58ch;
+  }
+  .home-games-world {
+    background:
+      radial-gradient(760px 360px at 82% 8%, rgba(255,94,26,.25), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.52)),
+      var(--world-bg) center / cover no-repeat;
+  }
+  .home-game-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .home-game-card {
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: relative;
+    overflow: hidden;
+    padding: 18px;
+    border: 2px solid rgba(255,255,255,.24);
+    border-radius: 20px;
+    color: #fff;
+    background:
+      linear-gradient(180deg, rgba(16,24,32,.12), rgba(16,24,32,.9)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 10px 0 rgba(16,24,32,.18), 0 26px 58px rgba(0,0,0,.18);
+  }
+  .home-game-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(360px 220px at 72% 12%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 70%),
+      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: auto, 38px 38px, 38px 38px;
+    opacity: .65;
+    mix-blend-mode: screen;
+  }
+  .home-game-card > * {
+    position: relative;
+    z-index: 1;
+  }
+  .home-game-card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(255,255,255,.72);
+  }
+  .home-game-card span {
+    color: color-mix(in srgb, var(--accent) 72%, #fff);
+    font-family: var(--font-mono);
+    font-size: .58rem;
+    font-weight: 900;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+  }
+  .home-game-card h3 {
+    margin-top: 8px;
+    color: #fff;
+    font-size: clamp(1.35rem, 2.2vw, 2rem);
+    line-height: .9;
+    text-transform: uppercase;
+  }
+  .home-game-card p {
+    margin-top: 10px;
+    color: rgba(255,255,255,.88);
+    font-weight: 800;
+    line-height: 1.3;
+  }
+  .home-game-card small {
+    display: block;
+    margin-top: 12px;
+    color: rgba(255,255,255,.68);
+    font-size: .78rem;
+    line-height: 1.4;
+  }
+  .bay-command-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .lust-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+  }
+  .lust-card {
+    display: grid;
+    grid-template-rows: minmax(260px, 1fr) auto;
+    overflow: hidden;
+    border: 2px solid rgba(16,24,32,.14);
+    border-radius: 14px;
+    background: #fff;
+    box-shadow: 0 9px 0 rgba(16,24,32,.1);
+  }
+  .lust-card:hover { transform: translateY(-5px); border-color: #101820; box-shadow: 0 13px 0 rgba(16,24,32,.14); }
+  .lust-image {
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 280px;
+    padding: 22px;
+    background:
+      radial-gradient(420px 240px at 70% 20%, color-mix(in srgb, var(--accent) 11%, transparent), transparent 70%),
+      linear-gradient(135deg, #fff, #f6f8fa);
+    border-bottom: 2px solid rgba(16,24,32,.1);
+  }
+  .lust-image img {
+    width: 100%;
+    height: 240px;
+    object-fit: contain;
+    filter: drop-shadow(0 22px 28px rgba(16,24,32,.18));
+    transition: transform .5s ease;
+  }
+  .lust-card:hover .lust-image img { transform: scale(1.05); }
+  .lust-copy { padding: 20px; }
+  .lust-copy h3 { margin-top: 8px; font-size: 1.35rem; }
+  .lust-copy p { margin-top: 9px; color: #435363; font-size: .9rem; line-height: 1.55; }
+  .lust-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
+  .lust-actions a {
     font-family: var(--font-mono);
-    font-weight: 800;
+    font-size: .68rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    font-weight: 900;
+    border: 1px solid rgba(16,24,32,.16);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: #101820;
+  }
+  .lust-actions a:last-child {
+    background: #ff5e1a;
+    border-color: #101820;
+  }
+  .bay-command {
+    display: flex;
+    min-height: 440px;
+    flex-direction: column;
+    color: #101820;
+    overflow: hidden;
+    border: 2px solid rgba(255,255,255,.24);
+    border-radius: 18px;
+    background:
+      linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,255,255,.96)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 10px 0 rgba(16, 24, 32, .16), 0 26px 58px rgba(0,0,0,.2);
+  }
+  .bay-command:hover {
+    transform: translateY(-5px);
+    border-color: #101820;
+    box-shadow: 0 12px 0 rgba(16, 24, 32, .12);
+  }
+  .bay-command-media {
+    position: relative;
+    min-height: 230px;
+    background: #101820;
+    overflow: hidden;
+  }
+  .bay-command-media img {
+    width: 100%;
+    height: 100%;
+    min-height: 230px;
+    object-fit: cover;
+    display: block;
+    filter: saturate(1.05) contrast(1.05);
+  }
+  .bay-command-media::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(420px 230px at 72% 12%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 70%),
+      linear-gradient(180deg, rgba(16,24,32,.12) 20%, rgba(16,24,32,.78));
+  }
+  .bay-command-media span {
+    position: absolute;
+    left: 14px;
+    bottom: 12px;
+    z-index: 2;
     color: #fff;
-    background: var(--accent);
-    margin-bottom: 14px;
+    font-family: var(--font-disp);
+    font-size: 1.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
   }
-  @media (max-width: 1120px) {
-    .home-hero { grid-template-columns: 1fr; }
-    .hero-copy h1 { max-width: 14ch; }
-    .bay-lane-grid, .cornerstone-grid, .source-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bay-command-copy { padding: 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+  .bay-command-copy h3 { font-size: 1.1rem; line-height: 1.18; }
+  .bay-command-copy p { color: #435363; font-size: .84rem; line-height: 1.55; flex: 1; }
+  .bay-chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+  .bay-chip-row span {
+    border: 1px solid rgba(16,24,32,.12);
+    background: rgba(246,248,250,.92);
+    color: #435363;
+    border-radius: 999px;
+    padding: 5px 7px;
+    font-family: var(--font-mono);
+    font-size: .52rem;
+    letter-spacing: .04em;
   }
-  @media (max-width: 720px) {
-    .home-hero { padding: 22px; }
-    .home-hero .cta-row { flex-wrap: wrap; }
-    .home-hero .btn-lg { width: 100%; justify-content: center; }
-    .answer-grid, .bay-lane-grid, .cornerstone-grid, .source-grid, .wild-grid { grid-template-columns: 1fr; }
+  .feature-guide-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .feature-guide {
+    --world-a: var(--accent);
+    --world-b: var(--accent2);
+    color: #101820;
+    display: grid;
+    grid-template-columns: 46% 1fr;
+    min-height: 320px;
+    overflow: hidden;
+    border: 2px solid color-mix(in srgb, var(--world-a) 38%, rgba(16,24,32,.16));
+    border-radius: 24px 24px 18px 18px;
+    background:
+      radial-gradient(420px 280px at 10% 12%, color-mix(in srgb, var(--world-a) 13%, transparent), transparent 70%),
+      linear-gradient(135deg, #fff, color-mix(in srgb, var(--world-a) 6%, #f7fafc));
+    box-shadow: 0 12px 0 rgba(16,24,32,.12), 0 30px 64px rgba(16,24,32,.12);
+  }
+  .feature-guide:hover {
+    transform: translateY(-5px);
+    border-color: #101820;
+    box-shadow: 0 14px 0 rgba(16,24,32,.15), 0 34px 70px color-mix(in srgb, var(--world-a) 17%, transparent);
+  }
+  .feature-guide-media {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 320px;
+    padding: 34px 30px 30px;
+    overflow: hidden;
+    border-right: 2px solid rgba(16,24,32,.1);
+    background:
+      radial-gradient(420px 240px at 72% 24%, color-mix(in srgb, var(--world-b) 18%, transparent), transparent 70%),
+      radial-gradient(400px 210px at 14% 100%, color-mix(in srgb, var(--world-a) 14%, transparent), transparent 70%),
+      linear-gradient(145deg, color-mix(in srgb, var(--world-a) 12%, #fff), #fff 50%, color-mix(in srgb, var(--world-b) 10%, #fff)),
+      repeating-linear-gradient(90deg, rgba(16,24,32,.045) 0 1px, transparent 1px 32px);
+  }
+  .feature-guide-media::before {
+    content: "";
+    position: absolute;
+    inset: auto 14% 24px 14%;
+    height: 22%;
+    border-radius: 999px;
+    background: linear-gradient(90deg, color-mix(in srgb, var(--world-a) 22%, transparent), color-mix(in srgb, var(--world-b) 16%, transparent));
+    filter: blur(20px);
+    transform: perspective(500px) rotateX(58deg);
+  }
+  .feature-guide-media::after {
+    content: "";
+    position: absolute;
+    inset: 14px;
+    border: 1px solid color-mix(in srgb, var(--world-a) 16%, transparent);
+    border-radius: 18px;
+    pointer-events: none;
+  }
+  .feature-guide-media img {
+    position: relative;
+    z-index: 1;
+    width: min(100%, 360px);
+    height: 260px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    filter: drop-shadow(0 26px 30px rgba(16,24,32,.28));
+    transition: transform .48s ease;
+  }
+  .feature-guide:hover .feature-guide-media img { transform: scale(1.08) rotate(-1deg); }
+  .feature-guide-badge {
+    position: absolute;
+    left: 14px;
+    top: 14px;
+    z-index: 2;
+    padding: 7px 9px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #101820, color-mix(in srgb, var(--world-a) 28%, #101820));
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: .54rem;
+    font-weight: 900;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+    box-shadow: 0 8px 18px rgba(16,24,32,.2);
+  }
+  .feature-guide-copy {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .feature-guide-index {
+    font-family: var(--font-mono);
+    font-size: .56rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-weight: 800;
+  }
+  .feature-guide h3 { margin-top: 10px; font-size: clamp(1.18rem, 2vw, 1.65rem); line-height: 1.08; }
+  .feature-guide p { margin-top: 12px; color: #334155; font-size: .92rem; line-height: 1.55; }
+  .crew-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .crew-card {
+    overflow: hidden;
+    background: rgba(255,255,255,.94);
+    border: 2px solid rgba(255,255,255,.26);
+    border-radius: 16px;
+    box-shadow: 0 10px 0 rgba(16,24,32,.16), 0 26px 58px rgba(0,0,0,.16);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .crew-card img {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+    border-bottom: 2px solid rgba(16,24,32,.1);
+  }
+  .crew-card div { padding: 15px; }
+  .crew-card span {
+    font-family: var(--font-mono);
+    font-size: .56rem;
+    text-transform: uppercase;
+    color: var(--accent);
+    letter-spacing: .1em;
+    font-weight: 800;
+  }
+  .crew-card h3 { margin-top: 7px; font-size: 1.18rem; }
+  .crew-card p { color: #435363; margin-top: 6px; font-size: .86rem; line-height: 1.45; }
+  .crew-card small { display: block; color: #71808c; margin-top: 9px; line-height: 1.45; }
+  .workbench-drop {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 24px;
+    align-items: center;
+    margin: 34px 0 60px;
+    padding: 26px;
+    border: 2px solid #101820;
+    border-radius: 24px;
+    color: #fff;
+    overflow: hidden;
+    background:
+      radial-gradient(760px 380px at 88% 0%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.62)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 34px 78px rgba(16,24,32,.18);
+  }
+  .workbench-drop::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 46px 46px;
+    opacity: .34;
+    mix-blend-mode: screen;
+  }
+  .workbench-drop > * { position: relative; z-index: 1; }
+  .workbench-drop h2 { font-size: clamp(1.5rem, 3.2vw, 2.2rem); margin: 8px 0; }
+  .workbench-drop p { color: rgba(255,255,255,.84); max-width: 66ch; }
+  .workbench-drop form { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+  .workbench-drop input {
+    min-width: 260px;
+    border: 2px solid rgba(16,24,32,.14);
+    border-radius: 8px;
+    padding: 13px 14px;
+    font-family: var(--font-mono);
+  }
+  @media (max-width: 1180px) {
+    .hero-v2-inner { grid-template-columns: 1fr; }
+    .dream-manifesto { max-width: 720px; }
+    .bay-command-grid, .crew-grid, .home-game-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .feature-guide-grid, .lust-grid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 760px) {
+    .hero-v2 { min-height: 760px; }
+    .hero-v2-inner { padding-bottom: 28px; }
+    .hero-v2-copy h1 { font-size: clamp(2.75rem, 14vw, 4.15rem); }
+    .dream-rail { grid-auto-columns: 88%; }
+    .dream-slide { min-height: 430px; }
+    .dream-manifesto, .feature-guide-grid, .bay-command-grid, .crew-grid, .signal-strip, .workbench-drop, .lust-grid, .home-game-grid { grid-template-columns: 1fr; }
+    .feature-guide { grid-template-columns: 1fr; }
+    .feature-guide-media { min-height: 240px; border-right: 0; border-bottom: 2px solid rgba(16,24,32,.1); }
+    .feature-guide-media img { height: 200px; }
+    .signal-strip div { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
+    .signal-strip div:last-child { border-bottom: 0; }
+    .workbench-drop form { justify-content: stretch; }
+    .workbench-drop input, .workbench-drop button { width: 100%; justify-content: center; }
   }
 </style>

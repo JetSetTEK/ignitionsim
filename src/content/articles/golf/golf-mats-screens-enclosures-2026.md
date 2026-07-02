@@ -7,8 +7,8 @@ primaryKeyword: "golf simulator mats screens enclosures"
 author: "Robert Pruitt"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
-heroImage: "/images/golf/golf-mats-screens-enclosures-2026.jpg"
-heroAlt: "Golf simulator mats, impact screens, enclosures, side netting, and safety accessories product bench"
+heroImage: "/images/gear/golf/sig10-enclosure.jpg"
+heroAlt: "SIG10 golf simulator enclosure and impact screen"
 excerpt: "The launch monitor gets the glamour. The mat, screen, foam, side protection, and enclosure decide whether your golf sim is safe, quiet, and usable after week two."
 featured: true
 goldStatus: "certified"

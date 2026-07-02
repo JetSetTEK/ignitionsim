@@ -8,11 +8,11 @@
     "price": 4899,
     "priceNote": "approx 2026 street price (~$4,899 sale, ~$5,499 list)",
     "image": "/images/gear/golf/benq-lk936st.jpg",
-    "summary": "The premium short-throw projector purpose-built for golf: a true 4K UHD (3840x2160) laser unit rated at 5,100 lumens with a 0.81-0.89 short throw ratio, so it can fill a near-10-foot-tall screen from roughly 14-15 feet back without throwing your shadow on the image. BenQ's exclusive Golf Mode corrects the purple fringing that plagues other projectors and renders natural blue sky and green grass, while industry-leading lens shift (+/-60% vertical, +/-23% horizontal) makes a clean ceiling-mount install far easier in an imperfect room. The 20,000-hour laser engine means no lamp swaps. This is the no-compromise choice when you want the sharpest, brightest picture in the bay.",
+    "summary": "The premium short-throw projector purpose-built for golf: a true 4K UHD (3840x2160) laser unit rated at 5,100 lumens with BenQ's 0.8 short-throw lens and 1.1x zoom, so it can fill a near-10-foot-tall screen from roughly 14-15 feet back without throwing your shadow on the image. BenQ's Golf Mode corrects the purple fringing that plagues other projectors and renders natural blue sky and green grass, while large lens shift (+/-60% vertical, +/-23% horizontal) makes a clean ceiling-mount install far easier in an imperfect room. The laser engine means no lamp swaps. This is the no-compromise choice when you want the sharpest, brightest picture in the bay.",
     "specs": {
       "Resolution": "True 4K UHD (3840 x 2160)",
       "Brightness": "5,100 ANSI lumens (laser)",
-      "Throw ratio": "0.81-0.89 short throw",
+      "Throw ratio": "0.8 short throw with 1.1x zoom",
       "Lens shift": "+/-60% vertical, +/-23% horizontal",
       "Light source": "Laser, ~20,000-hour lifespan",
       "Golf features": "Dedicated Golf Mode, HDR10, Auto HDR color"
@@ -30,11 +30,85 @@
     "whoFor": "Premium-bay builders who want the brightest, sharpest 4K image and a forgiving ceiling-mount install, and will pay for it.",
     "rating": { "overall": 9, "value": 7, "build": 9 },
     "faqs": [
-      { "q": "How far back does the LK936ST need to be mounted?", "a": "With its 0.81-0.89 short throw ratio it fills a near-10-foot-tall screen from roughly 14-15 feet away, and its wide lens shift lets you correct alignment without keystone distortion." },
+      { "q": "How far back does the LK936ST need to be mounted?", "a": "BenQ says its 0.8 short throw and 1.1x zoom can fill a near-10-foot-tall image from roughly 14-15 feet away, and its wide lens shift lets you correct alignment without keystone distortion." },
       { "q": "What does BenQ's Golf Mode actually do?", "a": "It corrects the purple fringing common on bright impact screens and tunes color so blue sky and green grass look natural, which is why it's marketed specifically for golf simulators." }
     ],
     "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Carl's Place, ProjectorScreen.com, BenQ direct" },
     "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "benq-ak700st",
+    "bay": "golf",
+    "type": "projector",
+    "brand": "BenQ",
+    "model": "AK700ST",
+    "price": 2999,
+    "priceNote": "verify live pricing; positioned as BenQ's 4K short-throw golf projector",
+    "image": "/images/gear/golf/benq-ak700st.jpg",
+    "summary": "The default 4K golf-simulator projector for builders who want premium image quality without LK936ST money: a 4,000 ANSI-lumen laser unit with 4K UHD resolution, a 0.69-0.83 throw ratio, auto screen-fit tools, Golf Mode color tuning, and a sealed IP5X dust-resistant engine. It belongs in a permanent room where the screen is wide enough to make 4K matter and the ceiling mount can sit ahead of the golfer's swing path.",
+    "specs": {
+      "Resolution": "4K UHD (3840 x 2160)",
+      "Brightness": "4,000 ANSI lumens (laser)",
+      "Throw ratio": "0.69-0.83 short throw",
+      "Light source": "Laser",
+      "Golf features": "Golf Mode, Auto Screen Fit, IP5X dust-resistant engine",
+      "Best fit": "Permanent golf simulator bay with controlled geometry"
+    },
+    "pros": [
+      "4K image without jumping to the LK936ST price tier",
+      "0.69-0.83 throw ratio fits many home bays ahead of the golfer",
+      "Golf-specific color and setup tools reduce install frustration"
+    ],
+    "cons": [
+      "Costs meaningfully more than a bright 1080p golf projector",
+      "Still requires careful mount math before drilling",
+      "4K is wasted on small screens or casual net-only practice"
+    ],
+    "whoFor": "Golf builders who want a polished 4K permanent bay and are willing to measure before they buy.",
+    "rating": { "overall": 9, "value": 8, "build": 9 },
+    "faqs": [
+      { "q": "What makes the AK700ST different from the AH700ST?", "a": "The AK700ST steps up to 4K UHD while keeping a 4,000-lumen laser platform and the same 0.69-0.83 short-throw geometry. Buy it when screen size and budget make 4K worth it." },
+      { "q": "Will the AK700ST fix shadows by itself?", "a": "No projector fixes bad geometry. Its short throw helps, but you still need to calculate throw distance and mount it ahead of the golfer's swing path." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Also BenQ direct and golf-simulator retailers" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, Awesome Golf, etc.)"
+  },
+  {
+    "id": "benq-ah700st",
+    "bay": "golf",
+    "type": "projector",
+    "brand": "BenQ",
+    "model": "AH700ST",
+    "price": 1699,
+    "priceNote": "verify live pricing; value-tier BenQ golf laser projector",
+    "image": "/images/gear/golf/benq-ah700st.jpg",
+    "summary": "The value golf-specific BenQ projector: a 4,000 ANSI-lumen short-throw laser unit with native 1080p resolution, 0.69-0.83 throw ratio, Auto Screen Fit, and Golf Mode color tuning. It is the sensible pick when brightness, fast setup, and shadow-free placement matter more than paying for 4K pixels.",
+    "specs": {
+      "Resolution": "Full HD 1080p",
+      "Brightness": "4,000 ANSI lumens (laser)",
+      "Throw ratio": "0.69-0.83 short throw",
+      "Light source": "Laser",
+      "Golf features": "Auto Screen Fit and Golf Mode",
+      "Best fit": "Value permanent bay where 1080p is enough"
+    },
+    "pros": [
+      "Bright 4,000-lumen laser output for less than 4K models",
+      "Golf-specific setup features reduce alignment pain",
+      "Same short-throw geometry family as the AK700ST"
+    ],
+    "cons": [
+      "Native 1080p, so very large screens will not look as crisp as 4K",
+      "Still needs a square, stable ceiling mount",
+      "Not as flexible as the LK936ST for off-center mounting"
+    ],
+    "whoFor": "Builders who want the BenQ golf-projector experience and would rather spend the 4K premium on the launch monitor, screen, or mat.",
+    "rating": { "overall": 8, "value": 9, "build": 8 },
+    "faqs": [
+      { "q": "Is the AH700ST enough for a golf simulator?", "a": "For most 9-11 foot home screens, yes. Its 4,000-lumen laser brightness and 0.69-0.83 short throw matter more than 4K if the room is measured correctly." },
+      { "q": "Who should skip the AH700ST?", "a": "Skip it if you are building a very large premium screen where native 4K sharpness matters, or if your room needs the LK936ST's broader lens-shift flexibility." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Also BenQ direct and golf-simulator retailers" },
+    "platforms": "Works with most golf-sim software (GSPro, E6, Awesome Golf, etc.)"
   },
   {
     "id": "optoma-gt2100hdr",
