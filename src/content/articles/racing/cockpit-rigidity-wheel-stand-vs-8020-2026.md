@@ -4,7 +4,7 @@ description: "How to choose the right sim racing cockpit in 2026: wheel stands, 
 bay: "racing"
 type: "comparison"
 primaryKeyword: "wheel stand vs cockpit vs 8020 sim rig"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 heroImage: "/images/gear/racing/sim-lab-p1x.jpg"
 heroAlt: "Sim-Lab P1X aluminum profile sim racing cockpit"

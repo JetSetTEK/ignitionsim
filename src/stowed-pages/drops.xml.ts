@@ -1,6 +1,7 @@
-import events from '../../data/events.json';
-import site from '../../data/site.json';
+import events from '../data/events.json';
+import site from '../data/site.json';
 
+// Stowed from public routing until drops are backed by live, verified product data.
 const esc = (s: string) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 export async function GET() {

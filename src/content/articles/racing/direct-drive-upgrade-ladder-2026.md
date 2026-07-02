@@ -4,7 +4,7 @@ description: "A 2026 direct-drive wheelbase ladder that explains where to start,
 bay: "racing"
 type: "ecosystem-upgrade-path"
 primaryKeyword: "direct drive wheel upgrade path 2026"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 heroImage: "/images/gear/racing/simucube-2-sport.jpg"
 heroAlt: "Simucube 2 Sport direct drive wheelbase"

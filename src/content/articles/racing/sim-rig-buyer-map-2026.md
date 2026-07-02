@@ -4,7 +4,7 @@ description: "A no-drama sim racing build order for 2026: pedals, direct drive, 
 bay: "racing"
 type: "buying-guide"
 primaryKeyword: "sim racing rig buyer guide 2026"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 heroImage: "/images/gear/racing/trak-racer-tr80.jpg"
 heroAlt: "Trak Racer TR80 sim racing cockpit"

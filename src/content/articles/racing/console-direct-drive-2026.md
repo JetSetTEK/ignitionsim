@@ -4,7 +4,7 @@ description: "The 2026 buyer guide to direct-drive racing wheels for PS5, PS4, X
 bay: "racing"
 type: "buying-guide"
 primaryKeyword: "best direct drive wheel for PS5 Xbox 2026"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/racing/logitech-rs50-system.jpg"

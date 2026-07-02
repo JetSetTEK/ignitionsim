@@ -15,7 +15,7 @@ const bay = getBayFromHref(href);
 const art = getArticleCardArt(href);
 const cardImage = art?.image || image;
 const cardAlt = art?.alt || imageAlt || title;
-const cardLabel = art?.label || 'Real product photo';
+const cardLabel = art?.label || 'Product proof';
 ---
 <a class="card article-world-card" data-bay={bay} href={href}>
   {cardImage && (
@@ -39,11 +39,9 @@ const cardLabel = art?.label || 'Real product photo';
     --world-b: #101820;
     --world-ink: #101820;
     border: 0;
-    border-radius: 24px 24px 18px 18px;
-    background:
-      radial-gradient(480px 280px at 88% 0%, color-mix(in srgb, var(--world-a) 18%, transparent), transparent 70%),
-      linear-gradient(145deg, #ffffff, #f6f8fb 54%, color-mix(in srgb, var(--world-a) 8%, #fff));
-    box-shadow: 0 12px 0 rgba(16,24,32,.13), 0 32px 64px rgba(16,24,32,.13);
+    border-radius: 18px;
+    background: #fff;
+    box-shadow: 0 9px 0 rgba(16,24,32,.1), 0 28px 58px rgba(16,24,32,.12);
     overflow: hidden;
   }
   .article-world-card[data-bay="racing"] { --world-a: #ff4b16; --world-b: #111827; --world-ink: #3b1107; }
@@ -60,43 +58,40 @@ const cardLabel = art?.label || 'Real product photo';
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 330px;
-    padding: 34px 28px 30px;
+    min-height: 300px;
+    padding: 28px 24px;
     overflow: hidden;
     background:
-      radial-gradient(420px 230px at 70% 18%, color-mix(in srgb, var(--world-a) 27%, transparent), transparent 72%),
-      radial-gradient(460px 220px at 12% 100%, color-mix(in srgb, var(--world-b) 14%, transparent), transparent 70%),
-      linear-gradient(135deg, color-mix(in srgb, var(--world-a) 11%, #fff), #fff 46%, color-mix(in srgb, var(--world-b) 12%, #fff)),
-      repeating-linear-gradient(90deg, rgba(16,24,32,.05) 0 1px, transparent 1px 32px);
+      radial-gradient(420px 230px at 72% 14%, color-mix(in srgb, var(--world-a) 13%, transparent), transparent 72%),
+      linear-gradient(135deg, #fff, #eef4f8);
     border-bottom: 2px solid color-mix(in srgb, var(--world-a) 22%, rgba(16,24,32,.12));
   }
   .article-world-card .cimg::before {
     content: "";
     position: absolute;
-    inset: auto 9% 22px 9%;
+    inset: auto 14% 24px 14%;
     height: 24%;
     border-radius: 999px;
     background:
-      linear-gradient(90deg, color-mix(in srgb, var(--world-a) 22%, transparent), color-mix(in srgb, var(--world-b) 16%, transparent));
-    filter: blur(20px);
+      linear-gradient(90deg, color-mix(in srgb, var(--world-a) 18%, transparent), rgba(16,24,32,.12));
+    filter: blur(18px);
     transform: perspective(500px) rotateX(58deg);
   }
   .article-world-card .cimg::after {
     content: "";
     position: absolute;
-    inset: 14px;
-    border: 1px solid color-mix(in srgb, var(--world-a) 16%, transparent);
-    border-radius: 18px;
+    inset: 13px;
+    border: 1px solid rgba(16,24,32,.08);
+    border-radius: 14px;
     pointer-events: none;
   }
   .article-world-card .cimg img {
     position: relative;
     z-index: 1;
     width: min(100%, 360px);
-    height: 260px;
+    height: 235px;
     object-fit: contain;
-    mix-blend-mode: multiply;
-    filter: drop-shadow(0 26px 30px rgba(16,24,32,.28));
+    filter: drop-shadow(0 22px 28px rgba(16,24,32,.2));
     transition: transform .45s ease;
   }
   .article-world-card:hover .cimg img { transform: scale(1.08) rotate(-1deg); }
@@ -106,9 +101,10 @@ const cardLabel = art?.label || 'Real product photo';
     top: 18px;
     z-index: 2;
     padding: 8px 11px;
-    border-radius: 10px;
-    background: linear-gradient(135deg, #101820, color-mix(in srgb, var(--world-ink) 70%, #101820));
-    color: #fff;
+    border: 1px solid #101820;
+    border-radius: 8px;
+    background: #ff5e1a;
+    color: #101820;
     font-family: var(--font-mono);
     font-size: .54rem;
     font-weight: 900;
@@ -117,10 +113,8 @@ const cardLabel = art?.label || 'Real product photo';
     box-shadow: 0 8px 18px rgba(16,24,32,.2);
   }
   .article-world-card .cbody {
-    padding: 26px 26px 28px;
-    background:
-      linear-gradient(180deg, rgba(255,255,255,.96), rgba(255,255,255,.99)),
-      radial-gradient(260px 160px at 100% 0%, color-mix(in srgb, var(--world-a) 10%, transparent), transparent 72%);
+    padding: 22px 24px 26px;
+    background: #fff;
   }
   .article-world-card .ctype {
     color: var(--world-a);

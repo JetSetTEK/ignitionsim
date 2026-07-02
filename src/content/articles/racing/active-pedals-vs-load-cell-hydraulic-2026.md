@@ -4,7 +4,7 @@ description: "A sim racing pedal buyer guide comparing active pedals, load-cell 
 bay: "racing"
 type: "comparison"
 primaryKeyword: "active pedals vs load cell vs hydraulic sim racing"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/racing/simucube-activepedal-pro.jpg"

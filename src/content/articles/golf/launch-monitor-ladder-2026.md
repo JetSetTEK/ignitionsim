@@ -4,7 +4,7 @@ description: "A 2026 launch monitor upgrade ladder for home golf simulators: bud
 bay: "golf"
 type: "comparison"
 primaryKeyword: "golf launch monitor ladder 2026"
-author: "Robert Pruitt"
+author: "Nina Brooks"
 publishDate: 2026-07-01
 heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak Plus launch monitor"

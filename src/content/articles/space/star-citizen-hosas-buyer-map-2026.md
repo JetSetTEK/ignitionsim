@@ -4,7 +4,7 @@ description: "A practical Star Citizen and space-sim HOSAS buyer guide for 2026:
 bay: "space"
 type: "buying-guide"
 primaryKeyword: "Star Citizen HOSAS buyer guide 2026"
-author: "Robert Pruitt"
+author: "Val Chen"
 publishDate: 2026-07-01
 heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"
 heroAlt: "VKB Gladiator NXT EVO Space Combat Edition joystick"

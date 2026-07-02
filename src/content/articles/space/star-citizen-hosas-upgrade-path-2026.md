@@ -4,7 +4,7 @@ description: "A gold-standard Star Citizen HOSAS upgrade path for 2026: when to 
 bay: "space"
 type: "buying-guide"
 primaryKeyword: "Star Citizen HOSAS upgrade path 2026"
-author: "Robert Pruitt"
+author: "Val Chen"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg"

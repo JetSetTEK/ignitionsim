@@ -4,7 +4,7 @@ description: "A buyer guide to golf simulator hitting mats, impact screens, encl
 bay: "golf"
 type: "buying-guide"
 primaryKeyword: "golf simulator mats screens enclosures"
-author: "Robert Pruitt"
+author: "Nina Brooks"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/golf/sig10-enclosure.jpg"

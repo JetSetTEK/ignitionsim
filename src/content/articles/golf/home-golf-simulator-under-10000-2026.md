@@ -4,7 +4,7 @@ description: "A practical under-$10K home golf simulator build guide with launch
 bay: "golf"
 type: "buying-guide"
 primaryKeyword: "home golf simulator under 10000"
-author: "Robert Pruitt"
+author: "Nina Brooks"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/golf/skytrak-st-max.jpg"

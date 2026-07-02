@@ -4,6 +4,7 @@ import site from '../data/site.json';
 import events from '../data/events.json';
 import bays from '../data/bays.json';
 
+// Stowed from public routing until drops are backed by live, verified product data.
 const sorted = [...(events as any[])].sort((a, b) => +new Date(b.date) - +new Date(a.date));
 const typeMeta: Record<string, { label: string; cls: string }> = {
   NEW: { label: '✦ New', cls: 'green' }, RESTOCK: { label: '● Restock', cls: 'green' },

@@ -117,7 +117,8 @@ Before publishing or pushing a major update:
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.
 - Search the output for placeholder markers, `PHOTO SLOT READY`, `cimg-fallback`, procedural hero art, missing images, and product pages that are only spec cards. Fix or demote before deploy.
 - Check mobile and desktop layouts for overflow, tiny infographic text, unreadable contrast, and cropped important content.
-- Run `npm run art` only after verifying it uses the real-product collage pipeline. Then run `npm run build`.
+- `npm run art` is reserved for original diagrams/infographics. Do not use the legacy collage script for public article cards, guide shelves, related cards, product benches, or money-page thumbnails unless a human has explicitly approved a one-off editorial reason.
+- Run `npm run build` and confirm the audit passes before any deploy.
 - If a page relies on current prices, release dates, firmware, ratings, product availability, or active community sentiment, verify with current sources before publishing.
 - Update the relevant hub/homepage/gear/best-of surfaces when the article is strategically important.
 - Search the public pages after build to verify the article appears in the expected bay, games/universe hub, Build Stream/info river, homepage module, related-guide cluster, sitemap, and RSS/feed path where applicable.

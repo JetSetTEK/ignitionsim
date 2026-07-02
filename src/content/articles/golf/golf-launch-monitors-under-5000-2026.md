@@ -4,7 +4,7 @@ description: "A blunt 2026 buyer guide to the best golf launch monitors under $5
 bay: "golf"
 type: "comparison"
 primaryKeyword: "best golf launch monitor under 5000"
-author: "Robert Pruitt"
+author: "Nina Brooks"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/golf/garmin-approach-r50.jpg"

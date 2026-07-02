@@ -4,7 +4,7 @@ description: "A practical upgrade order for flight sim hardware in 2026: when to
 bay: "flight"
 type: "ecosystem-upgrade-path"
 primaryKeyword: "flight sim hardware upgrade order 2026"
-author: "Robert Pruitt"
+author: "Val Chen"
 publishDate: 2026-07-01
 heroImage: "/images/gear/flight/honeycomb-bravo-throttle.jpg"
 heroAlt: "Honeycomb Bravo flight simulator throttle quadrant"

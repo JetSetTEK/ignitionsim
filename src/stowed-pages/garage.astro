@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { hasVerifiedProductImage } from '../lib/productMedia';
+// Stowed from public routing until the Garage feature is part of the certified product system.
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
 const index: Record<string, any> = {};

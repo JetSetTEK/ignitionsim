@@ -11,6 +11,96 @@ const certified = await getCollection('articles', ({ data }) => isCertifiedArtic
 const articleMap = new Map(certified.map((a) => [a.id, a]));
 const slug = (a: any) => a.id.split('/').pop();
 const bayMap = new Map(bays.map((b) => [b.slug, b]));
+const gameMediaBySlug: Record<string, { image: string; alt: string; label: string }> = {
+  iracing: {
+    image: '/images/games/iracing/iracing-2026-s3-hero.jpg',
+    alt: 'iRacing 2026 Season 3 official racing screenshot',
+    label: 'Game proof',
+  },
+  'assetto-corsa-evo': {
+    image: '/images/gear/racing/sim-lab-p1x.jpg',
+    alt: 'Sim-Lab P1X aluminum profile cockpit for serious PC racing simulators',
+    label: 'Rig proof',
+  },
+  'assetto-corsa-competizione': {
+    image: '/images/gear/racing/heusinkveld-sprint.jpg',
+    alt: 'Heusinkveld Sprint load-cell sim racing pedals',
+    label: 'Pedal proof',
+  },
+  'le-mans-ultimate': {
+    image: '/images/gear/racing/samsung-odyssey-oled-g9-49.jpg',
+    alt: 'Samsung Odyssey OLED G9 ultrawide monitor for racing simulation',
+    label: 'Display proof',
+  },
+  'gran-turismo-7': {
+    image: '/images/gear/racing/logitech-rs50-system.jpg',
+    alt: 'Logitech RS50 direct drive racing wheel system',
+    label: 'Console proof',
+  },
+  'forza-motorsport': {
+    image: '/images/gear/racing/moza-r3-xbox-bundle.png',
+    alt: 'MOZA R3 Xbox direct drive racing wheel bundle',
+    label: 'Xbox proof',
+  },
+  gspro: {
+    image: '/images/gear/golf/garmin-approach-r50.jpg',
+    alt: 'Garmin Approach R50 launch monitor for golf simulator software',
+    label: 'Launch proof',
+  },
+  'e6-connect': {
+    image: '/images/gear/golf/skytrak-st-max.jpg',
+    alt: 'SkyTrak ST MAX launch monitor used for home golf simulator software',
+    label: 'Software path',
+  },
+  'awesome-golf': {
+    image: '/images/gear/golf/sig10-enclosure.jpg',
+    alt: 'SIG10 golf simulator enclosure and impact screen',
+    label: 'Room proof',
+  },
+  'microsoft-flight-simulator-2024': {
+    image: '/images/gear/flight/honeycomb-alpha-yoke.jpg',
+    alt: 'Honeycomb Alpha flight simulator yoke',
+    label: 'Yoke proof',
+  },
+  'x-plane-12': {
+    image: '/images/gear/flight/honeycomb-bravo-throttle.jpg',
+    alt: 'Honeycomb Bravo throttle quadrant for flight simulators',
+    label: 'Throttle proof',
+  },
+  'dcs-world': {
+    image: '/images/gear/flight/thrustmaster-hotas-warthog.jpg',
+    alt: 'Thrustmaster HOTAS Warthog flight stick and throttle',
+    label: 'HOTAS proof',
+  },
+  'star-citizen': {
+    image: '/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg',
+    alt: 'VKB Gladiator NXT EVO Space Combat Edition joystick',
+    label: 'HOSAS proof',
+  },
+  'elite-dangerous': {
+    image: '/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg',
+    alt: 'VKB Gladiator NXT EVO Omni Throttle for space simulators',
+    label: 'Cruise proof',
+  },
+  sailaway: {
+    image: '/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg',
+    alt: 'Thrustmaster TWCS throttle repurposed as a marine simulator control',
+    label: 'Control proof',
+  },
+  'bridge-command': {
+    image: '/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg',
+    alt: 'Leo Bodnar BBI-32 button box interface board for DIY simulator controls',
+    label: 'DIY proof',
+  },
+};
+const fallbackMediaByBay: Record<string, { image: string; alt: string; label: string }> = {
+  racing: gameMediaBySlug['assetto-corsa-evo'],
+  golf: gameMediaBySlug.gspro,
+  flight: gameMediaBySlug['microsoft-flight-simulator-2024'],
+  space: gameMediaBySlug['star-citizen'],
+  marine: gameMediaBySlug['bridge-command'],
+};
+const gameMediaFor = (game: any) => gameMediaBySlug[game.slug] || fallbackMediaByBay[game.bay];
 const grouped = bays
   .map((bay) => ({
     bay,
@@ -19,6 +109,7 @@ const grouped = bays
       .filter((g) => g.bay === bay.slug)
       .map((g) => ({
         ...g,
+        media: gameMediaFor(g),
         guides: (g.guideIds || []).map((id: string) => articleMap.get(id)).filter(Boolean),
       })),
   }))
@@ -26,7 +117,7 @@ const grouped = bays
 
 const featured = (games as any[])
   .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen', 'bridge-command'].includes(g.slug))
-  .map((g) => ({ ...g, bayData: bayMap.get(g.bay), world: getWorldForBay(g.bay) }));
+  .map((g) => ({ ...g, bayData: bayMap.get(g.bay), world: getWorldForBay(g.bay), media: gameMediaFor(g) }));
 
 const description = 'IgnitionSim simulator games hub: the racing, golf, flight, space, and marine sims worth building hardware around, with buyer-map links and setup traps.';
 const schema = [{
@@ -54,15 +145,15 @@ const schema = [{
   })),
 }];
 ---
-<Base title="Simulator Games Hub" description={description} image="/images/worlds/racing-world.webp" schema={schema} activeNav="games">
+<Base title="Simulator Games Hub" description={description} image="/images/worlds/space-world.webp" schema={schema} activeNav="games">
   <div class="games-page">
-    <section class="games-hero" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+    <section class="games-hero" style={`--world-bg: url('${getWorldForBay('space').image}')`}>
       <div class="games-hero-scrim"></div>
       <div class="wrap games-hero-inner">
         <div class="crumbs"><a href="/">Home</a><span>/</span>Games</div>
         <span class="lbl lbl-accent">Simulator games hub</span>
-        <h1>The games worth building hardware around.</h1>
-        <p>Some games are weekend distractions. These are the sims that make people buy wheelbases, launch monitors, yokes, sticks, mounts, screens, pedals, projectors, and occasionally a second apology to the family budget.</p>
+        <h1>Start with the sim. Build the room around it.</h1>
+        <p>iRacing, GSPro, MSFS, Star Citizen, Bridge Command, and the rest do not want the same hardware. Pick the world you actually play, then build the controls, screens, mounts, and room around that reality.</p>
         <div class="hero-actions">
           <a class="btn btn-primary btn-lg" href="#sim-worlds">Browse sim worlds</a>
           <a class="btn btn-lg" href="/guides">Open certified guides</a>
@@ -89,6 +180,10 @@ const schema = [{
         <div class="featured-game-grid">
           {featured.map((g) => (
             <article class="featured-game" data-bay={g.bay} style={`--world-bg: url('${g.world.image}')`}>
+              <div class="featured-game-media">
+                <img src={g.media.image} alt={g.media.alt} loading="lazy" decoding="async" />
+                <span>{g.media.label}</span>
+              </div>
               <div>
                 <span>{g.bayData?.name || g.bay}</span>
                 <h3>{g.name}</h3>
@@ -123,6 +218,10 @@ const schema = [{
             <div class="game-grid">
               {games.map((game: any) => (
                 <article class="game-card" data-bay={game.bay}>
+                  <div class="game-card-media">
+                    <img src={game.media.image} alt={game.media.alt} loading="lazy" decoding="async" />
+                    <span>{game.media.label}</span>
+                  </div>
                   <div class="game-topline">
                     <span>{game.type}</span>
                     <a href={game.officialUrl} target="_blank" rel="noopener">Official site</a>
@@ -185,7 +284,7 @@ const schema = [{
   .games-page > * { position: relative; z-index: 1; }
   .games-hero {
     position: relative;
-    min-height: min(760px, 84vh);
+    min-height: min(660px, 74vh);
     display: grid;
     align-items: end;
     overflow: hidden;
@@ -193,7 +292,8 @@ const schema = [{
     padding: 120px 0 56px;
     color: #fff;
     background:
-      linear-gradient(90deg, rgba(10,14,23,.96), rgba(10,14,23,.62) 48%, rgba(10,14,23,.22)),
+      radial-gradient(820px 420px at 86% 18%, rgba(217,70,239,.22), transparent 70%),
+      linear-gradient(90deg, rgba(10,14,23,.78), rgba(10,14,23,.38) 50%, rgba(10,14,23,.08)),
       var(--world-bg) center / cover no-repeat;
     box-shadow: inset 0 -120px 110px rgba(245,248,251,1);
   }
@@ -203,12 +303,12 @@ const schema = [{
     inset: 0;
     pointer-events: none;
     background:
-      radial-gradient(660px 380px at 76% 18%, rgba(255,94,26,.28), transparent 72%),
+      radial-gradient(660px 380px at 76% 18%, rgba(255,94,26,.18), transparent 72%),
       linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
       linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
     background-size: auto, 48px 48px, 48px 48px;
     mix-blend-mode: screen;
-    opacity: .75;
+    opacity: .5;
   }
   .games-hero-scrim {
     position: absolute;
@@ -225,11 +325,11 @@ const schema = [{
     color: rgba(255,255,255,.72);
   }
   .games-hero h1 {
-    max-width: 11ch;
+    max-width: 12.5ch;
     margin-top: 14px;
     color: #fff;
-    font-size: clamp(3rem, 7vw, 7.4rem);
-    line-height: .86;
+    font-size: clamp(2.6rem, 5.4vw, 5.2rem);
+    line-height: .9;
     text-transform: uppercase;
     text-shadow: 0 18px 60px rgba(0,0,0,.45);
   }
@@ -277,7 +377,8 @@ const schema = [{
     border: 2px solid rgba(16,24,32,.2);
     border-radius: 34px;
     background:
-      linear-gradient(120deg, rgba(10,14,23,.94), rgba(10,14,23,.62) 48%, rgba(10,14,23,.34)),
+      radial-gradient(760px 360px at 86% 0%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 70%),
+      linear-gradient(120deg, rgba(10,14,23,.82), rgba(10,14,23,.44) 48%, rgba(10,14,23,.16)),
       var(--world-bg) center / cover no-repeat;
     color: #fff;
     box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 40px 90px rgba(16,24,32,.18);
@@ -319,18 +420,57 @@ const schema = [{
     gap: 16px;
   }
   .featured-game {
-    min-height: 260px;
+    min-height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     overflow: hidden;
-    padding: 20px;
+    padding: 0;
     border: 1px solid rgba(255,255,255,.28);
     border-radius: 22px;
-    background:
-      linear-gradient(180deg, rgba(10,14,23,.2), rgba(10,14,23,.82)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: inset 0 -90px 80px rgba(0,0,0,.48);
+    background: rgba(255,255,255,.94);
+    color: #101820;
+    box-shadow: 0 18px 44px rgba(0,0,0,.18);
+  }
+  .featured-game > div:not(.featured-game-media) {
+    padding: 18px 20px 0;
+  }
+  .featured-game-media,
+  .game-card-media {
+    position: relative;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(135deg, #fff, #eef4f8);
+    border-bottom: 1px solid rgba(16,24,32,.12);
+  }
+  .featured-game-media {
+    min-height: 190px;
+    padding: 22px;
+  }
+  .featured-game-media img,
+  .game-card-media img {
+    width: 100%;
+    height: 100%;
+    max-height: 180px;
+    object-fit: contain;
+    filter: drop-shadow(0 18px 24px rgba(16,24,32,.2));
+  }
+  .featured-game-media span,
+  .game-card-media span {
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    z-index: 2;
+    padding: 7px 9px;
+    border: 1px solid #101820;
+    border-radius: 8px;
+    background: #ff5e1a;
+    color: #101820;
+    font-family: var(--font-mono);
+    font-size: .54rem;
+    font-weight: 900;
+    letter-spacing: .11em;
+    text-transform: uppercase;
   }
   .featured-game span,
   .game-topline span,
@@ -344,7 +484,7 @@ const schema = [{
   }
   .featured-game h3 {
     margin-top: 8px;
-    color: #fff;
+    color: #101820;
     font-size: clamp(1.6rem, 3vw, 2.5rem);
     line-height: .9;
     text-transform: uppercase;
@@ -352,14 +492,15 @@ const schema = [{
   .featured-game p {
     max-width: 32ch;
     margin-top: 8px;
-    color: rgba(255,255,255,.82);
+    color: #435363;
   }
   .featured-game a {
     width: max-content;
+    margin: 16px 20px 20px;
     padding: 10px 12px;
-    border: 1px solid rgba(255,255,255,.3);
+    border: 1px solid #101820;
     border-radius: 999px;
-    background: rgba(255,255,255,.12);
+    background: #101820;
     color: #fff;
     font-family: var(--font-mono);
     font-size: .74rem;
@@ -379,7 +520,7 @@ const schema = [{
     padding: clamp(22px, 4vw, 38px);
     background:
       radial-gradient(820px 380px at 88% 8%, color-mix(in srgb, var(--bay-a) 24%, transparent), transparent 70%),
-      linear-gradient(90deg, rgba(10,14,23,.92), rgba(10,14,23,.58) 52%, rgba(10,14,23,.34)),
+      linear-gradient(90deg, rgba(10,14,23,.78), rgba(10,14,23,.36) 52%, rgba(10,14,23,.16)),
       var(--world-bg) center / cover no-repeat;
   }
   .game-bay[data-bay="racing"] { --bay-a: #ff4b16; }
@@ -413,12 +554,24 @@ const schema = [{
   }
   .game-card {
     min-height: 100%;
-    padding: 20px;
+    overflow: hidden;
+    padding: 0 0 20px;
     border: 1px solid rgba(255,255,255,.26);
     border-radius: 20px;
     background: rgba(255,255,255,.92);
     color: var(--txt);
     box-shadow: 0 18px 44px rgba(0,0,0,.16);
+  }
+  .game-card > :not(.game-card-media) {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .game-card-media {
+    min-height: 210px;
+    padding: 22px;
+  }
+  .game-topline {
+    margin-top: 18px;
   }
   .game-topline {
     display: flex;

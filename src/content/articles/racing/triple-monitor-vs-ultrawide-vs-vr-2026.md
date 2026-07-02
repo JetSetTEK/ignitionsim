@@ -4,7 +4,7 @@ description: "A 2026 sim racing display buyer guide comparing triple monitors, 4
 bay: "racing"
 type: "comparison"
 primaryKeyword: "triple monitors vs ultrawide vs vr sim racing"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 updatedDate: 2026-07-01
 heroImage: "/images/gear/racing/samsung-odyssey-oled-g9-49.jpg"

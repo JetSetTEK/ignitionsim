@@ -1,10 +1,11 @@
 ---
-import Base from '../../layouts/Base.astro';
-import BaySetup from '../../components/BaySetup.astro';
-import bays from '../../data/bays.json';
-import configs from '../../data/build-configs.json';
-import site from '../../data/site.json';
+import Base from '../layouts/Base.astro';
+import BaySetup from '../components/BaySetup.astro';
+import bays from '../data/bays.json';
+import configs from '../data/build-configs.json';
+import site from '../data/site.json';
 
+// Stowed from public routing until the builder data and UX meet the IgnitionSim Gold Standard.
 export async function getStaticPaths() {
   // racing has its own dedicated compatibility-engine configurator
   return bays.filter((b) => b.slug !== 'racing').map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));

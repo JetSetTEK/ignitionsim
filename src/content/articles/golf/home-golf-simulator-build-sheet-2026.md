@@ -4,7 +4,7 @@ description: "A practical home golf simulator buyer map for 2026 with room dimen
 bay: "golf"
 type: "buying-guide"
 primaryKeyword: "home golf simulator build sheet 2026"
-author: "Robert Pruitt"
+author: "Nina Brooks"
 publishDate: 2026-07-01
 heroImage: "/images/gear/golf/benq-lk936st.jpg"
 heroAlt: "BenQ LK936ST short throw golf simulator projector"

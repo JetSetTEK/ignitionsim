@@ -4,7 +4,7 @@ description: "A practical comparison of tactile feedback, pedal haptics, seat sh
 bay: "racing"
 type: "diy"
 primaryKeyword: "bass shakers vs motion sim rig"
-author: "Robert Pruitt"
+author: "Duke Alvarez"
 publishDate: 2026-07-01
 heroImage: "/images/gear/racing/buttkicker-gamer-pro.jpg"
 heroAlt: "ButtKicker Gamer PRO tactile feedback transducer"

@@ -4,7 +4,7 @@ description: "A practical Microsoft Flight Simulator hardware buyer map for 2026
 bay: "flight"
 type: "buying-guide"
 primaryKeyword: "MSFS home cockpit buyer guide 2026"
-author: "Robert Pruitt"
+author: "Val Chen"
 publishDate: 2026-07-01
 heroImage: "/images/gear/flight/honeycomb-alpha-yoke.jpg"
 heroAlt: "Honeycomb Alpha flight simulator yoke"

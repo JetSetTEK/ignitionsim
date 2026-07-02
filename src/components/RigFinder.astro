@@ -8,7 +8,7 @@
   <div class="rf-head">
     <span class="lbl lbl-accent">// Interactive · 30 seconds</span>
     <h2>Find your rig</h2>
-    <p>Answer three quick questions and we'll point you at a smart starting setup — then you can fine-tune it in the configurator.</p>
+    <p>Answer three quick questions and we'll point you at a smart starting setup, then send you into the certified guides that can actually help you buy.</p>
   </div>
 
   <div class="rf-card">
@@ -62,7 +62,7 @@
       <p id="rf-note" class="rf-note"></p>
       <div class="rf-cta">
         <a id="rf-bay" class="btn" href="/">Explore the bay →</a>
-        <a id="rf-build" class="btn btn-primary" href="/racing/configurator">Open the builder ▸</a>
+        <a id="rf-build" class="btn btn-primary" href="/build-stream">Open certified guides ▸</a>
         <button class="btn rf-share" type="button">↗ Share result</button>
         <button class="btn rf-restart" type="button">↺ Start over</button>
       </div>
@@ -174,7 +174,10 @@
       const bay = document.getElementById('rf-bay') as HTMLAnchorElement;
       bay.href = '/' + d; bay.textContent = 'Explore the ' + d + ' bay →';
       const build = document.getElementById('rf-build') as HTMLAnchorElement;
-      if (build) build.href = '/' + d + '/configurator';
+      if (build) {
+        build.href = '/build-stream';
+        build.textContent = 'Open certified guides ▸';
+      }
       shareText = `I'm ${ar.name} on IgnitionSim 🏁 My ${d} pick: ${r.pick}. Find your rig: ${location.origin}/#rigfinder`;
       (window as any).ig?.track('rigfinder_complete', { discipline: d, archetype: ar.name });
       show(4);
