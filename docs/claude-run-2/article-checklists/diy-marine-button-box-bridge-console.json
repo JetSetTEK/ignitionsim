@@ -1,0 +1,23 @@
+{
+  "slug": "diy-marine-button-box-bridge-console",
+  "articleFile": "src/content/articles/marine/diy-marine-button-box-bridge-console.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 4,
+  "realProductImageCount": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "This is a low-product-density DIY how-to: only 4 verified product images are genuinely relevant (BBI-32, Arduino/Pro Micro, BU0836X, Professional Ship Simulator). Reaching 8 verified images would require forcing product cards that don't belong in a build guide, so certification is not pursued.",
+    "The cheapest no-code recommendation (Leo Bodnar BU0836A, £33) is TEXT-only because its image /images/gear/marine/leobodnar-bu0836a-diy-board.jpg is NOT in verified-product-images.json. Source a real photo before it can become a gearpick.",
+    "PXN CB1 price is check-current: marine-extra.json says ~$80, current street is ~$99.99 (MSRP $129.99). Reconcile before certifying.",
+    "Professional Ship Simulator specifics are shifting: the live Steam page states Early Access 'finished in mid of 2027' while reveal coverage said 2026, and the older '9 axes / 50+ buttons' figure was not re-confirmed (softened to '100+ mappable buttons' + check-current). Confirm final axis count and EA window before certifying.",
+    "Needs Codex infographics (switch-type matrix, 16/6/2 panel layout, code-vs-no-code decision tree) to hit gold visual density for a how-to; none are product photos."
+  ],
+  "notes": "Rewrote to gold structure with author Gus Calder and goldStatus 'refresh' (left uncertified per run rules). Verdict-first bold opening; two decision tables (brains, switch-type-to-function); switch-type-trap warning; step-by-step build; forum callout (paraphrased 'test in the Windows game-controller panel before closing the enclosure'); explicit buy order; who-should-skip; dated Sources Checked shelf with real verified links. All 4 embedded gear images plus the heroImage are in verified-product-images.json; the previously-embedded UNVERIFIED /images/gear/marine/leobodnar-bu0836a-diy-board.jpg was removed and the visual moved to the verified BU0836X (its solderless sibling). heroImage set to a verified gear path (/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg). Frontmatter has exactly 2 fences; adds sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster marine, 5 FAQs, 4 related. `npx astro build` passes (210 pages, 0 errors); the article page does not yet emit to dist because the [bay]/[slug] route filters on isCertifiedArticle — expected for a 'refresh' article. Prices/specs verified: BU0836A £33 (Leo Bodnar), Pro Micro clone $4-$8, ArduinoJoystickLibrary LGPL-3.0, Bridge Command DIY doc at /Doc/makethrottle.php (old wiki URL 404s), PXN CB1 ~$99.99. Honest visualCount = 4; candidateForCertification left false by design — will not force product cards into a how-to."
+}

@@ -93,6 +93,25 @@ async function existsPublic(rel) {
   }
 }
 
+async function localBackgrounds(bay) {
+  const dir = path.join(publicDir, 'images/source-backgrounds', bay);
+  try {
+    const files = await fs.readdir(dir);
+    return files
+      .filter((file) => /\.(webp|jpg|jpeg|png)$/i.test(file))
+      .sort()
+      .map((file) => `/images/source-backgrounds/${bay}/${file}`);
+  } catch {
+    return [];
+  }
+}
+
+function rotated(values, offset) {
+  if (!values.length) return values;
+  const start = offset % values.length;
+  return [...values.slice(start), ...values.slice(0, start)];
+}
+
 async function stagedSlugs() {
   const out = new Set();
   for (const dir of claudeRunDirs) {
@@ -297,11 +316,17 @@ async function main() {
     const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
     const productRel = displayRels[0] || worlds[bay];
     const slideNumber = (hashSlug(slug) % 3) + 1;
+    const stockBackgrounds = rotated(await localBackgrounds(bay), hashSlug(`${bay}:${slug}`));
     const backgroundCandidates = [
-      `/images/${bay}/${slug}.jpg`,
-      `/images/${bay}/${slug}.webp`,
-      `/images/${bay}/slide-${slideNumber}.jpg`,
-      `/images/${bay}/hero.jpg`,
+      ...stockBackgrounds,
+      ...(bay === 'space'
+        ? []
+        : [
+            `/images/${bay}/${slug}.jpg`,
+            `/images/${bay}/${slug}.webp`,
+            `/images/${bay}/slide-${slideNumber}.jpg`,
+            `/images/${bay}/hero.jpg`,
+          ]),
       worlds[bay] || worlds.racing,
     ];
     let backgroundRel = worlds[bay] || worlds.racing;

@@ -1,0 +1,23 @@
+{
+  "slug": "diy-bridge-command-throttle",
+  "articleFile": "src/content/articles/marine/diy-bridge-command-throttle.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 3,
+  "realProductImageCount": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low product density by design (how-to/explainer): only 3 verified images embed, well under the 8-image bar. This is correct for the format and product cards were NOT forced, but it means the piece is not a certification candidate on visual count alone.",
+    "The article's primary recommended board — the BU0836A named by the official Bridge Command guide — has NO verified product photo, so it appears as text + Amazon/Leo Bodnar links only. Source a real BU0836A photo before certifying if the piece should picture its top pick.",
+    "Arduino Leonardo 2026 price is not hard-verified (body says '~$25 check-current'); confirm before certifying.",
+    "BU0836A (~$42) and BU0836X (~$77) USD figures are GBP-based approximations (£33 / £59.99 confirmed at source); confirm live USD before certifying.",
+    "Codex graphics recommended (pot-wiring diagram, board-choice decision tree, string-friction diagram) would materially lift a low-image how-to more than product cards."
+  ],
+  "notes": "Rewrote to gold structure: author=curator (Gus Calder), goldStatus left as refresh (NOT certified), added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster marine. heroImage set to a VERIFIED path (/images/gear/marine/leobodnar-bu0836x-diy-board.jpg). 5 FAQs, related[] fixed to 3 EXISTING targets (diy-marine-button-box-bridge-console, marine-sim-controller-support, marine-sim-hardware-reality) — the previous 'arduino-joystick-helm-build' related target did not exist and was removed. HARD IMAGE RULE enforced: the earlier pass embedded /images/gear/marine/leobodnar-bu0836a-diy-board.jpg, which is NOT in verified-product-images.json; that image is removed and the BU0836A is now text + links only. All 3 embedded gear images verified (BU0836X, Arduino Leonardo, Bridge Command sim). Exactly 2 frontmatter fences. Body: verdict-first bold opening, why-Bridge-Command, BOM table, 7-step build, string-friction section, Arduino code-it alternative, board-choice decision tree, 'what this build is not', tip/forum/warn callouts (original paraphrase, no long quotes), dated Sources Checked shelf with real Bridge Command + Leo Bodnar + GitHub links. `npx astro build` passes (210 pages). NOTE: the article route intentionally does NOT publish a page because isCertifiedArticle() requires goldStatus==='certified'; leaving it refresh per run rules means it will build to a route only once certified — expected, not a bug. No git/deploy run."
+}

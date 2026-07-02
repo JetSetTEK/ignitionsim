@@ -1,0 +1,76 @@
+{
+  "slug": "diy-marine-button-box-bridge-console",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a maker feel the bridge-console build is cheap, solved, and worth two evenings — lean on decision tables, a switch-type matrix, and a labeled panel layout rather than product cards. This is a low-product-density how-to; feature only genuinely relevant verified boards, and flag the missing infographics for Codex.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Leo Bodnar BU0836A USB Joystick Interface (soldered)",
+      "preferredLocalPath": "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg",
+      "officialSourceUrl": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204",
+      "amazonUrl": "",
+      "status": "needs-download",
+      "notes": "The article's cheapest no-code board recommendation (£33, ~$42). Currently TEXT-only because the image is not in verified-product-images.json. The solderless BU0836X (verified) carries the visual instead. Source a real BU0836A board photo to add it as a gearpick without altering the recommendation."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/professional-ship-simulator-context.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-bridge-console-build",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic maker workbench at warm garage-light, a 3D-printed marine bridge panel in progress with mounted toggle switches, momentary push buttons and two rotary encoders, loose wiring loom running to an empty board footprint left open for a real controller-board product overlay, curator Gus Calder's hands terminating a wire, steel-and-teal palette, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake controller board, warped switches, unreadable labels, impossible wiring, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "switch-type-decision-matrix",
+      "title": "Which switch for which bridge function",
+      "format": "1600x1000",
+      "content": ["Momentary push -> single actions: horn, anchor drop, MOB marker, camera cycle", "Toggle switch -> on/off states: nav lights, deck lights, anchor light, bilge pump, autopilot engage", "Rotary encoder -> dialed values: autopilot heading, VHF channel, radar range, thruster trim", "Keyed switch -> engine start (realism, optional)"],
+      "style": "IgnitionSim command-center matrix, large readable text, marine teal/steel palette, four labeled rows with switch icons"
+    },
+    {
+      "id": "first-build-panel-layout",
+      "title": "The 16 / 6 / 2 first-build bridge panel",
+      "format": "1600x1000",
+      "content": ["16 momentary buttons", "6 toggle switches", "2 rotary encoders", "labeled: horn, nav lights, deck lights, anchor up/down, autopilot engage + heading, VHF channel, thruster, MOB, camera"],
+      "style": "Flat top-down labeled panel schematic, bridge aesthetic, clear callouts, no brand marks"
+    },
+    {
+      "id": "code-vs-nocode-decision-tree",
+      "title": "Arduino or Leo Bodnar? Decide before you buy switches",
+      "format": "1600x1000",
+      "content": ["Comfortable in Arduino IDE + want cheapest/most flexible? -> Pro Micro (~$5), matrix + software toggles", "Want wire-and-plug, will solder? -> BU0836A (~$42)", "Want wire-and-plug, no solder? -> BU0836X (~$77) or BBI-32 (~$53)", "Don't want to fabricate at all? -> PXN CB1 (~$100), map buttons"],
+      "style": "Numbered decision tree, IgnitionSim style, four branches, price tags, marine palette"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-label-every-wire",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a workbench, soldering iron resting in its stand, one hand holding a labeled bridge-panel wire loom, calm methodical energy, product overlay space beside him, practical not fantasy, salt-and-steel workshop, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Windows 'USB Game Controllers' properties dialog showing button/axis lights",
+      "why": "Reinforces the forum callout — verify each input registers before closing the enclosure. A real screenshot beats prose here.",
+      "status": "optional"
+    }
+  ],
+  "openQuestions": [
+    "Source a verified BU0836A board photo so the cheapest no-code pick can appear as a gearpick instead of text-only?",
+    "Reconcile PXN CB1 price: marine-extra.json says ~$80, current street ~$99.99 (MSRP $129.99).",
+    "Confirm Professional Ship Simulator EA window (Steam page 'mid of 2027' vs reveal '2026') and final axis count before tightening the 'where it pays off' section.",
+    "Add the verified PXN CB1 photo as one gearpick, or keep it text to preserve the low-density how-to feel?"
+  ]
+}

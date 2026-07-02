@@ -1,0 +1,84 @@
+{
+  "slug": "diy-bridge-command-throttle",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a maker feel that a real analog ship's helm is a cheap, achievable afternoon project — proof of the actual board(s) they'll wire, plus clear diagrams for the wiring and the board-choice decision, without forcing product cards on a low-density how-to. Real product proof where verified; instructional infographics fill the rest.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Leo Bodnar BU0836A USB Joystick Interface (pin-header / solder version)",
+      "preferredLocalPath": "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg",
+      "officialSourceUrl": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204",
+      "amazonUrl": "https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "This is the exact board the official Bridge Command guide names, and it is the article's primary recommendation for cost — but its photo is NOT in the verified set, so it appears as text + links only. Sourcing a real photo would let it become a gearpick/shotgrid and is the top visual gap. Certification blocker if the piece must picture its primary recommended board."
+    },
+    {
+      "product": "3x 10k linear-taper potentiometers (B10K rotary), the throttle/wheel pots",
+      "preferredLocalPath": "/images/gear/marine/10k-linear-pots-trio.jpg",
+      "officialSourceUrl": "https://www.bridgecommand.co.uk/Doc/makethrottle.php",
+      "amazonUrl": "https://www.amazon.com/s?k=B10K+linear+potentiometer&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Generic component, not a branded product. A clean trio shot (or the B10K printed code close-up) would reinforce the linear-vs-log point better than a stock render. Text-only for now; NOT embedded."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/bridge-command-free-sim.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "diy-helm-bench-composite",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic maker workbench at warm workshop light: a part-built wooden ship's-helm panel with two throttle levers and a small wheel, exposed hookup wiring routed to an open slot left blank for a real interface-board product overlay, a loop of string wrapped around one pot shaft and anchored to a bracket, solder-free tidy build, marine-sim vibe, 16:9 editorial cover. No fake branded boards, no fake UI, no warped hardware.",
+      "realOverlays": ["/images/gear/marine/leobodnar-bu0836x-diy-board.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fabricated circuit board, impossible wiring, unreadable tiny text, procedural gradient art, force-feedback motors"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "pot-wiring-diagram",
+      "title": "How a potentiometer wires to the BU0836",
+      "format": "1600x1000",
+      "content": ["Pot has 3 terminals", "Two outer = Vref + ground", "Center wiper = analog signal", "Wire each pot's 3 pins to one 3-pin set on the board", "Repeat x3: port throttle, starboard throttle, wheel", "Optional: push-to-make horn button to a ground pin + column-1 pin"],
+      "style": "IgnitionSim command-center schematic, large readable labels, marine teal/gold, clean callout arrows on a stylized board footprint"
+    },
+    {
+      "id": "board-choice-decision-tree",
+      "title": "Which DIY board should you buy?",
+      "format": "1600x1000",
+      "content": ["No soldering + fast tonight -> BU0836X (~$77)", "Comfortable soldering + save money -> BU0836A (~$42, the guide's board)", "Want custom logic / detents / encoders -> Arduino Leonardo (~$25 and down)", "All prices check-current"],
+      "style": "Numbered decision-tree ladder with product-photo placeholders for Codex overlay, marine palette"
+    },
+    {
+      "id": "string-friction-trick",
+      "title": "The string-friction trick",
+      "format": "1600x1000",
+      "content": ["Bare pot = lever flops to idle", "Wrap string around the pot shaft", "Anchor it solidly to something rigid", "Drag holds the lever where you set it", "Alt: O-ring or felt washer under the knob"],
+      "style": "Simple 4-step before/after diagram, macro of a pot shaft with string wrap, marine palette, high readability"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-diy-helm-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a tidy home workbench, one hand steadying a DIY throttle lever mid-build, calm hands-on maker energy, a soldering iron and a spool of string on the bench, product-overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Bridge Command joystick-support / axis-mapping settings screen",
+      "sourceUrl": "https://www.bridgecommand.co.uk/Doc/joystick.php",
+      "status": "needs-download",
+      "notes": "A real screenshot of enabling joystick support and assigning the throttle/wheel axes would concretely back build step 7. Optional; not embedded. Verify licensing before use."
+    }
+  ],
+  "openQuestions": [
+    "Source a verified BU0836A product photo so the article's primary (cheapest) recommended board is pictured, not just linked?",
+    "Confirm current Arduino Leonardo 2026 street price (body says ~$25 check-current)?",
+    "Confirm live USD for BU0836A (~$42) and BU0836X (~$77) from Leo Bodnar direct vs. Ricmotech before certifying?",
+    "Do we want a real 3x B10K pot-trio photo, or is the wiring infographic enough for the component visual?"
+  ]
+}
