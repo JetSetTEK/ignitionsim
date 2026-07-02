@@ -1,0 +1,70 @@
+{
+  "slug": "radar-vs-photometric-launch-monitor",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "B",
+  "visualGoal": "Make a buyer measure their room before comparing data sheets: photometric for shallow rooms, radar/fusion for depth or outdoor range, overhead for tall ceilings. Real launch-monitor product proof for the radar/photometric/fusion contrast; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Uneekor EYE XO2 (overhead camera flagship)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://uneekor.com/golf-launch-monitors/eye-xo2",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-verification",
+      "notes": "Image file is on disk but NOT in verified-product-images.json, so it is text-only (link + Amazon) in the overhead section per the image rule. Vision-verify and add to the verified list before it can become a gearpick/shotgrid tile."
+    },
+    {
+      "product": "Foresight Falcon (overhead Quadrascopic)",
+      "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+      "officialSourceUrl": "https://www.foresightsports.com/products/falcon",
+      "amazonUrl": "https://www.amazon.com/s?k=Foresight+Sports+Falcon+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-verification",
+      "notes": "Image file on disk but NOT in verified-product-images.json; text-only in the overhead section. Vision-verify and add before promoting to a body visual."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/rapsodo-mlm2pro.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-room-decides-tech",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home golf simulator bay lit warm gold against deep green walls, a photometric camera unit set beside a hitting mat with a radar unit positioned behind the tee to contrast the two sensor positions, open product-overlay space for real launch monitors, a tape measure on the floor to signal 'measure your room first,' no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped screen, impossible geometry, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "sensor-position-and-room",
+      "title": "Where each sensor sits, and the room it needs",
+      "format": "1600x1000",
+      "content": ["Radar: behind you, ~15-20 ft depth ideal", "Fusion: behind you, more forgiving than pure radar", "Photometric: beside the ball, works down to ~12 ft", "Overhead: above the ball, needs 9-10 ft ceiling"],
+      "style": "IgnitionSim command-center diagram, four sensor positions around a hitting spot, large readable text, golf greens/golds, real LM photos as position markers for Codex overlay"
+    },
+    {
+      "id": "room-first-buy-order",
+      "title": "Match the sensor to your tape measure",
+      "format": "1600x1000",
+      "content": ["Depth < ~15 ft: default photometric (side camera)", "Depth or outdoor range: radar or fusion", "9-10 ft ceiling + premium club data: overhead", "Test flicker-free lighting before any camera unit"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-room-first-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks holding a tape measure in a partly-finished basement simulator space, gesturing at the depth behind the hitting spot, confident advisor energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Vision-verify and add Uneekor EYE XO2 and Foresight Falcon to verified-product-images.json so the overhead section can show units instead of text-only links?",
+    "Add verified Garmin R50 and FlightScope Mevo Gen 2 as gearpicks in a later pass for more visual density, or keep the set focused on the radar/photometric/fusion contrast?",
+    "Resolve the room-depth figures to a single authoritative manufacturer spec if a range (18-20 / <15 / 12 ft) is not acceptable for certification?"
+  ]
+}

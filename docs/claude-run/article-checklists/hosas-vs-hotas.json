@@ -1,0 +1,43 @@
+{
+  "slug": "hosas-vs-hotas",
+  "articleFile": "src/content/articles/space/hosas-vs-hotas.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "curator": "Val Chen",
+  "visualCount": 9,
+  "verifiedImagesUsed": 5,
+  "textOnlyProducts": 4,
+  "realProductImageCount": 9,
+  "unverifiedImagesRemoved": true,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "buildChecked": true,
+  "structure": {
+    "verdictFirst": true,
+    "hosasVsHotasComparisonTable": true,
+    "whichGameFavorsWhich": true,
+    "verifiedShotgrid": true,
+    "gearpickAsides": 5,
+    "forumOrTipCallouts": 2,
+    "warningCallouts": 3,
+    "buyOrder": true,
+    "verdictClose": true,
+    "datedSourcesChecked": true
+  },
+  "authorReassignedToCurator": true,
+  "frontmatterAdded": ["goldStatus: refresh", "sourceReviewDate: 2026-07-02", "updatedDate: 2026-07-02", "revenueTier: B", "contentCluster: space"],
+  "heroVerified": true,
+  "heroImage": "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+  "blockers": [
+    "Turtle Beach VelocityOne — the space-bay image path (/images/gear/space/turtle-beach-velocityone-flightstick.jpg) is NOT in verified-product-images.json (only the flight-bay path is verified). Kept text-only with an official link + Amazon search. Whitelist a vision-verified space-path photo, or reuse the verified flight-bay image if identical, to add the Xbox gearpick.",
+    "WinWing Ursa Minor Space has no verified in-house photo (same gap as the space-sticks sibling). Kept text-only with the official WinWing link. Source + vision-verify before embedding.",
+    "Prices left as approximate ranges (VKB Space Combat Edition, VKB Omni-Throttle, WinWing Ursa Minor Space, Turtle Beach) given boutique/street wave pricing — confirm before flipping to certified."
+  ],
+  "notes": "Rescue of a throttled prior attempt on the HOSAS-vs-HOTAS explainer. Reframed to the run standard: author reassigned from Robert Pruitt to the space curator Val Chen; added goldStatus refresh, sourceReviewDate/updatedDate 2026-07-02, revenueTier B, contentCluster space. Hero switched from the unverified /images/space/hosas-vs-hotas.jpg to the verified VKB Gladiator Space Combat Edition (HOSAS is the primary verdict winner). All 5 embedded images (4-figure shotgrid + 5 gearpicks = 9 visual placements across 5 distinct verified photos) are from src/data/verified-product-images.json. HARD IMAGE RULE held: the original draft's Turtle Beach gearpick embedded an unverified space-path image — it was demoted to text + official link + Amazon search; WinWing kept text-only. Structure: verdict-first (game+player decision), HOSAS-vs-HOTAS comparison table with analog-axis counts + trade-off rows, an explicit 'which game favors which config' matrix (Star Citizen HOSAS / Elite HOTAS-competitive / DCS HOTAS / Xbox single stick), verified shotgrid, 5 gearpicks (Turtle Beach demoted so not counted), original forum callout (r/starcitizen HOSAS-convert arc) + a pro-tip callout (ambidextrous-stick trap), 3 warning callouts (binding complexity, ambidextrous/handed off-hand stick, desk space + sliding bases), a numbered buy order, and a dated Sources Checked shelf with real links + a photo-verification note. FAQ expanded to 5 (added the Elite Dangerous HOTAS-competitive question — the honest-broker balance the original lacked). Related updated to point at the space-sticks sibling. goldStatus left as refresh per run rules; certification-ready pending the Turtle Beach/WinWing photo resolution and price confirmations. Build verified with `npx astro build` (166 pages, no errors)."
+}

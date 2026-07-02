@@ -1,0 +1,55 @@
+{
+  "slug": "skytrak-vs-bushnell-launch-pro-vs-gc3",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a mid-tier buyer feel the total-cost-of-ownership decision before the sticker price. Real launch-monitor product proof throughout; no procedural art. Every embedded image is a verified product photo.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/skytrak-st-max.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/foresight-gc3.jpg",
+    "/images/gear/golf/foresight-gcquad.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-tco-truth",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic indoor golf simulator bay at soft rim light, a fairway-green hitting mat with an open product-overlay spot beside the ball left empty for a real launch-monitor product photo, out-of-focus glowing simulator screen behind, curator Nina Brooks gesturing toward the sensor spot, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-year-cost",
+      "title": "Three-year cost of ownership",
+      "format": "1600x1000",
+      "content": ["SkyTrak+ ~$1,995 flat (no annual fee)", "Launch Pro ~$2,499 + Gold $499 + GSPro $250 = ~$750/yr", "Launch Pro 3-yr can pass hardware price", "GC3 ~$6,999 front-loaded, lifetime software, never compounds"],
+      "style": "IgnitionSim command-center chart, large readable text, golf colors, real launch-monitor photos as row markers for Codex overlay"
+    },
+    {
+      "id": "buy-order-photometric",
+      "title": "Premium photometric buy order",
+      "format": "1600x1000",
+      "content": ["1 Do you need club data?", "2 How do you feel about subscriptions?", "3 Confirm software path (connectors / Gold tier)", "4 Price the 3-year total", "5 Confirm room fits a side unit", "6 Buy sensor, spend rest on mat/screen"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-tco-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a clean indoor simulator bay, one hand resting near a side-of-ball launch monitor spot, calm honest-broker energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm SkyTrak+ clearance stock/price (~$1,995) is still live at certification time.",
+    "Confirm current SkyTrak new-customer third-party connector policy (GSPro/E6/TGC) — body flags 'check current'.",
+    "Confirm Bushnell one-time club-data unlock (~$1,500) and Launch Pro exclusivity.",
+    "Confirm GC3 $6,999 package still bundles the Bushnell Pro X3 LINK rangefinder."
+  ]
+}

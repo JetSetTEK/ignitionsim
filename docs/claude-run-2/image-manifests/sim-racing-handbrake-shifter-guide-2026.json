@@ -1,0 +1,113 @@
+{
+  "slug": "sim-racing-handbrake-shifter-guide-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a rally/drift builder buy the RIGHT type for their discipline and mount it rigidly. The article's core products (handbrakes + shifters) have NO verified photo yet, so current visuals anchor on the verified mounting/cockpit + pedals catalog because mounting is the article's central thesis. Top priority for Codex: source real handbrake + shifter product photos so those units can appear as gearpick/shotgrid asides. No procedural art, no stand-in images.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "MOZA HBP Handbrake",
+      "preferredLocalPath": "/images/gear/racing/moza-hbp-handbrake.jpg",
+      "officialSourceUrl": "https://us.mozaracing.com/products/hbp-handbrake",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+HBP+handbrake&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget/analog handbrake pick ($99, 16-bit non-contact Hall angle sensor). Currently text-only because no verified image. Highest-priority photo for this article — it is the default first handbrake recommendation."
+    },
+    {
+      "product": "Fanatec ClubSport Handbrake V2 (load cell)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-clubsport-handbrake-v2.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/add-ons/cs_hb_v2/clubsport-handbrake-v2",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+ClubSport+Handbrake+V2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Console-friendly load-cell pick (~$200, launched Dec 2025, PC/PS5/Xbox). NOTE: internal product data still carries the OLD V1.5 potentiometer image path (/images/gear/racing/fanatec-clubsport-handbrake-v15.jpg) which is a DIFFERENT product — source a V2 photo, do not reuse the V1.5."
+    },
+    {
+      "product": "Sim-Lab XB1 Load-Cell Handbrake",
+      "preferredLocalPath": "/images/gear/racing/sim-lab-xb1-handbrake.jpg",
+      "officialSourceUrl": "https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing",
+      "amazonUrl": "https://www.amazon.com/s?k=Sim-Lab+XB1+handbrake&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Value load-cell pick (~$175, 150kg cell, swappable elastomers, two-stage damper). No gear page yet — consider adding one."
+    },
+    {
+      "product": "Heusinkveld Sim Handbrake V2",
+      "preferredLocalPath": "/images/gear/racing/heusinkveld-handbrake-v2.jpg",
+      "officialSourceUrl": "https://heusinkveld.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=Heusinkveld+Sim+Handbrake&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Pro/endgame load-cell handbrake (~$400, 120kg cell, SmartControl). Confirm exact US price and the direct product URL before certifying."
+    },
+    {
+      "product": "MOZA SGP Sequential Shifter",
+      "preferredLocalPath": "/images/gear/racing/moza-sgp-shifter.jpg",
+      "officialSourceUrl": "https://us.mozaracing.com/products/sgp-shifter",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+SGP+shifter&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best sequential pick ($129, non-contact Hall, USB/MOZA base). Currently text-only. Second-highest photo priority after the MOZA HBP."
+    },
+    {
+      "product": "Thrustmaster TH8A (H-pattern + sequential)",
+      "preferredLocalPath": "/images/gear/racing/thrustmaster-th8a.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TH8A+shifter&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best switchable/H-pattern value pick (100% metal, PC/console). Current price unconfirmed this pass — body says check current."
+    },
+    {
+      "product": "Fanatec ClubSport Shifter SQ V1.5",
+      "preferredLocalPath": "/images/gear/racing/fanatec-clubsport-shifter-sq-v15.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/sim-racing-accessories/clubsport-shifter-sq-v-1-5",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+ClubSport+Shifter+SQ&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Premium switchable shifter (~$300, full metal). Verify the gear-page slug and official-spec URL resolve; confirm current MSRP."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/sim-lab-p1x.jpg",
+    "/images/gear/racing/trak-racer-tr80.jpg",
+    "/images/gear/racing/nlr-gt-track.jpg",
+    "/images/gear/racing/gt-omega-apex.jpg",
+    "/images/gear/racing/moza-crp2.jpg",
+    "/images/gear/racing/heusinkveld-sprint.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-handbrake-shifter-mount",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing cockpit at amber rim light, a rigid 8020 aluminum-profile rig with side rails, an empty bolt-down side plate left open for a real handbrake product overlay and a second plate for a sequential shifter, low and slightly forward of the seat where a hand falls off the wheel, cable tray visible, curator Duke Alvarez gesturing at the rigid mount point, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/sim-lab-p1x.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake handbrake, fake shifter, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, desk clamp on particle board shown as good"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "discipline-decision-table",
+      "title": "Handbrake + shifter by discipline",
+      "format": "1600x1000",
+      "content": ["GT/formula: neither (paddles) — buy pedals", "Rally: load-cell handbrake first, sequential second", "Drift: load-cell handbrake non-negotiable, sequential second", "Classic/touring: H-pattern + clutch pedal", "Truck: H-pattern (dual-stick splitter)"],
+      "style": "IgnitionSim command-center decision chart, large readable text, racing colors, discipline icons per row"
+    },
+    {
+      "id": "handbrake-sensor-ladder",
+      "title": "Handbrake sensor tiers",
+      "format": "1600x1000",
+      "content": ["Analog Hall angle ~$99 (MOZA HBP) — good", "Value load-cell ~$175 (Sim-Lab XB1) — excellent", "Console load-cell ~$200 (Fanatec CS Handbrake V2)", "Pro load-cell ~$400 (Heusinkveld) — best repeatability"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays once real handbrake photos exist"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-mount-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand pulling a rig-mounted handbrake to show zero flex, confident mechanic energy, product overlay space beside the rail, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source real product photos for all 7 core handbrake/shifter units so they can move from text-only to gearpick/shotgrid asides (MOZA HBP + MOZA SGP are the two highest-priority).",
+    "Confirm exact current US$ prices: Fanatec ClubSport Handbrake V2, Sim-Lab XB1, Heusinkveld Sim Handbrake V2, Thrustmaster TH8A.",
+    "Should we add gear pages + data records for Fanatec ClubSport Handbrake V2 (load cell), Sim-Lab XB1, and Heusinkveld handbrake? Internal data still carries the old V1.5 potentiometer handbrake only.",
+    "Do we want a verified MOZA HBP / MOZA SGP photo to become the hero instead of the current mount-anchored Sim-Lab P1-X hero once sourced?"
+  ]
+}

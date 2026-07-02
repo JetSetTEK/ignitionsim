@@ -1,0 +1,21 @@
+{
+  "slug": "direct-drive-2026-do-you-need-it",
+  "articleFile": "src/content/articles/racing/direct-drive-2026-do-you-need-it.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 15,
+  "realProductImageCount": 15,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Confirm exact current US price for the Cammus C5 (sources span $299-328) and current Fanatec GT DD Pro / ClubSport DD+ bundle prices before certifying — body deliberately uses ranges and 'check current' rather than hard figures.",
+    "Text/table references to Cammus C5, Fanatec CSL DD, Simagic Alpha Evo 12Nm base, and Asetek Invicta 27Nm base have no verified product image; they are text + Amazon-search only. Source real photos before those become body visuals or before certification if the shortlist should show every base.",
+    "DD-vs-belt latency ms figure (3-8ms vs 10-15ms) is aggregator-sourced only; body keeps it qualitative ('a few milliseconds'). Confirm a primary/measured figure before printing an ms number."
+  ],
+  "notes": "Full gold rewrite complete. All 9 distinct embedded images (15 total img instances across shotgrid + 11 gearpicks) are verified product photos from verified-product-images.json; heroImage swapped from the old unverified /images/racing/*.jpg to the verified /images/gear/racing/moza-r12.jpg. Author set to Duke Alvarez; goldStatus left as 'refresh' (NOT certified) per run rules; added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster racing. Structure: verdict-first bold opening, 'what DD changed' (2-3/4-6/6-30+Nm drive-type bands), '2026 price-parity is gone' section, torque-need table (3.9-28Nm tiers), PS5 console DD path, diminishing-returns 70%-not-100% rule, frontier smoothness tier, 2026 shortlist table, setup-tax warnings (mount/PSU/firmware/lock-in), who-should-skip, 7-step buy order, What-to-buy stack (PC + PS5), 2 tip callouts + 1 forum callout, dated Sources Checked shelf with real retrieved links. Cammus C5 (cheapest DD, no verified image) handled as text + Amazon-search + needs-download manifest entry per hard image rule. Astro build compiles clean; article intentionally does not emit a page while goldStatus=refresh (isCertifiedArticle gate in src/pages/[bay]/[slug].astro) — same as the two gold-reference articles. Build checked with `npx astro build` only (no npm run build)."
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "moza-vs-fanatec-vs-simagic",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a first-time buyer feel the decision is about the ecosystem (rims, QR, catalog, console) rather than the base's torque number. Real wheelbase product proof throughout, one per brand at minimum; no procedural art. Reinforce the three tribes visually: MOZA ladder, Fanatec PS5+catalog, Simagic PC value.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Fanatec ClubSport DD (12Nm / 15Nm firmware)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-clubsport-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/cs_dd_us/clubsport-dd-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+ClubSport+DD+wheel+base&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The Fanatec sweet-spot base in the head-to-head table. Currently text-only because no verified image; the DD+ (.webp) IS verified and carries the Fanatec sweet-spot visual instead. A real DD image would let the head-to-head table show all three brands with product art."
+    },
+    {
+      "product": "Simagic Alpha Evo Standard (12Nm)",
+      "preferredLocalPath": "/images/gear/racing/simagic-evo.jpg",
+      "officialSourceUrl": "https://simagic.com/products/simagic-alpha-evo-wheel-base-9nm-12nm-18nm",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+Alpha+Evo+wheelbase&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The 12Nm Simagic in the head-to-head table. Text-only; the Pro (18Nm) and Ultra (28Nm) images ARE verified and anchor the Simagic visual. Standard would round out the sweet-spot comparison if promoted."
+    },
+    {
+      "product": "Fanatec CSL DD",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2_us/csl-dd-qr2-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Fanatec entry base; text-only in lineup prose. Low priority for this comparison."
+    },
+    {
+      "product": "Simagic Alpha Evo Sport (9Nm)",
+      "preferredLocalPath": "/images/gear/racing/simagic-evo-sport.jpg",
+      "officialSourceUrl": "https://simagic.com/pages/alpha-evo",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+Alpha+Evo+Sport&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Simagic entry; mentioned in range prose only. Low priority."
+    },
+    {
+      "product": "Logitech G PRO Racing Wheel",
+      "preferredLocalPath": "/images/gear/racing/logitech-g-pro.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Not featured in this three-brand comparison (Logitech is a fourth ecosystem). Only relevant if the scope expands. logitech-rs50-system.jpg IS verified if a Logitech visual is ever wanted."
+    },
+    {
+      "product": "Fanatec Podium DD",
+      "preferredLocalPath": "/images/gear/racing/fanatec-podium-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/podium-dd1-us/podium-wheel-base-dd1-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+Podium+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Flagship row in the glance table only; text-only, low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/simagic-evo-ultra.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-three-tribes",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing bench on dark slate under a single dramatic overhead light, three empty 4-bolt mounting plates arranged left-to-right for real wheelbase product overlays (MOZA, Fanatec, Simagic), amber and steel tones, cable tray visible, curator Duke Alvarez standing behind gesturing across the three mounts as if weighing a decision, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg", "/images/gear/racing/fanatec-gt-dd-pro.jpg", "/images/gear/racing/simagic-evo-pro.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "ecosystem-decision-tree",
+      "title": "Which ecosystem should you buy into?",
+      "format": "1600x1000",
+      "content": ["Race on PS5? -> Fanatec", "Race on Xbox? -> MOZA R3 or Fanatec CSL DD", "Pure PC, max feel/$? -> Simagic Alpha Evo", "Want one-brand ladder? -> MOZA", "Own third-party rims? -> Simagic (open QR-A)"],
+      "style": "IgnitionSim command-center decision tree, large readable branches, racing colors, brand product photos as leaf-node markers for Codex overlay"
+    },
+    {
+      "id": "sweet-spot-head-to-head",
+      "title": "The 12Nm sweet spot, three ways",
+      "format": "1600x1000",
+      "content": ["MOZA R12 ~$399-469 / 12Nm / deepest ladder", "Simagic Alpha Evo Std ~$548 / 12Nm / open QR-A", "Fanatec ClubSport DD ~$630-700 / 15Nm firmware / widest catalog"],
+      "style": "Three-column comparison card, product-photo placeholders per column for Codex overlays, QR-lock-in and console icons"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-ecosystem-verdict",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, arms crossed, standing between two rigs wearing different-brand wheelbases, confident mechanic-who-has-owned-them-all energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm current US street prices (all sale-dependent): ClubSport DD ($629.99 sale vs $699.99), ClubSport DD+ (~$899.99), GT DD Pro bundle (~$749.99 5Nm bundle), MOZA R12 ($399 sale / $469 reg), MOZA R21 ($699 sale / $899 reg).",
+    "Verify Simagic Alpha Evo Ultra is shipping (not preorder) before treating it as a live buy pick.",
+    "Should the head-to-head sweet-spot table show all three brands with product art? Needs real fanatec-clubsport-dd.jpg and/or simagic-evo.jpg (12Nm standard) downloads.",
+    "Confirm MOZA 24-month warranty applies across the full R5-R21 range, not just the R3."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "hosas-vs-hotas",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Let a space-sim pilot pick HOSAS vs HOTAS by their actual game (Star Citizen → HOSAS, Elite → HOTAS competitive, DCS → HOTAS, Xbox → single stick) and player type, using verified product proof only. Anchor the visuals on the four verified sticks/throttle that exemplify each config; honestly keep WinWing and the space-path Turtle Beach text-only rather than embedding unverified images.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Turtle Beach VelocityOne Flightstick (space-bay path)",
+      "preferredLocalPath": "/images/gear/space/turtle-beach-velocityone-flightstick.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocityone-flightstick",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The Xbox/console pick. A FLIGHT-bay verified photo exists (/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg) but the SPACE-bay path used by this bay is NOT in verified-product-images.json and is not vision-verified. Kept text-only. Either whitelist the space-path image after vision-verifying it's the identical product, or reuse the verified flight-bay image, before embedding a gearpick."
+    },
+    {
+      "product": "WinWing Ursa Minor Space joystick (Space variant, twist)",
+      "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "retailSourceUrl": "https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mentioned as the budget-features champion in the HOSAS ladder. Same verification gap as the space-sticks sibling article — a file exists on disk but is NOT in the verified manifest and is not vision-verified. Text-only here. Verify exact-match (Space twist variant, not Fighter) before embedding."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg",
+    "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg"
+  ],
+  "verifiedButNotEmbedded": [
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/virpil-warbrd-d-base.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-hosas-vs-hotas-split",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic enthusiast space-sim desk under cool magenta and cyan rim light, split-composition editorial cover: left half a clean twin-stick HOSAS layout with two empty ergonomic mounting plates left open for real joystick product overlays, right half a stick-and-throttle HOTAS layout with two empty plates, dual-monitor Star Citizen cockpit view behind, cable management visible, no fake branded hardware, no fake UI text, 16:9.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg", "/images/gear/space/thrustmaster-hotas-warthog.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joysticks, warped grips, impossible ergonomics, unreadable tiny text, procedural gradient art, invented WinWing/Turtle Beach hardware"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "axis-math-6dof",
+      "title": "Six axes, two layouts",
+      "format": "1600x1000",
+      "content": ["Pitch / Yaw / Roll — both analog", "Forward thrust — both analog", "Lateral strafe — HOTAS button, HOSAS analog", "Vertical strafe — HOTAS button, HOSAS analog", "HOTAS reaches 4 of 6 analog; HOSAS reaches 6 of 6"],
+      "style": "IgnitionSim command-center chart, large readable text, space blues, two-column analog-vs-button comparison"
+    },
+    {
+      "id": "which-game-which-config",
+      "title": "Which config for which game",
+      "format": "1600x1000",
+      "content": ["Star Citizen → HOSAS (6DOF combat)", "Elite Dangerous → HOTAS competitive (throttle-friendly)", "DCS / atmospheric → HOTAS", "Xbox / console → single licensed stick"],
+      "style": "Game-logo-free labeled matrix, verified stick/throttle photos as row markers for Codex overlay (VKB Gladiator for HOSAS rows, Warthog for HOTAS rows)"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-two-configs",
+      "prompt": "Realistic adult space-sim curator Val Chen standing between two command stations — a twin-stick HOSAS rig on one side and a stick-and-throttle HOTAS rig on the other — gesturing to compare them, calm expert energy, dual monitors with a starfield behind, product overlay space beside each rig, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Whitelist or reuse a verified space-bay Turtle Beach VelocityOne photo (or reuse the verified flight-bay image if identical) to add the Xbox gearpick.",
+    "Source and vision-verify a real WinWing Ursa Minor Space photo — same gap as the space-sticks sibling.",
+    "Confirm current VKB Space Combat Edition, VKB Omni-Throttle, WinWing Ursa Minor Space, and Turtle Beach street prices before flipping goldStatus to certified."
+  ]
+}

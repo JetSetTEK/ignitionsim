@@ -1,0 +1,22 @@
+{
+  "slug": "bass-shakers-tactile-feedback-simhub-2026",
+  "articleFile": "src/content/articles/racing/bass-shakers-tactile-feedback-simhub-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 1,
+  "realProductImageCount": 1,
+  "textOnlyProducts": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Certification requires ~8 verified images; this topic has exactly ONE verified tactile product (ButtKicker Gamer PRO). Per the honesty rule, candidateForCertification is left FALSE rather than forcing product cards for unverified DIY transducers/amps.",
+    "DIY transducers/amps (Dayton BST-1, DTA-120, BST-300EX, ButtKicker LFE, Nobsound/Fosi/Lepai) are named text-only with Amazon search links — no verified images exist for any of them.",
+    "Confirm ButtKicker Gamer PRO price to standardize on ($349.95 official vs ~$200 on-site spec card)."
+  ],
+  "notes": "Curator = author (Duke Alvarez). Gold how-to structure applied: verdict-first, 'what a transducer is', amp-you-can't-skip, 'what you need' stack table, SimHub ShakeIt effects, full PC→amp→shaker WIRING table (7 steps incl. the two-audio-output rule), mounting/isolation, forum + tip callouts (original voice), a dedicated warnings section (amp power, impedance, isolation, wiring safety, effect tuning), who-should-skip, verdict, and a dated Sources Checked shelf with real links only. One embedded image (buttkicker-gamer-pro.jpg) is verified; heroImage is the same verified asset. Honest low-density guide — the value is in the tables and setup, not product-card volume. Exactly 2 frontmatter fences. 5 FAQs. npm audit deferred to Codex; astro build checked locally."
+}

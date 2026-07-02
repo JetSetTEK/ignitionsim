@@ -1,0 +1,22 @@
+{
+  "slug": "moza-r5-review-2026",
+  "articleFile": "src/content/articles/racing/moza-r5-review-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "PRICES ARE MOVING TARGETS (certification-critical): every number is sale-dependent during MOZA's Mid-Year Sale (~Jun 16 - Jul 15, 2026). R5 ~$399 bundle, R9 V3 base seen ~$299-349, R12 ~$429, R3 ~$319-399 — all left as 'check current'. The article's central thesis ('the R9 is now so close in price the R5 is mostly a budget/size call') hinges on the R9-vs-R5 gap holding. Re-verify at cert time; if the R9 sale lapses, the verdict softens back toward the R5.",
+    "R9 VERSION MISMATCH: MOZA's US store now lists the base as 'R9 V3', but src/data/products/racing.json still has model 'R9 V2' at price 429. Reconcile the canonical version label and price (article writes 'R9' generically and notes the V3 re-tier) and consider updating racing.json before certifying.",
+    "Cammus C5 is referenced in the 'who should skip the R5' section as the sub-$300 budget alternative but has NO verified product image — it is text + a note to confirm the current listing only. Source a real photo before it can become a body visual.",
+    "Task constraint: run rules explicitly forbid setting goldStatus:certified. Left as 'refresh' by design; the [bay]/[slug] route gates publishing on isCertifiedArticle (goldStatus === 'certified'), so the page will not build/publish until a human certifies after the price re-verification."
+  ],
+  "notes": "Full gold-structure rewrite of an earlier unverified-image draft. Author set to Duke Alvarez (curator=author); goldStatus 'refresh' (NOT certified per run rules); added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster racing. heroImage switched to the VERIFIED /images/gear/racing/moza-r5.jpg (old draft hero /images/racing/moza-r5-review-2026.jpg was UNVERIFIED and was removed). 5 FAQs (added a V2-wheel-compatibility FAQ). Exactly 2 frontmatter fences confirmed. All 10 embedded image occurrences (5 distinct paths: moza-r5, moza-r9, moza-r12, moza-r3-xbox-bundle, moza-crp2) are in verified-product-images.json — validated programmatically; ZERO unverified images embedded. `npx astro build` completes clean (166 pages, no errors), confirming the frontmatter parses. Structure: verdict-first bold opening, verified shotgrid (R5/R9/R12/R3), R5-vs-R9-vs-R12 comparison table, forum callout (original paraphrase), pro-tips, setup-tax + buy-order sections, 'What to buy' two-pick stack (R5 on a budget / R9 if you can stretch), dated Sources Checked shelf with 9 real retrieved links. MATERIAL RESEARCH CORRECTIONS baked in: (1) price corrected from the draft's stale '~$440 bundle' to ~$399 US; (2) REMOVED the draft's fabricated 'uncommon mounting pattern doesn't line up' catch — PCPer hands-on confirms the standard 4-hole M6 pattern lines up with no drilling and a dual desk clamp is included; (3) surfaced the 2026 R9 V3 re-tier/price cut as the article's central update, reframing the verdict; (4) added the accurate weak-link framing (SR-P Lite spring brake / ES spring paddles / ~$29 performance kit) and the wired-slip-ring V2-wheel detail. candidateForCertification=false because the sale-dependent prices and the R9 version/price reconciliation need a human check-current pass, not because of any structural gap."
+}

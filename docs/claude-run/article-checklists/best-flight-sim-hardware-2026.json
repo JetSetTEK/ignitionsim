@@ -1,0 +1,25 @@
+{
+  "slug": "best-flight-sim-hardware-2026",
+  "articleFile": "src/content/articles/flight/best-flight-sim-hardware-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "heroImageFixed": true,
+  "heroImage": "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+  "visualCount": 16,
+  "distinctVerifiedImagesUsed": 9,
+  "realProductImageCount": 16,
+  "textOnlyProductCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "10 body-referenced products have NO verified product image and are TEXT-ONLY with Amazon links: HOTAS Warthog, MOZA AY210, Logitech G PRO Yoke, Logitech G Flight Pedals, VKB T-Rudder Mk.IV, Turtle Beach VelocityOne Rudder Pedals, WinWing MCDU, WinWing PFP 3N, WinWing PAP 3, WinWing FCU+EFIS. Several are the named 'best' pick for their rung (Warthog = combat, PAP 3 = best panel), so the piece is not certification-ready until those photos are sourced and verified.",
+    "Confirm exact current U.S. HOTAS Warthog MSRP ($579.99 vs $599.99) before quoting a single number (left as ~$580-600 / check current).",
+    "Confirm current WinWing MCDU/PFP base variant pricing (variants above the ~$130 entry)."
+  ],
+  "notes": "REWRITE PASS 2026-07-02. Fixed the interrupted prior attempt's UNVERIFIED hero: heroImage was /images/flight/best-flight-sim-hardware-2026.jpg (generic editorial cover, NOT in verified-product-images.json) -> now the verified /images/gear/flight/honeycomb-alpha-yoke.jpg (buy-first GA pick), heroAlt updated to match. Also corrected prices: Honeycomb Alpha ~$250->~$300, Bravo ~$280->~$300, Charlie ~$270->~$350 (official MSRP verified at flyhoneycomb.com), Tobii ~$339->~$299 direct/$369 Amazon; added 'check current' flags where a price moved. Curator=author (Mac Donovan), contentCluster flight, revenueTier A. Structure: verdict-first (buy the control matching your airplane, first) + explicit buy-order ladder (yoke/stick -> throttle -> rudder -> panels -> head tracking) as the section spine (Rung 1-5). Verified shotgrid (4 images), 16 total verified image embeds across shotgrid + gearpicks + 'What to buy' (9 distinct verified products), comparison table (17 rows), original forum + pro-tip callouts, USB-hub/desk-mount/Airbus-vs-Boeing/calibration warnings, buy order restated, 'What to buy' stack, dated 'Sources Checked' shelf with real links, 6 FAQs. Every embedded /images/gear/ path is in verified-product-images.json (0 non-verified embeds); hero is verified. Exactly 2 frontmatter fences, 0 stray code fences. goldStatus left as 'refresh' per run rules; do NOT certify -- candidateForCertification=false because the combat rung's named 'best' (Warthog) and several key picks (WinWing PAP 3, MOZA AY210) are text-only pending verified photos."
+}

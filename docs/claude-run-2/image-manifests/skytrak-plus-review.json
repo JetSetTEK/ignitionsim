@@ -1,0 +1,79 @@
+{
+  "slug": "skytrak-plus-review",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a subscription-averse home-bay buyer understand the 2026 reality before they buy: the SkyTrak+ is a discontinued closeout, the ST MAX is the live unit, and SkyTrak dropped official GSPro/E6 support for new buyers. Real launch-monitor product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Uneekor EYE XO2 (overhead flagship)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://uneekor.com/products/eye-xo2",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced only in passing as the overhead alternative with native GSPro/E6/TGC support (no software-policy asterisk). Currently text-only + Amazon search link because no verified image exists. Source a real photo before it can appear as a gearpick/shotgrid or before certification if the shortlist should show it."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/skytrak-st-max.jpg",
+    "/images/gear/golf/skytrak-og-launch-monitor.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/foresight-gc3.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg",
+    "/images/gear/golf/flightscope-mevo-gen2.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-closeout-truth",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim gold-lit home golf simulator bay at dusk, a photometric launch monitor sitting beside a teed ball on a premium hitting mat, an open product-overlay footprint left clear beside the ball for a real SkyTrak+ product image, impact screen softly glowing in the background, curator Nina Brooks standing to the side reviewing numbers on a tablet, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped hardware, unreadable tiny text, procedural gradient art, impossible room geometry"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "skytrak-membership-ladder-2026",
+      "title": "SkyTrak membership tiers (2026)",
+      "format": "1600x1000",
+      "content": [
+        "Basic FREE - driving range, PinSeeker, shot recording",
+        "Essential ~$129.99/yr - bag mapping, skills, practice",
+        "Core Foresight ~$299.99/yr - Course Play, 30+ courses",
+        "Core Trackman ~$349.99/yr - Course Play, 30+ courses",
+        "Elite ~$599.99/yr - both libraries, 69+ courses"
+      ],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens-and-gold palette, real SkyTrak product photo as the header marker for Codex overlay"
+    },
+    {
+      "id": "skytrak-plus-vs-st-max",
+      "title": "SkyTrak+ vs ST MAX: what actually differs",
+      "format": "1600x1000",
+      "content": [
+        "Accuracy: IDENTICAL (same camera + dual radar)",
+        "Shot delay: ~1-2s (same generation)",
+        "Hitting zone: same ~40% larger (came with the +, not MAX)",
+        "ST MAX only: faster processor, dual USB-C, GOLFTEC speed training",
+        "Price: SkyTrak+ ~$1,795-1,995 closeout vs ST MAX ~$2,995",
+        "Status: SkyTrak+ discontinued / ST MAX in production"
+      ],
+      "style": "Two-column comparison card, product-photo placeholders for Codex overlays (skytrak-plus.jpg left, skytrak-st-max.jpg right)"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-software-caveat",
+      "prompt": "Realistic adult golf gear curator Nina Brooks in a tidy home simulator bay, one hand gesturing toward a laptop showing a generic simulator connection screen (no real branded UI), thoughtful cautionary energy as if explaining a caveat, product-overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Does any retailer still enable a NATIVE GSPro/E6 connection on a NEW SkyTrak+ or ST MAX unit in 2026, or is it Course Play only for new buyers? This is the certification-critical open item.",
+    "Confirm the exact SkyTrak+ closeout floor (seen $1,795 and $1,995 across retailers).",
+    "Re-verify the 2026 membership prices (Basic/Essential/Core Foresight/Core Trackman/Elite) at cert time in case SkyTrak re-tiers.",
+    "Do we want to source a real Uneekor EYE XO2 photo to promote it from text-only to a body visual as the no-asterisk overhead alternative?"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "golf-simulator-cost",
+  "articleFile": "src/content/articles/golf/golf-simulator-cost.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 22,
+  "realProductImageCount": 22,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Uneekor EYE XO2 and Foresight Falcon are referenced in the premium/luxury tiers but their on-disk images are NOT in verified-product-images.json, so both are text-only. Add them to the verified list (after vision verification) before they can become body visuals.",
+    "Prices for Uneekor EYE XO2 ($8,800-$14,000), SIG10 promo ($1,999-$2,499), and Bushnell Gold TCO are left as ranges; confirm exact current figures before certifying."
+  ],
+  "notes": "Rewritten from Robert Pruitt to curator Nina Brooks (matches golf cluster + bay). Verdict-first with the honest all-in number by tier. Three tiers (budget $2-5K, mid $7-12K, premium $15-30K+) each with a build TABLE and budget targets, an all-in summary table, verified shotgrids (2, 4+ figures each), 9 gearpick asides (all VERIFIED images only), forum + pro-tip callouts (original paraphrase), a dedicated Hidden Costs section with table, a buy order, and a What To Buy stack. 22 total img src refs across 12 distinct VERIFIED product photos; hero switched to verified /images/gear/golf/skytrak-plus.jpg (old /images/golf/golf-simulator-cost.jpg was NOT in the verified list). Dated Sources Checked shelf with 8 real links. Two frontmatter fences confirmed. goldStatus left as 'refresh' per run rules (NOT certified). Left non-certified pending the two overhead-unit images and the price-range confirmations."
+}

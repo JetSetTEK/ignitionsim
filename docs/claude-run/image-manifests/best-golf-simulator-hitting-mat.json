@@ -1,0 +1,71 @@
+{
+  "slug": "best-golf-simulator-hitting-mat",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "B",
+  "visualGoal": "Make a buyer treat the mat as safety gear, not a checkout rounding error, and steer them to the right joint-forgiving or realism pick for their floor. Real hitting-mat, landing-turf, and netting product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "TrueStrike Gel Golf Mat",
+      "preferredLocalPath": "/images/gear/golf/truestrike-golf-mat.jpg",
+      "officialSourceUrl": "https://pluggedingolf.com/truestrike-golf-mat-review/",
+      "amazonUrl": "https://www.amazon.com/s?k=TrueStrike+golf+mat&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Realism-ceiling gel divot mat, intentionally text-only (gearpick carries no image) because no verified photo. Source real product photography before featuring it as a body visual; price left as check-current."
+    },
+    {
+      "product": "Carl's HotShot Mat System",
+      "preferredLocalPath": "/images/gear/golf/carls-hotshot-mat.jpg",
+      "officialSourceUrl": "https://shop.carlofet.com/carls-hotshot-golf-mat-system",
+      "amazonUrl": "https://www.amazon.com/s?k=Carls+Place+HotShot+golf+hitting+mat&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Modular base + 3 swappable strips (Standard/Foam Divot/Gel Divot), text-only gearpick until real photo sourced. Confirm current base + per-strip pricing."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg",
+    "/images/gear/golf/sig-landing-pad-turf.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-mat-impact",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dark cinematic golf simulator bay, a clubhead striking a golf ball off a premium fairway-green hitting mat with a faint spark of impact, warm gold rim light on deep green walls, open product-overlay space beside the mat for a real hitting-mat product, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/fiberbuilt-studio-mat.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, warped clubhead, impossible geometry, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "mat-picker-joints-vs-realism",
+      "title": "Which mat: joints or realism?",
+      "format": "1600x1000",
+      "content": ["Joints first: Fiberbuilt (~95% shock) or SIGPRO Softy (softest, swappable strip)", "Realism value: Country Club Elite (~$479-$600, real divot feel)", "Realism ceiling: TrueStrike gel (premium)", "Avoid: sub-$150 foam pad on a hard floor"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/golds, real mat photos as row markers for Codex overlay"
+    },
+    {
+      "id": "mat-height-vs-launch-monitor",
+      "title": "Mat height vs your launch monitor",
+      "format": "1600x1000",
+      "content": ["SIGPRO Softy ~2.5 in; Fiberbuilt/CCE ~1.75 in", "Tall mat raises ball above sensor reference plane", "Tall mat on bare slab raises ball above your feet = distorted club path", "Measure the FINISHED floor: subfloor + turf + mat, stand level"],
+      "style": "Side-elevation diagram with measurement callouts, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-mat-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks kneeling beside a premium hitting mat in a clean home simulator bay, one hand on the turf, confident equipment-expert energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source verified product photography for TrueStrike and Carl's HotShot so they can move from text-only gearpicks to body visuals?",
+    "Confirm current TrueStrike US pricing and Carl's HotShot base + per-strip pricing (both left as check-current)?",
+    "Confirm CCE 4x5 price (often near $599) and SIGPRO Softy 4x10 upcharge before tightening price language?"
+  ]
+}

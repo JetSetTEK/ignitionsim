@@ -1,0 +1,82 @@
+{
+  "slug": "best-ffb-settings-iracing-acc-lmu-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "articleType": "settings how-to (naturally low product-density)",
+  "visualGoal": "Teach a direct-drive owner to kill clipping and tune per-sim confidently. Visual/structural richness comes primarily from settings TABLES, tip/forum callouts and per-sim guidance — NOT a forced product roundup. Product photos appear ONLY for the verified wheelbases the settings genuinely target (MOZA Pit House, Simucube), used as gearpick asides.",
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/gear/racing/moza-r12.jpg",
+    "verified": true,
+    "note": "No dedicated FFB scene photo exists as a verified asset. Hero uses the verified MOZA R12 (Pit House) base — a primary target of the iRacing/LMU settings in the guide, so on-topic rather than decorative. The old frontmatter pointed at /images/racing/best-ffb-settings-iracing-acc-lmu-2026.jpg which is NOT in verified-product-images.json and was removed."
+  },
+  "realProductPhotosNeeded": [
+    {
+      "product": "Fanatec ClubSport DD+ (referenced as an 18Nm example)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/cs_dd+_us/clubsport-dd-plus-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+ClubSport+DD+wheel+base&tag=ignitionsim-20",
+      "status": "verified-available-not-embedded",
+      "notes": "This image IS verified (.webp). Not embedded as a gearpick because the guide targets MOZA Pit House and Simucube examples directly; Fanatec's LMU filter advice (NDP/INT/FEI) is text-only. Could be added as an optional gearpick or shotgrid tile later without a download."
+    },
+    {
+      "product": "Simagic Alpha Evo Pro (referenced as an 18Nm example)",
+      "preferredLocalPath": "/images/gear/racing/simagic-evo-pro.jpg",
+      "officialSourceUrl": "https://simagic.com/pages/alpha-evo",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro+wheelbase&tag=ignitionsim-20",
+      "status": "verified-available-not-embedded",
+      "notes": "Verified image exists. Left text-only to avoid forcing product density on a settings how-to. Available for a future shotgrid of target bases."
+    }
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-clipping-meter",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing cockpit at amber rim light, hands on a carbon GT wheel, a large on-screen force-feedback meter visible in the corner with the bar hovering just below the red clip zone (dynamic, not maxed), real direct-drive wheelbase product overlay at the mount, no fake logos, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, warped controls, unreadable tiny text, procedural gradient art, impossible ergonomics",
+      "status": "needs-generate",
+      "notes": "Optional editorial upgrade for the hero. Non-blocking — guide is carried by tables + gearpicks. Until generated, hero stays on the verified moza-r12.jpg."
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "clipping-explainer",
+      "title": "What clipping looks like on the meter",
+      "format": "1600x1000",
+      "content": ["Clean signal: peaks breathe below the red", "Clipping: peaks flatten to one dead wall", "Fix: lower gain 5% until only real impacts hit red"],
+      "style": "IgnitionSim command-center chart, large readable text, red clip zone highlighted"
+    },
+    {
+      "id": "per-sim-ceiling-map",
+      "title": "Set the ceiling to your real Nm",
+      "format": "1600x1000",
+      "content": ["iRacing: Wheel Force = base Nm", "LMU: Steering Torque Capability = base Nm", "ACC: no ceiling — tune Gain to clip line", "Never inflate above hardware Nm"],
+      "style": "Three-column per-sim card layout, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-clip-meter-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez pointing at a force-feedback meter on screen, confident mechanic energy, clean garage cockpit bay, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene",
+      "status": "optional"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "iRacing FFB force meter screenshot (clean vs clipping)",
+      "status": "needs-capture-or-license",
+      "notes": "Would strengthen the clipping explainer. Must be a properly licensed/owned capture, not scraped. Non-blocking."
+    }
+  ],
+  "openQuestions": [
+    "Do we want an optional 4-tile shotgrid of the verified target bases (moza-r12, fanatec-clubsport-dd-plus, simagic-evo-pro, simucube-2-sport) at the top, or keep density deliberately low as a settings how-to?",
+    "Confirm iRacing native 360Hz MOZA build number for a precise citation (guide currently says 'recent builds')."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "low-ceiling-golf-simulator",
+  "articleFile": "src/content/articles/golf/low-ceiling-golf-simulator.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 19,
+  "realProductImageCount": 19,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Confirm a current BenQ AH700ST street price before certifying — body intentionally left as 'value BenQ golf tier — verify live pricing'.",
+    "Uneekor EYE XO2 pricing is deliberately 'check current' (retailer listings ranged ~$8,999 to ~$14,000). Not a hard number in body, so low-risk, but verify before quoting any figure elsewhere.",
+    "Confirm current Garmin R50 (~$4,999) and Bushnell Launch Pro Circle B (~$2,499.99) prices are still live at publish time; both verified 2026-07-02 but golf pricing shifts fast."
+  ],
+  "notes": "Full gold-structure rewrite. Author changed to Nina Brooks; goldStatus left as 'refresh' (NOT certified). Added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier A, contentCluster golf; hero image switched to the VERIFIED /images/gear/golf/skytrak-plus.jpg (old hero /images/golf/low-ceiling-golf-simulator.jpg was an unverified editorial JPG). 5 FAQs, related[] has 4 entries. Verdict-first bold opening; ceiling-height reality-map table; side-of-ball-vs-overhead-vs-radar sensor decision; forum + two pro-tip callouts (original paraphrase); short-throw vs ultra-short-throw projector section with mandatory floor-enclosure setup-tax warning; buy order; 'What to buy' stack; dated Sources Checked shelf with 8 real retrieved links. 19 embedded <img> visual instances, ALL 9 unique gear images verified against verified-product-images.json, and every /golf/gear/<id> review link resolves to a product with a verified image (gear page exists). Overhead units (Uneekor EYE XO2, Foresight Falcon) are text + Amazon-search links only — correct, because they are the units to AVOID in a low ceiling, so their lack of a verified photo is not a shortfall. Removed the original file's broken /racing/configurator link. Exactly 2 frontmatter fences. `npx astro build` passes clean (166 pages). needsCodexGraphics true because the image manifest proposes a hero composite, 3 infographics, and a curator scene as upgrades — none block certification; the article stands on its 19 verified product visuals today. realProductImageCount counts embedded <img> instances (all verified product photos)."
+}

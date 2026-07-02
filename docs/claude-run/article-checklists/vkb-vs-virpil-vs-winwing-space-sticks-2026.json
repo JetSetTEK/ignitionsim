@@ -1,0 +1,38 @@
+{
+  "slug": "vkb-vs-virpil-vs-winwing-space-sticks-2026",
+  "articleFile": "src/content/articles/space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "curator": "Val Chen",
+  "visualCount": 12,
+  "verifiedImagesUsed": 6,
+  "textOnlyProducts": 4,
+  "realProductImageCount": 12,
+  "unverifiedImagesRemoved": true,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "buildChecked": true,
+  "structure": {
+    "verdictFirst": true,
+    "threeBrandComparisonTable": true,
+    "verifiedShotgrid": true,
+    "gearpickAsides": 8,
+    "forumOrTipCallouts": 3,
+    "warningCallouts": 3,
+    "buyOrder": true,
+    "whatToBuyStack": true,
+    "datedSourcesChecked": true
+  },
+  "blockers": [
+    "WinWing is a headline brand (in the title) but carries ZERO verified product images — the Ursa Minor Space, Orion 2 base, and Orion 2 HOTAS are all text-only. Source + vision-verify a real WinWing Ursa Minor Space photo before this brand can appear as a shotgrid/gearpick or before full certification parity.",
+    "Virpil Constellation ALPHA grip (the brand's signature HOSAS grip) has no verified photo; body anchors the Virpil visual on the verified WarBRD-D base and keeps the ALPHA grip text-only. Source a real ALPHA photo to strengthen the Virpil section.",
+    "Confirm current VKB Space Combat Edition and WinWing Ursa Minor Space US street prices (left as approximate ~$ ranges given boutique wave pricing)."
+  ],
+  "notes": "Priority rescue of a media-demoted comparison. All 6 embedded images (across 4 shotgrid figures + 8 gearpicks = 12 visual placements; MCG Pro linked but not embedded) are verified product photos from src/data/verified-product-images.json; the hero reuses the verified VKB Gladiator Space Combat Edition image (VKB is the verdict winner). Every previously-embedded UNVERIFIED image was removed: the Virpil Constellation ALPHA grip and ALL WinWing hardware are now text-only with Amazon-search + official links, and the article carries an explicit 'honest photo gap' note plus a 'where to see WinWing before you buy' callout — the small verified space set is acknowledged in-text rather than papered over. Curator=author (Val Chen). Verdict-first, three-brand table with a Stock-reality column, three warning callouts (stock scarcity, software curve, mounting), buy order, HOSAS starter stack, dated Sources Checked shelf. goldStatus left as refresh per run rules; certification-ready pending verified WinWing/Virpil-ALPHA photos and the price confirmations. Build verified with `npx astro build` (166 pages, no errors); temporarily flipping to certified confirmed the page renders cleanly, then reverted to refresh."
+}

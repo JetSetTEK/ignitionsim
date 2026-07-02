@@ -1,0 +1,20 @@
+{
+  "slug": "golf-simulator-impact-screen-enclosure",
+  "articleFile": "src/content/articles/golf/golf-simulator-impact-screen-enclosure.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 11,
+  "realProductImageCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Prices for Carl's DIY kit and SIG10 are promo/screen-tier dependent and were left as ranges + 'check current' — confirm exact figures before hard-quoting.",
+    "sig10-enclosure product JSON describes 'steel-pipe framing' while the current retailer page lists 'color-coded push-pin poles'; article follows the live page. Reconcile the JSON in a future data pass (no image or article change required)."
+  ],
+  "notes": "Upgraded from Robert Pruitt gear-explainer to Nina Brooks gold-candidate. Verdict-first (DIY vs premium by room/budget), DIY-vs-premium comparison table, verified shotgrids, 8 gearpick asides (all VERIFIED images: Carl's DIY, SIG10, SIGPRO Premium, side netting, landing turf, Optoma, BenQ LK936ST + a 3-mat shotgrid), forum + pro-tip callouts (original), bounceback/tension/air-gap/aspect-ratio warnings, buy order, What-to-buy stack, dated Sources Checked with 9 real links. Frontmatter: author Nina Brooks, goldStatus refresh, sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster golf, 5 FAQs, 4 related. Hero left as existing verified on-disk topic image (hero band untouched). 11 embedded images total: 1 hero (verified on disk) + 10 verified /images/gear/golf product photos. ZERO text-only/needs-download products. Left as refresh per run rules; certification-ready pending price confirmations. astro build checked."
+}

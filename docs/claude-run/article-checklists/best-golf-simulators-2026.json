@@ -1,0 +1,21 @@
+{
+  "slug": "best-golf-simulators-2026",
+  "articleFile": "src/content/articles/golf/best-golf-simulators-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 22,
+  "realProductImageCount": 22,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Two embedded body images are NOT in verified-product-images.json: skytrak-st-max.jpg (hero + multiple gearpicks) and sigpro-premium-impact-screen.jpg. Vision-verify both and add to the verified list before certifying, or they violate the real-image standard.",
+    "Uneekor EYE XO2 and Foresight Falcon are text-only in the overhead aside — no verified product image.",
+    "Confirm current SIG10 promo price and whether GSPro is bundled in Bushnell Gold before certifying (prices left as ranges); Sources Checked shelf reuses the same Garmin URL for R10 and R50 — verify R50 page/price."
+  ],
+  "notes": "Verdict-first with three complete builds by budget, 2.5x-rule section, budget tables per build, forum callout, warning callouts, buy order, dated Sources Checked shelf, 5 FAQs. Curator=author (Nina Brooks). 22 embedded product images; 20 map to verified-product-images.json, 2 (skytrak-st-max, sigpro-premium-impact-screen) do not and must be verified/added. Left as refresh per run rules; certification-ready once those 2 files are verified and the price confirmations land."
+}

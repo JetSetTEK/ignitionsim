@@ -1,0 +1,23 @@
+{
+  "slug": "force-feedback-yoke-worth-it",
+  "articleFile": "src/content/articles/flight/force-feedback-yoke-worth-it.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 2,
+  "realProductImageCount": 1,
+  "textOnlyProducts": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "unverifiedImageRemoved": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+  "blockers": [
+    "MOZA AY210 — the article's headline product — has NO verified studio photo (the file on disk is not in verified-product-images.json), so it is text-only and cannot appear as a body visual. This is the primary reason candidateForCertification is false: a gold-certified FFB explainer should show the hardware it centers on.",
+    "Brunner CLS-E and VPForce Rhino are text-only (no verified photos, no gear pages) — acceptable for the low-density angle, but they cannot become body visuals until sourced.",
+    "No gear page exists for MOZA AY210 link target /flight/gear/moza-ay210-ffb-yoke beyond the product-data entry — confirm the gear route renders before certification."
+  ],
+  "notes": "Author set to Mac Donovan (curator=author). goldStatus left as 'refresh' (NOT certified) per run rules and because the headline product is imageless. Verdict-first opening; 'What force feedback actually adds' section; 'The real options in 2026' (MOZA AY210 / Brunner / VPForce Rhino + widening field); FFB-vs-non-FFB comparison table; forum + before-you-buy warning callouts (original, in our voice); dated Sources Checked shelf with real WebSearch/WebFetch links. HARD IMAGE RULE honored: the ONLY embedded image is the verified Honeycomb Alpha (used as both heroImage and the single body figure/gearpick, non-FFB baseline); the previously-embedded unverified MOZA AY210 image was removed and demoted to text + Amazon search + manifest needs-download. visualCount=2 = 1 hero + 1 body figure (same verified asset), realProductImageCount=1 distinct verified asset, 3 text-only FFB products. Low product density is intentional and honest per the angle. 4 FAQs. Frontmatter carries updatedDate + sourceReviewDate 2026-07-02, revenueTier B, contentCluster flight."
+}

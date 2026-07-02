@@ -1,0 +1,20 @@
+{
+  "slug": "radar-vs-photometric-launch-monitor",
+  "articleFile": "src/content/articles/golf/radar-vs-photometric-launch-monitor.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 8,
+  "realProductImageCount": 8,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Uneekor EYE XO2 and Foresight Falcon have image files on disk but are NOT in verified-product-images.json; they are correctly text-only (link + Amazon) in the overhead section. Vision-verify and add to the verified list before they can become body visuals.",
+    "Room-depth figures (18-20 / <15 / ~12 ft) are guidance ranges from buyer guides, presented as ranges in the body — resolve to a single authoritative spec only if certification requires it."
+  ],
+  "notes": "All 8 embedded images (shotgrid of 4 + 4 gearpicks: Garmin R10 radar, SkyTrak+ photometric, Bushnell Launch Pro photometric, Rapsodo MLM2PRO fusion) are verified product photos. Curator=author (Nina Brooks). Verdict-first, room-decides-the-tech section, four-column comparison table, radar/photometric/fusion/overhead sections, two camera warnings, forum callout, buy order, verdict, 5 FAQs, dated Sources Checked shelf. Left as refresh per run rules; certification-ready once the two overhead flagships are vision-verified/added (currently and correctly text-only)."
+}

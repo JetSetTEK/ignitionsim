@@ -1,0 +1,22 @@
+{
+  "slug": "skytrak-plus-review",
+  "articleFile": "src/content/articles/golf/skytrak-plus-review.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 18,
+  "realProductImageCount": 18,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "SOFTWARE POLICY (critical): SkyTrak dropped official third-party support (GSPro/E6/TGC 2019) for NEW buyers, moving to proprietary Course Play. Body is hedged 'check current'. Confirm the current policy and whether any retailer still enables a native GSPro connection on a new unit before certifying — this is the load-bearing factual claim of the whole article.",
+    "PRICES ARE MOVING TARGETS: SkyTrak+ closeout price left as a range ($1,795-$1,995) because it's discontinued clearance stock; membership tiers (~$129.99 / ~$299.99 / ~$349.99 / ~$599.99) verified across two sources but SkyTrak re-tiers periodically. Re-verify at cert time.",
+    "Uneekor EYE XO2 is referenced in-body as the overhead alternative but has NO verified product image — it is text + Amazon-search link only. Source a real photo before it can become a body visual or before certifying if the shortlist should show it.",
+    "Task constraint: run rules explicitly forbid setting goldStatus:certified. Left as 'refresh' by design; the [bay]/[slug] route gates publishing on isCertifiedArticle (goldStatus === 'certified'), so the page will not build until certified by a human after the software-policy item is resolved."
+  ],
+  "notes": "Full gold-structure rewrite. Author set to Nina Brooks (curator=author); goldStatus 'refresh' (NOT certified per run rules); added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster golf; heroImage is the VERIFIED /images/gear/golf/skytrak-plus.jpg (old draft's hero /images/golf/skytrak-plus-review.jpg was UNVERIFIED and was removed). 5 FAQs. Exactly 2 frontmatter fences confirmed. All 18 embedded image occurrences (7 distinct paths) are in verified-product-images.json — validated programmatically; zero unverified images embedded. `npx astro build` completes clean (166 pages, no errors); OG + hero assets generated for the slug, confirming frontmatter parses. Angle was materially corrected by research: the SkyTrak+ is now DISCONTINUED (SkyTrak's own site: 'no longer available', closeout ~$1,795-1,995 vs $2,995 list), the ST MAX ($2,995) is the live unit and only a refinement (identical accuracy, same 1-2s shot delay, the ~40% hitting-zone bump actually came with the SkyTrak+ over the original), and SkyTrak dropped official GSPro/E6/TGC support for new buyers. Verdict-first opening, comparison + membership tables, forum + pro-tip callouts (original paraphrase), buy-first ladder, 'What to buy' stack, dated Sources Checked shelf with 7 real retrieved links. Related[] updated to swap the dead-end 'do-you-need-a-gaming-pc' toward 'golf-simulator-cost'. candidateForCertification=false because the software-policy claim needs a human check-current pass, not because of any structural gap."
+}

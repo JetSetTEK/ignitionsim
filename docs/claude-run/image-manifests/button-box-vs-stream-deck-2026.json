@@ -1,0 +1,85 @@
+{
+  "slug": "button-box-vs-stream-deck-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "visualGoal": "Help a screen-vs-VR racer decide which control layer to add. LOW verified-product density is expected and honest: physical button boxes have no verified photos in our library, so the article leans on a decision table + tip callouts rather than forcing gearpick cards. The one verified product proof is the Elgato Stream Deck XL.",
+  "densityHonesty": "Only 1 embeddable image is verified for this topic (Stream Deck XL), and it is the ONLY embedded gear image in the article. MOZA RS V2 is referenced as a text link (not an image) because its photo is not in verified-product-images.json. Button boxes are text + Amazon search until real photos are sourced. Do NOT fabricate or reuse a non-matching photo to inflate the count. candidateForCertification is false.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "RaceBox GT-FLAG button box",
+      "preferredLocalPath": "/images/gear/racing/racebox-gt-flag.jpg",
+      "officialSourceUrl": "https://raceboxsimracing.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=RaceBox+sim+racing+button+box&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Highest-value photo to source: a carbon-fibre budget box with encoders, toggles and an RGB matrix display would let the button-box side get a real gearpick card. Currently text-only."
+    },
+    {
+      "product": "RaceBox GTE button box (integrated 5\" telemetry display, SimHub)",
+      "preferredLocalPath": "/images/gear/racing/racebox-gte.jpg",
+      "officialSourceUrl": "https://raceboxsimracing.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=RaceBox+GTE+button+box&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The box-with-a-screen that blurs the deck/box line; strong visual for the 'want dials AND info' buyer."
+    },
+    {
+      "product": "Generic USB sim-racing button box (encoders + toggles)",
+      "preferredLocalPath": "/images/gear/racing/generic-button-box.jpg",
+      "officialSourceUrl": "",
+      "amazonUrl": "https://www.amazon.com/s?k=sim+racing+button+box+USB&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A neutral, brand-agnostic button box photo would support the category-level comparison without endorsing one small shop."
+    },
+    {
+      "product": "Stream Deck MK.2 (15 keys)",
+      "preferredLocalPath": "/images/gear/space/elgato-stream-deck-mk2.jpg",
+      "officialSourceUrl": "https://www.elgato.com/us/en/p/stream-deck-mk2-black",
+      "amazonUrl": "https://www.amazon.com/s?k=Elgato+Stream+Deck+MK.2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The default recommendation for most racers, but only the XL photo is verified. MK.2 photo would let us show the size most people should actually buy."
+    },
+    {
+      "product": "Stream Deck + (8 keys + 4 dials + touch strip)",
+      "preferredLocalPath": "/images/gear/space/elgato-stream-deck-plus.jpg",
+      "officialSourceUrl": "https://www.elgato.com/us/en/p/stream-deck-plus-black",
+      "amazonUrl": "https://www.amazon.com/s?k=Elgato+Stream+Deck+Plus&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The dials narrow the button-box advantage; a photo would strengthen the 'deck with rotaries' argument."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-controls-fork",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing cockpit desk at amber rim light, a physical button box with real toggle switches and rotary encoders on the left and a Stream Deck panel with glowing labeled LCD keys on the right, a VR headset resting between them to imply the deciding question, carbon-fibre textures, no fake logos, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/elgato-stream-deck-xl.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake brand logos, warped switches, impossible key labels, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "vr-fork-decision",
+      "title": "Button box vs Stream Deck: the decision",
+      "format": "1600x1000",
+      "content": ["Race in VR? -> Button box (find blind)", "Screen + want dials & toggles? -> Button box", "Screen + want macros & telemetry? -> Stream Deck", "Want both dials & labels? -> Stream Deck + / box with screen", "Wheel still has empty buttons? -> Neither yet"],
+      "style": "IgnitionSim command-center flow chart, large readable text, racing colors"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-controls-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez at a cockpit desk, one hand on a physical button box toggle, a Stream Deck glowing nearby, confident mechanic energy, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source at least one real button-box photo (RaceBox GT-FLAG or a generic USB box) so the button-box side earns a gearpick card instead of text-only.",
+    "Confirm Stream Deck + XL real-world availability and US price before treating it as buyable.",
+    "Small-shop button-box prices move often — verify before quoting hard numbers."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "golf-simulator-room-size",
+  "articleFile": "src/content/articles/golf/golf-simulator-room-size.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 17,
+  "realProductImageCount": 17,
+  "distinctRealProductImages": 10,
+  "textOnlyProducts": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Uneekor EYE XO2 and Foresight Falcon (the two overhead units the tall-but-shallow section relies on) have no verified product image — sourced photos needed before they can become body visuals. They are correctly text + Amazon-search only for now."
+  ],
+  "notes": "Verdict-first (min usable vs comfortable room). Room-fit master table (dimension -> what it unlocks) plus a ceiling-height table. 'The room decides the launch monitor' is the spine: shallow=side camera (SkyTrak+), deep=radar (R10), tall-but-shallow=overhead (EYE XO2 text-only) or side-of-tee (R50). Projector section is throw-math driven (throw distance = throw ratio x screen width; 8-14 ft mount window) with GT2100HDR for shallow / LK936ST for deep. 2 shotgrids (6 + 4 figures), 8 gearpick asides, tip/forum/warning callouts, dated Sources Checked with 7 real links. Author=curator Nina Brooks. goldStatus refreshed to 'refresh'; sourceReviewDate + updatedDate set 2026-07-02; revenueTier A; contentCluster golf. Hero verified to exist. 2 fences confirmed; all 10 distinct embedded images verified against src/data/verified-product-images.json (17 refs total). Astro build check pending in run notes.",
+  "faqCount": 5,
+  "sourcesCitedCount": 7,
+  "shotgridCount": 2,
+  "gearpickCount": 8,
+  "tablesCount": 3
+}

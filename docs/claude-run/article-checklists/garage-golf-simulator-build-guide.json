@@ -1,0 +1,21 @@
+{
+  "slug": "garage-golf-simulator-build-guide",
+  "articleFile": "src/content/articles/golf/garage-golf-simulator-build-guide.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 12,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Hero was reassigned to verified /images/gear/golf/carls-place-diy-enclosure.jpg because the on-disk /images/golf/garage-golf-simulator-build-guide.jpg is NOT in verified-product-images.json. A bespoke garage-bay hero requires vision-verification + adding to the verified list before it can be used.",
+    "The 'high-lift/side-mount garage-door conversion recovers close to a foot' figure is a community/retailer claim, not a hard manufacturer spec; hedged in text, flag before certifying.",
+    "SkyTrak+ price left as a range (~$2,995, frequently near $2,000); confirm current street price before certifying."
+  ],
+  "notes": "Rewritten from Robert Pruitt to curator Nina Brooks (matches golf cluster + revenueTier A). Verdict-first bold statement up top. Structure: 6-figure opening shotgrid (all VERIFIED), Step 1 measure-first with the three-numbers TABLE + broomstick pro-tip callout, Step 2 depth-picks-sensor with R10 (deep-bay) and SkyTrak+ (shallow-bay) gearpicks, Step 3 enclosure/screen safety with Carl's Place + SIGPRO netting gearpicks, Step 4 projector/mat with Optoma + Country Club Elite gearpicks, a full garage PARTS-LIST TABLE with 2026 budget targets + SIG landing-turf gearpick, garage-specific gotchas (cold/slope/parking/lighting) + forum callout, power/PC/software, who-should-skip, 7-step buy order, What-to-buy stack (4 gearpicks), and a dated Sources Checked shelf with 7 real links. 12 total img src refs across 7 distinct VERIFIED product photos (garmin-approach-r10, skytrak-plus, carls-place-diy-enclosure, optoma-gt2100hdr, country-club-elite-mat, sigpro-side-barrier-netting, sig-landing-pad-turf). ALL embedded images confirmed present in verified-product-images.json; the prior unverified /images/golf/ hero and any unverified body images were removed. Two frontmatter fences confirmed. goldStatus left as 'refresh' per run rules (NOT certified); candidateForCertification=false pending the hero-image + door-conversion + price confirmations above. Frontmatter adds sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier A, contentCluster golf, 4 FAQs, related[]. Research verified via WebSearch/WebFetch: R10 6-8 ft behind ball + ~15 ft length + 14F operate floor (Garmin), garage ceiling 9-10 ft (PlayBetter/My Garage Golf), slab slope ~1 in/8 ft (Golf Simulator Forum), Optoma 0.496:1 throw (product JSON/Optoma)."
+}

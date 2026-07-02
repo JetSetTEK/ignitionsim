@@ -1,0 +1,78 @@
+{
+  "slug": "best-sailing-sim-setup-2026",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Convince a would-be sailing simmer that the smart 2026 setup is software + a second monitor, not a wheel — with the one genuinely transformative hardware purchase (Quest 3 / MarineVerse) shown as real product proof. Honest niche guide; no fabricated hardware imagery.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G29 Driving Force (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Image file exists on disk BUT is NOT in verified-product-images.json, so it was REMOVED from the article body per the hard image rule. G29 is currently text + internal-link only. A verified/licensed real photo is required before it can return as a body gearpick."
+    },
+    {
+      "product": "Logitech Saitek Pro Flight Throttle Quadrant (as engine telegraph)",
+      "preferredLocalPath": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Image file exists on disk but not in verified-product-images.json. Mentioned only in passing as a motoring option; kept text+link only. Low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/marine/best-sailing-sim-setup-2026.jpg",
+    "status": "present-on-disk",
+    "notes": "Bay-level editorial hero (not a gear product image), matching every sibling marine gold article's /images/marine/<slug>.jpg pattern. Not tracked by the gear-only verified-product-images manifest. File confirmed on disk."
+  },
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-screens-not-steering",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic evening desk sailing-sim setup: a main monitor showing an open-water yacht view at dusk, a second monitor beside it showing a nautical chart and tide table, a plain gamepad resting on the desk, curator Gus Calder relaxed in the chair studying the chart screen, deep teal ocean palette, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": [],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake sim UI text, warped hardware, giant unreadable overlays, procedural gradient art, a prominent steering wheel (the guide argues AGAINST one)"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "where-the-money-goes",
+      "title": "Sailing rig: where the money should go",
+      "format": "1600x1000",
+      "content": ["Sim (~$15-30)", "Second monitor for charts", "Bigger main display", "Wheel = optional, FFB wasted", "VR = immersion only, not capability"],
+      "style": "IgnitionSim command-center chart, deep teal marine palette, large readable text, real Quest 3 photo as the VR row marker for Codex overlay"
+    },
+    {
+      "id": "sailing-sim-picker",
+      "title": "Which sailing sim?",
+      "format": "1600x1000",
+      "content": ["eSail V3 -> learn (tides, trim, mooring)", "Sailaway III -> roam (real global weather)", "MarineVerse -> VR immersion + NauticEd"],
+      "style": "Three-column decision card, deep teal, official title framing, no fabricated screenshots"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-second-monitor-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a two-monitor sailing-sim desk, one hand pointing at the chart/tide screen on the second monitor, calm and honest teacher energy, practical not fantasy, deep teal marine palette, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "title": "eSail V3 Trade Islands tidal clearance under a bridge",
+      "status": "needs-official-media",
+      "notes": "If used, source from the official eSail V3 launch page / Steam media only, labeled as developer media — do NOT fabricate a screenshot."
+    }
+  ],
+  "openQuestions": [
+    "Source a licensed real Logitech G29 photo so it can rejoin the body as a gearpick, or leave text-only permanently?",
+    "Do we want an official eSail V3 tidal-area screenshot (developer media) as a second body visual, or keep the guide software-light on imagery?",
+    "Confirm current MarineVerse Sailing Pass price before ever quoting the monthly figure in-body."
+  ]
+}

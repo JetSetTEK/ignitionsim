@@ -1,0 +1,20 @@
+{
+  "slug": "head-tracking-trackir-vs-tobii-msfs",
+  "articleFile": "src/content/articles/flight/head-tracking-trackir-vs-tobii-msfs.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 6,
+  "realProductImageCount": 6,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Two-product comparison: only 2 distinct verified units across 6 embedded images, below the 8+ verified-image bar for certification. Not a content defect — a head-to-head has fewer products by nature. Add Codex infographics (mechanism diagram, at-a-glance card) if certification is desired.",
+    "Both 2026 prices (~$174 TrackIR, ~$339 / ~$289 refurb Tobii) are street estimates that move with sales — the body flags them as 'around'; re-confirm at certification time."
+  ],
+  "notes": "All 6 embedded images are verified product photos (naturalpoint-trackir-5, tobii-eye-tracker-5). Curator=author (Mac Donovan). Verdict-first, how-each-works mechanism section, at-a-glance table, per-unit deep sections, forum callout on the two recurring gripes, warnings list, head-tracking-vs-VR context, buy order, what-to-buy, 5 FAQs, dated Sources Checked shelf (official/retail + community). candidateForCertification=false only because a two-unit comparison carries 6 verified images (< 8 bar); content quality is otherwise gold-ready. Left as refresh per run rules."
+}

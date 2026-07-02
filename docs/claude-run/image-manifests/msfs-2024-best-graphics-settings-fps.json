@@ -1,0 +1,99 @@
+{
+  "slug": "msfs-2024-best-graphics-settings-fps",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "articleType": "settings how-to (essentially zero product-density; NO relevant sim-hardware products exist for a graphics/FPS guide)",
+  "visualGoal": "Teach an MSFS 2024 pilot which settings to turn down and how to stop stutter. Visual/structural richness comes ENTIRELY from settings TABLES, a ranked FPS-killer chart, and tip/forum/warning callouts — NOT from product cards. This is the honest low-density flight analogue of the racing FFB-settings how-to: forcing product photos here would be off-topic and is explicitly not done. The ONLY images this page should carry are Codex-produced infographics.",
+  "verifiedProductPhotosUsed": [],
+  "heroImage": {
+    "path": "/images/flight/msfs-2024-best-graphics-settings-fps.jpg",
+    "verified": false,
+    "isProductPhoto": false,
+    "note": "Existing site scene-art hero (night flight-sim battlestation), RETAINED. It is NOT in verified-product-images.json because that file is a gear-product allowlist, not a scene-art allowlist; the hero is existing editorial art, not a product photo. Per run rules — 'keep the existing hero if no relevant verified image exists' — it stays. There is no verified product image relevant to a graphics/FPS settings guide."
+  },
+  "realProductPhotosNeeded": [],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-settings-menu-scene",
+      "type": "AI scene (optional hero upgrade, non-blocking)",
+      "prompt": "Realistic night flight-sim battlestation, pilot silhouette at an ultrawide monitor showing a blurred MSFS-style graphics settings menu with sliders, an FPS overlay glowing in the corner just below a stutter threshold, cyan/amber rim light, no readable fake brand text, no fake UI copy, 16:9 editorial cover.",
+      "labelRequired": "AI scene",
+      "status": "optional-non-blocking",
+      "notes": "Existing hero is fine. Only generate if a stronger settings-themed cover is wanted; do not embed any fake product hardware."
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "fps-killers-ranked",
+      "title": "The biggest FPS killers, ranked",
+      "format": "1600x1000",
+      "content": [
+        "1 Terrain LOD  ~-36% at max",
+        "2 Trees  up to ~34% Low to Ultra",
+        "3 Volumetric Clouds  ~22% GPU-limited",
+        "4 AI Traffic  ~10-15% (CPU)",
+        "5 Object LOD  ~14% at min",
+        "6 Raytraced Shadows  ~8-12%",
+        "7 Fauna  micro-stutter bug (turn OFF)",
+        "Cheap-and-free tail: Glass Cockpit, Shadow Maps, Anisotropic 16x, Light Shafts, Ambient Occlusion"
+      ],
+      "style": "IgnitionSim command-center horizontal bar chart, descending FPS-cost bars, large readable text, red for the top killers fading to green for the free tail, footer caption 'Community-reported ranges — verify on your rig'",
+      "priority": "PRIMARY infographic — this is the visual centerpiece the page leans on instead of product cards"
+    },
+    {
+      "id": "settings-by-gpu-tier",
+      "title": "Recommended MSFS 2024 settings by GPU tier",
+      "format": "1600x1000",
+      "content": [
+        "Balanced (RTX 3060-4060, 8-12GB): TLOD 100, Clouds High, Trees High, RT Shadows Off, Traffic Low, DLSS Quality, 60fps@1080p / 40@1440p",
+        "Quality (RTX 4070-Ti Super, 12GB): TLOD 150, Clouds High, Trees High, RT Shadows Off, Traffic Low-Med, DLSS Quality, 40@1440p / 30@4K",
+        "Ultra (RTX 4080S/4090, 16GB): TLOD 200, Clouds Ultra, Trees High, RT Shadows On, Traffic Med, DLSS Quality, 40-50@4K"
+      ],
+      "style": "Three-column card layout, one GPU-tier per column, IgnitionSim colors, large readable spec rows, footer 'Starting points — benchmark and trim'"
+    },
+    {
+      "id": "cpu-vs-gpu-bound-decision",
+      "title": "CPU-bound or GPU-bound? Read the limiter",
+      "format": "1600x1000",
+      "content": [
+        "Dev FPS overlay reads MainThread -> CPU-bound -> cut Terrain LOD, Object LOD, Traffic (resolution/shadows won't help)",
+        "Reads RenderThread/GPU -> GPU-bound -> cut clouds/shadows, add DLSS, lower render scale",
+        "1080p & 1440p usually GPU-bound; 4K flips CPU-bound (photogrammetry streaming)"
+      ],
+      "style": "Simple decision-flow diagram, two branches, IgnitionSim command-center styling, large readable labels"
+    },
+    {
+      "id": "frame-pacing-stutter-fix",
+      "title": "Stop the stutter: 4 frame-pacing fixes",
+      "format": "1600x1000",
+      "content": [
+        "1 Cap FPS to a number you can hold (30/40/refresh-3)",
+        "2 Windows High Performance power plan",
+        "3 Keep VRAM under ~90% (overflow = single-digit cliff)",
+        "4 Wired Ethernet + 32-64GB rolling cache on SSD"
+      ],
+      "style": "Numbered checklist card, IgnitionSim colors, large readable text, small 'cadence beats frame count' banner"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-settings-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a home flight-sim desk, one hand gesturing at an on-screen FPS overlay, calm expert energy, practical not fantasy, no fake branded hardware, 4:5 portrait.",
+      "labelRequired": "AI curator scene",
+      "status": "optional"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "MSFS 2024 Developer-mode FPS overlay screenshot showing MainThread (CPU-bound) vs GPU-bound reading",
+      "status": "needs-capture-or-license",
+      "notes": "Would strengthen the CPU-vs-GPU diagnosis section. Must be a properly licensed/owned capture, not scraped. Non-blocking."
+    }
+  ],
+  "openQuestions": [
+    "Do we want to generate a settings-themed hero, or keep the existing battlestation scene? (Existing is fine.)",
+    "Confirm the current MSFS Sim Update / build number when refreshing, since FPS numbers shift per patch — the article deliberately avoids naming a build.",
+    "The fps-killers-ranked infographic is the load-bearing visual; prioritize it if Codex only builds one graphic."
+  ]
+}

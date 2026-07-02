@@ -1,0 +1,22 @@
+{
+  "slug": "sim-racing-handbrake-shifter-guide-2026",
+  "articleFile": "src/content/articles/racing/sim-racing-handbrake-shifter-guide-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 8,
+  "realProductImageCount": 8,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Verified-image shortfall on the article's core products: every handbrake and shifter discussed (MOZA HBP, Fanatec ClubSport Handbrake V2, Sim-Lab XB1, Heusinkveld, MOZA SGP, Thrustmaster TH8A, Fanatec ClubSport Shifter SQ V1.5) has NO verified product photo. All 8 embedded visuals are verified mounting/cockpit + pedals images (on-topic, since mounting is the thesis), but a handbrake/shifter buyer's guide should show its actual products before certifying. Source real photos first.",
+    "Unconfirmed current US$ pricing for Fanatec ClubSport Handbrake V2, Sim-Lab XB1, Heusinkveld Sim Handbrake V2, and Thrustmaster TH8A — body flags these as 'check current' rather than quoting hard figures. Resolve before certifying.",
+    "Internal product data still models the OLD Fanatec ClubSport Handbrake V1.5 (potentiometer); the market moved to the V2 load cell (Dec 2025). Data/gear-page updates (V2 + Sim-Lab XB1 + Heusinkveld handbrake) recommended before certification so links/spec cards resolve to the right units.",
+    "Run rule: goldStatus intentionally left as 'refresh' — do NOT certify in this run."
+  ],
+  "notes": "Rewrote to gold structure: author Duke Alvarez (curator=author); goldStatus refresh; added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster racing. Verdict-first opening, one-minute decision table, discipline table, handbrake sensor ladder, sequential-vs-H-pattern, mounting thesis, pedals-first honest cross-check, setup-tax warnings, buy order, who-should-skip, dated Sources Checked shelf. 5 FAQs. related[] = pedals-over-power, smart-upgrade-path, desk-vs-cockpit-sim-racing-2026 (all exist). ALL 8 embedded images + heroImage are in verified-product-images.json (verified via script). Exactly 2 frontmatter fences. No literal <content>/<invoke> wrapper text. `npx astro build` passed (166 pages, no schema errors) — article compiles as content; it does NOT render a public page because [bay]/[slug].astro gates on isCertifiedArticle (goldStatus==='certified'), which is correct for a refresh article (same as the reference gold articles pedals-over-power and best-sim-racing-wheelbases-2026). HARD IMAGE RULE honored: the 7 core products with no verified photo are text + official-link + Amazon-search only (rel='sponsored nofollow noopener'), and are logged as needs-download in the image manifest. Visual shortfall vs the >=8-verified target is met numerically (8) but honestly noted: none of the 8 are the actual handbrake/shifter products, because the verified catalog does not yet contain them."
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "best-beginner-hosas-under-300",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a new pilot believe a real two-stick rig fits under $300 before they hit the binding, desk-space, and upgrade-path traps. Real HOSAS product proof throughout; no decorative/procedural art. Verdict-winning pick (WinWing Ursa Minor) is text-only until a verified photo exists — the biggest open visual gap.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "WinWing Ursa Minor Space joystick",
+      "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A file exists on disk at this path but is NOT in verified-product-images.json — do NOT embed until vision-verified. This is the article's VERDICT-WINNING budget-champion pick and carries zero verified images; it is text-only with an honest 'where to see it before you buy' callout. Verifying this photo is the top blocker to full certification parity and would let Tier 2 gain a shotgrid + gearpick. Confirm the Space (twist) variant, matched L+R pair."
+    },
+    {
+      "product": "Logitech X52 Pro (and X56) HOTAS",
+      "preferredLocalPath": "/images/gear/space/logitech-x52-pro-hotas.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/space/",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+X52+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A file exists on disk but is NOT verified. Kept text-only for TWO reasons: (1) unverified, and (2) it is a single-box HOTAS, not a HOSAS pair — it cannot be mirrored to an off hand, so it does not belong as a HOSAS gearpick even once verified. Referenced honestly as a different path with official link + Amazon search."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-two-stick-under-300",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic desk sim-cockpit at cool blue rim light, two joystick mounting points on Monstertech-style clamp arms at a symmetric ambidextrous width, open overlay space for two real HOSAS stick product photos, keyboard visible for scale, curator Val Chen gesturing at the twin-stick layout, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg", "/images/gear/space/thrustmaster-t16000m-fcs.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joysticks, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art, single-stick HOTAS layout"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "commitment-picks-tier",
+      "title": "Pick your beginner HOSAS by commitment",
+      "format": "1600x1000",
+      "content": ["Testing the waters -> Twin T.16000M (~$150-160)", "Staying, want it good now -> WinWing Ursa Minor pair (~$220-260)", "Will climb to endgame -> VKB Gladiator pair (~$240-300)", "One-box HOTAS instead -> Logitech X52/X56 (not a HOSAS)"],
+      "style": "IgnitionSim command-center chart, large readable text, space colors, real stick photos as row markers for Codex overlay (WinWing/Logitech rows text-only until verified)"
+    },
+    {
+      "id": "hosas-buy-order",
+      "title": "Beginner HOSAS buy order",
+      "format": "1600x1000",
+      "content": ["1 Decide commitment level", "2 Buy BOTH sticks same cart (off-hand sells out)", "3 Add two Monstertech mounts", "4 Skip the throttle", "5 Budget an evening to bind six axes"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-twin-stick-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a clean desk cockpit, both hands resting on a symmetric twin-stick HOSAS layout, calm expert energy, product overlay space beside each stick, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source + verify a real WinWing Ursa Minor Space photo — the verdict-winning pick has zero verified images; this is the top certification-parity blocker.",
+    "Confirm current T.16000M pair / Space Sim Duo bundle price, VKB Space Combat Edition US street price + stock, and WinWing Ursa Minor Space price (all left as ~$ ranges, never fabricated).",
+    "Do NOT verify/embed the Logitech X52 as a HOSAS gearpick even if a photo is sourced — it is a HOTAS and cannot be mirrored to an off hand."
+  ]
+}

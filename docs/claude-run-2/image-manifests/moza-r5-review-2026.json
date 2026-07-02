@@ -1,0 +1,92 @@
+{
+  "slug": "moza-r5-review-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a budget-first PC racer understand the 2026 reality before they buy: the R5 is still a great cheap on-ramp, but MOZA's own R9 V3 price cut now makes the step up hard to skip unless budget or cockpit size pins them to the R5. Real MOZA product proof throughout (R5, R9, R12, R3, CRP2); no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Cammus C5 (integrated-motor DD bundle)",
+      "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+      "officialSourceUrl": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5+direct+drive&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in the 'who should skip the R5' section as the sub-$300 cheapest-real-DD budget alternative. Text-only + a note to confirm the current listing because no verified image exists. Source a real photo before it can appear as a gearpick/shotgrid or before certification if the shortlist should show it."
+    },
+    {
+      "product": "MOZA ES steering wheel (bundled rim)",
+      "preferredLocalPath": "/images/gear/racing/moza-es.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/es-steering-wheel",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+ES+steering+wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The rim that ships inside the R5 bundle (12-inch D-wheel, 22 buttons, spring paddles). Described in 'What you actually get' but NOT embedded because no verified image exists. Optional: source a real photo to add a bundle-contents visual; the R5 hero already shows the full kit, so this is low priority."
+    },
+    {
+      "product": "MOZA SR-P Lite pedals (bundled pedals)",
+      "preferredLocalPath": "/images/gear/racing/moza-srp-lite.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/srp-lite-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+SR-P+Lite+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The two-pedal set bundled with the R5 (spring brake, no clutch) called out as the weak link. Text-only; the CRP2 gearpick already carries the 'upgrade path' visual. Low priority unless a before/after pedal visual is wanted."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r5.jpg",
+    "/images/gear/racing/moza-r9.jpg",
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "/images/gear/racing/moza-crp2.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-r5-on-ramp",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic golden-hour PC sim-racing corner in a small apartment or compact cockpit bay, a rigid folding wheel-stand with an open 4-bolt mounting plate and the included dual desk clamp visible, cable neatly routed, an empty product-overlay footprint left clear on the mount for a real MOZA R5 wheelbase image, curator Duke Alvarez leaning in as if about to bolt the base on, warm confident mechanic energy, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r5.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "r5-vs-r9-vs-r12-2026",
+      "title": "R5 vs R9 vs R12: the 2026 price-and-torque map",
+      "format": "1600x1000",
+      "content": [
+        "R5 - 5.5Nm - ~$399 bundle - wired V2 wheels - complete kit + clamp",
+        "R9 V3 - 9Nm - base seen ~$299-349 sale - wireless V2 - the sweet spot, now barely more",
+        "R12 V2 - 12Nm - base ~$429 - wireless V2 - the buy-once ceiling",
+        "Key 2026 shift: R9 V3 price cut collapses the R5's old value gap"
+      ],
+      "style": "IgnitionSim command-center chart, large readable text, racing red/graphite palette, real MOZA base photos as row markers for Codex overlay (moza-r5.jpg, moza-r9.jpg, moza-r12.jpg)"
+    },
+    {
+      "id": "r5-buy-order",
+      "title": "MOZA R5 buy order",
+      "format": "1600x1000",
+      "content": [
+        "1 Confirm you're on PC (else R3 for Xbox)",
+        "2 Compare R5 vs R9 price TODAY (sale-dependent)",
+        "3 If budget/size favor R5, buy the bundle",
+        "4 Plan a load-cell brake as first upgrade",
+        "5 Start on the included clamp, graduate to a stand",
+        "6 Tune per-game strength in Pit House"
+      ],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays (moza-r5.jpg, moza-r9.jpg, moza-crp2.jpg)"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-r5-value-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean compact garage cockpit bay, one hand resting on a small direct-drive wheelbase mounted with a desk clamp, thoughtful value-conscious energy as if weighing two options, product-overlay space beside him for a real MOZA base image, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Certification-critical: do the Mid-Year Sale prices hold? The whole thesis ('R9 is now too cheap to skip the R5') depends on the R9-vs-R5 gap. Re-verify R5 (~$399), R9 V3 base (~$299-349), R12 (~$429), R3 (~$319-399) at cert time.",
+    "MOZA's US store lists the base as 'R9 V3' while src/data/products/racing.json still says 'R9 V2' at ~$429 — reconcile the version label and price before certifying, and consider updating racing.json.",
+    "Do we want to source real photos for the MOZA ES wheel and SR-P Lite pedals to add a 'what's in the bundle' visual, or is the R5 hero (which shows the full kit) sufficient?",
+    "Should the Cammus C5 budget alternative get a real photo to promote it from text-only to a body visual?"
+  ]
+}

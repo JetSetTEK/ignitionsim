@@ -1,0 +1,60 @@
+{
+  "slug": "gspro-setup-guide-courses-connectors",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "B",
+  "visualGoal": "Turn the intimidating 'connect your launch monitor to GSPro' step into a clear one-subscription, one-connection-path, one-wireless-decision workflow. Real launch-monitor product proof for every unit on the connector map; no procedural art.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/rapsodo-mlm2pro.jpg",
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/flightscope-mevo-gen2.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-connector-map",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home golf simulator bay with a Windows gaming PC beside the hitting area, a glowing course on the impact screen, warm gold light on deep green walls, open product-overlay space beside the tee for a real launch monitor, cabling running from sensor to PC to suggest the wired-connection theme, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, fake software UI, warped screen, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "gspro-connection-paths",
+      "title": "How your launch monitor reaches GSPro",
+      "format": "1600x1000",
+      "content": ["Built-in GSPro Connect / OpenAPI (Foresight, Uneekor, FlightScope, Full Swing, ProTee)", "Vendor connector app runs alongside GSPro (Rapsodo, Garmin R10)", "Gold-tier unlock required (Bushnell Launch Pro)", "Community connector: SkyTrak via OpenSkyPlus 2"],
+      "style": "IgnitionSim command-center flow chart, four labeled lanes, large readable text, golf greens/golds, real LM photos as lane markers for Codex overlay"
+    },
+    {
+      "id": "gspro-requirements-and-fixes",
+      "title": "GSPro: cost, PC bar, and the dropout fix",
+      "format": "1600x1000",
+      "content": ["$250/yr subscription, Windows only, no perpetual license", "1080p floor: GTX 3060, 16GB RAM; 4K: RTX 3080, 32GB", "1 TB NVMe SSD practical floor for the LiDAR course library", "Dropouts = go wired, shorten distance, clear 2.4 GHz, test first"],
+      "style": "Two-column spec + checklist card, large readable text, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-gspro-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks at a home simulator PC beside the hitting bay, one hand gesturing at a launch monitor, confident setup-guide energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "gspro-reload-courses-toggle",
+      "need": "GSPro Settings Reload Courses + Local Match 'Show All Courses' toggle",
+      "notes": "The most common 'I downloaded a course and it's missing' fix. If a real GSPro UI screenshot is used it must be a genuine capture, not a fabricated UI; otherwise keep it as text instruction. Low priority."
+    }
+  ],
+  "openQuestions": [
+    "Do we want a genuine GSPro UI screenshot for the Reload Courses / Show All Courses step, or keep it as text-only instruction to avoid fabricated-UI risk?",
+    "Confirm whether the Rapsodo official GSPro direct-connect (2025) has fully replaced the community MLM2PRO connector, or both remain in use?"
+  ]
+}

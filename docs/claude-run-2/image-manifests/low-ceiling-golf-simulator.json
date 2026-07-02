@@ -1,0 +1,96 @@
+{
+  "slug": "low-ceiling-golf-simulator",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make an 8.5-foot-basement owner believe the room is buildable BEFORE they hit the honest compromises, and steer them hard toward side-of-ball photometric sensors and short-throw projection. Real launch-monitor and projector product proof throughout; overhead units appear only as the 'do not buy' text callout, never as body imagery.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Uneekor EYE XO2 (overhead camera unit)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://download.uneekor.com/docs/EYEXO2_Manual.pdf",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Intentionally text-only in this article as the 'don't buy for a low ceiling' example (needs 9-10 ft). A verified photo would only matter for OTHER (high-ceiling) golf articles, not this one. Not a blocker for this article's certification."
+    },
+    {
+      "product": "Foresight Falcon (overhead ceiling-mount unit)",
+      "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+      "officialSourceUrl": "https://www.foresightsports.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Overhead unit requiring a 9'6\" ceiling; text-only here as an avoid-for-low-ceilings mention. Not needed for this article; useful only for a dedicated-room/overhead build article."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg",
+    "/images/gear/golf/square-golf-launch-monitor.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/benq-ah700st.jpg",
+    "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-low-basement-bay",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic finished 8.5-foot-ceiling basement golf bay at warm evening light, exposed duct and joist run clearly low over one corner, impact screen glowing with a par-3, a small side-of-ball launch monitor placed on the mat beside the tee with an open product-overlay footprint for a real SkyTrak+ photo, short-throw projector mounted flush near the screen ahead of the hitting position, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, overhead ceiling-mounted camera unit, cathedral ceiling, warped clubs, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "ceiling-height-reality-map",
+      "title": "What each ceiling height actually buys you",
+      "format": "1600x1000",
+      "content": [
+        "Under 8.0 ft: wedges & short irons only, driver off the table",
+        "8.0-8.5 ft: irons & fairway woods, driver for shorter/flatter swings (real-world minimum)",
+        "9.0 ft: full bag for most, floor-unit manufacturer minimum",
+        "10+ ft: full bag all heights, overhead sensors on the table"
+      ],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/gold, a swing-arc silhouette rising into each ceiling tier"
+    },
+    {
+      "id": "sensor-tech-decision",
+      "title": "Which launch monitor tech fits a low ceiling",
+      "format": "1600x1000",
+      "content": [
+        "Side-of-ball photometric = CORRECT (no overhead clearance): SkyTrak+, Launch Pro, R50, Square Golf",
+        "Overhead camera = WRONG (needs 9-10 ft): Uneekor EYE XO2, Foresight Falcon",
+        "Radar = USABLE WITH CARE (needs 14-16 ft depth behind hitter): Garmin R10"
+      ],
+      "style": "Three-lane traffic-light decision card (green/red/amber), real product-photo placeholders as row markers for Codex overlay"
+    },
+    {
+      "id": "projector-throw-ladder",
+      "title": "Short-throw vs ultra-short-throw for low rooms",
+      "format": "1600x1000",
+      "content": [
+        "Long-throw behind golfer = shadow + steals overhead space (avoid)",
+        "Short-throw 0.4-1.0 ratio, ceiling-mount near screen, ~13-14 ft throw",
+        "Ultra-short-throw under 0.4, floor shield 4-5 ft from screen (rooms under 8.5 ft)",
+        "Any floor unit MUST be inside a protective enclosure"
+      ],
+      "style": "Side-view room cutaway showing swing arc and light path for each option, Optoma GT2100HDR photo placeholder as the short-throw marker"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-driver-test",
+      "prompt": "Realistic adult golf curator Nina Brooks in a low-ceiling basement bay, mid slow-motion driver backswing, one eye on the clubhead near the ceiling as she demonstrates the driver-clearance test, calm instructor energy, tape measure visible on the mat, product-overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm a current BenQ AH700ST street price before certifying (body left it as 'verify live pricing').",
+    "Confirm current Uneekor EYE XO2 pricing spread ($8,999 vs ~$11,000 vs ~$14,000 configs) — body deliberately says 'check current'; keep it that way unless a single verified figure is available.",
+    "Should the ceiling-height reality-map infographic be embedded as a Codex graphic, or is the in-body markdown table sufficient? Currently the article ships the table; infographic is a nice-to-have upgrade, not a blocker."
+  ]
+}

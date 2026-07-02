@@ -1,0 +1,64 @@
+{
+  "slug": "golf-simulator-impact-screen-enclosure",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "B",
+  "visualGoal": "Make a home builder confidently choose DIY vs premium enclosure and the right screen tier before they read the bounceback and aspect-ratio caveats. Real enclosure/screen/projector/mat product proof throughout; no procedural art. Hero band left untouched.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "/images/gear/golf/sig10-enclosure.jpg",
+    "/images/gear/golf/sigpro-premium-impact-screen.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg",
+    "/images/gear/golf/sig-landing-pad-turf.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/benq-lk936st.jpg",
+    "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/golf/golf-simulator-impact-screen-enclosure.jpg",
+    "status": "verified-on-disk",
+    "notes": "Existing topic hero at public/images/golf/golf-simulator-impact-screen-enclosure.jpg. Left as-is per hero-band lock. Not a /images/gear/ product photo, so not in verified-product-images.json — it is the article hero, not a product embed."
+  },
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-safety-screen",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dedicated home golf bay at controlled light, a taut impact screen glowing with a sunlit links fairway inside a deep-green padded enclosure, open overlay space at lower-left for a real enclosure/screen product photo, curator Nina Brooks gesturing at the air gap behind the screen, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/carls-place-diy-enclosure.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, warped screen, impossible geometry, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "bounceback-install-rules",
+      "title": "Bounceback is an install problem",
+      "format": "1600x1000",
+      "content": ["Tension with GIVE, not drum-tight", "Leave an air gap behind the screen", "Weighted bottom cable + releasable ties", "Result: ball drops 1-3 ft, not back at you"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens, real screen/enclosure photos as row markers for Codex overlay"
+    },
+    {
+      "id": "aspect-ratio-throw",
+      "title": "Aspect ratio + projector throw = one decision",
+      "format": "1600x1000",
+      "content": ["4:3 goes taller (width-limited rooms)", "16:9 most course-like (wants width)", "Throw sweet spot 0.69-0.89", "Forcing 16:9 into 4:3/1:1 = more throw needed"],
+      "style": "Numbered comparison, projector-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-air-gap-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a clean home golf bay, one hand behind a taut impact screen showing the air gap to the wall, confident instructor energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm current Carl's DIY kit price (promo-dependent, ~$749.95 sale to ~$999.95 regular)?",
+    "Confirm current SIG10 price (Shop Indoor Golf $1,999.99; other retailers to ~$2,499)?",
+    "sig10-enclosure product JSON says 'steel-pipe framing' but the live retailer page says 'color-coded push-pin poles' — reconcile the JSON in a future data pass (no image change needed)."
+  ]
+}

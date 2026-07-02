@@ -1,0 +1,20 @@
+{
+  "slug": "gspro-setup-guide-courses-connectors",
+  "articleFile": "src/content/articles/golf/gspro-setup-guide-courses-connectors.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 6,
+  "realProductImageCount": 6,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Only 6 embedded verified product images — below the 8+ verified-image bar for certification. Not a content defect (this is a how-to, not a roundup); it simply has fewer product visuals. Add Codex infographics (connection-paths map, requirements-and-fixes card) to lift visual density if certification is desired.",
+    "Community connectors (OpenSkyPlus 2, MLM2PRO connector) are third-party projects whose status can change — re-verify current builds before relying on them."
+  ],
+  "notes": "How-to guide with verdict-first, requirements section, 3-path connector table, six launch-monitor gearpicks (all verified photos), wired-vs-wireless dropout fixes, free-community-course install steps, who-should-skip, verdict, 5 FAQs, dated Sources Checked shelf split into official/compatibility/courses. Curator=author (Nina Brooks). candidateForCertification=false only because it carries 6 verified images (< 8 bar) as a setup guide rather than a product roundup; content quality is otherwise gold-ready. Left as refresh per run rules."
+}

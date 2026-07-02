@@ -1,0 +1,28 @@
+{
+  "slug": "flight-sim-usb-hub-wiring-multi-panel",
+  "articleFile": "src/content/articles/flight/flight-sim-usb-hub-wiring-multi-panel.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "curator": "Mac Donovan",
+  "revenueTier": "B",
+  "contentCluster": "flight",
+  "visualCount": 1,
+  "verifiedImagesUsed": 1,
+  "realProductImageCount": 1,
+  "textOnlyProducts": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "heroImageVerified": true,
+  "needsCodexGraphics": true,
+  "certificationBlockers": [
+    "Only 1 verified product image is honestly available (Honeycomb Bravo). Certification target is 8 verified images; this is a wiring how-to whose subject (the USB hub) and key power-draw devices (WinWing backlit panels) have NO verified catalog images. Cannot hit 8 honestly without sourcing real hub + panel photos.",
+    "Honeycomb 6-port USB hub — the article's actual subject — has no verified image; sourcing one is the single highest-value action to raise the count.",
+    "Desktop Pilot 10-port image file exists on disk but is not in verified-product-images.json, so it is text-only; also its price is stale (~$60 in flight-extra.json vs ~$108 live)."
+  ],
+  "notes": "Full rewrite to gold how-to structure. author=curator (Mac Donovan). Verdict-first (buy a self-powered hub + disable USB selective suspend). Includes a 'what draws power' TABLE and a powered-vs-unpowered TABLE (both markdown), port/wattage budgeting, the two-step Windows dropout fix, cable-and-layout discipline warnings (bus-powered brownout, cable length/interference, ground loops, USB2 vs USB3), an FFB aside, a 'who should skip' section, and a dated Sources Checked shelf with real links only. ONE gearpick, on the verified Honeycomb Bravo, framed as the illustration of the power-draw problem rather than a forced product card. Every embedded image (1) and the heroImage are verified against verified-product-images.json. 2 frontmatter fences confirmed. candidateForCertification=false BY DESIGN per the honest-low-density instruction — flagged rather than padded with non-verified images. Build check: npx astro build (see run notes)."
+}

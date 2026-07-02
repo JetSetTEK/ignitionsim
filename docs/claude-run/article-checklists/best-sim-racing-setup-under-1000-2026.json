@@ -1,0 +1,23 @@
+{
+  "slug": "best-sim-racing-setup-under-1000-2026",
+  "articleFile": "src/content/articles/racing/best-sim-racing-setup-under-1000-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 11,
+  "realProductImageCount": 11,
+  "distinctVerifiedImages": 5,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "buildChecked": true,
+  "blockers": [
+    "The winning-cart mount (NLR Wheel Stand 2.0, ~$199) has NO verified image and no product record — it is text-only. The visible mount gearpick/shotgrid uses the verified GT Omega Apex (the stretch option) instead. Source a real NLR Wheel Stand 2.0 photo before that pick can become a body visual.",
+    "Fanatec CSL Pedals LC and MOZA SR-P (tighter-budget pedal alternatives) are text-only — no verified image.",
+    "Prices quoted as ranges / check-current (R12 $399-469, CRP2 $369-399, GT DD Pro bundle sale-dependent). Confirm hard current pricing before certifying single numbers."
+  ],
+  "notes": "Curator/author = Duke Alvarez (was Robert Pruitt). goldStatus refresh; sourceReviewDate + updatedDate 2026-07-02; revenueTier A; contentCluster racing. All 11 embedded body image refs plus the hero (5 distinct images) are VERIFIED product photos — 5 distinct: moza-r12, moza-crp2, gt-omega-apex, thrustmaster-t598, fanatec-gt-dd-pro. Verdict-first (one sub-$1,000 cart ~$967), itemized build table with budget targets, 4-image shotgrid, 6 gearpicks (verified only), tip/forum-style callouts (original), 'where the money goes' breakdown, warnings block (don't blow budget on torque, pedals matter, mount required), buy order, What-to-buy stack, PS5 lane, dated Sources Checked with real links. 2 frontmatter fences confirmed. `npx astro build` completes exit 0 (166 pages, content synced clean, no schema errors); article generates its OG image + hero asset exactly like the gold reference articles. 5 FAQs. Certification-ready pending price confirmations and (optionally) a real NLR Wheel Stand photo so the budget mount can be shown rather than described."
+}

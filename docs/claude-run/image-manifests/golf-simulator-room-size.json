@@ -1,0 +1,80 @@
+{
+  "slug": "golf-simulator-room-size",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make the reader measure their room before shopping, and show — with real product proof — how ceiling/depth/width each pick a different launch monitor and projector. Shallow-room camera vs deep-room radar vs tall-but-shallow overhead, all anchored on verified photos.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Uneekor EYE XO2 (overhead flagship)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://www.uneekor.com/eye-xo2",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The overhead unit the 'tall-but-shallow' section is built around. Currently text-only (blockquote + Amazon search) because no verified image. Source a real photo before it can become a gearpick/shotgrid figure."
+    },
+    {
+      "product": "Foresight Falcon (overhead Quadrascopic)",
+      "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+      "officialSourceUrl": "https://www.foresightsports.com/products/falcon",
+      "amazonUrl": "https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Second overhead reference (9'6\" ceiling spec). Text-only until a real photo is sourced."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/benq-lk936st.jpg",
+    "/images/gear/golf/sig10-enclosure.jpg",
+    "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/golf/golf-simulator-room-size.jpg",
+    "status": "verified-exists",
+    "notes": "Existing hero at public/images/golf/golf-simulator-room-size.jpg — golfer at top of backswing near a low ceiling. On-message for the ceiling-strike thesis. Reused, not regenerated."
+  },
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-room-fit-map",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home garage/basement being tape-measured for a golf simulator: a person holding a tape measure to the ceiling, painter's tape marking a projector mount point and hitting position on the floor, an open wall left clear for a real launch-monitor product overlay on a mat, warm practical lighting, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped room geometry, impossible ceiling, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "room-fit-map",
+      "title": "Room dimension to launch-monitor type",
+      "format": "1600x1000",
+      "content": ["9 ft ceiling shallow room = side camera (SkyTrak+)", "10 ft ceiling deep 18-20 ft = radar or anything (R10)", "10 ft ceiling tall but short = overhead (EYE XO2) or side-of-tee (R50)", "Tight everywhere = side camera + accept compromise"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens palette, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "projector-throw-math",
+      "title": "Throw distance = throw ratio x screen width",
+      "format": "1600x1000",
+      "content": ["0.5 TR: 12 ft screen from under 6 ft (shallow room)", "0.8 TR: 12 ft screen from ~9.6 ft", "Safe mount window 8-14 ft from screen", "Under 8 ft ball hits lens / past 14 ft you shadow the screen"],
+      "style": "Side-view room diagram with beam path, numbered mount window, projector-photo placeholder for Codex overlay"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-measure-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a partly-built home simulator bay, tape measure in hand held to the ceiling near a garage-door track, confident measure-twice energy, product overlay space beside her on the mat, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Do we want to source real photos for Uneekor EYE XO2 and Foresight Falcon so the overhead section carries visuals instead of text-only blockquotes?",
+    "Is there an existing verified TrackMan iO image we could add as a second overhead reference, or is it also text-only?"
+  ]
+}

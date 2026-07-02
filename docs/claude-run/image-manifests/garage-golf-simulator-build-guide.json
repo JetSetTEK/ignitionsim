@@ -1,0 +1,72 @@
+{
+  "slug": "garage-golf-simulator-build-guide",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a garage builder internalize the measure-first order of operations: confirm ceiling to the lowest obstruction, let depth pick the sensor, fund the safety lines (screen + side nets), then solve the slope and the cold. Real launch-monitor, enclosure, projector, mat, netting, and turf product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Bespoke finished garage golf simulator bay (editorial hero)",
+      "preferredLocalPath": "/images/golf/garage-golf-simulator-build-guide.jpg",
+      "officialSourceUrl": "",
+      "amazonUrl": "",
+      "status": "needs-download",
+      "notes": "A garage-specific hero JPG exists on disk at /images/golf/garage-golf-simulator-build-guide.jpg but is NOT in verified-product-images.json, so it CANNOT be embedded. Hero was switched to the verified /images/gear/golf/carls-place-diy-enclosure.jpg. To restore a bespoke garage-bay hero: vision-verify a real (non-fabricated-brand) garage sim photo and add its path to verified-product-images.json first."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg",
+    "/images/gear/golf/sig-landing-pad-turf.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-garage-bay",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic two-car garage converted into a golf simulator bay at dusk, glowing fairway on a full-width DIY impact screen inside a black nylon enclosure, exposed garage-door track and opener rail visible along the ceiling to signal the low-clearance reality, a hitting mat on a leveled platform over a sloped concrete slab, side barrier nets along the walls, warm work-light glow, open product-overlay space beside the tee for a real launch monitor, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/garmin-approach-r10.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped screen, impossible geometry, tiny unreadable text, procedural gradient art, unrealistically tall ceiling"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "measure-first-three-numbers",
+      "title": "The three numbers that govern a garage bay",
+      "format": "1600x1000",
+      "content": ["Ceiling: 8.5 ft min / 9 ft comfortable / 10 ft ideal (measure to LOWEST obstruction)", "Width: 10 ft min / 12 ft comfortable / 14-16 ft ideal", "Depth: 12 ft min / 15 ft comfortable / 16+ ft ideal", "Radar wants depth; photometric fits shallow bays"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/golds, garage-door-track motif"
+    },
+    {
+      "id": "garage-parts-budget",
+      "title": "Garage build parts list and 2026 budget targets",
+      "format": "1600x1000",
+      "content": ["Launch monitor $600-$3,000", "Enclosure + screen $1,000-$3,000", "Projector $700-$1,500", "Mat $300-$700", "Side nets $200-$400", "Landing turf $200-$600", "PC + GSPro $1,000-$1,750", "Leveling + climate $150-$600", "All-in $3,000-$8,000"],
+      "style": "Stacked bar or line-item table, product-photo placeholders for Codex overlays"
+    },
+    {
+      "id": "four-garage-gotchas",
+      "title": "The four things a garage punishes",
+      "format": "1600x1000",
+      "content": ["COLD: R10 to 14F but batteries/screens/condensation - climate control", "SLOPE: slab drops ~1 in per 8 ft - level a platform", "PARKING: casters/hinged stow = re-level + re-aim each time", "LIGHT: fixed diffuse LED; photometric hates swinging bulbs + side windows"],
+      "style": "Four-quadrant warning card, golf greens/golds, icon per gotcha"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-garage-measure",
+      "prompt": "Realistic adult golf curator Nina Brooks in a two-car garage mid-conversion, holding a tape measure up to the garage-door track over the hitting zone, confident estimator energy, exposed opener rail overhead, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Add a bespoke, vision-verified garage-bay hero to verified-product-images.json so /images/golf/garage-golf-simulator-build-guide.jpg (or a new photo) can replace the Carl's Place enclosure hero?",
+    "Confirm the high-lift/side-mount garage-door conversion 'recovers close to a foot' claim against a manufacturer/installer source before hardening the language.",
+    "Confirm current SkyTrak+ street/sale price (left as ~$2,995, frequently near $2,000)."
+  ]
+}

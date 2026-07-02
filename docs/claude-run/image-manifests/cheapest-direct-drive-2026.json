@@ -1,0 +1,71 @@
+{
+  "slug": "cheapest-direct-drive-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Show a budget-first buyer that real direct drive is genuinely affordable, then make the value sweet spot (MOZA R12) feel like the obvious ~$100 stretch. Real product proof at every rung; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Cammus C5",
+      "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+      "officialSourceUrl": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Cheapest real DD, headline verdict pick. Text-only in body because no verified image. Needs a real integrated-wheel photo before it can appear as a gearpick/shotgrid or be certified."
+    },
+    {
+      "product": "Fanatec CSL DD (CSL DD QR2)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2l_90_us/csl-dd-qr2l-5-nm-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Fanatec wildcard section. Text-only in body; explicitly noted inline that we lack a verified photo and pointed to the Amazon listing. Needs a real base photo before it can become a body visual."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "/images/gear/racing/moza-r5.jpg",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/thrustmaster-t598.webp"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-budget-ladder",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X garage sim-racing bench at golden-hour rim light, a compact entry-level wheel-stand with an empty mounting plate left open for a real budget wheelbase product overlay, price-tag props implying under-$400, curator Duke Alvarez leaning in with approachable mechanic energy, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r3-xbox-bundle.png"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "budget-ladder-rungs",
+      "title": "The budget DD ladder, cheapest to sweet spot",
+      "format": "1600x1000",
+      "content": ["Cammus C5 ~$249-299 (5Nm, PC)", "MOZA R3 ~$319 (3.9Nm, Xbox+PC)", "MOZA R5 ~$399 (5.5Nm, PC)", "Fanatec CSL DD ~$350 base (5-8Nm)", "T598 / GT DD Pro (PS5)", "MOZA R12 ~$429 (12Nm — stretch here)"],
+      "style": "IgnitionSim command-center ladder chart, large readable text, racing colors, R12 rung highlighted as the value stretch, real base photos as row markers for Codex overlay"
+    },
+    {
+      "id": "what-you-give-up",
+      "title": "What you give up at the bottom (and what you don't)",
+      "format": "1600x1000",
+      "content": ["KEEP: genuine direct-drive feel", "LOSE: torque ceiling (heavy cars)", "LOSE: pedals (pot, not load cell)", "SOMETIMES LOSE: rim swaps", "AT FLOOR: deep upgrade ladder"],
+      "style": "Two-column keep/lose chart, green vs amber, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-budget-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand resting on a compact entry direct-drive base, honest-broker expression as if talking a buyer out of overspending, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Current GT DD Pro bundle sale price (quoted $700/$850 from official pages, flagged check-current)?",
+    "Thrustmaster T598 current street price (wide spread; left as $400-500 range)?",
+    "Source real photos for Cammus C5 and Fanatec CSL DD so both can become body visuals / support certification?"
+  ]
+}

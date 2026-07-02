@@ -1,0 +1,21 @@
+{
+  "slug": "pedals-over-power",
+  "articleFile": "src/content/articles/racing/pedals-over-power.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 13,
+  "realProductImageCount": 13,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Two budget-rung products (MOZA SRP2/SR-P, Fanatec CSL Pedals Load Cell Kit) are referenced in text but have NO verified product image — they are text + Amazon-search only. Source real photos before they become body visuals or before certification.",
+    "Confirm exact current US MOZA CRP2 price (site served CAD; body quotes ~$399 US) and the all-in Fanatec CSL Load Cell Kit price (kit $99-140 + separate base pedals) before certifying.",
+    "Reconcile the product record 'moza-srp-lite' (MOZA SR-P Lite, $129) against the current retail SRP2 ($149, launched 26 Mar 2026) referenced in the body."
+  ],
+  "notes": "All 13 embedded images are verified pedal product photos (6 unique verified images reused across shotgrid, gearpicks and what-to-buy). Curator=author (Duke Alvarez). Verdict-first, budget->serious->luxury pedal path, four-type comparison table, load-cell setup routine, forum + pro-tip callouts, setup-tax warnings (mounting/heel plate, calibration, brake pressure, hydraulic maintenance), buy order, what-to-buy stack, dated Sources Checked shelf with real links. Asetek Invicta written accurately as HYDRAULIC (T.H.O.R.P. II pressure sensor), not a classic load cell. Left as refresh (not certified) per run rules AND because the two text-only budget picks lack verified images and two prices need confirmation."
+}

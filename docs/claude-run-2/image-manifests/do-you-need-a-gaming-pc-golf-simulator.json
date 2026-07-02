@@ -1,0 +1,97 @@
+{
+  "slug": "do-you-need-a-gaming-pc-golf-simulator",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "B",
+  "visualGoal": "Make a buyer confidently answer 'do I need a PC?' and either size a right-sized mid-range rig or choose the no-PC R50 path — without over-spending. This is a low-product-density explainer: the persuasion carries on a by-software spec table, a PC-vs-no-PC decision tree, and honest setup-tax warnings, NOT on a wall of product cards. Only one product photo (Garmin R50) is genuinely on-topic.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Garmin Approach R10 (optional, if we later add an R10 gearpick)",
+      "preferredLocalPath": "/images/gear/golf/garmin-approach-r10.jpg",
+      "officialSourceUrl": "https://www.garmin.com/en-US/p/734739",
+      "amazonUrl": "https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20",
+      "status": "already-verified",
+      "notes": "This image IS in verified-product-images.json. It is intentionally NOT embedded — the R10 is discussed as text-only in the no-PC section/decision tree to keep the low-density explainer from padding with product cards. Add a gearpick only if the angle shifts toward a no-PC product roundup."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/garmin-approach-r50.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-pc-or-not",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home golf simulator bay at dusk in the IgnitionSim dark-green/gold aesthetic, split visual tension: on one side a mid-tower gaming PC glowing beside a hitting mat with a projector throw hitting an impact screen, on the other side an all-in-one launch monitor on a tripod with its own touchscreen and no PC in sight, empty product-overlay plate for a real Garmin R50 photo, curator Nina Brooks gesturing between the two paths, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/garmin-approach-r50.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake GPU boxes, warped hardware, unreadable tiny spec text, procedural gradient art, invented brand names"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "spec-floor-by-software",
+      "title": "The real PC spec floor by software (2026)",
+      "format": "1600x1000",
+      "content": [
+        "GSPro 1080p: RTX 3060/4060 | i5/Ryzen 5 | 16 GB | ~10 GB (course ~1 GB each)",
+        "GSPro 4K Ultra: RTX 4070/5070+ | i7/Ryzen 7 | 32 GB",
+        "E6 Connect: GTX 1070 min / RTX 3060 smooth | i5-i7 | 8-16 GB | also runs on iPad",
+        "FSX Play: RTX 3060+ NVIDIA ONLY | 7th-gen+ Intel | 8-16 GB | AMD GPU NOT supported"
+      ],
+      "style": "IgnitionSim command-center comparison chart, four software rows, large readable text, golf green/gold, a red lock icon on the FSX AMD row"
+    },
+    {
+      "id": "pc-vs-nopc-decision-tree",
+      "title": "Do you actually need a gaming PC?",
+      "format": "1600x1200",
+      "content": [
+        "Want GSPro library / E6 / FSX? -> YES, Windows PC + NVIDIA GPU",
+        "Running Foresight/Bushnell on FSX? -> build Intel + NVIDIA (no AMD)",
+        "Want zero PC? -> Garmin R50 (full sim on-device)",
+        "Budget, no PC, casual? -> Garmin R10 (sim runs on phone/tablet)",
+        "Only practicing, not playing courses? -> bundled practice app, no PC"
+      ],
+      "style": "Top-down flowchart / decision tree, numbered branches, IgnitionSim dark-green background with gold nodes, terminal nodes call out PC vs no-PC clearly"
+    },
+    {
+      "id": "where-to-stop-spending",
+      "title": "Where to stop spending on a sim PC",
+      "format": "1600x1000",
+      "content": [
+        "SKIP: RTX 4090/5090 (nothing at 1080p taxes it)",
+        "SKIP: i9 (sims are GPU-bound, not CPU-bound)",
+        "SKIP: 64 GB RAM (16 GB = 1080p, 32 GB = 4K)",
+        "SKIP: liquid cooling / RGB",
+        "SPEND: 1 TB NVMe SSD, right-tier GPU for your projector's resolution"
+      ],
+      "style": "Two-column 'skip vs spend' card, red X icons vs gold check icons, large text, budget-reassurance tone"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-measure-first-tip",
+      "prompt": "Realistic adult golf-content curator Nina Brooks in a clean home simulator bay, standing between a glowing mid-tower gaming PC and an all-in-one launch monitor on a tripod, one hand resting on the launch monitor, calm expert energy, practical not fantasy, dark-green/gold IgnitionSim lighting, product-overlay space beside her, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "gspro-1080p-vs-4k",
+      "need": "A side-by-side of GSPro rendering at 1080p vs 4K Ultra to visually justify the 'match GPU tier to your projector's resolution' point.",
+      "status": "optional",
+      "notes": "Must be a legitimately sourced/licensed GSPro screenshot or an IgnitionSim-captured frame — do NOT fabricate a UI. Flagged optional; the article stands without it."
+    },
+    {
+      "id": "r50-onscreen-hometeehero",
+      "need": "A photo/screenshot of the Garmin R50's built-in touchscreen running Home Tee Hero, to make the 'the launch monitor IS the PC' claim tangible.",
+      "status": "optional",
+      "notes": "Only use a real, licensed/first-party image. Not required for the current draft."
+    }
+  ],
+  "openQuestions": [
+    "Confirm the R50 MSRP is still ~$4,999 at next review (matches product data garmin-approach-r50 = $4999).",
+    "Re-verify the three PC build-tier prices (~$1,100 / ~$1,500-$1,900 / ~$2,100-$2,800) against current GPU street pricing before any certification.",
+    "Should the 'spec-floor-by-software' and 'pc-vs-nopc-decision-tree' infographics be produced by Codex to lift visualCount, given only one on-topic product photo exists?",
+    "Do we want an optional Garmin R10 gearpick (verified image exists) or keep it text-only to preserve the low-product-density explainer shape?"
+  ]
+}

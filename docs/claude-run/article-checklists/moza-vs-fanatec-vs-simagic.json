@@ -1,0 +1,22 @@
+{
+  "slug": "moza-vs-fanatec-vs-simagic",
+  "articleFile": "src/content/articles/racing/moza-vs-fanatec-vs-simagic.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 14,
+  "realProductImageCount": 14,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Prices are sale-dependent and quoted as ranges / 'check current' throughout (Fanatec ClubSport DD $629.99-699.99, DD+ ~$899.99, GT DD Pro bundle ~$749.99; MOZA R12 $399-469, R21 $699-899). Confirm exact current US MSRP before certifying.",
+    "Simagic Alpha Evo Ultra (28Nm) is officially Q1 2026 — verify it is shipping, not preorder, before certification.",
+    "Head-to-head sweet-spot table shows MOZA R12 and Simagic (verified images exist) but the Fanatec ClubSport DD 12/15Nm and Simagic Alpha Evo Standard 12Nm are text-only links (no verified image). Sourced photos needed if every sweet-spot base should carry art, or before certification.",
+    "MOZA warranty confirmed 24-month on R3 body only; confirm brand-wide before trusting the warranty table row."
+  ],
+  "notes": "All embedded images are verified product photos (6 distinct verified racing products: moza-r12.jpg, moza-r3-xbox-bundle.png, fanatec-gt-dd-pro.jpg, fanatec-clubsport-dd-plus.webp, simagic-evo-pro.jpg, simagic-evo-ultra.jpg), reused across a 4-tile shotgrid + 6 gearpicks + hero = 14 verified image refs. Author/curator set to Duke Alvarez. Restructured to gold shape: verdict-first opening, 30-second decision path, at-a-glance table, per-brand sections with gearpick asides, forum + tip callouts (original paraphrased community wisdom), head-to-head sweet-spot comparison table, setup-tax/warnings section (QR2 lock-in, console hard gate, firmware caveat, mounting, PSU), buy order, skip-each-one section, What-to-buy gearpick stack, dated Sources Checked shelf with real linked URLs. Verified 2026 facts: May 2026 Fanatec firmware raised ClubSport DD to 15Nm + DD+ to 18Nm holding (free); Simagic Alpha Evo Sport 9Nm/$399, Standard 12Nm/$548, Pro 18Nm/$699, Ultra 28Nm/$969; MOZA ladder R3 3.9Nm -> R21 21Nm. Left as refresh (not certified) per run rules and because prices are sale-volatile + some sweet-spot bases are text-only. Frontmatter has exactly 2 fences. Text-only products (7): Fanatec CSL DD, ClubSport DD std, Podium DD; Simagic Evo Standard, Evo Sport; Logitech G PRO, Cammus C5 (last two not featured, out of three-brand scope)."
+}

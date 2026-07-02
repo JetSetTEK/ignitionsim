@@ -7,6 +7,10 @@ const publicDir = path.join(root, 'public');
 const articleDir = path.join(root, 'src/content/articles');
 const outDir = path.join(publicDir, 'images/generated/article-covers');
 const manifestFile = path.join(root, 'src/data/generated-article-covers.json');
+const claudeRunDirs = [
+  path.join(root, 'docs/claude-run/article-checklists'),
+  path.join(root, 'docs/claude-run-2/article-checklists'),
+];
 
 const worlds = {
   racing: '/images/worlds/racing-world.webp',
@@ -72,6 +76,41 @@ function frontmatter(text) {
   return data;
 }
 
+function imageRefs(source) {
+  return [
+    ...source.matchAll(/!\[[^\]]*]\(([^)]+)\)/g),
+    ...source.matchAll(/<img\s+[^>]*src=["']([^"']+)["']/g),
+  ].map((match) => match[1]).filter(Boolean);
+}
+
+async function existsPublic(rel) {
+  if (!rel || !rel.startsWith('/images/')) return false;
+  try {
+    await fs.stat(path.join(publicDir, rel.replace(/^\//, '')));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function stagedSlugs() {
+  const out = new Set();
+  for (const dir of claudeRunDirs) {
+    try {
+      const files = await fs.readdir(dir);
+      for (const file of files) {
+        if (!file.endsWith('.json')) continue;
+        const raw = await fs.readFile(path.join(dir, file), 'utf8');
+        const data = JSON.parse(raw);
+        if (data.slug) out.add(data.slug);
+      }
+    } catch {
+      // Optional staging directories are allowed to be absent.
+    }
+  }
+  return out;
+}
+
 async function markdownFiles(dir) {
   const out = [];
   for (const name of await fs.readdir(dir)) {
@@ -127,65 +166,89 @@ async function roundedImage(abs, width, height, radius = 34) {
     .toBuffer();
 }
 
-async function productCutout(abs) {
+async function productCutout(abs, rel = '') {
   const base = sharp(abs, { animated: false, limitInputPixels: 80_000_000 }).rotate();
+  const keepLightBackground = /skytrak-plus|skytrak-og|full-swing-kit|honeycomb-alpha-yoke|logitech-g-pro-flight-yoke/i.test(rel);
   try {
-    return await base
+    const trimmed = await base
       .trim({ background: '#ffffff', threshold: 16 })
-      .resize(560, 380, { fit: 'inside', withoutEnlargement: true })
+      .resize(760, 540, { fit: 'inside', withoutEnlargement: true })
       .png()
       .toBuffer();
+    if (keepLightBackground) return trimmed;
+
+    const img = sharp(trimmed).ensureAlpha();
+    const { data, info } = await img.raw().toBuffer({ resolveWithObject: true });
+    for (let i = 0; i < data.length; i += 4) {
+      const r = data[i];
+      const g = data[i + 1];
+      const b = data[i + 2];
+      const max = Math.max(r, g, b);
+      const min = Math.min(r, g, b);
+      const isNearlyWhite = min > 244 && (max - min) < 12;
+      const isSoftWhite = min > 235 && (max - min) < 16;
+      if (isNearlyWhite || isSoftWhite) data[i + 3] = 0;
+    }
+    return sharp(data, { raw: info }).png().toBuffer();
   } catch {
     return base
-      .resize(560, 380, { fit: 'inside', withoutEnlargement: true })
+      .resize(760, 540, { fit: 'inside', withoutEnlargement: true })
       .png()
       .toBuffer();
   }
 }
 
 function overlaySvg({ article, art, accent, crew }) {
-  const titleLines = wrapText(article.title, 18, 5);
+  const label = escapeXml(
+    art?.label && art.label !== 'Product proof'
+      ? art.label
+      : 'Main gear'
+  );
+  const titleLines = wrapText(label, 18, 2);
   const title = titleLines.map((line, index) =>
-    `<text x="82" y="${202 + index * 66}" class="title">${escapeXml(line)}</text>`
+    `<text x="78" y="${190 + index * 74}" class="title">${escapeXml(line)}</text>`
   ).join('');
-  const label = escapeXml(art?.label || 'Product proof');
   const type = escapeXml((article.type || 'buyer guide').replace(/-/g, ' '));
   return Buffer.from(`
     <svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="scrim" x1="0" x2="1" y1="0" y2="0">
-          <stop offset="0" stop-color="#101820" stop-opacity="0.94"/>
-          <stop offset="0.52" stop-color="#101820" stop-opacity="0.60"/>
-          <stop offset="1" stop-color="#101820" stop-opacity="0.22"/>
+          <stop offset="0" stop-color="#101820" stop-opacity="0.90"/>
+          <stop offset="0.44" stop-color="#101820" stop-opacity="0.54"/>
+          <stop offset="1" stop-color="#101820" stop-opacity="0.14"/>
         </linearGradient>
         <radialGradient id="glow" cx="78%" cy="18%" r="64%">
-          <stop offset="0" stop-color="${accent}" stop-opacity="0.44"/>
+          <stop offset="0" stop-color="${accent}" stop-opacity="0.52"/>
           <stop offset="1" stop-color="${accent}" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="bench" cx="66%" cy="64%" r="46%">
+          <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
+          <stop offset=".52" stop-color="${accent}" stop-opacity="0.18"/>
+          <stop offset="1" stop-color="#101820" stop-opacity="0"/>
         </radialGradient>
         <style>
           .mono { font-family: "JetBrains Mono", "Courier New", monospace; font-weight: 800; letter-spacing: 3px; text-transform: uppercase; }
-          .title { font-family: "Saira", "Arial Black", Arial, sans-serif; font-weight: 800; font-size: 58px; line-height: 1; fill: #ffffff; text-transform: uppercase; }
+          .title { font-family: "Saira", "Arial Black", Arial, sans-serif; font-weight: 900; font-size: 68px; line-height: 1; fill: #ffffff; text-transform: uppercase; filter: drop-shadow(0 4px 18px rgba(0,0,0,.45)); }
           .small { font-family: Inter, Arial, sans-serif; font-weight: 700; fill: rgba(255,255,255,0.82); }
-          .caption-dark { font-family: Inter, Arial, sans-serif; font-weight: 800; fill: #334155; }
+          .caption { font-family: Inter, Arial, sans-serif; font-weight: 850; fill: #ffffff; }
         </style>
       </defs>
       <rect width="1600" height="900" fill="url(#scrim)"/>
       <rect width="1600" height="900" fill="url(#glow)"/>
+      <rect width="1600" height="900" fill="url(#bench)"/>
       <g opacity="0.22">
         ${Array.from({ length: 36 }, (_, i) => `<line x1="${i * 48}" y1="0" x2="${i * 48}" y2="900" stroke="#fff" stroke-width="1"/>`).join('')}
         ${Array.from({ length: 21 }, (_, i) => `<line x1="0" y1="${i * 48}" x2="1600" y2="${i * 48}" stroke="#fff" stroke-width="1"/>`).join('')}
       </g>
-      <rect x="74" y="82" width="235" height="43" rx="9" fill="${accent}" stroke="#101820" stroke-width="3"/>
-      <text x="94" y="111" class="mono" font-size="18" fill="#101820">${type}</text>
+      <ellipse cx="1110" cy="724" rx="400" ry="72" fill="#000000" opacity=".30"/>
+      <rect x="74" y="72" width="252" height="46" rx="10" fill="${accent}" stroke="#101820" stroke-width="3"/>
+      <text x="94" y="103" class="mono" font-size="17" fill="#101820">${type}</text>
       ${title}
-      <text x="82" y="614" class="small" font-size="27">${escapeXml(crew.name)} bench note</text>
-      <text x="82" y="654" class="small" font-size="24" opacity="0.78">${escapeXml(crew.note)}</text>
-      <rect x="850" y="122" width="668" height="640" rx="34" fill="rgba(255,255,255,0.94)" stroke="rgba(255,255,255,0.76)" stroke-width="4"/>
-      <rect x="882" y="154" width="604" height="514" rx="24" fill="#ffffff" stroke="rgba(16,24,32,0.10)" stroke-width="2"/>
-      <text x="898" y="708" class="mono" font-size="17" fill="#101820">real product proof</text>
-      <text x="898" y="739" class="caption-dark" font-size="22">${label}</text>
-      <rect x="1042" y="798" width="474" height="42" rx="10" fill="rgba(255,255,255,0.9)" stroke="rgba(255,255,255,0.42)"/>
-      <text x="1060" y="825" class="mono" font-size="13" fill="#101820">AI scene + real product composite</text>
+      <rect x="78" y="612" width="575" height="96" rx="18" fill="rgba(16,24,32,.58)" stroke="rgba(255,255,255,.18)"/>
+      <text x="322" y="650" class="caption" font-size="24">${escapeXml(crew.name)}:</text>
+      <text x="322" y="684" class="small" font-size="21" opacity="0.86">${escapeXml(crew.note)}</text>
+      <rect x="1050" y="798" width="484" height="42" rx="10" fill="rgba(255,255,255,0.86)" stroke="rgba(255,255,255,0.42)"/>
+      <text x="1068" y="825" class="mono" font-size="13" fill="#101820">AI scene + verified product photo</text>
     </svg>
   `);
 }
@@ -193,17 +256,38 @@ function overlaySvg({ article, art, accent, crew }) {
 async function main() {
   const artBySlug = await parseExistingArticleArt();
   const files = await markdownFiles(articleDir);
+  const staged = await stagedSlugs();
   const manifest = {};
   await fs.mkdir(outDir, { recursive: true });
 
   for (const file of files) {
     const bay = path.relative(articleDir, file).split(path.sep)[0];
     const slug = path.basename(file, '.md');
-    const data = frontmatter(await fs.readFile(file, 'utf8'));
-    if (data.goldStatus !== 'certified' || data.draft === 'true') continue;
+    const source = await fs.readFile(file, 'utf8');
+    const data = frontmatter(source);
+    if ((data.goldStatus !== 'certified' && !staged.has(slug)) || data.draft === 'true' || data.goldStatus === 'archived') continue;
 
     const art = artBySlug.get(slug);
-    const productRel = art?.image || `/images/gear/${bay}/${slug}.jpg`;
+    const inlineImages = imageRefs(source).filter((ref) => ref.startsWith('/images/'));
+    const inlineGearImages = inlineImages.filter((ref) => ref.startsWith('/images/gear/'));
+    const artImage = art?.image;
+    const heroImage = data.heroImage;
+    const candidates = [
+      ...inlineGearImages,
+      artImage?.startsWith('/images/gear/') ? artImage : null,
+      heroImage?.startsWith('/images/gear/') ? heroImage : null,
+      artImage,
+      heroImage,
+      ...inlineImages,
+      worlds[bay],
+    ].filter(Boolean);
+    let productRel = candidates[0];
+    for (const candidate of candidates) {
+      if (await existsPublic(candidate)) {
+        productRel = candidate;
+        break;
+      }
+    }
     const productAbs = path.join(publicDir, productRel.replace(/^\//, ''));
     const worldAbs = path.join(publicDir, (worlds[bay] || worlds.racing).replace(/^\//, ''));
     const crew = crewByBay[bay] || crewByBay.racing;
@@ -218,11 +302,11 @@ async function main() {
         .modulate({ saturation: 1.08, brightness: 0.92 })
         .blur(1.4)
         .toBuffer();
-      const product = await productCutout(productAbs);
+      const product = await productCutout(productAbs, productRel);
       const productMeta = await sharp(product).metadata();
-      const productLeft = 882 + Math.round((604 - (productMeta.width || 560)) / 2);
-      const productTop = 174 + Math.round((454 - (productMeta.height || 420)) / 2);
-      const curator = await roundedImage(crewAbs, 186, 238, 28);
+      const productLeft = 848 + Math.round((690 - (productMeta.width || 700)) / 2);
+      const productTop = 226 + Math.round((480 - (productMeta.height || 500)) / 2);
+      const curator = await roundedImage(crewAbs, 220, 270, 30);
       const article = {
         title: data.title || slug.replace(/-/g, ' '),
         type: data.type || 'buyer-guide',
@@ -231,8 +315,8 @@ async function main() {
       await sharp(background)
         .composite([
           { input: overlaySvg({ article, art, accent, crew }), left: 0, top: 0 },
-          { input: product, left: Math.max(892, productLeft), top: Math.max(184, productTop) },
-          { input: curator, left: 82, top: 682 },
+          { input: product, left: Math.max(790, productLeft), top: Math.max(154, productTop) },
+          { input: curator, left: 78, top: 610 },
         ])
         .webp({ quality: 88 })
         .toFile(outAbs);

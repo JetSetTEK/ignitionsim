@@ -1,0 +1,30 @@
+{
+  "slug": "best-ffb-settings-iracing-acc-lmu-2026",
+  "articleFile": "src/content/articles/racing/best-ffb-settings-iracing-acc-lmu-2026.md",
+  "articleType": "settings how-to (naturally low product-density)",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 2,
+  "realProductImageCount": 2,
+  "settingsTables": 5,
+  "calloutsCount": 3,
+  "perSimSections": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 6,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "authorIsCurator": true,
+  "curator": "Duke Alvarez",
+  "frontmatterFences": 2,
+  "allEmbeddedImagesVerified": true,
+  "blockers": [
+    "visualCount is 2 verified product images (moza-r12, simucube-2-sport). This is a settings how-to, not a product roundup, so 8 verified product images cannot be reached without forcing irrelevant product cards — per run instructions this is acceptable and candidateForCertification is left false rather than padding the page with off-topic gear.",
+    "No dedicated FFB 'clipping meter' hero/scene photo exists as a verified asset; hero uses the verified moza-r12.jpg (on-topic Pit House base). An editorial composite is listed in the manifest as needs-generate (non-blocking).",
+    "Optional: 2 more verified target-base images (fanatec-clubsport-dd-plus.webp, simagic-evo-pro.jpg) are available and could be added as a shotgrid/gearpicks to raise density to 4 without any download, if the roundup feel is desired."
+  ],
+  "notes": "Rewritten to gold how-to structure: bold verdict-first (clipping is the one rule that matters), 5-step workflow, clipping explainer, per-sim sections (iRacing / ACC / LMU) each with settings TABLES, a starting-values-by-torque table, MOZA per-base table, a telemetry-tools section, a common-mistakes/warnings section, tip + forum callouts (original), and a dated Sources Checked shelf with real links. All numeric settings framed as attributed starting RANGES with 'verify against the meter' caveats — no invented authoritative numbers. author=curator (Duke Alvarez). Frontmatter has revenueTier B, contentCluster racing, goldStatus refresh, sourceReviewDate + updatedDate 2026-07-02, verified heroImage. Honest low visualCount per the settings-how-to exception; candidateForCertification=false as instructed."
+}

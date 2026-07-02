@@ -1,0 +1,20 @@
+{
+  "slug": "best-sim-racing-wheelbases-2026",
+  "articleFile": "src/content/articles/racing/best-sim-racing-wheelbases-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Text references to CSL DD, Cammus C5, Logitech G PRO, Asetek Invicta (base), Fanatec Podium DD have no verified product image — sourced photos needed before those can become body visuals or before certification if the shortlist should show every base.",
+    "Confirm exact ClubSport DD+ US price and current GT DD Pro bundle price before certifying (prices left as ranges / check-current)."
+  ],
+  "notes": "All 10 embedded images are verified product photos. Curator=author (Duke Alvarez). Verdict-first, torque-truth section, setup-tax warnings, buy order, dated Sources Checked shelf. Left as refresh per run rules; content is certification-ready pending the price confirmations and (optionally) real photos for the 5 text-only bases."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "desk-vs-cockpit-sim-racing-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a direct-drive buyer see the mounting ladder as part of the base purchase, not an afterthought. Real mount/cockpit product proof at every rung; no procedural art. Every embedded image is a verified mount or cockpit so the reader literally sees rigidity climb from clamp to 8020.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Next Level Racing Wheel Stand 2.0",
+      "preferredLocalPath": "/images/gear/racing/nlr-wheel-stand-2.jpg",
+      "officialSourceUrl": "https://nextlevelracing.com/products/racing-wheel-stand-2-0/",
+      "amazonUrl": "https://www.amazon.com/s?k=Next+Level+Racing+Wheel+Stand+2.0&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The article's key folding-stand example (Rung 2). Currently text-only because no verified image exists. Needs a real photo before it can become a gearpick/shotgrid tile. ~$279, folds away, entry-DD (~5Nm) ceiling."
+    },
+    {
+      "product": "Next Level Racing F-GT Elite 160",
+      "preferredLocalPath": "/images/gear/racing/nlr-fgt-elite.jpg",
+      "officialSourceUrl": "https://nextlevelracing.com/products/f-gt-elite/",
+      "amazonUrl": "https://www.amazon.com/s?k=Next+Level+Racing+F-GT+Elite&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced only as a premium 8020 example from the rig guides; low priority, text/context only."
+    },
+    {
+      "product": "Fanatec CSL DD (base, 5Nm)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2_us/csl-dd-qr2-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "File fanatec-csl-dd.jpg exists on disk but is NOT in verified-product-images.json, so it is treated as unverified and used text-only as a desk-candidate example."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/desk-clamp.jpg",
+    "/images/gear/racing/gt-omega-apex.jpg",
+    "/images/gear/racing/nlr-gt-track.jpg",
+    "/images/gear/racing/sim-lab-p1x.jpg",
+    "/images/gear/racing/trak-racer-tr80.jpg"
+  ],
+  "verifiedButUsedAsTextLinkOnly": [
+    "/images/gear/racing/moza-r5.jpg",
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg",
+    "/images/gear/racing/moza-r21.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/racing/desk-vs-cockpit-sim-racing-2026.jpg",
+    "status": "verified-present",
+    "notes": "Existing hero asset already on disk (public/images/racing/). Full 8020 rig silhouette against monitor glow — matches the mounting-ladder-climax framing."
+  },
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-mounting-ladder",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing garage at cool blue monitor glow showing four mounting rungs left-to-right — a desk clamp on a wooden desk, a folding wheel stand, a steel-tube cockpit, and a rigid 8020 aluminum-profile rig — each with an empty 4-bolt plate left open for a real wheelbase overlay, curator Duke Alvarez gesturing along the ladder, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/trak-racer-tr80.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, warped extrusion, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "torque-mount-thresholds",
+      "title": "What torque forces which mount",
+      "format": "1600x1000",
+      "content": ["<8Nm solid desk / folding stand", "8-12Nm stand min, steel cockpit better", "15Nm+ 8020 aluminum (40/80mm)", "25Nm+ flagship 8020 (120/160mm profile)"],
+      "style": "IgnitionSim command-center ladder chart, large readable text, racing colors, real mount photos as row markers for Codex overlay"
+    },
+    {
+      "id": "flex-kills-ffb",
+      "title": "How flex smears force feedback",
+      "format": "1600x1000",
+      "content": ["Sharp DD transient in", "Flexing mount absorbs the spike", "Rounded/blurred signal out", "Rigidity = you receive what you paid for"],
+      "style": "Signal-before/after waveform infographic, racing palette, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-rigidity-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez kneeling beside an 8020 aluminum-profile rig, one hand testing the wheel deck for flex, confident mechanic energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source a real NLR Wheel Stand 2.0 photo so the article's key folding-stand rung has a body visual instead of a text-only mention?",
+    "Confirm Trak Racer TR80 US street price ($499 vs $699) and lock a single figure?",
+    "Do we want a verified base shotgrid (moza-r5/r12/simucube-2-sport/moza-r21) somewhere, or keep every embedded image a mount to preserve the ladder metaphor?"
+  ]
+}

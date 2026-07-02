@@ -1,0 +1,79 @@
+{
+  "slug": "best-sim-racing-setup-under-1000-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a budget builder confident in ONE balanced sub-$1,000 direct-drive cart (base + load-cell pedals + rigid mount) before the torque-trap warnings hit. Real product proof for every embedded pick; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Next Level Racing Wheel Stand 2.0",
+      "preferredLocalPath": "/images/gear/racing/nlr-wheel-stand-2.jpg",
+      "officialSourceUrl": "https://nextlevelracing.com/products/racing-wheel-stand-2-0/",
+      "amazonUrl": "https://www.amazon.com/s?k=Next+Level+Racing+Wheel+Stand+2.0&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The ~$199 folding mount that keeps the winning cart under $1,000. Currently TEXT-ONLY because no verified image and no product record. Needs a real photo (and a products/racing record) before it can appear as a gearpick/shotgrid. Body currently anchors the visible mount pick on the verified GT Omega Apex (the stretch option)."
+    },
+    {
+      "product": "Fanatec CSL Pedals LC bundle",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-lc.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/pedals/csl_p_lc/csl_pedals_lc",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "$199.99 tighter-budget load-cell alternative to the CRP2. Text-only in body until a real photo is sourced."
+    },
+    {
+      "product": "MOZA SR-P (load-cell pedals)",
+      "preferredLocalPath": "/images/gear/racing/moza-srp.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/srp-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+SR-P+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "~$149-199 budget load-cell alt (100kg brake). Text-only. Note moza-srp-lite.jpg exists as a product record but is a different (Lite) SKU and is NOT verified."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-crp2.jpg",
+    "/images/gear/racing/gt-omega-apex.jpg",
+    "/images/gear/racing/thrustmaster-t598.webp",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-the-thousand-dollar-cart",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X garage sim-racing bench at golden-hour rim light, a rigid folding wheel stand with a 4-bolt mounting plate left open for a real wheelbase product overlay and an empty pedal tray below, a price tag or budget slip reading a rounded total, curator Duke Alvarez laying out three boxes in priority order, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg", "/images/gear/racing/moza-crp2.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, fake pedals, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "where-the-thousand-goes",
+      "title": "Where every dollar of $1,000 goes",
+      "format": "1600x1000",
+      "content": ["~$399 Base (MOZA R12, 12Nm)", "~$369 Load-cell brake (MOZA CRP2)", "~$199 Rigid mount (folding stand)", "$0 Shifter/rim/monitors for now", "= ~$967 complete DD rig"],
+      "style": "IgnitionSim command-center stacked-budget chart, large readable text, racing colors, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "budget-buy-order",
+      "title": "Budget build buy order",
+      "format": "1600x1000",
+      "content": ["1 Pick platform (PC vs PS5)", "2 12Nm base", "3 Load-cell brake (not more torque)", "4 Rigid stand + heel plate", "5 Skip shifter/rim/monitors"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-budget-allocation",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, gesturing over a folding wheel stand holding a direct-drive base with load-cell pedals bolted below, confident mechanic energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source a real NLR Wheel Stand 2.0 photo + add a products/racing record so the ~$199 mount that defines the winning cart can be a visible pick, not text-only?",
+    "Confirm hard current prices: MOZA R12 ($399 vs $469), MOZA CRP2 ($369 vs $399), GT DD Pro bundle (sale-dependent).",
+    "Add verified photos for Fanatec CSL Pedals LC and MOZA SR-P so the tighter-budget pedal alternatives can show a photo?"
+  ]
+}

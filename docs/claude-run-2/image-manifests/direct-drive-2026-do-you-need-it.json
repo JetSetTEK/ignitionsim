@@ -1,0 +1,93 @@
+{
+  "slug": "direct-drive-2026-do-you-need-it",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Convince a 2026 buyer that direct drive is now the default (price parity with belt) and that 5Nm is enough to start / 9-15Nm is the sweet spot — before they overspend on torque. Real DD base photos across every tier: the cheap entry floor, the sweet spot, the frontier. No procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Cammus C5 (integrated 5Nm DD wheel)",
+      "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+      "officialSourceUrl": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5+direct+drive&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The cheapest real DD bundle and the literal proof of the 'price argument is gone' thesis. Currently text + Amazon-search only in the body (tip callout + shortlist table) because no verified image. Needs a real photo before it can appear as a gearpick/shotgrid card or before certification."
+    },
+    {
+      "product": "Fanatec CSL DD (QR2)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_us/csl-dd-qr2-ready2race-bundle-pc-8-nm-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in the torque table (5-8Nm entry tier) and setup-tax Boost-Kit-180 note. Text-only until a real base photo is sourced."
+    },
+    {
+      "product": "Simagic Alpha Evo (12Nm standard)",
+      "preferredLocalPath": "/images/gear/racing/simagic-evo.jpg",
+      "officialSourceUrl": "https://simagic.com/pages/alpha-evo",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+Alpha+Evo+wheelbase&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named in the 12Nm sweet-spot table row alongside the R12. The verified Alpha Evo Pro (18Nm) IS embedded and anchors the Simagic visual; the 12Nm variant is text-only."
+    },
+    {
+      "product": "Asetek Invicta (base, 27Nm)",
+      "preferredLocalPath": "/images/gear/racing/asetek-invicta.jpg",
+      "officialSourceUrl": "https://www.asetek.com/simsports/product/invicta-direct-drive-wheelbase-27nm/",
+      "amazonUrl": "https://www.amazon.com/s?k=Asetek+Invicta+wheelbase&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named in the 21-28Nm 'beyond what most can hold' table row. asetek-invicta-pedals.jpg is verified but the BASE image is not; the Asetek visual is anchored on the verified Forte (18Nm) instead."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "/images/gear/racing/thrustmaster-t598.webp",
+    "/images/gear/racing/moza-r9.jpg",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg",
+    "/images/gear/racing/asetek-forte.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-belt-vs-dd",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X sim-racing garage bench at golden-hour rim light: a rigid 8020 wheel stand with an open 4-bolt mounting plate left empty for a real wheelbase product overlay, an old belt-driven wheel set aside on the workbench in soft focus to imply the upgrade, cable tray visible, curator Duke Alvarez resting a hand on the mount, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "dd-vs-belt-vs-gear",
+      "title": "Direct drive vs belt vs gear: what changed in 2026",
+      "format": "1600x1000",
+      "content": ["Gear drive: 2-3Nm, notchy, sub-$200 toy", "Belt drive: 4-6Nm, smooth but softened/lagged", "Direct drive: 6-30+Nm, instant, full-resolution", "2026: entry DD $300-500 = belt-wheel money"],
+      "style": "IgnitionSim command-center comparison chart, large readable text, racing colors, real base photos as row markers for Codex overlay"
+    },
+    {
+      "id": "torque-need-ladder",
+      "title": "How much torque you actually need",
+      "format": "1600x1000",
+      "content": ["5Nm learn car control (enough to start)", "9-12Nm sweet spot (most drivers)", "15Nm heavy / no-assist cars", "18Nm+ headroom, not lap time", "Run it at ~70%, not 100%"],
+      "style": "Numbered ladder, product-photo placeholders (R3/R9/R12/Evo Pro) for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-dd-verdict",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand on a direct-drive wheelbase mounted to a rigid rig, confident mechanic energy, an entry-tier DD base and a belt wheel staged beside him for the 'do you need it' comparison, product overlay space to one side, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Exact current US MSRP for the Cammus C5 (sources span $299 bundle sale / $319.99 wheel / $328 bundle)?",
+    "Current Fanatec GT DD Pro and ClubSport DD+ bundle/base prices (sale-dependent, no hard figure quoted in body)?",
+    "Is there a primary-source measured DD-vs-belt latency figure (the 3-8ms vs 10-15ms number is aggregator-only; body kept it qualitative)?",
+    "Do we want to add a MOZA R5 gearpick? It IS verified but is currently only a table mention.",
+    "Source real photos for Cammus C5, Fanatec CSL DD, Simagic Alpha Evo 12Nm base, and Asetek Invicta base before certification if the shortlist should show every base."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "pedals-over-power",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Convince a racer to spend the next upgrade dollar on a load-cell brake, not a bigger wheelbase. Real pedal product proof throughout, budget-to-luxury, no procedural art. Hero and shotgrid anchor on verified load-cell/hydraulic/active pedals.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "MOZA SRP2 / SR-P load-cell pedals",
+      "preferredLocalPath": "/images/gear/racing/moza-srp-lite.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/srp-pedals",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+SRP2+pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget rung, currently text-only in body because no verified image. The existing record is 'SR-P Lite' ($129) but the current retail set is the SRP2 ($149, launched 26 Mar 2026) — reconcile before it becomes a body visual or the article is certified."
+    },
+    {
+      "product": "Fanatec CSL Pedals with Load Cell Kit",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-lc.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/sim-racing-accessories/csl_p_lck/csl-pedals-load-cell-kit",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell+Kit&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget rung, text-only until real photo sourced. Kit price drifted $99-$140; base pedals are a separate cost, so verify the all-in under-$300 claim."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-crp2.jpg",
+    "/images/gear/racing/heusinkveld-sprint.jpg",
+    "/images/gear/racing/simagic-p2000.jpg",
+    "/images/gear/racing/asetek-invicta-pedals.jpg",
+    "/images/gear/racing/simucube-activepedal-pro.jpg",
+    "/images/gear/racing/moza-mbooster-active-pedal.png"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-brake-over-base",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X garage sim-racing bench at golden-hour rim light, camera low and tight on a rigid pedal deck bolted to an 8020 rig with a visible heel plate, empty product overlay space centered for a real load-cell pedal set, curator Duke Alvarez crouched adjusting the brake elastomer stack, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/heusinkveld-sprint.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake pedals, warped hardware, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "pedal-type-ladder",
+      "title": "The four pedal types",
+      "format": "1600x1000",
+      "content": ["Potentiometer — travel, bundled, getting started only", "Load cell — pressure, ~$120-669, almost everyone", "Hydraulic — fluid-damped, ~$600-1200, realism", "Active — motorized, ~$800-1850+, frontier"],
+      "style": "IgnitionSim command-center chart, large readable text, racing colors, real pedal photos as row markers for Codex overlay"
+    },
+    {
+      "id": "pedal-buy-order",
+      "title": "Pedal buy order",
+      "format": "1600x1000",
+      "content": ["1 Load-cell brake before a bigger base", "2 Rigid mount + heel plate", "3 Calibrate 100% to ~50-80kg + 1-2% deadzone", "4 Drive 20 laps to retrain", "5 Hydraulic/active only for feel"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-brake-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand on a load-cell brake pedal, pointing at the elastomer stack with confident mechanic energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Exact current US MSRP for MOZA CRP2 (site served CAD; US ~$399)?",
+    "Fanatec CSL Load Cell Kit all-in price incl. base pedals — does the under-$300 claim hold?",
+    "Reconcile the 'SR-P Lite' ($129) product record against the current SRP2 ($149) before the budget rung gets a body image."
+  ]
+}

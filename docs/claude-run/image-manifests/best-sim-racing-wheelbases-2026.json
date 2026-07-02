@@ -1,0 +1,96 @@
+{
+  "slug": "best-sim-racing-wheelbases-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a PC builder want the 12Nm sweet-spot rig before they read the torque-truth caveats. Real wheelbase product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Fanatec CSL DD (CSL DD QR2)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2_us/csl-dd-qr2-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best-budget pick, currently text-only in body because no verified image. Needs a real base photo before it can appear as a gearpick/shotgrid or be certified."
+    },
+    {
+      "product": "Cammus C5",
+      "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+      "officialSourceUrl": "https://cammus.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5+direct+drive&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Cheapest real DD bundle. Text-only until real photo sourced."
+    },
+    {
+      "product": "Logitech G PRO Racing Wheel",
+      "preferredLocalPath": "/images/gear/racing/logitech-g-pro.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Premium console pick. Note logitech-rs50-system.jpg IS verified if we want to feature a Logitech base visually instead."
+    },
+    {
+      "product": "Asetek Invicta (base, 27Nm)",
+      "preferredLocalPath": "/images/gear/racing/asetek-invicta.jpg",
+      "officialSourceUrl": "https://www.asetek.com/simsports/product/invicta-direct-drive-wheelbase-27nm/",
+      "amazonUrl": "https://www.amazon.com/s?k=Asetek+Invicta+wheelbase&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Flagship. asetek-invicta-pedals.jpg is verified but the BASE image is not. Body currently anchors the Asetek visual on the verified Forte."
+    },
+    {
+      "product": "Fanatec Podium DD",
+      "preferredLocalPath": "/images/gear/racing/fanatec-podium-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/podium-dd1-us/podium-wheel-base-dd1-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+Podium+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mentioned only in passing; low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg",
+    "/images/gear/racing/asetek-forte.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-torque-truth",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X garage sim-racing bench at golden-hour rim light, a rigid 8020 wheel-stand with an empty 4-bolt mounting plate left open for a real wheelbase product overlay, cable tray visible, curator Duke Alvarez gesturing at the mount point, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "torque-sweet-spot",
+      "title": "How much torque you actually need",
+      "format": "1600x1000",
+      "content": ["5Nm learn car control", "9-12Nm sweet spot (most drivers)", "15Nm heavy/no-assist cars", "18Nm+ headroom, not lap time"],
+      "style": "IgnitionSim command-center chart, large readable text, racing colors, real base photos as row markers for Codex overlay"
+    },
+    {
+      "id": "wheelbase-buy-order",
+      "title": "Wheelbase buy order",
+      "format": "1600x1000",
+      "content": ["1 Pick platform", "2 Torque by car type", "3 4-bolt mount + rigid stand", "4 Load-cell pedals", "5 Check firmware/PSU"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-torque-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand on a direct-drive wheelbase mount, confident mechanic energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Exact current US MSRP for ClubSport DD+ ($899 vs $999)?",
+    "Current GT DD Pro bundle sale price?",
+    "Do we want to feature the verified logitech-rs50-system as the Logitech visual anchor instead of leaving Logitech text-only?"
+  ]
+}

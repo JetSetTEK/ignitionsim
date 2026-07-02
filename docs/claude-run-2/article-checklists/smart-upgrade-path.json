@@ -1,0 +1,21 @@
+{
+  "slug": "smart-upgrade-path",
+  "articleFile": "src/content/articles/racing/smart-upgrade-path.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 13,
+  "realProductImageCount": 13,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Confirm ButtKicker Gamer PRO current US street price before certifying — body intentionally says '~$200+ · check current' (exact US figure not confirmed in the 2026-07-02 search; gear data ~$200, a UK source implied ~£350). Softest number in the article.",
+    "Confirm live MOZA R12 V2 US price at publish — moved to $399 sale / $469 reg on 2026-07-02 while the sibling gold article quotes ~$429; body hedges '~$399-429 · check current'. Reconcile before quoting a single figure.",
+    "Confirm current MOZA R3 bundle sale price ($319 vs $399 reg) and Trak Racer TR80 availability (TR80S was out of stock at check; MK5 in stock at $450) are still live at publish time."
+  ],
+  "notes": "Full gold-structure rewrite. Author=curator Duke Alvarez; goldStatus left as 'refresh' (NOT certified). Added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier A, contentCluster racing. Hero image switched to the VERIFIED /images/gear/racing/moza-r12.jpg (old hero /images/racing/smart-upgrade-path.jpg was an unverified editorial JPG). Old author 'Robert Pruitt' and old publishDate 2026-06-02 retained as publishDate; author changed to Duke Alvarez. 5 FAQs (>=4), related[] has 3 entries (pedals-over-power, best-sim-racing-wheelbases-2026, moza-vs-fanatec-vs-simagic). Verdict-first bold opening ('bundle, pedals, rig, base, taste'); 'one mistake' torque-before-pedals section; a full ladder-at-a-glance comparison TABLE; 5 staged sections; forum callout + two pro-tip callouts (original paraphrase, no long quotes); a dedicated setup-tax/warnings section; explicit buy-order list; 'What to buy' stack (CRP2 first, R12 at Stage 4); dated Sources Checked shelf with 9 real retrieved links. 13 embedded <img> instances across 6 UNIQUE gear images, ALL verified against verified-product-images.json (moza-r12, moza-r3-xbox-bundle, moza-crp2, trak-racer-tr80, sim-lab-p1x, buttkicker-gamer-pro). Cammus C5 is text + Amazon-search link + tip callout ONLY (unverified image, correctly not embedded); Simagic Alpha Evo and Fanatec ClubSport DD are Stage-4 text mentions only. The previous draft embedded /images/gear/racing/cammus-c5.jpg and referenced sim-lab-p1x — cammus-c5.jpg (UNVERIFIED) was removed from all <img> embeds in this rewrite; only verified images remain. Every /racing/gear/<id> review link resolves to a real product in racing.json / racing-extra.json. All 8 Amazon links carry tag=ignitionsim-20 and rel='sponsored nofollow noopener'. Blank line before AND after every HTML block (verified). Exactly 2 frontmatter fences (verified). `npx astro build` passes clean (166 pages); the article does not emit a page yet because the [bay]/[slug] route gates on isCertifiedArticle (goldStatus==='certified'), which is correct and matches the sibling refresh articles (best-sim-racing-wheelbases-2026, pedals-over-power also do not build) — it will render once certified. needsCodexGraphics true: the image manifest proposes a hero ladder composite, 2 infographics (the-upgrade-ladder, torque-before-pedals-wrong) and a curator scene as upgrades — none block certification; the article stands on its 6 verified product visuals today. realProductImageCount counts embedded <img> instances (all verified product photos)."
+}

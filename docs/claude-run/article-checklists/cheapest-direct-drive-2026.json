@@ -1,0 +1,22 @@
+{
+  "slug": "cheapest-direct-drive-2026",
+  "articleFile": "src/content/articles/racing/cheapest-direct-drive-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "verifiedImagesUsed": 5,
+  "textOnlyProducts": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Headline verdict pick (Cammus C5) and the Fanatec wildcard (CSL DD) have no verified in-house product image — both are text-only in the body with Amazon-search links. Source real photos before certification if the guide should show every rung visually.",
+    "Bundle prices at the bottom of the market are sale-dependent: GT DD Pro ($700/$850) and Thrustmaster T598 ($400-500) left as check-current; MOZA R3 quoted at its on-sale price. Confirm current pricing before certifying."
+  ],
+  "notes": "Author = curator (Duke Alvarez). Verdict-first (Cammus C5 / MOZA R3 floor, MOZA R12 value stretch, GT DD Pro / T598 for PS5). Budget ladder table cheapest->sweet spot, shotgrid of 4 verified images, gearpick asides on R3/R12/GT DD Pro/T598 (all verified images), 2 forum/tip callouts, what-you-give-up section, setup-tax warnings, buy order, what-to-buy stack, dated Sources Checked shelf with real links. All 10 embedded image refs use verified paths (moza-r3-xbox-bundle.png, moza-r5.jpg, fanatec-gt-dd-pro.jpg, moza-r12.jpg, thrustmaster-t598.webp). Cammus C5 + Fanatec CSL DD kept text-only per hard image rule. Left goldStatus as refresh, candidateForCertification=false because the headline value pick (Cammus) is text-only pending a sourced photo."
+}

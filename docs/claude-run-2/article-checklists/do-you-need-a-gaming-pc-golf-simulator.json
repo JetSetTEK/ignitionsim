@@ -1,0 +1,21 @@
+{
+  "slug": "do-you-need-a-gaming-pc-golf-simulator",
+  "articleFile": "src/content/articles/golf/do-you-need-a-gaming-pc-golf-simulator.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 4,
+  "realProductImageCount": 1,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low verified-image density: only one genuinely on-topic verified product photo exists (Garmin R50). visualCount is 4 by reusing that single image (hero + shotgrid + 2 gearpicks) plus 2 callouts; there is no honest path to 8 verified images without forcing irrelevant gear cards, which the run rules forbid. Certification should wait on Codex-produced infographics (spec-floor-by-software, PC-vs-no-PC decision tree, where-to-stop-spending) and/or a licensed GSPro screenshot.",
+    "PC build-tier prices (~$1,100 / ~$1,500-$1,900 / ~$2,100-$2,800) are approximate 2026 street estimates and GPU-availability sensitive — re-verify (or add a source) before certifying.",
+    "No dedicated infographic art yet: the by-software spec table and the PC-vs-no-PC decision are currently text/markdown only. Codex graphics would materially raise both visualCount and quality."
+  ],
+  "notes": "Rewrote to gold structure with author Nina Brooks and goldStatus 'refresh' (NOT certified). Added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier B, contentCluster golf. heroImage set to the verified /images/gear/golf/garmin-approach-r50.jpg. Verdict-first opening; by-software spec-floor table; PC-vs-no-PC decision tree; ~$1,100 build ladder table; laptop-tax and 'where to stop spending' warnings; build-first buy order; 'From the forums' and 'Pro tip' callouts (original paraphrase); 5 FAQs; related[] (best-golf-simulator-software, gspro-setup-guide-courses-connectors, golf-simulator-cost, home-golf-simulator-under-10000-2026, all existing golf articles); dated Sources Checked shelf with 6 real retrieved links. CORRECTION baked in: prior draft claimed the Garmin R10 has 'its own basic on-device simulation' — research shows the R10 runs Home Tee Hero on a paired phone/tablet, NOT fully on-device; fixed in body + FAQ. Also corrected the implication that GSPro is NVIDIA-only: GSPro's 2026 specs list some AMD Radeon cards; the AMD lockout is specific to FSX. Removed the off-topic /racing/configurator internal link from the old draft and pointed to the golf cost guide instead. Only 1 embedded gear image and it is verified; exactly 2 frontmatter fences; no literal content/invoke wrapper text. `npx astro build` completes cleanly (166 pages); article intentionally does NOT emit a public page because isCertifiedArticle gates on goldStatus==='certified' — expected for a 'refresh' article. Did not run git/push/deploy; did not run `npm run build`. candidateForCertification=false, honestly, on image density and price re-verification."
+}

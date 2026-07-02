@@ -1,0 +1,23 @@
+{
+  "slug": "button-box-vs-stream-deck-2026",
+  "articleFile": "src/content/articles/racing/button-box-vs-stream-deck-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 1,
+  "realProductImageCount": 1,
+  "verifiedImagesUsed": 1,
+  "textOnlyProducts": 9,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Only 1 verified product image exists for this topic (Elgato Stream Deck XL). Physical button boxes (RaceBox GT4/GT-FLAG/GTE, ReaperWare 32-Elite, Precision Sim Engineering, ignitiON Mini RR, GRID/Apex replicas) have NO verified photos in the library and are cited text-only. Cannot honestly hit an 8-verified-image bar, so candidateForCertification is false by design — matches the honest-low-density directive for this comparison.",
+    "Stream Deck + XL is announcement-stage (early 2026); flagged 'check current availability' rather than quoted as buyable.",
+    "Small-shop button-box prices are approximate and move; article says verify at purchase."
+  ],
+  "notes": "Verdict-first (VR -> button box; visible screen -> Stream Deck, with the Stream Deck + reclaiming rotary dials). Decision fork on whether you can see the screen, a full comparison table, model-matching section (deck sizes + current button-box price points), hybrid/Race Deck section, when-to-buy/when-not, community consensus incl. the SimHub vJOY gotcha, warnings (binding limits, mounting, software dependency, VR hard line), buy order, and a dated Sources Checked shelf with 6 real links. Exactly 1 embedded gear image: the Stream Deck XL gearpick (verified; /space/gear/ route matching 3 other space articles). MOZA RS V2 is a text link inside a tip callout, NOT an embedded image, because /images/gear/racing/moza-rs-v2.jpg is not in verified-product-images.json (HARD IMAGE RULE). All 9 button-box/deck-model products are text + Amazon search. 5 FAQs (added a SimHub/vJOY FAQ). Curator = author (Duke Alvarez). Left as refresh per run rules. To raise toward certification: source real button-box photos per the image manifest."
+}

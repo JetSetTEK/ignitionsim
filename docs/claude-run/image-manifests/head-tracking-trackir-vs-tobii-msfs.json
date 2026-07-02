@@ -1,0 +1,56 @@
+{
+  "slug": "head-tracking-trackir-vs-tobii-msfs",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Frame head tracking as the cheapest upgrade that turns a flat monitor into a window, then settle the clip-vs-clip-free decision by what you fly. Real product proof of both units; no procedural art.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "/images/gear/flight/tobii-eye-tracker-5.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-look-into-the-turn",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home flight-sim desk at a single flat monitor showing an MSFS cockpit banking into a turn, warm gold rim light on deep blue-grey walls, a pilot leaning to look into the turn, open product-overlay space on top of and beneath the monitor edge for a real head-tracking camera and a real sensor bar, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/naturalpoint-trackir-5.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake hardware, warped monitor, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "trackir-vs-tobii-at-a-glance",
+      "title": "TrackIR 5 vs Tobii Eye Tracker 5",
+      "format": "1600x1000",
+      "content": ["TrackIR: IR camera watches a clip you wear, ~$174, sub-mm/~9 ms, unaffected by glasses/beards, best for fighters/warbirds/DCS", "Tobii: sensor bar watches head+eyes, nothing to wear, ~$339, native MSFS 2020/2024, best for GA/airliners on one screen", "Both are 6DOF", "Counterintuitive: the eye tracker is the more expensive option"],
+      "style": "IgnitionSim two-column comparison card, large readable text, flight blues/golds, real product photos as column headers for Codex overlay"
+    },
+    {
+      "id": "clip-vs-clipfree-decision",
+      "title": "Which head tracker: the buy order",
+      "format": "1600x1000",
+      "content": ["1 Decide clip vs clip-free first", "2 Weight by what you fly (fast = TrackIR, GA = Tobii)", "3 Check monitor (single <=30 in keeps Tobii in play)", "4 Check current pricing (TrackIR usually cheaper)", "5 Sort lighting + neutral seat, bind recenter"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-head-tracking-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a single-monitor flight desk, wearing an aviation headset with a small reflective clip, one hand gesturing at the monitor's head-tracking camera, confident pilot-instructor energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "msfs-look-into-turn",
+      "need": "MSFS cockpit view demonstrating look-around freedom (looking into a turn / clearing the nose on a taildragger)",
+      "notes": "Optional supporting visual for the 'monitor becomes a window' concept. Must be a genuine MSFS capture, not fabricated UI. Low priority."
+    }
+  ],
+  "openQuestions": [
+    "Only two products in the comparison — add Codex mechanism/at-a-glance infographics to lift visual density toward roundup level, or accept the lower density for a two-unit comparison?",
+    "Re-confirm both street prices (~$174 TrackIR, ~$339 / ~$289 refurb Tobii) at certification time — they move with sales?"
+  ]
+}

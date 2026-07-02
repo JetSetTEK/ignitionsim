@@ -1,0 +1,88 @@
+{
+  "slug": "best-wheel-for-iracing-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make an iRacer want the 9-12Nm sweet-spot base + the right rim before they overspend on torque they'll never use. Real wheelbase product proof throughout; no procedural art. Reinforce that the rim (rotaries/screen) matters as much as the base.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Simagic Alpha Evo Sport (9Nm)",
+      "preferredLocalPath": "/images/gear/racing/simagic-evo-sport.jpg",
+      "officialSourceUrl": "https://simagic.com/pages/alpha-evo",
+      "amazonUrl": "https://www.amazon.com/s?k=Simagic+Alpha+Evo+Sport&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named value alternative in body, currently TEXT-ONLY (links to gear page + check current pricing) because no verified image. Needs a real base photo before it can appear as a gearpick/shotgrid or be certified. Simagic sells via specialty retailers, limited Amazon presence."
+    },
+    {
+      "product": "Fanatec CSL DD (CSL DD QR2)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2_us/csl-dd-qr2-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in the budget shortlist table only, text-only (no verified image). Low body-visual priority for this article."
+    },
+    {
+      "product": "GT-style round rim with rotary encoders (representative)",
+      "preferredLocalPath": "/images/gear/racing/moza-rs-v2.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/rs-v2-steering-wheel",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+RS+V2+wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The rim section is a core angle (formula vs GT) but NO rim image is verified (moza-rs-v2, moza-ks-gt, fanatec-gt-wheel all unverified). A verified round-GT-rim photo would let us illustrate the 'rotaries + screen' point. Currently text-only."
+    },
+    {
+      "product": "Formula-style flat rim (representative, for open-wheel contrast)",
+      "preferredLocalPath": "/images/gear/racing/moza-formula-rim.jpg",
+      "officialSourceUrl": "https://mozaracing.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+formula+wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "For the open-wheel contrast in the rim section. No verified formula rim image exists. Text-only until sourced."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-r9.jpg",
+    "/images/gear/racing/simagic-evo-pro.jpg",
+    "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
+    "/images/gear/racing/fanatec-gt-dd-pro.jpg",
+    "/images/gear/racing/simucube-2-sport.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-iracing-sweet-spot",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic PC sim-racing bay at cool blue-and-amber rim light, a rigid 8020 wheel-stand with an empty 4-bolt mounting plate left open for a real wheelbase product overlay, a triple-monitor iRacing session glowing on screens (no readable UI), curator Duke Alvarez leaning in with a rotary-dial rim in hand, no fake branded hardware, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/moza-r12.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, readable in-game HUD"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "iracing-torque-ceiling",
+      "title": "How much torque iRacing actually asks for",
+      "format": "1600x1000",
+      "content": ["5Nm learn + feel the car", "9-12Nm sweet spot (buy here)", "12Nm practical ceiling", "18Nm+ headroom, not lap time", "Max Force 35-45Nm = telemetry scaling, NOT hardware"],
+      "style": "IgnitionSim command-center chart, large readable text, racing colors, real base photos as row markers for Codex overlay"
+    },
+    {
+      "id": "formula-vs-gt-rim",
+      "title": "GT rim vs formula rim for iRacing",
+      "format": "1600x1000",
+      "content": ["Round GT rim: best all-rounder, rotaries for bias/TC/fuel, mixed-class", "Flat formula rim: open-wheel only, display + thumb matrix, worse all-rounder"],
+      "style": "Split-panel comparison, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-rim-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean PC cockpit bay, holding a round GT rim, pointing at a rotary encoder, confident mechanic energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source a verified round-GT-rim photo (moza-rs-v2 or fanatec-gt-wheel) so the core rim angle has a body visual instead of text-only.",
+    "Source a verified formula-rim photo for the open-wheel contrast.",
+    "Confirm the native-360Hz iRacing season (24S2) before hard-quoting it in any future edit — body currently hedges."
+  ]
+}

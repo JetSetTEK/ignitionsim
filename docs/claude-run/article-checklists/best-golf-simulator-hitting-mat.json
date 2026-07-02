@@ -1,0 +1,20 @@
+{
+  "slug": "best-golf-simulator-hitting-mat",
+  "articleFile": "src/content/articles/golf/best-golf-simulator-hitting-mat.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 12,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "TrueStrike and Carl's HotShot are referenced in the realism-tier section with gearpicks that intentionally carry no image (verified photography pending) — source real photos before either becomes a body visual, or before certification if the shortlist should show every mat.",
+    "Confirm current TrueStrike pricing and Carl's HotShot base + per-strip pricing (left as check-current)."
+  ],
+  "notes": "All 12 embedded images are verified product photos from verified-product-images.json (Fiberbuilt, SIGPRO Softy, CCE, landing turf, side netting). Curator=author (Nina Brooks). Verdict-first, mat-comparison table, why-a-cheap-mat-costs-twice, per-mat deep sections, mat-height-vs-launch-monitor warning, strip-vs-platform, real-tee, buy order, who-should-skip, verdict, 6 FAQs, dated Sources Checked shelf. Left as refresh per run rules; certification-ready pending the two text-only realism-tier photos and price confirmations."
+}

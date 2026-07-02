@@ -1,0 +1,75 @@
+{
+  "slug": "force-feedback-yoke-worth-it",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Honestly frame a low-density buyer question. Show the ONE verified product proof (the non-FFB Honeycomb Alpha baseline) and keep every FFB unit text-only until a real photo is verified. No procedural art, no unverified gear photos, no forced cards.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "MOZA AY210 Force Feedback Yoke (base + MFY handle)",
+      "preferredLocalPath": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/ay210-yoke-base",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A file exists at this path on disk but is NOT in src/data/verified-product-images.json, so it was REMOVED from the article body this pass (was previously embedded in a shotgrid + two gearpicks). The AY210 is the headline product but stays text-only until a verified studio photo is confirmed and added to the manifest. This is the single biggest visual blocker before certification."
+    },
+    {
+      "product": "Brunner CLS-E NG / MK II FFB Yoke",
+      "preferredLocalPath": "/images/gear/flight/brunner-cls-e-yoke.jpg",
+      "officialSourceUrl": "https://shop.brunner-simulation.ch/product/cls-e-ng-yoke/",
+      "amazonUrl": "https://www.amazon.com/s?k=Brunner+CLS-E+force+feedback+yoke&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Premium/flight-school reference option. Text-only in the body. No gear page exists; Amazon search link only."
+    },
+    {
+      "product": "VPForce Rhino FFB base",
+      "preferredLocalPath": "/images/gear/flight/vpforce-rhino.jpg",
+      "officialSourceUrl": "https://vpforce.eu/",
+      "amazonUrl": "https://www.amazon.com/s?k=VPForce+Rhino+force+feedback&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "DIY/community FFB stick base (~9 Nm). Text-only in the body. No gear page; Amazon search link only. Note: joystick base, not a yoke — kept in the 'options' landscape, not compared head-to-head with the Alpha yoke."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-ffb-worth-it",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic desk flight-sim bench at soft window light, an open aluminum-profile mounting plate with 4 bolt holes waiting for a real yoke product overlay, curator Mac Donovan resting a hand on the mount and looking skeptical-but-fair, MSFS running on a single monitor in the background out of focus, no fake branded hardware, no fake UI text, 16:9 editorial cover conveying 'is it worth it?'.",
+      "realOverlays": ["/images/gear/flight/honeycomb-alpha-yoke.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake FFB yoke, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, invented product renders"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "what-ffb-adds",
+      "title": "What force feedback actually adds",
+      "format": "1600x1000",
+      "content": ["Control loading — heavier with airspeed", "Trim forces — feel it, trim it to neutral", "Stall buffet through the column", "Air loads + gusts react to the air", "Autopilot physically moves the yoke"],
+      "style": "IgnitionSim command-center chart, large readable text, flight-deck blues/amber, spring-vs-servo split, Alpha photo as the 'spring' row marker"
+    },
+    {
+      "id": "ffb-vs-spring-decision",
+      "title": "FFB yoke vs spring yoke — who buys which",
+      "format": "1600x1000",
+      "content": ["Buy FFB: fly for control feel, trim by feel, will mount rigidly, accept maturing software", "Buy spring: still building fundamentals, airliner-first, no rigid mount, value more cockpit per dollar"],
+      "style": "Two-column decision card, ~$848 vs ~$280 price banners, honest-broker tone"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-ffb-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan in a tidy home cockpit corner, one hand on a rigid yoke mount, thoughtful honest-broker expression, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Can we verify an exact MOZA AY210 studio photo so the headline product can appear visually and the article can be certified?",
+    "Do the FFB units (MOZA/Brunner/VPForce) warrant dedicated gear pages, or stay Amazon-search-only given the low product density?",
+    "Confirm current MOZA direct vs retail pricing before any future price refresh (quoted ~$848 direct, retail higher)."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "best-golf-launch-monitor-under-1000",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a budget golfer trust that real launch data under $1,000 is possible in 2026, while being honest that the field shrank to three units. Real launch-monitor product proof throughout; no procedural art. Verdict-first, room-decides-the-sensor framing.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/rapsodo-mlm2pro.jpg",
+    "/images/gear/golf/square-golf-launch-monitor.jpg",
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/skytrak-og-launch-monitor.jpg",
+    "/images/gear/golf/flightscope-mevo-gen2.jpg",
+    "/images/gear/golf/skytrak-plus.jpg"
+  ],
+  "heroImage": {
+    "path": "/images/golf/best-golf-launch-monitor-under-1000.jpg",
+    "status": "verified-on-disk",
+    "alt": "Close detail of a budget photometric launch monitor beside a golf ball on a fairway-green hitting mat in warm directional light",
+    "notes": "Existing hero; retained. On disk at public/images/golf/best-golf-launch-monitor-under-1000.jpg."
+  },
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-sub-1k-field",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic warm-light home golf hitting corner in a garage, a fairway-green hitting mat with a single ball on a tee, an open flat spot beside the ball left for a real launch-monitor product overlay, curator Nina Brooks crouched checking the sensor placement, tape measure on the floor hinting at room depth, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/rapsodo-mlm2pro.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped devices, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "room-decides-sensor",
+      "title": "Your room picks the sensor",
+      "format": "1600x1000",
+      "content": ["Shallow indoor room -> camera (Square Golf)", "Some depth or outdoor -> fusion (Rapsodo MLM2PRO)", "Deep room / range priority -> radar (Garmin R10)", "Radar guesses in shallow rooms"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/gold, real launch-monitor photos as row markers for Codex overlay"
+    },
+    {
+      "id": "true-first-year-cost",
+      "title": "The real first-year cost",
+      "format": "1600x1000",
+      "content": ["Sensor $500-$700", "GSPro subscription ~$250/yr", "Windows gaming PC ~$1,000", "Device Premium (Rapsodo ~$199.99/yr / Garmin ~$99.99/yr)", "RPT balls if you want measured spin"],
+      "style": "Stacked-cost ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-room-depth-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a clean home hitting bay, one hand gesturing at the space behind the hitting mat to show room depth, confident coach energy, launch monitor beside the ball with product overlay space, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm current SkyTrak+ clearance price before quoting a hard number (left as ~$2,000 / check current).",
+    "Verify Square Golf third-party sim software support (GSPro/E6/Awesome Golf) is still current.",
+    "Should the Square Omni ($1,599, ships July 2026) get a step-up mention once shipping confirms?"
+  ]
+}

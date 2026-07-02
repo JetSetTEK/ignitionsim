@@ -1,0 +1,602 @@
+[
+  {
+    "title": "MOZA AB9 vs AB6 Force-Feedback Flight Base: Which FFB Setup to Buy in 2026",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "Buyers deciding between MOZA's two FFB flight bases (AB6 vs AB9) plus the MH16 stick and MTP throttle, weighing $500 entry vs the flagship dual-servo base.",
+    "whyNow": "MOZA's AB9 (12 Nm dual-servo, $499) shipped to strong 2026 reviews (PC Gamer, SimRacingCockpit, FSElite) and is drawing racers into flight; the AB6 vs AB9 decision is a live, high-AOV question with no IgnitionSim coverage.",
+    "primaryProducts": ["MOZA AB9 FFB Base", "MOZA AB6 FFB Base", "MOZA MH16 Flightstick", "MOZA MTP Throttle"],
+    "estimatedAov": "high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://simracingcockpit.gg/moza-ab6-vs-ab9/",
+      "https://www.pcgamer.com/hardware/controllers/moza-ab9-ffb-base-mh16-flightstick-mtp-throttle-review/",
+      "https://fselite.net/content/review-moza-ab9-base-and-ma3x-sidestick/",
+      "https://boostedmedia.net/flight-sim/hardware-reviews-flight/moza-flight/moza-ab6-vs-ab9-flight-force-feedback-base-review/"
+    ],
+    "recommendedPriority": 1,
+    "competitionDifficulty": "medium",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "MOZA product pages have clean official imagery for AB6/AB9/MH16/MTP. Build a decision tree: AB6 for cost-conscious, AB9 for premium/DCS. Cross-link to existing force-feedback-yoke-worth-it.md. Note MOZA Cockpit software shares racing profile system (cross-sell angle to racing bay)."
+  },
+  {
+    "title": "MOZA G1000, Airbus MCDU & Boeing FMC Panels: Home-Cockpit Buyer's Guide (Q3 2026)",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "Home-cockpit builders tracking MOZA's newly announced MGX1000 G1000 panel, MA3F Airbus MCDU, and MB7F Boeing FMC and deciding whether to wait or buy existing panels.",
+    "whyNow": "MOZA announced the full glass-panel lineup at FSExpo/FSWeekend 2026 with a Q3 2026 window and 'pleasant surprise' pricing; huge search interest and no committed price yet makes this a wait/buy authority page with first-mover advantage.",
+    "primaryProducts": ["MOZA MGX1000 Instrument Panel", "MOZA MA3F Flight Computer Display", "MOZA MB7F FCD Boeing FMC", "MOZA MA3F Electronic Flight Control Module"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://msfsaddons.com/2026/06/15/moza-sets-a-q3-2026-window-for-its-airbus-boeing-and-g1000-cockpit-panels/",
+      "https://fselite.net/content/moza-new-hardware-at-flight-sim-expo-2026/",
+      "https://fsnews.eu/moza-announces-new-fcu-mcdu-and-g1000-products-at-fsexpo-2026/",
+      "https://mozaracing.com/blogs/news/moza-fsexpo-2026"
+    ],
+    "recommendedPriority": 1,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Product not yet shipping (Q3 2026) so imagery is announcement-render only; flag needsProductPhotoWork and treat as noindexed lab page until price/photos land. Strong 'wait vs buy now' verdict page. Compare to existing G1000 hardware alternatives."
+  },
+  {
+    "title": "WINCTRL CyberTaurus Force-Feedback Joystick Base: What WinWing's FFB Launch Means for Buyers",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "WinWing/WINCTRL fans researching the new CyberTaurus FFB base lineup (3 variants), the Ursa Minor throttle, and OVHD32 Airbus overhead panel announced at FSWeekend 2026.",
+    "whyNow": "WinWing rebranded to WINCTRL and launched consumer force feedback at FSWeekend 2026 (CyberTaurus 3-variant base, Ursa Minor throttle, $349 overhead panel) directly challenging MOZA AB9 — a fresh head-to-head buyers want mapped.",
+    "primaryProducts": ["WINCTRL CyberTaurus FFB Base", "WinWing Ursa Minor Fighter Throttle", "WINCTRL OVHD32 Airbus Overhead Panel", "WinWing 3x0 Metal Fly-by-Wire Grip"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://msfsaddons.com/2026/03/21/winctrl-brings-force-feedback-flight-controls-to-fsweekend-2026-with-the-cybertaurus-launch-and-a-wave-of-new-products/",
+      "https://www.simflight.com/2026/03/21/winctrl-at-fsweekend-2026-the-force-feedback-revolution-and-the-overhead-panel/",
+      "https://winwingsim.com/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Position as MOZA AB9 vs WINCTRL CyberTaurus FFB shootout, or as standalone WINCTRL explainer. Note brand rename (WinWing -> WINCTRL) causes buyer confusion — good clarifying-content angle. Imagery mostly from announcement coverage."
+  },
+  {
+    "title": "Honeycomb Charlie Rudder Pedals: Are They Still Buyable in 2026? (What to Get Instead)",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "Simmers searching for Honeycomb Charlie rudder pedals availability, discovering they never reached wide release, and needing a same-tier alternative.",
+    "whyNow": "The Charlie reviewed at 9.0 but never hit wide release and Pilot Mall dropped the Honeycomb line — a high-search, low-answer confusion point where a blunt 'do not plan a build around it, buy X instead' verdict wins trust.",
+    "primaryProducts": ["Honeycomb Charlie Rudder Pedals", "Turtle Beach VelocityOne Rudder", "Thrustmaster T.Flight Rudder Pedals"],
+    "estimatedAov": "medium",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://www.pilotmall.com/blogs/news/honeycomb-charlie-the-rudder-pedals-you-ve-been-waiting-for",
+      "https://www.simflight.com/2024/09/12/review-honeycomb-charlie-rudder-pedals/",
+      "https://www.pcguide.com/flight-simulator/guide/best-rudder-pedals/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Complements existing best-flight-sim-rudder-pedals.md — this is the availability/warning angle, not a redo. Lead verdict: availability-first, then two in-stock alternatives (VelocityOne Rudder hall-effect, T.Flight budget)."
+  },
+  {
+    "title": "Turtle Beach VelocityOne Flight Yoke: Apartment-Friendly All-in-One Reviewed (and the Sticky-Yoke Fix)",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "Budget/space-constrained MSFS pilots weighing the all-in-one VelocityOne Flight ($349, yoke+throttle+FMD) and worried about the reported sticky-yoke defect.",
+    "whyNow": "The VelocityOne Flight is a popular Xbox+PC all-in-one, but the well-documented sticky-yoke issue and third-party fixes are a live purchase-blocker buyers search before clicking buy.",
+    "primaryProducts": ["Turtle Beach VelocityOne Flight", "Thrustmaster TCA Boeing Yoke", "Honeycomb Alpha Flight Controls"],
+    "estimatedAov": "medium-high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://www.turtlebeach.com/products/velocity-one-flight",
+      "https://forums.flightsimulator.com/t/my-short-review-of-the-turtle-beach-velocityone-flight-yoke/608508",
+      "https://www.pilotmall.com/blogs/news/turtle-beach-velocityone-vs-thrustmaster-boeing-yoke-best-all-in-one-sim-control-system-for-pc-xbox"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Turtle Beach has clean official product photos. Must include the sticky-yoke warning + fix (Smoothflight mod) per the buy/wait/skip standard. Compare vs TCA Boeing all-in-one. Good compact-cockpit angle."
+  },
+  {
+    "title": "MSFS 2024 Autopilot & Multi-Panel Hardware: Which Panels Actually Earn Their Desk Space",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "IFR-focused simmers deciding which physical panels (autopilot/multi-panel, radio, G1000) to add first for instrument work in MSFS 2024.",
+    "whyNow": "MSFS 2024 lets you map nearly every mouse cockpit function to hardware; with MOZA and Logitech multi-panels current, buyers want a first-panel-to-buy priority order for IFR practice.",
+    "primaryProducts": ["Logitech G Saitek Pro Flight Multi Panel", "MOZA MA3F Autopilot Module", "Logitech Radio Panel"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://msfsaddons.com/2026/03/21/moza-announces-a-g1000-panel-an-fms-unit-and-an-autopilot-module-for-home-sim-cockpits/",
+      "https://flightsimcoach.com/blog/g1000-flight-sim-hardware-panel-guide/",
+      "https://simtuts.com/guides/msfs-2024-autopilot-guide"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "high",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Frame as 'first panel to buy for IFR' priority ladder. Complements msfs-home-cockpit-buyer-map-2026.md (certified) without duplicating — this is panel-specific, IFR-workflow-driven. Logitech panels have abundant retail imagery."
+  },
+  {
+    "title": "Best Budget Rudder Pedals for MSFS 2026: VelocityOne Rudder vs T.Flight vs Logitech",
+    "bay": "flight",
+    "curator": "Mac Donovan",
+    "searchIntent": "New pilots on a budget searching for the best affordable rudder pedals under ~$200 that still use hall-effect sensors.",
+    "whyNow": "With the Honeycomb Charlie unavailable, the budget rudder tier (Turtle Beach VelocityOne Rudder hall-effect, Thrustmaster T.Flight) is the live default recommendation and a high-volume evergreen query.",
+    "primaryProducts": ["Turtle Beach VelocityOne Rudder", "Thrustmaster T.Flight Rudder Pedals", "Logitech G Saitek Pro Flight Rudder Pedals"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://www.pcguide.com/flight-simulator/guide/best-rudder-pedals/",
+      "https://www.turtlebeach.com/blog/best-rudder-pedals-flight-sim",
+      "https://flightsimcoach.com/blog/flight-simulator-rudder-pedals/"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "high",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Higher competition tier; differentiate with a hall-effect-vs-potentiometer buyers filter and current in-stock verdicts. Do NOT overlap the availability/warning angle of the Charlie piece — this is the pure budget shootout. Existing best-flight-sim-rudder-pedals.md may need a refresh cross-link."
+  },
+  {
+    "title": "VKB vs Virpil vs WinWing for Space Sim in 2026: Ergonomics, Reliability & Value Decoded",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "Star Citizen and Elite pilots deciding between the three premium stick brands, weighing VKB reliability/ergonomics, Virpil realism, and WinWing value.",
+    "whyNow": "This is the perennial premium-stick question and IgnitionSim's vkb-vs-virpil-vs-winwing piece was demoted during the media audit — a certified rebuild with real ergonomics/reliability sourcing reclaims a top-intent query.",
+    "primaryProducts": ["VKB Gunfighter", "Virpil Constellation Alpha", "WinWing Orion 2"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://vkb-sim.com.au/collections/vkb-vs-winwing-a-comprehensive-comparison-of-premium-flight-space-simulator-products",
+      "https://vkb-sim.com.au/collections/vkb-vs-virpil",
+      "https://forums.mudspike.com/t/winwing-vkb-or-virpil/17466"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "medium",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "NOTE existing space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md is a demoted refresh candidate — coordinate: either rescue that file or scope this as an ergonomics-first angle. Real user pain-point (Virpil Alpha hand/arm fatigue vs VKB) is the differentiator. Manufacturer imagery needs vision-verify per exact-match rule."
+  },
+  {
+    "title": "Best HOSAS Desk Mounting in 2026: Mach1 vs Monstertech vs 3D-Printed Swivel",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "HOSAS owners needing to mount two sticks to a desk without wrecking keyboard/mouse space, comparing stowable, clamp, and DIY solutions.",
+    "whyNow": "Mounting is the #1 friction after buying dual sticks; Mach1 stowable mounts and Monstertech clamps are the live commercial answers and IgnitionSim only covers Monstertech (mounting-your-hosas-monstertech.md) — the comparison gap is open.",
+    "primaryProducts": ["Mach1 Mounts HOTAS Desk Mount", "Monstertech MTSIM Table Mount", "Monstertech BESSEY Quick-Release Clamp"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://mach1mounts.com/",
+      "https://www.monster.tech/en/product/joystick-hotas-table-mount/",
+      "https://forum.dcs.world/topic/325127-hotas-desk-mount-recommendations/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Positions as the comparison superset over the existing Monstertech-only piece. Key buyer axis: stow-away (Mach1) vs max-rigidity clamp (Monstertech) vs cheap DIY 3D-print. Both vendors have clean product imagery."
+  },
+  {
+    "title": "Best Elite Dangerous Controls in 2026: HOTAS, HOSAS, or Dual-Stick for Combat & Exploration",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "Elite Dangerous pilots choosing a control scheme and specific hardware for the game's flight model, distinct from Star Citizen advice.",
+    "whyNow": "Elite has a different flight model than Star Citizen (flight-assist-off combat favors different setups); the existing best-controls-for-elite-dangerous.md predates 2026 gear and buyers want current Thrustmaster/VKB/WinWing picks matched to Elite specifically.",
+    "primaryProducts": ["Thrustmaster T16000M FCS HOTAS", "VKB Gladiator NXT EVO", "WinWing Orion 2"],
+    "estimatedAov": "medium-high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://vkb-sim.com.au/collections/vkb-vs-virpil",
+      "https://forums.mudspike.com/t/winwing-vkb-or-virpil/17466"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Refresh/expand angle on existing Elite controls file. Differentiate from Star Citizen HOSAS pieces by leaning into Elite's flight-assist-off combat and the classic T16000M twin-stick budget entry. Sources thin — supplement with r/EliteDangerous during writing."
+  },
+  {
+    "title": "Star Citizen 4.x HOSAS Curve & Bind Setup: Getting Six Axes to Fly Right in 2026",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "New HOSAS owners struggling to bind and curve six axes for the current Star Citizen flight model after buying dual sticks.",
+    "whyNow": "The hardware buyer maps exist, but the post-purchase 'now make it fly' setup gap (curves, deadzones, six-axis binds for current SC patches) is where owners get stuck and search — a support page that de-risks the purchase.",
+    "primaryProducts": ["VKB Gladiator NXT EVO (pair)", "Virpil Constellation Alpha (pair)", "WinWing Ursa Minor (pair)"],
+    "estimatedAov": "high",
+    "imageAvailability": "low",
+    "sourceSeeds": [
+      "https://vkb-sim.com.au/collections/vkb-vs-virpil",
+      "https://forums.mudspike.com/t/winwing-vkb-or-virpil/17466"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Support page that reduces purchase uncertainty (per horizon doc). Overlaps how-to-bind-six-axes-hosas.md — scope this as the SC-specific curve/deadzone recipe, not a generic redo, or fold as a refresh. Verify current SC patch version at write time (query Spectrum/r/starcitizen)."
+  },
+  {
+    "title": "MOZA MH16 + MTP + MTLP Combat Flight Setup: Building a DCS Stick/Throttle Rig on a Budget",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "DCS/combat-flight buyers evaluating MOZA's combat flight lineup (MH16 stick, MTP + MTLP throttle) as a cheaper alternative to Virpil/WinWing.",
+    "whyNow": "MOZA entered combat flight in 2026 with the MH16 ($149) and MTP throttle ($329); reviews note the MTP alone is incomplete but MTP+MTLP becomes a genuine setup — a live 'is MOZA a real Warthog alternative' question.",
+    "primaryProducts": ["MOZA MH16 Flightstick", "MOZA MTP Throttle", "MOZA MTLP Throttle", "MOZA MA3X Sidestick"],
+    "estimatedAov": "high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://boostedmedia.net/flight-sim/moza-mtp-throttle-detailed-review/",
+      "https://mozaracing.com/collections/combat-flight",
+      "https://simracingcockpit.gg/best-throttle-for-flight-simulator/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Bay could be flight or space (combat-flight straddles) — filed space for HOTAS clustering but Mac/Val overlap; use best-fit curator. Key honest verdict: MTP incomplete solo, needs MTLP. Clean MOZA official imagery. Cross-sell to AB9 FFB piece."
+  },
+  {
+    "title": "DCS Throttle Showdown 2026: WinWing Orion 2 vs Virpil MongoosT vs Thrustmaster Warthog",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "DCS pilots choosing a dedicated throttle, weighing WinWing value/QC, Virpil MongoosT quality, and the aging Warthog benchmark.",
+    "whyNow": "The Orion 2 vs MongoosT throttle debate is active on IL-2/DCS forums with real QC caveats (WinWing quality-control complaints) buyers need surfaced before a $300+ purchase.",
+    "primaryProducts": ["WinWing Orion 2 Throttle", "Virpil MongoosT-50CM3 Throttle", "Thrustmaster Warthog Throttle"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://forum.il2sturmovik.com/topic/79365-winwing-orion-2-or-virpil-mongoose-throttle/",
+      "https://steamcommunity.com/app/223750/discussions/0/3412055778336451814/",
+      "https://simracingcockpit.gg/best-throttle-for-flight-simulator/"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Complements best-hotas-throttle-dcs-2026.md — scope as throttle-only head-to-head with QC-warning emphasis (WinWing QC caveat is the trust differentiator). Blunt verdict per horizon standard: value vs quality vs legacy."
+  },
+  {
+    "title": "Stream Deck as a Flight Sim Button Box: PilotsDeck vs Flight-Tracker Setup for MSFS 2024",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "Simmers using an Elgato Stream Deck as a cheap programmable button box for MSFS, choosing between PilotsDeck and Flight-Tracker plugins.",
+    "whyNow": "Stream Deck is the highest-ROI button-box entry (existing hardware, ~$150), and the plugin choice (PilotsDeck vs Flight-Tracker via SimConnect) is a live setup question; IgnitionSim covers Stream Deck for space (stream-deck-button-box-space-sim.md) but not the MSFS/flight plugin workflow.",
+    "primaryProducts": ["Elgato Stream Deck MK.2", "Elgato Stream Deck Plus", "Elgato Stream Deck XL"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://github.com/Fragtality/PilotsDeck",
+      "https://flightsim.to/addon/3178/flight-tracker-streamdeck-plugin",
+      "https://forums.flightsimulator.com/t/stream-deck-as-a-button-box/404590"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim really (Stream Deck spans flight+space+racing) but filed space to sit next to existing stream-deck piece; consider cross-sim/Val. Emphasize Stream Deck Plus dials for autopilot/radio. Elgato imagery abundant. Avoid duplicating the space-sim button-box file — this is the flight/MSFS plugin angle."
+  },
+  {
+    "title": "NAUTIS Home Ship Simulator: What Hardware Actually Works (Azimuth Levers, Conning, Dual-Screen)",
+    "bay": "marine",
+    "curator": "Gus Calder",
+    "searchIntent": "Serious marine-sim hobbyists asking what physical controls pair with NAUTIS Home and whether pro azimuth levers are attainable for home use.",
+    "whyNow": "NAUTIS Home brought pro-grade ship sim to consumers (from ~€5.95/mo) with azimuth/conventional control support and USB external controls — a distinctive long-tail marine query with almost zero competing buyer content.",
+    "primaryProducts": ["VSTEP NAUTIS Home", "Smart-Ship Azimuth Lever", "Generic USB throttle/lever controllers"],
+    "estimatedAov": "medium",
+    "imageAvailability": "low",
+    "sourceSeeds": [
+      "https://vstepsimulation.com/nautis-home/",
+      "https://vstepsimulation.com/portable-simulator/",
+      "https://smart-ship.eu/controls/"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Marine 'hardware reality' honest-and-niche angle per triage. Pro azimuth levers (Smart-Ship) are type-approved industrial gear — set realistic expectations (most home users use generic USB throttles + keyboard). Complements marine-sim-hardware-reality.md (demoted) — coordinate, don't duplicate. Imagery scarce; may need diagrams."
+  },
+  {
+    "title": "Azimuth (Z-Drive) Thruster Controls for Home Ship Sims: DIY vs Off-the-Shelf in 2026",
+    "bay": "marine",
+    "curator": "Gus Calder",
+    "searchIntent": "Tug/offshore sim enthusiasts wanting azimuth (Z-drive) style twin-lever controls for ASD tug handling at home.",
+    "whyNow": "Azimuth/ASD tug handling is a distinctive marine niche (VSTEP, NavSimulator content) with no consumer hardware map; a DIY-twin-lever vs generic-USB guide owns a genuinely uncontested long-tail.",
+    "primaryProducts": ["DIY twin-lever azimuth controller (Arduino/potentiometer)", "Generic USB dual-throttle quadrant", "Smart-Ship Azimuth Lever (pro reference)"],
+    "estimatedAov": "low",
+    "imageAvailability": "low",
+    "sourceSeeds": [
+      "https://www.youtube.com/watch?v=6X_O1zmBUig",
+      "https://smart-ship.eu/controls/",
+      "https://vstepsimulation.com/portable-simulator/"
+    ],
+    "recommendedPriority": 4,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Deep niche/DIY — low AOV but authority-building long-tail per triage Tier 3. Complements existing diy-marine-button-box-bridge-console.md and diy-bridge-command-throttle.md — scope as azimuth-specific, cross-link don't duplicate. Mostly DIY diagrams; low real-product imagery."
+  },
+  {
+    "title": "MOZA AB9 Force Feedback Base: Cross-Sim Use in Racing + Flight From One App",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Existing MOZA racing owners wondering if the AB9 flight base plugs into their MOZA ecosystem and shares the Cockpit software/profiles.",
+    "whyNow": "MOZA Cockpit software handles flight AND racing in one app with shared profiles/hub — a real cross-sim buying advantage for the large MOZA racing installed base considering adding flight, and nobody has mapped the shared-ecosystem angle.",
+    "primaryProducts": ["MOZA AB9 FFB Base", "MOZA R-series wheelbase (ecosystem)", "MOZA Cockpit software"],
+    "estimatedAov": "high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://simracingcockpit.gg/moza-ab9-review/",
+      "https://mozaracing.com/products/ab9-base",
+      "https://www.pcgamer.com/hardware/controllers/moza-ab9-ffb-base-mh16-flightstick-mtp-throttle-review/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Distinct from the AB9-vs-AB6 flight piece: THIS is the cross-sim ecosystem/one-app angle aimed at racing-bay readers. Strong internal-cluster link between racing and flight bays. MOZA official imagery clean."
+  },
+  {
+    "title": "Bass Shakers & Tactile Feedback for Flight and Space Sims: ButtKicker + SimHub in 2026",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Flight/space simmers wanting to feel takeoff, turbulence, gear, and gunfire via tactile transducers, choosing a ButtKicker unit and amp and mapping telemetry.",
+    "whyNow": "Tactile feedback is called the highest-ROI immersion upgrade, and while racing coverage exists (diy-motion-vs-bass-shakers-2026.md), the flight/space telemetry-mapping angle (SimShaker for Aviators, SimHub) is uncovered and high-intent.",
+    "primaryProducts": ["ButtKicker Gamer Pro", "ButtKicker Gamer 2 (with BKA-130-C amp)", "Universal bass shaker rig mount"],
+    "estimatedAov": "medium-high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://simracingcockpit.gg/buttkicker-sim-racing-tactile-feedback/",
+      "https://thebuttkicker.com/products/buttkicker-gamer-pro",
+      "https://dreamsimteam.blogspot.com/p/simshaker-and-buttkicker.html"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "medium",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Cross-sim: emphasize the flight/space software layer (SimShaker for Aviators is free; SimHub for racing). Distinct from racing's diy-motion-vs-bass-shakers piece — don't duplicate the racing telemetry section. ButtKicker official imagery is clean. Amp+transducer+software = three-part explainer."
+  },
+  {
+    "title": "Powered USB Hubs for Sim Cockpits: Stopping Dropouts With Multiple Panels & Sticks",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Builders with many USB devices (panels, sticks, button boxes) suffering dropouts and needing a powered hub with enough total wattage.",
+    "whyNow": "Multi-panel flight and HOSAS+button-box space rigs routinely brown out on unpowered hubs; the Honeycomb 30W hub, TP-Link, and Desktop Pilot per-port-switched hubs are the live fixes, and IgnitionSim's flight-sim-usb-hub-wiring piece is a Tier-2 refresh candidate.",
+    "primaryProducts": ["Honeycomb Flight Sim USB Hub (30W)", "TP-Link UH720 7-Port Hub", "Desktop Pilot 7-Port USB Hub"],
+    "estimatedAov": "low",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://flyhoneycomb.com/products/flight-sim-usb-hub",
+      "https://www.desktoppilot.com/product/desktop-pilot-7-port-usb-hub/",
+      "https://forums.flightsimulator.com/t/for-those-using-powered-usb-hubs/610524"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim support page (flight+space+racing all suffer USB draw). Coordinate with flight-sim-usb-hub-wiring-multi-panel.md refresh — this is the powered-hub product-pick layer, wiring file is the topology layer. Emphasize per-port switches + total-wattage math. Clean retail imagery."
+  },
+  {
+    "title": "Best Ultrawide & Triple Monitors for Flight Sim in 2026 (and the VRAM Reality)",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Flight/space simmers choosing between a 34\" ultrawide, 49\" super-ultrawide, or triple monitors and worried about GPU/VRAM headroom in MSFS 2024.",
+    "whyNow": "MSFS 2024 is brutally demanding (triple-4K wants 18-20GB VRAM; 16GB cards stutter in dense cities) and OLED ultrawides (AW3423DWF, G93SC) are the current picks — a high-AOV display+GPU decision buyers agonize over.",
+    "primaryProducts": ["Alienware AW3423DWF QD-OLED 34\"", "Samsung Odyssey G93SC 49\"", "Triple 27\" IPS setup"],
+    "estimatedAov": "high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://www.gamersbynight.com/best-ultrawide-monitors/",
+      "https://www.accessorytested.com/best-monitor-for-microsoft-flight-simulator/",
+      "https://us.ktcplay.com/blogs/desk-setups/multi-monitor-flight-sim-setup"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "high",
+    "authorityValue": "high",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim: existing racing triple-monitor-vs-ultrawide-vs-vr-2026.md is certified — scope THIS as the flight-sim-specific display+VRAM angle (cockpit FOV, photogrammetry VRAM), not a racing redo. The VRAM warning (16GB stutters) is the trust differentiator. High competition — win on VRAM specificity."
+  },
+  {
+    "title": "Best PC Build for MSFS 2024 in 2026: The X3D + VRAM Spec That Actually Runs It",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Buyers speccing or buying a PC specifically for MSFS 2024, needing current CPU (X3D), GPU/VRAM, RAM, and storage guidance.",
+    "whyNow": "MSFS 2024 is even more demanding than 2020 (Tom's Hardware tested 23 GPUs); the X3D-CPU + high-VRAM-GPU + 64GB-RAM consensus is settled enough to publish a blunt build sheet with buy tiers.",
+    "primaryProducts": ["AMD Ryzen 7 9800X3D", "NVIDIA RTX 5090 / RTX 4070 Super", "64GB DDR5-6000 RAM"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://www.tomshardware.com/video-games/pc-gaming/microsoft-flight-simulator-2024-pc-performance-testing-and-settings-analysis-we-tested-23-gpus-the-game-is-even-more-demanding-than-its-predecessor",
+      "https://fsnews.eu/the-ultimate-pc-build-guide-for-msfs-2024/",
+      "https://flightsimcoach.com/blog/best-computer-for-flight-simulator/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "high",
+    "authorityValue": "high",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim (VR/triple pushes spec higher). High AOV via component affiliate stack. Differentiate from generic PC-build content with a flight-sim-specific tiered build sheet (budget/mid/VR-triple) and the X3D-single-core rationale. Provide 3 named builds with buy verdicts."
+  },
+  {
+    "title": "Best VR Headset for Flight & Space Sims 2026: Pimax Crystal Super vs Dream Air vs Quest 3",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Simmers choosing a PCVR headset for cockpit instrument clarity vs comfort vs budget across MSFS, DCS, Star Citizen, and Elite.",
+    "whyNow": "The Pimax Crystal Super (3840x3840/eye) vs Dream Air (comfort/OLED) vs Quest 3 (budget on-ramp) is the settled 2026 PCVR flight decision, with heavy GPU demands buyers must plan around — high-intent, high-AOV.",
+    "primaryProducts": ["Pimax Crystal Super", "Pimax Dream Air", "Meta Quest 3"],
+    "estimatedAov": "high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://gamingpcguru.com/best-vr-flight-sim-setup-2026/",
+      "https://pimax.com/blogs/highlights/best-vr-headset-for-dcs-world-2026-dream-air-vs-crystal-super-a-real-pilots-guide",
+      "https://fselite.net/content/review-pimax-crystal-super/"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "high",
+    "authorityValue": "high",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim spanning flight+space. Existing vr-vs-monitor-flight-sim.md and head-tracking-vs-vr-star-citizen.md are the 'whether VR' pieces — THIS is the 'which headset' picker. Emphasize instrument-clarity (Crystal Super) vs comfort (Dream Air) vs budget (Quest 3) + the RTX 4090/5090 GPU floor. High competition; win on clarity-vs-comfort framing."
+  },
+  {
+    "title": "Head Tracking in 2026: TrackIR vs Tobii vs DelanClip/OpenTrack for Flight & Space Sims",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Non-VR simmers choosing head tracking, comparing TrackIR reliability, Tobii wearable-free eye tracking, and budget DelanClip/OpenTrack.",
+    "whyNow": "2026 latency and game-support data is fresh (DelanClip 8-12ms, TrackIR 15-18ms native 120+ games, Tobii 20-25ms) and Tobii's monitor-size limits are a real buyer trap; existing head-tracking-trackir-vs-tobii-msfs.md is a Tier-2 refresh candidate ripe for a cross-sim expansion.",
+    "primaryProducts": ["TrackIR 5", "Tobii Eye Tracker 5", "DelanClip Fusion + OpenTrack"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://delanclip.com/best-head-tracking-solutions/",
+      "https://sabertoothgames.com/best-head-trackers-for-flight-simulators/",
+      "https://forums.flightsimulator.com/t/trackir-vs-tobii-eye-tracker/475730"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Refresh/expand existing MSFS-focused head-tracking file into a cross-sim (adds DCS/Star Citizen game-support matrix). Key buyer traps to surface: Tobii 27\"-or-smaller monitor limit + ~50 game support vs TrackIR 120+. DelanClip/OpenTrack budget path. Don't duplicate the existing file — coordinate as its refresh."
+  },
+  {
+    "title": "Best Audio for Flight & Space Sims 2026: Open-Back Immersion vs Headset Comms (VATSIM-Ready)",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Simmers choosing between open-back audiophile headphones for soundstage and closed-back gaming headsets with a good mic for VATSIM/multiplayer comms.",
+    "whyNow": "The open-back (Sennheiser HD 560S soundstage) vs closed-back gaming-headset (mic for VATSIM/IVAO) tradeoff is a recurring, unanswered flight/space question — a clean support page with clear picks per use-case.",
+    "primaryProducts": ["Sennheiser HD 560S", "Beyerdynamic DT 770 PRO", "Logitech G Pro X 2 LIGHTSPEED"],
+    "estimatedAov": "medium",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://hangar.flights/flight-simulator/best-flight-simulator-headphones/",
+      "https://www.turtlebeach.com/blog/open-back-vs-closed-back-gaming-headsets",
+      "https://www.cameraegg.org/test/best-headphones-for-flight-simulator/"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Cross-sim (comms matter in flight VATSIM + space multiplayer + racing voice). Split verdict by use-case: solo immersion (open-back, no mic needed) vs multiplayer/ATC (closed-back or open-back + modmic). Call out the mic-for-VATSIM requirement. Abundant retail imagery."
+  },
+  {
+    "title": "Bias & RGB Ambient Lighting for Sim Cockpits: Eye Strain, Contrast, and Immersion in 2026",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Simmers doing long sessions wanting to reduce eye fatigue and deepen perceived contrast/immersion with bias lighting behind monitors and ambient cockpit RGB.",
+    "whyNow": "Bias lighting is a proven, low-cost eye-strain and perceived-contrast upgrade for long flight/racing sessions, and OLED/IPS-heavy sim setups benefit measurably — an easy, uncontested affordable-accessory page.",
+    "primaryProducts": ["Govee monitor bias light strip", "MediaLight bias lighting", "Philips Hue Play light bars"],
+    "estimatedAov": "low",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://eurekaergonomic.com/blogs/eureka-ergonomic-blog/rgb-bias-lighting-reduce-eye-fatigue",
+      "https://us.ktcplay.com/blogs/product-comparisons/fast-va-vs-fast-ips-sim-racing",
+      "https://us.ktcplay.com/blogs/desk-setups/multi-monitor-flight-sim-setup"
+    ],
+    "recommendedPriority": 4,
+    "competitionDifficulty": "low",
+    "authorityValue": "low",
+    "needsProductPhotoWork": false,
+    "notesForCodex": "Low-AOV but easy Amazon-affiliate accessory page and long-session eye-strain angle is genuinely useful. Emphasize the perceived-black-level / IPS-glow-mitigation benefit for triple/ultrawide sim setups. Keep it a support page; don't lead the homepage with it."
+  },
+  {
+    "title": "Heavy-Duty Monitor Stands for Sim Rigs: SimFab vs Next Level vs Trak Racer Triple Mounts",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Builders mounting triple monitors (or a 49\" super-ultrawide) on a sim rig, needing a stand rated for the weight with real VESA adjustability.",
+    "whyNow": "Triple-monitor flight and racing rigs need heavy freestanding stands (SimFab no-weight-limit, Next Level Elite 6063 aluminum, Trak Racer add-on arms) and the weight/VESA/adjustability comparison is a concrete, high-intent purchase with strong affiliate value.",
+    "primaryProducts": ["SimFab Triple Monitor Stand", "Next Level Racing Elite Freestanding Triple Stand", "Trak Racer Triple Monitor Add-On Arms"],
+    "estimatedAov": "medium-high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://simfab.com/product/triple-monitor-mount-stand/",
+      "https://nextlevelracing.com/products/elite-freestanding-triple-monitor-stand-add-on-black-edition/",
+      "https://trakracer.com/products/aluminium-add-on-arms-for-triple-monitor-stand"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Cross-sim (flight+racing both run triples). Pairs with the ultrawide/triple monitor pick piece and the existing racing triple-monitor file. Key buyer axes: weight rating, VESA range, freestanding vs desk-clamp vs 8020 integration. Vendor imagery clean; vision-verify exact model."
+  },
+  {
+    "title": "Sim Cockpit Cable Management in 2026: Taming Panels, Sticks, Shakers & Motion Cleanly",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Builders with a dense rig (multiple panels, sticks, shakers, motion) wanting a repeatable, upgrade-friendly cable-management method.",
+    "whyNow": "As rigs add panels, USB hubs, shakers, and FFB bases, cable chaos and pedal/seat-slider snags become real failure points; a velcro-sleeving-raceway method page is evergreen support content that reduces build frustration.",
+    "primaryProducts": ["Velcro reusable cable ties", "Split-loom / cable sleeving", "Adhesive cable clips + raceway"],
+    "estimatedAov": "low",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://simxpro.com/en-us/blogs/guides/cable-management-for-future-upgrades-motion-shakers-dashboards-and-button-boxes",
+      "https://evezone.evetech.co.za/build-lab/sim-racing-cable-management-hacks-clean-safe-rig",
+      "https://simsportgadget.com/collections/cable-management"
+    ],
+    "recommendedPriority": 4,
+    "competitionDifficulty": "low",
+    "authorityValue": "low",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Cross-sim support page. Low AOV but high 'does this help a builder' value and easy Amazon accessory links (velcro, split-loom, clips). Emphasize upgrade-friendliness (velcro over zip ties) and safety (no pedal/slider snags). Needs original build photos or clear diagrams."
+  },
+  {
+    "title": "Best Compact / Apartment-Friendly Sim Setups 2026: Flight, Space & Marine Without a Cockpit Rig",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "Space-constrained simmers wanting a stowable, desk-based flight/space setup (all-in-one yoke or stowable HOSAS mount) that packs away.",
+    "whyNow": "Stowable mounts (Mach1) and all-in-one units (VelocityOne Flight) make apartment sim viable; a cross-bay 'no permanent rig' buyer guide answers a big, underserved segment and cross-sells accessories.",
+    "primaryProducts": ["Turtle Beach VelocityOne Flight (all-in-one)", "Mach1 stowable HOTAS mount", "Compact desk-clamp HOSAS mount"],
+    "estimatedAov": "medium-high",
+    "imageAvailability": "high",
+    "sourceSeeds": [
+      "https://mach1mounts.com/",
+      "https://www.turtlebeach.com/products/velocity-one-flight",
+      "https://www.monster.tech/en/product/joystick-hotas-table-mount/"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "low",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Cross-sim hub page linking flight (all-in-one yoke), space (stowable HOSAS mount), and mounting pieces. Strong internal-cluster glue. Angle: 'you don't need an 8020 cockpit to fly.' Best-fit curator = cross-sim/Gus but content spans Mac+Val bays."
+  },
+  {
+    "title": "VKB Gladiator NXT EVO vs WinWing Ursa Minor for New Space Pilots in 2026",
+    "bay": "space",
+    "curator": "Val Chen",
+    "searchIntent": "First-time HOSAS/HOTAS buyers under ~$150/stick choosing between the VKB Gladiator NXT EVO and WinWing Ursa Minor entry sticks.",
+    "whyNow": "These two are the default beginner sticks for Star Citizen/Elite and IgnitionSim has a winwing-ursa-minor-vs-vkb-gladiator-nxt-evo file that's a Tier-2 refresh candidate — 2026 pricing/availability and the Ursa Minor throttle news warrant a certified update.",
+    "primaryProducts": ["VKB Gladiator NXT EVO", "WinWing Ursa Minor", "WinWing Ursa Minor Fighter Throttle"],
+    "estimatedAov": "medium",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://www.simulatorhardware.com/products/winwing-ursa-minor-joystick/msfs/",
+      "https://vkb-sim.com.au/collections/vkb-vs-winwing-a-comprehensive-comparison-of-premium-flight-space-simulator-products",
+      "https://forums.mudspike.com/t/winwing-vkb-or-virpil/17466"
+    ],
+    "recommendedPriority": 3,
+    "competitionDifficulty": "medium",
+    "authorityValue": "medium",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Refresh of existing winwing-ursa-minor-vs-vkb-gladiator-nxt-evo.md — add the new Ursa Minor Fighter Throttle pairing and 2026 pricing/availability. Beginner-tier, high-volume. Coordinate as refresh, not new file. Vision-verify stick imagery to exact model."
+  },
+  {
+    "title": "MOZA Combat Flight vs WINCTRL vs Virpil: Which 2026 Ecosystem Should a New Combat Pilot Buy Into?",
+    "bay": "cross-sim",
+    "curator": "Gus Calder",
+    "searchIntent": "New DCS/combat-flight buyers deciding which brand ecosystem to commit to long-term, weighing MOZA (new, FFB, one-app), WINCTRL (FFB, value), and Virpil/VKB (premium, proven).",
+    "whyNow": "2026 is a rare inflection: MOZA and WINCTRL both entered consumer FFB flight simultaneously (AB9 vs CyberTaurus) against incumbent Virpil/VKB — buyers face a genuine ecosystem lock-in decision with no neutral map yet.",
+    "primaryProducts": ["MOZA AB9 + MH16 ecosystem", "WINCTRL CyberTaurus ecosystem", "Virpil Constellation Alpha + MongoosT"],
+    "estimatedAov": "high",
+    "imageAvailability": "medium",
+    "sourceSeeds": [
+      "https://simracingcockpit.gg/moza-ab9-review/",
+      "https://msfsaddons.com/2026/03/21/winctrl-brings-force-feedback-flight-controls-to-fsweekend-2026-with-the-cybertaurus-launch-and-a-wave-of-new-products/",
+      "https://forums.mudspike.com/t/winwing-vkb-or-virpil/17466"
+    ],
+    "recommendedPriority": 2,
+    "competitionDifficulty": "low",
+    "authorityValue": "high",
+    "needsProductPhotoWork": true,
+    "notesForCodex": "Higher-altitude ecosystem/lock-in decision page that sits above the individual product pieces (AB9-vs-AB6, CyberTaurus explainer, DCS throttle showdown) and links down to them — strong pillar candidate. The 'FFB just went mainstream in 2026' framing is the whyNow hook. Neutral, no brand-ranking per pro-sponsor rules."
+  }
+]

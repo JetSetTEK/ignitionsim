@@ -1,0 +1,23 @@
+{
+  "slug": "best-golf-launch-monitor-under-1000",
+  "articleFile": "src/content/articles/golf/best-golf-launch-monitor-under-1000.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "distinctVerifiedImages": 6,
+  "realProductImageCount": 12,
+  "textOnlyProducts": 1,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "SkyTrak+ clearance price left as ~$2,000 / check current before certifying a hard number.",
+    "Square Golf third-party sim software support (GSPro/E6/Awesome Golf) should be re-verified as current."
+  ],
+  "notes": "Curator = author (Nina Brooks), revenueTier A, contentCluster golf. Rewritten to gold structure: verdict-first (MLM2PRO ~$700 + the caveat that the sub-$1K field shrank), honest 3-unit field (MLM2PRO / Square Golf / Garmin R10) plus used-market SkyTrak wildcard, verified shotgrid (3 units), 6 gearpick asides (MLM2PRO, Square, R10, SkyTrak OG, Mevo Gen 2 step-up, SkyTrak+ step-up) all on verified images, head-to-head comparison table (price/tech/spin/room/subscription/indoor-outdoor), forum + pro-tip callouts (original voice), explicit warnings (radar room depth, moving-target pricing, indoor lighting, RPT-ball spin tax, subscription stack), buy order, 'What To Buy' stack, and dated Sources Checked shelf with real cited links. All 12 embedded <img> refs resolve to 6 distinct verified product photos in verified-product-images.json (all present on disk); hero verified on disk. Bushnell Launch Pro is the only product referenced text-only (as an over-budget exclusion) and has a verified image available if a future visual is wanted. Key honest correction vs the old draft: FlightScope Mevo, Bushnell, and SkyTrak+ are NOT sub-$1K in 2026 and are framed as step-ups/exclusions, not budget picks. Prices verified 2026-07-02 via official + retailer pages; volatile category, flagged check-current throughout. Left as refresh per run rules; certification-ready pending the two price/software confirmations."
+}

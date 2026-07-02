@@ -1,0 +1,92 @@
+{
+  "slug": "vkb-vs-virpil-vs-winwing-space-sticks-2026",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a Star Citizen / Elite pilot confidently pick a boutique HOSAS brand — VKB default, Virpil premium, WinWing value — using verified product proof only. Honestly surface that WinWing and the Virpil ALPHA grip lack verified photos rather than faking them. This file was media-demoted to remove unverified images; the line holds.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "WinWing Ursa Minor Space joystick (Space variant, twist)",
+      "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "retailSourceUrl": "https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "HIGHEST PRIORITY. WinWing is a headline brand in the title and carries ZERO verified images. A file exists on disk but is NOT in the verified manifest and is not vision-verified — must not be embedded until verified exact-match. Currently text-only in body with an explicit 'honest photo gap' note."
+    },
+    {
+      "product": "Virpil VPC Constellation ALPHA grip (R or L)",
+      "preferredLocalPath": "/images/gear/space/virpil-constellation-alpha-grip.jpg",
+      "officialSourceUrl": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+Constellation+Alpha+grip&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Virpil's signature HOSAS grip; only the WarBRD-D BASE is verified, so the body anchors the Virpil visual on the base and keeps the ALPHA grip text-only. A file exists on disk but is NOT in the verified manifest and not vision-verified. Verify exact match (ALPHA vs ALPHA Prime metal-body) before adding."
+    },
+    {
+      "product": "WinWing Orion 2 base (MFSSB / conventional gimbal)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-base.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+base&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mentioned as WinWing's climb path. Text-only. Lower priority than the Ursa Minor Space stick photo."
+    },
+    {
+      "product": "WinWing Orion 2 HOTAS (F-16EX combo)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-hotas-f16ex.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F16EX&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mentioned in passing as fighter-shaped crossover option. Text-only, low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/virpil-warbrd-d-base.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "verifiedButNotEmbedded": [
+    "/images/gear/space/vkb-mcg-pro-grip.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-three-brand-hosas",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic enthusiast space-sim desk at cool blue rim light, dual-monitor Star Citizen cockpit view, a clean twin-stick HOSAS layout with two empty ergonomic mounting plates left open for real joystick product overlays, cable management visible, curator Val Chen mid-explanation gesturing between the two stick positions, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joysticks, warped grips, impossible ergonomics, unreadable tiny text, procedural gradient art, invented WinWing/Virpil hardware"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-brand-decision",
+      "title": "VKB vs Virpil vs WinWing at a glance",
+      "format": "1600x1000",
+      "content": ["VKB — value + upgrade ladder", "Virpil — premium metal grips + clutch dampers", "WinWing — features-per-dollar + in-stock", "Stock scarcity decides more builds than gimbal specs"],
+      "style": "IgnitionSim command-center chart, large readable text, space blues, verified base photos as row markers for Codex overlay (VKB Gladiator, Virpil WarBRD-D; WinWing row is text/logo placeholder until a verified photo exists)"
+    },
+    {
+      "id": "hosas-buy-order",
+      "title": "HOSAS starter buy order",
+      "format": "1600x1000",
+      "content": ["1 Pick top TWO brands (stock decides)", "2 HOSAS over HOTAS for six-axis", "3 Sticks + 2 Monstertech mounts together", "4 Stream Deck before a fancier base", "5 Learn the config software", "6 Only then climb to Gunfighter/WarBRD-D"],
+      "style": "Numbered ladder, verified product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-hosas-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a clean twin-stick command station, one hand resting on a mounted joystick, calm expert energy, dual monitors with a starfield behind, product overlay space beside the sticks, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Can we source and vision-verify a real WinWing Ursa Minor Space photo? It is the single biggest visual gap — a headline brand with zero verified images.",
+    "Verify exact-match on the on-disk virpil-constellation-alpha-grip.jpg (ALPHA vs ALPHA Prime) before whitelisting.",
+    "Confirm current VKB Space Combat Edition and WinWing Ursa Minor Space US street prices before flipping goldStatus to certified."
+  ]
+}

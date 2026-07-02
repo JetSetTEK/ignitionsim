@@ -45,8 +45,8 @@ const isWideArt = Boolean(art?.wide);
     box-shadow: 0 9px 0 rgba(16,24,32,.1), 0 28px 58px rgba(16,24,32,.12);
     overflow: hidden;
     display: grid;
-    grid-template-columns: minmax(250px, .95fr) minmax(0, 1fr);
-    min-height: 286px;
+    grid-template-rows: auto 1fr;
+    min-height: 0;
   }
   .article-world-card[data-bay="racing"] { --world-a: #ff4b16; --world-b: #111827; --world-ink: #3b1107; }
   .article-world-card[data-bay="golf"] { --world-a: #10b981; --world-b: #eab308; --world-ink: #073b28; }
@@ -62,7 +62,8 @@ const isWideArt = Boolean(art?.wide);
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 286px;
+    aspect-ratio: 16 / 9;
+    min-height: 0;
     padding: 28px 24px;
     overflow: hidden;
     background:
@@ -93,7 +94,7 @@ const isWideArt = Boolean(art?.wide);
     position: relative;
     z-index: 1;
     width: min(100%, 360px);
-    height: 235px;
+    height: min(235px, 82%);
     object-fit: contain;
     filter: drop-shadow(0 22px 28px rgba(16,24,32,.2));
     transition: transform .45s ease;
@@ -111,7 +112,7 @@ const isWideArt = Boolean(art?.wide);
     width: 100%;
     max-width: none;
     height: 100%;
-    min-height: 286px;
+    min-height: 0;
     object-fit: cover;
     filter: none;
   }
@@ -139,7 +140,7 @@ const isWideArt = Boolean(art?.wide);
   .article-world-card .cbody {
     padding: 22px 24px 26px;
     background: #fff;
-    align-self: center;
+    align-self: start;
   }
   .article-world-card .ctype {
     color: var(--world-a);
@@ -147,21 +148,28 @@ const isWideArt = Boolean(art?.wide);
   .article-world-card h3 {
     font-size: clamp(1.25rem, 2vw, 1.65rem);
     line-height: 1.06;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .article-world-card .cexc {
     color: #334155;
     font-size: .98rem;
     line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .article-world-card .cmeta {
     color: var(--world-a);
   }
   @media (max-width: 680px) {
-    .article-world-card { grid-template-columns: 1fr; }
-    .article-world-card .cimg { min-height: 270px; padding: 26px 20px 24px; }
-    .article-world-card .cimg img { height: 210px; }
-    .article-world-card .cimg.is-wide-art { min-height: 194px; padding: 0; }
-    .article-world-card .cimg.is-wide-art img { height: 194px; min-height: 194px; }
+    .article-world-card .cimg { min-height: 0; padding: 26px 20px 24px; }
+    .article-world-card .cimg img { height: min(210px, 82%); }
+    .article-world-card .cimg.is-wide-art { min-height: 0; padding: 0; }
+    .article-world-card .cimg.is-wide-art img { height: 100%; min-height: 0; }
     .article-world-card .cbody { padding: 18px; }
     .article-world-card h3 { font-size: 1.16rem; }
     .article-world-card .cexc {

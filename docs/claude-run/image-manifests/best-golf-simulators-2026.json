@@ -1,0 +1,94 @@
+{
+  "slug": "best-golf-simulators-2026",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a buyer internalize that you build a simulator around the launch monitor, then guide them to the right complete build by budget. Real launch-monitor, enclosure, projector, mat, screen, and netting product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "SkyTrak ST MAX (best-overall build anchor)",
+      "preferredLocalPath": "/images/gear/golf/skytrak-st-max.jpg",
+      "officialSourceUrl": "https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor",
+      "amazonUrl": "https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-verification",
+      "notes": "Image file is embedded in the body and hero, but skytrak-st-max.jpg is NOT in verified-product-images.json. Vision-verify it is the actual ST MAX (not the discontinued SkyTrak+) and add it to the verified list; it anchors the whole guide."
+    },
+    {
+      "product": "SIGPRO Premium impact screen",
+      "preferredLocalPath": "/images/gear/golf/sigpro-premium-impact-screen.jpg",
+      "officialSourceUrl": "https://shopindoorgolf.com/products/sigpro-premium-golf-simulator-impact-screen",
+      "amazonUrl": "https://www.amazon.com/s?k=SIGPRO+Premium+impact+screen&tag=ignitionsim-20",
+      "status": "needs-verification",
+      "notes": "Embedded in the screen/enclosure shotgrid but NOT in verified-product-images.json. Vision-verify and add to the verified list."
+    },
+    {
+      "product": "Uneekor EYE XO2 (overhead flagship)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://www.uneekor.com/eye-xo2",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Text-only in the overhead-flagships aside because no verified image. Vision-verify before promoting to a body visual."
+    },
+    {
+      "product": "Foresight Falcon (overhead luxury)",
+      "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+      "officialSourceUrl": "https://www.foresightsports.com/products/falcon",
+      "amazonUrl": "https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Text-only in the overhead aside. Needs verified photo before it can appear as a body image."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/rapsodo-mlm2pro.jpg",
+    "/images/gear/golf/bushnell-launch-pro.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg",
+    "/images/gear/golf/sig10-enclosure.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/benq-lk936st.jpg",
+    "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg",
+    "/images/gear/golf/sig-landing-pad-turf.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-build-not-buy",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic finished home golf simulator bay at dusk, glowing fairway on a full-width impact screen, warm gold accent lighting on forest-green walls, a hitting mat with an open product-overlay space beside the tee for a real launch monitor, curator Nina Brooks to the side reviewing a build checklist on a tablet, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-st-max.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped screen, impossible geometry, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-builds-by-budget",
+      "title": "The three builds that actually work in 2026",
+      "format": "1600x1000",
+      "content": ["Budget net rig $1,000-$2,000 (Garmin R10 / Rapsodo)", "Mid enclosure bay $7,000-$9,500 (SkyTrak ST MAX)", "Premium fitting room $12,000+ (Bushnell / Garmin R50)", "Launch monitor chosen first, room built to fit it"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/golds, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "two-point-five-x-rule",
+      "title": "The 2.5x rule: what a build actually costs",
+      "format": "1600x1000",
+      "content": ["Launch monitor price x 2.5-3x = complete-room budget", "$2,499 sensor becomes a $6,500-$8,000 build", "One premium flex per budget, rest stays boring and correct", "Price recurring GSPro + subscription costs, not just sticker"],
+      "style": "Numbered ladder / bar, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-build-order-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a clean finished home simulator bay, one hand gesturing at a hitting mat and screen, confident estimator energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Vision-verify and add skytrak-st-max.jpg and sigpro-premium-impact-screen.jpg to verified-product-images.json so the hero/body visuals are compliant?",
+    "Add Uneekor EYE XO2 and Foresight Falcon to the verified list (after vision verification) so the overhead aside can show units visually instead of text-only?",
+    "Confirm current SIG10 promo price (left as $1,999-$2,499) and whether GSPro is bundled in Bushnell Gold or separate?"
+  ]
+}

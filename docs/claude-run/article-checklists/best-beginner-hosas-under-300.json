@@ -1,0 +1,28 @@
+{
+  "slug": "best-beginner-hosas-under-300",
+  "articleFile": "src/content/articles/space/best-beginner-hosas-under-300.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 9,
+  "realProductImageCount": 9,
+  "verifiedImagesUsed": 5,
+  "textOnlyProducts": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "unverifiedImagesRemoved": [
+    "/images/space/best-beginner-hosas-under-300.jpg (decorative hero, replaced with verified VKB Gladiator gear photo)",
+    "/images/gear/space/winwing-ursa-minor-space.jpg (was in shotgrid + a gearpick; removed, WinWing now text-only)"
+  ],
+  "blockers": [
+    "The verdict-winning pick — WinWing Ursa Minor pair — carries ZERO verified in-house images and is text-only. Source + verify a real Ursa Minor Space photo before the top recommendation can carry a visual; this is the top certification-parity gap.",
+    "Logitech X52/X56 are text-only both because they're unverified AND because they're single-box HOTAS (not a HOSAS) and cannot be mirrored to an off hand — do not add as a HOSAS gearpick.",
+    "Confirm approximate street prices (T.16000M pair / Space Sim Duo bundle, VKB Space Combat Edition, WinWing Ursa Minor Space) before certifying — all left as ranges, none fabricated."
+  ],
+  "notes": "All 9 embedded images are verified in-house product photos (Thrustmaster T.16000M, VKB Gladiator NXT EVO Space Combat Edition ×3, VKB Gunfighter Mk.IV, Monstertech mount ×2, Elgato Stream Deck XL) and the heroImage is the verified VKB Gladiator. Curator=author (Val Chen). Verdict-first; shortlist-at-a-glance table; three tiers (T.16000M / Ursa Minor text-only / Gladiator); dedicated 'What about Logitech' correction section; four beginner-trap warning callouts (binding, desk space, ambidextrous stick, upgrade path); forum callout; buy order; 'What to buy' stack; dated Sources Checked shelf with photo-verification note. Every unverified image was stripped per the HARD IMAGE RULE; WinWing + Logitech are text + official links + Amazon search only. Left as refresh per run rules; certification-ready pending price confirmations and (ideally) a verified WinWing photo for the winning pick."
+}

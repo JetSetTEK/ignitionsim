@@ -1,0 +1,107 @@
+{
+  "slug": "marine-sim-hardware-reality",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Sell the honest truth of the marine bay: there is no boat wheel, only repurposed and DIY gear gated by analog-axis support. Show verified product proof for everything we CAN prove; flag the two community-default items (racing-wheel helm, flight-throttle quadrant) as text-only rather than faking a photo. No procedural or stock art.",
+  "heroImage": {
+    "path": "/images/marine/marine-sim-hardware-reality.jpg",
+    "status": "verified-on-disk",
+    "type": "bay hero illustration",
+    "note": "Bespoke per-article marine bay hero. Exists on disk; intentionally outside verified-product-images.json (that manifest governs /images/gear/ product shots only). Every marine article uses this /images/marine/<slug>.jpg pattern."
+  },
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G29 Driving Force (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The community-default helm stand-in and the highest-value photo to source. A local file exists but is UNVERIFIED, so it was removed from the body; the G29 is now text + link. Verify a real marine-context photo before it can appear as a shotgrid/gearpick visual."
+    },
+    {
+      "product": "Logitech G923 (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g923-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G923+Racing+Wheel&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Pricier helm alternative; TrueForce wasted in marine. Local file exists but UNVERIFIED. Text + link only."
+    },
+    {
+      "product": "Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)",
+      "preferredLocalPath": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The 'quiet hero' / best-value pick in the bay. Local file exists but UNVERIFIED, so removed from body and shown text + link. Second-highest-priority photo to source after the G29."
+    },
+    {
+      "product": "Leo Bodnar BU0836A USB Joystick Interface (soldered)",
+      "preferredLocalPath": "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg",
+      "officialSourceUrl": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180",
+      "amazonUrl": null,
+      "status": "needs-download",
+      "notes": "The exact board the Bridge Command DIY guide names. Local file exists but UNVERIFIED and was removed. The verified solderless BU0836X stands in as the DIY-board visual; a real BU0836A photo would let the Bridge Command reference show the precise board."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg",
+    "/images/gear/marine/thrustmaster-t16000m-rudder.jpg",
+    "/images/gear/marine/raildriver-ship-throttle.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg",
+    "/images/gear/marine/professional-ship-simulator-context.jpg"
+  ],
+  "removedUnverifiedImages": [
+    "/images/gear/marine/logitech-g29-helm.jpg",
+    "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+    "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg"
+  ],
+  "removedUnverifiedNote": "Prior attempt embedded 5 unverified gear images (a shotgrid of 4 + 2 gearpick shots, with the G29 and Saitek quadrant appearing twice each). All unverified references were stripped. The shotgrid was dropped entirely because 2 of its 4 members were unverified; the surviving verified members are shown as inline gearpicks instead. Only the verified 9 remain in the body.",
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-no-boat-wheel",
+      "type": "AI scene",
+      "prompt": "Dark-slate workbench under teal rim light, an empty helm mount and open panel cutout waiting to be filled, a repurposed racing wheel, a flight throttle quadrant and a bare DIY interface board laid out beside it as if a builder is deciding what to press into service as boat controls, no fake marine product, no fake branded UI, honest maker-bench mood, 16:9 editorial cover.",
+      "labelRequired": "AI scene",
+      "negativePrompt": "fake boat-wheel product, fake logos, warped controls, unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "repurpose-map",
+      "title": "What people actually use (and what it was built for)",
+      "format": "1600x1000",
+      "content": ["Helm = racing wheel", "Engine levers = flight throttle quadrant", "Rudder = flight stick twist", "Bridge panel = button box / DIY board", "VR = Quest 3 hand-tracking"],
+      "style": "IgnitionSim command-center chart, real product photos as row markers for verified items only, text-only labels for the racing wheel and throttle quadrant until photos are verified"
+    },
+    {
+      "id": "the-analog-gate",
+      "title": "The analog-axis gate",
+      "format": "1600x1000",
+      "content": ["Sim reads analog axes? -> wheel + throttle work", "Keyboard-only? -> wheel = binary L/R, throttle dead", "Fix = glue software (vJoy / JoyToKey / Xpadder)", "Check the store page BEFORE you buy"],
+      "style": "Decision-flow diagram, marine teal accents, large readable text"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-diy-friction-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a maker bench, wrapping a loop of string around a potentiometer shaft to add throttle friction, practical hands-on energy, DIY board and 10k pots on the bench, no fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "title": "Bridge Command DIY helm build",
+      "note": "Optional: a screenshot or photo of a completed Bridge Command DIY helm/throttle would strengthen the DIY section. Source from the Bridge Command wiki with attribution if used; not embedded in this pass."
+    }
+  ],
+  "openQuestions": [
+    "Highest-value follow-up: source verified marine-context photos of the Logitech G29 and the Saitek Pro Flight Throttle Quadrant — the two community defaults currently text-only.",
+    "Do we want a verified BU0836A (soldered) photo to match the exact board the Bridge Command guide names, or is the BU0836X stand-in sufficient?",
+    "Confirm current G29 sale pricing and Quest 3 tier pricing before the next refresh quotes hard numbers."
+  ]
+}

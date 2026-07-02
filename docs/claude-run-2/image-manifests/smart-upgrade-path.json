@@ -1,0 +1,89 @@
+{
+  "slug": "smart-upgrade-path",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "A",
+  "visualGoal": "Make a bundle owner internalize the buy ORDER (bundle, pedals, rig, base, taste) as a visual ladder before they hit the torque-before-pedals warning, and steer them toward the load-cell brake as the first upgrade. Real product proof at every rung of the ladder; torque (the base) shown fourth, not first. No procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Cammus C5 (cheapest genuine DD bundle)",
+      "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+      "officialSourceUrl": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+      "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in Stage 1 as the PC-only cheapest-DD alternative (text + Amazon link + tip callout only). No verified image, so it is intentionally NOT embedded as a gearpick/shotgrid. Sourcing a real photo would let it join the Stage 1 visuals; not a blocker for this article since MOZA R3 (verified) already anchors Stage 1."
+    },
+    {
+      "product": "Fanatec ClubSport DD (Stage 4 sweet-spot alternative)",
+      "preferredLocalPath": "/images/gear/racing/fanatec-clubsport-dd.jpg",
+      "officialSourceUrl": "https://www.fanatec.com/us/en/p/wheel-bases/clubsport-dd-us/clubsport-dd-us",
+      "amazonUrl": "https://www.amazon.com/s?k=Fanatec+ClubSport+DD&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named in Stage 4 as a 12Nm (15Nm-firmware) alternative to the MOZA R12 (text mention only). No verified image, so text-only. Not a blocker; the verified MOZA R12 anchors Stage 4."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/moza-r12.jpg",
+    "/images/gear/racing/moza-r3-xbox-bundle.png",
+    "/images/gear/racing/moza-crp2.jpg",
+    "/images/gear/racing/trak-racer-tr80.jpg",
+    "/images/gear/racing/sim-lab-p1x.jpg",
+    "/images/gear/racing/buttkicker-gamer-pro.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-upgrade-ladder",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Gen X garage sim-racing bench at golden-hour rim light, a staged upgrade progression laid left-to-right on a workbench — an entry DD bundle box, a set of load-cell pedals, an 8020 aluminum-profile rig frame section, and a mid-tier wheelbase on an open 4-bolt mount — with open product-overlay footprints beside each stage for real product photos, curator Duke Alvarez gesturing along the row like a ladder, cable tray visible, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": [
+        "/images/gear/racing/moza-r3-xbox-bundle.png",
+        "/images/gear/racing/moza-crp2.jpg",
+        "/images/gear/racing/trak-racer-tr80.jpg",
+        "/images/gear/racing/moza-r12.jpg"
+      ],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "the-upgrade-ladder",
+      "title": "The smart upgrade ladder (buy in this order)",
+      "format": "1600x1000",
+      "content": [
+        "1 Bundle — get on track ($299-399)",
+        "2 Load-cell pedals — the biggest consistency gain, lowest spend ($150-400)",
+        "3 8020 rig — kill the flex before the base ($450-850 frame)",
+        "4 Wheelbase — 9-12Nm, ONLY once you hit the ceiling ($399-699)",
+        "5 Taste — haptics / VR / active pedals (enjoyment, not lap time)"
+      ],
+      "style": "IgnitionSim command-center numbered ladder rising left-to-right, torque shown at rung 4 not rung 1, racing colors, real product-photo placeholders as rung markers for Codex overlay"
+    },
+    {
+      "id": "torque-before-pedals-wrong",
+      "title": "Why torque-first wastes money",
+      "format": "1600x1000",
+      "content": [
+        "WRONG: bundle -> bigger base (lap times don't move, brake still wanders)",
+        "RIGHT: bundle -> load-cell brake (pressure not travel, consistency jumps)",
+        "Pedals run over USB — they survive every future base",
+        "A base only helps once you can name the car you hit the torque ceiling in"
+      ],
+      "style": "Two-lane right/wrong comparison card (green/red), MOZA CRP2 photo placeholder on the RIGHT lane for Codex overlay"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-brake-first",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez in a clean garage cockpit bay, one hand resting on a load-cell brake pedal, gesturing 'this first' toward the pedals while a wheelbase sits behind him, confident mechanic energy, product-overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm ButtKicker Gamer PRO current US street price before quoting a hard figure — body deliberately says '~$200+ · check current'; this is the softest number in the article.",
+    "Confirm live MOZA R12 V2 US price at publish ($399 sale / $469 reg on 2026-07-02; sibling article quotes ~$429) — body hedges '~$399-429 · check current'.",
+    "Should Cammus C5 get a sourced real photo so it can join the Stage 1 visuals, or stay text + Amazon link only? Not a blocker either way.",
+    "Optional: widen the Stage 4 shotgrid to show Simagic Alpha Evo alongside the MOZA R12 (simagic-evo.jpg is verified) — currently a text mention only."
+  ]
+}

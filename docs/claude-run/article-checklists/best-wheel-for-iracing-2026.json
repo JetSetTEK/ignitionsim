@@ -1,0 +1,24 @@
+{
+  "slug": "best-wheel-for-iracing-2026",
+  "articleFile": "src/content/articles/racing/best-wheel-for-iracing-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "verifiedDistinctImages": 6,
+  "textOnlyProducts": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blockers": [
+    "Simagic Alpha Evo Sport (named value pick) and Fanatec CSL DD (budget table) are referenced in text with NO verified product image — kept text-only + Amazon/gear-page links. Source real photos before either becomes a body visual.",
+    "Formula-vs-GT rim section (a core angle) has no verified rim photo (all rims unverified: moza-rs-v2, moza-ks-gt, fanatec-gt-wheel). Section is text-only; source a verified round-GT-rim + formula-rim photo to illustrate.",
+    "Formula-vs-GT rim ergonomics is editorial synthesis, not a cited source — fine as opinion voice; do not upgrade to a cited claim without a source.",
+    "Native-360Hz iRacing season hedged as '2024 Season 2 / check current build' — confirm exact season before hard-quoting."
+  ],
+  "notes": "All 10 embedded images (hero + 3 shotgrid + 6 gearpick shots) are VERIFIED product photos, 6 distinct paths: moza-r12, moza-r9, simagic-evo-pro, fanatec-clubsport-dd-plus, fanatec-gt-dd-pro, simucube-2-sport. Curator=author (Duke Alvarez). Verdict-first; best-by-budget + endurance-vs-sprint + console + formula-vs-GT rim; Max Force telemetry-trap callout; irFFB/360Hz section; setup-tax warnings (rim swap/QR, mounting, FFB tuning, wheel-vs-base priority); buy order; What-to-buy stack; dated Sources Checked shelf. Left as refresh per run rules. Certification-ready as-is on verified imagery; the text-only rim + value-pick visuals are optional additive enrichments, not blockers to the article shipping."
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "bass-shakers-tactile-feedback-simhub-2026",
+  "bay": "racing",
+  "curator": "Duke Alvarez",
+  "priority": "B",
+  "visualGoal": "Make a sim racer who already has FFB understand tactile is the next, high-ROI layer — and give them a wire-it-yourself confidence. This is a low-product-density how-to: ONE verified tactile product (ButtKicker Gamer PRO) carries the visual; everything else leans on wiring/stack TABLES and tip/forum callouts. Do NOT force product cards to hit a visual count.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Dayton Audio BST-1 tactile bass shaker",
+      "preferredLocalPath": "/images/gear/racing/dayton-audio-bst-1.jpg",
+      "officialSourceUrl": "https://www.daytonaudio.com/product/1179/bst-1-tactile-bass-shaker-25w",
+      "amazonUrl": "https://www.amazon.com/s?k=Dayton+Audio+BST-1&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The canonical budget DIY transducer (~$30, 25W). Currently text-only + Amazon search in the stack table. Would need a real, license-clean photo before it could become a body visual OR be added to verified-product-images.json. NOT required for this article to ship."
+    },
+    {
+      "product": "Dayton Audio DTA-120 class-D amplifier",
+      "preferredLocalPath": "/images/gear/racing/dayton-audio-dta-120.jpg",
+      "officialSourceUrl": "https://www.daytonaudio.com/product/1219/dta-120-class-d-mini-amplifier-60-wpc",
+      "amazonUrl": "https://www.amazon.com/s?k=Dayton+Audio+DTA-120&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Representative budget amp for the DIY route (~$50). Text-only. Not required to ship."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/buttkicker-gamer-pro.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-tactile-stack",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic sim-racing cockpit under-seat view at dramatic amber rim light, an aluminum-profile seat rail with a rubber-isolated mounting point left open for a real tactile transducer product overlay, a small class-D amplifier on a shelf with a single speaker-wire run, clean cable management, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/racing/buttkicker-gamer-pro.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake transducer, warped hardware, impossible wiring, unreadable text, procedural gradient art, exposed live wires"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "wiring-chain",
+      "title": "PC to amp to shaker: the tactile signal chain",
+      "format": "1600x1000",
+      "content": ["PC 2nd audio output", "→ dedicated line into class-D amp", "→ speaker wire (match 4/8Ω)", "→ transducer (isolated mount)", "SimHub ShakeIt drives it all"],
+      "style": "IgnitionSim command-center flow diagram, large readable labels, racing colors, real transducer photo as the end node for Codex overlay"
+    },
+    {
+      "id": "simhub-effect-order",
+      "title": "Which SimHub effects to turn on first",
+      "format": "1600x1000",
+      "content": ["Start: Wheel Lock / Slip", "Add: Gear Shift", "Add: Road Texture (pick one)", "Add: Engine RPM (low)", "Cap at 3-5 effects — more = mud"],
+      "style": "Numbered ladder, frequency-band motif, no fake product art"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "duke-tactile-tip",
+      "prompt": "Realistic adult Gen X sim-racing curator Duke Alvarez crouched beside a cockpit seat rail, one hand on a rubber-isolated transducer mount, confident mechanic energy, small amplifier and tidy wiring visible, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "SimHub ShakeIt Bass Shakers — Sound Output panel",
+      "notes": "A real SimHub UI screenshot showing the Sound Output device selection + effect list would materially help the wiring section. Must be a genuine capture (or clearly-labeled annotated capture), not AI. Optional — the wiring TABLE already carries the steps without it."
+    }
+  ],
+  "openQuestions": [
+    "Standardize ButtKicker Gamer PRO price: official $349.95 vs on-site spec card ~$200 street?",
+    "Do we ever want to add Dayton BST-1 / a budget amp to the product catalog + verified images so the DIY route gets a real card? (Would require license-clean photos.)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "desk-vs-cockpit-sim-racing-2026",
+  "articleFile": "src/content/articles/racing/desk-vs-cockpit-sim-racing-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "curatorIsAuthor": true,
+  "author": "Duke Alvarez",
+  "visualCount": 12,
+  "verifiedImageCount": 12,
+  "distinctVerifiedImages": 6,
+  "embeddedGearImageCount": 11,
+  "textOnlyProductCount": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "faqCount": 5,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "verdictFirst": true,
+  "mountingLadder": true,
+  "comparisonTable": true,
+  "shotgridPresent": true,
+  "warningsSection": true,
+  "buyOrderSection": true,
+  "whatToBuySection": true,
+  "needsCodexGraphics": true,
+  "structureNotes": {
+    "verdictFirst": "Opens with torque->rigidity verdict: <8Nm desk/stand, 8-10Nm stand/cockpit, 10Nm+ cockpit, 15Nm+ 8020.",
+    "mountingLadder": "Four explicit rungs: desk clamp -> folding stand -> steel cockpit -> 8020 profile.",
+    "shotgrid": "4 verified mount/cockpit tiles (desk-clamp, gt-omega-apex, nlr-gt-track, sim-lab-p1x).",
+    "gearpicks": "6 gearpick asides, all VERIFIED images: desk-clamp, gt-omega-apex(x2 incl what-to-buy), nlr-gt-track, sim-lab-p1x, trak-racer-tr80(x2 incl what-to-buy).",
+    "comparisonTable": "6-row mount vs torque-ceiling vs best-for vs catch table.",
+    "callouts": "forum + 2 tip/warning callouts (original wording).",
+    "sourcesChecked": "Dated July 2 2026, real links to NLR/Sim-Lab/Trak Racer/GT Omega + rig guides."
+  },
+  "blockers": [
+    "Next Level Racing Wheel Stand 2.0 is the article's key folding-stand example (Rung 2) but has NO verified product image, so it is text-only. Source a real photo before it can become a body visual or if the folding-stand rung must be shown pictorially.",
+    "Fanatec CSL DD (5Nm) used as a text-only desk-candidate example; fanatec-csl-dd.jpg exists on disk but is NOT in verified-product-images.json, so it was deliberately not embedded.",
+    "Price ranges left loose where sources diverged (Trak Racer TR80 $499-$699; Sim-Lab P1-X Pro ~$829). Lock single figures before final certification."
+  ],
+  "notes": "All 11 embedded gear images (6 distinct) plus the verified hero are confirmed against src/data/verified-product-images.json — zero unverified images embedded. Author = curator (Duke Alvarez, racing, revenueTier A). Rebuilt to gold structure: verdict-first, four-rung mounting ladder, verified shotgrid, 6 verified gearpicks, torque-threshold comparison table, forum + warning callouts (flex/creak, bolt patterns, space/weight, monitor mounting), buy order, What-to-buy stack, dated Sources Checked with real links. sourceReviewDate/updatedDate 2026-07-02. Left as refresh per run rules; certification-ready pending the price lock-ins and (optionally) a real NLR Wheel Stand 2.0 photo. Author changed from Robert Pruitt to Duke Alvarez per brief; added goldStatus/sourceReviewDate/revenueTier/contentCluster frontmatter; expanded from 4 to 5 FAQs; corrected folding-stand torque claim from ~10Nm to ~5Nm comfortable per Sim Racing Nerd review."
+}

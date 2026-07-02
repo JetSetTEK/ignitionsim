@@ -1,0 +1,78 @@
+{
+  "slug": "golf-simulator-cost",
+  "bay": "golf",
+  "curator": "Nina Brooks",
+  "priority": "A",
+  "visualGoal": "Make a first-time buyer internalize that the room costs as much as the sensor, then guide them to the right tier. Real launch-monitor, enclosure, mat, projector, and netting product proof throughout; no procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Uneekor EYE XO2 (overhead flagship)",
+      "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+      "officialSourceUrl": "https://www.uneekor.com/eye-xo2",
+      "amazonUrl": "https://www.amazon.com/s?k=Uneekor+EYE+XO2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Image file exists on disk but is NOT in verified-product-images.json, so it is text-only in the premium tier. Vision-verify it is the actual EYE XO2 and add to the verified list before promoting to a shotgrid/gearpick."
+    },
+    {
+      "product": "Foresight Falcon (overhead luxury)",
+      "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+      "officialSourceUrl": "https://www.foresightsports.com/products/falcon",
+      "amazonUrl": "https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Image file exists on disk but is NOT in verified-product-images.json. Mentioned only in the luxury-tier aside; text-only until vision-verified and added to the verified list."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/golf/skytrak-plus.jpg",
+    "/images/gear/golf/rapsodo-mlm2pro.jpg",
+    "/images/gear/golf/garmin-approach-r10.jpg",
+    "/images/gear/golf/garmin-approach-r50.jpg",
+    "/images/gear/golf/foresight-gc3.jpg",
+    "/images/gear/golf/carls-place-diy-enclosure.jpg",
+    "/images/gear/golf/sig10-enclosure.jpg",
+    "/images/gear/golf/optoma-gt2100hdr.jpg",
+    "/images/gear/golf/fiberbuilt-studio-mat.jpg",
+    "/images/gear/golf/country-club-elite-mat.jpg",
+    "/images/gear/golf/sigpro-4x7-mat.jpg",
+    "/images/gear/golf/sigpro-side-barrier-netting.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-room-tax",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic finished home golf simulator bay at dusk, glowing fairway on a full-width impact screen, warm gold accent lighting on forest-green walls, a hitting mat with an open product-overlay space beside the tee for a real launch monitor, curator Nina Brooks standing to the side reviewing a tablet, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake launch monitor, warped screen, impossible geometry, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "all-in-by-tier",
+      "title": "What a golf simulator actually costs, all-in",
+      "format": "1600x1000",
+      "content": ["Budget $2,000-$5,000 net + data", "Mid $7,000-$12,000 real room (most buyers)", "Premium $15,000-$30,000+ finished bay", "Launch monitor is a SMALLER slice as tier rises"],
+      "style": "IgnitionSim command-center chart, large readable text, golf greens/golds, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "where-money-goes",
+      "title": "Where the money actually goes (mid-tier)",
+      "format": "1600x1000",
+      "content": ["Launch monitor ~30%", "Enclosure + screen ~25%", "Projector ~13%", "Gaming PC ~13%", "Mat ~10%", "Accessories + hidden ~9%"],
+      "style": "Pie or stacked bar, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "nina-budget-tip",
+      "prompt": "Realistic adult golf curator Nina Brooks in a clean finished home simulator bay, one hand gesturing at a hitting mat and screen, confident estimator energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Add Uneekor EYE XO2 and Foresight Falcon to verified-product-images.json (after vision verification) so the premium tier can show overhead units visually instead of text-only?",
+    "Confirm current SIG10 promo price (left as $1,999-$2,499)?",
+    "Confirm whether GSPro is bundled in Bushnell Gold or separate before tightening the TCO language?"
+  ]
+}

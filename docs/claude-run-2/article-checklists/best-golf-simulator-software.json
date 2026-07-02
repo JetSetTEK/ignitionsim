@@ -1,0 +1,21 @@
+{
+  "slug": "best-golf-simulator-software",
+  "articleFile": "src/content/articles/golf/best-golf-simulator-software.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 3,
+  "realProductImageCount": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low visual density: only 3 verified images embedded (all launch-monitor compatibility anchors: skytrak-plus, flightscope-mevo-gen2, rapsodo-mlm2pro). This is a SOFTWARE explainer and there are ZERO software screenshots in the verified image set, so 8 verified images cannot be reached without forcing irrelevant hardware photos, which the run rules forbid. Certification blocked until Codex produces the 3 comparison infographics in the manifest (compatibility matrix, software-first decision tree, 3-year cost stack) and/or licensed software press renders.",
+    "TGC 2019 compatibility with Garmin R10 and Bushnell Launch Pro is unresolved (sources conflict). Body deliberately flags 'check current' rather than asserting. Resolve before certifying any TGC hardware-coverage claim.",
+    "E6 Apex tier pricing quoted as a range (~$150-$450/yr); confirm exact current tiers before certifying a single number."
+  ],
+  "notes": "Rewrote to gold structure with verdict-first opening, the Windows-PC-vs-iPad decision fork, a full 5-platform compatibility table, per-platform sections (GSPro, E6 Connect, TGC 2019, FSX Play, Awesome Golf), a premium-frontier note (Trackman, Creative Golf 3D), real 3-year subscription math, a forum callout + pro-tip callout (original paraphrase), a buy order, and a dated Sources Checked shelf with 9 real retrieved links. Author set to Nina Brooks (curator=author). Frontmatter: goldStatus refresh (NOT certified), added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier B, contentCluster golf; heroImage is the verified /images/gear/golf/skytrak-plus.jpg; 4 FAQs; related[] = gspro-setup-guide-courses-connectors, do-you-need-a-gaming-pc-golf-simulator, best-golf-launch-monitor-under-1000, skytrak-vs-bushnell-launch-pro-vs-gc3. All 3 embedded gear images verified against verified-product-images.json (0 unverified). Software products (GSPro, E6, TGC 2019, FSX Play, Awesome Golf) intentionally get text + official links (not forced Amazon cards), matching the low-product-density mandate. gearpick labels use 'Spec card' / 'Check Amazon'. Exactly 2 frontmatter fences; no literal wrapper-tag leaks. `npx astro build` completes clean (166 pages, zero schema errors) — the article correctly does NOT emit to dist/ because the [slug].astro route gates on isCertifiedArticle (goldStatus==='certified'); a 'refresh' article is intentionally non-public, identical to the reference golf-simulator-cost.md. Honest visualCount is 3; candidateForCertification left false rather than force hardware images."
+}

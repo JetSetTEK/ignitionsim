@@ -1,0 +1,81 @@
+{
+  "slug": "flight-sim-usb-hub-wiring-multi-panel",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "A wiring how-to with honestly low product density. The ONE verified visual (Honeycomb Bravo) exists to illustrate WHY plain USB fails — a backlit, controller-driven panel is the power draw problem in a box. The subject of the article (the USB hub itself) has no verified catalog image, so it is carried by text + official/Amazon links. Do not force product cards; the wiring/port math table and callouts carry the page.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Honeycomb Flight Sim USB Hub (6-port, 30W)",
+      "preferredLocalPath": "/images/gear/flight/honeycomb-flight-sim-usb-hub.jpg",
+      "officialSourceUrl": "https://flyhoneycomb.com/products/flight-sim-usb-hub",
+      "amazonUrl": "https://www.amazon.com/s?k=Honeycomb+Flight+Sim+USB+Hub&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The actual subject of the article. No catalog image exists. Sourcing a real photo of this 6-port 30W hub would let the hub become a body visual (gearpick/shotgrid) and raise the verified-image count above 1. Highest-value photo to source for this article."
+    },
+    {
+      "product": "Desktop Pilot 10-Port USB Hub",
+      "preferredLocalPath": "/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg",
+      "officialSourceUrl": "https://www.desktoppilot.com/product/desktop-pilot-10-port-usb-hub/",
+      "amazonUrl": "https://www.amazon.com/s?k=Desktop+Pilot+10-Port+USB+Hub&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "A file exists at this path on disk but it is NOT in verified-product-images.json, so it must not be embedded. Referenced text-only for the 'buy one tier more ports' point. Price is now ~$108 (flight-extra.json says ~$60 — stale). Verify a real product photo before any body embed, and update the price in flight-extra.json."
+    },
+    {
+      "product": "MOZA AY210 FFB Yoke",
+      "preferredLocalPath": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+      "officialSourceUrl": "https://mozaracing.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+AY210+force+feedback+yoke&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in the 'note on force feedback' aside as text link only. Image file exists on disk but is NOT in the verified list, so it is not embedded. If it becomes verified, could anchor the FFB aside."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-bravo-throttle.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-usb-tree",
+      "type": "AI scene + real product composite",
+      "prompt": "Clean home flight-sim cockpit desk from above at soft key light, a self-powered USB hub as the central node with tidy labeled cables branching to a yoke, throttle quadrant and stacked backlit airliner panels, cable tray visible, no fake logos, no fake UI, an open flat area left for a real product overlay, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/honeycomb-bravo-throttle.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake brand logos, invented hub model, warped ports, impossible cabling, unreadable tiny text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "what-draws-power",
+      "title": "What draws power in a cockpit",
+      "format": "1600x1000",
+      "content": ["Yoke/stick/pedals — LOW", "Throttle + lit panel — LOW/MED", "Backlit airliner panel — MED/HIGH", "Stacked panels — HIGH (cumulative)", "Force-feedback base — HIGHEST (own supply)"],
+      "style": "IgnitionSim command-center chart, large readable text, flight blues, real Bravo/Alpha photos as row markers for Codex overlay"
+    },
+    {
+      "id": "hub-decision",
+      "title": "Powered vs bus-powered — the one that matters",
+      "format": "1600x1000",
+      "content": ["Bus-powered = shares one port's 500/900mA — browns out panels", "Self-powered = own wall adapter (30W / 60W) — the right tool", "30W/6-port for most builds", "Two hubs / 60W for airliner stacks", "Then: disable USB selective suspend"],
+      "style": "Two-column decision chart, flight colors, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-wiring-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a tidy home cockpit desk, one hand on a powered USB hub, calm methodical builder energy, labeled cables in frame, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "windows-usb-selective-suspend",
+      "need": "Screenshot of Windows Power Options advanced settings showing 'USB selective suspend setting → Disabled', and Device Manager USB Root Hub Power Management tab. Would strengthen the two-step dropout fix section.",
+      "status": "optional"
+    }
+  ],
+  "openQuestions": [
+    "Source a real Honeycomb 6-port USB hub photo so the article's actual subject can appear as a body visual and lift verifiedImagesUsed above 1?",
+    "Re-fetch the PMDG cockpit-builders thread (403'd on direct fetch) to confirm exact hub models / PSU wattage before quoting harder than 'two hubs on a 60W supply'?",
+    "Update Desktop Pilot 10-port price in flight-extra.json from ~$60 to ~$108?"
+  ]
+}

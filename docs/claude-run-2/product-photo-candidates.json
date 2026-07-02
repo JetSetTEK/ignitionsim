@@ -1,0 +1,1262 @@
+[
+  {
+    "product": "WinWing Ursa Minor Space joystick (L/R)",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+    "officialProductUrl": "https://www.winwingsim.com/view/goods-details.html?id=552",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.winwingsim.com/view/goods-details.html?id=552",
+        "sourceName": "WINWING Official Store — URSA MINOR Space Joystick R",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official WinWing product page (right-hand). Hosts multiple high-res product gallery photos; extract img src at fetch time. Note: winwingsim.com 301-redirects to winctrl.com for some SKUs."
+      },
+      {
+        "url": "https://winwingsim.com/mobileview/goods-details.html?id=553",
+        "sourceName": "WINWING Official Store — URSA MINOR Space Joystick L",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official left-hand variant page with product gallery images."
+      },
+      {
+        "url": "https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l",
+        "sourceName": "Micro Center — WINWING URSA MINOR Space Joystick L",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "US retailer with clean white-background product photo; fallback if official CDN blocks hotlink."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+    "blocksArticles": [
+      "vkb-vs-virpil-vs-winwing-space-sticks-2026",
+      "best-beginner-hosas-under-300",
+      "hosas-vs-hotas",
+      "winwing-ursa-minor-vs-vkb-gladiator-nxt-evo"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "WinWing MCDU / PFP-3N / PAP-3 / FCU + EFIS airliner panels",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/winwing-airliner-panels.jpg",
+    "officialProductUrl": "https://winctrl.com/view/goods-details.html?id=945",
+    "imageCandidateUrls": [
+      {
+        "url": "https://winctrl.com/view/goods-details.html?id=945",
+        "sourceName": "WINCTRL Official Store — MCDU",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official MCDU (MIP Series airline panel) product page with gallery photos."
+      },
+      {
+        "url": "https://winctrl.com/view/goods-details.html?id=965",
+        "sourceName": "WINCTRL Official Store — PFP 3N (Panel of Flight Plan)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official PFP-3N product page."
+      },
+      {
+        "url": "https://winctrl.com/view/goods-details.html?id=1065",
+        "sourceName": "WINCTRL Official Store — PAP 3 (Panel of Auto Pilot, Boeing-style MCP)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official PAP-3 product page. PAP 3 MAG variant at winwingsim.com id=1085."
+      },
+      {
+        "url": "https://winctrl.com/view/goods-details.html?id=550",
+        "sourceName": "WINCTRL Official Store — FCU Unit",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official full-size FCU (Flight Control Unit) product page."
+      },
+      {
+        "url": "https://us.winwingsim.com/mobileview/goods-details.html?id=885",
+        "sourceName": "WINWING Official Store — EFIS Combo",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official EFIS Combo product page (pairs with FCU)."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=WinWing+MCDU+airliner+panel&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-flight-sim-hardware-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "MOZA AY210 Force Feedback Yoke",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+    "officialProductUrl": "https://mozaracing.com/products/ay210-yoke-base",
+    "imageCandidateUrls": [
+      {
+        "url": "https://mozaracing.com/products/ay210-yoke-base",
+        "sourceName": "MOZA Racing Official — AY210 Yoke Base",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official MOZA product page (Shopify-hosted cdn.shopify.com product photos, clean studio shots)."
+      },
+      {
+        "url": "https://us.mozaracing.com/products/ay210-ffb-yoke-bundle",
+        "sourceName": "MOZA Racing US Official — AY210 Yoke Bundle",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "US store bundle page with additional gallery images."
+      },
+      {
+        "url": "https://www.apexsimracing.com/products/moza-ay210-force-feedback-yoke",
+        "sourceName": "Apex Sim Racing — MOZA AY210 FFB Yoke Base",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Specialty retailer fallback with clean product media."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20",
+    "blocksArticles": [
+      "force-feedback-yoke-worth-it",
+      "best-flight-sim-hardware-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Thrustmaster HOTAS Warthog",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/thrustmaster-hotas-warthog.jpg",
+    "officialProductUrl": "https://www.thrustmaster.com/en-us/products/hotas-warthog/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.thrustmaster.com/en-us/products/hotas-warthog/",
+        "sourceName": "Thrustmaster Official — HOTAS Warthog",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page with high-res press-quality stick + dual throttle photos."
+      },
+      {
+        "url": "https://eshop.thrustmaster.com/en_us/hotas-warthog.html",
+        "sourceName": "Thrustmaster US eShop — HOTAS Warthog",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official eShop listing with product gallery."
+      },
+      {
+        "url": "https://www.amazon.com/Thrustmaster-Throttle-Simulation-Official-Aircraft-PC/dp/B00371R8P4",
+        "sourceName": "Amazon — Thrustmaster HOTAS Warthog (ASIN B00371R8P4)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B00371R8P4, title matches product. Amazon media as broad-catalog fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-flight-sim-hardware-2026",
+      "best-hotas-msfs-2024",
+      "best-hotas-throttle-dcs-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Fanatec CSL DD / CSL DD QR2 wheelbase",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/fanatec-csl-dd-qr2.jpg",
+    "officialProductUrl": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2l_90_us/csl-dd-qr2l-5-nm-us",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2l_90_us/csl-dd-qr2l-5-nm-us",
+        "sourceName": "Fanatec Official — CSL DD QR2 (5 Nm)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Fanatec product page; images hosted on assets.fanatec.com (Cloudinary). Clean studio shots."
+      },
+      {
+        "url": "https://www.fanatec.com/us/en/p/wheel-bases/csl_dd_qr2l_8nm_us/csl-dd-qr2-lite-8-nm-us",
+        "sourceName": "Fanatec Official — CSL DD QR2 (8 Nm)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "8 Nm variant page (same base body, additional gallery angles)."
+      },
+      {
+        "url": "https://www.amazon.com/FANATEC-Racing-Wheel-Base-Motorsport-Derived-Desktop/dp/B0FBGZHFN3",
+        "sourceName": "Amazon — Fanatec CSL DD QR2 Wheel Base 5 Nm (ASIN B0FBGZHFN3)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B0FBGZHFN3, title matches. Amazon fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+DD+QR2+wheelbase&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-sim-racing-wheelbases-2026",
+      "cheapest-direct-drive-2026",
+      "best-sim-racing-setup-under-1000-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Cammus C5",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/cammus-c5.jpg",
+    "officialProductUrl": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/",
+        "sourceName": "CAMMUS Racing Official — C5 Direct Drive Steering Wheel",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer product page (WooCommerce). Product gallery photos of the all-in-rim DD unit."
+      },
+      {
+        "url": "https://cammusracing.com/product-category/wheelbases/cammus-c5/",
+        "sourceName": "CAMMUS Racing Official — C5 category page",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Category listing with additional C5 product thumbnails."
+      },
+      {
+        "url": "https://www.amazon.com/Simulator-Technology-Wheelbase-Construction-Cloud-based-Desktop/dp/B0CSGD9T7L",
+        "sourceName": "Amazon — CAMMUS C5 Bundle Complete Set (ASIN B0CSGD9T7L)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B0CSGD9T7L. Note: this ASIN is the full bundle (wheel + CP5 pedals); verify crop isolates the C5 wheel."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Cammus+C5+direct+drive&tag=ignitionsim-20",
+    "blocksArticles": [
+      "cheapest-direct-drive-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Logitech G PRO Racing Wheel",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/logitech-g-pro-racing-wheel.jpg",
+    "officialProductUrl": "https://www.logitechg.com/en-us/shop/p/pro-racing-wheel",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/pro-racing-wheel",
+        "sourceName": "Logitech G Official — PRO Racing Wheel",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page; high-res images hosted on resource.logitechg.com CDN."
+      },
+      {
+        "url": "https://www.amazon.com/Logitech-PRO-Racing-Wheel-Playstation/dp/B08W27XX75",
+        "sourceName": "Amazon — Logitech G PRO Racing Wheel (ASIN B08W27XX75)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B08W27XX75, title matches. Amazon fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+PRO+Racing+Wheel&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-sim-racing-wheelbases-2026",
+      "best-wheel-for-iracing-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Fanatec Podium DD (DD1)",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/fanatec-podium-dd1.jpg",
+    "officialProductUrl": "https://www.fanatec.com/us/en/p/wheel-bases/p_wb_dd1_qr2_us/podium-wheel-base-dd1-qr2-us",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.fanatec.com/us/en/p/wheel-bases/p_wb_dd1_qr2_us/podium-wheel-base-dd1-qr2-us",
+        "sourceName": "Fanatec Official — Podium DD1 QR2 (20 Nm)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Fanatec product page; assets.fanatec.com (Cloudinary) studio photos of the Podium DD1 base."
+      },
+      {
+        "url": "https://www.fanatec.com/us/en/c/podium-series",
+        "sourceName": "Fanatec Official — Podium Series category",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Podium series category page with additional base imagery."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Fanatec+Podium+DD1+wheelbase&tag=ignitionsim-20",
+    "blocksArticles": [],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Asetek Invicta wheelbase",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/asetek-invicta.jpg",
+    "officialProductUrl": "https://www.asetek.com/simsports/webshop/us/product/invicta-direct-drive-wheelbase-27nm/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.asetek.com/simsports/webshop/us/product/invicta-direct-drive-wheelbase-27nm/",
+        "sourceName": "Asetek SimSports Official (US) — Invicta 27Nm Wheelbase",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official US webshop product page with high-res studio product photos."
+      },
+      {
+        "url": "https://www.asetek.com/simsports/products/invicta/",
+        "sourceName": "Asetek SimSports Official — Invicta product hub",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Marketing hub page with hero + detail imagery of the Invicta base."
+      },
+      {
+        "url": "https://pure-sims.com/product/asetek-invicta-wheelbase/",
+        "sourceName": "Pure Sims — Asetek Invicta Wheelbase",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Specialty retailer fallback with clean product media."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Asetek+Invicta+wheelbase&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-sim-racing-wheelbases-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Virpil Constellation ALPHA grip",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/virpil-constellation-alpha.jpg",
+    "officialProductUrl": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html",
+    "imageCandidateUrls": [
+      {
+        "url": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html",
+        "sourceName": "VIRPIL US Official — VPC Constellation ALPHA [R]",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official US store product page with high-res grip photos."
+      },
+      {
+        "url": "https://virpil.com/en/blog/174-introducing-the-vpc-constellation-alpha-grip",
+        "sourceName": "VIRPIL.COM Official Blog — Introducing the VPC Constellation ALPHA Grip",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer announcement post with press-quality product photography."
+      },
+      {
+        "url": "https://virpil-controls.eu/vpc-constellation-alpha-r.html",
+        "sourceName": "VIRPIL EU Official — VPC Constellation ALPHA [R]",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "EU store product page fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Virpil+Constellation+ALPHA+grip&tag=ignitionsim-20",
+    "blocksArticles": [
+      "vkb-vs-virpil-vs-winwing-space-sticks-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "MOZA SR-P pedals",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/moza-sr-p-pedals.jpg",
+    "officialProductUrl": "https://mozaracing.com/products/srp-pedals",
+    "imageCandidateUrls": [
+      {
+        "url": "https://mozaracing.com/products/srp-pedals",
+        "sourceName": "MOZA Racing Official — SR-P Pedals",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page; cdn.shopify.com studio photos of the 2/3-pedal set."
+      },
+      {
+        "url": "https://www.apexsimracing.com/products/moza-racing-sr-p-sim-racing-pedals-2-pedal-set",
+        "sourceName": "Apex Sim Racing — MOZA SR-P 2-Pedal Set",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Specialty retailer fallback with clean media."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=MOZA+SR-P+pedals&tag=ignitionsim-20",
+    "blocksArticles": [
+      "pedals-over-power",
+      "best-sim-racing-setup-under-1000-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Fanatec CSL Pedals Load Cell (CSL LC)",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/fanatec-csl-pedals-lc.jpg",
+    "officialProductUrl": "https://www.fanatec.com/us/en/p/pedals/csl_p_lc/csl_pedals_lc",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.fanatec.com/us/en/p/pedals/csl_p_lc/csl_pedals_lc",
+        "sourceName": "Fanatec Official — CSL Pedals LC (Load Cell) Bundle",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page for the CSL Pedals with load cell brake; assets.fanatec.com studio photos."
+      },
+      {
+        "url": "https://www.fanatec.com/us/en/p/pedals/csl_p/csl-pedals",
+        "sourceName": "Fanatec Official — CSL Pedals (base 2-pedal set)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Base CSL Pedals page (same body) for additional angles."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Fanatec+CSL+Pedals+Load+Cell&tag=ignitionsim-20",
+    "blocksArticles": [
+      "pedals-over-power",
+      "best-sim-racing-setup-under-1000-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Turtle Beach VelocityOne Flightstick",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/turtle-beach-velocityone-flightstick.jpg",
+    "officialProductUrl": "https://www.turtlebeach.com/products/velocity-one-flight-stick",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.turtlebeach.com/products/velocity-one-flight-stick",
+        "sourceName": "Turtle Beach Official — VelocityOne Flightstick",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page with high-res studio images. Flightstick II variant also exists at /velocity-one-flight-stick-ii."
+      },
+      {
+        "url": "https://www.amazon.com/VelocityOne-Flightstick-Simulation-Controller-Gaming-Console/dp/B0BHTPP71M",
+        "sourceName": "Amazon — Turtle Beach VelocityOne Flightstick (ASIN B0BHTPP71M)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B0BHTPP71M, title matches. Amazon fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20",
+    "blocksArticles": [],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Turtle Beach VelocityOne Rudder",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/turtle-beach-velocityone-rudder.jpg",
+    "officialProductUrl": "https://www.turtlebeach.com/products/velocity-one-rudder",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.turtlebeach.com/products/velocity-one-rudder",
+        "sourceName": "Turtle Beach Official — VelocityOne Rudder Pedals",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page with high-res studio images of the rudder pedals."
+      },
+      {
+        "url": "https://www.amazon.com/VelocityOne-Universal-Windows-Featuring-Adjustable-PC/dp/B0B7NTLKF2",
+        "sourceName": "Amazon — Turtle Beach VelocityOne Universal Rudder Pedals (ASIN B0B7NTLKF2)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B0B7NTLKF2, title matches. Amazon fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder&tag=ignitionsim-20",
+    "blocksArticles": [],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Generic sim-racing button boxes (RaceBox / GRID Engineering)",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/sim-racing-button-box.jpg",
+    "officialProductUrl": "https://raceboxsimracing.com/collections/sim-racing-button-boxes",
+    "imageCandidateUrls": [
+      {
+        "url": "https://raceboxsimracing.com/products/gt3-button-box",
+        "sourceName": "Racebox Sim Racing — GT3 Button Box",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Maker's own product page (Shopify). Representative generic button-box creative. GT-FLAG and GT-LM variants also available."
+      },
+      {
+        "url": "https://raceboxsimracing.com/collections/sim-racing-button-boxes",
+        "sourceName": "Racebox Sim Racing — Button Box collection",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Collection page showing multiple button-box designs for a lineup/roundup image."
+      },
+      {
+        "url": "https://simracingcockpit.gg/sim-racing-button-boxes/",
+        "sourceName": "Sim Racing Cockpit — Best Sim Racing Button Boxes 2026",
+        "sourceType": "review",
+        "likelyDownloadable": false,
+        "notes": "Review roundup; images are review-owned/vendor press. Community-permission or vendor-page preferred over hotlinking this article."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=sim+racing+button+box&tag=ignitionsim-20",
+    "blocksArticles": [
+      "button-box-vs-stream-deck-2026"
+    ],
+    "confidence": "medium",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Thrustmaster TPR (Pendular Rudder) pedals",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/thrustmaster-tpr-rudder.jpg",
+    "officialProductUrl": "https://www.thrustmaster.com/en-us/products/tpr-thrustmaster-pendular-rudder/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.thrustmaster.com/en-us/products/tpr-thrustmaster-pendular-rudder/",
+        "sourceName": "Thrustmaster Official — TPR Pendular Rudder",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page with high-res photos of the pendular rudder system."
+      },
+      {
+        "url": "https://www.amazon.com/Thrustmaster-TPR-Pedals-Compatible-PC/dp/B07DQY8LVC",
+        "sourceName": "Amazon — Thrustmaster TPR Pendular Rudder Pedals (ASIN B07DQY8LVC)",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Verified ASIN B07DQY8LVC, title matches. Amazon fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TPR+pendular+rudder&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-flight-sim-rudder-pedals"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "VKB T-Rudder (Mk.V) rudder pedals",
+    "bay": "flight",
+    "preferredLocalPath": "/images/gear/flight/vkb-t-rudder-mk-v.jpg",
+    "officialProductUrl": "https://www.vkbcontrollers.com/products/t-rudders-mk-v-rudder-pedals",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.vkbcontrollers.com/products/t-rudders-mk-v-rudder-pedals",
+        "sourceName": "VKB Controllers Official — T-Rudders Mk.V",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page (Shopify). cdn.shopify.com product gallery. US SKU at /t-rudders-mk-v-rudder-pedals-us."
+      },
+      {
+        "url": "https://vkbsimcontrollers.com/products/t-rudders-mk-v-rudder-pedals-us",
+        "sourceName": "VKBSIM US Official — T-Rudders Mk.V (US)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "US store product page fallback with same gallery."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=VKB+T-Rudder+rudder+pedals&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-flight-sim-rudder-pedals"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Virpil MongoosT-50CM3 throttle",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/virpil-mongoost-50cm3-throttle.jpg",
+    "officialProductUrl": "https://virpil-controls.us.com/shop/throttles",
+    "imageCandidateUrls": [
+      {
+        "url": "https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle",
+        "sourceName": "VIRPIL.COM Official Blog — Introducing the VPC MongoosT-50CM3 Throttle",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer announcement with press-quality product photography of the CM3 throttle."
+      },
+      {
+        "url": "https://virpil-controls.us.com/shop/throttles",
+        "sourceName": "VIRPIL US Official — Throttles shop",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "US throttles category listing containing the MongoosT-50CM3 SKU + thumbnails. Direct SKU page: virpil-controls.us.com/vpc-mongoost-50cm3-throttle-b-stock.html (B-STOCK)."
+      },
+      {
+        "url": "https://virpil-controls.co.uk/vpc-mongoost-50cm3-throttle.html",
+        "sourceName": "VIRPIL UK Official — VPC MongoosT-50CM3 Throttle",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "UK store full (non-B-stock) product page with gallery images."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+throttle&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-hotas-throttle-dcs-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "VKB STECS throttle",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/vkb-stecs-throttle.jpg",
+    "officialProductUrl": "https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard-us",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard-us",
+        "sourceName": "VKB Controllers Official — STECS Throttle System Mk.II Standard (US)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page (Shopify). cdn.shopify.com product gallery — WebFetch returned only the storefront shell, so extract img src via direct fetch/browser at download time."
+      },
+      {
+        "url": "https://www.vkbcontrollers.com/products/stecs-throttle-system-max",
+        "sourceName": "VKB Controllers Official — STECS Throttle System Max",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Max modular variant page with additional gallery angles."
+      },
+      {
+        "url": "https://vkbsimcontrollers.com/collections/stecs-throttle-systems",
+        "sourceName": "VKBSIM US Official — STECS Throttle Systems collection",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "US collection page listing STECS variants with thumbnails."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=VKB+STECS+throttle&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-hotas-throttle-dcs-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Uneekor EYE XO2",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/uneekor-eye-xo2.jpg",
+    "officialProductUrl": "https://uneekor.com/golf-launch-monitors/eye-xo2",
+    "imageCandidateUrls": [
+      {
+        "url": "https://uneekor.com/golf-launch-monitors/eye-xo2",
+        "sourceName": "Uneekor",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official overhead launch monitor product page; hero + feature product renders. Scrape hi-res product image from this page."
+      },
+      {
+        "url": "https://shopindoorgolf.com/products/uneekor-eye-xo2",
+        "sourceName": "Shop Indoor Golf",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Clean specialty-retailer store media, authorized dealer per lexicon (Shop Indoor Golf)."
+      },
+      {
+        "url": "https://rainorshinegolf.com/products/uneekor-eye-xo2-launch-monitor-golf-simulator",
+        "sourceName": "Rain or Shine Golf",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized dealer with clean product photography."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Uneekor%20EYE%20XO2%20launch%20monitor&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulators-2026",
+      "skytrak-vs-bushnell-launch-pro-vs-gc3"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Foresight Sports Falcon",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/foresight-falcon.jpg",
+    "officialProductUrl": "https://www.foresightsports.com/products/foresight-falcon-launch-monitor",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.foresightsports.com/products/foresight-falcon-launch-monitor",
+        "sourceName": "Foresight Sports",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page for the overhead Falcon launch monitor; hero product renders."
+      },
+      {
+        "url": "https://www.foresightsports.com/pages/falcon",
+        "sourceName": "Foresight Sports",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Falcon landing/feature page with additional press-grade product imagery."
+      },
+      {
+        "url": "https://shop.carlofet.com/foresight-falcon-launch-monitor",
+        "sourceName": "Carl's Place",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized dealer (Carl's Place) clean store media fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Foresight%20Sports%20Falcon%20launch%20monitor&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulators-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "TrackMan iO",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/trackman-io.jpg",
+    "officialProductUrl": "https://www.trackman.com/golf/launch-monitors/trackman-io",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.trackman.com/golf/launch-monitors/trackman-io",
+        "sourceName": "TrackMan",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official product page for the ceiling-mounted indoor TrackMan iO; hero + feature product renders."
+      },
+      {
+        "url": "https://rainorshinegolf.com/products/trackman-io-launch-monitor",
+        "sourceName": "Rain or Shine Golf",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized dealer with clean product photography."
+      },
+      {
+        "url": "https://shop.carlofet.com/trackman-io-launch-monitor",
+        "sourceName": "Carl's Place",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized dealer (Carl's Place) clean store media fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=TrackMan%20iO%20launch%20monitor&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulators-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "TrueStrike Gel Mat (Gel Section)",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/truestrike-gel-mat.jpg",
+    "officialProductUrl": "https://www.truestrike.com/product/gel-section/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.truestrike.com/product/gel-section/",
+        "sourceName": "TrueStrike",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer product page for the TrueStrike Gel Section mat."
+      },
+      {
+        "url": "https://www.truestrike.com/truestrike-golf-mat/",
+        "sourceName": "TrueStrike",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official full TrueStrike mat page showing gel-insert hitting surface in context."
+      },
+      {
+        "url": "https://shopindoorgolf.com/products/truestrike-gel-section",
+        "sourceName": "Shop Indoor Golf",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized specialty retailer with clean store media."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=TrueStrike%20golf%20gel%20mat&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulator-hitting-mat"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Carl's Place HotShot Golf Mat System",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/carls-hotshot-mat.jpg",
+    "officialProductUrl": "https://shop.carlofet.com/carls-hotshot-golf-mat-system",
+    "imageCandidateUrls": [
+      {
+        "url": "https://shop.carlofet.com/carls-hotshot-golf-mat-system",
+        "sourceName": "Carl's Place",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Manufacturer/brand-owner store page (Carl's Place is the maker of the HotShot mat); primary product media."
+      },
+      {
+        "url": "https://www.playbetter.com/products/carls-place-hotshot-golf-hitting-mat-systems",
+        "sourceName": "PlayBetter",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized retailer with clean product photography."
+      },
+      {
+        "url": "https://indoorgolfoutlet.com/products/carls-place-4x9-hotshot-golf-hitting-mat",
+        "sourceName": "Indoor Golf Outlet",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Retailer product page showing full 4x9 mat with replaceable strip system."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Carl%27s%20Place%20HotShot%20golf%20hitting%20mat&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulator-hitting-mat"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "SIGPRO Premium Impact Screen",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/sigpro-premium-impact-screen.jpg",
+    "officialProductUrl": "https://shopindoorgolf.com/products/golf-simulator-screen-premium",
+    "imageCandidateUrls": [
+      {
+        "url": "https://shopindoorgolf.com/products/golf-simulator-screen-premium",
+        "sourceName": "Shop Indoor Golf",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Brand-owner store page (SIGPRO is Shop Indoor Golf's in-house brand); primary product media for the Premium impact screen."
+      },
+      {
+        "url": "https://golfsimulatorsdirect.com/products/sigpro-premium-golf-impact-screen",
+        "sourceName": "Golf Simulators Direct",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Retailer product page with clean screen imagery."
+      },
+      {
+        "url": "https://indoorgolfoutlet.com/products/sigpro-premium-golf-simulator-impact-screen",
+        "sourceName": "Indoor Golf Outlet",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Retailer fallback with product/detail imagery of the impact screen."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=SIGPRO%20Premium%20golf%20impact%20screen&tag=ignitionsim-20",
+    "blocksArticles": [
+      "best-golf-simulators-2026",
+      "golf-simulator-impact-screen-enclosure"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "BenQ AK700ST Projector",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/benq-ak700st.jpg",
+    "officialProductUrl": "https://www.benq.com/en-us/projector/golf/ak700st.html",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.benq.com/en-us/projector/golf/ak700st.html",
+        "sourceName": "BenQ",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official BenQ US product page for the 4K short-throw laser golf projector; press-grade product renders."
+      },
+      {
+        "url": "https://rainorshinegolf.com/products/benq-ak700st-4k-golf-simulator-projector",
+        "sourceName": "Rain or Shine Golf",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized dealer with clean product photography."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=BenQ%20AK700ST%20golf%20simulator%20projector&tag=ignitionsim-20",
+    "blocksArticles": [
+      "low-ceiling-golf-simulator",
+      "golf-simulator-projector-guide"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "BenQ AH700ST Projector",
+    "bay": "golf",
+    "preferredLocalPath": "/images/gear/golf/benq-ah700st.jpg",
+    "officialProductUrl": "https://www.benq.com/en-us/business/golf-simulator-projector/ah700st.html",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.benq.com/en-us/business/golf-simulator-projector/ah700st.html",
+        "sourceName": "BenQ",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official BenQ US product page for the 1080P short-throw laser golf projector (AH700ST sibling to AK700ST)."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=BenQ%20AH700ST%20golf%20simulator%20projector&tag=ignitionsim-20",
+    "blocksArticles": [
+      "low-ceiling-golf-simulator",
+      "golf-simulator-projector-guide"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Dayton Audio BST-1 Tactile Transducer",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/dayton-bst-1.jpg",
+    "officialProductUrl": "https://www.daytonaudio.com/product/1245/bst-1-high-power-pro-tactile-bass-shaker-50-watts",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.daytonaudio.com/product/1245/bst-1-high-power-pro-tactile-bass-shaker-50-watts",
+        "sourceName": "Dayton Audio",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer product page for the BST-1 50W tactile bass shaker; clean product render."
+      },
+      {
+        "url": "https://www.parts-express.com/Dayton-Audio-BST-1-High-Power-Pro-Tactile-Bass-Shaker-50-Watts-295-244",
+        "sourceName": "Parts Express",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized retailer (part 295-244) with high-res product photography."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Dayton%20Audio%20BST-1%20tactile%20bass%20shaker&tag=ignitionsim-20",
+    "blocksArticles": [
+      "bass-shakers-tactile-feedback-simhub-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Dayton Audio BST-300EX Tactile Transducer",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/dayton-bst-300ex.jpg",
+    "officialProductUrl": "https://www.daytonaudio.com/product/1953/bst-300ex-extreme-high-power-pro-tactile-bass-shaker-300-watts",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.daytonaudio.com/product/1953/bst-300ex-extreme-high-power-pro-tactile-bass-shaker-300-watts",
+        "sourceName": "Dayton Audio",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer product page for the BST-300EX 300W tactile bass shaker; clean product render."
+      },
+      {
+        "url": "https://www.parts-express.com/Dayton-Audio-BST-300EX-High-Power-Pro-Tactile-Bass-Shaker-100-Watts-295-243",
+        "sourceName": "Parts Express",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Authorized retailer (part 295-243) with high-res product photography."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Dayton%20Audio%20BST-300EX%20tactile%20bass%20shaker&tag=ignitionsim-20",
+    "blocksArticles": [
+      "bass-shakers-tactile-feedback-simhub-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Dayton Audio DTA-120 Amplifier",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/dayton-dta-120.jpg",
+    "officialProductUrl": "https://www.parts-express.com/Dayton-Audio-DTA-120-Class-T-Mini-Amplifier-60-WPC-300-3800",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.parts-express.com/Dayton-Audio-DTA-120-Class-T-Mini-Amplifier-60-WPC-300-3800",
+        "sourceName": "Parts Express",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Parts Express is the primary Dayton Audio storefront (part 300-3800); high-res product photography of the DTA-120 Class-T mini amp. Dayton has no standalone product page for this legacy amp."
+      },
+      {
+        "url": "https://www.amazon.com/Dayton-Audio-DTA-120-Digital-Amplifier/dp/B00HFG3FYA",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B00HFG3FYA), title verified 'Dayton Audio DTA-120 Class T Digital Mini Amplifier 60 WPC'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Dayton%20Audio%20DTA-120%20amplifier&tag=ignitionsim-20",
+    "blocksArticles": [
+      "bass-shakers-tactile-feedback-simhub-2026"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Nobsound Mini Mono Subwoofer/Bass-Shaker Amplifier (NS-21G)",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/nobsound-mono-amp.jpg",
+    "officialProductUrl": "https://doukaudio.com/products/nobsound-ns-21g-hifi-mini-mono-amplifier-for-bass-shaker",
+    "imageCandidateUrls": [
+      {
+        "url": "https://doukaudio.com/products/nobsound-ns-21g-hifi-mini-mono-amplifier-for-bass-shaker",
+        "sourceName": "Douk Audio (Nobsound)",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Nobsound/Douk Audio brand store page for the NS-21G mono amp explicitly marketed for bass shakers; primary product media."
+      },
+      {
+        "url": "https://www.amazon.com/Nobsound-Mini-Mono-Subwoofer-Amplifier/dp/B0FF9YWXDW",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B0FF9YWXDW), title verified 'Nobsound Mini Mono Subwoofer Amplifier ... Bass Shaker (NS-21G)'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Nobsound%20mini%20mono%20amplifier%20bass%20shaker&tag=ignitionsim-20",
+    "blocksArticles": [
+      "bass-shakers-tactile-feedback-simhub-2026"
+    ],
+    "confidence": "medium",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Fosi Audio M03 Mono Subwoofer/Bass-Shaker Amplifier",
+    "bay": "racing",
+    "preferredLocalPath": "/images/gear/racing/fosi-mono-amp.jpg",
+    "officialProductUrl": "https://fosiaudio.com/products/subwoofer-amplifier-m03-300watts-mono-amp-full-frequency-and-sub-bass-switchable-amplifier",
+    "imageCandidateUrls": [
+      {
+        "url": "https://fosiaudio.com/products/subwoofer-amplifier-m03-300watts-mono-amp-full-frequency-and-sub-bass-switchable-amplifier",
+        "sourceName": "Fosi Audio",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Fosi Audio brand store page for the M03 mono TPA3255 sub/bass-shaker amp; primary product media."
+      },
+      {
+        "url": "https://fosiaudio.com/products/tda7498e-subwoofer-amplifier-receiver-mini-hi-fi-class-d-professional-integrated-amp-for-sub-bass-shakers-220w-x-1-power-supply",
+        "sourceName": "Fosi Audio",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Fosi Audio TP-02 alternative — explicitly marketed 'for sub / bass shakers'; use if M03 image is weak."
+      },
+      {
+        "url": "https://www.amazon.com/Subwoofer-Audio-Full-Frequency-Switchable-Fosi/dp/B07VHG2LR9",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B07VHG2LR9), title verified 'Fosi Audio M03 200 Watt TPA3255 Subwoofer Amplifier'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Fosi%20Audio%20mono%20subwoofer%20amplifier%20bass%20shaker&tag=ignitionsim-20",
+    "blocksArticles": [
+      "bass-shakers-tactile-feedback-simhub-2026"
+    ],
+    "confidence": "medium",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Logitech G29 Driving Force Racing Wheel",
+    "bay": "marine",
+    "preferredLocalPath": "/images/gear/marine/logitech-g29.jpg",
+    "officialProductUrl": "https://www.logitechg.com/en-us/shop/p/driving-force-racing-wheel",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/driving-force-racing-wheel",
+        "sourceName": "Logitech G",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Logitech G product page for the G29/G920 Driving Force wheel; press-grade product renders. Used here in marine-helm crossover context."
+      },
+      {
+        "url": "https://www.amazon.com/Logitech-Dual-motor-Feedback-Responsive-PlayStation/dp/B00Z0UWWYC",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B00Z0UWWYC), title verified 'Logitech G29 Driving Force Racing Wheel and Pedals'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Logitech%20G29%20racing%20wheel&tag=ignitionsim-20",
+    "blocksArticles": [
+      "marine-sim-hardware-reality",
+      "racing-wheel-boat-helm"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Logitech G923 TRUEFORCE Racing Wheel",
+    "bay": "marine",
+    "preferredLocalPath": "/images/gear/marine/logitech-g923.jpg",
+    "officialProductUrl": "https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel",
+        "sourceName": "Logitech G",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Logitech G product page for the G923 TRUEFORCE wheel; press-grade product renders. Used in marine-helm crossover context."
+      },
+      {
+        "url": "https://www.amazon.com/Logitech-featuring-TRUEFORCE-Feedback-Responsive/dp/B07PGGDJSG",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B07PGGDJSG), title verified 'Logitech G923 Racing Wheel and Pedals ... TRUEFORCE'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Logitech%20G923%20racing%20wheel&tag=ignitionsim-20",
+    "blocksArticles": [
+      "marine-sim-hardware-reality",
+      "racing-wheel-boat-helm"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Logitech Saitek Pro Flight Throttle Quadrant",
+    "bay": "marine",
+    "preferredLocalPath": "/images/gear/marine/saitek-throttle-quadrant.jpg",
+    "officialProductUrl": "https://www.amazon.com/Logitech-Pro-Flight-Throttle-Quadrant/dp/B01M00UHE3",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.amazon.com/Logitech-Pro-Flight-Throttle-Quadrant/dp/B01M00UHE3",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B01M00UHE3), title verified 'Logitech G Saitek PRO Flight Throttle Quadrant'. Logitech's own site has no standalone product page for this legacy Saitek SKU."
+      },
+      {
+        "url": "https://realsimgear.com/products/logitech-throttle-quadrant",
+        "sourceName": "RealSimGear",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Specialty flight-sim retailer with clean throttle-quadrant product photography."
+      },
+      {
+        "url": "https://www.microcenter.com/product/626346/logitech-g-saitek-pro-flight-throttle-quadrant",
+        "sourceName": "Micro Center",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Retailer product page fallback with clean product image."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Logitech%20Saitek%20Pro%20Flight%20Throttle%20Quadrant&tag=ignitionsim-20",
+    "blocksArticles": [
+      "marine-sim-hardware-reality",
+      "diy-bridge-command-throttle"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Leo Bodnar BU0836X Joystick Interface Board",
+    "bay": "marine",
+    "preferredLocalPath": "/images/gear/marine/leo-bodnar-bu0836x.jpg",
+    "officialProductUrl": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180",
+        "sourceName": "Leo Bodnar Electronics",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official manufacturer product page for the BU0836X 12-bit USB joystick interface board; primary board photography."
+      },
+      {
+        "url": "https://www.ricmotech.com/leo-bodnar-12-bit-joystick-controller-board",
+        "sourceName": "Ricmotech",
+        "sourceType": "retailer",
+        "likelyDownloadable": true,
+        "notes": "Sim-hardware retailer with clean board product image fallback."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Leo%20Bodnar%20BU0836X%20joystick%20interface&tag=ignitionsim-20",
+    "blocksArticles": [
+      "diy-marine-button-box-bridge-console"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Meta Quest 3",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/meta-quest-3.jpg",
+    "officialProductUrl": "https://www.meta.com/quest/quest-3/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.meta.com/quest/quest-3/",
+        "sourceName": "Meta",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Meta Quest 3 product page; press-grade headset + controller renders. Cross-VR product spanning space/flight/marine blocks."
+      },
+      {
+        "url": "https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/",
+        "sourceName": "Meta Newsroom",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Meta press release with downloadable press images of the headset."
+      },
+      {
+        "url": "https://www.amazon.com/s?k=Meta+Quest+3+VR+headset",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon catalog fallback; verify exact 128GB/512GB Quest 3 (not Quest 3S) ASIN before linking."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Meta%20Quest%203%20VR%20headset&tag=ignitionsim-20",
+    "blocksArticles": [
+      "vr-sailing-simulator",
+      "vr-vs-monitor-flight-sim",
+      "head-tracking-vs-vr-star-citizen"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Elgato Stream Deck MK.2",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/elgato-stream-deck-mk2.jpg",
+    "officialProductUrl": "https://www.elgato.com/en/stream-deck-mk2",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.elgato.com/en/stream-deck-mk2",
+        "sourceName": "Elgato",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official Elgato Stream Deck MK.2 product page; press-grade product renders."
+      },
+      {
+        "url": "https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G",
+        "sourceName": "Amazon",
+        "sourceType": "amazon",
+        "likelyDownloadable": true,
+        "notes": "Amazon listing (ASIN B09738CV2G), title verified 'Elgato Stream Deck MK.2 – Studio Controller, 15 macro keys'."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Elgato%20Stream%20Deck%20MK.2&tag=ignitionsim-20",
+    "blocksArticles": [
+      "stream-deck-button-box-space-sim"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  },
+  {
+    "product": "Monstertech Joystick/HOTAS Table Mount",
+    "bay": "space",
+    "preferredLocalPath": "/images/gear/space/monstertech-table-mount.jpg",
+    "officialProductUrl": "https://www.monster.tech/en/product/joystick-hotas-table-mount/",
+    "imageCandidateUrls": [
+      {
+        "url": "https://www.monster.tech/en/product/joystick-hotas-table-mount/",
+        "sourceName": "MONSTERTECH",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official MONSTERTECH product page for the standard aluminum Joystick/HOTAS table mount; primary product media."
+      },
+      {
+        "url": "https://www.monster.tech/en/product/joystick-hotas-table-mount-long/",
+        "sourceName": "MONSTERTECH",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official long/extended version product page with additional mount imagery."
+      },
+      {
+        "url": "https://www.monster.tech/en/product-category/table-mounts/",
+        "sourceName": "MONSTERTECH",
+        "sourceType": "official",
+        "likelyDownloadable": true,
+        "notes": "Official table-mounts category page showing the full range in context."
+      }
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Monstertech%20table%20mount%20HOTAS&tag=ignitionsim-20",
+    "blocksArticles": [
+      "mounting-your-hosas-monstertech"
+    ],
+    "confidence": "high",
+    "needsCodexVerification": true
+  }
+]
