@@ -11,7 +11,8 @@ heroImage: "/images/golf/golf-simulator-impact-screen-enclosure.jpg"
 heroAlt: "A taut golf simulator impact screen glowing with a sunlit links fairway inside a deep-green padded enclosure"
 excerpt: "The screen is what stops a 150-mph golf ball three feet from your face — and it's the most-watched square footage in the room. Here's the DIY-vs-premium call, the material tiers, and the install rules that decide whether a driver drops dead or comes back at your shins."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "golf"

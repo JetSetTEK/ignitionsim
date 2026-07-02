@@ -1,0 +1,73 @@
+{
+  "slug": "flight-sim-control-curves-calibration",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Teach a frustrated simmer to fix twitchy MSFS 2024 controls with a curve, and make the drift-vs-curve distinction unmissable. This is a low-product-density explainer: the real visual need is INFOGRAPHICS (settings screen, decision tree, curve shape), not product cards. Only genuinely relevant drift-free hardware appears, as proof for the hardware section.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg"
+  ],
+  "editorialCompositePrompts": [],
+  "infographicPrompts": [
+    {
+      "id": "msfs-2024-sensitivity-screen",
+      "title": "The MSFS 2024 Sensitivity screen, explained",
+      "format": "1600x1000",
+      "content": [
+        "Sensitivity (response curve) — bows the center, keeps extremes",
+        "Neutral / dead zone — ignores input near center (drift only)",
+        "Extremity dead zone — trims the last 10-20% of travel",
+        "Sensitivity - / + — asymmetric halves (usually matched)",
+        "Saturation — how much virtual deflection full travel gives (~40% for 1:1)"
+      ],
+      "style": "IgnitionSim command-center chart, large readable labels, callout arrows to each slider on a clean recreated MSFS 2024 Controls > Sensitivity panel. IMPORTANT: recreate the ACTUAL current MSFS 2024 build screen — verify slider names against a live 2024 install before finalizing; do not invent a Reactivity slider if the build doesn't show one.",
+      "codexNote": "Highest-value asset for this article. The body deliberately hedges slider names to 'tune what you see / check current' because primary sources disagree — a verified dated screenshot lets us tighten that language."
+    },
+    {
+      "id": "twitchy-vs-drifting-decision-tree",
+      "title": "Twitchy or drifting? Two problems, two fixes",
+      "format": "1600x1000",
+      "content": [
+        "Does the aircraft nod on tiny inputs while your hands ARE on the controls? -> TWITCHY -> soften the Sensitivity curve (software fix)",
+        "Does it bank / trim creep with your hands OFF? -> DRIFTING -> hardware: worn potentiometers; small dead zone is a band-aid, contactless sensors are the cure",
+        "Both feel wrong? -> calibrate the physical range FIRST, then re-judge"
+      ],
+      "style": "Numbered/branching decision tree, IgnitionSim flight palette, big readable text. This is the article's core mental model."
+    },
+    {
+      "id": "linear-vs-curved-response",
+      "title": "Linear vs softened response curve",
+      "format": "1600x1000",
+      "content": [
+        "Linear: 10% stick = 10% surface, all the way (center as aggressive as extremes)",
+        "Softened (~-15% to -30%): gentle center, full authority at the edges",
+        "Why it matters: ~5 in of consumer travel mapped onto ~12 in of real column compresses every input"
+      ],
+      "style": "Side-by-side response-curve plot on navy drafting grid, cyan curve line, IgnitionSim aviation-blueprint aesthetic. No product photos needed."
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-donovan-tuning-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a tidy home flight-sim desk, one hand resting on a GA yoke, looking at a monitor showing a controls/sensitivity settings screen (no fake UI text), calm instructor energy, practical not fantasy, 4:5 portrait, space beside him for a settings-panel overlay.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "msfs-2024-controls-sensitivity-real-screenshot",
+      "need": "A real, dated screenshot of the MSFS 2024 Options > Controls > (device) > Sensitivity screen showing the actual current slider set.",
+      "why": "Resolves the article's central hedge (was Reactivity removed? is Saturation exposed?). Would let us replace 'check current' with a verified statement. Capture from a current MSFS 2024 build.",
+      "priority": "high"
+    }
+  ],
+  "openQuestions": [
+    "Does the current MSFS 2024 shipping build still label any axis slider 'Reactivity', or is tuning fully via Sensitivity + Neutral + Extremity dead zone? Primary sources disagree; the article hedges deliberately.",
+    "Confirm Fenix's ~-30% A320 sensitivity recommendation against a live read of support.fenixsim.com (page 403'd on automated fetch).",
+    "Is 'Saturation' exposed by that name in the 2024 Controls UI, or only via community tooling? The article mentions it as an option to verify.",
+    "Pre-existing routing gap (out of scope): this article does not emit an HTML page in dist/flight/, same as the certified reference best-flight-sim-hardware-2026. Flag to routing owner."
+  ]
+}

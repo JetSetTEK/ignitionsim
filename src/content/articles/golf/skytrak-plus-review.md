@@ -11,7 +11,8 @@ heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak+ photometric golf launch monitor, the accuracy-per-dollar camera unit now selling as a discontinued closeout"
 excerpt: "The SkyTrak+ built its reputation on camera-grade accuracy and software freedom. In 2026 it is discontinued and on closeout, SkyTrak has dropped official GSPro and E6 support for new buyers, and the live product is the ST MAX. Here is the honest read."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

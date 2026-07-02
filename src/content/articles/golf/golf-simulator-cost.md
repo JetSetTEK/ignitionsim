@@ -11,7 +11,8 @@ heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak+ launch monitor, the accuracy-per-dollar anchor of a mid-tier home golf simulator build"
 excerpt: "Most people price the launch monitor and forget the room. Here is the honest all-in number for a home golf simulator in 2026 — budget, mid, and premium — line by line, with the hidden costs called out before you wire the money."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

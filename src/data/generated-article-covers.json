@@ -5,9 +5,39 @@
     "label": "Product proof",
     "wide": true
   },
+  "best-flight-sim-rudder-pedals": {
+    "image": "/images/generated/article-covers/best-flight-sim-rudder-pedals.webp",
+    "alt": "Best Flight Sim Rudder Pedals 2026: Budget Sliders to Pendular and Force Feedback, Ranked cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-flight-sim-setup-beginners": {
+    "image": "/images/generated/article-covers/best-flight-sim-setup-beginners.webp",
+    "alt": "Your First Flight Sim Setup: What to Buy First for MSFS 2024 cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-hotas-msfs-2024": {
+    "image": "/images/generated/article-covers/best-hotas-msfs-2024.webp",
+    "alt": "Best HOTAS for MSFS 2024 in 2026: Stick-and-Throttle Picks by Budget and Aircraft cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "flight-sim-control-curves-calibration": {
+    "image": "/images/generated/article-covers/flight-sim-control-curves-calibration.webp",
+    "alt": "Flight Sim Control Curves & Calibration: Fix Twitchy Controls in MSFS 2024 cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
   "flight-sim-usb-hub-wiring-multi-panel": {
     "image": "/images/generated/article-covers/flight-sim-usb-hub-wiring-multi-panel.webp",
     "alt": "Flight Sim USB Hubs and Wiring: How to Power a Multi-Panel Cockpit (2026) cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "flightsimexpo-2026-hardware-buyer-map": {
+    "image": "/images/generated/article-covers/flightsimexpo-2026-hardware-buyer-map.webp",
+    "alt": "FlightSimExpo 2026 Hardware Buyer Map: What to Buy Now, What to Watch, What to Skip cover with real product proof and Val Chen",
     "label": "Product proof",
     "wide": true
   },
@@ -20,6 +50,30 @@
   "head-tracking-trackir-vs-tobii-msfs": {
     "image": "/images/generated/article-covers/head-tracking-trackir-vs-tobii-msfs.webp",
     "alt": "TrackIR 5 vs Tobii Eye Tracker 5 for MSFS in 2026: The Honest Head-Tracking Verdict cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "helicopter-flight-sim-controls-collective-cyclic": {
+    "image": "/images/generated/article-covers/helicopter-flight-sim-controls-collective-cyclic.webp",
+    "alt": "Helicopter Flight Sim Controls for MSFS 2024: Collective, Cyclic and Anti-Torque Pedals cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "honeycomb-flight-deck-upgrade-path": {
+    "image": "/images/generated/article-covers/honeycomb-flight-deck-upgrade-path.webp",
+    "alt": "The Honeycomb Upgrade Path: Alpha to Bravo to Charlie, and the Honest Truth About the Pedals cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "honeycomb-vs-thrustmaster-tca": {
+    "image": "/images/generated/article-covers/honeycomb-vs-thrustmaster-tca.webp",
+    "alt": "Honeycomb vs Thrustmaster TCA (2026): Which Flight Sim Ecosystem to Buy cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "how-to-mount-flight-sim-hardware": {
+    "image": "/images/generated/article-covers/how-to-mount-flight-sim-hardware.webp",
+    "alt": "How to Mount Flight Sim Hardware to a Desk (Without It Sliding Around) cover with real product proof and Val Chen",
     "label": "Product proof",
     "wide": true
   },
@@ -197,6 +251,12 @@
     "label": "Product proof",
     "wide": true
   },
+  "best-acc-wheel-settings-2026": {
+    "image": "/images/generated/article-covers/best-acc-wheel-settings-2026.webp",
+    "alt": "Best ACC Wheel Settings 2026: Per-Base FFB That Actually Works cover with real product proof and Duke Alvarez",
+    "label": "Product proof",
+    "wide": true
+  },
   "best-ffb-settings-iracing-acc-lmu-2026": {
     "image": "/images/generated/article-covers/best-ffb-settings-iracing-acc-lmu-2026.webp",
     "alt": "Best FFB Settings 2026: iRacing, ACC and Le Mans Ultimate Dialed In cover with real product proof and Duke Alvarez",
@@ -269,6 +329,12 @@
     "label": "Tactile impact",
     "wide": true
   },
+  "how-to-fix-ffb-clipping-direct-drive-2026": {
+    "image": "/images/generated/article-covers/how-to-fix-ffb-clipping-direct-drive-2026.webp",
+    "alt": "How to Fix FFB Clipping on a Direct-Drive Wheel (2026) cover with real product proof and Duke Alvarez",
+    "label": "Product proof",
+    "wide": true
+  },
   "iracing-review-2026": {
     "image": "/images/generated/article-covers/iracing-review-2026.webp",
     "alt": "iRacing Review 2026: Is the Subscription Still Worth Building a Rig Around? cover with iRacing Review 2026 cover with official iRacing media and a real Sim-Lab P1X cockpit product photo and Duke Alvarez",
@@ -290,6 +356,12 @@
   "pedals-over-power": {
     "image": "/images/generated/article-covers/pedals-over-power.webp",
     "alt": "Pedals Over Power: Why Load-Cell Pedals Beat a Stronger Wheelbase in 2026 cover with real product proof and Duke Alvarez",
+    "label": "Product proof",
+    "wide": true
+  },
+  "quick-release-trap": {
+    "image": "/images/generated/article-covers/quick-release-trap.webp",
+    "alt": "The Quick-Release Trap: How Sim Racing Ecosystems Lock You In (and How to Avoid It) cover with real product proof and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },

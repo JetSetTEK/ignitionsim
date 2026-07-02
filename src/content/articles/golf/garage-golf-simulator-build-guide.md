@@ -11,7 +11,8 @@ heroImage: "/images/gear/golf/carls-place-diy-enclosure.jpg"
 heroAlt: "Carl's Place DIY golf simulator enclosure and impact screen, the backbone of a garage build"
 excerpt: "The garage is the most common home for a sim and the most unforgiving. Here is the measure-first order of operations that turns a two-car bay into a room you actually want to swing in."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

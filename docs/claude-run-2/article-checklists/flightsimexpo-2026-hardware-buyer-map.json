@@ -1,0 +1,21 @@
+{
+  "slug": "flightsimexpo-2026-hardware-buyer-map",
+  "articleFile": "src/content/articles/flight/flightsimexpo-2026-hardware-buyer-map.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 11,
+  "realProductImageCount": 11,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "The article's core angle products have NO verified image and are text-and-link only: MOZA AB9, MOZA AB6, MFY/AY210 yoke, Thrustmaster Warthog MKII, OMNI Extension, WinWing FCU/EFIS/MCDU/PAP3, VKB T-Rudder, powered USB hub. A FlightSimExpo new-hardware buyer map cannot be certified while its headline reveals (Warthog MKII, MOZA flight FFB, WinWing panels) show no product proof — source + vision-verify real photos and add them to verified-product-images.json first.",
+    "Several image FILES exist on disk (moza-ay210-ffb-yoke.jpg, winwing-fcu-efis-combo-a320.jpg, winwing-mcdu-a320.jpg, winwing-pap-3-mcp.jpg, vkb-t-rudder-mk4.jpg, desktop-pilot-10-port-usb-hub.jpg, thrustmaster-hotas-warthog.jpg) but are NOT in verified-product-images.json, so they were deliberately left out of the body. Do not embed them until vision-verified and added to the verified set.",
+    "Announced-but-unshipped pricing/dates need confirmation before certifying: MOZA AB9 US MSRP (~$499 vs promo), AB6 (~$399), Warthog MKII ($599.99 announced), OMNI Extension ship month (July vs Sept), and current WINCTRL/WinWing panel prices. Prices left as approximate / check-current in the body."
+  ],
+  "notes": "All 11 distinct embedded images are verified product photos (11 gearpick/shotgrid slots across 17 total <img> tags). Curator=author (Mac Donovan). Frontmatter set to author 'Mac Donovan', goldStatus 'refresh' (NOT certified), sourceReviewDate + updatedDate 2026-07-02, revenueTier 'A', contentCluster 'flight'; heroImage is the verified thrustmaster-tca-sky-yoke.png. Structure: verdict-first bold opening, FlightSimExpo decision map table, buy-now/caveats/wait/skip table, per-reveal sections (Sky Yoke, Honeycomb deck, MOZA flight FFB, Warthog MKII, OMNI, Airbus path, VelocityOne), tip + forum callouts (original paraphrase), 5 don't-ruin-Saturday warnings, build ladders, What-to-buy table with a Verified-image column, setup-tax shelf, buy order, dated Sources Checked shelf with real links. Media-demoted rescue done: the earlier pass embedded unverified images (moza-ay210, winwing-*, vkb, usb-hub) — this rewrite leaves ONLY verified images embedded and demotes every unverified product to text + official/Amazon-search links. astro build compiles clean (166 pages); article correctly does NOT render a page because isCertifiedArticle requires goldStatus==='certified' — expected for a refresh candidate. Left as refresh per run rules; candidateForCertification=false because the headline new-hardware items lack verified images (the whole point of the angle)."
+}

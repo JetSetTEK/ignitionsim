@@ -1,0 +1,117 @@
+{
+  "slug": "helicopter-flight-sim-controls-collective-cyclic",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Prove the three helicopter controls with real product photos: a precise center-sprung stick as the CYCLIC, a friction-holding throttle lever as the COLLECTIVE, and dedicated pedals for the ANTI-TORQUE axis. Make a fixed-wing simmer understand a yoke is useless here and that a ~$300-400 repurposed rig flies MSFS 2024 helicopters well. Real product proof only; no procedural art. The prior pass wrongly embedded an unverified Komodo collective photo — that is now text-only.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Komodo Simulations Helicopter Collective (Bell 206-style)",
+      "preferredLocalPath": "/images/gear/flight/komodo-simulations-collective.jpg",
+      "officialSourceUrl": "https://komodosimulations.co.uk/",
+      "amazonUrl": "https://www.amazon.com/s?k=Komodo+Simulations+Helicopter+Collective&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "File exists on disk at this path but is NOT in verified-product-images.json, so it was REMOVED as an embedded image and made text-only in this rewrite. Needs vision-verification against the real hand-built Komodo B206 collective before it can appear as a gearpick/shotgrid or before certification. Official product page (komodosimulations.co.uk/products/b206) currently throws a TLS cert-altname error; confirm a working source."
+    },
+    {
+      "product": "Thrustmaster T.16000M FCS (flight-bay photo)",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-t16000m-fcs.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/t-16000m-fcs/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+T16000M+FCS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Named as the budget cyclic (~$79.99) but pictured via the verified TCA Sidestick. A space-bay thrustmaster-t16000m-fcs.jpg exists but is not in the flight verified set. Source/verify a flight-bay photo if we want the T.16000M shown as its own visual."
+    },
+    {
+      "product": "Logitech G Flight Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/flight/flight-rudder-pedals.945-000024.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget anti-torque pedal entry (~$180). Image FILE exists on disk but is NOT in verified-product-images.json — text-only until vision-verified and added to the verified manifest."
+    },
+    {
+      "product": "Thrustmaster TPR Pendular Rudder Pedals",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-tpr-pendular-rudder.jpg",
+      "officialSourceUrl": "https://eshop.thrustmaster.com/en_us/tpr-thrustmaster-pendular-rudder.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+TPR+Pendular+Rudder+Pedals&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Dedicated-tier pedals ($599.99). No local image at all. Text-only; source a real photo before any body visual."
+    },
+    {
+      "product": "Logitech G X56 HOTAS",
+      "preferredLocalPath": "/images/gear/flight/logitech-g-x56-hotas.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/x56-space-flight-vr-simulator-controller",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+X56+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "HOTAS-combo tier ($249.99); twin throttle as collective. No local image. Text-only."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "/images/gear/flight/moza-mtq-throttle-quadrant.jpg",
+    "/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-three-controls",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home flight-sim desk at cool evening rim light showing the helicopter control triad laid out ready to fly: a center-sprung stick at right knee (cyclic), a throttle-quadrant lever to the left set low (collective), and rudder pedals on the floor (anti-torque), with open overlay space for a real product photo on each, curator Mac Donovan seated in a settled-hover posture, no fake branded hardware, no fake sim UI, 16:9 editorial cover.",
+      "realOverlays": [
+        "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+        "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+        "/images/gear/flight/honeycomb-charlie-pedals.jpg"
+      ],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake collective, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, a yoke (helicopters have no yoke)"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-controls-map",
+      "title": "The three helicopter controls",
+      "format": "1600x1000",
+      "content": [
+        "CYCLIC = pitch + roll (stick, precise center)",
+        "COLLECTIVE = total lift/power (lever that stays parked)",
+        "ANTI-TORQUE PEDALS = yaw (constant input, never resting)",
+        "A yoke maps to NONE of these"
+      ],
+      "style": "IgnitionSim command-center chart, large readable labels, flight-cluster colors, real product photos as row markers for Codex overlay (Sidestick / TCA Quadrant / Charlie pedals)"
+    },
+    {
+      "id": "msfs-binding-checklist",
+      "title": "MSFS 2024 helicopter bindings that actually work",
+      "format": "1600x1000",
+      "content": [
+        "1 COLLECTIVE AXIS (Power Management) + tick Reverse",
+        "2 SET CYCLIC LONGITUDINAL/LATERAL AXIS + -30% to -40% curve",
+        "3 RUDDER AXIS = pedals, full travel",
+        "4 Don't confuse SET HELICOPTER THROTTLE 1 AXIS with collective"
+      ],
+      "style": "Numbered checklist, in-sim binding labels in monospace, warning accent on step 4"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-collective-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a tidy home cockpit, left hand resting low on a throttle-quadrant lever positioned as a collective, calm instructor energy, product overlay space beside the lever, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "msfs-collective-binding-screen",
+      "description": "MSFS 2024 Controls screen showing COLLECTIVE AXIS assigned under Power Management with the Reverse/invert checkbox ticked, and the separate SET HELICOPTER THROTTLE 1 AXIS visible — the exact screen the binding section describes. Capture at 1080p, crop to the relevant rows.",
+      "status": "optional",
+      "notes": "Would strongly support the bindings section and the forum callout; not required for certification. Must be a genuine in-sim capture, not a mockup."
+    }
+  ],
+  "openQuestions": [
+    "Confirm exact current Komodo collective price (official page cert error) and source a verified photo before it can be a body visual.",
+    "Do we want the verified logitech-g-flight-rudder-pedals.jpg promoted into verified-product-images.json so the budget pedal can be shown, or keep it text-only?",
+    "Should the T.16000M FCS get a verified flight-bay photo, or is picturing it via the TCA Sidestick acceptable long-term?",
+    "Re-verify the HeliSimmer MSFS 2024 binding label names against the live page (WebFetch 403'd; labels cross-checked via MSFS forum + SimTuts)."
+  ]
+}

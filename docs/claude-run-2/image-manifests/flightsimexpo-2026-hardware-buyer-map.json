@@ -1,0 +1,119 @@
+{
+  "slug": "flightsimexpo-2026-hardware-buyer-map",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "A",
+  "visualGoal": "Make a FlightSimExpo-season buyer confident about which ONE reveal to buy for their airplane before they read the wait/skip caveats. Real product proof anchors the buyable picks (TCA Sky Yoke, Honeycomb deck, TCA Airbus, MOZA MTQ, VelocityOne, Boeing yoke, pedals, head tracking); the headline new-hardware reveals (Warthog MKII, OMNI, MOZA flight FFB, WinWing panels) stay text-and-link until real photos exist. No procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "MOZA AB9 Flight Force Feedback Base",
+      "preferredLocalPath": "/images/gear/flight/moza-ab9-ffb-base.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/ab9-base",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+AB9+flight+force+feedback+base&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Flagship enthusiast reveal, ~$499 base / 12Nm peak. Currently text-only in body — no verified image. Needs a real base photo before it can appear as a gearpick/shotgrid or be certified. NOTE: moza-ay210-ffb-yoke.jpg exists on disk but is NOT in verified-product-images.json and is a different product (yoke), so it cannot stand in for the AB9."
+    },
+    {
+      "product": "MOZA AB6 Flight Force Feedback Bundle",
+      "preferredLocalPath": "/images/gear/flight/moza-ab6-ffb-bundle.jpg",
+      "officialSourceUrl": "https://us.mozaracing.com/collections/flight-series",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+AB6+flight+force+feedback+bundle&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget/combat FFB reveal, ~$399 bundle (base + MHG grip + clamp) / 6Nm peak. Text-only until real photo sourced and vision-verified."
+    },
+    {
+      "product": "MOZA MFY Yoke on AY210 base",
+      "preferredLocalPath": "/images/gear/flight/moza-mfy-ay210-yoke.jpg",
+      "officialSourceUrl": "https://mozaracing.com/products/ay210-ffb-yoke-bundle",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+MFY+yoke+AY210&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Airliner-focused FFB yoke, ~$149 handle + ~$699 AY210 base. moza-ay210-ffb-yoke.jpg exists on disk but is unverified; add to verified set only after vision-check confirms exact product."
+    },
+    {
+      "product": "Thrustmaster HOTAS Warthog MKII",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-hotas-warthog-mkii.jpg",
+      "officialSourceUrl": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+MKII&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Combat HOTAS refresh, $599.99, Sept 2026. thrustmaster-hotas-warthog.jpg (OLD Warthog) exists in the space/ folder but is NOT verified for flight and is the previous generation — do not use it for the MKII. Needs a real MKII photo."
+    },
+    {
+      "product": "Thrustmaster OMNI Extension",
+      "preferredLocalPath": "/images/gear/flight/thrustmaster-omni-extension.jpg",
+      "officialSourceUrl": "https://eshop.thrustmaster.com/omni-extension.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+OMNI+Extension&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "$44.99 sidestick reposition arm, space-sim accessory. Low priority; text-only. Source a real photo only if it earns a body visual."
+    },
+    {
+      "product": "WinWing A320 FCU + EFIS-L/R combo",
+      "preferredLocalPath": "/images/gear/flight/winwing-fcu-efis-combo-a320.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Airbus glareshield panel. winwing-fcu-efis-combo-a320.jpg exists on disk but is NOT in verified-product-images.json. Verify before body use or certification."
+    },
+    {
+      "product": "WinWing MCDU (A320) and PAP 3 (737 MCP)",
+      "preferredLocalPath": "/images/gear/flight/winwing-mcdu-a320.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "winwing-mcdu-a320.jpg and winwing-pap-3-mcp.jpg exist on disk but are unverified. Add to verified set after vision-check to enable body visuals."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/thrustmaster-tca-sky-yoke.png",
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/flight/honeycomb-bravo-throttle.jpg",
+    "/images/gear/flight/honeycomb-charlie-pedals.jpg",
+    "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg",
+    "/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg",
+    "/images/gear/flight/moza-mtq-throttle-quadrant.jpg",
+    "/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg",
+    "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "/images/gear/flight/tobii-eye-tracker-5.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-buyer-map",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic FlightSimExpo-style hardware bench under clean expo lighting, a home flight-sim desk with an empty mounting zone left open for a real yoke product overlay, cable tray and monitor with a generic non-branded MSFS-style cockpit view, curator Mac Donovan gesturing at the open mount, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/thrustmaster-tca-sky-yoke.png"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake yoke, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "reveal-to-mission",
+      "title": "Match the FlightSimExpo 2026 reveal to your airplane",
+      "format": "1600x1000",
+      "content": ["GA -> Honeycomb deck now, watch Sky Yoke", "Airbus -> TCA Sidestick + Quadrant, WinWing panels later", "Combat -> Warthog MKII or MOZA AB6", "Airliner feel -> MOZA AB9 (enthusiast leap)", "Console -> Sky Yoke / VelocityOne only"],
+      "style": "IgnitionSim command-center chart, large readable text, flight blues, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "ab6-vs-ab9-tree",
+      "title": "MOZA flight FFB: AB6 or AB9?",
+      "format": "1600x1000",
+      "content": ["Fly fighters / new to FFB / tight budget -> AB6 (~$399, 6Nm)", "Fly airliners or heavy warbirds -> AB9 (~$499, 12Nm)", "Both need a rigid 4-bolt mount", "MFY yoke = separate AY210 base path"],
+      "style": "Two-branch decision tree, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-fsexpo-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a clean home cockpit desk during FlightSimExpo season, one hand resting on a yoke mount, thoughtful advisor energy, product overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Exact current US MSRP for MOZA AB9 base ($499 vs promo pricing) and AB6 bundle ($399)?",
+    "OMNI Extension exact ship month (July vs September 2026 across sources)?",
+    "Warthog MKII retail price at launch vs the $599.99 announcement?",
+    "Current WinWing MCDU / PAP 3 / FCU-EFIS store prices under the WINCTRL rebrand?",
+    "Should we vision-verify and add the on-disk moza-ay210-ffb-yoke, winwing-*, vkb-t-rudder-mk4 images to verified-product-images.json so the FFB / Airbus / pedal picks can become body visuals?"
+  ]
+}

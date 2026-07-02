@@ -11,7 +11,8 @@ heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"
 heroAlt: "VKB Gladiator NXT EVO Space Combat Edition joystick, the default first HOSAS pick"
 excerpt: "VKB wins the value and the upgrade ladder, Virpil wins the boutique cockpit, WinWing wins raw features-per-dollar. But the brand you can actually buy this week may decide it for you — boutique stock sells in waves."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "space"

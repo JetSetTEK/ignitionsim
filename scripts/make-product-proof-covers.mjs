@@ -205,6 +205,9 @@ function overlaySvg({ article, art, accent, crew, productCount }) {
       : 'Product bench'
   );
   const type = escapeXml((article.type || 'buyer guide').replace(/-/g, ' '));
+  const crewNote = wrapText(crew.note, 29, 2).map((line, index) =>
+    `<text x="322" y="${694 + index * 28}" class="small" font-size="20" opacity="0.88">${escapeXml(line)}</text>`
+  ).join('');
   return Buffer.from(`
     <svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
       <defs>
@@ -245,9 +248,7 @@ function overlaySvg({ article, art, accent, crew, productCount }) {
       <text x="104" y="214" class="label">${label}</text>
       <rect x="78" y="622" width="610" height="112" rx="22" fill="rgba(16,24,32,.58)" stroke="rgba(255,255,255,.20)"/>
       <text x="322" y="662" class="caption" font-size="24">${escapeXml(crew.name)}:</text>
-      <text x="322" y="698" class="small" font-size="21" opacity="0.88">${escapeXml(crew.note)}</text>
-      <rect x="1054" y="798" width="466" height="42" rx="10" fill="rgba(255,255,255,0.88)" stroke="rgba(255,255,255,0.42)"/>
-      <text x="1072" y="825" class="mono" font-size="13" fill="#101820">${productCount} verified product photo${productCount === 1 ? '' : 's'} + AI scene</text>
+      ${crewNote}
     </svg>
   `);
 }
@@ -272,9 +273,9 @@ async function main() {
     const artImage = art?.image;
     const heroImage = data.heroImage;
     const candidates = [
-      ...inlineGearImages,
       artImage?.startsWith('/images/gear/') ? artImage : null,
       heroImage?.startsWith('/images/gear/') ? heroImage : null,
+      ...inlineGearImages,
       artImage,
       heroImage,
       ...inlineImages,

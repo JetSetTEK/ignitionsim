@@ -12,7 +12,7 @@ excerpt: "Val's MSFS buy order: controls first, rudders when you care about take
 featured: true
 goldStatus: "certified"
 goldCertifiedDate: 2026-07-01
-sourceReviewDate: 2026-07-01
+sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "flight"
 readingTime: 11
@@ -34,6 +34,15 @@ related:
 Flight sim hardware has one special talent: it makes you feel like you need an airliner panel before you can fly a Cessna around your hometown. This is how closets fill with plastic quadrants and regret.
 
 Val's order is simpler: **primary controls, throttle, rudders, head tracking, then panels**. Panels are wonderful. Panels are also dessert. Eat dinner first.
+
+<aside class="curator-aside">
+  <img src="/images/crew/val-chen.webp" alt="Val Chen in a flight and space sim controls workshop" loading="lazy">
+  <div>
+    <span class="ca-kicker">Val's cockpit note</span>
+    <span class="ca-name">A clean cockpit is a control map you can trust under workload.</span>
+    <p>The expensive mistake is buying panels before you know your scan. Start with the controls you touch every flight, then route power and USB like stability is part of immersion. Because it is.</p>
+  </div>
+</aside>
 
 <div class="shotgrid">
   <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke" loading="lazy"></a><figcaption>Honeycomb Alpha: GA yoke foundation</figcaption></figure>
@@ -122,13 +131,15 @@ Head tracking changes how you fly because it removes the mouse from basic visual
 
 Multi-panel cockpits fail in boring ways: weak hubs, overloaded ports, sleep settings, and cables stressed by moving desks. Use a powered USB hub, label cables, disable USB selective suspend if needed, and do not route every device through the cheapest passive hub in the drawer.
 
+Current MSFS setup threads still surface the same practical advice: yoke/throttle first for GA, then a powered hub once peripherals multiply. That sounds unglamorous until the Bravo, rudders, tracker, and panels start disconnecting like they are playing a tiny game of hide-and-seek.
+
 ![MSFS cockpit USB sanity map showing powered hub, separate high-draw devices, and labeled cables](/images/infographics/flight/msfs-usb-sanity-map.png)
 
 The boring buy here is a reputable powered USB hub with enough current for the cockpit, not a mystery passive splitter from the cable drawer. Put the yoke/throttle stack, panels, head tracker, and rudders on labeled runs; keep firmware-updated devices easy to unplug; and test sleep/wake behavior before you tidy cables so aggressively that troubleshooting requires archaeology.
 
 ## Research Notes
 
-This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, Tobii's [Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/) specs, and current MSFS community hardware patterns. Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
+This map cross-checks Honeycomb's [Alpha](https://flyhoneycomb.com/products/alpha-flight-controls) and [Bravo](https://flyhoneycomb.com/products/bravo-throttle-quadrant) product specs, NaturalPoint's [TrackIR 5](https://www.trackir.com/trackir5/) specs, Tobii's [Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/) specs, and current MSFS community hardware patterns including a recent [r/flightsim MSFS 2024 setup thread](https://www.reddit.com/r/flightsim/comments/1uapd5b/microsoft_flight_sim_2024_set_up/). Device compatibility changes with firmware and sim updates, so verify your aircraft add-on mappings before panel spending gets spicy.
 
 ## Verdict
 

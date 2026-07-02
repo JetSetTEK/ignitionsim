@@ -10,7 +10,8 @@ updatedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "golf"
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak+ launch monitor — one of the units that reaches GSPro through a connector"
 excerpt: "GSPro is the broad-compatibility hub of home golf software, but getting your launch monitor talking to it is where most builds stall. Here is the 2026 connector map, the subscription math, and the fixes."

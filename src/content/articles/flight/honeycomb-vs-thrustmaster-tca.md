@@ -11,7 +11,8 @@ heroImage: "/images/gear/flight/honeycomb-alpha-yoke.jpg"
 heroAlt: "Honeycomb Aeronautical Alpha Flight Controls yoke — the GA anchor of the Honeycomb-vs-Thrustmaster-TCA decision"
 excerpt: "These two ecosystems aren't really competing — they're built for different airplanes. Here's the honest 2026 verdict: name your airplane first, then let the yoke-vs-sidestick, price and ecosystem gaps make the call for you."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "flight"

@@ -11,7 +11,8 @@ heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak+ photometric golf launch monitor sitting beside the ball on a hitting mat"
 excerpt: "This is the tier where the real money decision lives. Three premium photometric units, three different philosophies on subscriptions and club data — and the total cost of ownership is not what the sticker says."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

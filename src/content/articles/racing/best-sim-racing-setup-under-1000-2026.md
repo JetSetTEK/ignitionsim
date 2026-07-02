@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/moza-r12.jpg"
 heroAlt: "MOZA R12 direct-drive wheelbase, the anchor of the best sim racing setup under $1,000 in 2026"
 excerpt: "$1,000 buys a genuine direct-drive rig in 2026 — a 12Nm base, a load-cell brake and a rigid mount you won't outgrow in a year. Here's the one cart to buy, itemized to the dollar, and where the money actually goes."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

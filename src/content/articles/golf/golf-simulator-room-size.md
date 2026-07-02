@@ -11,7 +11,8 @@ heroImage: "/images/golf/golf-simulator-room-size.jpg"
 heroAlt: "A golfer at the top of the backswing inside a dim simulator bay, club near a low ceiling, with a fairway glowing on the screen ahead"
 excerpt: "Before you spend a dollar, you measure. Ceiling height, depth, and width decide which launch monitor and projector can even work in your room — here is the 2026 map from tape measure to hardware."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

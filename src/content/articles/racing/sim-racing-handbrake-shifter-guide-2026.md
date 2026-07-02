@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/sim-lab-p1x.jpg"
 heroAlt: "Rigid aluminum-profile sim racing cockpit with side rails ready for a handbrake and shifter mount"
 excerpt: "Most handbrake and shifter problems are mounting problems. Here's load-cell vs analog, sequential vs H-pattern, and exactly which one rally and drift drivers should buy first."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

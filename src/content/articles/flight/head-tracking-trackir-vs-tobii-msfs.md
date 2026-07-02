@@ -11,7 +11,8 @@ heroImage: "/images/gear/flight/naturalpoint-trackir-5.jpg"
 heroAlt: "NaturalPoint TrackIR 5 head tracking camera with TrackClip PRO"
 excerpt: "Head tracking is the cheapest upgrade that changes how you fly a flat monitor. Here is the honest TrackIR 5 vs Tobii Eye Tracker 5 breakdown for 2026 — clip vs clip-free, precision vs convenience, and the one to buy."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "flight"

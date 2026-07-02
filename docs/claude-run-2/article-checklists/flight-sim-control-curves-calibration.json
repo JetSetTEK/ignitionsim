@@ -1,0 +1,22 @@
+{
+  "slug": "flight-sim-control-curves-calibration",
+  "articleFile": "src/content/articles/flight/flight-sim-control-curves-calibration.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 3,
+  "realProductImageCount": 3,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low product density by design: only 3 genuinely relevant verified product photos (Honeycomb Alpha, Honeycomb Charlie, TCA Sidestick) are embedded. Reaching the 8-verified-image bar would require forcing irrelevant product cards into a settings how-to, which violates the run rules — so this is intentionally left non-candidate rather than padded.",
+    "The article's core visual need is INFOGRAPHICS, not products: a verified MSFS 2024 Sensitivity-screen diagram, a twitchy-vs-drifting decision tree, and a linear-vs-curved plot. All three are flagged for Codex in the image manifest and do not exist yet.",
+    "Primary-source uncertainty on the central mechanic: whether MSFS 2024 still exposes a 'Reactivity' slider vs Sensitivity + dead zones is build-dependent, and two key sources (Fenix Recommended-Sensitivity, Flight Simulation Showcase) returned HTTP 403 on automated fetch. The body hedges to 'tune what you see / check current'; a live-browser re-verification and a dated settings screenshot are needed before certification.",
+    "Pre-existing routing gap (NOT caused by this rewrite): the article does not currently emit an HTML page in dist/flight/ — identical to the certified reference best-flight-sim-hardware-2026 and 14 other flight articles. Out of scope for this content pass; flagged to the routing owner."
+  ],
+  "notes": "Rewritten to gold structure by Mac Donovan (curator = author). Bold verdict-first opening (twitchy = software curve problem, not hardware fault), MSFS-2024-accurate settings table, step-by-step recipe, per-aircraft tuning, honest drift-vs-curve hardware section, calibrate-first section, one tip callout + one forum callout (original paraphrase), 'who should skip this', full verdict, and a dated Sources Checked shelf with real links. All 3 embedded gear images are verified (heroImage = honeycomb-alpha-yoke.jpg, verified). 6 FAQs. related[] points to 3 real flight cluster articles. No unverified images embedded; no forced product cards; no literal <content>/<invoke> wrappers. `npx astro build` compiles clean (166 pages, content-collection schema parses). goldStatus left as 'refresh' per run rules — NOT certified. This is a strong lower-product-density explainer; the honest ceiling is 3 product visuals, so certification waits on the 3 Codex infographics + primary-source re-verification, not on padding the product count."
+}

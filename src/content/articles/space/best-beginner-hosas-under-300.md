@@ -11,7 +11,8 @@ heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"
 heroAlt: "VKB Gladiator NXT EVO Space Combat Edition joystick, the upgrade-path beginner HOSAS pick"
 excerpt: "You can build a real two-stick space rig for less than one boutique grip. Here are the three beginner HOSAS setups under $300 worth your money, ranked by what they actually do for a new pilot — with the binding, desk, and upgrade traps nobody warns you about."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "space"

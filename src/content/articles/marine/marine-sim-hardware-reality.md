@@ -11,7 +11,8 @@ heroImage: "/images/marine/marine-sim-hardware-reality.jpg"
 heroAlt: "Repurposed sim gear arranged as a marine console — racing wheel, throttle quadrant, button box — on dark slate with teal rim light"
 excerpt: "Marine sim is the niche-of-niches. There is no boat wheel on a shelf anywhere. The honest story is repurposing, DIY, and a software gate that decides whether your gear works at all."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "marine"

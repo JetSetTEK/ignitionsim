@@ -7,7 +7,8 @@ primaryKeyword: "load cell sim racing pedals"
 author: "Duke Alvarez"
 publishDate: 2026-06-10
 updatedDate: 2026-07-02
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

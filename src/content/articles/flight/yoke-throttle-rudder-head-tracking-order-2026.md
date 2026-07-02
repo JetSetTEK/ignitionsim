@@ -12,7 +12,7 @@ excerpt: "The correct flight sim upgrade order depends on aircraft. Val gives th
 featured: true
 goldStatus: "certified"
 goldCertifiedDate: 2026-07-01
-sourceReviewDate: 2026-07-01
+sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "flight"
 readingTime: 9
@@ -34,6 +34,15 @@ related:
 The flight sim upgrade order is not universal. A bush pilot, Airbus driver, helicopter nerd, and DCS visitor all touch different controls. Anyone giving one list for everyone is probably selling a bundle.
 
 Val's quick answer: buy the controls that remove the most mouse work from the aircraft you actually fly.
+
+<aside class="curator-aside">
+  <img src="/images/crew/val-chen.webp" alt="Val Chen in a flight and space sim controls workshop" loading="lazy">
+  <div>
+    <span class="ca-kicker">Val's upgrade rule</span>
+    <span class="ca-name">Buy the control you reach for under pressure.</span>
+    <p>Panels are seductive because they photograph well. But the upgrade that changes your flying is usually the thing that stops a frantic mouse grab on base-to-final, taxi, flare, or go-around.</p>
+  </div>
+</aside>
 
 <div class="shotgrid">
   <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Stick path: compact and versatile</figcaption></figure>
@@ -107,6 +116,10 @@ TrackIR and Tobii are the upgrades people delay because they do not look like "c
 
 If you wear a headset and want the proven standard, TrackIR. If you hate clips and want clean convenience, Tobii. Either way, buy head tracking before your third decorative panel.
 
+## The Current Community Signal
+
+Recent MSFS setup advice still points newcomers toward the same foundation: yoke or stick plus throttle for the aircraft you fly most, rudders when taxi and crosswinds start mattering, and a powered USB hub once the cockpit has more than a few devices. The punchline is boring and true: the flight deck that works every night beats the one that looks like an overhead panel and behaves like a USB mystery novel.
+
 ## Panels: Dessert, Not Dinner
 
 Panels are wonderful when they match your aircraft. They are also how builds become mismatched museums. Buy panels only after answering:
@@ -118,7 +131,7 @@ Panels are wonderful when they match your aircraft. They are also how builds bec
 
 ## Research Notes
 
-This upgrade order cross-checks Honeycomb's official Alpha/Bravo specs, NaturalPoint's TrackIR feature set, Tobii's current Eye Tracker 5 positioning, and common MSFS forum advice around controls before panels. The guiding principle: remove the most frequent mouse clicks first.
+This upgrade order cross-checks Honeycomb's official Alpha/Bravo specs, NaturalPoint's TrackIR feature set, Tobii's current Eye Tracker 5 positioning, common MSFS forum advice around controls before panels, and a recent [r/flightsim MSFS 2024 setup discussion](https://www.reddit.com/r/flightsim/comments/1uapd5b/microsoft_flight_sim_2024_set_up/). The guiding principle: remove the most frequent mouse clicks first.
 
 ## Verdict
 

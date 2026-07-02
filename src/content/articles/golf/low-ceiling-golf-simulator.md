@@ -11,7 +11,8 @@ heroImage: "/images/gear/golf/skytrak-plus.jpg"
 heroAlt: "SkyTrak+ side-of-ball photometric launch monitor, the anchor of a low-ceiling 8.5-foot basement golf simulator build"
 excerpt: "An 8.5-foot basement is the most common real-world golf-sim room and the one the spec sheets tell you can't work. It can — if you choose a side-mount photometric launch monitor, a short-throw projector, and accept a couple of honest swing compromises."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

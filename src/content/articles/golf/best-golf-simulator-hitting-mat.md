@@ -11,7 +11,8 @@ heroImage: "/images/golf/best-golf-simulator-hitting-mat.jpg"
 heroAlt: "A clubhead striking a golf ball off a premium fairway-green hitting mat with a faint spark of impact in a dark cinematic bay"
 excerpt: "Buyers drop $3,000 on a launch monitor and $100 on the mat, then wonder why their wrists hurt and their numbers lie. The mat is the most under-budgeted, most injury-relevant part of the whole bay. Here is which mat to buy, which one to avoid for your joints, and how to keep the mat from lying to your launch monitor."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "golf"

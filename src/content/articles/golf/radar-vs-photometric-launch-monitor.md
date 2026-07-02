@@ -11,7 +11,8 @@ heroImage: "/images/golf/radar-vs-photometric-launch-monitor.jpg"
 heroAlt: "A photometric camera launch monitor beside a hitting mat and a radar unit set behind it, lit in warm gold against deep green simulator walls"
 excerpt: "Radar watches the ball fly from behind you. Photometric reads it at impact from the side. The whole decision comes down to one honest measurement: how deep is your room, and how well can you light it?"
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "golf"

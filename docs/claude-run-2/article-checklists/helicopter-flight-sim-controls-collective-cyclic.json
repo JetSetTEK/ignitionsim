@@ -1,0 +1,23 @@
+{
+  "slug": "helicopter-flight-sim-controls-collective-cyclic",
+  "articleFile": "src/content/articles/flight/helicopter-flight-sim-controls-collective-cyclic.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 11,
+  "realProductImageCount": 11,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Komodo Simulations collective has no verified product image (the on-disk komodo-simulations-collective.jpg is NOT in verified-product-images.json). It was wrongly embedded as a gearpick in the prior pass; this rewrite made it text-only. A verified photo + confirmed current price are needed before it could be a body visual or before certification.",
+    "Komodo current price unconfirmed — official product page threw a TLS cert-altname error and the site 403s some fetches; a ~£200 price drop was announced but the exact 2026 figure is not verified. Rendered as 'check current (approx. £350+)'.",
+    "Several named products are text-only with no verified image: Thrustmaster T.16000M FCS (pictured via the verified TCA Sidestick), Logitech G X56, Thrustmaster TPR, Logitech G Flight Rudder Pedals (file on disk but unverified), Thrustmaster TFRP. Source real photos before they can become body visuals.",
+    "HeliSimmer bindings source (helisimmer.com) returns 403 to WebFetch; exact MSFS 2024 binding label names were captured from the search-result snippet and cross-checked against the MSFS official forum + SimTuts. Re-verify against the live HeliSimmer page before certifying the bindings section verbatim.",
+    "Approximate 2026 street prices (TCA Quadrant ~$100, Honeycomb Charlie ~$270, MOZA MTQ ~$199, VelocityOne Flight Stick ~$130) are rendered 'check current' and should be price-confirmed before any hard-price certification."
+  ],
+  "notes": "Rewritten to gold structure with author=curator (Mac Donovan), goldStatus left as refresh (NOT certified per run rules). Verdict-first bold opening; the-three-controls explainer; honest budget-to-dedicated ladder table; exact MSFS 2024 bindings (COLLECTIVE AXIS + Reverse, SET CYCLIC LONGITUDINAL/LATERAL AXIS + -30% to -40% curve, RUDDER AXIS, and the SET HELICOPTER THROTTLE 1 AXIS trap); setup-tax warnings; two Pro-tip callouts + one From-the-forums callout (original paraphrase); What-to-buy stack; dated Sources Checked shelf with real links. ALL 11 embedded gear images are verified (5 distinct: TCA Sidestick, TCA Quadrant x-hero+body, Honeycomb Charlie, MOZA MTQ, VelocityOne Flight Stick); heroImage is a verified path (thrustmaster-tca-quadrant-airbus.jpg). Frontmatter confirmed exactly 2 fences. `npx astro build` compiles clean (166 pages, no errors/warnings; content-collection schema accepts the frontmatter). Fact corrections vs prior pass: (1) removed the unverified Komodo embedded image; (2) fixed the false 'X56 throttle detaches' claim — cables are built in, twin levers unlock + friction-adjust; (3) MSFS 2024 default heli roster corrected (Cabri G2/R66/Bell 407/H125/S-64/H225/CH-47D; R44 is 3rd-party, not default); (4) added the collective-vs-helicopter-throttle-axis binding distinction as a new FAQ. Left as refresh and NOT a certification candidate because the Komodo dedicated tier still lacks a verified image and confirmed price."
+}

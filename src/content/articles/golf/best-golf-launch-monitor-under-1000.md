@@ -11,7 +11,8 @@ heroImage: "/images/golf/best-golf-launch-monitor-under-1000.jpg"
 heroAlt: "Close detail of a budget photometric launch monitor beside a golf ball on a fairway-green hitting mat in warm directional light"
 excerpt: "Under a thousand dollars in 2026 you can get genuine launch data and real simulator play — but the honest field is smaller than the marketing suggests. Three units own it, and the right pick depends entirely on your room."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "golf"

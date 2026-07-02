@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/moza-r12.jpg"
 heroAlt: "MOZA R12 12Nm direct-drive wheelbase, the sweet-spot base most sim racers never outgrow"
 excerpt: "Yes, you probably want direct drive in 2026 — because it now costs what a belt wheel does. Here's the honest DD-vs-belt case, why 5Nm is enough to start, and where more torque stops buying lap time."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

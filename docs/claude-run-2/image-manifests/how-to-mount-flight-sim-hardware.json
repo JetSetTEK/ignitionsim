@@ -1,0 +1,90 @@
+{
+  "slug": "how-to-mount-flight-sim-hardware",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Make the mounting ladder legible at a glance so a reader lands on the right rung (box clamps for one yoke, aluminum mount for a HOTAS, powered hub for panels, frame for FFB) without over-buying. This is a low-product-density how-to: real product proof only where genuinely relevant; carry the rest of the visual load with infographics/diagrams, not forced product cards.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Powered 10-port USB hub (sim-cockpit style, dedicated adapter + per-port switches)",
+      "preferredLocalPath": "/images/gear/flight/desktop-pilot-10-port-usb-hub.jpg",
+      "officialSourceUrl": "https://www.amazon.com/s?k=10+port+powered+USB+hub+with+power+adapter",
+      "amazonUrl": "https://www.amazon.com/s?k=10+port+powered+USB+hub+with+power+adapter&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Level-3 hero product. Previously embedded here with an UNVERIFIED image; now text+Amazon only. No /flight/gear/ page exists for it (getStaticPaths gates on verified image), so a gearpick 'Spec card' link would 404 until a photo lands. Source a real photo before it can become a body visual."
+    },
+    {
+      "product": "MOZA AY210 Force Feedback Yoke (base)",
+      "preferredLocalPath": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
+      "officialSourceUrl": "https://us.mozaracing.com/products/ay210-ffb-yoke-bundle",
+      "amazonUrl": "https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The FFB yoke that triggers Level 4 (a real frame). Previously embedded with an UNVERIFIED image; now text+Amazon only. No /flight/gear/ page exists until a verified photo is added. Also referenced in force-feedback-yoke-worth-it — a shared verified MOZA photo would unblock multiple articles."
+    },
+    {
+      "product": "Under-desk mounting plate (Honeycomb-style, e.g. FlightSimBuilder / Flight Velocity)",
+      "preferredLocalPath": "/images/gear/flight/under-desk-yoke-mount-plate.jpg",
+      "officialSourceUrl": "https://flightsimbuilder.com/products/honeycomb-under-desk-mount",
+      "amazonUrl": "https://www.amazon.com/s?k=Honeycomb+under+desk+yoke+mount&tag=ignitionsim-20",
+      "status": "optional",
+      "notes": "Not currently in the body. A real under-desk plate photo would let us add a genuine Level-1.5 visual (space-saving clamp-free option) without inventing product cards. Low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/honeycomb-alpha-yoke.jpg",
+    "/images/gear/racing/desk-clamp.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/racing/trak-racer-tr80.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-mounting-ladder",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic flight-sim desk at cool cyan rim light against a navy background, a Honeycomb-style yoke clamped to a solid desk edge in the foreground with the steel desk clamp clearly visible underneath, a rigid anodized-aluminum arm holding a throttle beside it, and a hint of an 8020 aluminum-profile frame receding into the background to imply the escalation, cable tray visible, no fake logos, no fake UI, 16:9 editorial cover. Space left clear at the desk edge for a real yoke product overlay.",
+      "realOverlays": ["/images/gear/flight/honeycomb-alpha-yoke.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, floating hardware, warped clamps, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "mounting-ladder",
+      "title": "The flight sim mounting ladder",
+      "format": "1600x1000",
+      "content": [
+        "Rung 1 — Box clamps (one yoke + throttle): use what shipped; clamp a solid edge; pad delicate tops",
+        "Rung 2 — Rigid aluminum desk mount (HOTAS / 2-3 pieces): ~$100 each, two per HOTAS",
+        "Rung 3 — Powered USB hub (3-4+ devices): ~$60, own adapter, power management OFF",
+        "Rung 4 — Cockpit frame / 8020 rig (pedals + panels + FFB): ~$499 prebuilt / ~$325+ DIY parts"
+      ],
+      "style": "IgnitionSim command-center numbered staircase, large readable text, flight cyan/navy palette, one small real product photo per rung as a row marker for Codex overlay (Alpha, Monstertech mount, USB-hub placeholder, Trak Racer TR80)"
+    },
+    {
+      "id": "usb-power-decision",
+      "title": "Do you need a powered USB hub?",
+      "format": "1600x1000",
+      "content": [
+        "1-2 devices -> direct to PC USB 2.0 ports",
+        "3-4 devices -> small powered hub recommended",
+        "5+ devices / any multi-panel stack -> powered hub MANDATORY (own wall adapter)",
+        "Panel drops out mid-flight? -> brownout or Windows power management, not a dead panel",
+        "Fixes: powered hub, USB selective-suspend OFF, older Saitek gear on USB 2.0"
+      ],
+      "style": "Decision-tree flow, flight palette, callout box for the 'panel keeps disappearing' failure mode; no product photos required"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-clamp-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan crouched at a desk edge, one hand snugging a steel yoke clamp against a solid desktop, thin protective pad visible between clamp and surface, calm hands-on-hardware energy, practical home setup not a fantasy cockpit, product overlay space beside him, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source real photos for the powered USB hub and MOZA AY210 so they can return as body visuals — neither has a /…/gear/ page until its image is verified.",
+    "Generate a proper editorial mounting hero and add it to verified-product-images.json before re-pointing heroImage off the Honeycomb Alpha placeholder.",
+    "Confirm current US Monstertech table-mount price (per mount vs per HOTAS pair) and Trak Racer TR80 / DIY 8020 parts floor before removing any 'check current' flags.",
+    "Do we want an under-desk mounting-plate photo to add a clamp-free Level-1.5 visual?"
+  ]
+}
