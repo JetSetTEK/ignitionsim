@@ -1,0 +1,42 @@
+[
+  {
+    "file": "/images/infographics/best-gpu-for-sim-racing-flight-2026-1.svg",
+    "title": "GPU tier by resolution",
+    "shows": "A ladder mapping each common flat-panel sim resolution to the NVIDIA GPU that holds a stable, high framerate in a demanding sim (MSFS 2024 as the worst case). Four rungs, left-to-right from easiest to hardest workload, each labeled with the target card and a one-line reason.",
+    "dataPoints": [
+      "1440p single monitor -> RTX 5070 (12GB GDDR7): comfortable high-refresh headroom at 1440p Ultra; the value floor.",
+      "Ultrawide 3440x1440 / 5120x1440 -> RTX 5080 (16GB GDDR7): the extra pixels of a 34-49 inch ultrawide push past the 5070; 5080 holds it with frame-gen.",
+      "Triple 1440p (~11 million pixels, ~180 degrees FOV) -> RTX 5080 (16GB): the sweet-spot card for triples; clears 3x1440p where the 5070 dips under a full grid.",
+      "4K single (3840x2160) Ultra + heavy scenery -> RTX 5090 (32GB GDDR7): the only card that comfortably clears 60fps 4K Ultra in MSFS 2024 with photogrammetry cities.",
+      "Note strip: MSFS 2024 is the benchmark workload; racing sims (iRacing, ACC) are lighter, so a 5080 covers 4K in those.",
+      "16GB VRAM = 5080 ceiling; 32GB VRAM = 5090; VRAM matters most at 4K + max textures + VR."
+    ]
+  },
+  {
+    "file": "/images/infographics/best-gpu-for-sim-racing-flight-2026-2.svg",
+    "title": "GPU tier by VR headset",
+    "shows": "A four-step escalation of PCVR headsets by per-eye resolution, each mapped to the GPU it realistically needs to hold a smooth framerate in MSFS 2024. Left = lightest render load, right = heaviest. Reinforces that VR roughly doubles the GPU demand of a flat panel.",
+    "dataPoints": [
+      "Meta Quest 3S (1832x1920 per eye, Fresnel) -> RTX 5070-class: the try-VR entry; happy over Link on a mid-tier card.",
+      "Meta Quest 3 (2064x2208 per eye, pancake) -> RTX 5070 Ti / RTX 5080: sharper optics raise the render target slightly.",
+      "Bigscreen Beyond 2 (2560x2560 per eye, micro-OLED, 107g) -> RTX 5080: the comfort pick sits mid-load; a 5080 feeds it well.",
+      "Pimax Crystal Super (3840x3840 per eye, ~50 PPD) -> RTX 5090 required: the clarity benchmark realistically needs a 5090 to stay smooth in MSFS 2024 / full iRacing grid.",
+      "Rule-of-thumb banner: VR renders two high-res images per frame -> plan on roughly HALF the fps of a flat monitor.",
+      "Callout: the headset is only half the bill; budget the GPU with it."
+    ]
+  },
+  {
+    "file": "/images/infographics/best-gpu-for-sim-racing-flight-2026-3.svg",
+    "title": "MSFS 2024 is the benchmark",
+    "shows": "A decision panel explaining why MSFS 2024 is the hardest mainstream sim (CPU + GPU brutal), what clears 60fps 4K Ultra, and the 5080-vs-5090 fork. Two columns (5080 / 5090) with a top band on why MSFS 2024 is uniquely demanding and a bottom 'pick this if' band.",
+    "dataPoints": [
+      "Top band: MSFS 2024 is CPU AND GPU brutal - streams real-world scenery, photogrammetry cities, dense autogen and weather; a fast CPU (X3D) feeds frames, the GPU renders them.",
+      "5080 column: 16GB GDDR7, 10,752 CUDA cores, 256-bit bus, ~$999 MSRP (street ~$1,249+). Holds 1440p/ultrawide/triple-1440p and 4K with DLSS frame-gen. The sweet spot.",
+      "5090 column: 32GB GDDR7, 21,760 CUDA cores, 512-bit bus, ~$1,999 MSRP (street ~$2,699+). The only card that clears native 4K Ultra + high-res VR (Crystal Super) without compromise.",
+      "Middle verdict line: clears 60fps 4K Ultra MSFS 2024 = 5090 (native) or 5080 (with DLSS frame-gen).",
+      "Bottom 'pick 5080 if': 1440p / ultrawide / triples / 4K-with-frame-gen / Quest-3 or Beyond-2 VR / you value your money.",
+      "Bottom 'pick 5090 if': native 4K Ultra / Pimax Crystal Super / triples + VR / zero-compromise headroom and stock permitting.",
+      "Footnote: frame generation (DLSS 4) is the lever that lets a 5080 punch into 4K; it adds latency, fine for flight, weigh it for competitive racing."
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "/images/infographics/best-sim-racing-motion-platforms-2026-1.svg",
+    "title": "2DOF vs 3DOF vs 6DOF: what each axis simulates",
+    "shows": "A three-tier ladder comparing the motion envelopes a home racer can actually buy. Left tier = 2DOF (pitch + roll). Middle tier = 3DOF (adds traction-loss yaw). Right tier = 6DOF (adds heave + surge + sway). Each axis is labelled with the physical cue it delivers and a simple arrow/rotation icon, so a buyer can see at a glance which axis produces the 'rear stepping out' cue and why 3DOF is the regret-proof sweet spot for sim racing while 6DOF is a different price universe.",
+    "dataPoints": [
+      "2DOF = Pitch + Roll. Pitch (nose up/down) = braking dive & acceleration squat. Roll (side tilt) = cornering lean. Convincing for grip circuit racing. Example: NLR Motion V3 (~$2,999). CANNOT rotate the platform, so it cannot deliver the rear-stepping-out cue.",
+      "3DOF = Pitch + Roll + Yaw (traction loss). The third axis rotates the platform (front-centre pivot) so the rig turns as the back end lets go — the single most-craved motion cue for racers. Example: DOF Reality H3 (~$2,999 base). This is the regret-proof sweet spot for sim racing.",
+      "6DOF = Pitch + Roll + Yaw + Heave (vertical) + Surge (fore-aft slide) + Sway (lateral slide). The full commercial-simulator envelope. Example: professional/commercial platforms $10,000+. Aspirational, not a home budget.",
+      "Regret-proof takeaway: for a home sim-racing rig, 3DOF with a traction-loss axis is the sweet spot. 2DOF is defensible only for clean-grip GT/formula racing; 6DOF is for people who don't ask what things cost.",
+      "Cost reality callout: 2DOF (NLR V3) and 3DOF (DOF Reality H3) sit at roughly the SAME base price (~$2,999) — when the extra axis is free, buy the axis.",
+      "Which cue lives where: braking dive & squat = pitch (2DOF+); cornering lean = roll (2DOF+); rear stepping out / oversteer catch = yaw/traction loss (3DOF+); road bumps & vertical heave, cockpit slide = heave/surge/sway (6DOF only)."
+    ]
+  },
+  {
+    "file": "/images/infographics/best-sim-racing-motion-platforms-2026-2.svg",
+    "title": "Motion vs tactile: what each gives you",
+    "shows": "A two-column comparison contrasting tactile (bass shakers / haptic transducers) against motion (a moving chassis). Left column = tactile: cheap, information cues, must-do first. Right column = motion: expensive, immersion cues, luxury layer. Each column is scored on cost, install, what it communicates, whether it adds lap time, and who it's for — landing the guide's core thesis that most builders should max tactile before ever buying motion.",
+    "dataPoints": [
+      "Tactile — cost: ~$200-400 for a strong bass-shaker build (transducer + tactile amp + SimHub, free). Installs in an afternoon.",
+      "Tactile — what it gives: INFORMATION cues felt through seat & pedals — wheelspin, ABS pulse, brake lockup, kerb strikes, road texture, engine rumble, gear-shift kick. These actually help you drive.",
+      "Tactile — lap time: yes, indirectly — the slip/lockup cues improve car control. The near-unanimous 'why did I wait' upgrade in sim racing.",
+      "Tactile — best for: EVERYONE, and it comes first. Max this out before spending a cent on motion.",
+      "Motion — cost: ~$2,999+ for 2DOF or base 3DOF; 6DOF is $10,000+. Plus a rigid rig, clearance, and hours of install.",
+      "Motion — what it gives: IMMERSION cues — the whole chassis tilts/rotates to sell g-force (braking dive, cornering lean, rear rotation on 3DOF). Feels real, but adds no information tactile doesn't already give.",
+      "Motion — lap time: NO. Independent testing repeatedly shows zero measurable lap-time improvement.",
+      "Motion — best for: people who've already maxed tactile and want the chassis to physically move. A legitimate luxury, layered on top.",
+      "The order that matters: rigid rig -> tactile (must-do, high value) -> motion (luxury, optional). Half the people who 'need motion' actually have an under-tuned tactile setup."
+    ]
+  },
+  {
+    "file": "/images/infographics/best-sim-racing-motion-platforms-2026-3.svg",
+    "title": "The full immersion stack, in the order that pays off",
+    "shows": "A vertical stacked pyramid / staircase showing the four immersion layers of a sim rig built bottom-to-top in the correct buy order, with a rough price and an 'immersion-per-dollar' rating beside each step. The visual makes clear that per-dollar payoff is highest at the bottom (tactile) and that motion is the expensive luxury near the top — so buying out of order wastes money.",
+    "dataPoints": [
+      "Layer 1 (foundation) — Rigid seat / cockpit: the stiff base everything pushes against. A flexy rig turns every cue to mush and makes motion unsafe. Cost varies ($200 wheel stand to $1,000+ 8020 rig). Immersion-per-dollar: prerequisite (not optional).",
+      "Layer 2 — Tactile (bass shakers / haptics): BEST immersion-per-dollar in the whole stack. ~$200-400. Delivers wheelspin, lockup, kerb, engine rumble — the cues that actually help you drive. Immersion-per-dollar: HIGHEST.",
+      "Layer 3 — Motion (2DOF or 3DOF): the big cheque and the luxury layer. ~$2,999+. Buy only after tactile is maxed; if you buy, buy the axis that matters (3DOF traction-loss over 2DOF). Immersion-per-dollar: LOW (but high 'wow').",
+      "Layer 4 (finishing) — Wind sim: speed-reactive fans via SimHub / Sim Racing Studio. ~$120-250. Air builds against your face as speed climbs — the cheapest 'wow' per dollar after tactile. Immersion-per-dollar: HIGH for the price. Apartment note: pick a quiet-fan (AC Infinity-class) option.",
+      "Golden rule label: buy bottom-to-top. Skipping tactile to buy motion is buying the roof before the walls.",
+      "Neither motion nor wind makes you faster — they buy immersion and long-session joy, not lap time."
+    ]
+  }
+]

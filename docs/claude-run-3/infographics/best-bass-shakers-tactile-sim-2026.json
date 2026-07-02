@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/images/infographics/best-bass-shakers-tactile-sim-2026-1.svg",
+    "title": "The tactile signal chain",
+    "shows": "A left-to-right pipeline showing how a live sim telemetry stream becomes physical vibration in the seat: the game feeds SimHub, SimHub's ShakeIt module converts each telemetry channel into a frequency, a dedicated tactile amplifier drives the transducer(s), and the transducers bolted to the seat and pedal deck turn that signal into feel. Each transducer node is labelled with the specific effect it delivers.",
+    "dataPoints": [
+      "Stage 1 - Sim telemetry: the game (iRacing / ACC / LMU / Le Mans Ultimate) outputs a live data stream (wheel slip, ABS pulse, RPM, suspension load, surface type)",
+      "Stage 2 - SimHub ShakeIt Bass Shakers module: maps each telemetry channel to a discrete low-frequency effect and routes it to a dedicated second audio output (never mixed with headset/game audio)",
+      "Stage 3 - Tactile amplifier: a dedicated Class-D amp (e.g. Fosi Audio HT4S, 30W x4 + 60W x1) drives the transducers - a hi-fi amp or the PC audio jack cannot do this job",
+      "Stage 4 - Transducer(s): bolt-mounted tactile units (Dayton Audio BST-1 50W under the seat; ButtKicker Gamer Plus/Pro) convert the amplified low-frequency signal into physical movement",
+      "Seat transducer feels: road texture, kerb strikes, impacts, engine RPM rumble, gear-shift kick",
+      "Pedal-deck transducer feels: wheelspin, ABS pulse, brake lockup - felt through the feet",
+      "Mounting note: isolate every bolt with dense rubber or Sorbothane so the rig informs instead of rattling"
+    ]
+  },
+  {
+    "file": "/images/infographics/best-bass-shakers-tactile-sim-2026-2.svg",
+    "title": "Single transducer + amp vs all-in-one pad",
+    "shows": "A two-column comparison of the two real routes into tactile immersion. Left column = the DIY component route (bare transducer + separate tactile amp + SimHub). Right column = the plug-and-play all-in-one haptic pad (Next Level Racing HF8). Each column is scored on cost, effort/wiring, effect quality, and who it's for, so a buyer can pick a lane at a glance.",
+    "dataPoints": [
+      "DIY route - cost: Dayton BST-1 (~$55 ea) + Fosi HT4S amp (~$145) + SimHub (free) = ~$200-260 for a strong 1-2 shaker build",
+      "DIY route - effort: HIGH - you wire the amp, match impedance, set a second audio output, tune ShakeIt effects yourself",
+      "DIY route - effect: strongest, most separable low-end punch; scales to 4+ transducers and pedal-deck units",
+      "DIY route - best for: the tinkerer who wants maximum feel-per-dollar and full control",
+      "ButtKicker Gamer Plus/Pro - the bundled middle path: transducer + matched 90W/150W amp in one box (~$280 / ~$380), still uses SimHub",
+      "All-in-one pad route - cost: Next Level Racing HF8 (~$179-199), one purchase, no amp to buy",
+      "All-in-one pad route - effort: LOW - USB in, sits on the seat, no wiring, no amp, no impedance math; QUIET enough for apartments",
+      "All-in-one pad route - effect: 8 localised motors give position (front/rear/left/right) but less raw low-frequency slam than a bolted transducer",
+      "All-in-one pad route - best for: apartment / quiet-house racers and anyone who wants tactile working in 10 minutes",
+      "Both routes are driven by SimHub telemetry; the amp is the part DIY buyers skip at their peril"
+    ]
+  }
+]

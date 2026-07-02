@@ -1,0 +1,30 @@
+[
+  {
+    "file": "/images/infographics/best-sim-racing-monitors-triple-vs-ultrawide-2026-1.svg",
+    "title": "Triple vs ultrawide FOV: how much of the corner you actually see",
+    "shows": "A top-down field-of-view diagram comparing a single flat/curved super-ultrawide monitor against a three-panel angled triple setup, both drawn around the same driver head position. The point is peripheral vision: the flat ultrawide sits in one plane roughly in front of you, while angled side screens on a triple wrap into your peripheral vision so the apex and the car alongside stay on-screen instead of off the edge.",
+    "dataPoints": [
+      "Driver head at center as the FOV origin point",
+      "Single 49\" 32:9 ultrawide (5120x1440): one gently curved plane, ~55-65 degrees horizontal coverage of vision",
+      "Single 57\" 32:9 ultrawide (7680x2160): wider plane but still a single flat-ish arc in front, still no side-window geometry",
+      "Triple 27\" panels angled ~55-60 degrees inward: center screen straight ahead, two side panels wrapped into peripheral vision",
+      "Triple wrap reaches ~180-195 degrees of horizontal vision (matches NLR stand's stated 195 degrees)",
+      "Callout: the ultrawide shows a WIDER single image; the triple shows you the SIDE of the track (mirrors, apex, car alongside) that an ultrawide crops off",
+      "Callout: triples require in-sim triple-projection/bezel correction so the angled side views render at the correct perspective"
+    ]
+  },
+  {
+    "file": "/images/infographics/best-sim-racing-monitors-triple-vs-ultrawide-2026-2.svg",
+    "title": "Resolution vs GPU load: the pixels each display asks your card to push",
+    "shows": "A bar/tier comparison of total rendered pixel count for the main display choices, mapped to the NVIDIA GPU tier the sim-racing community actually recommends to hold a stable frame rate at each. The takeaway is that the display decides the GPU, and a triple-1440p or 57\" Dual-4K setup is a materially bigger ask than a 49\" DQHD ultrawide.",
+    "dataPoints": [
+      "Single 1440p (2560x1440) = ~3.7 million pixels — baseline reference",
+      "49\" ultrawide DQHD (5120x1440) = ~7.4 million pixels — comfortable on an RTX 5070 (~$550-650)",
+      "Triple 1440p (3x 2560x1440) = ~11.1 million pixels — wants an RTX 5080 (~$1,000-1,200) to hold 120Hz on a full grid",
+      "57\" Neo G9 Dual 4K (7680x2160) = ~16.6 million pixels — the heaviest flat-panel load, RTX 5080/5090 territory + DisplayPort 2.1 to drive 240Hz",
+      "Triple 4K (3x 3840x2160) = ~24.9 million pixels — 5090-only, shown as the 'don't unless you must' extreme",
+      "Annotation: triples also pay a multi-view rendering tax (3 camera passes) beyond raw pixel count",
+      "Annotation: the RTX 5070 is the value baseline, the RTX 5080 is the triple-1440p/high-res sweet spot (community-cited)"
+    ]
+  }
+]

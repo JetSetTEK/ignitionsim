@@ -1,0 +1,27 @@
+[
+  {
+    "file": "/images/infographics/best-sim-racing-cockpits-and-seats-2026-1.svg",
+    "title": "The rigidity ladder",
+    "shows": "A four-rung ascending ladder of sim racing cockpit rigidity tiers, each rung labelled with the tier, a representative product, and the approximate wheelbase torque it can hold before the frame flexes or steals feedback. Rungs ascend left-to-right / bottom-to-top from cheapest+weakest to most rigid. Visual metaphor: a staircase or ladder where the vertical axis is rigidity and each step lists max torque held.",
+    "dataPoints": [
+      "Rung 1 — Desk clamp: holds ~5-8Nm on a heavy solid desk; ~$40-60; flexes above 8Nm and hates a hard load-cell brake",
+      "Rung 2 — Foldable cockpit (e.g. NLR GTLite, ~$229): holds ~8-10Nm; rigid reclined seating position that folds flat for apartments; entry + mid direct drive",
+      "Rung 3 — Steel cockpit (e.g. NLR GT Track, ~$899): holds ~12-15Nm; complete one-box package with reclined race seat; stiff enough for the torque most drivers ever run",
+      "Rung 4 — 80/20 aluminium profile (e.g. Trak Racer TR160 ~$879 / Sim-Lab P1-X ~$1,000-1,299): holds 15Nm and beyond, no flex under any consumer base; carries triples, motion and tactile; never stops being upgradeable",
+      "Axis label: vertical axis = rigidity / max wheelbase torque held; note callout: 'A stronger base does not fix a weaker rig — it exposes it. Buy to your rung on the frame first.'"
+    ]
+  },
+  {
+    "file": "/images/infographics/best-sim-racing-cockpits-and-seats-2026-2.svg",
+    "title": "GT bucket vs fabric seat",
+    "shows": "A two-column side-by-side comparison of a fibreglass GT bucket seat versus a fabric/padded sim seat, scored across four trade-off dimensions — support, comfort, tactile transfer, and price — so the reader sees each seat type wins on different axes. Use simple bar or dot ratings per row, with the winning side highlighted for each dimension.",
+    "dataPoints": [
+      "Dimension — Support: GT bucket = high (locks you in place, side bolsters hold the body); Fabric seat = moderate (padded, more give)",
+      "Dimension — Comfort (long stints): GT bucket = firmer, less forgiving over 2-hour stints; Fabric seat = high, cushioned and forgiving — better for endurance",
+      "Dimension — Tactile transfer: GT bucket = high (rigid shell transmits weight transfer and vibration through the body); Fabric seat = lower (padding absorbs feel)",
+      "Dimension — Price: GT bucket = higher (fibreglass shell + side-mount brackets required); Fabric seat = lower (e.g. NLR Elite ES1 ~$449, or built into GTLite/GT Track)",
+      "Mounting caveat callout: a GT bucket needs side-mount brackets + a rigid frame with seat rails (80/20 or steel cockpit) — it will not mount well on a folding wheel stand",
+      "Bottom-line rule: buy fabric for comfort + budget; buy a bucket for tactile transfer + race-car authenticity"
+    ]
+  }
+]

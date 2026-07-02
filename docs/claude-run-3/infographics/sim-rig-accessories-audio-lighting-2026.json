@@ -1,0 +1,30 @@
+[
+  {
+    "file": "/images/infographics/sim-rig-accessories-audio-lighting-2026-1.svg",
+    "title": "The Complete-Your-Build Checklist",
+    "shows": "The finishing cluster of sim-rig accessories as a checklist / grid — five categories every builder forgets, each with what it does, why it matters, and a rough cost band. Ordered by buy-priority (cheapest-highest-relief first). Visually distinct from a comparison table: card/checkbox tiles, not rows of specs.",
+    "dataPoints": [
+      "Powered USB hub — Sabrent 10-Port (10 × USB 3.0, own 60W / 12V-5A adapter) — fixes random mid-race USB dropouts when a rig runs 4-8 devices — ~$36 — BUY FIRST",
+      "Ambient / bias lighting — Govee RGBIC Gaming Light Bars (2-bar set, RGBIC segmented, music-sync, 60+ scene modes, app + Alexa/Google) — cuts eye strain in a dark room and makes the rig look finished — ~$60-80 — buy early",
+      "Wireless headset — SteelSeries Arctis Nova 7 Gen 2 (2.4GHz + simultaneous Bluetooth, ~38-54hr battery, positional/spatial audio) — no cable snag on the shifter, hear cars alongside, midnight-friendly — ~$179",
+      "Cable management — profile-mount box / sleeving kit — tames the nest of power bricks under the seat — ~$25-60 — do the same afternoon as the hub",
+      "Comfort / QoL cluster — lap wireless keyboard + trackpad (~$25-35), cup holder + tablet/phone mount (~$15-40) — menu navigation without balancing a keyboard, livable long endurance stints — ~$15-40",
+      "The one big touch — ButtKicker Gamer PRO tactile transducer (150W bundled amp, universal clamp, wireless remote) — feel wheelspin, lockups, kerbs, shift kicks through the seat — ~$350 — BUY LAST",
+      "Total for the four cheap finishing touches (hub + lighting + headset + cable management) lands under ~$300 — less than one decent set of pedals"
+    ]
+  },
+  {
+    "file": "/images/infographics/sim-rig-accessories-audio-lighting-2026-2.svg",
+    "title": "Powered vs Bus-Powered USB Hub",
+    "shows": "A side-by-side / cause-and-effect diagram contrasting a BUS-POWERED hub (no wall adapter, splits the PC's limited USB current across all ports) against a POWERED hub (own wall adapter, delivers full stable 5V to every port). Show a peripheral-heavy sim rig (base, pedals, wheel, shifter, handbrake, button box, bass-shaker interface) plugged into each, with the bus-powered side showing a device dropping out mid-race and the powered side stable.",
+    "dataPoints": [
+      "A modern DD sim rig pulls 5-8 USB devices: direct-drive base, pedals, wheel, shifter, handbrake, button box, bass-shaker/tactile interface",
+      "Bus-powered hub = NO wall adapter: it only re-splits the trickle of current the PC's single USB port provides, shared across every downstream device",
+      "Overloaded bus → symptom: random, un-reproducible mid-race disconnects (wheel or pedals drop out) that get wrongly blamed on drivers",
+      "Powered hub = its OWN wall adapter (e.g. Sabrent 10-Port: 60W, 12V/5A): delivers a full, stable ~5V feed to every port simultaneously",
+      "Result: high-draw always-on devices (base, pedals, wheel) stay connected; one cable back to the PC instead of a fistful; individual per-port power switches",
+      "Rule of thumb: 4+ USB peripherals on a rig = you need a POWERED hub, not a bus-powered one",
+      "Cost of the fix: ~$36 — the cheapest cure for the most infuriating problem in sim racing"
+    ]
+  }
+]

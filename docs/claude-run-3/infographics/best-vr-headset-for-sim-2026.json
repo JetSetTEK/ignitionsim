@@ -1,0 +1,29 @@
+[
+  {
+    "file": "/images/infographics/best-vr-headset-for-sim-2026-1.svg",
+    "title": "VR headset tiers for sim (2026)",
+    "shows": "Four vertical tier columns — Value, All-rounder, Clarity, Comfort — each showing the headset, per-eye resolution, weight, price, and whether it is standalone or PCVR-only. Reads left (cheapest/most accessible) to right (most specialized), so a buyer can pick a column by which trade-off they care about.",
+    "dataPoints": [
+      "VALUE — Meta Quest 3S: Fresnel lenses (lower res, smaller sweet spot); ~514g; $349.99; STANDALONE + PCVR over Link/Wi-Fi; needs RTX 5070-class GPU",
+      "ALL-ROUNDER — Meta Quest 3: 2064x2208 per eye, pancake lenses, wider FOV; ~515g; $599.99; STANDALONE + PCVR; needs RTX 5070-class GPU",
+      "CLARITY — Pimax Crystal Super: 3840x3840 per eye (~50 PPD); heavier tethered headset; ~$1,783; PCVR only, inside-out tracking (no base stations); needs RTX 5090",
+      "COMFORT — Bigscreen Beyond 2: 2560x2560 micro-OLED per eye, true blacks; 107g (lightest PCVR headset made); $1,019 ($1,219 for eye-tracking 2e); PCVR only, REQUIRES SteamVR base stations + controllers (sold separately); needs RTX 5080",
+      "Callout strip along the bottom: 'The headset is only half the purchase — every tier assumes a GPU that can feed it. Standalone = Quest only; everything else is tethered PCVR.'",
+      "Secondary note under Beyond 2: base stations + controllers are extra cost, raising real out-the-door price above the $1,019 sticker"
+    ]
+  },
+  {
+    "file": "/images/infographics/best-vr-headset-for-sim-2026-2.svg",
+    "title": "The GPU each headset really needs",
+    "shows": "A mapping/ladder diagram pairing each headset's per-eye resolution (left) to the minimum recommended NVIDIA RTX 50-series GPU tier (right) for a smooth sim framerate in MSFS 2024 / a full iRacing grid. Higher resolution steps up the required GPU tier. Reinforces the article's core warning that VR renders two eyes per frame at roughly half a flat-monitor framerate.",
+    "dataPoints": [
+      "Meta Quest 3S (Fresnel, lower res, over Link) -> RTX 5070 (lowest GPU bar)",
+      "Meta Quest 3 (2064x2208 per eye, over Link) -> RTX 5070",
+      "Pimax Crystal Light (2880x2880 per eye, DisplayPort) -> RTX 5080",
+      "Bigscreen Beyond 2 (2560x2560 micro-OLED per eye) -> RTX 5080",
+      "Pimax Crystal Super (3840x3840 per eye, ~50 PPD) -> RTX 5090 (flagship required)",
+      "Banner across the top: 'VR renders TWO high-res images every frame — budget ~half your flat-monitor framerate.'",
+      "Footnote: 'DLSS 4 + foveated rendering in MSFS 2024 help, but do not erase the VR tax. RTX 5090 = ~32GB GDDR7, the card that clears high-resolution VR + dense scenery at once.'"
+    ]
+  }
+]
