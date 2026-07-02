@@ -1,0 +1,22 @@
+{
+  "slug": "marine-sim-mapping-software-guide",
+  "articleFile": "src/content/articles/marine/marine-sim-mapping-software-guide.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 1,
+  "realProductImageCount": 1,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low visual count by design: this is a software how-to whose tools have no product photos, so only 1 verified image (the hero) is embedded. Reaching 8 verified images would require forcing irrelevant product cards, which the brief explicitly forbids. Certification should wait on Codex infographics (tool decision tree, axis-to-key workflow, stepped-vs-analog), not on forced product photos.",
+    "Hero is a verified gear photo (thrustmaster-twcs-throttle-engine-lever.jpg) used as an interim bay hero because the brief required heroImage to be a verified path and all verified paths are /images/gear/... A purpose-built editorial bay hero from Codex would be stronger.",
+    "reWASD price quoted as EUR34.99 / ~$35+ from the official 2026 blog; confirm the live USD store figure before certifying any hard dollar claim.",
+    "Ships At Sea / Seafarer controller-support notes are community-reported and patch-sensitive; re-verify current wheel/joystick status before certification."
+  ],
+  "notes": "Curator=author (Gus Calder). Rewrote to gold structure: verdict-first bold opening, verified 2026 pricing table, tool decision tree, axis-to-key walkthrough, vJoy decoy section, setup-tax warnings callout, dated Sources Checked shelf with 8 real retrieved links. Key factual corrections vs prior pass: AntiMicro renamed to the maintained AntiMicroX fork; reWASD price corrected from the outdated '~$5-7' to the 2026 Lifetime-from-EUR34.99 model; JoyToKey confirmed at $7.50 with free trial. Deliberately NO gearpick/shotgrid product cards — brief flags this as a low-density explainer and forbids forcing them; the relevant hardware lives in the sibling hardware-reality article, which is linked. All internal links point to real marine-bay slugs. Exactly 2 frontmatter fences; the only embedded image is the verified hero. astro build passes (187 pages, no errors). Left as goldStatus:refresh per run rules — NOT certified. Separate ECDIS/charts explainer (the brief's alternate angle) intentionally not created; it is a new article, flagged in research + manifest."
+}

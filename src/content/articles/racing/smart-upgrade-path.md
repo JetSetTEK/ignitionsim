@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/moza-r12.jpg"
 heroAlt: "MOZA R12 direct-drive wheelbase, the 12Nm sweet-spot base most upgrade ladders end on"
 excerpt: "Upgrade in the right order and every dollar compounds. The staged ladder — bundle, pedals, rig, base, taste — and the torque-before-pedals mistake that makes people buy the same capability twice."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

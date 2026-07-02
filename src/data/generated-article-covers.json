@@ -89,6 +89,12 @@
     "label": "Cockpit world",
     "wide": true
   },
+  "vr-vs-monitor-flight-sim": {
+    "image": "/images/generated/article-covers/vr-vs-monitor-flight-sim.webp",
+    "alt": "VR vs Monitor for Flight Sim in 2026: The Honest Trade-Off for MSFS 2024 cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
   "yoke-throttle-rudder-head-tracking-order-2026": {
     "image": "/images/generated/article-covers/yoke-throttle-rudder-head-tracking-order-2026.webp",
     "alt": "Yoke, Throttle, Rudders, or Head Tracking First? The 2026 Flight Sim Upgrade Order cover with Honeycomb Bravo flight simulator throttle quadrant and Val Chen",
@@ -227,15 +233,57 @@
     "label": "Product proof",
     "wide": true
   },
+  "best-budget-marine-sim-setup": {
+    "image": "/images/generated/article-covers/best-budget-marine-sim-setup.webp",
+    "alt": "Best Budget Marine Sim Setup for Under $200 (Without Wasting Money) cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-marine-sim-gear-2026": {
+    "image": "/images/generated/article-covers/best-marine-sim-gear-2026.webp",
+    "alt": "Best Marine Sim Gear of 2026: The Honest, Practical Control Stack cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
   "best-sailing-sim-setup-2026": {
     "image": "/images/generated/article-covers/best-sailing-sim-setup-2026.webp",
     "alt": "Best Sailing Sim Setup for 2026: eSail V3, Sailaway III, MarineVerse VR and the Hardware That Actually Helps cover with real product proof and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
+  "marine-sim-controller-support": {
+    "image": "/images/generated/article-covers/marine-sim-controller-support.webp",
+    "alt": "Marine Sim Controller Support: Which Sims Actually Read Your Wheel and Throttle (2026) cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
   "marine-sim-hardware-reality": {
     "image": "/images/generated/article-covers/marine-sim-hardware-reality.webp",
     "alt": "The Marine Sim Hardware Reality Check: Why There's No 'Boat Wheel' (And What You Actually Buy) cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "marine-sim-mapping-software-guide": {
+    "image": "/images/generated/article-covers/marine-sim-mapping-software-guide.webp",
+    "alt": "Mapping Software for Marine Sims: The AntiMicroX, JoyToKey, vJoy and reWASD Playbook cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "professional-ship-simulator-2026-hardware-setup": {
+    "image": "/images/generated/article-covers/professional-ship-simulator-2026-hardware-setup.webp",
+    "alt": "Professional Ship Simulator 2026 Hardware Setup: Dual Throttles, Conning Stick & Generic Boards cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "racing-wheel-boat-helm": {
+    "image": "/images/generated/article-covers/racing-wheel-boat-helm.webp",
+    "alt": "Can a Racing Wheel Be a Boat Helm? Logitech G29/G923 in Marine Sims, Honestly cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "vr-sailing-simulator": {
+    "image": "/images/generated/article-covers/vr-sailing-simulator.webp",
+    "alt": "VR Sailing in 2026: Is MarineVerse on Quest 3 the Real Helm Replacement? cover with real product proof and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
@@ -395,9 +443,57 @@
     "label": "Product proof",
     "wide": true
   },
+  "best-controls-for-elite-dangerous": {
+    "image": "/images/generated/article-covers/best-controls-for-elite-dangerous.webp",
+    "alt": "Best Controls for Elite Dangerous in 2026 (HOSAS vs HOTAS vs Gamepad) cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-hotas-for-star-citizen": {
+    "image": "/images/generated/article-covers/best-hotas-for-star-citizen.webp",
+    "alt": "The Best HOTAS for Star Citizen in 2026 (Stick + Throttle Buying Guide) cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-hotas-throttle-dcs-2026": {
+    "image": "/images/generated/article-covers/best-hotas-throttle-dcs-2026.webp",
+    "alt": "Best HOTAS Throttle for DCS World in 2026: Warthog, Virpil, VKB STECS, and WinWing Compared cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "best-space-sim-controllers-2026": {
+    "image": "/images/generated/article-covers/best-space-sim-controllers-2026.webp",
+    "alt": "Best Space Sim Controllers of 2026: HOSAS, HOTAS and Sticks Ranked cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "gamepad-vs-hotas-star-citizen": {
+    "image": "/images/generated/article-covers/gamepad-vs-hotas-star-citizen.webp",
+    "alt": "Gamepad vs HOTAS for Star Citizen in 2026: Is a Controller Enough? cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "head-tracking-vs-vr-star-citizen": {
+    "image": "/images/generated/article-covers/head-tracking-vs-vr-star-citizen.webp",
+    "alt": "Head Tracking vs VR for Star Citizen in 2026: TrackIR, Tobii, or a Headset? cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
   "hosas-vs-hotas": {
     "image": "/images/generated/article-covers/hosas-vs-hotas.webp",
     "alt": "HOSAS vs HOTAS for Space Sims in 2026: Two Sticks or Stick-and-Throttle? cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "how-to-bind-six-axes-hosas": {
+    "image": "/images/generated/article-covers/how-to-bind-six-axes-hosas.webp",
+    "alt": "How to Bind All Six Axes on a HOSAS (Star Citizen & Elite Dangerous, 2026) cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "mounting-your-hosas-monstertech": {
+    "image": "/images/generated/article-covers/mounting-your-hosas-monstertech.webp",
+    "alt": "Mounting Your HOSAS in 2026: Monstertech vs Foxx vs Virpil (and Why Your Sticks Slide) cover with real product proof and Val Chen",
     "label": "Product proof",
     "wide": true
   },
@@ -413,9 +509,33 @@
     "label": "HOSAS upgrade",
     "wide": true
   },
+  "stream-deck-button-box-space-sim": {
+    "image": "/images/generated/article-covers/stream-deck-button-box-space-sim.webp",
+    "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "vkb-gladiator-to-gunfighter-upgrade-path": {
+    "image": "/images/generated/article-covers/vkb-gladiator-to-gunfighter-upgrade-path.webp",
+    "alt": "VKB Gladiator to Gunfighter Upgrade Path (2026): When to Step Up, and When to Stop cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
   "vkb-vs-virpil-vs-winwing-space-sticks-2026": {
     "image": "/images/generated/article-covers/vkb-vs-virpil-vs-winwing-space-sticks-2026.webp",
     "alt": "VKB vs Virpil vs WinWing for Space Sims in 2026: Which Boutique HOSAS Brand Should You Buy? cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "voiceattack-hcs-setup-space-sims": {
+    "image": "/images/generated/article-covers/voiceattack-hcs-setup-space-sims.webp",
+    "alt": "VoiceAttack & HCS Voice Packs for Star Citizen and Elite Dangerous: 2026 Setup Guide cover with real product proof and Val Chen",
+    "label": "Product proof",
+    "wide": true
+  },
+  "winwing-ursa-minor-vs-vkb-gladiator-nxt-evo": {
+    "image": "/images/generated/article-covers/winwing-ursa-minor-vs-vkb-gladiator-nxt-evo.webp",
+    "alt": "WinWing Ursa Minor vs VKB Gladiator NXT EVO in 2026: The Sub-$120 Space Stick, Decided cover with real product proof and Val Chen",
     "label": "Product proof",
     "wide": true
   }

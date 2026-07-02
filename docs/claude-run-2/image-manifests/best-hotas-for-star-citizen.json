@@ -1,0 +1,89 @@
+{
+  "slug": "best-hotas-for-star-citizen",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a cargo/mining Star Citizen pilot want a metal all-VKB HOTAS (STECS throttle + Gunfighter stick) before they hit the button-count and throttle-SKU caveats. Real product proof throughout; no procedural art. Every embedded image is a verified in-house product photo; the three unverified products (Logitech X56, WinWing/WINCTRL Orion 2 HOTAS, Virpil MongoosT-50CM3) are text-only + Amazon-search until real photos are sourced.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G X56 H.O.T.A.S.",
+      "preferredLocalPath": "/images/gear/space/logitech-x56-hotas.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+X56+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "All-rounder / buttons-per-dollar pick, currently text-only because no verified image. NOTE: space.json lists logitech-x52-pro-hotas.jpg (the X52 Pro, a DIFFERENT product) — do not substitute it for the X56. Needs a real X56 base photo before it can be a gearpick/shotgrid or before certification. Stock is wave-based; verify buyable."
+    },
+    {
+      "product": "WinWing / WINCTRL Orion 2 HOTAS (F-16EX combo)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-hotas-f16ex.jpg",
+      "officialSourceUrl": "https://winctrl.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Fighter crossover pick. Brand rebranded WinWing -> WINCTRL for 2026 (winctrl.com). The pre-rewrite file embedded /images/gear/space/winwing-orion-2-hotas-f16ex.jpg but that path is NOT in verified-product-images.json, so it was removed. Text-only until a verified real photo is sourced."
+    },
+    {
+      "product": "Virpil VPC MongoosT-50CM3 Throttle",
+      "preferredLocalPath": "/images/gear/space/virpil-mongoost-50cm3-throttle.jpg",
+      "officialSourceUrl": "https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "No-compromise standalone space throttle (CosmoSim detent). GOING END-OF-LIFE: Virpil says final batch due 2026. The pre-rewrite file embedded /images/gear/space/virpil-mongoost-50cm3-throttle.jpg which is NOT verified, so it was removed. Text-only until a verified photo is sourced AND EOL/stock is confirmed."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg",
+    "/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg",
+    "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/vkb-mcg-pro-grip.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg",
+    "/images/gear/space/thrustmaster-mfd-cougar-pack.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-hotas-cargo-run",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim-lit PC space-sim battlestation at magenta-and-cyan neon rim light, a rigid desk-edge clamp mount with an empty product-overlay slot left open for a real HOTAS stick and a separate throttle, a starfield and cockpit-canopy glow on the monitor behind, cargo-hauler HUD not a dogfight, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg", "/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake HOTAS hardware, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art, dogfight explosions"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "hotas-vs-hosas-by-activity",
+      "title": "HOTAS or HOSAS by what you actually fly",
+      "format": "1600x1000",
+      "content": ["Combat / Arena Commander -> HOSAS (analog strafe)", "Cargo / mining / salvage -> HOTAS (throttle detent)", "Exploration / quantum cruise -> HOTAS", "A bit of everything -> HOTAS + good stick, add 2nd stick later"],
+      "style": "IgnitionSim command-center chart, large readable text, space magenta/cyan palette, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "hotas-buy-order",
+      "title": "Star Citizen HOTAS buy order",
+      "format": "1600x1000",
+      "content": ["1 Pick HOTAS vs HOSAS by activity", "2 Start cheap if unsure (T.16000M ~$170)", "3 Go all-VKB for metal space (STECS + stick)", "4 Two Monstertech mounts (stick + throttle)", "5 Stream Deck before a fancier throttle", "6 Budget an evening for config software"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays, space palette"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-throttle-detent-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a clean neon-lit battlestation, one hand resting on a metal HOTAS throttle with a visible detent notch, calm analytical energy, product-overlay space beside the hand, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "need": "Star Citizen Alpha 4.x SCM/NAV speed-control HUD element to illustrate why a throttle detent maps to the speed break",
+      "status": "optional",
+      "notes": "Use only officially licensed / owned capture or CIG press media; do not embed unverified third-party screenshots. Text carries the point without it."
+    }
+  ],
+  "openQuestions": [
+    "Confirm the exact Virpil MongoosT-50CM3 end-of-life / last-order date and remaining B-stock before certifying — the buy-it-now framing depends on it.",
+    "Is the Logitech G X56 still in production and buyable in 2026, or effectively discontinued? Verify before certifying; soften to 'check current stock' if uncertain.",
+    "Confirm the exact current WinWing/WINCTRL Orion 2 F-16EX combo price on winctrl.com (~$460+ is approximate, grip-dependent).",
+    "Do we want to source real photos for the X56, Orion 2 HOTAS, and MongoosT-50CM3 so all three can become body visuals, or leave them text-only permanently?"
+  ]
+}

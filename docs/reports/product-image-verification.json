@@ -236,11 +236,10 @@
     "brand": "MOZA",
     "model": "AY210 Force Feedback Yoke",
     "image": "/images/gear/flight/moza-ay210-ffb-yoke.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 40094
+    "ok": true,
+    "width": 1000,
+    "height": 1000,
+    "size": 46442
   },
   {
     "id": "moza-mtq-throttle-quadrant",
@@ -969,11 +968,10 @@
     "brand": "Cammus",
     "model": "C5",
     "image": "/images/gear/racing/cammus-c5.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 38493
+    "ok": true,
+    "width": 640,
+    "height": 640,
+    "size": 35442
   },
   {
     "id": "moza-r5",
@@ -992,11 +990,10 @@
     "brand": "Fanatec",
     "model": "CSL DD",
     "image": "/images/gear/racing/fanatec-csl-dd.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
+    "ok": true,
+    "width": 1200,
     "height": 800,
-    "size": 37908
+    "size": 79705
   },
   {
     "id": "fanatec-gt-dd-pro",
@@ -1050,11 +1047,10 @@
     "brand": "Logitech",
     "model": "G PRO Racing Wheel",
     "image": "/images/gear/racing/logitech-g-pro.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 33355
+    "ok": true,
+    "width": 1200,
+    "height": 675,
+    "size": 68778
   },
   {
     "id": "moza-r12",
@@ -1154,11 +1150,10 @@
     "brand": "Fanatec",
     "model": "Podium DD",
     "image": "/images/gear/racing/fanatec-podium-dd.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
+    "ok": true,
+    "width": 1200,
     "height": 800,
-    "size": 32931
+    "size": 55209
   },
   {
     "id": "asetek-invicta",
@@ -1166,11 +1161,10 @@
     "brand": "Asetek",
     "model": "Invicta",
     "image": "/images/gear/racing/asetek-invicta.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 37710
+    "ok": true,
+    "width": 750,
+    "height": 750,
+    "size": 36850
   },
   {
     "id": "simagic-evo-ultra",
@@ -1616,8 +1610,8 @@
     "image": "/images/gear/space/thrustmaster-hotas-warthog.jpg",
     "ok": true,
     "width": 1200,
-    "height": 900,
-    "size": 47787
+    "height": 729,
+    "size": 217686
   },
   {
     "id": "turtle-beach-velocityone-flightstick",
@@ -1625,11 +1619,10 @@
     "brand": "Turtle Beach",
     "model": "VelocityOne Flightstick",
     "image": "/images/gear/space/turtle-beach-velocityone-flightstick.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 34154
+    "ok": true,
+    "width": 1200,
+    "height": 675,
+    "size": 63374
   },
   {
     "id": "monstertech-table-mount",

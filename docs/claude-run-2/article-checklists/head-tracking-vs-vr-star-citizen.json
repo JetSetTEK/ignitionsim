@@ -1,0 +1,21 @@
+{
+  "slug": "head-tracking-vs-vr-star-citizen",
+  "articleFile": "src/content/articles/space/head-tracking-vs-vr-star-citizen.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Prices for TrackIR 5 (~$150 / Pro bundle ~$175-180) and Tobii Eye Tracker 5 (~$339 US) are quoted as approximate with check-current flags because official pages are JS-heavy / returned 403. Confirm exact live US prices before certifying.",
+    "No hard Star Citizen VR frame-rate numbers are quoted (deliberately) — the body says 'check current reports for your exact hardware'. This is honest, not a blocker to content quality, but a reviewer should confirm we're comfortable certifying without a benchmark figure.",
+    "Two decision-support infographics (decision tree + cost/performance ladder) are specced for Codex but not yet produced; certification as a full gold visual piece is stronger with them, though the article stands on verified product photos + tables without them."
+  ],
+  "notes": "Rewrite of the Star Citizen head-tracking-vs-VR explainer to gold structure. Author set to Val Chen (curator=author). goldStatus LEFT as 'refresh' per run rules — NOT certified. Added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster space. Verdict-first opening; 4-row comparison table of all four look-around solutions; head-tracking case + VR-case-with-asterisks; setup-tax warning callout; tip + forum callouts (original paraphrase); explicit mutually-exclusive warning; buy order; 'What to buy' pragmatic stack; dated Sources Checked shelf with real retrieved links; photo-verification note. HARD IMAGE RULE honored: all 10 visual instances (1 hero + 4 shotgrid + 5 gearpicks) draw from 5 DISTINCT verified in-house product photos (TrackIR 5, Tobii Eye Tracker 5, Meta Quest 3, Pimax Crystal Light, Elgato Stream Deck XL) — every embedded /images/gear path is in verified-product-images.json. This is a low-product-density explainer, so no product cards were forced; SmoothTrack + OpenTrack are software and are linked to official sources (smoothtrack.app, github.com/opentrack/opentrack), NOT Amazon, per the free/open-source rule. gearpick review labels use 'Spec card', buy labels use 'Check Amazon'. Internal gear links corrected to real routes: trackers -> /flight/gear/, headsets -> /racing/gear/, Stream Deck -> /space/gear/ (the four trackers/headsets are NOT space-bay products; original draft's /space/gear/ links were broken and are fixed). Article does not build in dist because the [bay]/[slug] route filters on isCertifiedArticle — expected for a 'refresh' article; `npx astro build` completes with no errors introduced by this change (the pre-existing glob-loader duplicate-id WARN for this slug reproduces at git HEAD and is out of scope). Frontmatter has exactly 2 fences. realProductImageCount counts embedded verified-photo instances (10) — all are real product photos, none AI/composite. needsCodexGraphics=true for the 2 infographics + hero composite + curator scene in the manifest."
+}

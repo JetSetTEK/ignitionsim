@@ -1,0 +1,90 @@
+{
+  "slug": "gamepad-vs-hotas-star-citizen",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Reassure a new Star Citizen pilot that the gamepad they own is enough, and make the smart spend obvious: a Stream Deck for binds, or a HOSAS pair for pure precision — not a reflexive single-stick HOTAS. Low product density by design; lean on the axis table, decision tree, and buy order. Every embedded image must be a verified in-house product photo.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Gamepad (Xbox Wireless Controller and/or Sony DualSense)",
+      "preferredLocalPath": "/images/gear/space/xbox-wireless-controller.jpg",
+      "officialSourceUrl": "https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller",
+      "amazonUrl": "https://www.amazon.com/s?k=Xbox+Wireless+Controller&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The article's entire subject is 'is a controller enough' yet there is NO verified gamepad image. Highest-value missing asset. A real Xbox controller and/or DualSense product photo would anchor the piece. Currently the gamepad is text-only."
+    },
+    {
+      "product": "Logitech G X56 H.O.T.A.S.",
+      "preferredLocalPath": "/images/gear/space/logitech-x56-hotas.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+X56+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Headline all-in-one HOTAS in the buying ladder (189 controls, twin throttles, $249.99). Text-only because no verified image. Source a real X56 photo before it can appear as a shotgrid/gearpick or before certification if the ladder should show it."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg",
+    "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-gamepad-vs-stick",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dark home-battlestation desk at magenta-and-cyan neon rim light, split composition: an open flat surface on the left sized for a real gamepad product overlay, an open flat surface on the right sized for a real flight-stick product overlay, a faint Star Citizen-style cockpit glow on the monitor behind, no fake branded hardware, no fake UI text, 16:9 editorial cover. Space-bay IgnitionSim look.",
+      "realOverlays": ["/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fabricated gamepad, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, invented UI"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "axis-coverage-gamepad-hotas-hosas",
+      "title": "What each controller actually reaches",
+      "format": "1600x1000",
+      "content": [
+        "Ship needs 6 analog axes: pitch, yaw, roll, forward/back, vertical strafe, lateral strafe",
+        "Gamepad: 4 sticks-worth + 2 triggers (~14 buttons) — strafe cramped onto buttons",
+        "Single-stick HOTAS: 4-5 analog (stick + throttle), 30+ buttons — still leaves 2 strafe axes on buttons",
+        "HOSAS (two sticks): 6-8 analog across two grips — reaches all six"
+      ],
+      "style": "IgnitionSim command-center chart, large readable text, space-bay magenta/cyan palette, checkmark vs button icons per axis row"
+    },
+    {
+      "id": "decision-tree-what-to-buy",
+      "title": "Gamepad, Stream Deck, HOTAS, or HOSAS?",
+      "format": "1600x1000",
+      "content": [
+        "New / casual? -> Keep the gamepad, tune the deadzone, spend $0",
+        "Flies fine but drowning in binds? -> Add a Stream Deck, not a stick",
+        "Also fly DCS / MSFS? -> Buy a HOTAS (start ~$170 T.16000M FCS)",
+        "Precise space combat is the point? -> Skip single stick, go HOSAS (two sticks)"
+      ],
+      "style": "Branching flowchart, four terminal nodes, IgnitionSim space-bay styling, product-photo placeholders at each terminal for Codex overlay"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-gamepad-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a tidy dark battlestation, one hand resting on a gamepad on the desk with a flight stick parked to the side unused, calm honest-broker energy, product overlay space beside the hands, practical not fantasy, 4:5 portrait, magenta/cyan rim light.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "sc-flight-settings-deadzone",
+      "what": "Star Citizen keybindings / flight settings screen showing per-axis deadzone, response curve, and saturation controls",
+      "why": "Supports the 'tune the pad first' tip callout and the cheapest-fix FAQ; a real settings screenshot would let a reader replicate the deadzone fix.",
+      "status": "optional-nice-to-have",
+      "notes": "Use official CIG media or an in-house capture; do not fabricate a UI."
+    }
+  ],
+  "openQuestions": [
+    "Source a real gamepad photo (Xbox controller / DualSense) — the single highest-value missing asset for this article's subject.",
+    "Source a real Logitech X56 photo so the headline all-in-one HOTAS can be shown instead of text-only.",
+    "Confirm current X56 price ($249.99 as of 2026-07-02) and T.16000M FCS HOTAS price (~$170) at build time.",
+    "Do we want the two infographics (axis coverage + decision tree) built before certification? They would lift this low-density explainer more than any added product card."
+  ]
+}

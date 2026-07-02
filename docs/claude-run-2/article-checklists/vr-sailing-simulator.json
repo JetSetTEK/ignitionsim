@@ -1,0 +1,22 @@
+{
+  "slug": "vr-sailing-simulator",
+  "articleFile": "src/content/articles/marine/vr-sailing-simulator.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 2,
+  "realProductImageCount": 2,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low product density by design: only ONE genuinely relevant verified product image exists (Meta Quest 3), used as both hero and the single gearpick. Cannot reach 8 verified body images without forcing irrelevant product cards, which the run rules explicitly forbid for this explainer. Certification (if pursued) should lean on Codex infographics + a rights-cleared MarineVerse in-headset screenshot, not more gear cards.",
+    "MarineVerse Sailing Club base app price is unresolved: sources diverge ($19.99 via NauticEd vs $29.99 base / ~$9.99 sale via QuestStoreDB). Written as '~$10-30, check current'. Confirm the true non-sale base price before certifying a hard figure.",
+    "Sailing Pass pricing model conflicts between sources (QuestStoreDB 12-month $99.99/$49.99 vs marine.json '~$13/month'). Reconcile monthly-vs-annual before certifying, and fix marine.json.",
+    "marine.json Quest priceNote ('$499-649') is stale after Meta's April 19, 2026 increase ($599.99 for 512GB / $349.99 for Quest 3S). Article body uses the corrected 2026 numbers; the product JSON priceNote should be updated in a follow-up pass (out of scope for this article rewrite)."
+  ],
+  "notes": "Full gold-structure rewrite of the VR sailing explainer. Author/curator = Gus Calder (frontmatter updated from Robert Pruitt). goldStatus set to 'refresh' (NOT certified). Added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier B, contentCluster marine. heroImage switched to a VERIFIED path (/images/gear/marine/meta-quest-3-marineverse-vr.jpg) per the hard image rule — the previous /images/marine/vr-sailing-simulator.jpg hero was NOT in verified-product-images.json. Exactly 2 frontmatter fences confirmed. The ONLY embedded gear image is /images/gear/marine/meta-quest-3-marineverse-vr.jpg (verified); it is both hero and the single gearpick — no unverified images remain. Body: bold verdict-first opening; 2026 cost table (Meta's April 2026 price increase reflected: Quest 3 $599.99, Quest 3S $349.99); a 'which headset + controllers vs hands' hardware-that-helps section (Quest 3 pancake lenses / higher res genuinely aid reading marks & telltales); VR-vs-physical honest scorecard table; numbered buy order; tip callout (controllers vs hand-tracking), forum callout (community wisdom, paraphrased), warn callout (sailing-only / comfort tax / price-moves caveats); a dedicated comfort-tax section (swivel chair, 15-min sessions, ventilation, high refresh); dated 'Sources Checked' shelf with 8 real retrieved links. 5 FAQs (up from 3), all grounded in retrieved sources. related[] updated to marine-sim-hardware-reality, best-sailing-sim-setup-2026, marine-sim-controller-support. Free/software links (MarineVerse Meta store, NauticEd) use official URLs, not forced Amazon; only the Quest 3 hardware gets an Amazon-search affiliate link (rel='sponsored nofollow noopener'). No fabricated prices/specs/ratings — every number cites a July 2, 2026 retrieval, and unresolved figures are marked 'check current'. Build verified with npx astro build (187 pages, no errors); article correctly does NOT render as a standalone page because getStaticPaths gates on goldStatus==='certified' (expected for a refresh). visualCount honestly reported as 2 (both the same verified Quest 3 asset); candidateForCertification left false — cannot hit 8 verified images without forcing product cards, which is the intended honest outcome for a low-density how-to. Codex graphics (3 infographics + 1 composite + 1 curator scene) and 2 rights-cleared in-headset screenshots flagged in the image manifest."
+}

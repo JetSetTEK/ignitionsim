@@ -1,0 +1,21 @@
+{
+  "slug": "vkb-gladiator-to-gunfighter-upgrade-path",
+  "articleFile": "src/content/articles/space/vkb-gladiator-to-gunfighter-upgrade-path.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 12,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Prices are approximate street/catalog figures cross-checked against EU incl-VAT listings and flagged 'check current' — the VKB Shopify US store is JS-rendered and did not expose live US MSRP to server fetch. Confirm exact current US prices for the Gladiator (Std/Prem), Omni-Throttle, Gunfighter Mk.IV base, and MCG Pro/Ultimate before flipping goldStatus to certified.",
+    "Confirm the Rev.C grip-interchange claim directly with VKB (which 5 grips are cross-compatible; whether any Gladiator-era grip has an adapter path). Article states the conservative version (Gladiator grip does NOT drop onto a Gunfighter base); verify before certifying.",
+    "Re-verify stock/availability language — several VKB SKUs were on back-in-stock notify at time of writing."
+  ],
+  "notes": "Rewrote to gold structure: author=Val Chen, goldStatus=refresh (NOT certified per run rules), added sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster space, 5 FAQs, 4 related[]. heroImage set to a VERIFIED path (/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg). Body is verdict-first (buy the Gladiator, stop there), with a ladder-at-a-glance table, per-step triggers, a corrected Gladiator-vs-Gunfighter feel section grounded in the VKB forum's fiberglass-pincer-vs-metal-cam distinction, a Rev.C grip-interchange correction (prior version overstated grip reuse), a setup-tax section (mounts + Stream Deck), a software warning, a 7-step buy order, a What-to-buy starter stack, and a dated Sources Checked shelf with real official + community links. 12 visuals total = 6 shotgrid cells + 6 gearpick asides; all 6 DISTINCT embedded images are from the verified set (Gladiator SCE, Omni-Throttle, Gunfighter base, MCG Pro, Monstertech mount, Stream Deck XL). ZERO unverified images embedded; the earlier pass's non-verified hero (/images/space/vkb-gladiator-to-gunfighter-upgrade-path.jpg) was removed. No text-only photo-gap products — topic maps fully to the verified catalog, so no realProductPhotosNeeded entries. Exactly 2 frontmatter fences. `npx astro build` passes (187 pages, no errors); article does NOT emit a live page because the [bay]/[slug] route gates on goldStatus==='certified' via isCertifiedArticle — expected and correct for a refresh-state candidate. needsCodexGraphics true for the hero composite + 2 infographics + curator scene in the manifest."
+}

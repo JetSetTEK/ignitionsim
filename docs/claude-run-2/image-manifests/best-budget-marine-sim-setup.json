@@ -1,0 +1,89 @@
+{
+  "slug": "best-budget-marine-sim-setup",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a budget-minded newcomer feel the cheapest credible marine rig is free-plus-one-throttle, and that a wheel is the LAST dollar to spend. Real product proof for the DIY boards, button box, VR and free sim; three budget-critical items (Saitek quadrant, G29, BU0836A) are text-only until real photos exist. No procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G Saitek Pro Flight Throttle Quadrant (as engine telegraph)",
+      "preferredLocalPath": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/flight-simulator-throttle-quadrant",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "THE budget MVP of the whole article and currently text-only because no verified image. Highest-priority photo to source — it is the single most-recommended sub-$100 buy. Needs a real product photo before it can appear as a gearpick/shotgrid or before certification."
+    },
+    {
+      "product": "Leo Bodnar BU0836A USB Joystick Interface (solder version)",
+      "preferredLocalPath": "/images/gear/marine/leobodnar-bu0836a-diy-board.jpg",
+      "officialSourceUrl": "https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204",
+      "amazonUrl": "https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The exact board the Bridge Command DIY guide specifies and the cheapest real DIY route (~$42). Text-only in body; the verified BU0836X image is used as the DIY visual stand-in instead. Source a real BU0836A photo to make the cheapest option a body visual."
+    },
+    {
+      "product": "Logitech G G29 Driving Force (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The 'stretch buy' wheel, deliberately framed as over-budget and last-priority. Text-only in body. Low visual priority since the article's thesis is to NOT buy a wheel first; a photo is optional, not a certification blocker on its own."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/bridge-command-free-sim.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "/images/gear/marine/professional-ship-simulator-context.jpg",
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-budget-bench",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic budget marine sim corner on a modest desk at cool evening light: a laptop or older PC running a ship-handling sim, a plain third-party gamepad resting on the desk, a small breadboard-and-potentiometer DIY throttle in progress with a loop of string around a pot shaft for friction, coiled USB cables, an open space left clear for a real DIY-board product overlay, curator Gus Calder leaning in pointing at the string-friction trick, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/leobodnar-bu0836x-diy-board.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake boat wheel, mythical marine helm console, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "budget-ladder",
+      "title": "The under-$200 marine sim buy order",
+      "format": "1600x1000",
+      "content": ["$0 free sim + pad you own", "~$25 Arduino + one 10k pot = first real axis", "~$60 BU0836 + three pots = analog helm + twin throttles", "~$70 Saitek throttle quadrant", "~$80 PXN CB1 button panel", "Stretch (over $200) used G29 wheel — LAST"],
+      "style": "IgnitionSim command-center numbered ladder, large readable text, marine teal palette, real product photos as rung markers for Codex overlay, arrow emphasizing 'wheel is last, not first'"
+    },
+    {
+      "id": "analog-axis-gate",
+      "title": "The gate that ruins a budget: analog vs keyboard-only",
+      "format": "1600x1000",
+      "content": ["Check the store page FIRST", "Analog-axis title = wheel/throttle work proportionally", "Keyboard-only title = wheel becomes binary left/right, throttle axis dead", "Fix = free glue software (vJoy / JoyToKey / Xpadder)", "Rule: cheapest gear the game reads > priciest rig it ignores"],
+      "style": "Two-path decision diagram, marine palette, big readable labels, free-tool badges, no product photos required"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-friction-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder in a practical home workshop, one hand holding a small DIY throttle lever with string wrapped around the potentiometer shaft for friction, calm hands-on maker energy, product-overlay space beside him on the bench, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Bridge Command 5.9 in-sim bridge/helm view",
+      "sourceUrl": "https://www.bridgecommand.co.uk/",
+      "status": "optional",
+      "notes": "A screenshot of the free sim running would reinforce the '$0 tier is real, not a compromise' point. Must be sourced from the project's own media/screenshots and credited, not fabricated."
+    }
+  ],
+  "openQuestions": [
+    "Source real product photos for the Saitek Pro Flight Throttle Quadrant (budget MVP) and the BU0836A (cheapest DIY board) — the two highest-value text-only items?",
+    "Confirm MarineVerse pricing model: is it now $29.99 one-time, still free-with-Sailing-Pass, or both? Body currently says $29.99 one-time.",
+    "Confirm current USD landed cost (incl. UK shipping) for BU0836A (~$42) and BBI-32 (~$53) before quoting hard numbers.",
+    "Verify whether Sailaway still offers a live free demo in 2026 (body flags it as 'check current')."
+  ]
+}

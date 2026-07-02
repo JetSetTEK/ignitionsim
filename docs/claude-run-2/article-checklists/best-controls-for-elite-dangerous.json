@@ -1,0 +1,23 @@
+{
+  "slug": "best-controls-for-elite-dangerous",
+  "articleFile": "src/content/articles/space/best-controls-for-elite-dangerous.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 12,
+  "realProductImageCount": 12,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Operations update scope is unresolved: sources conflict on whether zero-G combat + megaship interiors actually shipped (ED Wiki says yes; news write-ups emphasize squad missions + cooperative on-foot combat + the Nomad SLV and omit zero-G/megaship). Body hedges to 'Frontier's pitch / check current patch notes' — confirm exact shipped scope before certifying.",
+    "Operations exact release date differs by source (30 June 2026 wiki vs July 1 2026 Simulation Daily); body says 'late June 2026'. Pin the date before certifying.",
+    "Turtle Beach VelocityOne (the ONLY Xbox option) has no verified space-bay product image, so the Xbox section is text-only. A verified image exists in the flight bay; source a space-bay copy or clear cross-bay reuse before certifying if every buyer path should carry a visual.",
+    "Logitech X56 exploration HOTAS is text-only (no verified image, no product record, intermittent stock, no hard price quoted). Source a photo + product record or accept it as a passing mention before certifying.",
+    "Prices are 2026 street estimates flagged 'check current' (T.16000M Space Sim Duo ~$120, Turtle Beach ~$130/~$97-99 sale). Confirm current figures before certifying."
+  ],
+  "notes": "All 12 embedded <img> instances use verified in-house product photos (5 distinct verified paths: T.16000M FCS, T.16000M FCS HOTAS, VKB Gladiator NXT EVO Space Combat, Monstertech mount, Elgato Stream Deck XL). heroImage is the verified T.16000M FCS. Curator=author (Val Chen). Frontmatter carries goldStatus refresh, sourceReviewDate + updatedDate 2026-07-02, revenueTier A, contentCluster space, 5 FAQs, 4 related. Structure: verdict-first opening, playstyle decision table, per-playstyle sections (HOSAS combat / HOTAS exploration / Operations gamepad / gamepad floor / Xbox), 2 forum + 1 tip callouts (original paraphrase), 3-warning setup-tax block, bind-fix section, 7-step buy order, two 'What to buy' stacks, dated Sources Checked shelf with photo-verification note. UNVERIFIED images from the earlier pass were removed: the prior file embedded /images/gear/space/turtle-beach-velocityone-flightstick.jpg THREE times (that space-bay path is NOT in the verified set) — all three now replaced with text + official + Amazon links. Left as refresh per run rules; content is certification-ready pending the blockers above. `npx astro build` passes (187 pages, no errors); article intentionally does not render its own page because getStaticPaths gates on goldStatus === 'certified' (isCertifiedArticle) — expected for a refresh article, same as the hosas-vs-hotas reference."
+}

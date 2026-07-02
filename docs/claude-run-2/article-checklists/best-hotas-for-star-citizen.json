@@ -1,0 +1,22 @@
+{
+  "slug": "best-hotas-for-star-citizen",
+  "articleFile": "src/content/articles/space/best-hotas-for-star-citizen.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 13,
+  "realProductImageCount": 13,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Virpil MongoosT-50CM3 is described as going end-of-life ('final batch due 2026') from search of Virpil listings, not a single authoritative EOL notice — confirm exact cutoff/last-order date and remaining B-stock before certifying, because the buy-it-now framing depends on it.",
+    "Logitech G X56 availability is wave-based; confirm it is still in production and buyable in 2026 (not effectively discontinued) before certifying, or soften the framing to 'check current stock'.",
+    "WinWing/WINCTRL Orion 2 F-16EX combo price (~$460+) is approximate and grip-dependent; confirm the exact current price on winctrl.com before certifying a hard figure.",
+    "Logitech G X56, WinWing/WINCTRL Orion 2 HOTAS, and Virpil MongoosT-50CM3 have NO verified in-house product image — all three are text-only + Amazon-search. Source real photos before they can become body visuals or before certification if every ranked pick should show a photo."
+  ],
+  "notes": "All 13 embedded images (hero + shotgrid + gearpicks) are verified in-house product photos, checked against src/data/verified-product-images.json — 8 unique paths, all VERIFIED. Author=curator (Val Chen). goldStatus left as 'refresh' per run rules (NOT certified). Rewrite fixed a leak: the prior version embedded two UNVERIFIED images (winwing-orion-2-hotas-f16ex.jpg, virpil-mongoost-50cm3-throttle.jpg) which are now removed. Structure: verdict-first bold opening, at-a-glance comparison table, budget->all-rounder->smart-money->crossover->no-compromise ladder, forum callout (Orion 2 stiction, paraphrased), three setup-tax warnings, HOTAS-vs-HOSAS decision split, buy order, 'What to buy' stack, dated Sources Checked shelf with real retrieved links (Thrustmaster, VKB, Logitech, Virpil blog, WINCTRL, DCS forum, scfocus). 4 frontmatter fields added: goldStatus/sourceReviewDate/updatedDate already-or-now set, revenueTier A, contentCluster space. 6 FAQs. astro build passes (187 pages, OG image generated, frontmatter schema validated). Exactly 2 frontmatter fences confirmed. Because goldStatus=refresh, the standalone page route ([bay]/[slug].astro gated by isCertifiedArticle) intentionally does NOT emit until certified — same behavior as the refresh reference article hosas-vs-hotas."
+}

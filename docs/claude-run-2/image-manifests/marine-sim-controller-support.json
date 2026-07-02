@@ -1,0 +1,87 @@
+{
+  "slug": "marine-sim-controller-support",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a marine simmer buy the SIM first and the RIGHT axis gear second, by proving the compatibility gate with verified product photos of the sims-as-context tiles, the glue-candidate axis controllers, the digital button boxes, and the DIY boards. No procedural art. Every embedded image is a verified marine product photo; the two primary repurposed axis controllers (G29 helm, Saitek quadrant) stay text-only because no verified marine-context photo exists.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G29 Driving Force (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The single most-recommended helm stand-in in the bay, but currently text + Amazon link only because there is no verified marine-context photo. Needs a real, verified photo before it can appear as a gearpick/shotgrid tile or before certification if the shortlist should show the primary axis controllers."
+    },
+    {
+      "product": "Saitek Pro Flight Throttle Quadrant (as engine telegraph)",
+      "preferredLocalPath": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best value in the bay and the second primary axis controller; text-only until a real verified photo is sourced. Same certification gate as the G29."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/professional-ship-simulator-context.jpg",
+    "/images/gear/marine/bridge-command-free-sim.jpg",
+    "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg",
+    "/images/gear/marine/thrustmaster-t16000m-rudder.jpg",
+    "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg",
+    "/images/gear/marine/raildriver-ship-throttle.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-compat-gate",
+      "type": "AI scene + real product composite",
+      "prompt": "Dim ship bridge console at dusk, glowing teal radar and chart displays, brushed-metal helm station with an empty mounting shelf left open for a real product overlay, a subtle split-lighting motif (green 'reads your axes' side vs red 'keyboard-only' side), curator Gus Calder studying the console, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/professional-ship-simulator-context.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake wheelbase, warped controls, tiny unreadable UI text, procedural gradient art, invented sim screenshots"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "analog-gate-decision-tree",
+      "title": "Does this sim read your gear?",
+      "format": "1600x1000",
+      "content": ["Does the store page list analog-axis / controller support?", "YES -> buy axis gear (wheel/throttle/rudder)", "PARTIAL (eSail) -> enable controller, then AntiMicro/JoyToKey", "NO / unofficial (Ships At Sea, Seafarer) -> button box + glue software, don't buy a wheel yet", "ALWAYS -> re-verify on the current build"],
+      "style": "IgnitionSim command-center flow, large readable text, teal/amber marine palette, verified sim tiles as node markers for Codex overlay"
+    },
+    {
+      "id": "compat-map-table",
+      "title": "2026 marine sim compatibility map",
+      "format": "1600x1000",
+      "content": ["Bridge Command: native analog (DIY build)", "Sailaway: native analog + joystick", "eSail: partial (main axes, no FFB)", "Seafarer: unofficial (Xbox-pad only)", "Fishing: Barents Sea: limited", "Ships At Sea: no wheel/throttle (verify)", "Professional Ship Simulator: promised (verify at launch)"],
+      "style": "Row-per-sim table, green/amber/red status chips, verified product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-compat-check",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a home bridge desk, one hand on a repurposed throttle lever, checking a sim's store page on a monitor, calm methodical energy, practical not fantasy, product overlay space beside him, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Bridge Command in-sim controls/settings screen (native axis assignment)",
+      "status": "optional",
+      "notes": "Only if captured first-party or used under fair-use editorial with attribution; do NOT fabricate a screenshot. Purely optional supporting media, not required for the article."
+    },
+    {
+      "item": "eSail Settings > Enable Controller screen",
+      "status": "optional",
+      "notes": "Same rule: real capture or skip. Article stands on verified product photos without it."
+    }
+  ],
+  "openQuestions": [
+    "Source verified marine-context photos for the Logitech G29 (helm) and Saitek Pro Flight Throttle Quadrant so the two primary axis controllers can become body visuals?",
+    "Re-verify current-build controller status for Seafarer, Fishing: Barents Sea, and Ships At Sea (cited threads are 2018-2024) before certification.",
+    "Confirm the shipped Professional Ship Simulator input spec (exact axis count, rudder-deadzone option) at Early Access launch; the 'multiple axes / 100+ buttons' claim is currently promise-level."
+  ]
+}

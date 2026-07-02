@@ -144,6 +144,14 @@ function wrapText(text, maxChars, maxLines) {
   return lines;
 }
 
+function hashSlug(value = '') {
+  let hash = 0;
+  for (let i = 0; i < value.length; i += 1) {
+    hash = ((hash << 5) - hash + value.charCodeAt(i)) | 0;
+  }
+  return Math.abs(hash);
+}
+
 function parseExistingArticleArt() {
   const file = path.join(root, 'src/lib/articleArt.ts');
   return fs.readFile(file, 'utf8').then((text) => {
@@ -168,7 +176,7 @@ async function roundedImage(abs, width, height, radius = 34) {
 
 async function productCutout(abs, rel = '') {
   const base = sharp(abs, { animated: false, limitInputPixels: 80_000_000 }).rotate();
-  const keepLightBackground = /skytrak-plus|skytrak-og|full-swing-kit|honeycomb-alpha-yoke|logitech-g-pro-flight-yoke/i.test(rel);
+  const keepLightBackground = false;
   try {
     const trimmed = await base
       .trim({ background: '#ffffff', threshold: 16 })
@@ -286,10 +294,25 @@ async function main() {
       if (!productRels.includes(candidate) && await existsPublic(candidate)) productRels.push(candidate);
     }
     const gearRels = productRels.filter((rel) => rel.startsWith('/images/gear/'));
-    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 3);
+    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
     const productRel = displayRels[0] || worlds[bay];
+    const slideNumber = (hashSlug(slug) % 3) + 1;
+    const backgroundCandidates = [
+      `/images/${bay}/${slug}.jpg`,
+      `/images/${bay}/${slug}.webp`,
+      `/images/${bay}/slide-${slideNumber}.jpg`,
+      `/images/${bay}/hero.jpg`,
+      worlds[bay] || worlds.racing,
+    ];
+    let backgroundRel = worlds[bay] || worlds.racing;
+    for (const candidate of backgroundCandidates) {
+      if (await existsPublic(candidate)) {
+        backgroundRel = candidate;
+        break;
+      }
+    }
     const productAbs = path.join(publicDir, productRel.replace(/^\//, ''));
-    const worldAbs = path.join(publicDir, (worlds[bay] || worlds.racing).replace(/^\//, ''));
+    const worldAbs = path.join(publicDir, backgroundRel.replace(/^\//, ''));
     const crew = crewByBay[bay] || crewByBay.racing;
     const crewAbs = path.join(publicDir, crew.image.replace(/^\//, ''));
     const accent = accents[bay] || accents.racing;

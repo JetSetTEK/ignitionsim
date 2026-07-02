@@ -1,0 +1,70 @@
+{
+  "slug": "winwing-ursa-minor-vs-vkb-gladiator-nxt-evo",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a new pilot confident they can buy a real magnetic-sensor HOSAS for under $300 a pair, then decide the trade cleanly: vibration-and-value now (WinWing) vs the upgrade ladder later (VKB). Real product proof throughout on the VKB side; WinWing held text-only until a verified photo exists. No procedural art.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "WinWing Ursa Minor Space Joystick (L and R)",
+      "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+      "officialSourceUrl": "https://winctrl.com/view/goods-details.html?id=725&sku_id=281",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Headline product in this comparison but has NO verified in-house photo, so it is text-only throughout the body. Needs a real, vision-verified product photo of the Space (twist) variant before it can appear in the shotgrid, as a gearpick, or before certification. This is the primary certification blocker."
+    },
+    {
+      "product": "WinWing Orion 2 Joystick Base (MFSSB)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-base.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+base&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mentioned only in the photo-verification note as the WinWing upgrade destination. Low priority; kept text-only. Source a real photo if a future guide features the WinWing ladder."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-two-sticks-one-choice",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic clean desk space-sim battlestation at cool cyan-and-amber rim light, a HOSAS twin-stick mounting zone with two open Monstertech clamp mounts left empty for real product overlays, curator Val Chen mid-gesture weighing two options, cable labels visible, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joystick, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art, invented WinWing stick"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "budget-stick-trade",
+      "title": "The sub-$120 space stick trade",
+      "format": "1600x1000",
+      "content": ["Both clear the bar: magnetic sensors + twist", "WinWing Ursa Minor: vibration + cheaper pair TODAY", "VKB Gladiator: metal gimbal + lockable twist + LADDER", "Same drift-free sensors either way"],
+      "style": "IgnitionSim command-center chart, large readable text, cyan/amber space palette, verified VKB Gladiator photo as one row marker, WinWing row uses a text/silhouette placeholder until a verified photo exists"
+    },
+    {
+      "id": "budget-hosas-buy-order",
+      "title": "Budget HOSAS buy order",
+      "format": "1600x1000",
+      "content": ["1 Confirm two sticks is your layout", "2 Pick your side: vibration now vs ladder later", "3 Buy a dedicated L + R", "4 Two Monstertech mounts", "5 Stream Deck for bind overflow", "6 Budget an evening for config software"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays (VKB Gladiator, Monstertech, Stream Deck verified; WinWing placeholder only)"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-budget-stick-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a clean twin-stick desk cockpit, one hand resting on a mounted joystick, thoughtful buy-advice energy, product overlay space beside the free hand, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Source and vision-verify a real WinWing Ursa Minor Space product photo so it can move from text-only to a shotgrid/gearpick visual — the single item blocking certification.",
+    "Confirm exact current US per-stick price for the WinWing Ursa Minor Space (triangulated to ~$110-115) and for the VKB Gladiator Space Combat Edition (~$119 Standard / ~$139 Premium) before any hard-price certification.",
+    "Decide whether to build a /space/gear/winwing-ursa-minor-space spec-card page once a verified image exists (product exists in space.json but with an unverified image path)."
+  ]
+}

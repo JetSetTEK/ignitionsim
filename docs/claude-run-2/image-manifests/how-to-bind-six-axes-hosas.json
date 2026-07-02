@@ -1,0 +1,85 @@
+{
+  "slug": "how-to-bind-six-axes-hosas",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Make the six-axis-across-two-sticks layout instantly legible so a new HOSAS pilot stops fearing the controls menu. This is a low-product-density how-to: lean on the axis-map infographic and the twist decision tree, not on product cards. Only genuinely relevant sticks appear as real product proof (the hardware you actually bind).",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Virpil VPC Constellation ALPHA grip",
+      "preferredLocalPath": "/images/gear/space/virpil-constellation-alpha-grip.jpg",
+      "officialSourceUrl": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+Constellation+ALPHA&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced text-only for its lockable twist axis (the cleanest hardware answer to the disable-twist-on-the-aiming-stick step). Has a data record but no verified in-house image. Source a real photo before it can appear as a gearpick/shotgrid or before certification if it should show visually."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-two-sticks-mapped",
+      "type": "AI scene + real product composite",
+      "prompt": "First-person cockpit view of a HOSAS desk setup at a home battlestation, two flight sticks mounted at ergonomic angles with open product-overlay space on the left and right grips for real stick photos, subtle magenta/cyan nebula glow through an implied canopy, clean editorial 16:9, no fake branded hardware, no fake UI text.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg", "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake sticks, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "hosas-axis-map",
+      "title": "The standard HOSAS axis map: right rotates, left translates",
+      "format": "1600x1000",
+      "content": [
+        "RIGHT STICK (aiming) = rotation: X tilt Roll, Y tilt Pitch, Twist Yaw (or disabled)",
+        "LEFT STICK (maneuvering) = translation: X tilt Lateral strafe, Y tilt Forward/back thrust, Twist Vertical strafe",
+        "Thumb slider/ministick: zoom or throttle (right), cruise (left)",
+        "Callout: twist on the aiming stick is the one decision"
+      ],
+      "style": "IgnitionSim command-center chart, two-stick split layout, large readable labels, arrows from each physical input to its ship axis, space colors; real stick photos as the left/right column headers for Codex overlay"
+    },
+    {
+      "id": "twist-decision-tree",
+      "title": "Which twist fix should you use?",
+      "format": "1600x1000",
+      "content": [
+        "Q: How do you aim?",
+        "Stick-only -> disable right twist, yaw on left X tilt, strafe to hat/left twist",
+        "Relative mouse aim -> leave yaw on right twist, lateral strafe on left X tilt",
+        "Grip has lockable twist (Virpil ALPHA) -> lock right hand twist in hardware, keep left live"
+      ],
+      "style": "Numbered/branching decision tree, IgnitionSim styling, three clear outcome cards, large text, space accent colors"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-chen-bind-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a dual-stick HOSAS battlestation, one hand resting on each flight stick, calm methodical energy, glowing controls menu implied on an off-screen monitor, product overlay space beside the sticks, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Elite Dangerous Options > Controls axis-binding screen showing two devices",
+      "purpose": "Illustrate the 'Elite auto-detects two sticks' step; annotate the pitch/roll/yaw and thrust axis rows",
+      "sourceNote": "Must be a real in-house screen capture or a properly licensed one — do NOT embed an unverified web screenshot",
+      "status": "optional"
+    },
+    {
+      "item": "Star Citizen Advanced Controls Customization > Flight - Movement category (Strafe Longitudinal/Lateral/Vertical rows)",
+      "purpose": "Show where the three translation binds live; reinforce the clear-defaults warning",
+      "sourceNote": "Real in-house capture only; keep any HUD/version text legible and current",
+      "status": "optional"
+    }
+  ],
+  "openQuestions": [
+    "Source a verified Virpil Constellation ALPHA grip photo so the lockable-twist reference can become a body visual?",
+    "Do we want the Elgato Stream Deck XL (verified image exists) promoted from a text link to a small gearpick for the bind-overflow point, or keep this page deliberately low-density?",
+    "Confirm current street prices for T.16000M, VKB Gladiator SCE, VKB Omni-Throttle before any certification pass.",
+    "Re-verify Star Citizen advanced-menu label + strafe bind names against the live wiki (Guide:Controls returned 403 on fetch)."
+  ]
+}

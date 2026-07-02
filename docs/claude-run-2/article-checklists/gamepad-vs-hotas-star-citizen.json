@@ -1,0 +1,23 @@
+{
+  "slug": "gamepad-vs-hotas-star-citizen",
+  "articleFile": "src/content/articles/space/gamepad-vs-hotas-star-citizen.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 9,
+  "realProductImageCount": 9,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low product density by design: only 9 verified images embedded (4 shotgrid + 5 gearpick). Cannot reach 8+ distinct verified products without forcing irrelevant cards — this is a decision explainer, not a product roundup. Not a defect, but it keeps candidateForCertification false rather than padding with off-topic gear.",
+    "No verified gamepad image exists — the article's core subject (Xbox controller / DualSense) is text-only. A real gamepad product photo (or an editorial gamepad-vs-stick composite) is the highest-value missing asset before certification.",
+    "No verified Logitech X56 image — the headline all-in-one HOTAS is text-only with an Amazon-search link. Source a real X56 photo before it can be a body visual.",
+    "Two infographics recommended (axis-coverage table, buy-decision tree) via Codex before certification — they carry this low-density explainer better than any added product card.",
+    "Prices quoted as approximate/verified-2026-07-02 (X56 $249.99, T.16000M FCS HOTAS ~$170); re-confirm 'check current' at certification time."
+  ],
+  "notes": "Rewritten to gold structure with author Val Chen and goldStatus left as 'refresh' (NOT certified) per run rules. Verdict-first opening, axis-coverage comparison table, explicit decision tree, HOTAS 'earns its money' section, the buried single-stick-vs-HOSAS catch, a Stream-Deck-not-a-stick recommendation, setup-tax warnings, three-question decision, buy order, and a dated Sources Checked shelf with real links. All 9 embedded images verified against verified-product-images.json (hero = thrustmaster-t16000m-fcs-hotas.jpg, also verified). Gamepad and Logitech X56 kept text-only with Amazon-search links + manifest needs-download entries — no unverified images embedded. Frontmatter has exactly 2 fences; adds sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier B, contentCluster space, 5 FAQs, related[]. `npx astro build` compiles clean (schema valid); the article does not yet emit a public page because the [bay]/[slug] route filters on isCertifiedArticle (goldStatus==='certified'), which is correct for a 'refresh' article and matches the pre-existing hosas-vs-hotas refresh article behavior — not a regression."
+}

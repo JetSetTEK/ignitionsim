@@ -1,0 +1,23 @@
+{
+  "slug": "professional-ship-simulator-2026-hardware-setup",
+  "articleFile": "src/content/articles/marine/professional-ship-simulator-2026-hardware-setup.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 9,
+  "realProductImageCount": 9,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "PSS button/axis count is unsettled: reveal coverage says 'over 100 buttons' while the legacy Nautic XP site says 'over 50 buttons, 9 axes.' Resolve to a single confirmed figure once the Early Access input menu ships before certifying.",
+    "'Rudder deadzone for HOTAS/controller' could NOT be verified on the current Steam or Nautic XP pages (2026-07-02). The prior draft asserted it as fact (attributed to 'Aerosoft hotfix notes'); the rewrite removed that assertion and flagged it check-current. Confirm or permanently drop before certification.",
+    "Saitek Pro Flight Throttle Quadrant (the single best-value pick) and Logitech G29 have no verified marine-context image, so both are text + Amazon link only. Source verified photos if we want them as body visuals before certifying.",
+    "NAUTIS Home has no local/verified image and is official-link only; a two-sim comparison visual needs a licensed VSTEP asset first.",
+    "Live retail prices (Saitek quadrant, TWCS, T.16000M standalone vs HOTAS bundle, PXN CB1) were not renderable from fetched pages; all left as check-current ranges. Confirm before certifying."
+  ],
+  "notes": "Rewritten to gold structure: author=Gus Calder (curator match), goldStatus 'refresh' (NOT certified per run rules), sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster marine. Hero is the verified professional-ship-simulator-context.jpg. All 9 embedded gear images (incl. hero) are in verified-product-images.json — validated by script; zero unverified images embedded. Body is verdict-first, has a function-to-hardware table, a three-rigs buy ladder, a verified 4-tile shotgrid, 6 verified gearpick asides (TWCS, PXN CB1, T.16000M, Bridge Command, BU0836X, BBI-32, Arduino, RailDriver = 8 gearpicks actually), two original-paraphrase callouts (forum + tip), a setup-tax/warnings section, a buy order, a PSS-vs-NAUTIS-Home comparison (the run's angle), a who-should-skip section, and a dated Sources Checked shelf with real retrieved links. Corrected a likely-fabricated 'rudder deadzone' claim from the old draft and surfaced the 50-vs-100 button discrepancy honestly. Article compiles cleanly (npx astro build passed, 187 pages, hero + OG image generated); it does not emit a public page only because the [bay]/[slug] route filters to goldStatus==='certified', which is the intended behavior for a refresh candidate. Exactly 2 frontmatter fences confirmed."
+}

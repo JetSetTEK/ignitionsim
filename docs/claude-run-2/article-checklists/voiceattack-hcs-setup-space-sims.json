@@ -1,0 +1,22 @@
+{
+  "slug": "voiceattack-hcs-setup-space-sims",
+  "articleFile": "src/content/articles/space/voiceattack-hcs-setup-space-sims.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 3,
+  "realProductImageCount": 1,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low verified-image density: only 1 genuinely relevant verified product photo exists (Elgato Stream Deck XL). This is a software how-to (VoiceAttack, HCS packs, WhisperAttack are all software/tools with no product cards), so it cannot reach an 8-verified-image bar without forcing irrelevant hardware — which the run rules explicitly forbid. Certification should wait on Codex-produced infographics (cost ladder, decision tree, setup flow) and optionally a licensed VoiceAttack profile-editor screenshot to raise visual weight honestly.",
+    "USD pricing for HCS packs / ASTRA 2 starter bundle is approximate (store is GBP; FX + frequent sales). Confirm hard USD figures before certifying, or keep the GBP + approximate-USD framing.",
+    "Stream Deck XL street price left as a range (~$220-250) pending confirmation of current sale vs MSRP.",
+    "WhisperAttack requirements (NVIDIA 6GB+ VRAM) should be re-confirmed on GitHub at certification time (fast-moving open-source project)."
+  ],
+  "notes": "Rewritten to gold structure: author Val Chen; goldStatus refresh (NOT certified); added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster space; heroImage switched from the OLD unverified /images/space/voiceattack-hcs-setup-space-sims.jpg to the VERIFIED /images/gear/space/elgato-stream-deck-xl.jpg. 5 FAQs (added a misfire-fix Q&A). Bold verdict-first opening, cost-and-does table, honest voice-vs-panel decision section, 1 forum callout + 1 pro-tip callout (WhisperAttack, original paraphrase), setup-tax/misfire warnings, buy order, and a dated Sources Checked shelf with real retrieved links. HARD IMAGE RULE honored: the ONLY embedded gear image is the Stream Deck XL (verified line 75 of verified-product-images.json); it appears as hero + 1 shotgrid figure + 1 gearpick (visualCount 3 renders of 1 verified product = realProductImageCount 1). No unverified images remain. Honesty fix applied: dropped unsubstantiated 'celebrity-voiced' claim -> 'professional voice actors'. Exactly 2 frontmatter fences confirmed; `npx astro build` passes clean (187 pages, no errors). Article does not yet build to an HTML page because the [bay]/[slug] route only emits certified articles (isCertifiedArticle) — identical behavior to the untouched refresh article hosas-vs-hotas; expected, not a regression. candidateForCertification=false left honestly per run rules; needs Codex infographics before it can certify."
+}

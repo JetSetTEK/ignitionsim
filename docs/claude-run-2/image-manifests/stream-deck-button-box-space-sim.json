@@ -1,0 +1,105 @@
+{
+  "slug": "stream-deck-button-box-space-sim",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Make a bind-drowned Star Citizen / Elite pilot want a labeled Stream Deck XL before they read the keystroke-only setup tax, while honestly showing the physical-panel alternative. Real product proof only; no procedural art. Only two verified space photos fit this topic, so the visual density is intentionally modest and the physical-DIY options are text + official link.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Leo Bodnar BBI-32 Button Box Interface (Model 1, with connectors)",
+      "preferredLocalPath": "/images/gear/space/leobodnar-bbi-32.jpg",
+      "officialSourceUrl": "https://www.leobodnar.com/products/BBI-32/",
+      "amazonUrl": "https://www.amazon.com/s?k=Leo+Bodnar+BBI-32+button+box+interface&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Wired-box route heart (32 buttons + 16 encoders, credit-card size). Text-only in body until a real photo is sourced. A marine-bay verified image exists (/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg) but is NOT in the space verified set — do not cross-embed; source a space-path photo or promote the marine one into verified-product-images.json under a shared path before embedding."
+    },
+    {
+      "product": "DIY Arduino Pro Micro / Leonardo button box (built panel)",
+      "preferredLocalPath": "/images/gear/space/diy-arduino-button-box-space.jpg",
+      "officialSourceUrl": "https://forum.arduino.cc/t/building-a-button-box-for-star-citizen-space-game/1332881",
+      "amazonUrl": "https://www.amazon.com/s?k=Arduino+Pro+Micro+Leonardo&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Full-DIY route. Ideally an original IgnitionSim build photo or a properly licensed community image; do NOT lift an unlicensed forum photo. Text-only in body until sourced."
+    },
+    {
+      "product": "Elgato Stream Deck + (8 keys + 4 dials)",
+      "preferredLocalPath": "/images/gear/space/elgato-stream-deck-plus.jpg",
+      "officialSourceUrl": "https://www.elgato.com/us/en/p/stream-deck-plus",
+      "amazonUrl": "https://www.amazon.com/s?k=Elgato+Stream+Deck+Plus&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced as the dials option (~$180). Text-only; a verified photo would let the model-sizing section show the dials variant visually."
+    },
+    {
+      "product": "Elgato Stream Deck MK.2 (15 keys)",
+      "preferredLocalPath": "/images/gear/space/elgato-stream-deck-mk2.jpg",
+      "officialSourceUrl": "https://www.elgato.com/us/en/p/stream-deck-mk2-black",
+      "amazonUrl": "https://www.amazon.com/s?k=Elgato+Stream+Deck+MK.2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Budget 15-key option (~$150). Text-only; low priority."
+    },
+    {
+      "product": "Elgato Stream Deck + XL (36 keys + 6 dials, new 2026)",
+      "preferredLocalPath": "/images/gear/space/elgato-stream-deck-plus-xl.jpg",
+      "officialSourceUrl": "https://www.elgato.com/us/en/p/stream-deck-plus-xl",
+      "amazonUrl": "https://www.amazon.com/s?k=Elgato+Stream+Deck+Plus+XL&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The maximalist 2026 option (~$350). Text-only; low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/elgato-stream-deck-xl.jpg",
+    "/images/gear/space/thrustmaster-mfd-cougar-pack.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-bind-wall",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim home space-sim cockpit at night, cyan-and-amber monitor glow, a HOSAS twin-stick rig on desk mounts with an empty flat rectangular product-overlay space center-front where a real Stream Deck XL photo will be composited, cables neatly routed, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/elgato-stream-deck-xl.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake stream deck keys, warped controls, unreadable tiny text, procedural gradient art, invented game HUD"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-button-box-routes",
+      "title": "Three ways to build a button box",
+      "format": "1600x1000",
+      "content": ["Stream Deck (LCD) - labeled, reactive, keystroke-only, ~$150-350", "Commercial panel - tactile buttons, no software, ~$90-160", "DIY / wired box - real toggles + rotaries, build effort, ~$40-150 parts"],
+      "style": "IgnitionSim command-center chart, three columns, large readable text, space cyan/amber palette, real product photos as column markers for Codex overlay"
+    },
+    {
+      "id": "stream-deck-model-ladder",
+      "title": "Which Stream Deck for a space sim",
+      "format": "1600x1000",
+      "content": ["MK.2 - 15 keys, no dials, ~$150", "Stream Deck + - 8 keys + 4 dials, ~$180", "Stream Deck XL - 32 keys, THE PICK, ~$200-250", "Stream Deck + XL - 36 keys + 6 dials, ~$350"],
+      "style": "Numbered ladder with the XL highlighted as the sweet spot, product-photo placeholders for Codex overlays"
+    },
+    {
+      "id": "button-box-buy-order",
+      "title": "Button box buy order",
+      "format": "1600x1000",
+      "content": ["1 Bind keyboard layer in-game", "2 Buy Stream Deck XL", "3 Install game community plugin", "4 Build 4 category pages + home key", "5 Add physical panel only if you crave switches"],
+      "style": "Numbered ladder, space palette, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-bind-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a tidy dual-stick desk cockpit, one hand resting near a labeled macro-panel overlay space, calm methodical energy, cable labels visible, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "Optional: a Stream Deck profile screenshot showing a color-coded Star Citizen page layout (flight / roles / UI / FPS)",
+      "notes": "Only use an original or properly licensed capture. Not required for certification; would illustrate the 'sane page layout' section."
+    }
+  ],
+  "openQuestions": [
+    "Source a space-path verified photo for the Leo Bodnar BBI-32 (a marine-bay verified image exists but is not in the space verified set) so the wired-box route can carry a visual.",
+    "Confirm the exact current retail price of the Stream Deck XL before certification (left as ~$200-250 / often ~$190).",
+    "Is how-to-bind-six-axes-hosas certified? It is linked in body + related; if not certified its /space/ page 404s.",
+    "Do we want dedicated gear pages for Stream Deck + / MK.2 / + XL, or keep them as text references under the single Stream Deck XL gear page?"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "best-budget-marine-sim-setup",
+  "articleFile": "src/content/articles/marine/best-budget-marine-sim-setup.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 8,
+  "realProductImageCount": 8,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "The budget MVP (Logitech G Saitek Pro Flight Throttle Quadrant) has NO verified product image and is text-only in the body — the single most-recommended sub-$100 buy of the article should have a real photo before certification.",
+    "The cheapest DIY board (Leo Bodnar BU0836A, the exact Bridge Command reference part) has no verified image; the verified BU0836X stands in visually. Source a real BU0836A photo to make the cheapest option a body visual.",
+    "Confirm MarineVerse pricing model before certifying: body states $29.99 one-time (Meta Store), which corrects the older 'free + ~$13/month Sailing Pass' note in marine.json — verify which is current.",
+    "Confirm current USD landed prices (incl. UK shipping) for BU0836A (~$42) and BBI-32 (~$53), and verify Sailaway's 2026 free-demo status (currently written as 'check current')."
+  ],
+  "notes": "All 8 embedded images (hero + 7 gearpick figures) are verified product photos from verified-product-images.json; zero unverified images embedded. Curator=author (Gus Calder). Structure matches the certified marine gold reference (marine-sim-hardware-reality): verdict-first bold opening, a buy-order budget ladder, analog-axis gate section, at-a-glance budget table, DIY buy order, explicit 'what to skip' list, a builders'-forum friction callout (original paraphrase), two callout warnings, and a dated 'Sources Checked' shelf with real links. 2026 prices verified live where possible: Saitek quadrant $69.99 (Logitech official), Bridge Command v5.9 free/GPLv2 with new VR, Meta Quest price hike (3S from $349.99, Quest 3 $599.99), MarineVerse $29.99, JoyToKey free. goldStatus left as 'refresh' per run rules; the article does NOT yet render a public page because [bay]/[slug].astro getStaticPaths filters on isCertifiedArticle (goldStatus==='certified') — this is expected and correct for a certification CANDIDATE. Astro build passes clean, so the frontmatter validates against the content-collection schema. Text-only (no verified image) products link out via Amazon-search (rel='sponsored nofollow noopener') or official URLs; free/open-source tools (Bridge Command, JoyToKey, vJoy, Xpadder, Leo Bodnar boards) use official links, not Amazon."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "stream-deck-button-box-space-sim",
+  "articleFile": "src/content/articles/space/stream-deck-button-box-space-sim.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 4,
+  "realProductImageCount": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": false,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Confirm exact current retail price of the Elgato Stream Deck XL before certifying — quoted as a range (~$200-250, often ~$190 street) because Elgato list ($249.99) and Amazon street (~$190) diverge.",
+    "Two internal links point to NON-certified targets: /space/hosas-vs-hotas and /space/how-to-bind-six-axes-hosas are both goldStatus 'refresh', so their /space/ pages do not build yet and those links 404 until those articles are certified. Only /space/vkb-vs-virpil-vs-winwing-space-sticks-2026 (certified) resolves today. Resolve before certifying this article: either certify the two targets first, or the links must be removed/re-pointed. Same applies to related[] entries hosas-vs-hotas and how-to-bind-six-axes-hosas.",
+    "Catalog shortfall (informational, not a hard blocker): only 2 verified space product photos fit this topic (Stream Deck XL, Thrustmaster MFD Cougar Pack), so the article carries 4 embedded visuals rather than the >=8 aspirational target. Leo Bodnar BBI-32 and the DIY Arduino build are honestly kept text-only + official/Amazon links. To raise visual density, source verified photos per the image manifest."
+  ],
+  "notes": "All 4 embedded images are verified product photos from verified-product-images.json (elgato-stream-deck-xl.jpg used in shotgrid + 2 gearpicks; thrustmaster-mfd-cougar-pack.jpg used in shotgrid + 1 gearpick). heroImage switched from the UNVERIFIED /images/space/stream-deck-button-box-space-sim.jpg to the VERIFIED /images/gear/space/elgato-stream-deck-xl.jpg. Author set to Val Chen (curator match). Added goldStatus refresh, sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier B, contentCluster space. Verdict-first opening; three-approach comparison table; Stream Deck model-sizing table with corrected 2026 Elgato prices; free-plugin section (streamdeck-elite + streamdeck-starcitizen forks) with a pro-tip callout and a forum callout (both original paraphrase); keystroke-only + desk-footprint setup-tax warnings; buy order; 'What to buy' stack; dated Sources Checked shelf with real Elgato / Thrustmaster / Leo Bodnar / GitHub / Arduino-forum links. Prices corrected vs prior draft: Stream Deck + ~$200 -> ~$180, XL ~$250 -> ~$200-250, MFD Cougar ~$110 -> ~$90-110; added the new-for-2026 Stream Deck + XL ($350). Products without a verified image (Leo Bodnar BBI-32, DIY Arduino, Stream Deck +, MK.2, + XL) are text + official link and/or Amazon-search sponsored links only, with a photo-verification note. goldStatus deliberately left 'refresh' (NOT certified) per run rules; `npx astro build` completes cleanly (187 pages) — the article does not yet render a page because the [bay]/[slug] route gates on goldStatus === 'certified', which is expected for a refresh candidate. Exactly 2 frontmatter fences confirmed."
+}

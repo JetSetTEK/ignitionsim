@@ -1,0 +1,23 @@
+{
+  "slug": "best-marine-sim-gear-2026",
+  "articleFile": "src/content/articles/marine/best-marine-sim-gear-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 14,
+  "realProductImageCount": 14,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "MarineVerse pricing model appears to have changed (one-time app purchase ~$29.99 + optional ~$99/yr Club membership) from the older 'free to try + ~$13/mo Sailing Pass'; body flags 'check current' — confirm the exact current model before certifying.",
+    "Professional Ship Simulator input specs (9 axes / 50+ buttons / rudder deadzone) are NOT on the current Steam store page — they trace to earlier Nautic XP developer comms; EA now planned 2026 with full-release target 2027. Body downgrades to 'pitched/aspirational' and flags 'check current' — confirm final input model before certifying.",
+    "Logitech G29 street price is volatile (~$180-$300 across 2026 deals); body quotes a range with 'check current' rather than one figure — pin a single current price before certifying.",
+    "RailDriver live price not shown in retrieved sources; quoted ~$220 'check current' — confirm current P.I. Engineering price before certifying.",
+    "Four recommended products have NO verified product image and are text + Amazon-search links only (Logitech G29 helm, Logitech G923 helm, Saitek Pro Flight Throttle Quadrant, Leo Bodnar BU0836A). Source real photos — especially the Saitek quadrant, which leads the value-throttle section — before those can become body visuals or before certification if the shortlist should show a helm/quadrant."
+  ],
+  "notes": "Rewrote to gold structure with author/curator Gus Calder. Verdict-first bold opening, analog-axis gate section, verified shotgrid (4 figures) + 10 gearpick asides, two forum/builder callouts (original paraphrase), tip + warn callouts, shortlist comparison table, numbered buy order, who-should-skip, and a dated Sources Checked shelf with real retrieved links. 14 embedded product-image visuals, ALL verified against src/data/verified-product-images.json (4 shotgrid + 10 gearpick, spanning 10 distinct verified marine images) — exceeds the >=8 target. The three previously-embedded UNVERIFIED images (logitech-g29-helm, logitech-saitek-throttle-quadrant-telegraph, leobodnar-bu0836a-diy-board) were removed; those products are now text + Amazon-search links only. heroImage set to a verified path (thrustmaster-twcs-throttle-engine-lever.jpg). Frontmatter has exactly 2 fences and validates against the content schema (npx astro build succeeded, 187 pages). goldStatus left as 'refresh' per run rules, so the article is intentionally NOT built/published by the [bay]/[slug] route (gate: isCertifiedArticle requires goldStatus==='certified'). candidateForCertification=false: content is refresh-ready but the price/spec 'check current' flags and the missing text-only photos should be resolved before a human certifies."
+}

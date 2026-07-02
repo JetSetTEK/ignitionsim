@@ -1,0 +1,23 @@
+{
+  "slug": "vr-vs-monitor-flight-sim",
+  "articleFile": "src/content/articles/flight/vr-vs-monitor-flight-sim.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 4,
+  "realProductImageCount": 4,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "This is a low-product-density explainer with only 4 genuinely relevant verified product images (Quest 3, Pimax Crystal Light, TrackIR 5, Tobii Eye Tracker 5). It cannot reach an 8-verified-image bar without forcing irrelevant cards, so candidateForCertification is left false by design rather than padding.",
+    "Bigscreen Beyond 2 has no verified product image and no /flight/gear/ page — it is text + official link + Amazon-search only. Source a real photo (and optionally a gear page) before it can become a body visual or before certifying a piece that should show every headset.",
+    "Pimax Crystal Light street price (~$899) is left as an estimate flagged 'check current' (payment-plan vs full-payment variants differ); confirm exact US price before certification.",
+    "Confirm whether a cheaper non-512GB Meta Quest 3 tier still ships in 2026 or Quest 3S ($349.99) is the only sub-$599 path — article states the latter.",
+    "Cross-bay gear links (/racing/gear/meta-quest-3, /racing/gear/pimax-crystal-light) need sign-off as acceptable for flight-cluster certification, though the certified racing/triple-monitor-vs-ultrawide-vs-vr-2026.md sets clear precedent."
+  ],
+  "notes": "Rewrote to gold structure: author Mac Donovan; goldStatus refresh (NOT certified); added sourceReviewDate/updatedDate 2026-07-02, revenueTier B, contentCluster flight; heroImage now a VERIFIED path (/images/gear/racing/pimax-crystal-light.png) replacing the prior unverified /images/flight/vr-vs-monitor-flight-sim.jpg; 5 FAQs; related[] all resolve. Body is verdict-first, has a fast-recommendation decision table, a VR-tax section with dated SU2/SU5 facts, a headset comparison table, a GPU-reality tier table, a head-tracking 'overlooked middle' section, two forum/tip callouts (original paraphrase), pro-tips/setup-tax, a who-should-skip section, and a dated 'Sources Checked' shelf with real links. All 8 embedded image references (4 unique) are in verified-product-images.json; heroImage verified. Exactly 2 frontmatter fences. `npx astro build` passes clean (article correctly does NOT produce a public route because the route gate is goldStatus==='certified'; refresh articles are intentionally build-safe but unpublished, same as the reference gold article best-flight-sim-hardware-2026). Corrected a stale fact from the prior draft: Meta Quest 3 512GB is $599.99 after the April 19 2026 price increase, not ~$500. Product cards were NOT forced per the low-density brief; leaned on tables, decision matrix, and tip callouts. Flagged 2 infographics + 1 curator scene for Codex."
+}

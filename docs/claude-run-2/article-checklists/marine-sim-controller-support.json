@@ -1,0 +1,22 @@
+{
+  "slug": "marine-sim-controller-support",
+  "articleFile": "src/content/articles/marine/marine-sim-controller-support.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 14,
+  "realProductImageCount": 14,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Two primary axis controllers (Logitech G29 helm, Saitek Pro Flight Throttle Quadrant telegraph) have NO verified marine-context product image; they are text + Amazon links only. Source verified photos before they can become body visuals or before certifying if the shortlist should show the primary axis controllers.",
+    "Current-build controller status for Seafarer, Fishing: Barents Sea, and Ships At Sea rests on 2018-2024 community threads; a 2026 patch could have changed wheel/throttle support. Re-verify each on the live build before certification.",
+    "Professional Ship Simulator input spec (exact axis count / rudder-deadzone option) is promise-level, not shipped; the older Nautic XP '9-axis' figure was not re-verifiable on the current Steam page and is flagged 'check current' in the body. Confirm at Early Access launch before certifying.",
+    "eSail / Sailaway / Professional Ship Simulator pricing left as 'check current' (geolocated Steam pricing; PSS price TBD) — confirm before any hard price is quoted."
+  ],
+  "notes": "All 14 embedded images are verified marine product photos (4 shotgrid tiles + 10 gearpick asides); heroImage (professional-ship-simulator-context.jpg) is also verified. Curator=author (Gus Calder). Gold structure applied: verdict-first bold opening, a 7-row 2026 compatibility map table, glue-software layer, verified gearpicks with 'Spec card' + 'Check Amazon' labels, two forum/tip callouts (original paraphrase), a decision-tree buy order, escape-hatch section, and a dated Sources Checked shelf with real cited links. Left as goldStatus:refresh per run rules (NOT certified). Article correctly does not render a page yet because src/pages/[bay]/[slug].astro getStaticPaths filters on isCertifiedArticle (goldStatus==='certified'); `npx astro build` passed cleanly (187 pages, content-collection schema validated the frontmatter). candidateForCertification=false because of the blocksCertification items above (missing verified photos for the two primary axis controllers + stale-thread re-verification needed for three titles + unshipped PSS spec)."
+}

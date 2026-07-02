@@ -1,0 +1,98 @@
+{
+  "slug": "best-hotas-throttle-dcs-2026",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a DCS pilot want the right dual-lever, detented throttle for their airframe before they hit the setup-tax and single-airframe caveats. Real throttle/HOTAS product proof throughout; no procedural art. Two flagship throttles (Virpil MongoosT-50CM3, WinWing Orion 2) are held text-only until verified photos land.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Virpil VPC MongoosT-50CM3 Throttle",
+      "preferredLocalPath": "/images/gear/space/virpil-mongoost-50cm3-throttle.jpg",
+      "officialSourceUrl": "https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Flagship throttle and the article's top overall pick, currently TEXT-ONLY in body because no verified image. Needs a real product photo before it can appear as a gearpick/shotgrid or before certification. Path already referenced in product JSON but NOT in verified-product-images.json — so its gear page does not build and the internal /space/gear link was deliberately NOT used (Amazon-search link used instead)."
+    },
+    {
+      "product": "WinWing Orion 2 HOTAS (F-16EX combo)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-hotas-f16ex.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Mid-tier stick-and-throttle value pick, TEXT-ONLY until a real photo is sourced. Confirm the grip variant (F-16EX vs F/A-18C) in the photo. No verified image -> no gear page -> body links to official store + Amazon search only."
+    },
+    {
+      "product": "WinWing Orion 2 Joystick Base (MFSSB)",
+      "preferredLocalPath": "/images/gear/space/winwing-orion-2-base.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Orion+2+base&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced only in passing as the platform piece for the Orion 2 ecosystem; low priority. Text-only."
+    },
+    {
+      "product": "Thrustmaster HOTAS Warthog Dual Throttle (STANDALONE)",
+      "preferredLocalPath": "/images/gear/space/thrustmaster-warthog-dual-throttle.jpg",
+      "officialSourceUrl": "https://www.thrustmaster.com/en-us/products/hotas-warthog-dual-throttle/",
+      "amazonUrl": "https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+Dual+Throttle&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Only the FULL HOTAS Warthog photo (thrustmaster-hotas-warthog.jpg) is verified in-house; there is no standalone dual-throttle-only verified image. Body honestly uses the full-HOTAS photo and notes the throttle also sells standalone at $349.99. A standalone dual-throttle photo would let the prestige gearpick show the throttle in isolation. Low priority — the full-HOTAS photo is an acceptable stand-in and IS verified."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg",
+    "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/thrustmaster-mfd-cougar-pack.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-detent-break",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim DCS home-cockpit bench at night, cyan MFD glow and warm desk lamp, a rigid desk-clamp mount with an empty throttle mounting plate left open for a real dual-lever throttle product overlay, cable tray visible, curator Val Chen's hand resting near the afterburner-gate position on the empty mount, no fake branded hardware, no fake UI, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake throttle, warped levers, impossible ergonomics, tiny unreadable text, procedural gradient art, invented cockpit UI"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "detent-anatomy",
+      "title": "Anatomy of a DCS throttle detent",
+      "format": "1600x1000",
+      "content": ["Idle / cutoff gate at bottom", "Mil-power band", "Afterburner detent set a hair below 100%", "Reverse stop (twin-engine)", "Dual levers split for asymmetric thrust"],
+      "style": "IgnitionSim command-center chart, large readable text, space/flight colors, real throttle photos as row markers for Codex overlay"
+    },
+    {
+      "id": "throttle-buy-order",
+      "title": "DCS throttle buy order",
+      "format": "1600x1000",
+      "content": ["1 Pick airframe (single vs twin engine)", "2 Match throttle to stick ecosystem", "3 Monstertech mount with the throttle", "4 Stream Deck / MFD for bind overflow", "5 Config software: an evening per jet"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-throttle-tip",
+      "prompt": "Realistic adult space/flight-sim curator Val Chen in a clean dim home-cockpit bay, one hand on a dual-lever flight throttle mounted to a desk clamp, calm expert energy, product overlay space beside her, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "dcs-afterburner-gate",
+      "need": "Optional: a DCS cockpit throttle-quadrant screenshot (e.g. F/A-18C or A-10C) showing the mil/afterburner gate, to illustrate the detent pro-tip. Use official DCS/ED media or first-party capture only; label as game media, do not present as product photo.",
+      "status": "optional-nice-to-have"
+    }
+  ],
+  "openQuestions": [
+    "Confirm exact current US$ price for Virpil MongoosT-50CM3 (base ~369.95 EUR; US store 403s to automated fetch) before certifying.",
+    "Confirm exact current US$ price for VKB STECS Mk.II Standard (EU ~339 EUR) before certifying.",
+    "Confirm exact current US$ price for WinWing Orion 2 HOTAS F-16EX combo (quoted ~$460-500) before certifying.",
+    "Source verified in-house photos for Virpil MongoosT-50CM3 and WinWing Orion 2 (HOTAS + base) so they can become body visuals instead of text-only.",
+    "Update src/data/products/space.json MongoosT-50CM3 entry from FOUR detent profiles to FIVE (adds 'Classic Plus') to match current VirPil source.",
+    "Optionally source a standalone Warthog Dual Throttle photo so the prestige gearpick can show the throttle in isolation rather than the full HOTAS."
+  ]
+}

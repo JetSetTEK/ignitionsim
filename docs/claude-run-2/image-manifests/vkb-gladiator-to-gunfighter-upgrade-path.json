@@ -1,0 +1,70 @@
+{
+  "slug": "vkb-gladiator-to-gunfighter-upgrade-path",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a Star Citizen / Elite pilot feel the VKB ladder as a set of optional, well-triggered steps rather than an inevitable climb. Real VKB product proof at every rung, plus the mount + macro-panel setup tax, so the buyer sees the true cost. No procedural art; every embedded image is a verified in-house product photo.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/vkb-mcg-pro-grip.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-ladder-rungs",
+      "type": "AI scene + real product composite",
+      "prompt": "Editorial 16:9 cover: a clean dark sim cockpit desk at cool blue rim light, staged as four ascending 'rungs' left to right with empty product-overlay plinths for real VKB hardware photos (Gladiator stick, Omni-Throttle, Gunfighter base, MCG grip), a subtle glowing step-line connecting them, curator Val Chen in soft focus at the desk edge gesturing up the ladder, no fake branded hardware, no fake UI text.",
+      "realOverlays": [
+        "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+        "/images/gear/space/vkb-gunfighter-mk4-base.jpg"
+      ],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fabricated joystick shapes, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "ladder-at-a-glance",
+      "title": "The VKB ladder: 4 rungs, 4 triggers",
+      "format": "1600x1000",
+      "content": [
+        "Step 1 Gladiator NXT EVO pair (~$240-280) — trigger: you want a real magnetic-sensor HOSAS",
+        "Step 2 Omni-Throttle (~$149) — trigger: analog off-hand thrust that holds position",
+        "Step 3 Gunfighter Mk.IV base (~$289) — trigger: you can name what you dislike about the Gladiator's cam feel",
+        "Step 4 MCG Pro grip (~$136) — trigger: you want VKB's flagship combat grip",
+        "Most pilots stop at Step 1"
+      ],
+      "style": "IgnitionSim command-center numbered ladder, large readable text, space-blue palette, real VKB product photos as rung markers for Codex overlay, prices tagged 'check current'"
+    },
+    {
+      "id": "gladiator-vs-gunfighter-feel",
+      "title": "Gladiator vs Gunfighter Mk.IV: the feel difference",
+      "format": "1600x1000",
+      "content": [
+        "Gladiator: fiberglass-infused pincer gimbal, fixed cams, 1 spring per axis",
+        "Gunfighter Mk.IV: all-metal cam gimbal, 2 springs per cam, 4 spring sets",
+        "Gunfighter cam profiles: Avia Hard / Avia Soft / Space Hard / Space Soft",
+        "Grips: Rev.C round gold-plated connector, 5 interchangeable grips",
+        "Note: a Gladiator grip does NOT mount on a Gunfighter base"
+      ],
+      "style": "Two-column comparison card, space-blue vs gold accent, VKB base photos as column headers for Codex overlay"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-chen-stop-at-step-one",
+      "prompt": "Realistic adult space-sim curator Val Chen at a tidy twin-stick HOSAS desk, one hand resting on a mounted joystick, calm honest-broker expression as if saying 'most of you should stop here', product-overlay space beside the sticks, practical not fantasy, 4:5 portrait, cool blue key light.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Confirm exact current US MSRP for Gladiator Std/Prem, Omni-Throttle, Gunfighter Mk.IV base, and MCG Pro/Ultimate — VKB Shopify US store is JS-rendered and did not expose live prices to server fetch; all quoted figures are approximate and flagged 'check current'.",
+    "Confirm the precise Rev.C grip-interchange story with VKB (which 5 grips; any adapter path from Gladiator-era grips) before certification — article currently states the conservative version.",
+    "Re-verify stock/availability language at certification time; multiple SKUs were on back-in-stock notify."
+  ]
+}

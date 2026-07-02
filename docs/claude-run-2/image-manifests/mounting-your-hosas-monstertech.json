@@ -1,0 +1,89 @@
+{
+  "slug": "mounting-your-hosas-monstertech",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Make a HOSAS pilot feel the sliding-baseplate problem in their gut, then show the clamp-arm fix as obvious and buy-with-the-sticks. Real product proof throughout (mount + the sticks that slide); the hero is the mount itself, not procedural art. Comparison-table clarity for Monstertech vs Foxx vs Virpil.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Foxx Mount desk kit (beam + device plate)",
+      "preferredLocalPath": "/images/gear/space/foxx-mount-desk-kit.jpg",
+      "officialSourceUrl": "https://foxxmount.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=Foxx+Mount+joystick+desk+mount&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "US-made modular alternative to Monstertech. Text-only in body because no verified image. Needs a real photo before it can appear as a gearpick/shotgrid or before certification if the guide should visually show every mount. Note: Foxx sells primarily direct, not Amazon — prefer official-store imagery/link over an Amazon buy link for this item."
+    },
+    {
+      "product": "Virpil VPC Desk Mount V4 (S or L)",
+      "preferredLocalPath": "/images/gear/space/virpil-vpc-desk-mount-v4.jpg",
+      "officialSourceUrl": "https://virpil-controls.us.com/vpc-desk-mount-v4-l.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+VPC+Desk+Mount+V4&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "ST-3 steel matched mount for Virpil bases. Text-only until a real photo is sourced. Official product page 403'd our fetcher; also could not confirm a firm USD price. Source both a real image AND a real USD price before this becomes a body visual or before certification."
+    },
+    {
+      "product": "Monstertech Joystick/HOTAS Chair Mount",
+      "preferredLocalPath": "/images/gear/space/monstertech-chair-mount.jpg",
+      "officialSourceUrl": "https://www.monster.tech/en/product/joystick-hotas-chair-mount/",
+      "amazonUrl": "https://www.amazon.com/s?k=Monstertech+chair+mount&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced in the desk-vs-chair section (~$119). Only the Monstertech TABLE mount has a verified in-house image; the chair mount does not. A distinct chair-mount photo would let the immersive lap-zone option get its own visual instead of leaning on the table-mount image."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/virpil-warbrd-d-base.jpg",
+    "/images/gear/space/thrustmaster-hotas-warthog.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-slide-vs-locked",
+      "type": "AI scene + real product composite",
+      "prompt": "Split-feel editorial cover of a dark home space-sim battlestation lit by neon magenta and cyan ambient glow: on one side a bare desktop with an empty product-overlay footprint where a joystick base would sit (motion-blur ghost suggesting a stick sliding sideways), on the other side a rigid empty clamp-arm footprint bolted to the desk edge, cables tidy, no fake branded hardware, no fake UI text, 16:9. Real product overlays composited into the two footprints in post.",
+      "realOverlays": ["/images/gear/space/monstertech-table-mount.jpg", "/images/gear/space/thrustmaster-t16000m-fcs.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joystick, warped clamp geometry, impossible ergonomics, tiny unreadable text, procedural gradient art, distorted hands"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "why-baseplates-slide",
+      "title": "Why a HOSAS baseplate slides (and a mount doesn't)",
+      "format": "1600x1000",
+      "content": ["Combat input = LATERAL force", "Desk resists with only friction + weight", "Light base loses -> creeps 1mm per hard input", "Clamp arm feeds force INTO the desk", "Stick stays locked at your set angle"],
+      "style": "IgnitionSim command-center chart, large readable text, space neon palette (magenta/cyan on dark), simple force-arrow diagram, real mount photo as the anchor marker for Codex overlay"
+    },
+    {
+      "id": "mount-compare",
+      "title": "Monstertech vs Foxx vs Virpil at a glance",
+      "format": "1600x1000",
+      "content": ["Monstertech ~$129 - widest compat, aluminum, quick-release - DEFAULT", "Foxx Mount ~$52 beam + ~$35 plate - US-made modular, cheaper - VERIFY COMPAT", "Virpil V4 - ST-3 steel, best for Virpil bases - PRICE CHECK CURRENT", "All three: a HOSAS needs TWO"],
+      "style": "Three-column comparison, product-photo placeholders for Codex overlays, clear price + best-for row, space palette"
+    },
+    {
+      "id": "angle-height-diagram",
+      "title": "Mount it low and canted inward",
+      "format": "1600x1000",
+      "content": ["Drop below desk height (cockpit-like)", "Cant each stick INWARD to wrist neutral", "L and R angles are NOT mirror images", "Lock hard - a half-tight arm flexes", "Watch knee clearance"],
+      "style": "Simple top-down + side ergonomic diagram of a seated pilot with two canted sticks, IgnitionSim chart styling, large labels"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-mount-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen seated at a neon-lit battlestation, one hand relaxed on a clamp-mounted joystick dropped just below desk height and canted inward, calm engineer energy, product-overlay space beside the mount, practical not fantasy, no fake UI, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [],
+  "openQuestions": [
+    "Exact current US MSRP of the Monstertech Joystick/HOTAS Desk Mount ($159 vs $129/$116.10 seen across store views)?",
+    "Firm USD price for the Virpil VPC Desk Mount V4-S / V4-L (page 403'd; only a THB retailer price found)?",
+    "Does Foxx Mount offer VKB and WinWing device plates, or only Virpil + Thrustmaster? Tighten body compat language once confirmed.",
+    "Source real in-house photos of Foxx Mount, Virpil VPC Desk Mount V4, and the Monstertech Chair Mount so the two alternatives and the chair option can become body visuals."
+  ]
+}

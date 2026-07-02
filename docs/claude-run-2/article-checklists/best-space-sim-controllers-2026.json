@@ -1,0 +1,23 @@
+{
+  "slug": "best-space-sim-controllers-2026",
+  "articleFile": "src/content/articles/space/best-space-sim-controllers-2026.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 14,
+  "realProductImageCount": 14,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "WinWing Ursa Minor Space (best-value, #2 headline pick) has no verified in-house product image — currently text-only. Source a real photo before it can appear as a body visual, and before certification if the shortlist should show the value pick visually.",
+    "Turtle Beach VelocityOne Flightstick (best-for-Xbox pick) has no verified space-bay product image — text-only. A verified flight-bay image exists at a different path; source or promote+verify a space-bay photo before certifying.",
+    "Virpil Constellation ALPHA grip (premium grip on the WarBRD-D base) has no verified image — text-only. Lower priority since the WarBRD-D base is verified and anchors the Virpil visual.",
+    "Virpil WarBRD-D / Constellation ALPHA live US prices unconfirmed (official site returned HTTP 403 to automated fetch) — body says 'check current'. Confirm before quoting hard figures at certification.",
+    "Thrustmaster T.16000M exact current US price unconfirmed this pass — kept ~$80 approximate with a 'check current' flag."
+  ],
+  "notes": "All 14 embedded images are verified in-house product photos (7 distinct: VKB Gladiator, VKB Gunfighter Mk.IV, VKB MCG Pro, Virpil WarBRD-D, Thrustmaster T.16000M, Monstertech mount, Elgato Stream Deck XL). Curator=author (Val Chen). heroImage is the verified VKB Gladiator photo. Verdict-first opening, 60-second buy ladder, comparison shortlist table, per-tier gearpicks (verified images only), one forum callout + one pro tip callout, three setup-tax warnings, buy order, 'What to buy' HOSAS starter stack, and a dated 'Sources Checked' shelf with real links. 6 FAQs. WinWing Ursa Minor Space and Turtle Beach VelocityOne are honest photo-gap text-only picks (Amazon-search + official links only). goldStatus left as 'refresh' per run rules; content is certification-ready pending the WinWing/Turtle Beach real photos and the Virpil/Thrustmaster price confirmations. Astro build passes (187 pages, 0 errors); page routes only once goldStatus flips to 'certified' (isCertifiedArticle gate) — expected."
+}

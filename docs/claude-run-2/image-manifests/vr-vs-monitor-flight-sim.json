@@ -1,0 +1,88 @@
+{
+  "slug": "vr-vs-monitor-flight-sim",
+  "bay": "flight",
+  "curator": "Mac Donovan",
+  "priority": "B",
+  "visualGoal": "Make a monitor-only flight simmer understand the VR trade-off honestly before they buy: real headset proof for the two headsets we can show (Quest 3, Pimax Crystal Light), the head-tracking middle ground made tangible, and infographics that carry the frame-rate-tax and GPU-tier math this low-product-density explainer leans on. No procedural art; do not force product cards.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Bigscreen Beyond 2 / Beyond 2e",
+      "preferredLocalPath": "/images/gear/flight/bigscreen-beyond-2.jpg",
+      "officialSourceUrl": "https://store.bigscreenvr.com/products/bigscreen-beyond-2",
+      "amazonUrl": "https://www.amazon.com/s?k=Bigscreen+Beyond+2&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Lightest premium headset (107 g, micro-OLED). Currently text + official link + Amazon-search only because no verified image. Needs a real product photo before it can appear as a shotgrid/gearpick or before certification if the piece should show all headsets. No IgnitionSim gear page exists for it yet either."
+    },
+    {
+      "product": "Meta Quest 3S",
+      "preferredLocalPath": "/images/gear/racing/meta-quest-3s.jpg",
+      "officialSourceUrl": "https://www.meta.com/quest/quest-3s/",
+      "amazonUrl": "https://www.amazon.com/s?k=Meta+Quest+3S&tag=ignitionsim-20",
+      "status": "optional",
+      "notes": "The $349.99 budget entry to the Quest ecosystem, mentioned in the headset table/text as the cheapest VR path. Currently piggybacks on the verified Quest 3 image and gear page. A dedicated 3S photo is optional polish, not a blocker."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/racing/pimax-crystal-light.png",
+    "/images/gear/racing/meta-quest-3.jpg",
+    "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "/images/gear/flight/tobii-eye-tracker-5.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-vr-vs-glass",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dusk home flight-sim desk, warm rim light: a seated pilot's station with a yoke and throttle in the foreground and a wide monitor showing a cockpit apron view, with an empty product-overlay space at upper left for a real VR headset photo resting on the desk edge. Editorial 16:9 cover feel, no fake branded hardware, no fake UI, no warped controls.",
+      "realOverlays": ["/images/gear/racing/pimax-crystal-light.png"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake headset, warped yoke, impossible ergonomics, tiny unreadable text, procedural gradient art, cartoon"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "vr-frame-rate-tax",
+      "title": "The VR frame-rate tax",
+      "format": "1600x1000",
+      "content": [
+        "Monitor: your full desktop FPS",
+        "VR: renders TWO high-res images per frame",
+        "Rule of thumb: budget ~half your desktop FPS in VR",
+        "Foveated rendering + DLSS 4 (SU2, May 2025) claw some back (~+12 FPS from FFR alone)"
+      ],
+      "style": "IgnitionSim command-center chart, large readable text, flight-cluster colors, a simple before/after FPS bar; real headset photo as a corner marker for Codex overlay"
+    },
+    {
+      "id": "vr-gpu-reality-tiers",
+      "title": "What GPU VR actually needs (MSFS 2024)",
+      "format": "1600x1000",
+      "content": [
+        "< RTX 3070: don't — VR will frustrate you",
+        "RTX 3070-4070: Quest 3 at Medium, lean on FFR + DLSS 4",
+        "RTX 4080-4090: comfortable Quest 3; Crystal Light entry at sensible PPD",
+        "RTX 5080: sensible high-end for Crystal Light",
+        "RTX 5090 (32GB): Crystal Light at full settings + supersampling"
+      ],
+      "style": "Numbered/laddered tier chart, flight colors, headset-photo placeholders for Codex overlays where a tier maps to a headset"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "mac-donovan-vr-tip",
+      "prompt": "Realistic adult flight-sim curator Mac Donovan at a clean home cockpit desk, one hand resting on a yoke, a VR headset set down beside the monitor, calm honest-broker energy, product-overlay space beside him, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "msfs2024-vr-foveated-settings",
+      "need": "Optional screenshot of the MSFS 2024 VR graphics settings panel showing the foveated rendering and DLSS 4 toggles, to anchor the 'settings game is different in VR' section. Must be a genuine capture, not mocked.",
+      "status": "optional"
+    }
+  ],
+  "openQuestions": [
+    "Exact current Pimax Crystal Light US street price (~$899 estimate; payment-plan vs full-payment variants differ)?",
+    "Does a cheaper non-512GB Meta Quest 3 tier still ship in 2026, or is Quest 3S the only sub-$599 path?",
+    "Should Bigscreen Beyond 2 get a verified photo + a /flight/gear/ page so it can become a body visual, or stay text-only?",
+    "Is cross-bay linking to /racing/gear/meta-quest-3 and /racing/gear/pimax-crystal-light acceptable for a flight-cluster certification (precedent: certified racing/triple-monitor-vs-ultrawide-vs-vr-2026.md)?"
+  ]
+}

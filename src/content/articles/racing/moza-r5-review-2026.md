@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/moza-r5.jpg"
 heroAlt: "MOZA R5 direct-drive wheelbase bundle with ES wheel and SR-P Lite pedals"
 excerpt: "5.5Nm, a complete bundle, and the door into MOZA's ecosystem. Where the R5 still punches above its price in 2026 — and the one number that now makes the step up to an R9 hard to argue with."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

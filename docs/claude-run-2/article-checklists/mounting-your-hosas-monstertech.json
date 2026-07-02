@@ -1,0 +1,22 @@
+{
+  "slug": "mounting-your-hosas-monstertech",
+  "articleFile": "src/content/articles/space/mounting-your-hosas-monstertech.md",
+  "candidateForCertification": true,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 11,
+  "realProductImageCount": 11,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Virpil VPC Desk Mount V4 has no confirmed firm USD price (official page 403'd our fetcher; only a THB retailer listing found) — body marks it 'check current'. Resolve to a real USD figure before certifying.",
+    "Monstertech Desk Mount price varied across store views ($159 vs $129/sale $116.10) — body quotes ~$129 'verify current, frequent sales'. Confirm the single correct current US price before certifying a hard number.",
+    "Foxx Mount and Virpil VPC Desk Mount V4 are text-only (no verified in-house product image). If the guide should visually show every mount option, source real photos first; otherwise the two alternatives stay honestly text + official-link only.",
+    "Foxx Mount VKB/WinWing plate compatibility not confirmed on the landing page (only Virpil + Thrustmaster AVA named) — verify a plate exists for those sticks before tightening the body claim."
+  ],
+  "notes": "Author set to Val Chen (matches curator). goldStatus left 'refresh' per run rules (NOT certified). Added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster space. heroImage is the verified /images/gear/space/monstertech-table-mount.jpg. All 11 embedded product visuals are VERIFIED (4-figure shotgrid + 6 gearpick asides referencing 7 distinct verified images = 11 image instances; heroImage also verified) — confirmed against verified-product-images.json, zero unverified images embedded. The earlier pass embedded a non-existent hero (/images/space/mounting-your-hosas-monstertech.jpg) and used author Robert Pruitt; both replaced. Structure: bold verdict-first opening naming the three mounts, physics 'why baseplates slide' section + table, the clamp-arm fix, a Monstertech-vs-Foxx-vs-Virpil comparison table, cross-shop callout for the two text-only mounts, desk-vs-chair section, forum callout (paraphrased), budget-sticks-need-it-more section, setup checklist, half-tight-arm warning, buy order, 'What to buy' stack, HOTAS crossover, verdict, dated Sources Checked shelf with real links, and a photo-verification note. 6 FAQs. related[] = best-beginner-hosas-under-300, how-to-bind-six-axes-hosas, vkb-vs-virpil-vs-winwing-space-sticks-2026 (all exist). Internal body links point only to verified live routes (space gear pages + certified/sibling space articles); the dead /racing/configurator link from the prior pass was REMOVED (its page lives in src/stowed-pages and is not a built route). All Amazon links carry tag=ignitionsim-20 + rel='sponsored nofollow noopener'; official-store links (Monstertech/MTSIM, Foxx Mount, Virpil) use rel='noopener' not sponsored. `npx astro build` passed clean (187 pages, zero content-collection schema errors); article correctly does NOT render a static page because isCertifiedArticle() gates on goldStatus==='certified' — expected for a refresh candidate. Exactly 2 frontmatter fences confirmed. No literal <content>/<invoke> wrapper text."
+}

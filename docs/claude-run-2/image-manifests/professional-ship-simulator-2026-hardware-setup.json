@@ -1,0 +1,105 @@
+{
+  "slug": "professional-ship-simulator-2026-hardware-setup",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a PC builder understand that Professional Ship Simulator's clickable cockpit means the hardware is optional and buy-last, then show the exact general-purpose gear worth adding. Real product proof throughout; the sim's own key art is the hero. No procedural art. Every embedded image is a verified marine-catalog photo.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G Saitek Pro Flight Throttle Quadrant (marine/engine-telegraph context)",
+      "preferredLocalPath": "/images/gear/marine/logitech-saitek-throttle-quadrant-telegraph.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The single best-value engine-control pick, but the file path is NOT in verified-product-images.json, so it is text-only + Amazon link in the body. Needs a verified photo before it can appear as a shotgrid tile or gearpick, or before certification."
+    },
+    {
+      "product": "Logitech G29 Driving Force (as marine helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Referenced as the optional helm stand-in. Path not in verified set, so text-only + Amazon link. Low priority because the article's thesis is that a wheel is optional here."
+    },
+    {
+      "product": "NAUTIS Home (VSTEP) alternative sim",
+      "preferredLocalPath": "/images/gear/marine/nautis-home-vstep.jpg",
+      "officialSourceUrl": "https://vstepsimulation.com/nautis-home/",
+      "amazonUrl": "",
+      "status": "needs-download",
+      "notes": "The subscription alternative that anchors the article's PSS-vs-NAUTIS-Home angle. No local image exists and it's not a catalog product; currently official-link only in the body. If we want a shotgrid/gearpick comparing the two sims, source and verify NAUTIS Home key art first (respect VSTEP asset licensing)."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/professional-ship-simulator-context.jpg",
+    "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg",
+    "/images/gear/marine/thrustmaster-t16000m-rudder.jpg",
+    "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg",
+    "/images/gear/marine/arduino-leonardo-diy-hid.jpg",
+    "/images/gear/marine/raildriver-ship-throttle.jpg",
+    "/images/gear/marine/bridge-command-free-sim.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-buy-last-bridge",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic home ship-sim bridge at dusk: a dual-monitor desk showing a teal radar/chart screen and a first-person clickable bridge cockpit, a general-purpose flight throttle quadrant and a button box arranged as an improvised engine console, a mouse resting front-and-center to signal the clickable cockpit, curator Gus Calder studying the input-binding menu, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg", "/images/gear/marine/pxn-cb1-button-box.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fabricated boat wheel, warped levers, impossible ergonomics, tiny unreadable text, procedural gradient art, invented UI numbers"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "three-rigs-ladder",
+      "title": "The three PSS rigs worth building",
+      "format": "1600x1000",
+      "content": ["Rig 1 $0-70 gamepad + mouse (clickable cockpit)", "Rig 2 $120-220 throttle quadrant + button box (the sweet spot)", "Rig 3 $250-400 add conning/rudder stick + 2nd screen", "DIY end-to-end BU0836X + pots + BBI-32"],
+      "style": "IgnitionSim command-center chart, large readable text, marine teal/brass palette, real product photos as row markers for Codex overlay"
+    },
+    {
+      "id": "pss-vs-nautis-home",
+      "title": "Professional Ship Simulator vs NAUTIS Home",
+      "format": "1600x1000",
+      "content": ["PSS: one-time Steam purchase, Early Access 2026, clickable cockpit, modding roadmap", "NAUTIS Home: subscription from ~EUR5.95/mo, 20+ ships, dual-screen radar/conning, course-backed", "Both: run on repurposed PC gear, no dedicated boat helm", "Choose PSS to buy once + mod; NAUTIS Home to play polished today"],
+      "style": "Two-column comparison card, marine palette, neutral (no star ratings), placeholders for both sims' key art"
+    },
+    {
+      "id": "button-axis-discrepancy",
+      "title": "Read the input claims like an engineer",
+      "format": "1600x1000",
+      "content": ["Reveal/Steam coverage: over 100 mappable buttons, several axes", "Legacy Nautic XP site: over 50 buttons, 9 axes, triple-layer keyboard", "Consistent both sources: fully clickable cockpit, joystick-to-gamepad per ship, NMEA/GPX", "Verdict: exact count = check-current until EA input menu ships"],
+      "style": "Side-by-side claims panel, honest 'unsettled' framing, marine palette, no invented numbers"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-input-menu-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a home bridge desk, one hand on a flight throttle quadrant repurposed as an engine telegraph, calm methodical energy, an open controller-binding menu glowing on the monitor beside him, product overlay space to one side, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "asset": "Professional Ship Simulator clickable-cockpit / input-binding screenshot",
+      "sourceUrl": "https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/",
+      "status": "needs-review",
+      "notes": "Only use official Steam/Aerosoft press media with correct attribution; do NOT fabricate a UI. Useful to illustrate the clickable cockpit + per-ship controller setup once EA ships."
+    },
+    {
+      "asset": "NAUTIS Home dual-screen radar/conning screenshot",
+      "sourceUrl": "https://vstepsimulation.com/nautis-home/",
+      "status": "needs-review",
+      "notes": "VSTEP-owned media; respect licensing. Would support the PSS-vs-NAUTIS-Home comparison visually."
+    }
+  ],
+  "openQuestions": [
+    "Resolve the 50-vs-100+ mappable-button and 9-axis discrepancy once the PSS Early Access input menu ships.",
+    "Confirm or kill the 'rudder deadzone for HOTAS/controller' feature — unverified on current official pages as of 2026-07-02.",
+    "Do we want a verified Saitek quadrant marine photo so the single best-value pick can appear as a body visual instead of text-only?",
+    "Should NAUTIS Home get its own verified key-art asset for a two-sim comparison shotgrid, and does VSTEP licensing allow it?",
+    "Confirm live retail prices (Saitek quadrant, TWCS, T.16000M standalone vs HOTAS bundle, PXN CB1) before certification."
+  ]
+}

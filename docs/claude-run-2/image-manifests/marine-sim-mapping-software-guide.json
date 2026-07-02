@@ -1,0 +1,78 @@
+{
+  "slug": "marine-sim-mapping-software-guide",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a frustrated simmer with a dead throttle understand the fix in one glance: free glue software (AntiMicroX) plus a deadzone. This is a low-product-density software how-to — lean on a workflow infographic and a decision-tree graphic, NOT forced product cards. Only one verified product photo is used (the hero), because the tools are software with no product shot.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-dead-lever-comes-alive",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic marine sim desk at cool teal workshop light: a repurposed flight throttle lever mounted as a ship's engine control in the foreground with an empty product-overlay slot for a real throttle photo, a second monitor faintly showing a sailing sim, a laptop beside it running a generic axis-mapping utility (no real UI, no fake logos), the message being 'software brings the dead lever to life', 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake software UI, real app screenshots, fake logos, warped hardware, unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "tool-picker-decision-tree",
+      "title": "Which mapping tool do you need?",
+      "format": "1600x1000",
+      "content": [
+        "1-2 axes, keyboard-only game -> AntiMicroX (free)",
+        "Lots of buttons / you own it -> JoyToKey ($7.50)",
+        "Game grabs wrong device -> vJoy decoy fed by JoyToKey (free)",
+        "Free tools frustrate you -> reWASD (Lifetime from ~EUR34.99)"
+      ],
+      "style": "IgnitionSim command-center decision tree, large readable text, marine teal/gold, clear branch arrows"
+    },
+    {
+      "id": "axis-to-key-workflow",
+      "title": "Axis-to-key in 5 steps",
+      "format": "1600x1000",
+      "content": [
+        "1 Turn the game's Controller setting OFF",
+        "2 Read the sim's real throttle/rudder keys",
+        "3 Map axis low-half + high-half to those keys",
+        "4 Set a center DEADZONE (stops runaway input)",
+        "5 Save a per-game profile and back it up"
+      ],
+      "style": "Numbered horizontal workflow ladder, deadzone step highlighted as the critical one, marine palette"
+    },
+    {
+      "id": "stepped-vs-analog",
+      "title": "Stepped keys vs true analog",
+      "format": "1600x1000",
+      "content": [
+        "Axis-to-key = discrete zones (stepped)",
+        "Native axis support = smooth analog",
+        "No software can invent analog the engine never reads"
+      ],
+      "style": "Two-lane comparison graphic (staircase vs smooth ramp), honest and plain, marine palette"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-mapping-tip",
+      "prompt": "Realistic adult marine-sim curator Gus Calder at a tidy home helm desk, one hand resting on a repurposed throttle lever, a laptop beside him showing a generic mapping utility (no real UI), calm practical-tinkerer energy, product-overlay space beside him, 4:5 portrait, cool teal workshop light.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "AntiMicroX axis-mapping window (illustrative)",
+      "note": "If an app-screenshot is desired, it must be a genuine AntiMicroX capture we own/are licensed to use — do NOT fabricate a fake UI. Prefer the axis-to-key workflow infographic instead. Optional, low priority."
+    }
+  ],
+  "openQuestions": [
+    "Do we want a genuine (owned/licensed) AntiMicroX screenshot, or is the workflow infographic sufficient? Infographic preferred to avoid any fake-UI risk.",
+    "Should a proper editorial bay hero replace the interim verified gear-photo hero? Per brief, heroImage had to be a verified path (all verified paths are /images/gear/...), so a throttle photo is the interim hero; a mapping-workflow composite would be a stronger bay hero if produced.",
+    "Confirm live USD price for reWASD Lifetime before any graphic quotes a hard dollar figure (article uses EUR34.99 / ~$35+).",
+    "Is a SEPARATE ECDIS/charts software explainer wanted (the brief's alternate angle)? That is a new article, not part of this manifest."
+  ]
+}

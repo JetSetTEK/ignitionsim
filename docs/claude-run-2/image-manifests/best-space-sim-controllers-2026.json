@@ -1,0 +1,88 @@
+{
+  "slug": "best-space-sim-controllers-2026",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make a Star Citizen / Elite / X4 pilot want the VKB Gladiator HOSAS pair before they hit the stock-and-setup-tax caveats. Real controller product proof throughout — sticks, bases, grip, mount, macro panel; no procedural art. Two headline picks (WinWing, Turtle Beach) are honestly text-only until real photos land.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "WinWing Ursa Minor Space (joystick)",
+      "preferredLocalPath": "/images/gear/space/winwing-ursa-minor-space.jpg",
+      "officialSourceUrl": "https://winwingsim.com/",
+      "amazonUrl": "https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best-value pick, currently text-only in body because no verified image. Needs a real product photo (confirm Space/twist variant, not Fighter) before it can appear as a gearpick/shotgrid or before certification. Highest-priority gap — it's the #2 headline pick."
+    },
+    {
+      "product": "Turtle Beach VelocityOne Flightstick",
+      "preferredLocalPath": "/images/gear/space/turtle-beach-velocityone-flightstick.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocity-one-flight-stick",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Best-for-Xbox pick, text-only in body. NOTE: the flight bay has a verified /images/gear/flight/turtle-beach-velocityone-flight-stick.jpg but the space-bay path is NOT in the verified set — source a real space-bay photo (or promote/copy+verify the flight-bay one) before it becomes a body visual."
+    },
+    {
+      "product": "Virpil VPC Constellation ALPHA grip (R/L)",
+      "preferredLocalPath": "/images/gear/space/virpil-constellation-alpha-grip.jpg",
+      "officialSourceUrl": "https://virpil-controls.us.com/vpc-constellation-alpha-r.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Virpil+Constellation+ALPHA+grip&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Premium grip that tops the WarBRD-D base; text-only. The WarBRD-D base IS verified and carries the Virpil visual anchor, so this is lower priority than the WinWing/Turtle Beach gaps."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/vkb-gunfighter-mk4-base.jpg",
+    "/images/gear/space/vkb-mcg-pro-grip.jpg",
+    "/images/gear/space/virpil-warbrd-d-base.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-twin-stick-bench",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic desktop space-sim battlestation at deep blue and violet nebula rim light, a clamp-mounted twin-stick HOSAS setup on a rigid desk edge with two empty mounting points left open for real joystick product overlays, cable management visible, a monitor glowing with a cockpit HUD out of focus, no fake branded hardware, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake joystick, warped grips, impossible ergonomics, tiny unreadable text, procedural gradient art, sci-fi weaponry"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "hosas-buy-ladder",
+      "title": "The space controller buy ladder",
+      "format": "1600x1000",
+      "content": ["Best overall - VKB Gladiator NXT EVO ~$139/ea", "Best value - WinWing Ursa Minor Space ~$110/ea", "Best budget - Thrustmaster T.16000M ~$80/ea", "Best premium - VKB Gunfighter Mk.IV ~$289 base + grip", "Best for Xbox - Turtle Beach VelocityOne ~$130"],
+      "style": "IgnitionSim command-center chart, large readable text, deep-space blue/violet palette, real stick photos as row markers for Codex overlay"
+    },
+    {
+      "id": "six-axis-why-hosas",
+      "title": "Why two sticks: 6 of 6 analog axes",
+      "format": "1600x1000",
+      "content": ["Pitch / yaw / roll - right stick", "Forward-back thrust - left stick", "Lateral strafe - left stick X (analog, HOSAS only)", "Vertical strafe - left stick twist (analog, HOSAS only)", "HOTAS reaches 4 of 6 analog; HOSAS reaches 6 of 6"],
+      "style": "Numbered axis diagram, ship silhouette with labeled translation/rotation arrows, product-photo placeholders for Codex overlays"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-chen-hosas-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen at a clean desktop cockpit bay, one hand resting on a clamp-mounted left-hand joystick, calm expert energy, product overlay space beside the sticks, practical not fantasy, 4:5 portrait, deep-space rim light.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "need": "Optional: a Star Citizen or Elite Dangerous cockpit HUD screenshot to illustrate the 6DOF strafe advantage in the 'Match the config to your game' section.",
+      "status": "optional",
+      "notes": "Use official press/media or clearly-licensed capture only; not required for certification."
+    }
+  ],
+  "openQuestions": [
+    "Source verified in-house photos for WinWing Ursa Minor Space and Turtle Beach VelocityOne — both are headline picks currently text-only.",
+    "Confirm live Virpil WarBRD-D / Constellation ALPHA US prices (site 403'd automated fetch this pass).",
+    "Confirm exact current Thrustmaster T.16000M US price (kept ~$80 approximate).",
+    "Do we want the six-axis infographic and hero composite built by Codex, or is the verified-photo shotgrid + gearpick set sufficient for certification?"
+  ]
+}

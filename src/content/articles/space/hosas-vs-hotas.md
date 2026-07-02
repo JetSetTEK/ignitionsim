@@ -11,7 +11,8 @@ heroImage: "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg"
 heroAlt: "VKB Gladiator NXT EVO Space Combat Edition stick — the building block of a HOSAS space rig"
 excerpt: "A spaceship has six axes of motion. A stick-and-throttle reaches four of them well. That single fact drives the whole HOSAS-versus-HOTAS decision — here's which config wins for your game and your hands."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "B"
 contentCluster: "space"

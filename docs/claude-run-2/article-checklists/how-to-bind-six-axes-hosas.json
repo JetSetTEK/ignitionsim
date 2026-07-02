@@ -1,0 +1,23 @@
+{
+  "slug": "how-to-bind-six-axes-hosas",
+  "articleFile": "src/content/articles/space/how-to-bind-six-axes-hosas.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 6,
+  "realProductImageCount": 6,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Low product density by design: only 3 DISTINCT verified product images are genuinely relevant to a binding how-to (T.16000M, VKB Gladiator SCE, VKB Omni-Throttle), embedded as 6 image instances total (hero + 3-figure shotgrid + 2 gearpicks). This cannot reach an 8-verified-image bar without forcing irrelevant product cards, so it is intentionally left below the certification image threshold.",
+    "Virpil Constellation ALPHA (referenced for its lockable twist) has no verified in-house image and is text-only; source a real photo before it can become a body visual.",
+    "Two infographics (axis map + twist decision tree) and an optional composite hero are flagged for Codex; visual richness on this how-to should come from those, not from added product cards.",
+    "Street prices (T.16000M, VKB Gladiator SCE, VKB Omni-Throttle) are quoted as approximate ('~'); confirm current pricing before any certification.",
+    "Star Citizen setup details lean partly on a search snippet because the SC Wiki Guide:Controls returned HTTP 403 on direct fetch; re-verify the advanced-menu label and Strafe bind names against the live wiki."
+  ],
+  "notes": "Rewritten to gold structure: author Val Chen (curator=author), goldStatus 'refresh' (NOT certified), added sourceReviewDate/updatedDate 2026-07-02, revenueTier B, contentCluster space. Verdict-first opening. Verified heroImage (vkb-gladiator-nxt-evo-space-combat-edition.jpg). All 6 embedded gear images are in verified-product-images.json (3 distinct). 6 FAQs (>=4). related[] = hosas-vs-hotas, vkb-vs-virpil-vs-winwing-space-sticks-2026, best-beginner-hosas-under-300 (all exist). Added: standard axis-map table, HOTAS-vs-HOSAS-style comparison via right/left split, a twist-fix decision tree, per-game (Elite + Star Citizen) setup steps, Master Modes (SCM/NAV) depth new for 2026, curve-tuning guidance (build in stick software), 2 forum/tip callouts paraphrased in-house (double-bind/hand-switch + build-curves-in-hardware), setup-tax warnings, a buy order, and two gearpicks (T.16000M, Omni-Throttle) that are directly relevant to binding. Dated 'Sources Checked' shelf with real links (EDRefCard, VKB forum, Steam/Frontier community, Master Modes explainer). Photo-verification note holds the line: Virpil ALPHA kept text-only. Astro build passes clean (npx astro build, 187 pages, no errors). Exactly 2 frontmatter fences confirmed. Left as refresh per run rules; NOT a certification candidate because a genuine binding how-to shouldn't be padded with product images to hit an image count."
+}

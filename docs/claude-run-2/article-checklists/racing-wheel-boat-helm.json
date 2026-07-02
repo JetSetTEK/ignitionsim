@@ -1,0 +1,21 @@
+{
+  "slug": "racing-wheel-boat-helm",
+  "articleFile": "src/content/articles/marine/racing-wheel-boat-helm.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 6,
+  "realProductImageCount": 6,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "The two subject wheels (Logitech G29 and G923) have NO verified marine-context product image, so they are text + Amazon-link only. For a 'racing wheel as boat helm' article, not being able to show the wheel is a genuine visual gap — source a vision-verified G29 (at minimum) and add it to verified-product-images.json before certifying.",
+    "Professional Ship Simulator's 9-axis / 50+-button / rudder-deadzone spec comes from reveal coverage, not the Steam store page; the store page confirms only 2026 EA + generic controller support. Re-verify against the shipped build before certification, or keep the 'the announcement cites' attribution.",
+    "G29 street price is sale-dependent and quoted as a ~$180-200 range with 'check current'; confirm the live price at publish time before certifying."
+  ],
+  "notes": "Gold-structure rewrite of the marine racing-wheel-as-helm article. Author set to Gus Calder (curator = author). goldStatus left as 'refresh' per run rules (NOT certified). Added sourceReviewDate + updatedDate 2026-07-02, revenueTier B, contentCluster marine. heroImage is the VERIFIED /images/gear/marine/thrustmaster-t16000m-rudder.jpg (the rudder-axis input a wheel-steered sim actually reads) because no verified photo of the subject wheels exists. All 6 embedded gear images (T.16000M as hero+gearpick, TWCS, PXN CB1, BU0836X, Meta Quest 3, Professional Ship Simulator) are in verified-product-images.json; zero unverified images embedded. The G29/G923 are correctly text + rel='sponsored nofollow noopener' Amazon-search links only. Body: verdict-first bold opening; sim-by-sim analog-vs-deadzone comparison table (eSail / Sailaway / Fishing: Barents Sea) with real 2026 community-sourced behavior; forum callout (original paraphrase); rudder-axis alternative gearpick; mapping checklist + pro-tip callout; before-you-buy warning callout; shotgrid of the companion stack; 'What to buy' ladder; dated 'Sources Checked' shelf with real retrieved links (Logitech official G29/G923 pages, 9to5Toys price, eSail support + PCGamingWiki, Sailaway Steam, Fishing Barents Sea PCGamingWiki, Steam PSS page, Simulation Daily, x360ce/vJoy/JoyToKey). 5 FAQs. related[] = marine-sim-hardware-reality, marine-sim-controller-support, marine-sim-mapping-software-guide. Frontmatter verified at exactly 2 fences. `npx astro build` passes (187 pages, no errors); the article does not emit a standalone page only because the [bay]/[slug] route gates on isCertifiedArticle (goldStatus==='certified'), which is expected for a 'refresh' article. Verified-image count is honestly lower than the >=8 aspiration because the two subject wheels have no verified marine photo — noted in-body via the honesty note and here as the primary blocker."
+}

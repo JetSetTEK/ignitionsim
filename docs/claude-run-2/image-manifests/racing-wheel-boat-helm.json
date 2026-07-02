@@ -1,0 +1,80 @@
+{
+  "slug": "racing-wheel-boat-helm",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a reader who already owns a racing wheel understand — before they buy anything else — that the wheel is only as good as the sim's analog-axis support, and steer them to the G29 over the G923. Real product proof throughout on the companion stack (rudder, throttle, button box, DIY board, VR, upcoming sim); the two subject wheels stay text-only until verified marine photos exist.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Logitech G29 Driving Force (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g29-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The primary subject of the article, yet text + Amazon-link only. File exists on disk but is NOT in verified-product-images.json, so it must not be embedded. Needs a vision-verified marine-context (or clearly-labeled repurpose) photo added to the manifest before it can become a gearpick/shotgrid image or before certification. PRIMARY certification blocker."
+    },
+    {
+      "product": "Logitech G923 TrueForce (as helm)",
+      "preferredLocalPath": "/images/gear/marine/logitech-g923-helm.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+G923+TrueForce&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Second subject wheel, text + link only. File on disk but NOT verified. The article's whole point is 'skip this one for marine,' so a photo is lower value than the G29's, but still needed if we ever want a side-by-side visual. Do not embed until verified."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/thrustmaster-t16000m-rudder.jpg",
+    "/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg",
+    "/images/gear/marine/pxn-cb1-button-box.jpg",
+    "/images/gear/marine/leobodnar-bu0836x-diy-board.jpg",
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg",
+    "/images/gear/marine/professional-ship-simulator-context.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-wheel-vs-axis",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic desk sim-marine bench at dusk with cool blue-teal rim light, a racing wheel clamped to the desk edge shown from behind the seat, an open overlay slot beside it for a real product image, an on-screen ship's helm subtly out of sync with the physical wheel's angle to hint at the center-deadzone problem, no fake logos, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/marine/thrustmaster-t16000m-rudder.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake brand logos, fake wheelbase, warped controls, impossible ergonomics, tiny unreadable text, procedural gradient art, invented marine hardware"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "analog-vs-deadzone",
+      "title": "Analog helm vs. center-deadzone stick",
+      "format": "1600x1000",
+      "content": ["Analog-aware sim: small turn = small rudder, wheel tracks your hands", "Gamepad-only sim: dead center, non-linear, on-screen wheel out of sync", "Fix: x360ce / vJoy present the wheel as a gamepad", "Force feedback: unused in every marine sim"],
+      "style": "IgnitionSim command-center chart, cool marine palette, large readable text, two-column comparison"
+    },
+    {
+      "id": "wheel-helm-buy-order",
+      "title": "The wheel-as-helm buy order",
+      "format": "1600x1000",
+      "content": ["1 Confirm analog-axis support (free)", "2 Helm: Logitech G29 (~$180-200), skip G923", "3 Throttle quadrant or TWCS", "4 PXN CB1 bridge buttons", "5 Glue software (x360ce/vJoy)", "6 Or build a DIY helm (BU0836X)"],
+      "style": "Numbered ladder, real product-photo placeholders for Codex overlays, marine colors"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-wheel-check",
+      "prompt": "Realistic adult marine sim curator Gus Calder in a tidy home bridge nook, one hand resting on a desk-clamped racing wheel while the other points at a laptop screen showing a sim's controller-settings page, weathered-sailor-meets-tinkerer energy, product overlay space beside him, practical not fantasy, 4:5 portrait, cool daylight.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "item": "eSail / Sailaway controller-settings screen showing 'enable Controller' + no-FFB note",
+      "purpose": "Illustrate the analog-support check the article tells readers to run; would strengthen the sim-by-sim table.",
+      "status": "optional-nice-to-have",
+      "notes": "Must be a genuine screenshot if used; do not fabricate a UI. Not required for the current text-first treatment."
+    }
+  ],
+  "openQuestions": [
+    "Source a vision-verified marine-context photo of the Logitech G29 (and optionally G923) so the article's subject wheels can appear as images rather than text-only — primary path to certification.",
+    "Confirm current G29 street price at publish time (sale-dependent ~$180-208 in mid-2026) and update the range if it has moved.",
+    "Re-verify Professional Ship Simulator's 9-axis / 50+-button / rudder-deadzone spec against the shipped Early Access build (2026); tighten attribution once the Steam page lists specifics.",
+    "If eSail/Sailaway ship a patch adding true 1:1 wheel support or FFB, refresh the sim table and FAQ."
+  ]
+}

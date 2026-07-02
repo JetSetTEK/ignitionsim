@@ -1,0 +1,77 @@
+{
+  "slug": "head-tracking-vs-vr-star-citizen",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Make a Star Citizen pilot confident that a head tracker is the smarter, lower-friction look-around buy in 2026, while being fully honest that VR is real now but experimental and demanding. Real product proof for both camps (trackers + headsets); the two decision-support infographics below are the biggest visual wins Codex can add, since this is a low-product-density explainer that leans on tables and decision logic rather than product cards.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/flight/naturalpoint-trackir-5.jpg",
+    "/images/gear/flight/tobii-eye-tracker-5.jpg",
+    "/images/gear/racing/meta-quest-3.jpg",
+    "/images/gear/racing/pimax-crystal-light.png",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-two-camps",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim home sim cockpit at night lit by monitor glow, split visual metaphor: on the left a pilot at a flat monitor with a small head-tracker clip catching IR light and a keyboard/HOTAS visible on the desk; on the right the same pilot in a VR headset with the desk fading to a starfield. Leave clean product-overlay space for a real TrackIR 5 photo on the desk side and a real Quest 3 photo on the headset side. No fake logos, no fake UI text, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/flight/naturalpoint-trackir-5.jpg", "/images/gear/racing/meta-quest-3.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake brand logos, warped hardware, impossible ergonomics, tiny unreadable text, motion-blur nausea imagery, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "tracker-vs-vr-decision-tree",
+      "title": "Head tracking or VR? Decide in four questions",
+      "format": "1600x1000",
+      "content": [
+        "Q1: Playing on a monitor or committing to a headset? Monitor -> tracker branch. Headset -> VR branch.",
+        "Tracker branch: Mind wearing a small clip? Yes clip = TrackIR 5 (best accuracy, ~$150). No clip = Tobii Eye Tracker 5 (~$339 US). Not sure yet = SmoothTrack + OpenTrack (a few $).",
+        "VR branch: Strong GPU + OK with experimental + no motion controllers yet? Start cheap = Quest 3 (~$500, wireless PCVR). Want clarity = Pimax Crystal Light (~$899).",
+        "Reminder node: trackers and VR are mutually exclusive — pick one per session."
+      ],
+      "style": "IgnitionSim command-center flowchart, high-contrast space palette (deep navy + magenta/cyan accents), large readable node text, real product thumbnails as leaf-node markers for Codex overlay (TrackIR, Tobii, Quest 3, Pimax)"
+    },
+    {
+      "id": "look-around-cost-ladder",
+      "title": "The four look-around solutions, by cost and performance tax",
+      "format": "1600x1000",
+      "content": [
+        "SmoothTrack + OpenTrack — a few dollars — zero performance tax — fiddly setup",
+        "TrackIR 5 — ~$150 (Pro bundle ~$175-180) — zero performance tax — wear a clip",
+        "Tobii Eye Tracker 5 — ~$339 US — negligible tax — clip-free, shorter range",
+        "Meta Quest 3 — ~$500 — heavy tax (DLSS) — max immersion, wireless PCVR",
+        "Pimax Crystal Light — ~$899 — heavy tax (DLSS) — max clarity, tethered"
+      ],
+      "style": "Horizontal cost ladder left-to-right, a color-coded performance-tax bar under each rung (green=none -> red=heavy), product-photo placeholders on each rung for Codex overlays, 'check current price' footnote flag on the two tracker rungs and the two headset rungs"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-tracker-recenter-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen in a tidy dark home cockpit bay lit by monitor glow, one hand on a HOSAS grip, thumb hovering over a stick button, a small head-tracker clip on the headset, keyboard visible on the desk, calm and practical energy, product-overlay space beside them, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "sc-vr-settings-toggle",
+      "need": "Star Citizen Alpha 4.6 in-game VR settings toggle screenshot (the official menu option added in 4.6). Would concretely prove the '4.6 added an official VR toggle' claim. Must be a real screenshot the studio/community published — do NOT fabricate a UI mockup. Optional / nice-to-have.",
+      "priority": "low"
+    },
+    {
+      "id": "sc-vr-in-cockpit-scale",
+      "need": "Legitimate Star Citizen VR in-cockpit or EVA capture illustrating the sense of scale the VR case describes. Only use real, properly-sourced/licensed game media; otherwise skip. Optional.",
+      "priority": "low"
+    }
+  ],
+  "openQuestions": [
+    "Confirm exact current US price for TrackIR 5 (base) and TrackClip Pro bundle — body uses ~$150 / ~$175-180 with a check-current flag because trackir.com + Amazon are JS-rendered.",
+    "Confirm current US price for the Tobii Eye Tracker 5 after the 2026 US increase — body uses ~$339 from a Jan 2026 review; Tobii's own price-increase page 403'd.",
+    "Confirm current Quest 3 (~$500) and Pimax Crystal Light (~$899) street prices before certification.",
+    "Do we want the SC 4.6 VR-toggle screenshot embedded, or keep the article product-photo-only? (It would raise visualCount but requires real, sourced game media.)"
+  ]
+}

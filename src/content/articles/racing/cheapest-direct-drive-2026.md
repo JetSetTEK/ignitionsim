@@ -11,7 +11,8 @@ heroImage: "/images/gear/racing/moza-r3-xbox-bundle.png"
 heroAlt: "MOZA R3 direct-drive bundle with wheel and pedals, the cheapest credible way into real direct drive on Xbox and PC"
 excerpt: "Real direct drive now starts under $300. Here's what the cheapest bases actually cost, exactly what you give up at the bottom, and the value sweet spot one rung up that most racers should stretch for."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "racing"

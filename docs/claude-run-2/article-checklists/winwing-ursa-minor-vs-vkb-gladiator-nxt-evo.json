@@ -1,0 +1,21 @@
+{
+  "slug": "winwing-ursa-minor-vs-vkb-gladiator-nxt-evo",
+  "articleFile": "src/content/articles/space/winwing-ursa-minor-vs-vkb-gladiator-nxt-evo.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 8,
+  "realProductImageCount": 8,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "WinWing Ursa Minor Space is a headline product in this head-to-head but has NO verified in-house product photo, so it is text-only throughout the body (Amazon-search links only). A verified, vision-verified product photo must be sourced before the WinWing side can be shown as a shotgrid/gearpick visual and before this article can be certified.",
+    "WinWing Orion 2 base (mentioned in the photo note) is also unverified and text-only; low priority but source a real photo if a future guide features the WinWing ladder.",
+    "Prices are approximate 2026 street prices: WinWing Ursa Minor Space ~$110-115/stick and VKB Gladiator Space Combat Edition ~$119 Standard / ~$139 Premium/stick. Confirm exact current US pricing before certifying any hard number."
+  ],
+  "notes": "All 8 embedded visuals (2 shotgrid figures + 6 gearpick asides) and the heroImage are verified in-house product photos — VKB Gladiator NXT EVO Space Combat Edition, VKB Gunfighter Mk.IV base, Monstertech Table Mount, Elgato Stream Deck XL. The WinWing Ursa Minor was deliberately kept text-only with an honest photo-gap callout and Amazon-search buy links, and any earlier unverified /images/gear/space/winwing-ursa-minor-space.jpg embeds from the prior pass were removed. Author = curator (Val Chen). Verdict-first opening, spec-for-spec table, both-cases sections, where-the-gap-shows decision moments, from-the-forums blind-test callout, setup-tax warnings (mounting + software), bind-overflow Stream Deck fix, buy order, What-to-buy stack, dated Sources Checked shelf with real triangulated links. goldStatus left as 'refresh' per run rules — NOT certified. Research triangulated across VKB FSC Europe + US pages, WinWing/WINCTRL official page, Micro Center, and three independent Ursa Minor reviews (Captain Collins, SkywardFM, Kernic). Build check: npx astro build completed cleanly (187 pages, no schema/parse errors); the article intentionally does not render a page because [bay]/[slug].astro only builds goldStatus:certified articles."
+}

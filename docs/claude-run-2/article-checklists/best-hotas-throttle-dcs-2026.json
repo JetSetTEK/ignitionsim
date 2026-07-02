@@ -1,0 +1,26 @@
+{
+  "slug": "best-hotas-throttle-dcs-2026",
+  "articleFile": "src/content/articles/space/best-hotas-throttle-dcs-2026.md",
+  "candidateForCertification": false,
+  "goldStatusLeftAs": "refresh",
+  "visualCount": 10,
+  "realProductImageCount": 10,
+  "affiliateLinksChecked": true,
+  "officialSpecsChecked": true,
+  "communityResearchChecked": true,
+  "faqUpdated": true,
+  "internalLinksUpdated": true,
+  "sourceShelfUpdated": true,
+  "needsCodexGraphics": true,
+  "blocksCertification": [
+    "Two headline products (Virpil MongoosT-50CM3, WinWing Orion 2 HOTAS/base) have NO verified in-house product image and are text-only in the body. For a buying guide whose top overall pick is the MongoosT-50CM3, the missing flagship photo is a real certification gap — source verified photos before certifying, or accept the honest text-only shortfall.",
+    "US$ prices for the Virpil MongoosT-50CM3 (~$380, base ~369.95 EUR), VKB STECS Mk.II Standard (~$289, EU ~339 EUR), and WinWing Orion 2 F-16EX (~$460-500) are quoted as approximate / 'check current' because live US$ figures were not cleanly retrievable (Virpil US store 403s automated fetch; VKB/WinWing US pages surfaced no price). Confirm exact US prices before certifying. Only the Thrustmaster Warthog Dual Throttle ($349.99) is a hard, verified figure.",
+    "Product-data drift: src/data/products/space.json lists the MongoosT-50CM3 with FOUR detent profiles; current VirPil source shows FIVE (adds 'Classic Plus'). Article uses FIVE with a source; reconcile the product JSON before certifying."
+  ],
+  "notes": "Full gold-structure rewrite. Author set to Val Chen (= space curator); goldStatus left as 'refresh' per run rules (NOT certified). Added sourceReviewDate 2026-07-02, updatedDate 2026-07-02, revenueTier A, contentCluster space, featured true. heroImage repointed to a VERIFIED path (/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg) — the prior hero (/images/space/best-hotas-throttle-dcs-2026.jpg) was not a verified product image. Body is verdict-first (bold opening ladder), with a what-good-means spec section, a 2026 tier table, five tier sections (budget T.16000M FCS HOTAS, mid WinWing Orion 2, value-flagship VKB STECS, flagship Virpil MongoosT-50CM3, prestige Warthog Dual Throttle), a stick-pairing section, a 3-warning setup-tax block, a HOSAS-contrast section, a buy order, a 'What to buy' stack, and a dated Sources Checked shelf with REAL retrieved links. 5 faqs. related[] = best-hotas-for-star-citizen, hosas-vs-hotas, best-space-sim-controllers-2026 (all exist). IMAGE INTEGRITY: exactly 10 <img> tags in body, ALL 7 distinct paths verified in verified-product-images.json; hero also verified. The 2 unverified images from the prior pass (virpil-mongoost-50cm3-throttle.jpg, winwing-orion-2-hotas-f16ex.jpg) were REMOVED and those products are now text + Amazon-search/official links only. All 9 internal /space/gear/ links resolve to products WITH verified images (confirmed the gear route only builds verified products), so no gear-page 404s. `npx astro build` passes (187 pages, no errors); the article correctly does NOT emit a standalone HTML page because the [bay]/[slug] route gates on isCertifiedArticle (goldStatus==='certified') — identical behavior to the gold-refresh reference articles hosas-vs-hotas and vkb-vs-virpil-vs-winwing. gearpick review link label = 'Spec card', buy label = 'Check Amazon' per reference pattern. No git/deploy performed.",
+  "blockers": [
+    "Verified photos needed for Virpil MongoosT-50CM3 and WinWing Orion 2 (HOTAS + base) before they can be body visuals or before certification.",
+    "Confirm exact US$ prices for MongoosT-50CM3, VKB STECS, WinWing Orion 2 (left as check-current) before certifying.",
+    "Reconcile MongoosT-50CM3 detent-profile count in product JSON (4 -> 5)."
+  ]
+}

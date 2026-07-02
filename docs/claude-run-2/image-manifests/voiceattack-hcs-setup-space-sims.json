@@ -1,0 +1,85 @@
+{
+  "slug": "voiceattack-hcs-setup-space-sims",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "B",
+  "visualGoal": "Make a bind-drowning Star Citizen / Elite pilot understand that their voice is a free, unlimited input pool for ~$10 — and honestly frame the Stream Deck panel as the no-config hardware alternative. This is a low-product-density SOFTWARE how-to: no forced product cards. Visual weight should come from Codex infographics (cost ladder, decision tree, setup flow), not from padding hardware gearpicks. Only one genuinely relevant verified product image exists (Stream Deck XL) and it is used sparingly.",
+  "realProductPhotosNeeded": [],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-voice-vs-panel",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic dim home space-sim cockpit desk at night lit in cyan and magenta monitor glow, a headset boom mic in the foreground and an open desk area beside it left blank for a real Elgato Stream Deck XL product overlay, Star-Citizen-style starfield on the monitor (no real game UI, no copyrighted logos), the visual tension of 'talk to it OR press labeled keys', 16:9 editorial cover, no fake branded hardware, no fake game HUD.",
+      "realOverlays": ["/images/gear/space/elgato-stream-deck-xl.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, copyrighted game UI, warped keyboard, unreadable text, procedural gradient art, invented product hardware"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "voiceattack-cost-ladder",
+      "title": "What each layer costs and does",
+      "format": "1600x1000",
+      "content": [
+        "VoiceAttack v2 ~$10 (REQUIRED) — voice to keypress engine",
+        "Free community profile — prebuilt binds you adapt",
+        "HCS Voice Pack ~£10-23 (optional) — talking copilot personality",
+        "HCS starter bundle ~£26.99 — pack + sometimes VoiceAttack",
+        "Decent headset mic — the real make-or-break",
+        "WhisperAttack (free, NVIDIA GPU) — offline AI accuracy fix"
+      ],
+      "style": "IgnitionSim command-center stacked ladder, required tier highlighted, large readable text, space cyan/magenta palette, prices tagged 'approx / check current'"
+    },
+    {
+      "id": "voice-vs-panel-decision-tree",
+      "title": "Voice, panel, or both?",
+      "format": "1600x1000",
+      "content": [
+        "Do you run out of stick buttons? No -> you need neither",
+        "Hate config / noisy room? -> Stream Deck XL (labeled hardware)",
+        "Want a talking copilot fantasy? -> VoiceAttack + HCS pack",
+        "Want max coverage + immersion? -> run BOTH (panel for deliberate, voice for conversational)"
+      ],
+      "style": "Clean branching decision tree, space palette, arrows, one clear endpoint per branch, no product photos required"
+    },
+    {
+      "id": "voiceattack-setup-flow",
+      "title": "The 6-step setup that avoids misfires",
+      "format": "1600x1000",
+      "content": [
+        "1 Bind everything in-game to keyboard keys",
+        "2 Install VoiceAttack + TRAIN Windows Speech Recognition",
+        "3 Import a community profile, remap to your binds",
+        "4 Use a real headset/desk mic",
+        "5 Set push-to-talk or a wake keyword",
+        "6 Tune phrasing for phonetic distinctness"
+      ],
+      "style": "Numbered horizontal flow, steps 2 and 4 flagged as 'skip these = misfires', space palette, large readable text"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-voice-tip",
+      "prompt": "Realistic adult sim-hardware curator Val Chen at a tidy dual-monitor space-sim desk wearing a headset, one hand resting near a labeled macro panel, calm knowledgeable energy, cyan/magenta rim light, product-overlay space to one side, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "voiceattack-profile-editor",
+      "need": "A clean VoiceAttack profile-editor screenshot showing a phrase -> keypress command (e.g. 'deploy landing gear' -> a keybind), to illustrate the core mechanic in the 'What VoiceAttack actually does' section.",
+      "sourceHint": "Capture from VoiceAttack itself or use an official/press screenshot; verify licensing before embedding. Do NOT embed copyrighted game HUD.",
+      "status": "optional-nice-to-have"
+    }
+  ],
+  "openQuestions": [
+    "Exact current USD price for HCS packs / ASTRA 2 starter bundle (store is GBP; FX + sales swing) before any hard dollar figure is quoted.",
+    "Current Elgato Stream Deck XL street price ($225 sale vs $250 MSRP) and MK.2 price at certification time.",
+    "WhisperAttack current minimum VRAM / release requirements — re-confirm on GitHub (fast-moving).",
+    "Is any current HCS pack attributable to a genuinely well-known celebrity/sci-fi actor? Not substantiated on pages checked — keep 'professional voice actors' unless verified.",
+    "Should we source a licensed VoiceAttack profile-editor screenshot to raise the visual count without forcing hardware cards?"
+  ]
+}

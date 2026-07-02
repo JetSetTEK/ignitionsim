@@ -1,0 +1,84 @@
+{
+  "slug": "best-controls-for-elite-dangerous",
+  "bay": "space",
+  "curator": "Val Chen",
+  "priority": "A",
+  "visualGoal": "Make an Elite pilot see their own loop in the rig — FA-off combat pilots want the two-stick HOSAS, explorers want the throttle, and everyone now needs a gamepad on the desk for Operations on-foot fights. Real controller product proof throughout; no procedural art. Every embedded image is a verified in-house product photo.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Turtle Beach VelocityOne Flightstick (space-bay copy)",
+      "preferredLocalPath": "/images/gear/space/turtle-beach-velocityone-flightstick.jpg",
+      "officialSourceUrl": "https://www.turtlebeach.com/products/velocity-one-flight-stick",
+      "amazonUrl": "https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "The main licensed Xbox flight stick — the ONLY console option and a real buyer need for this article. A verified image EXISTS in the flight bay (/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg) but NOT at the space-bay path, so it is text-only here per the hard image rule. Source a space-bay copy (or clear cross-bay reuse) to promote it to a gearpick/shotgrid and remove the Xbox-section visual gap."
+    },
+    {
+      "product": "Logitech G X56 H.O.T.A.S",
+      "preferredLocalPath": "/images/gear/space/logitech-x56-hotas.jpg",
+      "officialSourceUrl": "https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html",
+      "amazonUrl": "https://www.amazon.com/s?k=Logitech+G+X56+HOTAS&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Popular Elite exploration HOTAS (real dual-lever throttle, wall of switches). No in-house image and no product record in space.json; stock intermittent through 2026. Text-only, no hard price quoted. Source a photo + add a product record if it stays a headline exploration pick."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/space/thrustmaster-t16000m-fcs.jpg",
+    "/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg",
+    "/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg",
+    "/images/gear/space/monstertech-table-mount.jpg",
+    "/images/gear/space/elgato-stream-deck-xl.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-two-questions",
+      "type": "AI scene + real product composite",
+      "prompt": "Realistic Elite Dangerous home cockpit at night lit in cockpit-cyan and amber, a rigid desk with an empty clamp-mount plate left open on the left AND right for real dual-stick product overlays, a gamepad resting on the desk edge in reach, a monitor showing a generic star-field cockpit HUD (no real game UI, no logos), curator Val Chen seated mid-decision, 16:9 editorial cover.",
+      "realOverlays": ["/images/gear/space/thrustmaster-t16000m-fcs.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake game UI, real Elite Dangerous HUD, warped sticks, impossible ergonomics, tiny unreadable text, procedural gradient art"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "match-controls-to-playstyle",
+      "title": "Match the controls to how you play Elite",
+      "format": "1600x1000",
+      "content": ["Combat / FA-off -> HOSAS (two sticks)", "Exploration / trading -> HOTAS (stick + throttle)", "Do everything / on-foot -> gamepad on the desk", "Xbox -> licensed single stick"],
+      "style": "IgnitionSim command-center chart, large readable text, space-cyan/amber palette, real controller photos as row markers for Codex overlay"
+    },
+    {
+      "id": "six-axis-explainer",
+      "title": "Why two sticks reach all six axes",
+      "format": "1600x1000",
+      "content": ["Pitch / yaw / roll (rotation)", "Forward/back thrust", "Lateral strafe (analog on HOSAS, button on HOTAS)", "Vertical strafe (analog on HOSAS, button on HOTAS)", "HOTAS = 4 analog + buttons | HOSAS = 6 analog"],
+      "style": "Diagram of a ship with six labeled axis arrows, HOSAS vs HOTAS split, product-photo placeholders for Codex overlays"
+    },
+    {
+      "id": "elite-buy-order",
+      "title": "Elite controls buy order",
+      "format": "1600x1000",
+      "content": ["1 Config by main activity", "2 Start cheap (Duo or FCS HOTAS)", "3 Ambidextrous-twice or L+R pair", "4 Two Monstertech mounts", "5 Stream Deck for binds", "6 Gamepad on a separate profile", "7 Only then climb to boutique"],
+      "style": "Numbered ladder, product-photo placeholders for Codex overlays, space palette"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "val-hosas-vs-hotas-tip",
+      "prompt": "Realistic adult space-sim curator Val Chen in a clean home cockpit bay, one hand on a mounted flight stick with a second mount visible beside it, thoughtful command-station energy, product overlay space to one side, practical not fantasy, 4:5 portrait.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "need": "Generic Elite-style cockpit / on-foot Operations context shot",
+      "notes": "Optional supporting visual for the Operations section. Must be royalty-clear or first-party press media — do NOT scrape in-game screenshots without rights. Article stands without it; all required proof is real product photos."
+    }
+  ],
+  "openQuestions": [
+    "Operations scope: does zero-G / megaship-interior content actually ship, or is it squad missions + cooperative on-foot combat + the Nomad SLV only? Wiki and news write-ups conflict; body hedges to 'Frontier's pitch / check current patch notes'.",
+    "Operations exact release date: 30 June 2026 (wiki) vs July 1 2026 (Simulation Daily)? Body says 'late June 2026'.",
+    "Promote Turtle Beach to a visual by sourcing a space-bay copy, or is cross-bay reuse of the verified flight-bay image acceptable in the render?",
+    "Keep Logitech X56 as a headline exploration pick (then source a photo + product record) or demote it to a passing mention?"
+  ]
+}

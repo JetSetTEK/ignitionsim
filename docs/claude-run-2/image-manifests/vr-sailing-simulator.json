@@ -1,0 +1,80 @@
+{
+  "slug": "vr-sailing-simulator",
+  "bay": "marine",
+  "curator": "Gus Calder",
+  "priority": "B",
+  "visualGoal": "Make a would-be sailor feel that VR is the one path that skips the whole marine hardware problem — hands are the helm — while being honest that it's sailing-only and the headset is the real cost. This is a LOW-product-density explainer: prove the single relevant product (Meta Quest 3) with a verified photo, then carry the page on cost/scorecard tables, a numbered buy order, and comfort/training callouts rather than a product grid. Do NOT force product cards.",
+  "realProductPhotosNeeded": [
+    {
+      "product": "Meta Touch controllers (as VR sailing tiller/sheet input)",
+      "preferredLocalPath": "/images/gear/marine/meta-quest-touch-controllers-sailing.jpg",
+      "officialSourceUrl": "https://www.meta.com/quest/quest-3/",
+      "amazonUrl": "https://www.amazon.com/s?k=Meta+Quest+Touch+Plus+controllers&tag=ignitionsim-20",
+      "status": "needs-download",
+      "notes": "Article makes a controllers-vs-hand-tracking point (controllers for racing precision, hands for skill-building). Currently text/tip-callout only because no verified in-context photo. Controllers ship in-box, so this is a supporting visual, not a product card. Low priority."
+    }
+  ],
+  "verifiedProductPhotosUsed": [
+    "/images/gear/marine/meta-quest-3-marineverse-vr.jpg"
+  ],
+  "editorialCompositePrompts": [
+    {
+      "id": "hero-hands-are-the-helm",
+      "type": "AI scene + real product composite",
+      "prompt": "Editorial 16:9 cover: a person seated in a swivel chair wearing a VR headset, gloved-look hands reaching out as if gripping an invisible tiller and sheet line, a teal ocean horizon and sail silhouette suggested as soft ambient reflection, warm rim light, calm not frantic, leave clean overlay space for a real Meta Quest 3 product cut-out. No fake branded hardware, no fake UI, no readable fake logos.",
+      "realOverlays": ["/images/gear/marine/meta-quest-3-marineverse-vr.jpg"],
+      "labelRequired": "AI scene + real product composite",
+      "negativePrompt": "fake logos, fake headset brand marks, warped hands, extra fingers, impossible ergonomics, tiny unreadable text, procedural gradient art, seasick-green cliche"
+    }
+  ],
+  "infographicPrompts": [
+    {
+      "id": "vr-sailing-cost-2026",
+      "title": "What VR sailing actually costs in 2026",
+      "format": "1600x1000",
+      "content": ["Quest 3S 128GB $349.99 (Fresnel lenses)", "Quest 3 512GB $599.99 (pancake, sharper on the water)", "MarineVerse app ~$10-30 (check current sale)", "NauticEd Self Mastery + Nav Rules FREE", "Sailing Pass + Docking module = optional paid upgrades"],
+      "style": "IgnitionSim command-center chart, large readable text, marine teal/gold palette, real Quest 3 photo as the anchor row marker for Codex overlay. Label prices as of April 2026 Meta pricing."
+    },
+    {
+      "id": "vr-vs-physical-helm-scorecard",
+      "title": "VR sailing vs. a physical helm rig",
+      "format": "1600x1000",
+      "content": ["VR wins: no hardware, hand-tracked tiller/sheet, NauticEd training, cross-VR reuse", "Physical wins: engine/throttle realism, long-session comfort, multi-monitor charting/ECDIS, lower up-front cost", "Decision hinge: are you a SAILOR or a SHIP HANDLER?"],
+      "style": "Two-column comparison, marine palette, clear win/lose iconography, no star ratings, no brand ranking"
+    },
+    {
+      "id": "vr-comfort-ramp",
+      "title": "Beat VR sailing motion sickness",
+      "format": "1600x1000",
+      "content": ["Sit in a swivel chair (turn with the boat)", "Start with 15-minute sessions", "Keep the room cool + ventilated", "Lean on 90Hz+ refresh (Quest 3)", "Sea legs in about a week"],
+      "style": "Numbered ladder, calm marine palette, reassuring not alarming (this is a comfort tip, keep it boring/helpful)"
+    }
+  ],
+  "curatorScenePrompts": [
+    {
+      "id": "gus-vr-sailing-take",
+      "prompt": "Realistic adult marine-sim curator Gus Calder in a tidy home study, VR headset resting on the desk beside a nautical chart and a coffee, one hand gesturing as if explaining the tiller motion, practical and grounded not fantasy, warm daylight, 4:5 portrait, leave space for a caption.",
+      "labelRequired": "AI curator scene"
+    }
+  ],
+  "screenshotsOrGameMediaNeeded": [
+    {
+      "id": "marineverse-in-headset-sailing",
+      "need": "A MarineVerse Sailing Club in-headset gameplay still showing hands on the tiller/sheet with a boat heeling and a course mark ahead — proves the 'your hands are the helm' claim and the spatial wind/telltale point.",
+      "sourceHint": "MarineVerse press kit / Meta store listing media (rights-check before use).",
+      "status": "needs-sourcing"
+    },
+    {
+      "id": "nauticed-training-room-vr",
+      "need": "A screenshot of the NauticEd Training Room module inside MarineVerse (Self Mastery or Docking) to back the 'real course integration' claim.",
+      "sourceHint": "NauticEd VR sailing course page / MarineVerse media (rights-check).",
+      "status": "needs-sourcing"
+    }
+  ],
+  "openQuestions": [
+    "True non-sale base price of MarineVerse Sailing Club? Sources diverge ($19.99 NauticEd vs $29.99 QuestStoreDB base). Article says '~$10-30, check current' to stay safe.",
+    "Sailing Pass model: QuestStoreDB shows a 12-month pass ($99.99/$49.99), but marine.json says '~$13/month' — reconcile monthly vs annual and fix marine.json.",
+    "marine.json Quest priceNote ('$499-649') is stale after Meta's April 2026 increase ($599.99 for 512GB). Update the product JSON priceNote in a follow-up pass.",
+    "Do we want to source any rights-cleared MarineVerse in-headset media, or keep this explainer verified-product-photo-only (currently just the Quest 3)?"
+  ]
+}
