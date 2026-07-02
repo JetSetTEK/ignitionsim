@@ -17,3 +17,10 @@ export function getCrewForBay(bay: string) {
   if (bay === 'marine') return allCrew.find((person) => person.name === 'Gus Calder') || allCrew[0];
   return allCrew.find((person) => person.name === 'Duke Alvarez') || allCrew[0];
 }
+
+// Resolve an article's `author` string (e.g. "Nina Brooks") to a curator record.
+export function getCuratorByName(name: string) {
+  if (!name) return undefined;
+  const target = String(name).trim().toLowerCase();
+  return allCrew.find((person) => String(person.name).trim().toLowerCase() === target);
+}

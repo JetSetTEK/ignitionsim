@@ -1,0 +1,102 @@
+/* ============================================================
+   IgnitionSim — Per-Bay Immersion
+   Additive, [data-bay]-scoped signature atmosphere so each bay
+   feels like its world: racing speed-streaks, flight HUD horizon,
+   space starfield, golf fairway contours, marine sonar rings.
+   Overlays are pointer-events:none, screen-blended, low-opacity —
+   they never touch layout or shared surfaces, and there is no
+   animation (safe for reduced-motion + performance).
+   ============================================================ */
+
+/* ---- per-bay signature texture token ---- */
+[data-bay="racing"] {
+  --bay-weave:
+    repeating-linear-gradient(118deg, transparent 0 24px, color-mix(in srgb, var(--accent) 9%, transparent) 24px 26px, transparent 26px 30px);
+}
+[data-bay="flight"] {
+  --bay-weave:
+    repeating-linear-gradient(0deg, transparent 0 29px, color-mix(in srgb, var(--accent) 8%, transparent) 29px 30px);
+}
+[data-bay="space"] {
+  --bay-weave:
+    radial-gradient(1.5px 1.5px at 11% 17%, rgba(255,255,255,.55), transparent 60%),
+    radial-gradient(1.3px 1.3px at 27% 61%, rgba(255,255,255,.4), transparent 60%),
+    radial-gradient(1.7px 1.7px at 44% 29%, color-mix(in srgb, var(--accent) 72%, #fff), transparent 60%),
+    radial-gradient(1.2px 1.2px at 63% 73%, rgba(255,255,255,.42), transparent 60%),
+    radial-gradient(1.6px 1.6px at 80% 21%, rgba(255,255,255,.5), transparent 60%),
+    radial-gradient(1.3px 1.3px at 90% 55%, color-mix(in srgb, var(--accent) 62%, #fff), transparent 60%),
+    radial-gradient(1.4px 1.4px at 54% 86%, rgba(255,255,255,.36), transparent 60%);
+  --bay-weave-op: .8;
+}
+[data-bay="golf"] {
+  --bay-weave:
+    repeating-linear-gradient(162deg, transparent 0 38px, color-mix(in srgb, var(--accent) 7%, transparent) 38px 40px);
+}
+[data-bay="marine"] {
+  --bay-weave:
+    repeating-radial-gradient(circle at 84% 120%, transparent 0 32px, color-mix(in srgb, var(--accent) 8%, transparent) 32px 34px);
+}
+
+/* ---- signature texture overlay on the bay world-section + editorial family ----
+   Mirrors the existing ::after grid overlay: a pointer-events:none, screen-blended,
+   low-opacity accent texture. Additive; never affects layout. ---- */
+[data-bay] .bay-world-section::before,
+[data-bay] .bay-dream-brief::before,
+[data-bay] .article-evidence::before,
+[data-bay] .article-world-related::before,
+[data-bay] .shop-band::before,
+[data-bay] .profile-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: var(--bay-weave, none);
+  opacity: var(--bay-weave-op, .6);
+  mix-blend-mode: screen;
+}
+
+/* ---- per-bay hero scrim: distinct glow position + signature texture ----
+   Only the dedicated scrim DIVs are re-painted (they exist purely as overlays),
+   so the readability gradient is preserved while glow + texture change per bay. */
+[data-bay="racing"] .bay-hero-scrim,
+[data-bay="racing"] .article-topper-scrim {
+  background:
+    var(--bay-weave),
+    radial-gradient(620px 440px at 88% 80%, color-mix(in srgb, var(--accent) 26%, transparent), transparent 70%),
+    linear-gradient(90deg, rgba(16,24,32,.80), rgba(16,24,32,.12) 62%),
+    linear-gradient(180deg, transparent, rgba(16,24,32,.42));
+}
+[data-bay="flight"] .bay-hero-scrim,
+[data-bay="flight"] .article-topper-scrim {
+  background:
+    var(--bay-weave),
+    radial-gradient(700px 380px at 50% 0%, color-mix(in srgb, var(--accent) 24%, transparent), transparent 70%),
+    linear-gradient(90deg, rgba(16,24,32,.76), rgba(16,24,32,.10) 64%),
+    linear-gradient(180deg, transparent, rgba(16,24,32,.40));
+}
+[data-bay="space"] .bay-hero-scrim,
+[data-bay="space"] .article-topper-scrim {
+  background:
+    var(--bay-weave),
+    radial-gradient(520px 440px at 84% 10%, color-mix(in srgb, var(--accent) 28%, transparent), transparent 66%),
+    radial-gradient(440px 380px at 6% 94%, color-mix(in srgb, var(--accent2) 24%, transparent), transparent 70%),
+    linear-gradient(90deg, rgba(16,24,32,.82), rgba(16,24,32,.14) 60%),
+    linear-gradient(180deg, transparent, rgba(16,24,32,.46));
+}
+[data-bay="golf"] .bay-hero-scrim,
+[data-bay="golf"] .article-topper-scrim {
+  background:
+    var(--bay-weave),
+    radial-gradient(660px 440px at 90% 4%, color-mix(in srgb, var(--accent) 24%, transparent), transparent 72%),
+    linear-gradient(90deg, rgba(16,24,32,.72), rgba(16,24,32,.08) 64%),
+    linear-gradient(180deg, transparent, rgba(16,24,32,.38));
+}
+[data-bay="marine"] .bay-hero-scrim,
+[data-bay="marine"] .article-topper-scrim {
+  background:
+    var(--bay-weave),
+    radial-gradient(580px 460px at 86% 90%, color-mix(in srgb, var(--accent) 26%, transparent), transparent 70%),
+    linear-gradient(90deg, rgba(16,24,32,.78), rgba(16,24,32,.12) 60%),
+    linear-gradient(180deg, transparent, rgba(16,24,32,.42));
+}

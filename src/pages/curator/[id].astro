@@ -12,7 +12,8 @@ export function getStaticPaths() {
 }
 
 const { id } = Astro.params;
-const person = getCrewBySlug(id || '') || allCrew[0];
+const person = (getCrewBySlug(id || '') || allCrew[0]) as any;
+const first = String(person.name).split(' ')[0];
 const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const ownedArticles = articles.filter((entry) => {
   const curator = getCrewForBay(entry.data.bay);
@@ -22,27 +23,56 @@ const ownedArticles = articles.filter((entry) => {
 const primaryBay = person.name === 'Nina Brooks' ? 'golf'
   : person.name === 'Gus Calder' ? 'marine'
   : person.name === 'Val Chen' ? 'space'
+  : person.name === 'Mac Donovan' ? 'racing'
   : 'racing';
 const world = getWorldForBay(primaryBay);
-const schema = [{
-  '@context': 'https://schema.org',
-  '@type': 'ProfilePage',
-  name: `${person.name} · IgnitionSim curator`,
-  description: person.profile,
-  url: new URL(`/curator/${crewSlug(person)}`, site.url).href,
-}];
+const crest = `/images/crew/crest-${crewSlug(person)}.svg`;
+const takes = (person.signatureTakes || []) as { q: string; a: string }[];
+const hills = (person.hillsToDieOn || []) as string[];
+const expertise = (person.expertise || []) as string[];
+
+const schema: Record<string, any>[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ProfilePage',
+    name: `${person.name} · IgnitionSim curator`,
+    description: person.profile,
+    url: new URL(`/curator/${crewSlug(person)}`, site.url).href,
+    mainEntity: {
+      '@type': 'Person',
+      name: person.name,
+      description: person.authorBio || person.profile,
+      image: new URL(person.image, site.url).href,
+      knowsAbout: expertise,
+      worksFor: { '@type': 'Organization', name: site.name, url: site.url },
+    },
+  },
+];
+if (takes.length) {
+  schema.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: takes.map((tk) => ({
+      '@type': 'Question', name: tk.q,
+      acceptedAnswer: { '@type': 'Answer', text: tk.a },
+    })),
+  });
+}
 ---
-<Base title={`${person.name}: IgnitionSim Curator`} description={person.profile} image={person.image} schema={schema}>
+<Base title={`${person.name}: IgnitionSim Curator`} description={person.authorBio || person.profile} bay={primaryBay} image={crest} schema={schema}>
   <section class="profile-hero" style={`--world-bg: url('${world.image}')`}>
     <div class="wrap profile-grid">
       <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/curators">Curators</a><span>/</span>{person.name}</nav>
       <div class="profile-copy">
-        <span class="lbl lbl-accent">{person.handle}</span>
+        <span class="lbl lbl-accent">{person.handle} · bench crew</span>
         <h1>{person.name}</h1>
-        <p class="motto">{person.motto}</p>
+        <p class="tagline">{person.tagline}</p>
+        <p class="motto">&ldquo;{person.catchphrase || person.motto}&rdquo;</p>
         <p>{person.profile}</p>
+        <p class="since">{person.since}</p>
         <div class="profile-actions">
-          <a class="btn btn-primary btn-lg" href="#guides">Open guide shelf</a>
+          <a class="btn btn-primary btn-lg" href="#takes">Ask {first}</a>
+          <a class="btn btn-lg" href="#guides">Guide shelf</a>
           <a class="btn btn-lg" href={`/${primaryBay}`}>Enter {primaryBay} bay</a>
         </div>
       </div>
@@ -58,20 +88,86 @@ const schema = [{
   </section>
 
   <div class="wrap profile-body">
-    <section class="profile-rules">
-      <article>
-        <span>Bench move</span>
-        <p>{person.benchMove}</p>
-      </article>
-      <article>
-        <span>Voice</span>
-        <p>{person.voice}</p>
-      </article>
-      <article>
-        <span>Beat</span>
-        <p>{person.beat}</p>
-      </article>
+    <figure class="crest-band">
+      <img src={crest} alt={`${person.name} signature bench card — ${person.tagline}`} loading="lazy" decoding="async" />
+    </figure>
+
+    <section class="shop-band" style={`--world-bg: url('${world.image}')`}>
+      <div class="shop-media">
+        <img src={person.scene} alt={person.sceneAlt} loading="lazy" decoding="async" />
+        <span class="ai-scene-badge">AI editorial scene</span>
+      </div>
+      <div class="shop-copy">
+        <span class="lbl lbl-accent">How {first} got here</span>
+        <p class="origin">{person.origin}</p>
+        <p class="trust"><b>Why trust {first}:</b> {person.trustLine}</p>
+      </div>
     </section>
+
+    <section class="know-band">
+      <div class="know-head">
+        <span class="lbl lbl-accent">// What {first} actually knows</span>
+        <h2>{person.credentials}</h2>
+      </div>
+      <ul class="expertise-tags">
+        {expertise.map((e) => <li>{e}</li>)}
+      </ul>
+    </section>
+
+    <section class="gear-band">
+      <article class="gear-spot">
+        <span class="lbl lbl-accent">Signature gear · never travels without</span>
+        <h3>{person.signatureGear?.name}</h3>
+        <p>{person.signatureGear?.why}</p>
+      </article>
+      <aside class="rig-spot">
+        <span class="lbl">On {first}'s bench right now</span>
+        <p class="rig">{person.nowRunning}</p>
+        <div class="rig-meta">
+          <div><span>Favorite sim</span><b>{person.favoriteSim}</b></div>
+          <div><span>Pet peeve</span><b>{person.petPeeve}</b></div>
+        </div>
+      </aside>
+    </section>
+
+    {hills.length > 0 && (
+      <section class="hills-band">
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">Hills {first} will die on</span>
+            <h2>The opinions that survive the launch hype.</h2>
+          </div>
+        </div>
+        <div class="hills-grid">
+          {hills.map((h, i) => (
+            <article class="hill-card">
+              <span class="hill-n">{String(i + 1).padStart(2, '0')}</span>
+              <p>{h}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {takes.length > 0 && (
+      <section class="takes-band" id="takes">
+        <div class="sec-head">
+          <div>
+            <span class="lbl lbl-accent">// Ask {first}</span>
+            <h2>Real questions, straight answers.</h2>
+          </div>
+          <span class="lbl">{person.voice}</span>
+        </div>
+        <div class="takes-list">
+          {takes.map((tk) => (
+            <article class="take">
+              <h3>{tk.q}</h3>
+              <p>{tk.a}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    )}
 
     <section class="sec profile-guides" id="guides">
       <div class="sec-head">
@@ -101,10 +197,7 @@ const schema = [{
 
 <style>
   .profile-hero {
-    position: relative;
-    overflow: hidden;
-    padding: 86px 0 52px;
-    color: #fff;
+    position: relative; overflow: hidden; padding: 86px 0 52px; color: #fff;
     background:
       radial-gradient(820px 380px at 84% 4%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 70%),
       linear-gradient(90deg, rgba(16,24,32,.95), rgba(16,24,32,.52)),
@@ -112,125 +205,87 @@ const schema = [{
     border-bottom: 3px solid #101820;
   }
   .profile-hero::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background:
-      linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
-    background-size: 46px 46px;
-    opacity: .34;
-    mix-blend-mode: screen;
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+    background-size: 46px 46px; opacity: .34; mix-blend-mode: screen;
   }
-  .profile-grid {
-    position: relative;
-    z-index: 1;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 360px;
-    gap: 30px;
-    align-items: end;
-  }
+  .profile-grid { position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 30px; align-items: end; }
   .profile-grid .crumbs { grid-column: 1 / -1; color: rgba(255,255,255,.72); }
   .profile-grid .crumbs a { color: rgba(255,255,255,.72); }
-  .profile-copy h1 {
-    max-width: 12ch;
-    margin: 10px 0 14px;
-    color: #fff;
-    font-size: clamp(3.2rem, 8vw, 7rem);
-    line-height: .84;
-    text-transform: uppercase;
+  .profile-copy h1 { max-width: 14ch; margin: 10px 0 8px; color: #fff; font-size: clamp(3rem, 7.4vw, 6.4rem); line-height: .86; text-transform: uppercase; }
+  .profile-copy .tagline { max-width: 40ch; color: color-mix(in srgb, var(--accent) 76%, #fff); font-weight: 800; font-size: clamp(1.15rem, 2vw, 1.5rem); }
+  .profile-copy p { max-width: 66ch; color: rgba(255,255,255,.82); line-height: 1.65; }
+  .profile-copy .motto { margin: 12px 0; color: #fff; font-size: clamp(1.2rem, 2.1vw, 1.6rem); font-weight: 900; line-height: 1.2; }
+  .profile-copy .since { margin-top: 14px; font-family: var(--font-mono); font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: color-mix(in srgb, var(--accent) 68%, #fff); }
+  .profile-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
+  .profile-card { overflow: hidden; border: 2px solid rgba(255,255,255,.42); border-radius: 20px; background: rgba(255,255,255,.94); color: #101820; box-shadow: 0 12px 0 rgba(16,24,32,.2), 0 34px 84px rgba(0,0,0,.24); }
+  .profile-card img { width: 100%; aspect-ratio: 4 / 4.6; object-fit: cover; object-position: center top; display: block; }
+  .profile-card div { padding: 18px; }
+  .profile-card span { color: var(--accent); font-family: var(--font-mono); font-size: .6rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
+  .profile-card b { display: block; margin-top: 7px; font-size: 1.18rem; line-height: 1.25; }
+  .profile-card small { display: block; margin-top: 9px; color: #5d6a76; line-height: 1.45; }
+
+  .profile-body { padding: 30px 22px 72px; }
+
+  /* signature crest */
+  .crest-band { margin: 0 0 30px; border-radius: 22px; overflow: hidden; box-shadow: 0 14px 0 rgba(16,24,32,.12), 0 34px 70px rgba(16,24,32,.18); }
+  .crest-band img { display: block; width: 100%; height: auto; }
+
+  /* shop / origin band */
+  .shop-band {
+    position: relative; display: grid; grid-template-columns: 1.05fr 1fr; gap: 0; margin: 0 0 30px; overflow: hidden;
+    border: 2px solid rgba(16,24,32,.18); border-radius: 26px; background:
+      linear-gradient(90deg, rgba(16,24,32,.2), rgba(16,24,32,.62)), var(--world-bg) center / cover no-repeat #101820;
+    box-shadow: 0 14px 0 rgba(16,24,32,.12), 0 34px 78px rgba(16,24,32,.14);
   }
-  .profile-copy p {
-    max-width: 66ch;
-    color: rgba(255,255,255,.82);
-    line-height: 1.65;
-  }
-  .profile-copy .motto {
-    color: #fff;
-    font-size: clamp(1.25rem, 2.2vw, 1.75rem);
-    font-weight: 900;
-    line-height: 1.2;
-  }
-  .profile-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-top: 24px;
-  }
-  .profile-card {
-    overflow: hidden;
-    border: 2px solid rgba(255,255,255,.42);
-    border-radius: 20px;
-    background: rgba(255,255,255,.92);
-    color: #101820;
-    box-shadow: 0 12px 0 rgba(16,24,32,.2), 0 34px 84px rgba(0,0,0,.24);
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
-  }
-  .profile-card img {
-    width: 100%;
-    aspect-ratio: 4 / 4.6;
-    object-fit: cover;
-    object-position: center top;
-    display: block;
-  }
-  .profile-card div {
-    padding: 18px;
-  }
-  .profile-card span,
-  .profile-rules span {
-    color: var(--accent);
-    font-family: var(--font-mono);
-    font-size: .6rem;
-    font-weight: 900;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-  }
-  .profile-card b {
-    display: block;
-    margin-top: 7px;
-    font-size: 1.18rem;
-    line-height: 1.25;
-  }
-  .profile-card small {
-    display: block;
-    margin-top: 9px;
-    color: #5d6a76;
-    line-height: 1.45;
-  }
-  .profile-body { padding: 34px 22px 72px; }
-  .profile-rules {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-  }
-  .profile-rules article,
-  .profile-empty {
-    border: 2px solid rgba(16,24,32,.12);
-    border-radius: 18px;
-    padding: 20px;
-    background: #fff;
-    box-shadow: 0 9px 0 rgba(16,24,32,.09);
-  }
-  .profile-rules p {
-    margin-top: 10px;
-    color: #334155;
-    line-height: 1.58;
-  }
-  .profile-guide-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
-  }
-  .profile-empty p {
-    margin-top: 8px;
-    color: #435363;
-  }
+  .shop-media { position: relative; min-height: 320px; }
+  .shop-media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .shop-copy { position: relative; z-index: 1; padding: 30px 30px 34px; color: #fff; align-self: center; }
+  .shop-copy .origin { color: rgba(255,255,255,.9); line-height: 1.66; }
+  .shop-copy .trust { margin-top: 16px; padding: 14px 16px; border-left: 3px solid var(--accent); border-radius: 10px; background: rgba(255,255,255,.08); color: #fff; line-height: 1.55; }
+  .shop-copy .trust b { color: color-mix(in srgb, var(--accent) 72%, #fff); }
+
+  /* knows / credentials */
+  .know-band { margin: 0 0 30px; padding: 30px; border: 2px solid rgba(16,24,32,.12); border-radius: 24px; background: #fff; box-shadow: 0 10px 0 rgba(16,24,32,.07); }
+  .know-band .know-head h2 { margin-top: 10px; max-width: 60ch; font-size: clamp(1.3rem, 2.3vw, 1.9rem); line-height: 1.28; color: #182430; font-family: var(--font-body); font-weight: 700; }
+  .expertise-tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; padding: 0; list-style: none; }
+  .expertise-tags li { padding: 9px 14px; border: 1.5px solid color-mix(in srgb, var(--accent) 40%, var(--line)); border-radius: 999px; background: color-mix(in srgb, var(--accent) 8%, #fff); color: #223; font-size: .82rem; font-weight: 700; }
+
+  /* signature gear + rig */
+  .gear-band { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin: 0 0 30px; }
+  .gear-spot, .rig-spot { padding: 26px; border-radius: 22px; }
+  .gear-spot { border: 2px solid color-mix(in srgb, var(--accent) 40%, rgba(16,24,32,.14)); background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 12%, #fff), #fff 62%); box-shadow: 0 10px 0 color-mix(in srgb, var(--accent) 12%, rgba(16,24,32,.06)); }
+  .gear-spot h3 { margin: 8px 0 10px; font-size: 1.5rem; line-height: 1.15; color: #101820; }
+  .gear-spot p { color: #334155; line-height: 1.6; }
+  .rig-spot { border: 2px solid rgba(16,24,32,.14); background: #0f1822; color: #eaf1f7; }
+  .rig-spot .lbl { color: color-mix(in srgb, var(--accent) 70%, #fff); }
+  .rig-spot .rig { margin-top: 10px; line-height: 1.62; color: #d6e2ec; }
+  .rig-meta { display: grid; grid-template-columns: 1fr; gap: 12px; margin-top: 16px; }
+  .rig-meta span { color: color-mix(in srgb, var(--accent) 66%, #fff); font-family: var(--font-mono); font-size: .58rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+  .rig-meta b { display: block; margin-top: 4px; color: #fff; font-weight: 600; line-height: 1.4; font-size: .92rem; }
+
+  /* hills */
+  .hills-band, .takes-band { margin: 0 0 30px; }
+  .hills-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .hill-card { position: relative; padding: 22px 22px 22px; border: 2px solid rgba(16,24,32,.12); border-top: 4px solid var(--accent); border-radius: 16px; background: #fff; box-shadow: 0 9px 0 rgba(16,24,32,.07); }
+  .hill-n { font-family: var(--font-mono); font-size: 1.5rem; font-weight: 800; color: color-mix(in srgb, var(--accent) 70%, #101820); }
+  .hill-card p { margin-top: 8px; color: #2b3a49; line-height: 1.56; }
+
+  /* takes */
+  .takes-list { display: grid; gap: 14px; }
+  .take { padding: 22px 24px; border: 2px solid rgba(16,24,32,.12); border-left: 4px solid var(--accent); border-radius: 14px; background: #fff; box-shadow: 0 8px 0 rgba(16,24,32,.06); }
+  .take h3 { font-size: 1.16rem; color: #101820; line-height: 1.3; }
+  .take p { margin-top: 9px; color: #334155; line-height: 1.66; }
+
+  .profile-guides { scroll-margin-top: 80px; }
+  .profile-guide-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+  .profile-empty { border: 2px solid rgba(16,24,32,.12); border-radius: 18px; padding: 20px; background: #fff; }
+  .profile-empty p { margin-top: 8px; color: #435363; }
+
   @media (max-width: 980px) {
-    .profile-grid,
-    .profile-rules,
-    .profile-guide-grid { grid-template-columns: 1fr; }
+    .profile-grid, .gear-band, .hills-grid, .profile-guide-grid { grid-template-columns: 1fr; }
+    .shop-band { grid-template-columns: 1fr; }
+    .shop-media { min-height: 240px; }
     .profile-card { max-width: 420px; }
   }
 </style>

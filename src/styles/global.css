@@ -3,6 +3,7 @@
    Master shell chrome + components. Theme tokens in themes.css.
    ============================================================ */
 @import './themes.css';
+@import './bay-immersion.css';
 
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 

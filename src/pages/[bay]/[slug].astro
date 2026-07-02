@@ -10,6 +10,7 @@ import signals from '../../data/research-signals.json';
 import { isCertifiedArticle } from '../../lib/content';
 import { displayProductImage, hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
+import { getCuratorByName, crewSlug } from '../../lib/crew';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
@@ -27,6 +28,11 @@ const slug = entry.id.split('/').pop();
 const url = new URL(`/${d.bay}/${slug}`, site.url).href;
 
 const fmtDate = (x: Date) => new Date(x).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Resolve the article author to a curator record for linked byline + author box.
+const bylineCurator = getCuratorByName(d.author) as any;
+const curatorHref = bylineCurator ? `/curator/${crewSlug(bylineCurator)}` : null;
+const authorFirst = String(d.author).split(' ')[0];
 
 // related
 const related = (await getCollection('articles', ({ data }) => isCertifiedArticle(data)))
@@ -138,7 +144,7 @@ const schema: Record<string, any>[] = [
     image: articleHeroImage ? new URL(articleHeroImage, site.url).href : new URL('/og-default.png', site.url).href,
     datePublished: new Date(d.publishDate).toISOString(),
     dateModified: new Date(d.updatedDate || d.publishDate).toISOString(),
-    author: { '@type': 'Person', name: d.author, url: new URL('/about', site.url).href },
+    author: { '@type': 'Person', name: d.author, url: new URL(curatorHref || '/about', site.url).href },
     publisher: { '@type': 'Organization', name: site.name, logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', site.url).href } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     articleSection: `${bay.name} sim hardware`,
@@ -186,7 +192,7 @@ if (d.faqs.length) {
             <small>{dream.tip}</small>
           </div>
         )}
-        <p class="byline">By <b>{d.author}</b> · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
+        <p class="byline">By {curatorHref ? <a class="byline-link" href={curatorHref}><b>{d.author}</b></a> : <b>{d.author}</b>} · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
         <div class="article-share"><ShareButtons /></div>
       </div>
       {dream && heroProofProduct && (
@@ -365,6 +371,24 @@ if (d.faqs.length) {
       <p class="disclosure">{site.disclosure}</p>
     </div>
 
+    {bylineCurator && (
+      <aside class="author-card" data-bay={d.bay}>
+        <a class="author-portrait" href={curatorHref}>
+          <img src={bylineCurator.image} alt={bylineCurator.alt} loading="lazy" decoding="async" />
+        </a>
+        <div class="author-copy">
+          <span class="lbl lbl-accent">Written by · {bylineCurator.handle}</span>
+          <h3><a href={curatorHref}>{d.author}</a></h3>
+          <p class="author-catch">&ldquo;{bylineCurator.catchphrase || bylineCurator.motto}&rdquo;</p>
+          <p>{bylineCurator.authorBio}</p>
+          <div class="author-tags">
+            {(((bylineCurator.expertise || []) as string[]).slice(0, 4)).map((e) => <span>{e}</span>)}
+          </div>
+          <a class="btn btn-primary" href={curatorHref}>More from {authorFirst} &#9656;</a>
+        </div>
+      </aside>
+    )}
+
     {related.length > 0 && (
       <section class="sec article-world-related" style={`--world-bg: url('${world.image}')`}>
         <div class="sec-head"><h2>Keep reading</h2></div>
@@ -382,6 +406,24 @@ if (d.faqs.length) {
 </Base>
 
 <style>
+  .byline-link { color: color-mix(in srgb, var(--accent) 82%, #fff); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 46%, transparent); }
+  .byline-link:hover { color: #fff; }
+  .author-card {
+    max-width: 1000px; margin: 30px auto; display: grid; grid-template-columns: 150px 1fr; gap: 22px; align-items: center;
+    padding: 22px; border: 2px solid color-mix(in srgb, var(--accent) 30%, rgba(16,24,32,.14)); border-radius: 22px;
+    background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 8%, #fff), #fff 60%);
+    box-shadow: 0 10px 0 rgba(16,24,32,.07), 0 30px 60px rgba(16,24,32,.08);
+  }
+  .author-portrait { display: block; overflow: hidden; border-radius: 16px; border: 2px solid color-mix(in srgb, var(--accent) 34%, rgba(16,24,32,.14)); background: #101820; }
+  .author-portrait img { display: block; width: 100%; aspect-ratio: 4 / 4.6; object-fit: cover; object-position: center top; }
+  .author-copy h3 { margin: 6px 0; font-size: 1.5rem; }
+  .author-copy h3 a { color: #101820; text-decoration: none; }
+  .author-copy .author-catch { color: color-mix(in srgb, var(--accent) 58%, #101820); font-weight: 800; font-style: italic; }
+  .author-copy > p { color: #334155; line-height: 1.6; margin-top: 6px; }
+  .author-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 14px; }
+  .author-tags span { padding: 6px 11px; border: 1px solid color-mix(in srgb, var(--accent) 34%, var(--line)); border-radius: 999px; background: color-mix(in srgb, var(--accent) 7%, #fff); font-size: .74rem; font-weight: 700; color: #223; }
+  @media (max-width: 640px) { .author-card { grid-template-columns: 1fr; } .author-portrait { max-width: 180px; } }
+
   .article-evidence {
     max-width: 1000px;
     margin: 24px auto 28px;

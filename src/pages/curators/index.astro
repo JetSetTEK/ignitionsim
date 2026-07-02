@@ -44,15 +44,18 @@ const schema = [{
             <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
           </a>
           <div class="curator-copy">
-            <span>{person.handle}</span>
+            <span>{person.handle} · {(person as any).tagline}</span>
             <h2>{person.name}</h2>
-            <p class="motto">{person.motto}</p>
+            <p class="motto">&ldquo;{(person as any).catchphrase || person.motto}&rdquo;</p>
             <p>{person.profile}</p>
+            <ul class="crew-tags">
+              {(((person as any).expertise || []) as string[]).slice(0, 4).map((e) => <li>{e}</li>)}
+            </ul>
             <div class="curator-facts">
               <b>{person.currentObsession}</b>
               <small>{person.favoriteWarning}</small>
             </div>
-            <a class="btn btn-primary" href={`/curator/${crewSlug(person)}`}>Open profile</a>
+            <a class="btn btn-primary" href={`/curator/${crewSlug(person)}`}>Open {String(person.name).split(' ')[0]}&rsquo;s profile</a>
           </div>
           <div class="curator-guides">
             {picks.length ? picks.map((entry) => (
@@ -168,6 +171,12 @@ const schema = [{
     font-size: 1.18rem;
     font-weight: 900;
     line-height: 1.35;
+  }
+  .crew-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 4px; padding: 0; list-style: none; }
+  .crew-tags li {
+    padding: 6px 11px; border: 1px solid rgba(255,255,255,.28); border-radius: 999px;
+    background: rgba(255,255,255,.1); color: #fff; font-size: .72rem; font-weight: 700;
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
   }
   .curator-facts {
     margin: 18px 0;

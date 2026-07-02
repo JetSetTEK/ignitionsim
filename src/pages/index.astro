@@ -211,7 +211,7 @@ const schema = [{
               <div class="brief-body">
                 <div class="brief-curator">
                   <img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" />
-                  <span>{curator.name} says</span>
+                  <span>{curator.name} <b class="brief-handle">· {curator.handle}</b></span>
                 </div>
                 <h3>{a.data.title}</h3>
                 <p>{a.data.excerpt || a.data.description}</p>
@@ -757,6 +757,7 @@ const schema = [{
     letter-spacing: .11em;
     text-transform: uppercase;
   }
+  .brief-handle { color: var(--dimmer); font-weight: 700; }
   .brief-card h3 {
     font-size: clamp(1.08rem, 1.5vw, 1.34rem);
     line-height: 1.05;
