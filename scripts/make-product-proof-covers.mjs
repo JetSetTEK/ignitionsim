@@ -99,6 +99,7 @@ async function localBackgrounds(bay) {
     const files = await fs.readdir(dir);
     return files
       .filter((file) => /\.(webp|jpg|jpeg|png)$/i.test(file))
+      .filter((file) => bay !== 'space' || !file.includes('space-cockpit-dashboard'))
       .sort()
       .map((file) => `/images/source-backgrounds/${bay}/${file}`);
   } catch {
@@ -285,11 +286,14 @@ async function main() {
   const files = await markdownFiles(articleDir);
   const staged = await stagedSlugs();
   const manifest = {};
+  const bayCounts = {};
   await fs.mkdir(outDir, { recursive: true });
 
   for (const file of files) {
     const bay = path.relative(articleDir, file).split(path.sep)[0];
     const slug = path.basename(file, '.md');
+    const bayIndex = bayCounts[bay] || 0;
+    bayCounts[bay] = bayIndex + 1;
     const source = await fs.readFile(file, 'utf8');
     const data = frontmatter(source);
     if ((data.goldStatus !== 'certified' && !staged.has(slug)) || data.draft === 'true' || data.goldStatus === 'archived') continue;
@@ -316,7 +320,10 @@ async function main() {
     const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
     const productRel = displayRels[0] || worlds[bay];
     const slideNumber = (hashSlug(slug) % 3) + 1;
-    const stockBackgrounds = rotated(await localBackgrounds(bay), hashSlug(`${bay}:${slug}`));
+    const stockBackgrounds = rotated(
+      [...await localBackgrounds(bay), worlds[bay]].filter(Boolean),
+      bayIndex
+    );
     const backgroundCandidates = [
       ...stockBackgrounds,
       ...(bay === 'space'

@@ -139,11 +139,10 @@
     "brand": "Thrustmaster",
     "model": "HOTAS Warthog",
     "image": "/images/gear/flight/thrustmaster-hotas-warthog.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 41845
+    "ok": true,
+    "width": 1200,
+    "height": 729,
+    "size": 217686
   },
   {
     "id": "logitech-g-pro-flight-yoke-system",
@@ -151,11 +150,10 @@
     "brand": "Logitech G (Saitek)",
     "model": "G PRO Flight Yoke System",
     "image": "/images/gear/flight/logitech-g-pro-flight-yoke-system.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 43491
+    "ok": true,
+    "width": 1200,
+    "height": 1029,
+    "size": 81728
   },
   {
     "id": "logitech-g-flight-rudder-pedals",
@@ -163,11 +161,10 @@
     "brand": "Logitech G (Saitek)",
     "model": "G Flight Rudder Pedals",
     "image": "/images/gear/flight/logitech-g-flight-rudder-pedals.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 39369
+    "ok": true,
+    "width": 1200,
+    "height": 1029,
+    "size": 64668
   },
   {
     "id": "logitech-pro-flight-radio-panel",

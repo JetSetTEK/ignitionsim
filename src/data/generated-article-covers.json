@@ -251,6 +251,18 @@
     "label": "Product proof",
     "wide": true
   },
+  "diy-bridge-command-throttle": {
+    "image": "/images/generated/article-covers/diy-bridge-command-throttle.webp",
+    "alt": "Build Your Own Ship's Wheel and Throttle for Bridge Command (Under $60) cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
+  "diy-marine-button-box-bridge-console": {
+    "image": "/images/generated/article-covers/diy-marine-button-box-bridge-console.webp",
+    "alt": "DIY Marine Button Box: Build a Bridge Console for Horn, Lights, Anchor and VHF cover with real product proof and Gus Calder",
+    "label": "Product proof",
+    "wide": true
+  },
   "marine-sim-controller-support": {
     "image": "/images/generated/article-covers/marine-sim-controller-support.webp",
     "alt": "Marine Sim Controller Support: Which Sims Actually Read Your Wheel and Throttle (2026) cover with real product proof and Gus Calder",

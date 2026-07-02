@@ -10,7 +10,8 @@ heroImage: "/images/gear/flight/honeycomb-alpha-yoke.jpg"
 heroAlt: "Honeycomb Alpha Flight Controls yoke — the GA anchor most beginners upgrade to within a month"
 excerpt: "MSFS 2024 brought a wave of new pilots. Here is exactly what to buy first, what to skip, and three builds that scale from your existing gamepad to a full ~$500 GA cockpit."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 updatedDate: 2026-07-02
 revenueTier: "A"

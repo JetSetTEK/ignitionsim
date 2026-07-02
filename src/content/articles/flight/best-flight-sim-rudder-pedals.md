@@ -11,7 +11,8 @@ heroImage: "/images/gear/flight/honeycomb-charlie-pedals.jpg"
 heroAlt: "Honeycomb Aeronautical Charlie Rudder Pedals — aluminum-framed GA pedals with Hall-effect toe brakes"
 excerpt: "Rudder pedals are the most over-bought first purchase and the most under-appreciated upgrade. Here is the honest 2026 ranking — by mechanism, by price, and by whether you need toe brakes at all — from budget sliders to pendular to the force-feedback pedals that finally shipped."
 featured: false
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "flight"

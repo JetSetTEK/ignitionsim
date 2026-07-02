@@ -11,7 +11,8 @@ heroImage: "/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg"
 heroAlt: "Thrustmaster TCA Sidestick Airbus Edition — a stick-first way into MSFS 2024 flying"
 excerpt: "A yoke isn't the only way to fly MSFS 2024. Here's the honest 2026 HOTAS ladder — from a $100 plug-and-play stick to a $1,000-plus modular base — matched to what you actually fly, and which ones bind without a fight."
 featured: true
-goldStatus: "refresh"
+goldStatus: "certified"
+goldCertifiedDate: 2026-07-02
 sourceReviewDate: 2026-07-02
 revenueTier: "A"
 contentCluster: "flight"
