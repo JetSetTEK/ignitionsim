@@ -31,6 +31,7 @@ IgnitionSim is an authority site for people who want to buy real simulator hardw
 - Dream first, reality earns the sale. The first viewport and early scroll should make builders want the room, rig, bay, cockpit, or command station before they inspect the buying caveats.
 - Avoid opening major pages with dense text plus tiny product thumbnails. Use large aspirational simulator scenes, curator-in-context images, big product-lust cards, and immersive scrollers before detailed comparison grids.
 - Curators should feel like adult, credible simulator influencers: handling gear, pointing out setup mistakes, giving sharp tips, and carrying personality. Static headshots alone are not enough for cornerstone surfaces.
+- Curators must have public participation surfaces: homepage bench, bay hero notes, Sim Stream chimes, curator index/profile pages, and article/card context when their bay is featured.
 - Generated imagery is allowed for dream scenes and curator/editorial moments as long as it is clearly labeled as an AI/editorial scene and does not pretend to be a real specific product photo. Use real product imagery for the actual buying decision modules.
 - The ideal premium visual is a hybrid: AI-assisted room/curator atmosphere merged with real screenshots, real product photos, real hardware cutouts, and reality-check callouts. The AI creates the stage; real evidence supplies the objects.
 - Every cornerstone article should include at least one dream/reality section near the top: the emotional build people want, the practical constraints that decide whether it works, and the curator's sharpest tip.
@@ -54,6 +55,7 @@ IgnitionSim is an authority site for people who want to buy real simulator hardw
 - Do not use procedural/abstract placeholder art for certified article covers, related cards, gear cards, product benches, or money-page thumbnails. If a public card cannot show real product/use/parts imagery, the page stays `refresh` until it can.
 - Product thumbnails and gear cards should center the product, use `object-fit: contain`, and avoid aggressive cropping.
 - Do not use micro-collage article covers as public card art, related-card art, guide-shelf art, or proof-wall hero art. Public cards should use one dominant real product/use image, a real rig/build photo, or a deliberate AI/editorial world scene with real product proof nearby.
+- Public article cards should prefer wide product-proof covers generated from real product photos, the correct sim world, and the responsible curator. Run `npm run visual-proof` after changing product images, article card art, or certified article surfaces.
 - AI imagery is allowed for abstract backdrops, editorial textures, characters, retro UI flavor, or diagrams that cannot be mistaken for real hardware. It is not a substitute for real people using/installing real gear whenever those photos can be sourced.
 - Diagrams must be useful: wiring paths, room measurements, cockpit mounting points, cable management, display geometry, pedal/load-cell forces, throw-ratio math, or decision trees.
 - Certified cornerstone articles need visual density and visual variety: real product shots, official install/use photos, part closeups, comparison benches, practical diagrams, color-coded proof cards, and large graphic breaks. The goal is a page a builder can scan with coffee in hand and immediately understand what goes in the cart and what goes on the desk/rig/wall.
@@ -118,6 +120,7 @@ Before publishing or pushing a major update:
 - Search the output for placeholder markers, `PHOTO SLOT READY`, `cimg-fallback`, procedural hero art, missing images, and product pages that are only spec cards. Fix or demote before deploy.
 - Check mobile and desktop layouts for overflow, tiny infographic text, unreadable contrast, and cropped important content.
 - `npm run art` is reserved for original diagrams/infographics. Do not use the legacy collage script for public article cards, guide shelves, related cards, product benches, or money-page thumbnails unless a human has explicitly approved a one-off editorial reason.
+- Use `docs/SOURCE-LEXICON-IGNITIONSIM.md` before image hunting or source review. Official/manufacturer media comes first; specialty retailers and Amazon are fallback sources; community photos require permission or explicit licensing.
 - Run `npm run build` and confirm the audit passes before any deploy.
 - If a page relies on current prices, release dates, firmware, ratings, product availability, or active community sentiment, verify with current sources before publishing.
 - Update the relevant hub/homepage/gear/best-of surfaces when the article is strategically important.

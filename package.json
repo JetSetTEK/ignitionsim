@@ -12,6 +12,7 @@
     "product-images": "node scripts/fetch-real-product-images.mjs",
     "infographics": "node scripts/make-ignitionsim-infographics.mjs",
     "gold-audit": "node scripts/audit-gold-standard.mjs",
+    "visual-proof": "node scripts/verify-local-product-images.mjs && node scripts/make-product-proof-covers.mjs",
     "art": "node scripts/make-ignitionsim-infographics.mjs",
     "art:legacy-collages": "node scripts/make-real-product-collages.mjs",
     "og": "node scripts/make-og-cards.mjs",

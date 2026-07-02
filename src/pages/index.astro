@@ -11,6 +11,7 @@ import { isCertifiedArticle, sortNewestArticles } from '../lib/content';
 import { getArticleCardArt } from '../lib/articleArt';
 import { hasVerifiedProductImage } from '../lib/productMedia';
 import { getWorldForBay } from '../lib/worlds';
+import { crewSlug } from '../lib/crew';
 
 const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const articleById = new Map(all.map((a) => [a.id, a]));
@@ -67,6 +68,8 @@ const gearItem = (p: any, tag?: string) => ({
   price: p.price,
   priceNote: p.priceNote,
   type: p.type,
+  whoFor: p.whoFor,
+  summary: p.summary,
   buyUrl: buyUrl(p),
   tag,
 });
@@ -176,7 +179,7 @@ const schema = [{
       <div class="latest-rail">
         {latestRotator.map(({ a, href, art }, i) => (
           <a class="latest-slide" data-bay={a.data.bay} href={href}>
-            <div class="latest-slide-art">
+            <div class:list={['latest-slide-art', art?.wide && 'is-wide-art']}>
               {art && <img src={art.image} alt={art.alt} loading={i < 2 ? 'eager' : 'lazy'} decoding="async" />}
               {art && <span>{art.label}</span>}
             </div>
@@ -202,7 +205,7 @@ const schema = [{
         <div class="curator-latest-grid">
           {latestBriefing.map(({ a, href, art, curator, i }) => (
             <a class="brief-card" data-bay={a.data.bay} href={href}>
-              <div class="brief-art">
+              <div class:list={['brief-art', art?.wide && 'is-wide-art']}>
                 {art && <img src={art.image} alt={art.alt} loading={i < 4 ? 'eager' : 'lazy'} decoding="async" />}
               </div>
               <div class="brief-body">
@@ -322,7 +325,7 @@ const schema = [{
         <div class="feature-guide-grid">
           {featureGuides.map(({ a, href, art, i }) => (
             <a class="feature-guide" href={href} data-bay={a.data.bay}>
-              <div class="feature-guide-media">
+              <div class:list={['feature-guide-media', art?.wide && 'is-wide-art']}>
                 {art && <img src={art.image} alt={art.alt} loading="lazy" decoding="async" />}
                 {art && <span class="feature-guide-badge">{art.label}</span>}
               </div>
@@ -337,25 +340,25 @@ const schema = [{
       </section>
     )}
 
-    <section class="sec crew-bench home-world-section" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
+    <section class="sec crew-bench home-world-section" id="curator-bench" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
       <div class="sec-head">
         <div>
           <span class="lbl lbl-accent">Curator bench</span>
           <h2>Adult supervision for expensive toys.</h2>
         </div>
-        <span class="lbl">voices with jobs to do</span>
+        <a class="lbl" href="/curators">meet the bench crew</a>
       </div>
       <div class="crew-grid">
         {(crew as any[]).map((person) => (
-          <article class="crew-card">
+          <a class="crew-card" href={`/curator/${crewSlug(person)}`}>
             <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
             <div>
               <span>{person.handle}</span>
               <h3>{person.name}</h3>
-              <p>{person.voice}</p>
-              <small>{person.beat}</small>
+              <p>{person.motto || person.voice}</p>
+              <small>{person.currentObsession || person.beat}</small>
             </div>
-          </article>
+          </a>
         ))}
       </div>
     </section>
@@ -572,7 +575,7 @@ const schema = [{
   .latest-rail {
     display: grid;
     grid-auto-flow: column;
-    grid-auto-columns: minmax(380px, 32%);
+    grid-auto-columns: minmax(560px, 52%);
     gap: 20px;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
@@ -583,10 +586,10 @@ const schema = [{
   .latest-rail::-webkit-scrollbar { display: none; }
   .latest-slide {
     position: relative;
-    height: 590px;
+    min-height: 0;
     overflow: hidden;
     display: grid;
-    grid-template-rows: 292px 1fr;
+    grid-template-rows: 315px auto;
     border: 2px solid rgba(16,24,32,.16);
     border-radius: 22px;
     color: #101820;
@@ -602,7 +605,7 @@ const schema = [{
     position: relative;
     display: grid;
     place-items: center;
-    min-height: 292px;
+    min-height: 315px;
     padding: 28px;
     background:
       radial-gradient(420px 250px at 50% 80%, color-mix(in srgb, var(--accent) 15%, transparent), transparent 72%),
@@ -616,6 +619,17 @@ const schema = [{
     filter: drop-shadow(0 24px 32px rgba(16,24,32,.22));
     transition: transform .5s ease;
   }
+  .latest-slide-art.is-wide-art {
+    padding: 0;
+    background: #101820;
+  }
+  .latest-slide-art.is-wide-art img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: none;
+  }
+  .latest-slide:hover .latest-slide-art.is-wide-art img { transform: scale(1.025); }
   .latest-slide:hover .latest-slide-art img { transform: scale(1.045) rotate(-.5deg); }
   .latest-slide-art span {
     position: absolute;
@@ -666,18 +680,19 @@ const schema = [{
     font-size: .92rem;
     line-height: 1.5;
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
   .curator-latest-grid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
   }
   .brief-card {
     display: grid;
-    grid-template-rows: 210px 1fr;
+    grid-template-rows: 210px auto;
+    min-height: 246px;
     overflow: hidden;
     border: 2px solid rgba(16,24,32,.14);
     border-radius: 18px;
@@ -704,6 +719,17 @@ const schema = [{
     height: 170px;
     object-fit: contain;
     filter: drop-shadow(0 15px 22px rgba(16,24,32,.2));
+  }
+  .brief-art.is-wide-art {
+    padding: 0;
+    background: #101820;
+  }
+  .brief-art.is-wide-art img {
+    width: 100%;
+    height: 100%;
+    min-height: 210px;
+    object-fit: cover;
+    filter: none;
   }
   .brief-body {
     padding: 16px;
@@ -1015,6 +1041,24 @@ const schema = [{
     filter: drop-shadow(0 26px 30px rgba(16,24,32,.28));
     transition: transform .48s ease;
   }
+  .feature-guide-media.is-wide-art {
+    padding: 0;
+    background: #101820;
+  }
+  .feature-guide-media.is-wide-art::before,
+  .feature-guide-media.is-wide-art::after {
+    display: none;
+  }
+  .feature-guide-media.is-wide-art img {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    min-height: 320px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+    filter: none;
+  }
+  .feature-guide:hover .feature-guide-media.is-wide-art img { transform: scale(1.025); }
   .feature-guide:hover .feature-guide-media img { transform: scale(1.08) rotate(-1deg); }
   .feature-guide-badge {
     position: absolute;
@@ -1133,14 +1177,27 @@ const schema = [{
     .hero-v2 { min-height: 760px; }
     .hero-v2-inner { padding-bottom: 28px; }
     .hero-v2-copy h1 { font-size: clamp(2.75rem, 14vw, 4.15rem); }
-    .latest-rail { grid-auto-columns: 88%; }
-    .latest-slide { height: 560px; grid-template-rows: 250px 1fr; }
+    .latest-rail { grid-auto-columns: 100%; }
+    .latest-slide { min-height: 0; grid-template-columns: 1fr; grid-template-rows: 210px auto; }
     .latest-slide-art { min-height: 260px; }
     .latest-slide-art img { height: 210px; }
+    .latest-slide-art.is-wide-art { min-height: 210px; border-right: 0; border-bottom: 2px solid rgba(16,24,32,.1); }
+    .latest-slide-art.is-wide-art img { height: 210px; }
+    .latest-slide-copy { padding: 18px; }
+    .latest-slide-copy h3 { -webkit-line-clamp: 4; font-size: 1.18rem; }
+    .latest-slide-copy p { display: none; }
     .hero-proof-stack, .feature-guide-grid, .bay-command-grid, .crew-grid, .signal-strip, .workbench-drop, .lust-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: 1fr; }
+    .brief-card { grid-template-columns: 1fr; }
+    .brief-art { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
+    .brief-art.is-wide-art img { min-height: 190px; height: 190px; }
+    .brief-body { padding: 14px; }
+    .brief-card p { -webkit-line-clamp: 2; }
+    .crew-card { display: grid; grid-template-columns: 102px 1fr; }
+    .crew-card img { height: 100%; min-height: 178px; aspect-ratio: auto; border-bottom: 0; border-right: 2px solid rgba(16,24,32,.1); }
     .feature-guide { grid-template-columns: 1fr; }
     .feature-guide-media { min-height: 240px; border-right: 0; border-bottom: 2px solid rgba(16,24,32,.1); }
     .feature-guide-media img { height: 200px; }
+    .feature-guide-media.is-wide-art img { min-height: 240px; height: 240px; }
     .signal-strip div { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
     .signal-strip div:last-child { border-bottom: 0; }
     .workbench-drop form { justify-content: stretch; }

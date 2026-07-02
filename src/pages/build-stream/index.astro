@@ -18,6 +18,7 @@ const crewByBay: Record<string, any> = {
   space: (crew as any[]).find((p) => p.name === 'Val Chen'),
   marine: (crew as any[]).find((p) => p.name === 'Gus Calder'),
 };
+const crewSlug = (person: any) => person.slug || String(person.name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const gameRoutes = new Map<string, any[]>();
 for (const game of games as any[]) {
   for (const id of game.guideIds || []) {
@@ -127,7 +128,7 @@ const schema = [{
           <div class="rail-card curator-rail">
             <h2>Bench crew</h2>
             {(crew as any[]).map((person) => (
-              <a href="/#curator-bench">
+              <a href={`/curator/${crewSlug(person)}`}>
                 <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
                 <span><b>{person.name}</b><small>{person.handle}</small></span>
               </a>
@@ -150,7 +151,7 @@ const schema = [{
             {rows.map((row) => (
               row.row === 'article' ? (
                 <a class={`river-card${row.index >= 10 ? ' is-hidden' : ''}`} data-kind={row.entry.data.type} data-bay={row.entry.data.bay} href={row.href}>
-                  <div class="river-art">
+                  <div class:list={['river-art', row.art?.wide && 'is-wide-art']}>
                     {row.art && <img src={row.art.image} alt={row.art.alt} loading={row.index < 4 ? 'eager' : 'lazy'} decoding="async" />}
                     {row.art && <span>{row.art.label}</span>}
                   </div>
@@ -192,7 +193,7 @@ const schema = [{
             {topRoutes.map((item, i) => (
               <a href={item.href}>
                 <span>{String(i + 1).padStart(2, '0')}</span>
-                {item.art && <img src={item.art.image} alt="" loading="lazy" decoding="async" />}
+                {item.art && <img class:list={[item.art.wide && 'is-wide-art']} src={item.art.image} alt="" loading="lazy" decoding="async" />}
                 <b>{item.entry.data.title}</b>
               </a>
             ))}
@@ -366,6 +367,18 @@ const schema = [{
     filter: drop-shadow(0 22px 30px rgba(16,24,32,.22));
     transition: transform .45s ease;
   }
+  .river-art.is-wide-art {
+    padding: 0;
+    background: #101820;
+  }
+  .river-art.is-wide-art img {
+    width: 100%;
+    height: 100%;
+    min-height: 300px;
+    object-fit: cover;
+    filter: none;
+  }
+  .river-card:hover .river-art.is-wide-art img { transform: scale(1.025); }
   .river-card:hover .river-art img { transform: scale(1.045); }
   .river-art span {
     position: absolute;
@@ -515,6 +528,9 @@ const schema = [{
     border: 1px solid rgba(16,24,32,.08);
     border-radius: 8px;
   }
+  .top-routes img.is-wide-art {
+    object-fit: cover;
+  }
   .top-routes b {
     font-size: .84rem;
     line-height: 1.25;
@@ -538,6 +554,15 @@ const schema = [{
     .stream-wrap { padding: 0 16px; }
     .stream-head h1 { font-size: clamp(3rem, 18vw, 4.8rem); }
     .river-art img { height: 200px; }
+    .river-art.is-wide-art img { height: 200px; min-height: 200px; }
+    .river-body { padding: 18px; }
+    .river-body h2 { font-size: 1.38rem; }
+    .river-body p {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
     .river-chime { grid-template-columns: 1fr; }
     .river-chime img { height: 220px; }
   }

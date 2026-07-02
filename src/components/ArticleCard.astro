@@ -16,10 +16,11 @@ const art = getArticleCardArt(href);
 const cardImage = art?.image || image;
 const cardAlt = art?.alt || imageAlt || title;
 const cardLabel = art?.label || 'Product proof';
+const isWideArt = Boolean(art?.wide);
 ---
 <a class="card article-world-card" data-bay={bay} href={href}>
   {cardImage && (
-    <div class="cimg">
+    <div class:list={['cimg', isWideArt && 'is-wide-art']}>
       <span class="world-chip">{cardLabel}</span>
       <img src={cardImage} alt={cardAlt} loading="lazy" decoding="async" />
     </div>
@@ -43,6 +44,9 @@ const cardLabel = art?.label || 'Product proof';
     background: #fff;
     box-shadow: 0 9px 0 rgba(16,24,32,.1), 0 28px 58px rgba(16,24,32,.12);
     overflow: hidden;
+    display: grid;
+    grid-template-columns: minmax(250px, .95fr) minmax(0, 1fr);
+    min-height: 286px;
   }
   .article-world-card[data-bay="racing"] { --world-a: #ff4b16; --world-b: #111827; --world-ink: #3b1107; }
   .article-world-card[data-bay="golf"] { --world-a: #10b981; --world-b: #eab308; --world-ink: #073b28; }
@@ -58,7 +62,7 @@ const cardLabel = art?.label || 'Product proof';
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 300px;
+    min-height: 286px;
     padding: 28px 24px;
     overflow: hidden;
     background:
@@ -94,6 +98,26 @@ const cardLabel = art?.label || 'Product proof';
     filter: drop-shadow(0 22px 28px rgba(16,24,32,.2));
     transition: transform .45s ease;
   }
+  .article-world-card .cimg.is-wide-art {
+    min-height: 286px;
+    padding: 0;
+    background: #101820;
+  }
+  .article-world-card .cimg.is-wide-art::before,
+  .article-world-card .cimg.is-wide-art::after {
+    display: none;
+  }
+  .article-world-card .cimg.is-wide-art img {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    min-height: 286px;
+    object-fit: cover;
+    filter: none;
+  }
+  .article-world-card:hover .cimg.is-wide-art img {
+    transform: scale(1.025);
+  }
   .article-world-card:hover .cimg img { transform: scale(1.08) rotate(-1deg); }
   .world-chip {
     position: absolute;
@@ -115,6 +139,7 @@ const cardLabel = art?.label || 'Product proof';
   .article-world-card .cbody {
     padding: 22px 24px 26px;
     background: #fff;
+    align-self: center;
   }
   .article-world-card .ctype {
     color: var(--world-a);
@@ -132,7 +157,18 @@ const cardLabel = art?.label || 'Product proof';
     color: var(--world-a);
   }
   @media (max-width: 680px) {
+    .article-world-card { grid-template-columns: 1fr; }
     .article-world-card .cimg { min-height: 270px; padding: 26px 20px 24px; }
     .article-world-card .cimg img { height: 210px; }
+    .article-world-card .cimg.is-wide-art { min-height: 194px; padding: 0; }
+    .article-world-card .cimg.is-wide-art img { height: 194px; min-height: 194px; }
+    .article-world-card .cbody { padding: 18px; }
+    .article-world-card h3 { font-size: 1.16rem; }
+    .article-world-card .cexc {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
   }
 </style>

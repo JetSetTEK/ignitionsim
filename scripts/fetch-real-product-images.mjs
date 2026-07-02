@@ -315,7 +315,13 @@ async function seedAcceptedExisting(products, verified) {
 async function main() {
   const products = await productRecords();
   const byId = new Map(products.map((product) => [product.id, product]));
-  const verified = new Set();
+  let existing = [];
+  try {
+    existing = JSON.parse(await fs.readFile(verifiedOut, 'utf8'));
+  } catch {
+    existing = [];
+  }
+  const verified = new Set(existing);
 
   await seedAcceptedExisting(products, verified);
 
@@ -323,6 +329,10 @@ async function main() {
     const product = byId.get(id);
     if (!product) {
       console.log(`- skip ${id}: not in product data`);
+      continue;
+    }
+    if (verified.has(imagePath(product))) {
+      console.log(`= ${id}: already verified`);
       continue;
     }
     try {

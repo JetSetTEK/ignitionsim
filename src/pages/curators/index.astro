@@ -1,0 +1,210 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import site from '../../data/site.json';
+import { allCrew, crewSlug, getCrewForBay } from '../../lib/crew';
+import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { getWorldForBay } from '../../lib/worlds';
+
+const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
+const articlesFor = (person: any) => articles
+  .filter((entry) => {
+    const curator = getCrewForBay(entry.data.bay);
+    if (crewSlug(curator) === crewSlug(person)) return true;
+    return crewSlug(person) === 'mac-donovan' && ['diy', 'gear-explainer'].includes(entry.data.type);
+  })
+  .slice(0, 3);
+
+const schema = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'IgnitionSim Curators',
+  description: 'Meet the IgnitionSim bench crew: simulator hardware curators for racing, golf, flight, space, marine, DIY motion, and build sanity.',
+  url: new URL('/curators', site.url).href,
+}];
+---
+<Base title="IgnitionSim Curators" description="Meet the IgnitionSim bench crew: simulator hardware curators for racing, golf, flight, space, marine, DIY motion, and build sanity." activeNav="curators" schema={schema}>
+  <section class="curator-hero" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span>Curators</nav>
+      <span class="lbl lbl-accent">Bench crew</span>
+      <h1>Five opinionated adults between you and an expensive weekend mistake.</h1>
+      <p>They are fictional AI editorial hosts, but their job is grounded: translate specs, forums, reviews, and product reality into fast buy/wait/skip decisions.</p>
+    </div>
+  </section>
+
+  <div class="wrap curator-wrap">
+    {allCrew.map((person) => {
+      const world = getWorldForBay(person.name === 'Nina Brooks' ? 'golf' : person.name === 'Gus Calder' ? 'marine' : person.name === 'Val Chen' ? 'space' : 'racing');
+      const picks = articlesFor(person);
+      return (
+        <section class="curator-row" style={`--world-bg: url('${world.image}')`}>
+          <a class="curator-portrait" href={`/curator/${crewSlug(person)}`}>
+            <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
+          </a>
+          <div class="curator-copy">
+            <span>{person.handle}</span>
+            <h2>{person.name}</h2>
+            <p class="motto">{person.motto}</p>
+            <p>{person.profile}</p>
+            <div class="curator-facts">
+              <b>{person.currentObsession}</b>
+              <small>{person.favoriteWarning}</small>
+            </div>
+            <a class="btn btn-primary" href={`/curator/${crewSlug(person)}`}>Open profile</a>
+          </div>
+          <div class="curator-guides">
+            {picks.length ? picks.map((entry) => (
+              <ArticleCard href={`/${entry.data.bay}/${articleSlug(entry)}`} title={entry.data.title}
+                excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type}
+                meta={`${entry.data.readingTime || 7} min read`} />
+            )) : <p class="quiet-note">Mac is being fed more certified wiring, haptics, and DIY proof before he gets a full guide shelf.</p>}
+          </div>
+        </section>
+      );
+    })}
+  </div>
+</Base>
+
+<style>
+  .curator-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 96px 0 70px;
+    color: #fff;
+    background:
+      radial-gradient(760px 380px at 86% 0%, rgba(255,94,26,.26), transparent 72%),
+      linear-gradient(90deg, rgba(16,24,32,.96), rgba(16,24,32,.62)),
+      var(--world-bg) center / cover no-repeat;
+    border-bottom: 3px solid #101820;
+  }
+  .curator-hero::after,
+  .curator-row::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+    background-size: 46px 46px;
+    opacity: .32;
+    mix-blend-mode: screen;
+  }
+  .curator-hero .wrap,
+  .curator-row > * { position: relative; z-index: 1; }
+  .curator-hero h1 {
+    max-width: 13ch;
+    margin: 12px 0 16px;
+    color: #fff;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: .88;
+    text-transform: uppercase;
+  }
+  .curator-hero p {
+    max-width: 62ch;
+    color: rgba(255,255,255,.82);
+    font-size: 1.08rem;
+  }
+  .curator-wrap { padding: 34px 22px 74px; }
+  .curator-row {
+    position: relative;
+    display: grid;
+    grid-template-columns: 260px minmax(280px, .85fr) minmax(0, 1.2fr);
+    gap: 22px;
+    align-items: center;
+    margin: 0 0 30px;
+    padding: 22px;
+    overflow: hidden;
+    border: 2px solid rgba(16,24,32,.18);
+    border-radius: 30px;
+    background:
+      radial-gradient(760px 340px at 84% 4%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.9), rgba(16,24,32,.5)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 14px 0 rgba(16,24,32,.13), 0 34px 78px rgba(16,24,32,.14);
+  }
+  .curator-portrait {
+    display: block;
+    overflow: hidden;
+    border: 2px solid rgba(255,255,255,.32);
+    border-radius: 18px;
+    background: #101820;
+    box-shadow: 0 10px 0 rgba(0,0,0,.18);
+  }
+  .curator-portrait img {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+  .curator-copy {
+    color: #fff;
+  }
+  .curator-copy span {
+    color: color-mix(in srgb, var(--accent) 70%, #fff);
+    font-family: var(--font-mono);
+    font-size: .62rem;
+    font-weight: 900;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .curator-copy h2 {
+    margin-top: 8px;
+    color: #fff;
+    font-size: clamp(1.9rem, 4vw, 3.4rem);
+    line-height: .95;
+    text-transform: uppercase;
+  }
+  .curator-copy p {
+    margin-top: 12px;
+    color: rgba(255,255,255,.82);
+    line-height: 1.58;
+  }
+  .curator-copy .motto {
+    color: #fff;
+    font-size: 1.18rem;
+    font-weight: 900;
+    line-height: 1.35;
+  }
+  .curator-facts {
+    margin: 18px 0;
+    padding: 14px;
+    border: 1px solid rgba(255,255,255,.22);
+    border-radius: 14px;
+    background: rgba(255,255,255,.1);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  .curator-facts b,
+  .curator-facts small {
+    display: block;
+    color: #fff;
+    line-height: 1.4;
+  }
+  .curator-facts small {
+    margin-top: 7px;
+    color: rgba(255,255,255,.72);
+  }
+  .curator-guides {
+    display: grid;
+    gap: 14px;
+  }
+  .quiet-note {
+    padding: 20px;
+    border-radius: 14px;
+    color: #101820;
+    background: rgba(255,255,255,.9);
+  }
+  @media (max-width: 1080px) {
+    .curator-row { grid-template-columns: 220px 1fr; }
+    .curator-guides { grid-column: 1 / -1; }
+  }
+  @media (max-width: 680px) {
+    .curator-hero { padding-top: 76px; }
+    .curator-row { grid-template-columns: 1fr; padding: 16px; border-radius: 24px; }
+    .curator-portrait { max-width: 280px; }
+  }
+</style>

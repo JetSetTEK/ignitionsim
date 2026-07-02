@@ -1,9 +1,9 @@
 ---
 /**
  * Horizontal, image-rich product rail — scroll-snap, arrow nav, reduced-motion safe.
- * items: [{ href, image, brand, model, price, priceNote?, type?, buyUrl, tag? }]
+ * items: [{ href, image, brand, model, price, priceNote?, type?, buyUrl, tag?, whoFor?, summary? }]
  */
-interface Item { href: string; image?: string; brand: string; model: string; price?: number; priceNote?: string; type?: string; buyUrl: string; tag?: string; }
+interface Item { href: string; image?: string; brand: string; model: string; price?: number; priceNote?: string; type?: string; buyUrl: string; tag?: string; whoFor?: string; summary?: string; }
 interface Props { items: Item[]; id?: string; }
 import verifiedImages from '../data/verified-product-images.json';
 const { items, id = 'gearrail' } = Astro.props;
@@ -23,6 +23,7 @@ const visibleItems = items.filter((p) => Boolean(p.image && verified.has(p.image
           {p.type && <span class="grail-type">{p.type.replace(/-/g, ' ')}</span>}
           <a class="grail-name" href={p.href}>{p.brand} {p.model}</a>
           {(p.price || p.priceNote) && <span class="grail-price">{fmt(p.price)}{p.priceNote ? ` · ${p.priceNote}` : ''}</span>}
+          {(p.whoFor || p.summary) && <p class="grail-note">{p.whoFor || p.summary}</p>}
           <div class="grail-actions">
             <a class="grail-review" href={p.href}>Inspect</a>
             <a class="grail-buy" href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="gearrail_amazon">Amazon ↗</a>
@@ -41,20 +42,33 @@ const visibleItems = items.filter((p) => Boolean(p.image && verified.has(p.image
 
 <style>
   .grail { position: relative; margin: 4px 0; }
-  .grail-track { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 4px 2px 18px; -ms-overflow-style: none; scrollbar-width: none; }
+  .grail-track { display: flex; gap: 18px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 4px 2px 22px; -ms-overflow-style: none; scrollbar-width: none; }
   .grail-track::-webkit-scrollbar { display: none; }
-  .grail-card { flex: 0 0 274px; scroll-snap-align: start; border: 2px solid rgba(16,24,32,.14); border-radius: 10px; overflow: hidden; background: #fff; display: flex; flex-direction: column; transition: border-color .25s, box-shadow .25s, transform .25s; box-shadow: 0 8px 0 rgba(16,24,32,.08); }
+  .grail-card { flex: 0 0 min(390px, 82vw); scroll-snap-align: start; border: 2px solid rgba(16,24,32,.14); border-radius: 18px; overflow: hidden; background: #fff; display: flex; flex-direction: column; transition: border-color .25s, box-shadow .25s, transform .25s; box-shadow: 0 10px 0 rgba(16,24,32,.1), 0 28px 60px rgba(16,24,32,.12); }
   @media (prefers-reduced-motion: no-preference) { .grail-card:hover { transform: translateY(-5px); border-color: #101820; box-shadow: 0 12px 0 rgba(16,24,32,.12), 0 24px 52px color-mix(in srgb, var(--accent) 13%, transparent); } }
-  .grail-shot { position: relative; display: block; aspect-ratio: 4 / 3; overflow: hidden; background: #fff; border-bottom: 2px solid rgba(16,24,32,.1); }
-  .grail-shot img, .grail-fallback { width: 100%; height: 100%; object-fit: contain; background:#fff; display: block; transition: transform .4s; }
+  .grail-shot { position: relative; display: grid; place-items: center; min-height: 286px; aspect-ratio: 16 / 10; overflow: hidden; background:
+    radial-gradient(420px 220px at 66% 8%, color-mix(in srgb, var(--accent) 13%, transparent), transparent 70%),
+    linear-gradient(145deg, #ffffff, #f3f7fa);
+    border-bottom: 2px solid rgba(16,24,32,.1); }
+  .grail-shot img, .grail-fallback { width: 100%; height: 100%; object-fit: contain; background: transparent; display: block; transition: transform .4s; padding: 18px; filter: drop-shadow(0 22px 28px rgba(16,24,32,.18)); }
   .grail-fallback { background: radial-gradient(200px 140px at 80% 120%, var(--bayglow), transparent 70%), linear-gradient(160deg, var(--baypanel, var(--panel2)), var(--baybg, var(--panel))); }
   @media (prefers-reduced-motion: no-preference) { .grail-card:hover .grail-shot img { transform: scale(1.06); } }
   .grail-tag { position: absolute; top: 9px; left: 9px; z-index: 2; font-family: var(--font-mono); font-size: .52rem; letter-spacing: .12em; text-transform: uppercase; color: #101820; background: #ff5e1a; border: 1px solid #101820; padding: 4px 8px; border-radius: 6px; font-weight: 800; }
-  .grail-body { padding: 13px 14px 15px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+  .grail-body { padding: 17px 18px 18px; display: flex; flex-direction: column; gap: 7px; flex: 1; }
   .grail-type { font-family: var(--font-mono); font-size: .54rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); font-weight: 800; }
-  .grail-name { font-weight: 800; font-size: 1rem; line-height: 1.2; color: var(--txt); }
+  .grail-name { font-weight: 900; font-size: 1.15rem; line-height: 1.12; color: var(--txt); }
   .grail-name:hover { color: var(--accent); }
-  .grail-price { font-family: var(--font-mono); font-size: .72rem; color: var(--dim); flex: 1; }
+  .grail-price { font-family: var(--font-mono); font-size: .72rem; color: var(--dim); }
+  .grail-note {
+    color: #435363;
+    font-size: .88rem;
+    line-height: 1.42;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 3.72em;
+  }
   .grail-actions { display: flex; gap: 8px; margin-top: 4px; }
   .grail-actions a { font-family: var(--font-mono); font-size: .66rem; letter-spacing: .03em; padding: 7px 11px; border-radius: 7px; text-decoration: none; font-weight: 800; }
   .grail-review { border: 1px solid rgba(16,24,32,.16); color: var(--txt); }
@@ -64,7 +78,13 @@ const visibleItems = items.filter((p) => Boolean(p.image && verified.has(p.image
   .grail-nav { position: absolute; top: calc(50% - 20px); transform: translateY(-50%); z-index: 3; width: 42px; height: 42px; border-radius: 50%; border: 2px solid #101820; background: #fff; color: #101820; font-size: 1.35rem; cursor: pointer; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 0 rgba(16,24,32,.16); }
   .grail-nav:hover { border-color: #101820; color: #101820; background: #ff5e1a; }
   .grail-nav.prev { left: -8px; } .grail-nav.next { right: -8px; }
-  @media (max-width: 720px) { .grail-nav { display: none; } .grail-card { flex-basis: 76%; } }
+  @media (max-width: 720px) {
+    .grail-nav { display: none; }
+    .grail-card { flex-basis: 100%; }
+    .grail-shot { min-height: 210px; }
+    .grail-shot img { padding: 14px; }
+    .grail-note { -webkit-line-clamp: 2; min-height: 2.5em; }
+  }
 </style>
 
 <script>

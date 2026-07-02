@@ -1,47 +1,77 @@
 [
   {
     "name": "Duke Alvarez",
+    "slug": "duke-alvarez",
     "handle": "Torque desk",
     "bay": "Racing",
     "image": "/images/crew/duke-alvarez.webp",
     "alt": "Duke Alvarez in a sim racing workshop with wheel rims and force-feedback hardware",
     "voice": "Blunt, useful, allergic to wobbly pedal decks.",
-    "beat": "Duke translates torque, pedals, cockpits, and ecosystem lock-in into buying orders that do not eat your wallet twice."
+    "beat": "Duke translates torque, pedals, cockpits, and ecosystem lock-in into buying orders that do not eat your wallet twice.",
+    "motto": "If the brake deck moves, the lap time lies.",
+    "currentObsession": "Pedal feel before peak torque.",
+    "benchMove": "He asks what flexes before he asks what you want to upgrade.",
+    "favoriteWarning": "A stronger wheelbase only makes a weak frame tell the truth louder.",
+    "profile": "Former track-day spreadsheet addict, current hardware realist. Duke likes direct drive, hates vague compatibility promises, and treats every cockpit as a load path with a seat attached."
   },
   {
     "name": "Val Chen",
+    "slug": "val-chen",
     "handle": "Vector bench",
     "bay": "Flight + Space",
     "image": "/images/crew/val-chen.webp",
     "alt": "Val Chen in a flight and space sim controls workshop",
     "voice": "Precise, calm, quietly devastating about bad cable routing.",
-    "beat": "Val owns yokes, sticks, HOSAS layouts, head tracking, USB topology, and the difference between immersion and expensive desk clutter."
+    "beat": "Val owns yokes, sticks, HOSAS layouts, head tracking, USB topology, and the difference between immersion and expensive desk clutter.",
+    "motto": "Bind for stress, route for sleep.",
+    "currentObsession": "USB power and mounts as first-class cockpit parts.",
+    "benchMove": "She turns cockpit fantasies into control maps you can actually remember.",
+    "favoriteWarning": "Panels are dessert. Clean primary controls are dinner.",
+    "profile": "Val is the calm systems brain in the room: flight deck, HOSAS, HOTAS, head tracking, and the boring cable plan that saves the entire weekend."
   },
   {
     "name": "Nina Brooks",
+    "slug": "nina-brooks",
     "handle": "Launch room",
     "bay": "Golf",
     "image": "/images/crew/nina-brooks.webp",
     "alt": "Nina Brooks in a golf simulator room with measuring tools and launch-monitor alignment gear",
     "voice": "Warm, direct, will absolutely ask your ceiling height first.",
-    "beat": "Nina turns launch monitors, mats, screens, projectors, and room dimensions into build sheets that survive real walls."
+    "beat": "Nina turns launch monitors, mats, screens, projectors, and room dimensions into build sheets that survive real walls.",
+    "motto": "The room gets veto power.",
+    "currentObsession": "Projector throw, hitting width, and joints that still work next year.",
+    "benchMove": "She starts with the ceiling, then works backward to the launch monitor.",
+    "favoriteWarning": "A cheap mat saves money once and annoys you every swing after.",
+    "profile": "Nina sells the private-club dream, then measures the garage. Launch monitor fit, mats, screens, projectors, and subscriptions all go through her room-first filter."
   },
   {
     "name": "Mac Donovan",
+    "slug": "mac-donovan",
     "handle": "Patch cable",
     "bay": "DIY motion",
     "image": "/images/crew/mac-donovan.webp",
     "alt": "Mac Donovan at a DIY motion and tactile feedback electronics bench",
     "voice": "Sardonic maker energy, useful wiring paranoia.",
-    "beat": "Mac covers tactile feedback, motion rigs, USB hubs, power, EMI, and the small mistakes that make a cockpit act haunted."
+    "beat": "Mac covers tactile feedback, motion rigs, USB hubs, power, EMI, and the small mistakes that make a cockpit act haunted.",
+    "motto": "Temporary wiring becomes permanent faster than pride admits.",
+    "currentObsession": "Haptics, power bricks, ferrite cores, and labeling the thing before Future You curses Past You.",
+    "benchMove": "He makes the invisible failure points visible before the cart gets expensive.",
+    "favoriteWarning": "Motion is cool. Clean power and sane software profiles are cooler at 1:00 a.m.",
+    "profile": "Mac is the shop-floor maker brain: tactile feedback, motion, button boxes, cable discipline, and the little electrical choices that keep a build from ruining Saturday."
   },
   {
     "name": "Gus Calder",
+    "slug": "gus-calder",
     "handle": "Bridge oddities",
     "bay": "Marine",
     "image": "/images/crew/gus-calder.webp",
     "alt": "Gus Calder in a compact ship bridge simulator workspace",
     "voice": "Dry, patient, deeply amused by repurposed racing wheels.",
-    "beat": "Gus handles marine sims, oddball controllers, panels, helms, throttles, and every build that starts with 'hear me out.'"
+    "beat": "Gus handles marine sims, oddball controllers, panels, helms, throttles, and every build that starts with 'hear me out.'",
+    "motto": "Marine sim hardware is a scavenger hunt with labels.",
+    "currentObsession": "Bridge Command controls, DIY axes, and making borrowed hardware feel intentional.",
+    "benchMove": "He treats every odd controller as a possible helm until the software refuses the axis.",
+    "favoriteWarning": "If the sim will not expose an axis, premium hardware cannot negotiate with it.",
+    "profile": "Gus is the niche-builder translator: bridge panels, repurposed wheels, throttles, DIY boards, and the patience required when the marine shelf is not as stocked as racing or flight."
   }
 ]

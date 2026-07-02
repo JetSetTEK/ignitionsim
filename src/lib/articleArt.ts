@@ -1,4 +1,10 @@
-const articleArtBySlug: Record<string, { image: string; alt: string; label: string }> = {
+import generatedCovers from '../data/generated-article-covers.json';
+
+type ArticleArt = { image: string; alt: string; label: string; wide?: boolean };
+
+const generatedArtBySlug = generatedCovers as Record<string, ArticleArt>;
+
+const articleArtBySlug: Record<string, ArticleArt> = {
   'active-pedals-vs-load-cell-hydraulic-2026': {
     image: '/images/gear/racing/simucube-activepedal-pro.jpg',
     alt: 'Simucube ActivePedal Pro active sim racing pedal',
@@ -101,7 +107,7 @@ const articleArtBySlug: Record<string, { image: string; alt: string; label: stri
   },
 };
 
-const defaultArtByBay: Record<string, { image: string; alt: string; label: string }> = {
+const defaultArtByBay: Record<string, ArticleArt> = {
   racing: {
     image: '/images/gear/racing/sim-lab-p1x.jpg',
     alt: 'Aluminum profile sim racing cockpit',
@@ -140,5 +146,5 @@ export function getBayFromHref(href = '') {
 export function getArticleCardArt(href = '') {
   const slug = getSlugFromHref(href);
   const bay = getBayFromHref(href);
-  return articleArtBySlug[slug] || defaultArtByBay[bay] || null;
+  return generatedArtBySlug[slug] || articleArtBySlug[slug] || defaultArtByBay[bay] || null;
 }

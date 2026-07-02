@@ -1,0 +1,236 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import site from '../../data/site.json';
+import { allCrew, crewSlug, getCrewBySlug, getCrewForBay } from '../../lib/crew';
+import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { getWorldForBay } from '../../lib/worlds';
+
+export function getStaticPaths() {
+  return allCrew.map((person) => ({ params: { id: crewSlug(person) } }));
+}
+
+const { id } = Astro.params;
+const person = getCrewBySlug(id || '') || allCrew[0];
+const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
+const ownedArticles = articles.filter((entry) => {
+  const curator = getCrewForBay(entry.data.bay);
+  if (crewSlug(curator) === crewSlug(person)) return true;
+  return crewSlug(person) === 'mac-donovan' && ['diy', 'gear-explainer'].includes(entry.data.type);
+});
+const primaryBay = person.name === 'Nina Brooks' ? 'golf'
+  : person.name === 'Gus Calder' ? 'marine'
+  : person.name === 'Val Chen' ? 'space'
+  : 'racing';
+const world = getWorldForBay(primaryBay);
+const schema = [{
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  name: `${person.name} · IgnitionSim curator`,
+  description: person.profile,
+  url: new URL(`/curator/${crewSlug(person)}`, site.url).href,
+}];
+---
+<Base title={`${person.name}: IgnitionSim Curator`} description={person.profile} image={person.image} schema={schema}>
+  <section class="profile-hero" style={`--world-bg: url('${world.image}')`}>
+    <div class="wrap profile-grid">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/curators">Curators</a><span>/</span>{person.name}</nav>
+      <div class="profile-copy">
+        <span class="lbl lbl-accent">{person.handle}</span>
+        <h1>{person.name}</h1>
+        <p class="motto">{person.motto}</p>
+        <p>{person.profile}</p>
+        <div class="profile-actions">
+          <a class="btn btn-primary btn-lg" href="#guides">Open guide shelf</a>
+          <a class="btn btn-lg" href={`/${primaryBay}`}>Enter {primaryBay} bay</a>
+        </div>
+      </div>
+      <div class="profile-card">
+        <img src={person.image} alt={person.alt} loading="eager" decoding="async" />
+        <div>
+          <span>Current obsession</span>
+          <b>{person.currentObsession}</b>
+          <small>{person.favoriteWarning}</small>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap profile-body">
+    <section class="profile-rules">
+      <article>
+        <span>Bench move</span>
+        <p>{person.benchMove}</p>
+      </article>
+      <article>
+        <span>Voice</span>
+        <p>{person.voice}</p>
+      </article>
+      <article>
+        <span>Beat</span>
+        <p>{person.beat}</p>
+      </article>
+    </section>
+
+    <section class="sec profile-guides" id="guides">
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">Guide shelf</span>
+          <h2>{ownedArticles.length ? `${person.name}'s certified routes.` : 'Waiting for certified proof.'}</h2>
+        </div>
+        <a class="lbl" href="/build-stream">open Sim Stream</a>
+      </div>
+      {ownedArticles.length ? (
+        <div class="profile-guide-grid">
+          {ownedArticles.map((entry) => (
+            <ArticleCard href={`/${entry.data.bay}/${articleSlug(entry)}`} title={entry.data.title}
+              excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type}
+              meta={`${entry.data.bay.toUpperCase()} · ${entry.data.readingTime || 7} min read`} />
+          ))}
+        </div>
+      ) : (
+        <div class="profile-empty">
+          <h3>Nothing half-built gets a public shelf.</h3>
+          <p>This curator gets more visible guide coverage when the article has real product proof, current sources, warnings, and useful buying paths.</p>
+        </div>
+      )}
+    </section>
+  </div>
+</Base>
+
+<style>
+  .profile-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 86px 0 52px;
+    color: #fff;
+    background:
+      radial-gradient(820px 380px at 84% 4%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.95), rgba(16,24,32,.52)),
+      var(--world-bg) center / cover no-repeat;
+    border-bottom: 3px solid #101820;
+  }
+  .profile-hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+    background-size: 46px 46px;
+    opacity: .34;
+    mix-blend-mode: screen;
+  }
+  .profile-grid {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 30px;
+    align-items: end;
+  }
+  .profile-grid .crumbs { grid-column: 1 / -1; color: rgba(255,255,255,.72); }
+  .profile-grid .crumbs a { color: rgba(255,255,255,.72); }
+  .profile-copy h1 {
+    max-width: 12ch;
+    margin: 10px 0 14px;
+    color: #fff;
+    font-size: clamp(3.2rem, 8vw, 7rem);
+    line-height: .84;
+    text-transform: uppercase;
+  }
+  .profile-copy p {
+    max-width: 66ch;
+    color: rgba(255,255,255,.82);
+    line-height: 1.65;
+  }
+  .profile-copy .motto {
+    color: #fff;
+    font-size: clamp(1.25rem, 2.2vw, 1.75rem);
+    font-weight: 900;
+    line-height: 1.2;
+  }
+  .profile-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 24px;
+  }
+  .profile-card {
+    overflow: hidden;
+    border: 2px solid rgba(255,255,255,.42);
+    border-radius: 20px;
+    background: rgba(255,255,255,.92);
+    color: #101820;
+    box-shadow: 0 12px 0 rgba(16,24,32,.2), 0 34px 84px rgba(0,0,0,.24);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
+  .profile-card img {
+    width: 100%;
+    aspect-ratio: 4 / 4.6;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+  .profile-card div {
+    padding: 18px;
+  }
+  .profile-card span,
+  .profile-rules span {
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-size: .6rem;
+    font-weight: 900;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .profile-card b {
+    display: block;
+    margin-top: 7px;
+    font-size: 1.18rem;
+    line-height: 1.25;
+  }
+  .profile-card small {
+    display: block;
+    margin-top: 9px;
+    color: #5d6a76;
+    line-height: 1.45;
+  }
+  .profile-body { padding: 34px 22px 72px; }
+  .profile-rules {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .profile-rules article,
+  .profile-empty {
+    border: 2px solid rgba(16,24,32,.12);
+    border-radius: 18px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 9px 0 rgba(16,24,32,.09);
+  }
+  .profile-rules p {
+    margin-top: 10px;
+    color: #334155;
+    line-height: 1.58;
+  }
+  .profile-guide-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+  }
+  .profile-empty p {
+    margin-top: 8px;
+    color: #435363;
+  }
+  @media (max-width: 980px) {
+    .profile-grid,
+    .profile-rules,
+    .profile-guide-grid { grid-template-columns: 1fr; }
+    .profile-card { max-width: 420px; }
+  }
+</style>
