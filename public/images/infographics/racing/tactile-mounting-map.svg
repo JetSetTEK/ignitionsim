@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tactile transducer mounting map for sim racing rigs</title>
+  <desc id="desc">A readable map showing where to mount seat and pedal deck tactile transducers and what each position is best for.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151a20"/>
+      <stop offset=".55" stop-color="#252b33"/>
+      <stop offset="1" stop-color="#501b0c"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5e1a"/>
+      <stop offset="1" stop-color="#ffb000"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" rx="54" fill="url(#bg)"/>
+  <path d="M0 722 C260 628 414 770 688 680 C920 604 1130 548 1600 630 L1600 900 L0 900 Z" fill="#0f1419" opacity=".72"/>
+  <g opacity=".14" stroke="#fff">
+    <path d="M120 0v900M260 0v900M400 0v900M540 0v900M680 0v900M820 0v900M960 0v900M1100 0v900M1240 0v900M1380 0v900M1520 0v900"/>
+    <path d="M0 130h1600M0 260h1600M0 390h1600M0 520h1600M0 650h1600M0 780h1600"/>
+  </g>
+  <text x="86" y="104" fill="#ff5e1a" font-family="Arial Black, Impact, sans-serif" font-size="35" letter-spacing="7">TACTILE MOUNTING MAP</text>
+  <text x="86" y="178" fill="#fff" font-family="Arial Black, Impact, sans-serif" font-size="72">Put the shake where the body can read it.</text>
+  <text x="88" y="226" fill="#c9d2dc" font-family="Arial, sans-serif" font-size="27">Seat rails first. Pedal deck second. Frame-wide buzz last, if ever.</text>
+  <g filter="url(#shadow)">
+    <rect x="190" y="316" width="840" height="330" rx="28" fill="#f7f8fa"/>
+    <rect x="242" y="390" width="468" height="86" rx="26" fill="#1b222a"/>
+    <rect x="330" y="286" width="270" height="160" rx="54" fill="#252c34"/>
+    <rect x="470" y="448" width="448" height="58" rx="16" fill="#2d3540"/>
+    <rect x="372" y="506" width="500" height="38" rx="12" fill="#39424e"/>
+    <rect x="310" y="544" width="610" height="72" rx="14" fill="#1b222a"/>
+    <rect x="828" y="420" width="110" height="190" rx="12" fill="#1b222a"/>
+    <circle cx="850" cy="686" r="44" fill="url(#hot)"/>
+    <circle cx="478" cy="624" r="44" fill="url(#hot)"/>
+    <circle cx="808" cy="624" r="44" fill="#35d0ba"/>
+    <circle cx="985" cy="520" r="34" fill="#35d0ba"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="25" fill="#101820">
+    <rect x="92" y="672" width="430" height="142" rx="22" fill="#fff" filter="url(#shadow)"/>
+    <text x="124" y="726" font-family="Arial Black, Impact, sans-serif" font-size="30">1. Seat rails</text>
+    <text x="124" y="770">Best first position for road texture,</text>
+    <text x="124" y="804">kerbs, impacts, engine rumble.</text>
+    <rect x="586" y="672" width="430" height="142" rx="22" fill="#fff" filter="url(#shadow)"/>
+    <text x="618" y="726" font-family="Arial Black, Impact, sans-serif" font-size="30">2. Pedal deck</text>
+    <text x="618" y="770">Adds front-end cues: ABS, lockup,</text>
+    <text x="618" y="804">wheelspin, curb nibble.</text>
+    <rect x="1080" y="672" width="430" height="142" rx="22" fill="#fff" filter="url(#shadow)"/>
+    <text x="1112" y="726" font-family="Arial Black, Impact, sans-serif" font-size="30">3. Whole frame</text>
+    <text x="1112" y="770">Last resort. It often becomes noise,</text>
+    <text x="1112" y="804">rattle, and annoyed household.</text>
+  </g>
+  <g font-family="Arial Black, Impact, sans-serif" font-size="24">
+    <path d="M332 670 C368 640 414 631 478 624" stroke="#ff5e1a" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M766 670 C780 650 794 638 808 624" stroke="#35d0ba" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M1294 670 C1190 604 1090 550 985 520" stroke="#35d0ba" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="1018" y="334" width="430" height="210" rx="24" fill="#101820" stroke="#ff5e1a" stroke-width="4"/>
+    <text x="1050" y="390" fill="#ff5e1a">DUKE'S RULE</text>
+    <text x="1050" y="442" fill="#fff" font-size="34">If it shakes the room more</text>
+    <text x="1050" y="486" fill="#fff" font-size="34">than the seat, remount it.</text>
+  </g>
+</svg>

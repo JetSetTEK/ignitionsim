@@ -1,12 +1,15 @@
 # IgnitionSim Content Triage
 
-Current library: 89 articles across racing, flight, space, marine, and golf. The library is worth keeping, but the public strategy should favor the strongest buyer-intent pages while older/thinner pieces get refreshed into the IgnitionSim standard.
+Current library: 101 articles across racing, flight, space, marine, and golf. The library is worth keeping, but the public strategy must favor the strongest buyer-intent pages while older, duplicate, or thinner pieces stay hidden as refresh candidates until they can carry real product/use/install imagery and article-specific editorial judgment.
 
 ## Decision
 - Clean-slate rule: only `goldStatus: "certified"` articles are public.
+- Homepage, Sim Stream, category pages, guides, sitemap, and related slots must never surface duplicate, draft, refresh, archived, generic-card, placeholder-card, or missing-art articles.
 - Existing incomplete articles stay in the repo as `refresh` by default and are not deleted.
+- Duplicate topics are consolidated behind the strongest page. The weaker duplicate remains a refresh candidate until it has a distinct buyer question, distinct product proof, and a better reason to exist than "more keywords."
 - Keep the content engine front and center.
 - Keep gear/product data in the repo, but do not treat gear pages, brand pages, or best-of rankings as public SEO surfaces until they pass the product-review standard. They may exist as noindexed lab/support pages while review snapshots, low-star warnings, and source checks are added.
+- `npm run gold-audit` now includes public-surface QA: homepage/stream IDs must exist, be certified, have real card files, avoid duplicate card art, and avoid generic labels such as "Product proof," "Control map," "Display wall," or "Cockpit fit."
 - Backburner public tools until the data layer is strong enough to earn trust.
 - Refresh articles rather than deleting them unless a page is inaccurate, obsolete, or too thin to rescue.
 
@@ -45,6 +48,12 @@ These already match high-intent searches. Add real product photos, current sourc
 - Space: `hosas-vs-hotas.md`, `best-beginner-hosas-under-300.md`, `best-space-sim-controllers-2026.md`, `best-hotas-for-star-citizen.md`, `stream-deck-button-box-space-sim.md`, `mounting-your-hosas-monstertech.md`
 - Golf: `golf-simulator-room-size.md`, `golf-simulator-cost.md`, `skytrak-vs-bushnell-launch-pro-vs-gc3.md`, `best-golf-launch-monitor-under-1000.md`, `golf-simulator-impact-screen-enclosure.md`, `golf-simulator-projector-guide.md`, `best-golf-simulator-software.md`
 - Audit-demoted rescues: `flight/flightsimexpo-2026-hardware-buyer-map.md`, `marine/marine-sim-hardware-reality.md`, `space/vkb-vs-virpil-vs-winwing-space-sticks-2026.md`
+
+## Duplicate/Quality Guardrails
+- If two certified articles answer the same purchase question, keep the one with the strongest current product photos, source shelf, buy/wait verdict, and curator point of view public. Move the weaker one to `refresh`.
+- If a public card uses a generic label, repeated product image, white-box-only cutout, abstract/generated fallback, or text that could belong to any article, the article does not get homepage or stream priority.
+- If an article includes internal planning language, placeholder markers, or generic proof-stack copy, the build must fail before deploy.
+- If the article cannot show what the reader is buying, installing, using, or comparing, it is not ready for the $10k/month standard.
 
 ## Tier 3: Keep, But Do Not Lead With Yet
 These can work as long-tail support pages after a source/photo refresh. They should not dominate homepage or first-click paths until improved.

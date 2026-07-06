@@ -44,7 +44,7 @@
   "flight-sim-usb-hub-wiring-multi-panel": {
     "image": "/images/generated/article-covers/flight-sim-usb-hub-wiring-multi-panel.webp",
     "alt": "Flight Sim USB Hubs and Wiring: How to Power a Multi-Panel Cockpit (2026) cover with Honeycomb Bravo throttle quadrant with its backlit autopilot annunciator panel — the kind of power-hungry, LED-heavy device that overwhelms plain USB in a multi-panel cockpit and Mac Donovan",
-    "label": "Cockpit fit",
+    "label": "USB power map",
     "wide": true
   },
   "flightsimexpo-2026-hardware-buyer-map": {
@@ -104,7 +104,7 @@
   "vr-vs-monitor-flight-sim": {
     "image": "/images/generated/article-covers/vr-vs-monitor-flight-sim.webp",
     "alt": "VR vs Monitor for Flight Sim in 2026: The Honest Trade-Off for MSFS 2024 cover with Pimax Crystal Light PCVR headset — the high-clarity path for MSFS 2024 cockpits and Mac Donovan",
-    "label": "Display wall",
+    "label": "VR cockpit tradeoff",
     "wide": true
   },
   "yoke-throttle-rudder-head-tracking-order-2026": {
@@ -302,7 +302,7 @@
   "professional-ship-simulator-2026-hardware-setup": {
     "image": "/images/generated/article-covers/professional-ship-simulator-2026-hardware-setup.webp",
     "alt": "Professional Ship Simulator 2026 Hardware Setup: Dual Throttles, Conning Stick & Generic Boards cover with Professional Ship Simulator (formerly Nautic XP) key art — the upcoming hardware-friendly PC ship simulator and Gus Calder",
-    "label": "Control map",
+    "label": "Bridge controls",
     "wide": true
   },
   "racing-wheel-boat-helm": {
@@ -350,13 +350,13 @@
   "best-sim-racing-cockpits-and-seats-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-cockpits-and-seats-2026.webp",
     "alt": "Best Sim Racing Cockpits and Seats of 2026: The Rigidity Ladder cover with Trak Racer TR160 80/20 aluminium profile sim racing cockpit and Duke Alvarez",
-    "label": "Cockpit fit",
+    "label": "Rig fit verdict",
     "wide": true
   },
   "best-sim-racing-monitors-triple-vs-ultrawide-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-monitors-triple-vs-ultrawide-2026.webp",
     "alt": "Best Sim Racing Monitors of 2026: Triple vs Super-Ultrawide vs OLED cover with Samsung Odyssey OLED G9 49-inch super-ultrawide sim racing monitor and Duke Alvarez",
-    "label": "Display wall",
+    "label": "OLED display war",
     "wide": true
   },
   "best-sim-racing-motion-platforms-2026": {
@@ -500,13 +500,13 @@
   "best-beginner-hosas-under-300": {
     "image": "/images/generated/article-covers/best-beginner-hosas-under-300.webp",
     "alt": "Best Beginner HOSAS Under $300 for Star Citizen & Elite (2026) cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the upgrade-path beginner HOSAS pick and Val Chen",
-    "label": "Control map",
+    "label": "Starter HOSAS map",
     "wide": true
   },
   "best-controls-for-elite-dangerous": {
     "image": "/images/generated/article-covers/best-controls-for-elite-dangerous.webp",
     "alt": "Best Controls for Elite Dangerous in 2026 (HOSAS vs HOTAS vs Gamepad) cover with Thrustmaster T.16000M FCS joystick — the building block of the cheapest credible Elite Dangerous HOSAS rig and Val Chen",
-    "label": "Control map",
+    "label": "Elite control path",
     "wide": true
   },
   "best-hotas-for-star-citizen": {
@@ -590,7 +590,7 @@
   "vkb-vs-virpil-vs-winwing-space-sticks-2026": {
     "image": "/images/generated/article-covers/vkb-vs-virpil-vs-winwing-space-sticks-2026.webp",
     "alt": "VKB vs Virpil vs WinWing for Space Sims in 2026: Which Boutique HOSAS Brand Should You Buy? cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the default first HOSAS pick and Val Chen",
-    "label": "Control map",
+    "label": "Boutique stick war",
     "wide": true
   },
   "voiceattack-hcs-setup-space-sims": {

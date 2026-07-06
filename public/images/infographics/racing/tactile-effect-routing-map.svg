@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">SimHub tactile effect routing map</title>
+  <desc id="desc">A large readable infographic showing which SimHub ShakeIt effects should go to seat and pedal deck tactile transducers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fafc"/>
+      <stop offset=".5" stop-color="#eef5f9"/>
+      <stop offset="1" stop-color="#fff2e9"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5e1a"/>
+      <stop offset="1" stop-color="#ffb000"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13c2d7"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0f172a" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" rx="54" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#94a3b8">
+    <path d="M80 160h1440M80 300h1440M80 440h1440M80 580h1440M80 720h1440"/>
+    <path d="M240 80v740M520 80v740M800 80v740M1080 80v740M1360 80v740"/>
+  </g>
+  <text x="86" y="104" fill="#ff5e1a" font-family="Arial Black, Impact, sans-serif" font-size="35" letter-spacing="7">SIMHUB ROUTING MAP</text>
+  <text x="86" y="178" fill="#101820" font-family="Arial Black, Impact, sans-serif" font-size="72">Separate signal from rumble soup.</text>
+  <text x="88" y="226" fill="#475569" font-family="Arial, sans-serif" font-size="27">The win is not “more vibration.” It is the right cue in the right body part.</text>
+  <g filter="url(#shadow)">
+    <rect x="92" y="296" width="410" height="440" rx="30" fill="#101820"/>
+    <text x="132" y="360" fill="#ff5e1a" font-family="Arial Black, Impact, sans-serif" font-size="36">SEAT RAIL PAIR</text>
+    <text x="132" y="410" fill="#fff" font-family="Arial Black, Impact, sans-serif" font-size="44">Big body cues</text>
+    <g font-family="Arial, sans-serif" font-size="28" fill="#dbe6ef">
+      <text x="132" y="486">Road texture</text>
+      <text x="132" y="540">Kerbs and impacts</text>
+      <text x="132" y="594">Engine vibration</text>
+      <text x="132" y="648">Rear slip / wheelspin</text>
+    </g>
+    <rect x="552" y="296" width="496" height="440" rx="30" fill="#fff"/>
+    <text x="596" y="360" fill="#0ea5e9" font-family="Arial Black, Impact, sans-serif" font-size="36">PEDAL DECK PAIR</text>
+    <text x="596" y="410" fill="#101820" font-family="Arial Black, Impact, sans-serif" font-size="44">Foot-level warnings</text>
+    <g font-family="Arial, sans-serif" font-size="28" fill="#334155">
+      <text x="596" y="486">ABS pulse</text>
+      <text x="596" y="540">Brake lockup</text>
+      <text x="596" y="594">Front tyre chatter</text>
+      <text x="596" y="648">Shift thump, if subtle</text>
+    </g>
+    <rect x="1098" y="296" width="410" height="440" rx="30" fill="#101820"/>
+    <text x="1138" y="360" fill="#ffb000" font-family="Arial Black, Impact, sans-serif" font-size="36">DO NOT START HERE</text>
+    <text x="1138" y="410" fill="#fff" font-family="Arial Black, Impact, sans-serif" font-size="44">All effects everywhere</text>
+    <g font-family="Arial, sans-serif" font-size="28" fill="#dbe6ef">
+      <text x="1138" y="486">Muddy buzz</text>
+      <text x="1138" y="540">Hot amp</text>
+      <text x="1138" y="594">Frame rattle</text>
+      <text x="1138" y="648">No usable information</text>
+    </g>
+  </g>
+  <g font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#101820">
+    <rect x="220" y="778" width="1160" height="72" rx="24" fill="url(#orange)" filter="url(#shadow)"/>
+    <text x="274" y="825">DUKE'S STARTER PROFILE: seat rails first, then pedal deck, then turn half the effects down.</text>
+  </g>
+  <path d="M502 516 C540 516 528 516 552 516" stroke="#ff5e1a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1048 516 C1084 516 1072 516 1098 516" stroke="#0ea5e9" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -28,33 +28,171 @@ const accents = {
   marine: '#2dd4bf',
 };
 
-const crewByBay = {
-  racing: {
-    name: 'Duke Alvarez',
-    image: '/images/crew/duke-alvarez.webp',
+const crewProfiles = {
+	  duke: {
+	    name: 'Duke Alvarez',
+	    image: '/images/crew/duke-alvarez.webp',
+	    scenes: [
+	      '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+	      '/images/curator-scenes/duke-racing-pedal-setup.webp',
+	      '/images/dream/duke-racing-rig-tip.webp',
+	      '/images/dream/duke-iracing-rig-review.webp',
+    ],
     note: 'Torque first. Flex never gets a hall pass.',
   },
-  golf: {
-    name: 'Nina Brooks',
-    image: '/images/crew/nina-brooks.webp',
+	  nina: {
+	    name: 'Nina Brooks',
+	    image: '/images/crew/nina-brooks.webp',
+	    scenes: [
+	      '/images/curator-scenes/nina-golf-bay-room-check-2.webp',
+	      '/images/curator-scenes/nina-golf-bay-presenting.webp',
+	      '/images/dream/nina-premium-launch-monitor-lab.webp',
+	      '/images/dream/nina-budget-launch-monitor-room.webp',
+      '/images/dream/nina-golf-bay-tip.webp',
+    ],
     note: 'Measure the room before you fall in love.',
   },
-  flight: {
-    name: 'Val Chen',
-    image: '/images/crew/val-chen.webp',
+	  val: {
+	    name: 'Val Chen',
+	    image: '/images/crew/val-chen.webp',
+	    scenes: [
+	      '/images/curator-scenes/val-space-hosas-routing-2.webp',
+	      '/images/curator-scenes/val-space-hosas-cable-check.webp',
+	      '/images/dream/val-flight-space-tip.webp',
+	    ],
     note: 'Clean routing beats cockpit clutter.',
   },
-  space: {
-    name: 'Val Chen',
-    image: '/images/crew/val-chen.webp',
+	  valSpace: {
+	    name: 'Val Chen',
+	    image: '/images/crew/val-chen.webp',
+	    scenes: [
+	      '/images/curator-scenes/val-space-hosas-routing-2.webp',
+	      '/images/curator-scenes/val-space-hosas-cable-check.webp',
+	      '/images/dream/val-flight-space-tip.webp',
+	    ],
     note: 'Bind for stress, not for the screenshot.',
   },
-  marine: {
+	  mac: {
+	    name: 'Mac Donovan',
+	    image: '/images/crew/mac-donovan.webp',
+	    scenes: [
+	      '/images/curator-scenes/mac-gpu-flight-pc-workbench.webp',
+	      '/images/curator-scenes/mac-vr-sim-checklist.webp',
+	      '/images/curator-scenes/mac-diy-button-board-test.webp',
+	    ],
+    note: 'Test the cable before blaming the sim.',
+  },
+  gus: {
     name: 'Gus Calder',
     image: '/images/crew/gus-calder.webp',
+    scenes: [
+      '/images/curator-scenes/gus-marine-throttle-helm.webp',
+    ],
     note: 'Label everything. Save every profile.',
   },
 };
+
+const crewByBay = {
+  racing: crewProfiles.duke,
+  golf: crewProfiles.nina,
+  flight: crewProfiles.mac,
+  space: crewProfiles.valSpace,
+  marine: crewProfiles.gus,
+};
+
+const crewByAuthor = Object.fromEntries(
+  Object.values(crewProfiles).map((crew) => [crew.name.toLowerCase(), crew])
+);
+
+const slugProductHints = {
+  'best-gpu-for-sim-racing-flight-2026': [
+    '/images/gear/flight/nvidia-rtx-5080.jpg',
+    '/images/gear/flight/nvidia-rtx-5090.jpg',
+  ],
+  'best-vr-headset-for-sim-2026': [
+    '/images/gear/flight/pimax-crystal-super.jpg',
+    '/images/gear/flight/bigscreen-beyond-2.jpg',
+    '/images/gear/flight/meta-quest-3s.jpg',
+  ],
+  'best-bass-shakers-tactile-sim-2026': [
+    '/images/gear/racing/buttkicker-gamer-pro.jpg',
+    '/images/gear/racing/dayton-bst-1.jpg',
+  ],
+  'best-sim-racing-cockpits-and-seats-2026': [
+    '/images/gear/racing/sim-lab-p1x.jpg',
+    '/images/gear/racing/trak-racer-trx.jpg',
+  ],
+  'best-sim-racing-monitors-triple-vs-ultrawide-2026': [
+    '/images/gear/racing/samsung-odyssey-neo-g9-57.jpg',
+    '/images/gear/racing/samsung-odyssey-oled-g9-49.jpg',
+  ],
+  'best-sim-racing-motion-platforms-2026': [
+    '/images/gear/racing/nlr-motion-v3.jpg',
+    '/images/gear/racing/dof-reality-h3.jpg',
+  ],
+  'sim-rig-accessories-audio-lighting-2026': [
+    '/images/gear/racing/steelseries-arctis-nova-7.jpg',
+    '/images/gear/racing/govee-rgbic-bars.jpg',
+  ],
+};
+
+const slugSceneHints = {
+  'best-gpu-for-sim-racing-flight-2026': '/images/curator-scenes/mac-gpu-flight-pc-workbench.webp',
+  'best-vr-headset-for-sim-2026': '/images/curator-scenes/mac-vr-sim-checklist.webp',
+  'best-bass-shakers-tactile-sim-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+  'best-sim-racing-cockpits-and-seats-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+  'best-sim-racing-monitors-triple-vs-ultrawide-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+  'best-sim-racing-motion-platforms-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+  'sim-rig-accessories-audio-lighting-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+};
+
+function inferredLabel(data, slug) {
+  const haystack = `${slug} ${data.title || ''} ${data.primaryKeyword || ''}`.toLowerCase();
+  if (haystack.includes('gpu') || haystack.includes('rtx')) return 'GPU reality';
+  if (haystack.includes('vr headset')) return 'VR cockpit fit';
+  if (haystack.includes('bass shaker') || haystack.includes('tactile')) return 'Tactile punch';
+  if (haystack.includes('cockpit') || haystack.includes('seat')) return 'Cockpit fit';
+  if (haystack.includes('monitor') || haystack.includes('ultrawide')) return 'Display wall';
+  if (haystack.includes('motion platform') || haystack.includes('motion')) return 'Motion tax';
+  if (haystack.includes('accessories') || haystack.includes('audio') || haystack.includes('lighting')) return 'Rig finishers';
+  if (haystack.includes('launch monitor')) return 'Launch monitor lab';
+  if (haystack.includes('projector')) return 'Projector geometry';
+  if (haystack.includes('hosas') || haystack.includes('hotas') || haystack.includes('stick')) return 'Control map';
+  return 'Product proof';
+}
+
+function productRelevanceScore(data, slug, rel) {
+  const haystack = `${slug} ${data.title || ''} ${data.primaryKeyword || ''}`.toLowerCase();
+  const image = String(rel || '').toLowerCase();
+  let score = 0;
+
+  const promote = (needles, amount = 12) => {
+    if (needles.some((needle) => haystack.includes(needle)) && needles.some((needle) => image.includes(needle))) score += amount;
+  };
+  const demoteWhen = (topics, badNeedles, amount = 30) => {
+    if (topics.some((topic) => haystack.includes(topic)) && badNeedles.some((needle) => image.includes(needle))) score -= amount;
+  };
+
+  promote(['gpu', 'rtx', '5080', '5090', 'nvidia'], 24);
+  promote(['vr', 'headset', 'quest', 'pimax', 'bigscreen'], 20);
+  promote(['bass', 'shaker', 'tactile', 'buttkicker', 'dayton'], 18);
+  promote(['cockpit', 'seat', 'rig', 'p1x', 'trak-racer'], 18);
+  promote(['monitor', 'ultrawide', 'odyssey', 'g9'], 18);
+  promote(['motion', 'actuator', 'dof', 'nlr-motion'], 18);
+  promote(['audio', 'lighting', 'accessories', 'govee', 'steelseries', 'usb'], 14);
+  promote(['launch', 'monitor', 'garmin', 'skytrak', 'foresight', 'bushnell', 'uneekor', 'square'], 16);
+  promote(['projector', 'benq', 'optoma'], 16);
+  promote(['hosas', 'hotas', 'stick', 'joystick', 'vkb', 'virpil', 'winwing'], 14);
+  promote(['yoke', 'throttle', 'rudder', 'honeycomb', 'turtle', 'moza-ay'], 14);
+
+  demoteWhen(['gpu', 'rtx', 'graphics'], ['yoke', 'throttle', 'rudder', 'joystick', 'wheel', 'pedal', 'honeycomb'], 50);
+  demoteWhen(['vr headset', 'headset'], ['yoke', 'throttle', 'rudder', 'pedal', 'wheelbase'], 42);
+  demoteWhen(['cockpit', 'seat'], ['headset', 'projector', 'launch-monitor'], 18);
+  demoteWhen(['monitor', 'ultrawide'], ['pedal', 'wheelbase', 'shifter', 'throttle'], 22);
+  if (image.includes('trak-racer-tr80')) score -= 80;
+
+  return score;
+}
 
 function escapeXml(value = '') {
   return String(value)
@@ -194,6 +332,42 @@ async function roundedImage(abs, width, height, radius = 34) {
     .toBuffer();
 }
 
+async function blendedCuratorScene(abs, variant = 0) {
+  const width = 720;
+  const height = 520;
+  const positions = ['left', 'center', 'top', 'entropy'];
+  const scene = await sharp(abs, { animated: false, limitInputPixels: 80_000_000 })
+    .rotate()
+    .resize(width, height, { fit: 'cover', position: positions[variant % positions.length] })
+    .modulate({ saturation: 1.1, brightness: 0.94 })
+    .blur(0.3)
+    .png()
+    .toBuffer();
+  const mask = Buffer.from(`
+    <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="fade" cx="31%" cy="42%" r="78%">
+          <stop offset="0" stop-color="#fff" stop-opacity=".98"/>
+          <stop offset=".52" stop-color="#fff" stop-opacity=".82"/>
+          <stop offset=".78" stop-color="#fff" stop-opacity=".42"/>
+          <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="side" x1="0" x2="1">
+          <stop offset="0" stop-color="#fff" stop-opacity=".98"/>
+          <stop offset=".72" stop-color="#fff" stop-opacity=".72"/>
+          <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <rect width="${width}" height="${height}" fill="url(#side)"/>
+      <rect width="${width}" height="${height}" fill="url(#fade)" opacity=".72"/>
+    </svg>
+  `);
+  return sharp(scene)
+    .composite([{ input: mask, blend: 'dest-in' }])
+    .webp({ quality: 90 })
+    .toBuffer();
+}
+
 async function productCutout(abs, rel = '') {
   const base = sharp(abs, { animated: false, limitInputPixels: 80_000_000 }).rotate();
   const keepLightBackground = false;
@@ -233,8 +407,8 @@ function overlaySvg({ article, art, accent, crew, productCount }) {
       : 'Product bench'
   );
   const type = escapeXml((article.type || 'buyer guide').replace(/-/g, ' '));
-  const crewNote = wrapText(crew.note, 29, 2).map((line, index) =>
-    `<text x="322" y="${694 + index * 28}" class="small" font-size="20" opacity="0.88">${escapeXml(line)}</text>`
+  const crewNote = wrapText(crew.note, 38, 2).map((line, index) =>
+    `<text x="104" y="${694 + index * 28}" class="small" font-size="20" opacity="0.88">${escapeXml(line)}</text>`
   ).join('');
   return Buffer.from(`
     <svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
@@ -263,7 +437,7 @@ function overlaySvg({ article, art, accent, crew, productCount }) {
       <rect width="1600" height="900" fill="url(#scrim)"/>
       <rect width="1600" height="900" fill="url(#glow)"/>
       <rect width="1600" height="900" fill="url(#bench)"/>
-      <g opacity="0.22">
+      <g opacity="0.15">
         ${Array.from({ length: 36 }, (_, i) => `<line x1="${i * 48}" y1="0" x2="${i * 48}" y2="900" stroke="#fff" stroke-width="1"/>`).join('')}
         ${Array.from({ length: 21 }, (_, i) => `<line x1="0" y1="${i * 48}" x2="1600" y2="${i * 48}" stroke="#fff" stroke-width="1"/>`).join('')}
       </g>
@@ -274,11 +448,17 @@ function overlaySvg({ article, art, accent, crew, productCount }) {
       <rect x="76" y="138" width="448" height="92" rx="20" fill="rgba(16,24,32,.55)" stroke="rgba(255,255,255,.22)"/>
       <text x="104" y="176" class="mono" font-size="14" fill="${accent}">verified product bench</text>
       <text x="104" y="214" class="label">${label}</text>
-      <rect x="78" y="622" width="610" height="112" rx="22" fill="rgba(16,24,32,.58)" stroke="rgba(255,255,255,.20)"/>
-      <text x="322" y="662" class="caption" font-size="24">${escapeXml(crew.name)}:</text>
+      <rect x="76" y="616" width="560" height="126" rx="24" fill="rgba(16,24,32,.54)" stroke="rgba(255,255,255,.18)"/>
+      <text x="104" y="653" class="mono" font-size="13" fill="${accent}">curator signal</text>
+      <text x="104" y="679" class="caption" font-size="23">${escapeXml(crew.name)}:</text>
       ${crewNote}
     </svg>
   `);
+}
+
+function crewForArticle(data, bay) {
+  const author = String(data.author || '').toLowerCase();
+  return crewByAuthor[author] || crewByBay[bay] || crewByBay.racing;
 }
 
 async function main() {
@@ -303,22 +483,30 @@ async function main() {
     const inlineGearImages = inlineImages.filter((ref) => ref.startsWith('/images/gear/'));
     const artImage = art?.image;
     const heroImage = data.heroImage;
-    const candidates = [
-      artImage?.startsWith('/images/gear/') ? artImage : null,
-      heroImage?.startsWith('/images/gear/') ? heroImage : null,
-      ...inlineGearImages,
+	    const hintedImages = slugProductHints[slug] || [];
+	    const candidates = [
+	      ...hintedImages,
+	      artImage?.startsWith('/images/gear/') ? artImage : null,
+	      heroImage?.startsWith('/images/gear/') ? heroImage : null,
+	      ...inlineGearImages,
       artImage,
       heroImage,
       ...inlineImages,
       worlds[bay],
     ].filter(Boolean);
     const productRels = [];
-    for (const candidate of candidates) {
-      if (!productRels.includes(candidate) && await existsPublic(candidate)) productRels.push(candidate);
-    }
-    const gearRels = productRels.filter((rel) => rel.startsWith('/images/gear/'));
-    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
-    const productRel = displayRels[0] || worlds[bay];
+	    for (const candidate of candidates) {
+	      if (!productRels.includes(candidate) && await existsPublic(candidate)) productRels.push(candidate);
+	    }
+	    const gearRels = productRels
+	      .filter((rel) => rel.startsWith('/images/gear/'))
+	      .sort((a, b) => productRelevanceScore(data, slug, b) - productRelevanceScore(data, slug, a));
+	    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
+	    const productRel = displayRels[0] || worlds[bay];
+	    const coverArt = art || {
+	      label: inferredLabel(data, slug),
+	      alt: data.heroAlt || data.title || 'real product proof',
+	    };
     const slideNumber = (hashSlug(slug) % 3) + 1;
     const stockBackgrounds = rotated(
       [...await localBackgrounds(bay), worlds[bay]].filter(Boolean),
@@ -345,8 +533,10 @@ async function main() {
     }
     const productAbs = path.join(publicDir, productRel.replace(/^\//, ''));
     const worldAbs = path.join(publicDir, backgroundRel.replace(/^\//, ''));
-    const crew = crewByBay[bay] || crewByBay.racing;
-    const crewAbs = path.join(publicDir, crew.image.replace(/^\//, ''));
+    const crew = crewForArticle(data, bay);
+	    const sceneRels = [...(crew.scenes || []), crew.image].filter(Boolean);
+	    const sceneRel = slugSceneHints[slug] || rotated(sceneRels, bayIndex + hashSlug(slug))[0] || crew.image;
+    const sceneAbs = path.join(publicDir, sceneRel.replace(/^\//, ''));
     const accent = accents[bay] || accents.racing;
     const outRel = `/images/generated/article-covers/${slug}.webp`;
     const outAbs = path.join(publicDir, outRel.replace(/^\//, ''));
@@ -382,7 +572,7 @@ async function main() {
         ];
         productLayers.push({ input: resized, ...positions[index] });
       }
-      const curator = await roundedImage(crewAbs, 220, 270, 30);
+      const curatorScene = await blendedCuratorScene(sceneAbs, bayIndex);
       const article = {
         title: data.title || slug.replace(/-/g, ' '),
         type: data.type || 'buyer-guide',
@@ -390,19 +580,19 @@ async function main() {
 
       await sharp(background)
         .composite([
-          { input: overlaySvg({ article, art, accent, crew, productCount: displayRels.length || 1 }), left: 0, top: 0 },
+          { input: curatorScene, left: 0, top: 332 },
+	          { input: overlaySvg({ article, art: coverArt, accent, crew, productCount: displayRels.length || 1 }), left: 0, top: 0 },
           ...productLayers,
-          { input: curator, left: 78, top: 610 },
         ])
         .webp({ quality: 88 })
         .toFile(outAbs);
 
       manifest[slug] = {
-        image: outRel,
-        alt: `${data.title || slug} cover with ${art?.alt || 'real product proof'} and ${crew.name}`,
-        label: art?.label || 'Product proof',
-        wide: true,
-      };
+	        image: outRel,
+	        alt: `${data.title || slug} cover with ${coverArt.alt || 'real product proof'} and ${crew.name}`,
+	        label: coverArt.label || 'Product proof',
+	        wide: true,
+	      };
       console.log(`+ ${slug}`);
     } catch (error) {
       console.log(`! ${slug}: ${error.message}`);
