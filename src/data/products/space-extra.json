@@ -183,5 +183,116 @@
     ],
     "affiliate": { "primary": "winwingsim.com (US store)", "note": "Entry-level metal throttle; pairs with WinWing Orion bases and panels, configured in SimAppPro." },
     "platforms": "PC (most boutique gear is PC-only)"
+  },
+  {
+    "id": "thrustmaster-sol-r2-hosas",
+    "bay": "space",
+    "type": "hosas",
+    "brand": "Thrustmaster",
+    "model": "SOL-R 2 HOSAS Space Sim Duo",
+    "price": 270,
+    "priceNote": "approx 2026 street price; verify live seller price and return window",
+    "image": "/images/gear/space/thrustmaster-sol-r2-hosas.webp",
+    "summary": "Thrustmaster's purpose-built dual-stick space-sim package, aimed directly at Star Citizen, Elite Dangerous, and six-degree spaceflight. The SOL-R 2 puts a left and right SOL-R stick in one box with Hall-effect X/Y/Z axes, detachable grips, RGB lighting, a huge button count, and TARGET software support. The appeal is obvious: a complete HOSAS without waiting for boutique stock or assembling a VKB/WinWing/Virpil cart. The caveat is just as obvious: big desktop bases, early ecosystem review volume, and the usual binding/profile work that turns night one into a setup session.",
+    "specs": {
+      "configuration": "Dual-stick HOSAS package for PC space sims",
+      "axes": "X/Y/Z Hall-effect stick axes plus virtual axes",
+      "buttons": "88 assignable buttons across the pair, per Thrustmaster's product page",
+      "grips": "Detachable, ambidextrous SOL-R grips",
+      "lighting": "RGB lighting on bases and grips",
+      "config": "TARGET software and in-game binding profiles"
+    },
+    "pros": [
+      "One-box HOSAS for six-degree spaceflight",
+      "Hall-effect axes are a major step above older potentiometer budget sticks",
+      "Lots of bindable inputs without piecing together a boutique cart"
+    ],
+    "cons": [
+      "Desktop bases are large; mounts or a deep desk help",
+      "TARGET and Star Citizen binding profiles can eat the first night",
+      "Retail review volume is still thin, so long-term durability sentiment is immature"
+    ],
+    "whoFor": "Star Citizen and Elite Dangerous pilots who want a complete dual-stick HOSAS in one retail box and are willing to spend time on bindings.",
+    "rating": { "overall": 8, "value": 8, "build": 7, "spaceFit": 9 },
+    "faqs": [
+      { "q": "Is SOL-R 2 better than a HOTAS for Star Citizen?", "a": "For dogfighting and six-degree strafing, yes. Two sticks give both hands analog control, which maps better to spaceflight than a single throttle lever." },
+      { "q": "Should I buy SOL-R 2 instead of VKB or WinWing?", "a": "Buy SOL-R 2 if you want a complete retail HOSAS and the sci-fi cockpit feel. Buy VKB or WinWing if you care more about upgrade ladders, tunable bases, and community-proven long-term ownership." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Also search Amazon and Best Buy; verify live reviews because the review pool is still young." },
+    "platforms": "PC"
+  },
+  {
+    "id": "thrustmaster-sol-r4-hotas",
+    "bay": "space",
+    "type": "hotas",
+    "brand": "Thrustmaster",
+    "model": "SOL-R 4 HOTAS",
+    "price": 350,
+    "priceNote": "approx 2026 street price; verify live seller price and return window",
+    "image": "/images/gear/space/thrustmaster-sol-r4-hotas.webp",
+    "summary": "The throttle-crossover sibling to SOL-R 2: one SOL-R stick plus Thrustmaster's SOL-R throttle. It is the better pick for pilots who split time between Elite Dangerous, DCS, MSFS, and space trucking because the 80 mm throttle travel, detents, and throttle-side controls feel more natural for cruise, power, and aircraft habits. It is less pure for six-axis dogfighting than dual sticks, but it may be the more comfortable all-around cockpit box for people who do not want to learn left-hand strafe on day one.",
+    "specs": {
+      "configuration": "Stick-and-throttle HOTAS package for PC",
+      "axes": "13 axes total, including Hall-effect X/Y on the stick and throttle axes",
+      "buttons": "58 assignable buttons, per Thrustmaster's product page",
+      "throttle": "80 mm throttle travel with detents",
+      "grip": "Detachable SOL-R grip",
+      "config": "TARGET software and in-game binding profiles"
+    },
+    "pros": [
+      "Better crossover layout for Elite Dangerous, DCS, MSFS, and cruise-heavy play",
+      "Real throttle travel and detents feel more natural than a second stick for hauling",
+      "Strong one-box alternative to Turtle Beach FlightDeck for PC pilots"
+    ],
+    "cons": [
+      "Less space-native than dual-stick HOSAS for strafing and dogfighting",
+      "TARGET/profile setup still matters",
+      "Newer ecosystem with thin long-term retail review data"
+    ],
+    "whoFor": "Space and flight crossover pilots who want a complete PC HOTAS with a real throttle instead of a pure HOSAS.",
+    "rating": { "overall": 8, "value": 7, "build": 8, "spaceFit": 7 },
+    "faqs": [
+      { "q": "Is SOL-R 4 better than SOL-R 2?", "a": "Only if you want a throttle. SOL-R 4 is better for Elite Dangerous hauling, DCS/MSFS crossover, and cruise-heavy flying; SOL-R 2 is better for Star Citizen dogfighting and full six-axis strafe." },
+      { "q": "Is SOL-R 4 better than Turtle Beach VelocityOne FlightDeck?", "a": "SOL-R 4 is the more traditional HOTAS. FlightDeck offers touchscreen/HUD features and a huge control count, but it is less space-native than dual sticks and also needs careful PC setup." }
+    ],
+    "affiliate": { "primary": "thrustmaster.com", "note": "Check Amazon, Best Buy, and Thrustmaster; verify live reviews before buying." },
+    "platforms": "PC"
+  },
+  {
+    "id": "turtle-beach-velocityone-flightdeck",
+    "bay": "space",
+    "type": "hotas",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne FlightDeck",
+    "price": 400,
+    "priceNote": "approx MSRP; sale pricing often changes",
+    "image": "/images/gear/space/turtle-beach-velocityone-flightdeck.webp",
+    "summary": "Turtle Beach's PC-only all-in-one HOTAS with a touchscreen/HUD fantasy, a large input count, and a very different vibe from Thrustmaster's SOL-R line. It is not an Xbox product despite the VelocityOne family name. The pitch is clean: one stick, one throttle, lots of mappable controls, modern lighting, and software-driven customization. The catch is that it remains a PC cockpit appliance rather than a space-native HOSAS, so Star Citizen dogfighters still need to decide whether a throttle is the right off-hand control.",
+    "specs": {
+      "configuration": "PC-only HOTAS with stick, throttle, and FlightDeck software",
+      "controls": "139 mappable controls, per Turtle Beach's product page",
+      "display": "Touch display / HUD-style command surface",
+      "sensors": "Contactless Hall-effect sensors",
+      "lighting": "RGB lighting zones",
+      "platforms": "Windows PC"
+    },
+    "pros": [
+      "Clean all-in-one PC HOTAS with modern display and lighting features",
+      "Huge mappable control count for bind-heavy sims",
+      "Easier retail availability than many boutique space-control ecosystems"
+    ],
+    "cons": [
+      "PC-only, not the Xbox VelocityOne option",
+      "Not a true HOSAS for six-degree strafe control",
+      "Software/display features are useful only if you take time to configure them"
+    ],
+    "whoFor": "PC pilots who want an all-in-one HOTAS appliance with a modern HUD/touchscreen feel instead of a modular boutique setup.",
+    "rating": { "overall": 8, "value": 7, "build": 8, "spaceFit": 7 },
+    "faqs": [
+      { "q": "Does VelocityOne FlightDeck work on Xbox?", "a": "No. The FlightDeck HOTAS is PC-only; the VelocityOne Flightstick is the Xbox-compatible product in the family." },
+      { "q": "Should Star Citizen pilots buy FlightDeck or HOSAS?", "a": "FlightDeck can work well if you prefer HOTAS, but HOSAS is the more natural layout for six-degree Star Citizen combat." }
+    ],
+    "affiliate": { "primary": "turtlebeach.com", "note": "Frequently sold through Turtle Beach, Amazon, and Best Buy; check live sale pricing." },
+    "platforms": "PC"
   }
 ]

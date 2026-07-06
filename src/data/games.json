@@ -140,7 +140,7 @@
     "bestFor": "Combat aviation pilots who want deep aircraft modules, HOTAS muscle memory, and serious cockpit workflow.",
     "hardwareThatMatters": "Quality HOTAS, rudder pedals, mounts, head tracking or VR, and enough buttons to stop touching the keyboard.",
     "watchTheTrap": "DCS can make cheap controls feel cheap fast. Buy fewer pieces, but buy the ones your aircraft actually needs.",
-    "guideIds": ["flight/yoke-throttle-rudder-head-tracking-order-2026", "flight/msfs-home-cockpit-buyer-map-2026"],
+    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "flight/yoke-throttle-rudder-head-tracking-order-2026", "flight/msfs-home-cockpit-buyer-map-2026"],
     "officialUrl": "https://www.digitalcombatsimulator.com/"
   },
   {
@@ -152,7 +152,7 @@
     "bestFor": "Pilots who want six-axis flight, dogfighting, hauling, mining, and a desk that starts looking like a cockpit.",
     "hardwareThatMatters": "Dual sticks or HOSAS, mounts, head tracking, button layers, and a binding plan you can remember under pressure.",
     "watchTheTrap": "A gorgeous dual-stick setup without mounts and bindings becomes expensive desk clutter.",
-    "guideIds": ["space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
+    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
     "officialUrl": "https://robertsspaceindustries.com/star-citizen"
   },
   {
@@ -164,7 +164,7 @@
     "bestFor": "Explorers, traders, combat pilots, and people who want a cockpit that feels good for hours.",
     "hardwareThatMatters": "HOTAS or HOSAS, comfortable mounts, head tracking, and enough buttons for menus without keyboard fishing.",
     "watchTheTrap": "Comfort beats maximal controls. A painful mount position ruins deep-space sessions.",
-    "guideIds": ["space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
+    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
     "officialUrl": "https://www.elitedangerous.com/"
   },
   {

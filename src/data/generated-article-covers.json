@@ -569,6 +569,12 @@
     "label": "HOSAS upgrade",
     "wide": true
   },
+  "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026": {
+    "image": "/images/generated/article-covers/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026.webp",
+    "alt": "Thrustmaster SOL-R 2 vs SOL-R 4 HOSAS and HOTAS 2026 guide cover with real SOL-R space sim hardware in use and Val Chen's verdict",
+    "label": "SOL-R verdict",
+    "wide": true
+  },
   "stream-deck-button-box-space-sim": {
     "image": "/images/generated/article-covers/stream-deck-button-box-space-sim.webp",
     "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with Elgato Stream Deck XL — the 32-key labeled macro panel that tames a space sim's 200-plus bindings and Val Chen",

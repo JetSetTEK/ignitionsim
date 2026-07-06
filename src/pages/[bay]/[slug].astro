@@ -112,6 +112,7 @@ const heroProofProduct = articleProducts[0];
 const heroProofImage = heroProofProduct ? displayProductImage(heroProofProduct) : '';
 const articleHeroImage = dream?.image || heroProofImage;
 const articleHeroAlt = dream?.alt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : d.heroAlt || d.title);
+const socialImage = d.heroImage || articleHeroImage || `/og/${d.bay}/${slug}.png`;
 const productBlurb = (p: any) => p.whoFor || (p.summary ? `${p.summary.split('. ').slice(0, 2).join('. ').replace(/\.$/, '')}.` : 'A verified product worth inspecting before this build goes in the cart.');
 const infographicByBay: Record<string, { src: string; alt: string; label: string }[]> = {
   golf: [
@@ -141,7 +142,7 @@ const schema: Record<string, any>[] = [
   {
     '@context': 'https://schema.org', '@type': 'Article',
     headline: d.title, description: d.description,
-    image: articleHeroImage ? new URL(articleHeroImage, site.url).href : new URL('/og-default.png', site.url).href,
+    image: new URL(socialImage, site.url).href,
     datePublished: new Date(d.publishDate).toISOString(),
     dateModified: new Date(d.updatedDate || d.publishDate).toISOString(),
     author: { '@type': 'Person', name: d.author, url: new URL(curatorHref || '/about', site.url).href },
@@ -174,7 +175,7 @@ if (d.faqs.length) {
 }
 ---
 <Base title={d.title} description={d.description} bay={d.bay} activeNav={d.bay} schema={schema}
-      image={articleHeroImage || `/og/${d.bay}/${slug}.png`}>
+      image={socialImage}>
   <article class="wrap">
     <header class="article-topper" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
       {articleHeroImage && <img src={articleHeroImage} alt={articleHeroAlt} loading="eager" decoding="async" />}
