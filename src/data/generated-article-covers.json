@@ -1,85 +1,97 @@
 {
   "best-flight-sim-hardware-2026": {
     "image": "/images/generated/article-covers/best-flight-sim-hardware-2026.webp",
-    "alt": "Best MSFS Flight Sim Hardware of 2026: Yokes, Throttles, Pedals, Panels and Head Tracking Ranked cover with real product proof and Val Chen",
+    "alt": "Best MSFS Flight Sim Hardware of 2026: Yokes, Throttles, Pedals, Panels and Head Tracking Ranked cover with Honeycomb Aeronautical Alpha Flight Controls yoke — the best first GA buy of 2026 and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "best-flight-sim-rudder-pedals": {
     "image": "/images/generated/article-covers/best-flight-sim-rudder-pedals.webp",
-    "alt": "Best Flight Sim Rudder Pedals 2026: Budget Sliders to Pendular and Force Feedback, Ranked cover with real product proof and Val Chen",
+    "alt": "Best Flight Sim Rudder Pedals 2026: Budget Sliders to Pendular and Force Feedback, Ranked cover with Honeycomb Aeronautical Charlie Rudder Pedals — aluminum-framed GA pedals with Hall-effect toe brakes and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "best-flight-sim-setup-beginners": {
     "image": "/images/generated/article-covers/best-flight-sim-setup-beginners.webp",
-    "alt": "Your First Flight Sim Setup: What to Buy First for MSFS 2024 cover with real product proof and Val Chen",
+    "alt": "Your First Flight Sim Setup: What to Buy First for MSFS 2024 cover with Honeycomb Alpha Flight Controls yoke — the GA anchor most beginners upgrade to within a month and Mac Donovan",
     "label": "Product proof",
+    "wide": true
+  },
+  "best-gpu-for-sim-racing-flight-2026": {
+    "image": "/images/generated/article-covers/best-gpu-for-sim-racing-flight-2026.webp",
+    "alt": "Best GPU for Sim Racing and Flight in 2026: RTX 5080 vs RTX 5090 for MSFS 2024, Triples and VR cover with NVIDIA GeForce RTX 5080 graphics card — the 2026 sweet spot for sim triples and 1440p VR and Mac Donovan",
+    "label": "GPU reality",
     "wide": true
   },
   "best-hotas-msfs-2024": {
     "image": "/images/generated/article-covers/best-hotas-msfs-2024.webp",
-    "alt": "Best HOTAS for MSFS 2024 in 2026: Stick-and-Throttle Picks by Budget and Aircraft cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Best HOTAS for MSFS 2024 in 2026: Stick-and-Throttle Picks by Budget and Aircraft cover with Thrustmaster TCA Sidestick Airbus Edition — a stick-first way into MSFS 2024 flying and Mac Donovan",
+    "label": "Control map",
+    "wide": true
+  },
+  "best-vr-headset-for-sim-2026": {
+    "image": "/images/generated/article-covers/best-vr-headset-for-sim-2026.webp",
+    "alt": "Best VR Headset for Sim in 2026: Clarity vs Comfort vs Value cover with Pimax Crystal Super PCVR headset — the 2026 clarity benchmark for sim cockpits and Mac Donovan",
+    "label": "VR cockpit fit",
     "wide": true
   },
   "flight-sim-control-curves-calibration": {
     "image": "/images/generated/article-covers/flight-sim-control-curves-calibration.webp",
-    "alt": "Flight Sim Control Curves & Calibration: Fix Twitchy Controls in MSFS 2024 cover with real product proof and Val Chen",
+    "alt": "Flight Sim Control Curves & Calibration: Fix Twitchy Controls in MSFS 2024 cover with Honeycomb Alpha yoke — a low-deadzone, drift-free reference for tuning MSFS 2024 control curves and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "flight-sim-usb-hub-wiring-multi-panel": {
     "image": "/images/generated/article-covers/flight-sim-usb-hub-wiring-multi-panel.webp",
-    "alt": "Flight Sim USB Hubs and Wiring: How to Power a Multi-Panel Cockpit (2026) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Flight Sim USB Hubs and Wiring: How to Power a Multi-Panel Cockpit (2026) cover with Honeycomb Bravo throttle quadrant with its backlit autopilot annunciator panel — the kind of power-hungry, LED-heavy device that overwhelms plain USB in a multi-panel cockpit and Mac Donovan",
+    "label": "Cockpit fit",
     "wide": true
   },
   "flightsimexpo-2026-hardware-buyer-map": {
     "image": "/images/generated/article-covers/flightsimexpo-2026-hardware-buyer-map.webp",
-    "alt": "FlightSimExpo 2026 Hardware Buyer Map: What to Buy Now, What to Watch, What to Skip cover with real product proof and Val Chen",
+    "alt": "FlightSimExpo 2026 Hardware Buyer Map: What to Buy Now, What to Watch, What to Skip cover with Thrustmaster TCA Sky Yoke — the FlightSimExpo 2026 headline for beginner and console MSFS pilots and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "force-feedback-yoke-worth-it": {
     "image": "/images/generated/article-covers/force-feedback-yoke-worth-it.webp",
-    "alt": "Is a Force-Feedback Yoke Worth It for MSFS in 2026? cover with real product proof and Val Chen",
+    "alt": "Is a Force-Feedback Yoke Worth It for MSFS in 2026? cover with Honeycomb Aeronautical Alpha yoke — the verified non-FFB baseline most pilots should buy before force feedback and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "head-tracking-trackir-vs-tobii-msfs": {
     "image": "/images/generated/article-covers/head-tracking-trackir-vs-tobii-msfs.webp",
-    "alt": "TrackIR 5 vs Tobii Eye Tracker 5 for MSFS in 2026: The Honest Head-Tracking Verdict cover with real product proof and Val Chen",
+    "alt": "TrackIR 5 vs Tobii Eye Tracker 5 for MSFS in 2026: The Honest Head-Tracking Verdict cover with NaturalPoint TrackIR 5 head tracking camera with TrackClip PRO and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "helicopter-flight-sim-controls-collective-cyclic": {
     "image": "/images/generated/article-covers/helicopter-flight-sim-controls-collective-cyclic.webp",
-    "alt": "Helicopter Flight Sim Controls for MSFS 2024: Collective, Cyclic and Anti-Torque Pedals cover with real product proof and Val Chen",
+    "alt": "Helicopter Flight Sim Controls for MSFS 2024: Collective, Cyclic and Anti-Torque Pedals cover with Thrustmaster TCA Quadrant Airbus Edition — the community's favorite collective substitute for helicopter sim in MSFS 2024 and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "honeycomb-flight-deck-upgrade-path": {
     "image": "/images/generated/article-covers/honeycomb-flight-deck-upgrade-path.webp",
-    "alt": "The Honeycomb Upgrade Path: Alpha to Bravo to Charlie, and the Honest Truth About the Pedals cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "The Honeycomb Upgrade Path: Alpha to Bravo to Charlie, and the Honest Truth About the Pedals cover with Honeycomb Aeronautical Alpha Flight Controls yoke — stage one of the Honeycomb GA cockpit upgrade path and Mac Donovan",
+    "label": "Cockpit fit",
     "wide": true
   },
   "honeycomb-vs-thrustmaster-tca": {
     "image": "/images/generated/article-covers/honeycomb-vs-thrustmaster-tca.webp",
-    "alt": "Honeycomb vs Thrustmaster TCA (2026): Which Flight Sim Ecosystem to Buy cover with real product proof and Val Chen",
+    "alt": "Honeycomb vs Thrustmaster TCA (2026): Which Flight Sim Ecosystem to Buy cover with Honeycomb Aeronautical Alpha Flight Controls yoke — the GA anchor of the Honeycomb-vs-Thrustmaster-TCA decision and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "how-to-mount-flight-sim-hardware": {
     "image": "/images/generated/article-covers/how-to-mount-flight-sim-hardware.webp",
-    "alt": "How to Mount Flight Sim Hardware to a Desk (Without It Sliding Around) cover with real product proof and Val Chen",
+    "alt": "How to Mount Flight Sim Hardware to a Desk (Without It Sliding Around) cover with Honeycomb Alpha yoke with its integrated steel desk clamps — the piece most flight sim mounting starts with and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
   "msfs-2024-best-graphics-settings-fps": {
     "image": "/images/generated/article-covers/msfs-2024-best-graphics-settings-fps.webp",
-    "alt": "MSFS 2024 Best Graphics Settings in 2026: Stop the Stutter, Keep the Frames cover with real product proof and Val Chen",
+    "alt": "MSFS 2024 Best Graphics Settings in 2026: Stop the Stutter, Keep the Frames cover with A triple-monitor flight-sim battlestation silhouette at night with screens glowing cyan and an abstract HUD altitude tape and Mac Donovan",
     "label": "Product proof",
     "wide": true
   },
@@ -91,8 +103,8 @@
   },
   "vr-vs-monitor-flight-sim": {
     "image": "/images/generated/article-covers/vr-vs-monitor-flight-sim.webp",
-    "alt": "VR vs Monitor for Flight Sim in 2026: The Honest Trade-Off for MSFS 2024 cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "VR vs Monitor for Flight Sim in 2026: The Honest Trade-Off for MSFS 2024 cover with Pimax Crystal Light PCVR headset — the high-clarity path for MSFS 2024 cockpits and Mac Donovan",
+    "label": "Display wall",
     "wide": true
   },
   "yoke-throttle-rudder-head-tracking-order-2026": {
@@ -103,25 +115,25 @@
   },
   "best-golf-launch-monitor-under-1000": {
     "image": "/images/generated/article-covers/best-golf-launch-monitor-under-1000.webp",
-    "alt": "Best Golf Launch Monitors Under $1,000 in 2026: The Honest Sub-$1K Field cover with real product proof and Nina Brooks",
-    "label": "Product proof",
+    "alt": "Best Golf Launch Monitors Under $1,000 in 2026: The Honest Sub-$1K Field cover with Close detail of a budget photometric launch monitor beside a golf ball on a fairway-green hitting mat in warm directional light and Nina Brooks",
+    "label": "Display wall",
     "wide": true
   },
   "best-golf-simulator-hitting-mat": {
     "image": "/images/generated/article-covers/best-golf-simulator-hitting-mat.webp",
-    "alt": "Best Golf Simulator Hitting Mats of 2026: Fiberbuilt vs SIGPRO Softy vs Country Club Elite (The Joint-Saving Buy) cover with real product proof and Nina Brooks",
+    "alt": "Best Golf Simulator Hitting Mats of 2026: Fiberbuilt vs SIGPRO Softy vs Country Club Elite (The Joint-Saving Buy) cover with A clubhead striking a golf ball off a premium fairway-green hitting mat with a faint spark of impact in a dark cinematic bay and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "best-golf-simulator-software": {
     "image": "/images/generated/article-covers/best-golf-simulator-software.webp",
-    "alt": "Best Golf Simulator Software 2026: GSPro vs E6 Connect vs TGC 2019 vs FSX Play vs Awesome Golf cover with real product proof and Nina Brooks",
+    "alt": "Best Golf Simulator Software 2026: GSPro vs E6 Connect vs TGC 2019 vs FSX Play vs Awesome Golf cover with SkyTrak+ launch monitor, the most software-flexible sensor that speaks GSPro, E6 Connect, TGC 2019, and Awesome Golf and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "best-golf-simulators-2026": {
     "image": "/images/generated/article-covers/best-golf-simulators-2026.webp",
-    "alt": "Best Home Golf Simulators of 2026: Complete Builds by Budget cover with real product proof and Nina Brooks",
+    "alt": "Best Home Golf Simulators of 2026: Complete Builds by Budget cover with SkyTrak ST MAX launch monitor, the anchor of the best-value 2026 home golf simulator build and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
@@ -133,14 +145,20 @@
   },
   "do-you-need-a-gaming-pc-golf-simulator": {
     "image": "/images/generated/article-covers/do-you-need-a-gaming-pc-golf-simulator.webp",
-    "alt": "Do You Need a Gaming PC for a Golf Simulator? The Honest 2026 Spec Breakdown cover with real product proof and Nina Brooks",
+    "alt": "Do You Need a Gaming PC for a Golf Simulator? The Honest 2026 Spec Breakdown cover with Garmin Approach R50, the all-in-one launch monitor that runs a full simulator on its own touchscreen with no gaming PC and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "garage-golf-simulator-build-guide": {
     "image": "/images/generated/article-covers/garage-golf-simulator-build-guide.webp",
-    "alt": "Garage Golf Simulator Build Guide 2026: Ceiling, Depth, Cold, and the Buy Order That Works cover with real product proof and Nina Brooks",
+    "alt": "Garage Golf Simulator Build Guide 2026: Ceiling, Depth, Cold, and the Buy Order That Works cover with Carl's Place DIY golf simulator enclosure and impact screen, the backbone of a garage build and Nina Brooks",
     "label": "Product proof",
+    "wide": true
+  },
+  "garmin-r50-room-build-bible-2026": {
+    "image": "/images/golf/garmin-r50-room-build-bible.jpg",
+    "alt": "Garmin Approach R50 Room Build Bible cover with Nina Brooks measuring a golf simulator bay and real R50 product proof",
+    "label": "R50 room bible",
     "wide": true
   },
   "golf-launch-monitors-under-5000-2026": {
@@ -157,13 +175,13 @@
   },
   "golf-simulator-cost": {
     "image": "/images/generated/article-covers/golf-simulator-cost.webp",
-    "alt": "What a Home Golf Simulator Actually Costs in 2026: Real All-In Budgets by Tier cover with real product proof and Nina Brooks",
+    "alt": "What a Home Golf Simulator Actually Costs in 2026: Real All-In Budgets by Tier cover with SkyTrak+ launch monitor, the accuracy-per-dollar anchor of a mid-tier home golf simulator build and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "golf-simulator-impact-screen-enclosure": {
     "image": "/images/generated/article-covers/golf-simulator-impact-screen-enclosure.webp",
-    "alt": "Golf Simulator Impact Screen & Enclosure Guide 2026: DIY vs Premium, Bounceback Safety, and the Image-Quality Buy cover with real product proof and Nina Brooks",
+    "alt": "Golf Simulator Impact Screen & Enclosure Guide 2026: DIY vs Premium, Bounceback Safety, and the Image-Quality Buy cover with A taut golf simulator impact screen glowing with a sunlit links fairway inside a deep-green padded enclosure and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
@@ -175,13 +193,13 @@
   },
   "golf-simulator-room-size": {
     "image": "/images/generated/article-covers/golf-simulator-room-size.webp",
-    "alt": "Golf Simulator Room Size in 2026: The Ceiling, Depth, and Width Your Bay Actually Needs cover with real product proof and Nina Brooks",
+    "alt": "Golf Simulator Room Size in 2026: The Ceiling, Depth, and Width Your Bay Actually Needs cover with A golfer at the top of the backswing inside a dim simulator bay, club near a low ceiling, with a fairway glowing on the screen ahead and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "gspro-setup-guide-courses-connectors": {
     "image": "/images/generated/article-covers/gspro-setup-guide-courses-connectors.webp",
-    "alt": "GSPro Setup Guide 2026: Connectors, Courses, and the Gotchas Nobody Warns You About cover with real product proof and Nina Brooks",
+    "alt": "GSPro Setup Guide 2026: Connectors, Courses, and the Gotchas Nobody Warns You About cover with SkyTrak+ launch monitor — one of the units that reaches GSPro through a connector and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
@@ -205,7 +223,7 @@
   },
   "low-ceiling-golf-simulator": {
     "image": "/images/generated/article-covers/low-ceiling-golf-simulator.webp",
-    "alt": "Low-Ceiling Golf Simulator: The 8.5-Foot Basement Survival Guide for 2026 cover with real product proof and Nina Brooks",
+    "alt": "Low-Ceiling Golf Simulator: The 8.5-Foot Basement Survival Guide for 2026 cover with SkyTrak+ side-of-ball photometric launch monitor, the anchor of a low-ceiling 8.5-foot basement golf simulator build and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
@@ -217,85 +235,85 @@
   },
   "radar-vs-photometric-launch-monitor": {
     "image": "/images/generated/article-covers/radar-vs-photometric-launch-monitor.webp",
-    "alt": "Radar vs Photometric Launch Monitors (2026): How Each Measures, and Which One Your Room Actually Allows cover with real product proof and Nina Brooks",
-    "label": "Product proof",
+    "alt": "Radar vs Photometric Launch Monitors (2026): How Each Measures, and Which One Your Room Actually Allows cover with A photometric camera launch monitor beside a hitting mat and a radar unit set behind it, lit in warm gold against deep green simulator walls and Nina Brooks",
+    "label": "Display wall",
     "wide": true
   },
   "skytrak-plus-review": {
     "image": "/images/generated/article-covers/skytrak-plus-review.webp",
-    "alt": "SkyTrak+ Review in 2026: The Closeout Buy, and Why New Buyers Should Look at ST MAX cover with real product proof and Nina Brooks",
+    "alt": "SkyTrak+ Review in 2026: The Closeout Buy, and Why New Buyers Should Look at ST MAX cover with SkyTrak+ photometric golf launch monitor, the accuracy-per-dollar camera unit now selling as a discontinued closeout and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "skytrak-vs-bushnell-launch-pro-vs-gc3": {
     "image": "/images/generated/article-covers/skytrak-vs-bushnell-launch-pro-vs-gc3.webp",
-    "alt": "SkyTrak+ vs Bushnell Launch Pro vs Foresight GC3: The Premium-Photometric Head-to-Head (2026) cover with real product proof and Nina Brooks",
+    "alt": "SkyTrak+ vs Bushnell Launch Pro vs Foresight GC3: The Premium-Photometric Head-to-Head (2026) cover with SkyTrak+ photometric golf launch monitor sitting beside the ball on a hitting mat and Nina Brooks",
     "label": "Product proof",
     "wide": true
   },
   "best-budget-marine-sim-setup": {
     "image": "/images/generated/article-covers/best-budget-marine-sim-setup.webp",
-    "alt": "Best Budget Marine Sim Setup for Under $200 (Without Wasting Money) cover with real product proof and Gus Calder",
+    "alt": "Best Budget Marine Sim Setup for Under $200 (Without Wasting Money) cover with Bridge Command, the free open-source ship-handling simulator that anchors the cheapest possible marine sim setup and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "best-marine-sim-gear-2026": {
     "image": "/images/generated/article-covers/best-marine-sim-gear-2026.webp",
-    "alt": "Best Marine Sim Gear of 2026: The Honest, Practical Control Stack cover with real product proof and Gus Calder",
+    "alt": "Best Marine Sim Gear of 2026: The Honest, Practical Control Stack cover with Thrustmaster TWCS throttle repurposed as a ship's engine lever — the practical heart of a marine sim control stack and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "best-sailing-sim-setup-2026": {
     "image": "/images/generated/article-covers/best-sailing-sim-setup-2026.webp",
-    "alt": "Best Sailing Sim Setup for 2026: eSail V3, Sailaway III, MarineVerse VR and the Hardware That Actually Helps cover with real product proof and Gus Calder",
+    "alt": "Best Sailing Sim Setup for 2026: eSail V3, Sailaway III, MarineVerse VR and the Hardware That Actually Helps cover with A polished stainless yacht tiller and winch glistening with sea spray at ocean dusk, deep teal water and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "diy-bridge-command-throttle": {
     "image": "/images/generated/article-covers/diy-bridge-command-throttle.webp",
-    "alt": "Build Your Own Ship's Wheel and Throttle for Bridge Command (Under $60) cover with real product proof and Gus Calder",
+    "alt": "Build Your Own Ship's Wheel and Throttle for Bridge Command (Under $60) cover with Leo Bodnar BU0836X joystick interface board with push-in wire terminals — the brain of a DIY Bridge Command helm build and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "diy-marine-button-box-bridge-console": {
     "image": "/images/generated/article-covers/diy-marine-button-box-bridge-console.webp",
-    "alt": "DIY Marine Button Box: Build a Bridge Console for Horn, Lights, Anchor and VHF cover with real product proof and Gus Calder",
+    "alt": "DIY Marine Button Box: Build a Bridge Console for Horn, Lights, Anchor and VHF cover with Leo Bodnar BBI-32 button box interface board — the solderless digital brain behind a DIY bridge switch panel and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "marine-sim-controller-support": {
     "image": "/images/generated/article-covers/marine-sim-controller-support.webp",
-    "alt": "Marine Sim Controller Support: Which Sims Actually Read Your Wheel and Throttle (2026) cover with real product proof and Gus Calder",
+    "alt": "Marine Sim Controller Support: Which Sims Actually Read Your Wheel and Throttle (2026) cover with Professional Ship Simulator (ex-Nautic XP) — the upcoming ship sim built around deep controller mapping and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "marine-sim-hardware-reality": {
     "image": "/images/generated/article-covers/marine-sim-hardware-reality.webp",
-    "alt": "The Marine Sim Hardware Reality Check: Why There's No 'Boat Wheel' (And What You Actually Buy) cover with real product proof and Gus Calder",
+    "alt": "The Marine Sim Hardware Reality Check: Why There's No 'Boat Wheel' (And What You Actually Buy) cover with Repurposed sim gear arranged as a marine console — racing wheel, throttle quadrant, button box — on dark slate with teal rim light and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "marine-sim-mapping-software-guide": {
     "image": "/images/generated/article-covers/marine-sim-mapping-software-guide.webp",
-    "alt": "Mapping Software for Marine Sims: The AntiMicroX, JoyToKey, vJoy and reWASD Playbook cover with real product proof and Gus Calder",
+    "alt": "Mapping Software for Marine Sims: The AntiMicroX, JoyToKey, vJoy and reWASD Playbook cover with A repurposed flight throttle lever standing in as a ship's engine control — the exact analog hardware that mapping software exists to bring to life and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "professional-ship-simulator-2026-hardware-setup": {
     "image": "/images/generated/article-covers/professional-ship-simulator-2026-hardware-setup.webp",
-    "alt": "Professional Ship Simulator 2026 Hardware Setup: Dual Throttles, Conning Stick & Generic Boards cover with real product proof and Gus Calder",
-    "label": "Product proof",
+    "alt": "Professional Ship Simulator 2026 Hardware Setup: Dual Throttles, Conning Stick & Generic Boards cover with Professional Ship Simulator (formerly Nautic XP) key art — the upcoming hardware-friendly PC ship simulator and Gus Calder",
+    "label": "Control map",
     "wide": true
   },
   "racing-wheel-boat-helm": {
     "image": "/images/generated/article-covers/racing-wheel-boat-helm.webp",
-    "alt": "Can a Racing Wheel Be a Boat Helm? Logitech G29/G923 in Marine Sims, Honestly cover with real product proof and Gus Calder",
+    "alt": "Can a Racing Wheel Be a Boat Helm? Logitech G29/G923 in Marine Sims, Honestly cover with Thrustmaster T.16000M flight stick used as a marine rudder axis — the input a wheel-steered sim actually reads and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
   "vr-sailing-simulator": {
     "image": "/images/generated/article-covers/vr-sailing-simulator.webp",
-    "alt": "VR Sailing in 2026: Is MarineVerse on Quest 3 the Real Helm Replacement? cover with real product proof and Gus Calder",
+    "alt": "VR Sailing in 2026: Is MarineVerse on Quest 3 the Real Helm Replacement? cover with Meta Quest 3 headset — the whole hardware stack for VR sailing in MarineVerse Sailing Club and Gus Calder",
     "label": "Product proof",
     "wide": true
   },
@@ -307,49 +325,73 @@
   },
   "bass-shakers-tactile-feedback-simhub-2026": {
     "image": "/images/generated/article-covers/bass-shakers-tactile-feedback-simhub-2026.webp",
-    "alt": "Bass Shakers & Tactile Feedback 2026: The SimHub Setup Guide cover with real product proof and Duke Alvarez",
-    "label": "Product proof",
+    "alt": "Bass Shakers & Tactile Feedback 2026: The SimHub Setup Guide cover with ButtKicker Gamer PRO tactile transducer and its 150W amplifier — the plug-and-play route into sim racing tactile feedback and Duke Alvarez",
+    "label": "Tactile punch",
     "wide": true
   },
   "best-acc-wheel-settings-2026": {
     "image": "/images/generated/article-covers/best-acc-wheel-settings-2026.webp",
-    "alt": "Best ACC Wheel Settings 2026: Per-Base FFB That Actually Works cover with real product proof and Duke Alvarez",
+    "alt": "Best ACC Wheel Settings 2026: Per-Base FFB That Actually Works cover with MOZA R12 direct-drive wheelbase, a 12Nm reference base for ACC force feedback tuning and Duke Alvarez",
     "label": "Product proof",
+    "wide": true
+  },
+  "best-bass-shakers-tactile-sim-2026": {
+    "image": "/images/generated/article-covers/best-bass-shakers-tactile-sim-2026.webp",
+    "alt": "Best Bass Shakers & Tactile Transducers for Sim Racing 2026: The 'Why Did I Wait' Upgrade cover with ButtKicker Gamer PRO tactile transducer and its bundled 150W amplifier — the plug-and-play route into sim racing tactile feedback and Duke Alvarez",
+    "label": "Tactile punch",
     "wide": true
   },
   "best-ffb-settings-iracing-acc-lmu-2026": {
     "image": "/images/generated/article-covers/best-ffb-settings-iracing-acc-lmu-2026.webp",
-    "alt": "Best FFB Settings 2026: iRacing, ACC and Le Mans Ultimate Dialed In cover with real product proof and Duke Alvarez",
+    "alt": "Best FFB Settings 2026: iRacing, ACC and Le Mans Ultimate Dialed In cover with MOZA R12 direct-drive wheelbase — the kind of base these FFB settings target and Duke Alvarez",
     "label": "Product proof",
+    "wide": true
+  },
+  "best-sim-racing-cockpits-and-seats-2026": {
+    "image": "/images/generated/article-covers/best-sim-racing-cockpits-and-seats-2026.webp",
+    "alt": "Best Sim Racing Cockpits and Seats of 2026: The Rigidity Ladder cover with Trak Racer TR160 80/20 aluminium profile sim racing cockpit and Duke Alvarez",
+    "label": "Cockpit fit",
+    "wide": true
+  },
+  "best-sim-racing-monitors-triple-vs-ultrawide-2026": {
+    "image": "/images/generated/article-covers/best-sim-racing-monitors-triple-vs-ultrawide-2026.webp",
+    "alt": "Best Sim Racing Monitors of 2026: Triple vs Super-Ultrawide vs OLED cover with Samsung Odyssey OLED G9 49-inch super-ultrawide sim racing monitor and Duke Alvarez",
+    "label": "Display wall",
+    "wide": true
+  },
+  "best-sim-racing-motion-platforms-2026": {
+    "image": "/images/generated/article-covers/best-sim-racing-motion-platforms-2026.webp",
+    "alt": "Best Sim Racing Motion Platforms of 2026: The Honest 2DOF-vs-3DOF Reckoning cover with Next Level Racing Motion Platform V3 2DOF seat mover and Duke Alvarez",
+    "label": "Motion tax",
     "wide": true
   },
   "best-sim-racing-setup-under-1000-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-setup-under-1000-2026.webp",
-    "alt": "The Best Sim Racing Setup Under $1,000 in 2026 (Full Rig) cover with real product proof and Duke Alvarez",
+    "alt": "The Best Sim Racing Setup Under $1,000 in 2026 (Full Rig) cover with MOZA R12 direct-drive wheelbase, the anchor of the best sim racing setup under $1,000 in 2026 and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "best-sim-racing-wheelbases-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-wheelbases-2026.webp",
-    "alt": "Best Sim Racing Wheelbases of 2026: The Direct-Drive Power Ranking cover with real product proof and Duke Alvarez",
+    "alt": "Best Sim Racing Wheelbases of 2026: The Direct-Drive Power Ranking cover with MOZA R12 direct-drive sim racing wheelbase and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "best-wheel-for-iracing-2026": {
     "image": "/images/generated/article-covers/best-wheel-for-iracing-2026.webp",
-    "alt": "Best Wheel for iRacing in 2026: What the Fast Guys Actually Run cover with real product proof and Duke Alvarez",
+    "alt": "Best Wheel for iRacing in 2026: What the Fast Guys Actually Run cover with MOZA R12 direct-drive wheelbase, the sweet-spot pick for iRacing in 2026 and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "button-box-vs-stream-deck-2026": {
     "image": "/images/generated/article-covers/button-box-vs-stream-deck-2026.webp",
-    "alt": "Button Box vs Stream Deck 2026: Which Sim Racing Controls to Buy cover with real product proof and Duke Alvarez",
+    "alt": "Button Box vs Stream Deck 2026: Which Sim Racing Controls to Buy cover with Sim racing button box with toggle switches beside a Stream Deck, amber rim light on carbon and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "cheapest-direct-drive-2026": {
     "image": "/images/generated/article-covers/cheapest-direct-drive-2026.webp",
-    "alt": "The Cheapest Direct Drive in 2026: Where Real DD Starts, and the Value Sweet Spot Just Above cover with real product proof and Duke Alvarez",
+    "alt": "The Cheapest Direct Drive in 2026: Where Real DD Starts, and the Value Sweet Spot Just Above cover with MOZA R3 direct-drive bundle with wheel and pedals, the cheapest credible way into real direct drive on Xbox and PC and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
@@ -367,13 +409,13 @@
   },
   "desk-vs-cockpit-sim-racing-2026": {
     "image": "/images/generated/article-covers/desk-vs-cockpit-sim-racing-2026.webp",
-    "alt": "Desk vs Wheel Stand vs Cockpit: What Survives Direct Drive (2026) cover with real product proof and Duke Alvarez",
-    "label": "Product proof",
+    "alt": "Desk vs Wheel Stand vs Cockpit: What Survives Direct Drive (2026) cover with Full 8020 aluminum-profile sim racing rig silhouetted against a dark room with cool monitor glow and Duke Alvarez",
+    "label": "Cockpit fit",
     "wide": true
   },
   "direct-drive-2026-do-you-need-it": {
     "image": "/images/generated/article-covers/direct-drive-2026-do-you-need-it.webp",
-    "alt": "Direct Drive in 2026: Do You Actually Need It (and How Much Torque Is Enough)? cover with real product proof and Duke Alvarez",
+    "alt": "Direct Drive in 2026: Do You Actually Need It (and How Much Torque Is Enough)? cover with MOZA R12 12Nm direct-drive wheelbase, the sweet-spot base most sim racers never outgrow and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
@@ -391,7 +433,7 @@
   },
   "how-to-fix-ffb-clipping-direct-drive-2026": {
     "image": "/images/generated/article-covers/how-to-fix-ffb-clipping-direct-drive-2026.webp",
-    "alt": "How to Fix FFB Clipping on a Direct-Drive Wheel (2026) cover with real product proof and Duke Alvarez",
+    "alt": "How to Fix FFB Clipping on a Direct-Drive Wheel (2026) cover with MOZA R12 direct-drive sim racing wheelbase, the headroom reference for a clipping fix and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
@@ -403,32 +445,38 @@
   },
   "moza-r5-review-2026": {
     "image": "/images/generated/article-covers/moza-r5-review-2026.webp",
-    "alt": "MOZA R5 Review (2026): Is the Cheapest Real MOZA Still Enough? cover with real product proof and Duke Alvarez",
+    "alt": "MOZA R5 Review (2026): Is the Cheapest Real MOZA Still Enough? cover with MOZA R5 direct-drive wheelbase bundle with ES wheel and SR-P Lite pedals and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "moza-vs-fanatec-vs-simagic": {
     "image": "/images/generated/article-covers/moza-vs-fanatec-vs-simagic.webp",
-    "alt": "MOZA vs Fanatec vs Simagic: Which Ecosystem Should You Buy Into in 2026? cover with real product proof and Duke Alvarez",
+    "alt": "MOZA vs Fanatec vs Simagic: Which Ecosystem Should You Buy Into in 2026? cover with MOZA R12 direct-drive wheelbase, the sweet-spot anchor of the MOZA ecosystem and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "pedals-over-power": {
     "image": "/images/generated/article-covers/pedals-over-power.webp",
-    "alt": "Pedals Over Power: Why Load-Cell Pedals Beat a Stronger Wheelbase in 2026 cover with real product proof and Duke Alvarez",
+    "alt": "Pedals Over Power: Why Load-Cell Pedals Beat a Stronger Wheelbase in 2026 cover with Heusinkveld Sim Pedals Sprint load-cell pedal set, the professional benchmark brake and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "quick-release-trap": {
     "image": "/images/generated/article-covers/quick-release-trap.webp",
-    "alt": "The Quick-Release Trap: How Sim Racing Ecosystems Lock You In (and How to Avoid It) cover with real product proof and Duke Alvarez",
+    "alt": "The Quick-Release Trap: How Sim Racing Ecosystems Lock You In (and How to Avoid It) cover with Fanatec ClubSport DD+ wheelbase with its QR2 quick-release shaft, the clearest example of ecosystem lock-in in sim racing and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
   "sim-racing-handbrake-shifter-guide-2026": {
     "image": "/images/generated/article-covers/sim-racing-handbrake-shifter-guide-2026.webp",
-    "alt": "Sim Racing Handbrake & Shifter Guide 2026: Rally, Drift, GT cover with real product proof and Duke Alvarez",
+    "alt": "Sim Racing Handbrake & Shifter Guide 2026: Rally, Drift, GT cover with Rigid aluminum-profile sim racing cockpit with side rails ready for a handbrake and shifter mount and Duke Alvarez",
     "label": "Product proof",
+    "wide": true
+  },
+  "sim-rig-accessories-audio-lighting-2026": {
+    "image": "/images/generated/article-covers/sim-rig-accessories-audio-lighting-2026.webp",
+    "alt": "Sim Rig Accessories 2026: The Cheap Finishing Touches That Complete Your Build cover with Govee RGBIC gaming light bars glowing behind a sim racing cockpit — the cheap ambient upgrade that finishes a build and Duke Alvarez",
+    "label": "Rig finishers",
     "wide": true
   },
   "sim-rig-buyer-map-2026": {
@@ -439,7 +487,7 @@
   },
   "smart-upgrade-path": {
     "image": "/images/generated/article-covers/smart-upgrade-path.webp",
-    "alt": "The Smart Sim Racing Upgrade Ladder: What to Buy in What Order (2026) cover with real product proof and Duke Alvarez",
+    "alt": "The Smart Sim Racing Upgrade Ladder: What to Buy in What Order (2026) cover with MOZA R12 direct-drive wheelbase, the 12Nm sweet-spot base most upgrade ladders end on and Duke Alvarez",
     "label": "Product proof",
     "wide": true
   },
@@ -451,62 +499,62 @@
   },
   "best-beginner-hosas-under-300": {
     "image": "/images/generated/article-covers/best-beginner-hosas-under-300.webp",
-    "alt": "Best Beginner HOSAS Under $300 for Star Citizen & Elite (2026) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Best Beginner HOSAS Under $300 for Star Citizen & Elite (2026) cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the upgrade-path beginner HOSAS pick and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "best-controls-for-elite-dangerous": {
     "image": "/images/generated/article-covers/best-controls-for-elite-dangerous.webp",
-    "alt": "Best Controls for Elite Dangerous in 2026 (HOSAS vs HOTAS vs Gamepad) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Best Controls for Elite Dangerous in 2026 (HOSAS vs HOTAS vs Gamepad) cover with Thrustmaster T.16000M FCS joystick — the building block of the cheapest credible Elite Dangerous HOSAS rig and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "best-hotas-for-star-citizen": {
     "image": "/images/generated/article-covers/best-hotas-for-star-citizen.webp",
-    "alt": "The Best HOTAS for Star Citizen in 2026 (Stick + Throttle Buying Guide) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "The Best HOTAS for Star Citizen in 2026 (Stick + Throttle Buying Guide) cover with Thrustmaster T.16000M FCS HOTAS — the budget stick-and-throttle gateway for Star Citizen and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "best-hotas-throttle-dcs-2026": {
     "image": "/images/generated/article-covers/best-hotas-throttle-dcs-2026.webp",
-    "alt": "Best HOTAS Throttle for DCS World in 2026: Warthog, Virpil, VKB STECS, and WinWing Compared cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Best HOTAS Throttle for DCS World in 2026: Warthog, Virpil, VKB STECS, and WinWing Compared cover with VKB STECS Throttle System Mk.II Standard — a modular dual-lever throttle with swappable afterburner detents and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "best-space-sim-controllers-2026": {
     "image": "/images/generated/article-covers/best-space-sim-controllers-2026.webp",
-    "alt": "Best Space Sim Controllers of 2026: HOSAS, HOTAS and Sticks Ranked cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Best Space Sim Controllers of 2026: HOSAS, HOTAS and Sticks Ranked cover with VKB Gladiator NXT EVO Space Combat Edition joystick — the building block of the best 2026 HOSAS space rig and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "gamepad-vs-hotas-star-citizen": {
     "image": "/images/generated/article-covers/gamepad-vs-hotas-star-citizen.webp",
-    "alt": "Gamepad vs HOTAS for Star Citizen in 2026: Is a Controller Enough? cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Gamepad vs HOTAS for Star Citizen in 2026: Is a Controller Enough? cover with Thrustmaster T.16000M FCS HOTAS stick and throttle — the honest first step up from a gamepad in Star Citizen and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "head-tracking-vs-vr-star-citizen": {
     "image": "/images/generated/article-covers/head-tracking-vs-vr-star-citizen.webp",
-    "alt": "Head Tracking vs VR for Star Citizen in 2026: TrackIR, Tobii, or a Headset? cover with real product proof and Val Chen",
+    "alt": "Head Tracking vs VR for Star Citizen in 2026: TrackIR, Tobii, or a Headset? cover with NaturalPoint TrackIR 5 optical head tracker — the smarter look-around buy for most Star Citizen pilots in 2026 and Val Chen",
     "label": "Product proof",
     "wide": true
   },
   "hosas-vs-hotas": {
     "image": "/images/generated/article-covers/hosas-vs-hotas.webp",
-    "alt": "HOSAS vs HOTAS for Space Sims in 2026: Two Sticks or Stick-and-Throttle? cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "HOSAS vs HOTAS for Space Sims in 2026: Two Sticks or Stick-and-Throttle? cover with VKB Gladiator NXT EVO Space Combat Edition stick — the building block of a HOSAS space rig and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "how-to-bind-six-axes-hosas": {
     "image": "/images/generated/article-covers/how-to-bind-six-axes-hosas.webp",
-    "alt": "How to Bind All Six Axes on a HOSAS (Star Citizen & Elite Dangerous, 2026) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "How to Bind All Six Axes on a HOSAS (Star Citizen & Elite Dangerous, 2026) cover with VKB Gladiator NXT EVO Space Combat Edition stick — one half of a HOSAS pair, the hardware you're about to bind and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "mounting-your-hosas-monstertech": {
     "image": "/images/generated/article-covers/mounting-your-hosas-monstertech.webp",
-    "alt": "Mounting Your HOSAS in 2026: Monstertech vs Foxx vs Virpil (and Why Your Sticks Slide) cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "Mounting Your HOSAS in 2026: Monstertech vs Foxx vs Virpil (and Why Your Sticks Slide) cover with Monstertech anodized-aluminum joystick table mount — the standard fix for a sliding HOSAS baseplate and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "star-citizen-hosas-buyer-map-2026": {
@@ -523,32 +571,32 @@
   },
   "stream-deck-button-box-space-sim": {
     "image": "/images/generated/article-covers/stream-deck-button-box-space-sim.webp",
-    "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with real product proof and Val Chen",
+    "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with Elgato Stream Deck XL — the 32-key labeled macro panel that tames a space sim's 200-plus bindings and Val Chen",
     "label": "Product proof",
     "wide": true
   },
   "vkb-gladiator-to-gunfighter-upgrade-path": {
     "image": "/images/generated/article-covers/vkb-gladiator-to-gunfighter-upgrade-path.webp",
-    "alt": "VKB Gladiator to Gunfighter Upgrade Path (2026): When to Step Up, and When to Stop cover with real product proof and Val Chen",
+    "alt": "VKB Gladiator to Gunfighter Upgrade Path (2026): When to Step Up, and When to Stop cover with VKB Gladiator NXT EVO Space Combat Edition — the bottom rung and the stick most pilots never need to leave and Val Chen",
     "label": "Product proof",
     "wide": true
   },
   "vkb-vs-virpil-vs-winwing-space-sticks-2026": {
     "image": "/images/generated/article-covers/vkb-vs-virpil-vs-winwing-space-sticks-2026.webp",
-    "alt": "VKB vs Virpil vs WinWing for Space Sims in 2026: Which Boutique HOSAS Brand Should You Buy? cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "VKB vs Virpil vs WinWing for Space Sims in 2026: Which Boutique HOSAS Brand Should You Buy? cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the default first HOSAS pick and Val Chen",
+    "label": "Control map",
     "wide": true
   },
   "voiceattack-hcs-setup-space-sims": {
     "image": "/images/generated/article-covers/voiceattack-hcs-setup-space-sims.webp",
-    "alt": "VoiceAttack & HCS Voice Packs for Star Citizen and Elite Dangerous: 2026 Setup Guide cover with real product proof and Val Chen",
+    "alt": "VoiceAttack & HCS Voice Packs for Star Citizen and Elite Dangerous: 2026 Setup Guide cover with Elgato Stream Deck XL macro panel — the labeled-hardware alternative to voice control for the space-sim bind problem and Val Chen",
     "label": "Product proof",
     "wide": true
   },
   "winwing-ursa-minor-vs-vkb-gladiator-nxt-evo": {
     "image": "/images/generated/article-covers/winwing-ursa-minor-vs-vkb-gladiator-nxt-evo.webp",
-    "alt": "WinWing Ursa Minor vs VKB Gladiator NXT EVO in 2026: The Sub-$120 Space Stick, Decided cover with real product proof and Val Chen",
-    "label": "Product proof",
+    "alt": "WinWing Ursa Minor vs VKB Gladiator NXT EVO in 2026: The Sub-$120 Space Stick, Decided cover with VKB Gladiator NXT EVO Space Combat Edition joystick — the verified benchmark the budget WinWing Ursa Minor is measured against and Val Chen",
+    "label": "Control map",
     "wide": true
   }
 }

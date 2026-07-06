@@ -16,39 +16,88 @@ import { crewSlug } from '../lib/crew';
 const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const articleById = new Map(all.map((a) => [a.id, a]));
 const slug = (a: any) => a.id.split('/').pop();
+const articleHref = (a: any) => `/${a.data.bay}/${slug(a)}`;
+const crewByName = new Map((crew as any[]).map((person) => [person.name, person]));
+const bayFallbackCurator = (bay: string) => {
+  const curatorName = bay === 'golf' ? 'Nina Brooks'
+    : bay === 'racing' ? 'Duke Alvarez'
+    : bay === 'marine' ? 'Gus Calder'
+    : bay === 'flight' ? 'Val Chen'
+    : bay === 'space' ? 'Val Chen'
+    : 'Mac Donovan';
+  return crewByName.get(curatorName) || (crew as any[])[0];
+};
+const curatorForArticle = (a: any) => crewByName.get(a.data.author) || bayFallbackCurator(a.data.bay);
+const uniqueArticles = (items: any[]) => {
+  const seen = new Set();
+  return items.filter((item) => {
+    if (!item || seen.has(item.id)) return false;
+    seen.add(item.id);
+    return true;
+  });
+};
+const diverseArticles = (items: any[], limit: number) => {
+  const remaining = [...uniqueArticles(items)];
+  const picked: any[] = [];
+  while (picked.length < limit && remaining.length) {
+    const last = picked[picked.length - 1];
+    const index = remaining.findIndex((item) => item.data.bay !== last?.data?.bay);
+    const [next] = remaining.splice(index >= 0 ? index : 0, 1);
+    picked.push(next);
+  }
+  return picked;
+};
 
 const cornerstoneIds = [
+  'golf/garmin-r50-room-build-bible-2026',
   'racing/iracing-review-2026',
   'golf/premium-launch-monitor-room-fit-2026',
+  'racing/console-direct-drive-2026',
+  'space/star-citizen-hosas-buyer-map-2026',
   'golf/budget-launch-monitor-war-2026',
+  'flight/msfs-home-cockpit-buyer-map-2026',
+  'racing/active-pedals-vs-load-cell-hydraulic-2026',
   'golf/golf-simulator-projector-guide',
   'golf/golf-launch-monitors-under-5000-2026',
-  'golf/home-golf-simulator-under-10000-2026',
-  'golf/home-golf-simulator-build-sheet-2026',
-  'racing/console-direct-drive-2026',
   'racing/direct-drive-upgrade-ladder-2026',
-  'racing/active-pedals-vs-load-cell-hydraulic-2026',
+  'golf/home-golf-simulator-under-10000-2026',
   'racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
-  'flight/msfs-home-cockpit-buyer-map-2026',
-  'space/star-citizen-hosas-buyer-map-2026',
+  'golf/home-golf-simulator-build-sheet-2026',
 ];
 const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Boolean);
 const featureGuides = cornerstones.map((a: any, i) => {
-  const href = `/${a.data.bay}/${slug(a)}`;
+  const href = articleHref(a);
   return { a, href, art: getArticleCardArt(href), i };
 });
-const latestRotator = all.slice(0, 10).map((a: any) => {
-  const href = `/${a.data.bay}/${slug(a)}`;
+const streamLeadIds = [
+  'golf/garmin-r50-room-build-bible-2026',
+  'racing/best-bass-shakers-tactile-sim-2026',
+  'flight/best-gpu-for-sim-racing-flight-2026',
+  'golf/golf-simulator-projector-guide',
+  'racing/best-sim-racing-cockpits-and-seats-2026',
+  'space/star-citizen-hosas-buyer-map-2026',
+  'marine/professional-ship-simulator-2026-hardware-setup',
+  'flight/best-vr-headset-for-sim-2026',
+  'golf/premium-launch-monitor-room-fit-2026',
+  'racing/active-pedals-vs-load-cell-hydraulic-2026',
+  'flight/msfs-home-cockpit-buyer-map-2026',
+  'golf/home-golf-simulator-build-sheet-2026',
+  'racing/best-sim-racing-monitors-triple-vs-ultrawide-2026',
+  'space/vkb-vs-virpil-vs-winwing-space-sticks-2026',
+  'racing/iracing-review-2026',
+];
+const streamArticles = diverseArticles(uniqueArticles([
+  ...streamLeadIds.map((id) => articleById.get(id)),
+  ...all,
+]), 18);
+const latestRotator = streamArticles.slice(0, 10).map((a: any) => {
+  const href = articleHref(a);
   return { a, href, art: getArticleCardArt(href) };
 });
-const latestBriefing = all.slice(0, 12).map((a: any, i) => {
-  const href = `/${a.data.bay}/${slug(a)}`;
+const latestBriefing = streamArticles.slice(0, 12).map((a: any, i) => {
+  const href = articleHref(a);
   const art = getArticleCardArt(href);
-  const curatorName = a.data.bay === 'golf' ? 'Nina Brooks'
-    : a.data.bay === 'racing' ? 'Duke Alvarez'
-    : a.data.bay === 'marine' ? 'Gus Calder'
-    : 'Val Chen';
-  const curator = (crew as any[]).find((p) => p.name === curatorName) || (crew as any[])[0];
+  const curator = curatorForArticle(a);
   return { a, href, art, curator, i };
 });
 
@@ -109,7 +158,29 @@ const lustProducts = lustKeys
     href: `/${p.bay}/gear/${p.id}`,
     buyUrl: buyUrl(p),
   }));
-const heroProofProducts = lustProducts.slice(0, 4);
+const heroBenchNotes = [
+  {
+    label: 'Room veto',
+    title: 'Nina measures before anyone falls in love.',
+    text: 'Ceiling, throw, hitting depth, and mat pain decide the golf bay before the launch monitor gets a vote.',
+    href: '/golf/home-golf-simulator-build-sheet-2026',
+    curator: crewByName.get('Nina Brooks'),
+  },
+  {
+    label: 'Rig truth',
+    title: 'Duke starts at the brake deck.',
+    text: 'Torque is fun. A flexing cockpit just makes expensive force feedback tell lies louder.',
+    href: '/racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
+    curator: crewByName.get('Duke Alvarez'),
+  },
+  {
+    label: 'Cable tax',
+    title: 'Val buys the powered hub first.',
+    text: 'A cockpit that drops USB mid-flight is not immersive. It is an avoidable wiring problem.',
+    href: '/flight/flight-sim-usb-hub-wiring-multi-panel',
+    curator: crewByName.get('Val Chen'),
+  },
+].filter((note) => note.curator);
 
 const bayLanes = [...bays]
   .sort((a, b) => (bayPriority[a.slug] || 9) - (bayPriority[b.slug] || 9))
@@ -147,13 +218,16 @@ const schema = [{
           <a class="btn btn-lg" href="#money-bench">See the parts bench</a>
         </div>
       </div>
-      <div class="hero-proof-stack">
-        <span>Real parts on the bench</span>
-        {heroProofProducts.map((p: any) => (
-          <a class="hero-proof-card" href={p.href}>
-            <img src={p.image} alt={`${p.brand} ${p.model}`} loading="eager" decoding="async" />
-            <b>{p.brand}</b>
-            <small>{p.model}</small>
+      <div class="hero-bench-stack">
+        <span>The crew's first warnings</span>
+        {heroBenchNotes.map((note: any) => (
+          <a class="hero-bench-card" href={note.href}>
+            <img src={note.curator.image} alt={note.curator.alt} loading="eager" decoding="async" />
+            <div>
+              <small>{note.label} · {note.curator.handle}</small>
+              <b>{note.title}</b>
+              <p>{note.text}</p>
+            </div>
           </a>
         ))}
       </div>
@@ -163,16 +237,63 @@ const schema = [{
   <div class="wrap">
     <section class="signal-strip" aria-label="IgnitionSim promise">
       <div><b>{all.length}</b><span>certified guides</span></div>
-      <div><b>{verifiedProducts.length}</b><span>verified product photos</span></div>
-      <div><b>0</b><span>sponsored verdicts</span></div>
+      <div><b>{verifiedProducts.length}</b><span>real product proof</span></div>
+      <div><b>0</b><span>paid verdicts</span></div>
       <div><b>5</b><span>sim build bays</span></div>
+    </section>
+
+    <section class="sec home-world-section build-world" id="build-bays" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">Build bays</span>
+          <h2>Pick the world first. The hardware only matters after that.</h2>
+        </div>
+        <span class="lbl">highest-intent build lanes</span>
+      </div>
+      <div class="bay-command-grid">
+        {bayLanes.map(({ bay, bayProducts, signal, world }) => (
+          <a class="bay-command" data-bay={bay.slug} href={`/${bay.slug}`} style={`--world-bg: url('${world.image}')`}>
+            <div class="bay-command-media">
+              <img src={world.image} alt={world.alt || `${bay.name} simulator world`} loading="lazy" decoding="async" />
+              <span>{bay.name}</span>
+            </div>
+            <div class="bay-command-copy">
+              <h3>{bay.tagline}</h3>
+              <p>{signal?.buyFast || bay.intro}</p>
+              <div class="bay-chip-row">
+                {bayProducts.map((p: any) => <span>{p.brand} {p.model}</span>)}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="sec home-world-section home-games-world" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
+      <div class="sec-head">
+        <div>
+          <span class="lbl lbl-accent">Games hub</span>
+          <h2>Start with what you play. Build the room around that.</h2>
+        </div>
+        <a class="lbl" href="/games">all sim games</a>
+      </div>
+      <div class="home-game-grid">
+        {homeGameCards.map((game) => (
+          <a class="home-game-card" data-bay={game.bay} href={`/games#${game.bay}`} style={`--world-bg: url('${game.world.image}')`}>
+            <span>{game.bayData?.name || game.bay}</span>
+            <h3>{game.name}</h3>
+            <p>{game.signal}</p>
+            <small>{game.hardwareThatMatters}</small>
+          </a>
+        ))}
+      </div>
     </section>
 
     <section class="sec latest-rotator" aria-label="Latest IgnitionSim buyer guides">
       <div class="sec-head">
         <div>
-          <span class="lbl lbl-accent">Fresh from the bench</span>
-          <h2>The latest 10 pieces worth opening before you spend.</h2>
+          <span class="lbl lbl-accent">Sim Stream</span>
+          <h2>Workbench dispatches worth reading before the cart opens.</h2>
         </div>
         <a class="lbl" href="/build-stream">open the Sim Stream</a>
       </div>
@@ -222,53 +343,6 @@ const schema = [{
         </div>
       </section>
     )}
-
-    <section class="sec home-world-section home-games-world" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Games hub</span>
-          <h2>Start with what you play. Build the room around that.</h2>
-        </div>
-        <a class="lbl" href="/games">all sim games</a>
-      </div>
-      <div class="home-game-grid">
-        {homeGameCards.map((game) => (
-          <a class="home-game-card" data-bay={game.bay} href={`/games#${game.bay}`} style={`--world-bg: url('${game.world.image}')`}>
-            <span>{game.bayData?.name || game.bay}</span>
-            <h3>{game.name}</h3>
-            <p>{game.signal}</p>
-            <small>{game.hardwareThatMatters}</small>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <section class="sec home-world-section build-world" id="build-bays" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Build bays</span>
-          <h2>Five worlds to build. Each one punishes lazy measurements differently.</h2>
-        </div>
-        <span class="lbl">highest-intent build lanes</span>
-      </div>
-      <div class="bay-command-grid">
-        {bayLanes.map(({ bay, bayProducts, signal, world }) => (
-          <a class="bay-command" data-bay={bay.slug} href={`/${bay.slug}`} style={`--world-bg: url('${world.image}')`}>
-            <div class="bay-command-media">
-              <img src={world.image} alt={world.alt || `${bay.name} simulator world`} loading="lazy" decoding="async" />
-              <span>{bay.name}</span>
-            </div>
-            <div class="bay-command-copy">
-              <h3>{bay.tagline}</h3>
-              <p>{signal?.buyFast || bay.intro}</p>
-              <div class="bay-chip-row">
-                {bayProducts.map((p: any) => <span>{p.brand} {p.model}</span>)}
-              </div>
-            </div>
-          </a>
-        ))}
-      </div>
-    </section>
 
     {lustProducts.length > 0 && (
       <section class="sec lust-section home-world-section" style={`--world-bg: url('${getWorldForBay('golf').image}')`}>
@@ -432,61 +506,78 @@ const schema = [{
     font-size: 1.08rem;
   }
   .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
-  .hero-proof-stack {
+  .hero-bench-stack {
     align-self: end;
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 10px;
-    padding: 12px;
-    color: #101820;
-    background: rgba(255,255,255,.88);
-    border: 2px solid rgba(255,255,255,.8);
-    border-radius: 14px;
-    box-shadow: 0 10px 0 rgba(16,24,32,.22);
+    gap: 12px;
+    max-width: 470px;
+    padding: 14px;
+    color: #fff;
+    background:
+      linear-gradient(145deg, rgba(16,24,32,.9), rgba(16,24,32,.68)),
+      radial-gradient(360px 220px at 100% 0%, rgba(255,94,26,.22), transparent 72%);
+    border: 2px solid rgba(255,255,255,.34);
+    border-radius: 18px;
+    box-shadow: 0 10px 0 rgba(16,24,32,.28), 0 28px 72px rgba(0,0,0,.28);
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
   }
-  .hero-proof-stack > span {
-    grid-column: 1 / -1;
+  .hero-bench-stack > span {
     font-family: var(--font-mono);
     font-size: .62rem;
     text-transform: uppercase;
     letter-spacing: .08em;
     font-weight: 800;
-    color: var(--accent);
+    color: color-mix(in srgb, var(--accent) 70%, #fff);
   }
-  .hero-proof-card {
+  .hero-bench-card {
     min-width: 0;
-    padding: 10px;
-    border: 1px solid rgba(16,24,32,.12);
-    border-radius: 10px;
-    background: #fff;
+    display: grid;
+    grid-template-columns: 76px 1fr;
+    gap: 12px;
+    align-items: center;
+    padding: 12px;
+    border: 1px solid rgba(255,255,255,.28);
+    border-radius: 14px;
+    background: rgba(255,255,255,.93);
     color: #101820;
   }
-  .hero-proof-card:hover {
-    border-color: #101820;
+  .hero-bench-card:hover {
+    border-color: #fff;
     transform: translateY(-3px);
   }
-  .hero-proof-card img {
-    width: 100%;
-    height: 104px;
-    object-fit: contain;
+  .hero-bench-card img {
+    width: 76px;
+    height: 76px;
+    border-radius: 12px;
+    object-fit: cover;
+    object-position: center top;
     display: block;
-    margin-bottom: 8px;
-    filter: drop-shadow(0 12px 16px rgba(16,24,32,.16));
+    border: 2px solid rgba(16,24,32,.14);
+    box-shadow: 0 10px 18px rgba(16,24,32,.16);
   }
-  .hero-proof-card b {
+  .hero-bench-card b {
     display: block;
     font-family: var(--font-disp);
-    font-size: 1rem;
-    line-height: 1;
+    font-size: 1.05rem;
+    line-height: 1.05;
   }
-  .hero-proof-card small {
+  .hero-bench-card small {
     display: block;
-    margin-top: 5px;
+    margin-bottom: 5px;
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-size: .54rem;
+    font-weight: 900;
+    letter-spacing: .1em;
+    line-height: 1.25;
+    text-transform: uppercase;
+  }
+  .hero-bench-card p {
+    margin-top: 6px;
     color: #435363;
-    font-size: .72rem;
-    line-height: 1.3;
+    font-size: .78rem;
+    line-height: 1.42;
   }
   .signal-strip {
     display: grid;
@@ -1190,7 +1281,7 @@ const schema = [{
   }
   @media (max-width: 1180px) {
     .hero-v2-inner { grid-template-columns: 1fr; }
-    .hero-proof-stack { max-width: 720px; }
+    .hero-bench-stack { max-width: 720px; }
     .bay-command-grid, .crew-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .feature-guide-grid, .lust-grid { grid-template-columns: 1fr 1fr; }
   }
@@ -1207,7 +1298,7 @@ const schema = [{
     .latest-slide-copy { padding: 18px; }
     .latest-slide-copy h3 { -webkit-line-clamp: 4; font-size: 1.18rem; }
     .latest-slide-copy p { display: none; }
-    .hero-proof-stack, .feature-guide-grid, .bay-command-grid, .crew-grid, .signal-strip, .workbench-drop, .lust-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: 1fr; }
+    .hero-bench-stack, .feature-guide-grid, .bay-command-grid, .crew-grid, .signal-strip, .workbench-drop, .lust-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: 1fr; }
     .brief-card { grid-template-columns: 1fr; }
     .brief-art { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
     .brief-art.is-wide-art img { min-height: 190px; height: 190px; }
