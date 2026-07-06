@@ -36,7 +36,7 @@ related:
 
 The most common Star Citizen question isn't "VKB or Virpil." It's quieter than that: "Do I even need to buy anything? My Xbox controller is right here."
 
-Verdict first: **no, you don't — the gamepad you already own is the correct first controller for most Star Citizen pilots, not a placeholder.** A pad flies the game far better than its reputation suggests, and its real weakness isn't precision, it's the button count. Fix that with flight-setting tuning and a labeled macro panel and you've solved the gamepad's honest problem for less than the price of a stick. A HOTAS is a genuine upgrade — but it's an upgrade, not a prerequisite, and if precise spaceflight is truly the point, the smarter spend skips a single stick entirely. Let me draw the actual lines.
+Verdict first: **no, you don't — the gamepad you already own is the correct first controller for most Star Citizen pilots, not a fake starting point.** A pad flies the game far better than its reputation suggests, and its real weakness isn't precision, it's the button count. Fix that with flight-setting tuning and a labeled macro panel and you've solved the gamepad's honest problem for less than the price of a stick. A HOTAS is a genuine upgrade — but it's an upgrade, not a prerequisite, and if precise spaceflight is truly the point, the smarter spend skips a single stick entirely. Let me draw the actual lines.
 
 ## What each controller physically reaches
 

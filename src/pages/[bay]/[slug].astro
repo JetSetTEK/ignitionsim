@@ -6,7 +6,6 @@ import { getCollection, render } from 'astro:content';
 import ShareButtons from '../../components/ShareButtons.astro';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
-import signals from '../../data/research-signals.json';
 import { isCertifiedArticle } from '../../lib/content';
 import { displayProductImage, hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
@@ -40,60 +39,37 @@ const related = (await getCollection('articles', ({ data }) => isCertifiedArticl
   .slice(0, 3);
 
 const typeLabel = d.type.replace(/-/g, ' ');
-const baySignal = ((signals as any)[d.bay] || {}) as any;
-const dreamByBay: Record<string, { image: string; title: string; copy: string; tip: string; alt: string }> = {
+const worldHeroByBay: Record<string, { image: string; alt: string }> = {
   golf: {
     image: getWorldForBay('golf').image,
     alt: getWorldForBay('golf').alt,
-    title: 'The dream is a room that makes practice feel like a private club.',
-    copy: 'The reality is geometry: ceiling height, ball flight, turf, screen tension, projector throw, and a launch monitor that matches the room instead of fighting it.',
-    tip: 'Nina says: measure the swing before you price the monitor.',
   },
   racing: {
     image: getWorldForBay('racing').image,
     alt: getWorldForBay('racing').alt,
-    title: 'The dream is a cockpit that makes every lap feel expensive.',
-    copy: 'The reality is rigidity, pedals, seating position, display geometry, and software profiles that do not turn first night into a troubleshooting spiral.',
-    tip: 'Duke says: torque is fun; a brake pedal that does the same thing twice is faster.',
   },
   flight: {
     image: getWorldForBay('flight').image,
     alt: getWorldForBay('flight').alt,
-    title: 'The dream is a home cockpit that feels like a command station.',
-    copy: 'The reality is USB power, bindings, control curves, head tracking, and a layout you can operate without hunting for keyboard chords.',
-    tip: 'Val says: cable labels are not decoration. They are future-you insurance.',
   },
   space: {
     image: getWorldForBay('space').image,
     alt: getWorldForBay('space').alt,
-    title: 'The dream is six-axis control without desk chaos.',
-    copy: 'The reality is mounts, bindings, curves, button layers, and deciding whether you are a HOSAS pilot or a HOTAS pilot before the cart gets silly.',
-    tip: 'Val says: screenshots of working bindings are worth more than another shiny hat switch.',
   },
   marine: {
     image: getWorldForBay('marine').image,
     alt: getWorldForBay('marine').alt,
-    title: 'The dream is a bridge console that feels built, not improvised.',
-    copy: 'The reality is software support, mapped axes, labeled switches, and knowing when a repurposed controller is smarter than a mythical ship console.',
-    tip: 'Gus says: label every wire before the ocean gets dramatic.',
   },
 };
-let dream = dreamByBay[d.bay];
+let worldHero = worldHeroByBay[d.bay];
 if (d.bay === 'golf' && /launch monitor|skytrak|garmin|mlm2pro|square/i.test(d.title)) {
-  dream = {
+  worldHero = {
     image: getWorldForBay('golf').image,
     alt: getWorldForBay('golf').alt,
-    title: 'The dream is a bay that reads every shot without fighting the room.',
-    copy: 'The reality is sensor placement, room depth, ball flight, short-game support, subscriptions, and software that actually talks to your launch monitor.',
-    tip: 'Nina says: measure room depth before you price the monitor.',
   };
 }
-const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
-const buyUrl = (p: any) => p.amazonAsin
-  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
-  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
 const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 3000) / 1000;
 const productByPath = new Map(allProducts.map((p: any) => [`/${p.bay}/gear/${p.id}`, p]));
 const linkedProductPaths = [...new Set([
@@ -110,33 +86,10 @@ const fallbackProducts = allProducts
 const articleProducts = (linkedProducts.length ? linkedProducts : fallbackProducts).slice(0, 5);
 const heroProofProduct = articleProducts[0];
 const heroProofImage = heroProofProduct ? displayProductImage(heroProofProduct) : '';
-const articleHeroImage = dream?.image || heroProofImage;
-const articleHeroAlt = dream?.alt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : d.heroAlt || d.title);
+const articleHeroImage = d.heroImage || heroProofImage || worldHero?.image;
+const articleHeroAlt = d.heroAlt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : worldHero?.alt || d.title);
+const isWorldHero = Boolean(worldHero && articleHeroImage === worldHero.image);
 const socialImage = d.heroImage || articleHeroImage || `/og/${d.bay}/${slug}.png`;
-const productBlurb = (p: any) => p.whoFor || (p.summary ? `${p.summary.split('. ').slice(0, 2).join('. ').replace(/\.$/, '')}.` : 'A verified product worth inspecting before this build goes in the cart.');
-const infographicByBay: Record<string, { src: string; alt: string; label: string }[]> = {
-  golf: [
-    { src: '/images/infographics/golf/golf-room-reality-map.png', alt: 'Golf simulator room reality map with screen, mat, launch monitor, safety gap, and sensor space', label: 'Room geometry' },
-    { src: '/images/infographics/golf/launch-monitor-decision-ladder.png', alt: 'Golf launch monitor decision ladder showing no-PC, tight-room, budget radar, accuracy, and permanent-bay paths', label: 'Launch monitor ladder' },
-  ],
-  racing: [
-    { src: '/images/infographics/racing/build-order-map.png', alt: 'Sim racing build order map showing cockpit, wheelbase, pedals, display, haptics, and motion priorities', label: 'Build order' },
-    { src: '/images/infographics/racing/rigidity-flex-ladder.png', alt: 'Sim racing rigidity ladder comparing wheel stands, fixed cockpits, and aluminum profile rigs', label: 'Rigidity ladder' },
-  ],
-  flight: [
-    { src: '/images/infographics/flight/control-priority-map.png', alt: 'Flight simulator control priority map for yoke, throttle, rudders, head tracking, panels, and mounts', label: 'Control priority' },
-    { src: '/images/infographics/flight/msfs-usb-sanity-map.png', alt: 'MSFS USB sanity map showing powered hub, panels, controls, and cable management', label: 'USB sanity map' },
-  ],
-  space: [
-    { src: '/images/infographics/space/hosas-six-axis-map.png', alt: 'HOSAS six-axis control map for space simulator movement and binding logic', label: 'Six-axis map' },
-    { src: '/images/infographics/space/hosas-upgrade-ladder.png', alt: 'HOSAS upgrade ladder from starter sticks to mounted premium space sim controls', label: 'Upgrade ladder' },
-  ],
-};
-const visualInfographics = infographicByBay[d.bay] || [];
-const sourceLinks = [
-  ...(baySignal.officialSources || []).slice(0, 3),
-  ...(baySignal.communitySources || []).slice(0, 2),
-];
 
 const schema: Record<string, any>[] = [
   {
@@ -180,23 +133,16 @@ if (d.faqs.length) {
     <header class="article-topper" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
       {articleHeroImage && <img src={articleHeroImage} alt={articleHeroAlt} loading="eager" decoding="async" />}
       <div class="article-topper-scrim"></div>
-      {dream && <span class="ai-scene-badge">AI world scene</span>}
+      {isWorldHero && <span class="ai-scene-badge">AI world scene</span>}
       <div class="article-topper-copy">
         <div class="crumbs article-crumbs"><a href="/">Home</a><span>/</span><a href={`/${d.bay}`}>{bay.name}</a><span>/</span>{typeLabel}</div>
         <span class="lbl lbl-accent">{typeLabel}</span>
         <h1>{d.title}</h1>
         <p class="article-deck">{d.description}</p>
-        {dream && (
-          <div class="article-topper-note">
-            <b>{dream.title}</b>
-            <p>{dream.copy}</p>
-            <small>{dream.tip}</small>
-          </div>
-        )}
         <p class="byline">By {curatorHref ? <a class="byline-link" href={curatorHref}><b>{d.author}</b></a> : <b>{d.author}</b>} · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
         <div class="article-share"><ShareButtons /></div>
       </div>
-      {dream && heroProofProduct && (
+      {isWorldHero && heroProofProduct && (
         <aside class="article-proof-chip">
           <span>Real product proof</span>
           <img src={displayProductImage(heroProofProduct)} alt={`${heroProofProduct.brand} ${heroProofProduct.model}`} loading="eager" decoding="async" />
@@ -205,114 +151,6 @@ if (d.faqs.length) {
         </aside>
       )}
     </header>
-
-    {!dream && heroProofImage && (
-      <figure class="pano article-hero" style="aspect-ratio:16/9;min-height:0;margin:24px auto;max-width:1000px">
-        <img src={heroProofImage} alt={articleHeroAlt} />
-        <div class="scrim"></div>
-      </figure>
-    )}
-
-    <section class="article-evidence" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
-      <div class="reality-grid">
-        <div class="reality-main">
-          <span class="lbl lbl-accent">// Build reality check</span>
-          <h2>Fast verdict before you buy</h2>
-          <p>{baySignal.buyFast}</p>
-        </div>
-        <div class="reality-note">
-          <span>Watch out</span>
-          <p>{baySignal.watchOut}</p>
-        </div>
-        <div class="reality-note">
-          <span>Weekend killer</span>
-          <p>{baySignal.weekendKiller}</p>
-        </div>
-        <div class="reality-note">
-          <span>Maybe wait</span>
-          <p>{baySignal.waitFor}</p>
-        </div>
-      </div>
-      {articleProducts.length > 0 && (
-        <div class="parts-bench">
-          <div class="bench-head">
-            <div>
-              <span class="lbl lbl-accent">// Product theater</span>
-              <h2>Key gear that makes this build real.</h2>
-            </div>
-            <p>Big photos first, then the blunt part: why it belongs in the build, what can bite you, and where to verify live seller reviews before checkout.</p>
-          </div>
-          <div class="product-theater">
-            {articleProducts.map((p: any) => (
-              <article class="theater-card">
-                <a class="theater-shot" href={`/${p.bay}/gear/${p.id}`} aria-label={`Inspect ${p.brand} ${p.model}`}>
-                  <img src={displayProductImage(p)} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
-                </a>
-                <div class="theater-copy">
-                  <span>{p.type?.replace(/-/g, ' ') || 'gear'}</span>
-                  <h3>{p.brand} {p.model}</h3>
-                  <p>{productBlurb(p)}</p>
-                  {p.cons?.[0] && <small>Watch: {p.cons[0]}</small>}
-                  <div class="theater-actions">
-                    <a href={`/${p.bay}/gear/${p.id}`}>Inspect</a>
-                    <a href={buyUrl(p)} target="_blank" rel="sponsored nofollow noopener" data-event="article_product_theater_buy">Check Amazon ↗</a>
-                  </div>
-                </div>
-              </article>
-            ))}
-          </div>
-        </div>
-      )}
-      {sourceLinks.length > 0 && (
-        <div class="source-shelf">
-          <span class="lbl lbl-accent">// Evidence shelf</span>
-          <div>
-            {sourceLinks.map((s: any) => <a href={s.url} target="_blank" rel="noopener nofollow">{s.label}</a>)}
-          </div>
-        </div>
-      )}
-    </section>
-
-    {(articleProducts.length > 0 || visualInfographics.length > 0) && (
-      <section class="visual-proof-wall" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
-        <div class="visual-proof-head">
-          <div>
-            <span class="lbl lbl-accent">// Visual proof stack</span>
-            <h2>Real photos, real diagrams, fewer mystery boxes.</h2>
-          </div>
-          <p>These are the parts and setup realities behind the recommendation. AI can sell the room; this stack keeps the shopping cart honest.</p>
-        </div>
-        <div class="proof-mosaic">
-          {heroProofProduct && (
-            <figure class="proof-cover proof-cover-product">
-              <img src={heroProofImage} alt={`${heroProofProduct.brand} ${heroProofProduct.model}`} loading="lazy" decoding="async" />
-              <figcaption>
-                <span>Real product anchor</span>
-                <b>{heroProofProduct.brand} {heroProofProduct.model}</b>
-              </figcaption>
-            </figure>
-          )}
-          {visualInfographics.map((graphic) => (
-            <figure class="proof-graphic">
-              <img src={graphic.src} alt={graphic.alt} loading="lazy" decoding="async" />
-              <figcaption>{graphic.label}</figcaption>
-            </figure>
-          ))}
-        </div>
-        {articleProducts.length > 0 && (
-          <div class="proof-product-grid">
-            {articleProducts.slice(0, 4).map((p: any, i: number) => (
-              <a class="proof-product" href={`/${p.bay}/gear/${p.id}`} data-proof-tone={i % 4}>
-                <span>{p.type?.replace(/-/g, ' ') || 'gear'}</span>
-                <img src={displayProductImage(p)} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
-                <b>{p.brand} {p.model}</b>
-                <small>{p.cons?.[0] ? `Reality check: ${p.cons[0]}` : 'Verified product photo with full notes.'}</small>
-              </a>
-            ))}
-          </div>
-        )}
-      </section>
-    )}
 
     <nav class="toc" id="article-toc" aria-label="On this page" style="display:none">
       <h4>On this page</h4>
@@ -349,26 +187,6 @@ if (d.faqs.length) {
     </div>
 
     <div class="prose">
-      <div class="review-standard">
-        <span class="lbl lbl-accent">// Review standard</span>
-        <h4>How this guide treats reviews and ratings</h4>
-        <p>We use official spec pages for hard claims, our product database for editorial scores, and community research for recurring buyer warnings. Marketplace star ratings change constantly, so use the Amazon/seller links in the product cards to verify the current rating, return window, and low-star complaints before you buy.</p>
-        {articleProducts.length > 0 && (
-          <div class="review-links">
-            {articleProducts.slice(0, 4).map((p: any) => (
-              <a href={buyUrl(p)} target="_blank" rel="sponsored nofollow noopener" data-event="article_review_check">Check live reviews: {p.brand} {p.model} ↗</a>
-            ))}
-          </div>
-        )}
-      </div>
-      <div class="cfg-cta">
-        <div>
-          <span class="lbl lbl-accent">// Check the parts</span>
-          <h4 style="margin-top:6px">Inspect the {bay.name.toLowerCase()} gear bench</h4>
-          <p>Open the product pages behind this guide for specs, caveats, live review checks, and buy links before you commit money.</p>
-        </div>
-        <a class="btn btn-primary" href={`/${d.bay}/gear`}>Browse {bay.name} gear ▸</a>
-      </div>
       <p class="disclosure">{site.disclosure}</p>
     </div>
 

@@ -82,7 +82,7 @@ If you drift or run gravel rally regularly, **buy load-cell.** If you pull the h
 - **Console-friendly load-cell (~$200) — Fanatec ClubSport Handbrake V2.** The newest of the group: a genuine load cell, adjustable preload/angle/travel, and — unusually for this class — support across PC, PS5 and Xbox. The one to look at if you're on console and want load-cell repeatability.
 - **Pro / competitive drift (~$330–$400) — Heusinkveld Sim Handbrake V2.** A 120kg load cell with SmartControl software for custom input curves — the endgame for drivers who treat handbrake repeatability the way circuit racers treat brake repeatability.
 
-None of these carry a verified product photo in our catalog yet, so they're linked to the spec source and an Amazon search below rather than shown as a photo aside — we don't publish stand-in images. Real photos are queued in this article's image manifest.
+Use the official spec links below to inspect current product photos, dimensions, compatibility, and mounting options before checkout. We are linking directly rather than using unverified third-party images.
 
 - **MOZA HBP Handbrake** — [official spec](https://us.mozaracing.com/products/hbp-handbrake) · <a href="https://www.amazon.com/s?k=MOZA+HBP+handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
 - **Sim-Lab XB1 Load-Cell Handbrake** — [official spec](https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing) · <a href="https://www.amazon.com/s?k=Sim-Lab+XB1+handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
@@ -104,7 +104,7 @@ Two completely different tools, and people buy the wrong one constantly.
 
 **Switchable units** that flip between H-pattern and sequential are the pragmatic middle. The Thrustmaster TH8A is the value benchmark here: a 100% metal 7+1 H-pattern that switches to sequential, contactless H.E.A.R.T Hall sensors that won't wear, a knob that takes real aftermarket shifter knobs, and — rare in this category — genuine PC and console (PS5/PS4/Xbox) support. The premium switchable pick is the Fanatec ClubSport Shifter SQ V1.5, a heavier all-metal unit (~$300) with two included knobs and reference build. A do-everything unit compromises the feel of each mode slightly, so if a single discipline dominates your driving, buy the dedicated tool for it.
 
-Neither of these shifters carries a verified product photo in our catalog yet, so — as with the handbrakes — they're linked to source and Amazon search rather than shown as a photo aside:
+Use the official spec links below to inspect current shifter photos, dimensions, compatibility, and mounting options before checkout:
 
 - **MOZA SGP Sequential Shifter** — [official spec](https://us.mozaracing.com/products/sgp-shifter) · <a href="https://www.amazon.com/s?k=MOZA+SGP+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
 - **Thrustmaster TH8A (H-pattern + sequential)** — [official spec](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/) · <a href="https://www.amazon.com/s?k=Thrustmaster+TH8A+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
