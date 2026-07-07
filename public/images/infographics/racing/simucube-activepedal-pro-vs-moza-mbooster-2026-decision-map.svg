@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101820"/>
+      <stop offset=".5" stop-color="#25120d"/>
+      <stop offset="1" stop-color="#06090c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".74" cy=".18" r=".72"><stop stop-color="#ff5e1a" stop-opacity=".38"/><stop offset="1" stop-color="#ff5e1a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="675" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="675" rx="36" fill="url(#glow)"/>
+  <path d="M64 114h1072M64 596h1072" stroke="#ff5e1a" stroke-width="2" stroke-opacity=".55"/>
+  <text x="72" y="88" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#ff5e1a" letter-spacing="7">ACTIVE PEDAL DECISION</text>
+  <text x="72" y="166" font-family="Arial, sans-serif" font-size="54" font-weight="900" fill="#fff"><tspan x="72" dy="0">Buy active only</tspan><tspan x="72" dy="60">if tuning is the point</tspan></text>
+  <g transform="translate(78 238)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">01</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">Simucube</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">Reference refinement, profiles, polish, huge cost.</text>
+    </g><g transform="translate(608 238)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">02</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">MOZA</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">Price disruptor; stronger spec sheet, more caveat energy.</text>
+    </g><g transform="translate(78 356)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">03</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">Load cell</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">Still fastest sane buy for most drivers.</text>
+    </g><g transform="translate(608 356)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">04</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">Hydraulic</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">Feel upgrade, not magic lap-time machine.</text>
+    </g><g transform="translate(78 474)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">05</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">Rig first</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">A moving brake exposes flex instantly.</text>
+    </g><g transform="translate(608 474)">
+      <rect width="488" height="86" rx="18" fill="rgba(255,255,255,.92)" stroke="#ff5e1a" stroke-opacity=".42" stroke-width="2"/>
+      <text x="24" y="34" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#ff5e1a" letter-spacing="3">06</text>
+      <text x="76" y="34" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#101820">Tuning tax</text>
+      <text x="76" y="65" font-family="Arial, sans-serif" font-size="17" fill="#435363">Profiles help only if you actually use them.</text>
+    </g>
+  <text x="72" y="632" font-family="Arial, sans-serif" font-size="17" font-weight="900" fill="#eaf1f6" letter-spacing="5">IGNITIONSIM BUYER MAP · SIMUCUBE-ACTIVEPEDAL-PRO-VS-MOZA-MBOOSTER-2026</text>
+</svg>

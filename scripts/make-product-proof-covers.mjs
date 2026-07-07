@@ -105,6 +105,25 @@ const crewByAuthor = Object.fromEntries(
 );
 
 const slugProductHints = {
+  'premium-overhead-golf-launch-monitors-2026': [
+    '/images/gear/golf/uneekor-eye-xo2.jpg',
+  ],
+  'foresight-gcquad-vs-gc3-vs-falcon-2026': [
+    '/images/gear/golf/foresight-gcquad.jpg',
+    '/images/gear/golf/foresight-gc3.jpg',
+  ],
+  'luxury-golf-simulator-room-build-25000-2026': [
+    '/images/gear/golf/sig10-enclosure.jpg',
+    '/images/gear/golf/garmin-approach-r50.jpg',
+  ],
+  'simucube-activepedal-pro-vs-moza-mbooster-2026': [
+    '/images/gear/racing/simucube-activepedal-pro.jpg',
+    '/images/gear/racing/moza-mbooster-active-pedal.png',
+  ],
+  'flagship-direct-drive-wheelbase-buyer-map-2026': [
+    '/images/gear/racing/simagic-evo-ultra.jpg',
+    '/images/gear/racing/asetek-invicta.jpg',
+  ],
   'best-gpu-for-sim-racing-flight-2026': [
     '/images/gear/flight/nvidia-rtx-5080.jpg',
     '/images/gear/flight/nvidia-rtx-5090.jpg',
@@ -137,6 +156,11 @@ const slugProductHints = {
 };
 
 const slugSceneHints = {
+  'premium-overhead-golf-launch-monitors-2026': '/images/curator-scenes/nina-golf-bay-room-check-2.webp',
+  'foresight-gcquad-vs-gc3-vs-falcon-2026': '/images/dream/nina-premium-launch-monitor-lab.webp',
+  'luxury-golf-simulator-room-build-25000-2026': '/images/curator-scenes/nina-golf-bay-presenting.webp',
+  'simucube-activepedal-pro-vs-moza-mbooster-2026': '/images/curator-scenes/duke-racing-pedal-setup.webp',
+  'flagship-direct-drive-wheelbase-buyer-map-2026': '/images/dream/duke-racing-rig-tip.webp',
   'best-gpu-for-sim-racing-flight-2026': '/images/curator-scenes/mac-gpu-flight-pc-workbench.webp',
   'best-vr-headset-for-sim-2026': '/images/curator-scenes/mac-vr-sim-checklist.webp',
   'best-bass-shakers-tactile-sim-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
@@ -146,16 +170,31 @@ const slugSceneHints = {
   'sim-rig-accessories-audio-lighting-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
 };
 
+const slugLabelHints = {
+  'garmin-r50-room-build-bible-2026': 'R50 room bible',
+  'premium-overhead-golf-launch-monitors-2026': 'Overhead monitor war',
+  'foresight-gcquad-vs-gc3-vs-falcon-2026': 'Foresight buy map',
+  'luxury-golf-simulator-room-build-25000-2026': '$25K room stack',
+  'simucube-activepedal-pro-vs-moza-mbooster-2026': 'Active pedal war',
+  'flagship-direct-drive-wheelbase-buyer-map-2026': 'Flagship DD map',
+  'best-sim-racing-cockpits-and-seats-2026': 'Rigidity ladder',
+  'best-sim-racing-monitors-triple-vs-ultrawide-2026': 'FOV wall test',
+  'thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026': 'SOL-R desk flight',
+  'professional-ship-simulator-2026-hardware-setup': 'Ship bridge bench',
+  'vkb-vs-virpil-vs-winwing-space-sticks-2026': 'Boutique HOSAS war',
+};
+
 function inferredLabel(data, slug) {
+  if (slugLabelHints[slug]) return slugLabelHints[slug];
   const haystack = `${slug} ${data.title || ''} ${data.primaryKeyword || ''}`.toLowerCase();
   if (haystack.includes('gpu') || haystack.includes('rtx')) return 'GPU reality';
   if (haystack.includes('vr headset')) return 'VR cockpit fit';
   if (haystack.includes('bass shaker') || haystack.includes('tactile')) return 'Tactile punch';
   if (haystack.includes('cockpit') || haystack.includes('seat')) return 'Cockpit fit';
-  if (haystack.includes('monitor') || haystack.includes('ultrawide')) return 'Display wall';
   if (haystack.includes('motion platform') || haystack.includes('motion')) return 'Motion tax';
   if (haystack.includes('accessories') || haystack.includes('audio') || haystack.includes('lighting')) return 'Rig finishers';
   if (haystack.includes('launch monitor')) return 'Launch monitor lab';
+  if (haystack.includes('monitor') || haystack.includes('ultrawide')) return 'Display wall';
   if (haystack.includes('projector')) return 'Projector geometry';
   if (haystack.includes('hosas') || haystack.includes('hotas') || haystack.includes('stick')) return 'Control map';
   return 'Product proof';
@@ -498,10 +537,11 @@ async function main() {
 	    for (const candidate of candidates) {
 	      if (!productRels.includes(candidate) && await existsPublic(candidate)) productRels.push(candidate);
 	    }
+	    const hintedRels = hintedImages.filter((rel) => productRels.includes(rel));
 	    const gearRels = productRels
 	      .filter((rel) => rel.startsWith('/images/gear/'))
 	      .sort((a, b) => productRelevanceScore(data, slug, b) - productRelevanceScore(data, slug, a));
-	    const displayRels = (gearRels.length ? gearRels : productRels).slice(0, 2);
+	    const displayRels = (hintedRels.length ? hintedRels : (gearRels.length ? gearRels : productRels)).slice(0, 2);
 	    const productRel = displayRels[0] || worlds[bay];
 	    const coverArt = art || {
 	      label: inferredLabel(data, slug),

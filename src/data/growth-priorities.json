@@ -1,6 +1,11 @@
 {
   "notes": "Highest-ROI surfaces for the $10k/month build. Certified articles only. Update this before publishing a flagship guide.",
   "cornerstoneArticleIds": [
+    "golf/premium-overhead-golf-launch-monitors-2026",
+    "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
+    "golf/luxury-golf-simulator-room-build-25000-2026",
+    "racing/simucube-activepedal-pro-vs-moza-mbooster-2026",
+    "racing/flagship-direct-drive-wheelbase-buyer-map-2026",
     "golf/garmin-r50-room-build-bible-2026",
     "golf/premium-launch-monitor-room-fit-2026",
     "golf/golf-launch-monitors-under-5000-2026",
@@ -19,6 +24,11 @@
     "flight/msfs-home-cockpit-buyer-map-2026"
   ],
   "streamLeadArticleIds": [
+    "golf/premium-overhead-golf-launch-monitors-2026",
+    "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
+    "golf/luxury-golf-simulator-room-build-25000-2026",
+    "racing/simucube-activepedal-pro-vs-moza-mbooster-2026",
+    "racing/flagship-direct-drive-wheelbase-buyer-map-2026",
     "golf/garmin-r50-room-build-bible-2026",
     "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
     "racing/best-bass-shakers-tactile-sim-2026",
@@ -45,6 +55,9 @@
   },
   "moneyClusters": {
     "golf": [
+      "premium-overhead-golf-launch-monitors-2026",
+      "foresight-gcquad-vs-gc3-vs-falcon-2026",
+      "luxury-golf-simulator-room-build-25000-2026",
       "garmin-r50-room-build-bible-2026",
       "premium-launch-monitor-room-fit-2026",
       "golf-launch-monitors-under-5000-2026",
@@ -53,6 +66,8 @@
       "home-golf-simulator-under-10000-2026"
     ],
     "racing": [
+      "simucube-activepedal-pro-vs-moza-mbooster-2026",
+      "flagship-direct-drive-wheelbase-buyer-map-2026",
       "iracing-review-2026",
       "best-bass-shakers-tactile-sim-2026",
       "best-sim-racing-cockpits-and-seats-2026",

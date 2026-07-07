@@ -294,5 +294,42 @@
     ],
     "affiliate": { "primary": "Shop Indoor Golf", "note": "Also Garage Golf, Scratch Golf, Golf Sim Depot" },
     "platforms": "Works with most golf-sim software (GSPro, E6, etc.)"
+  },
+  {
+    "id": "trackman-io",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "TrackMan",
+    "model": "iO",
+    "price": 13995,
+    "priceNote": "premium quote/install class; verify current dealer pricing and software plan",
+    "image": "/images/gear/golf/trackman-io.jpg",
+    "summary": "TrackMan's indoor overhead launch monitor belongs in the luxury-room conversation because the brand carries enormous fitting and coaching credibility. Treat it like a dealer-supported room system, not a blind cart item: verify ceiling height, hitting zone, software, subscription structure, installer support, and total room cost before comparing it with Uneekor EYE XO2 or Foresight Falcon.",
+    "specs": {
+      "Tech": "Ceiling-mounted indoor launch monitor",
+      "Placement": "Overhead permanent installation",
+      "Best use": "Premium indoor golf simulator rooms",
+      "Pricing": "Dealer/install quote territory",
+      "Software": "Verify current TrackMan software and subscription path before purchase",
+      "Room risk": "Ceiling height, installer support, and service access matter"
+    },
+    "pros": [
+      "Premium TrackMan brand confidence for finished indoor rooms",
+      "Overhead placement keeps the hitting area clean for right- and left-handed players",
+      "Strong fit for buyers who want a dealer-supported premium install"
+    ],
+    "cons": [
+      "Not a casual online checkout purchase; total room quote matters",
+      "Software and subscription plan must be verified before buying",
+      "Less straightforward to compare than portable side-of-ball units"
+    ],
+    "whoFor": "Luxury-room buyers who want TrackMan's brand/data ecosystem and are already planning a permanent overhead installation.",
+    "rating": { "overall": 8, "value": 6, "accuracy": 9, "valueForSpace": 8 },
+    "faqs": [
+      { "q": "Is TrackMan iO better than Uneekor EYE XO2?", "a": "It depends on installer support, software, price, and the room. TrackMan iO is a premium brand/install path; EYE XO2 often looks like the stronger value overhead buy for serious home rooms." },
+      { "q": "Should I buy TrackMan iO without an installer quote?", "a": "No. Verify room dimensions, ceiling height, service access, software plan, and dealer support before comparing it against Falcon, EYE XO2, or GCQuad." }
+    ],
+    "affiliate": { "primary": "TrackMan/dealer quote", "note": "Use Amazon only for surrounding room accessories, not the iO itself" },
+    "platforms": "TrackMan indoor simulator ecosystem"
   }
 ]

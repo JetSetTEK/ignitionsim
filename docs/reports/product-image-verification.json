@@ -577,6 +577,17 @@
     "size": 61962
   },
   {
+    "id": "trackman-io",
+    "bay": "golf",
+    "brand": "TrackMan",
+    "model": "iO",
+    "image": "/images/gear/golf/trackman-io.jpg",
+    "ok": true,
+    "width": 1200,
+    "height": 630,
+    "size": 242914
+  },
+  {
     "id": "garmin-approach-r10",
     "bay": "golf",
     "brand": "Garmin",
@@ -659,11 +670,10 @@
     "brand": "Uneekor",
     "model": "EYE XO2",
     "image": "/images/gear/golf/uneekor-eye-xo2.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 37421
+    "ok": true,
+    "width": 900,
+    "height": 630,
+    "size": 26507
   },
   {
     "id": "uneekor-eye-mini",
@@ -717,11 +727,10 @@
     "brand": "Foresight Sports",
     "model": "Falcon",
     "image": "/images/gear/golf/foresight-falcon.jpg",
-    "ok": false,
-    "reason": "procedural placeholder art",
-    "width": 1280,
-    "height": 800,
-    "size": 39611
+    "ok": true,
+    "width": 400,
+    "height": 400,
+    "size": 68649
   },
   {
     "id": "flightscope-mevo-gen2",
@@ -1664,6 +1673,39 @@
     "width": 1280,
     "height": 800,
     "size": 34159
+  },
+  {
+    "id": "thrustmaster-sol-r2-hosas",
+    "bay": "space",
+    "brand": "Thrustmaster",
+    "model": "SOL-R 2 HOSAS Space Sim Duo",
+    "image": "/images/gear/space/thrustmaster-sol-r2-hosas.webp",
+    "ok": true,
+    "width": 1200,
+    "height": 1200,
+    "size": 93370
+  },
+  {
+    "id": "thrustmaster-sol-r4-hotas",
+    "bay": "space",
+    "brand": "Thrustmaster",
+    "model": "SOL-R 4 HOTAS",
+    "image": "/images/gear/space/thrustmaster-sol-r4-hotas.webp",
+    "ok": true,
+    "width": 1200,
+    "height": 1200,
+    "size": 69654
+  },
+  {
+    "id": "turtle-beach-velocityone-flightdeck",
+    "bay": "space",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne FlightDeck",
+    "image": "/images/gear/space/turtle-beach-velocityone-flightdeck.webp",
+    "ok": true,
+    "width": 1200,
+    "height": 1200,
+    "size": 48814
   },
   {
     "id": "vkb-gladiator-nxt-evo-space-combat-edition",

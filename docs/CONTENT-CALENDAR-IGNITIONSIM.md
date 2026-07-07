@@ -60,12 +60,22 @@ Add one Gold Standard game/software review for the top simulator in each univers
 
 Follow-up marine opportunity: eSail vs Sailaway vs Ships At Sea vs NAUTIS Home, because marine simulation is split between sailing practice, ship handling, training, and early-access ship-game spectacle.
 
+## Physical Media / Retro Side-Station Queue
+This is a selective Games Hub lane, not a sixth core sim bay. Use it only when the topic strengthens the IgnitionSim world: physical ownership, arcade-room hardware, retro cabinets, local multiplayer, game-room preservation, or gear that belongs beside a racing cockpit, golf bay, flight desk, or space command station.
+
+| Priority | Fit | Article |
+|---|---|---|
+| 1 | Games Hub / Retro Side Station | Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room After Sony's Disc Exit? |
+
+Angle to research before drafting: Sony's January 2028 physical-disc cutoff makes Evercade timely, but the article must stay honest. The verdict should compare Evercade Nexus, VS-R, EXP-R, Alpha, Super Pocket, cartridges, legacy-cart risk, library quality, HDMI/local multiplayer, cabinet/arcade-room fit, and whether a builder should buy now, wait for Nexus, or skip and use a MiSTer/PC/emulation box instead.
+
 ## Game Review Source Anchors
 - Racing: iRacing official site, iRacing season notes, r/simracing, Sim Racing Cockpit, Traxion, Sim Racing Setup, Boosted Media hardware coverage.
 - Golf: GSPro official site, GSPro compatibility docs, r/Golfsimulator, Golf Simulator Forum, Carl's Place software comparison, ProSimHQ software comparison.
 - Flight: Microsoft Flight Simulator official site, MSFS forums, FSElite, Windows Central hardware coverage, FLYING Magazine, X-Plane/DCS comparison threads for contrast.
 - Space: Star Citizen official site, r/starcitizen, r/hotas, VKB/Virpil/WinWing forums, Thrustmaster HOSAS coverage, Elite Dangerous comparison threads.
 - Marine: Bridge Command official docs, Bridge Command throttle/wheel build docs, eSail Steam reviews, Sailaway official site, Ships At Sea official roadmap, marine/sailing forum discussions.
+- Retro/physical side-station: Evercade official hardware/cartridge pages, Evercade press releases, r/evercade, Time Extension, The Verge, GamesRadar, retro hardware YouTube reviews, seller listings from Songbird/Funstock/Amazon, and physical-media news from PlayStation Blog or other primary platform sources.
 
 ## Weekly Rhythm After Sprint
 - Monday: trend scout plus one buyer/update article.

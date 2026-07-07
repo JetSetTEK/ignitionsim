@@ -44,7 +44,7 @@
   "flight-sim-usb-hub-wiring-multi-panel": {
     "image": "/images/generated/article-covers/flight-sim-usb-hub-wiring-multi-panel.webp",
     "alt": "Flight Sim USB Hubs and Wiring: How to Power a Multi-Panel Cockpit (2026) cover with Honeycomb Bravo throttle quadrant with its backlit autopilot annunciator panel — the kind of power-hungry, LED-heavy device that overwhelms plain USB in a multi-panel cockpit and Mac Donovan",
-    "label": "USB power map",
+    "label": "Cockpit fit",
     "wide": true
   },
   "flightsimexpo-2026-hardware-buyer-map": {
@@ -104,7 +104,7 @@
   "vr-vs-monitor-flight-sim": {
     "image": "/images/generated/article-covers/vr-vs-monitor-flight-sim.webp",
     "alt": "VR vs Monitor for Flight Sim in 2026: The Honest Trade-Off for MSFS 2024 cover with Pimax Crystal Light PCVR headset — the high-clarity path for MSFS 2024 cockpits and Mac Donovan",
-    "label": "VR cockpit tradeoff",
+    "label": "Display wall",
     "wide": true
   },
   "yoke-throttle-rudder-head-tracking-order-2026": {
@@ -116,7 +116,7 @@
   "best-golf-launch-monitor-under-1000": {
     "image": "/images/generated/article-covers/best-golf-launch-monitor-under-1000.webp",
     "alt": "Best Golf Launch Monitors Under $1,000 in 2026: The Honest Sub-$1K Field cover with Close detail of a budget photometric launch monitor beside a golf ball on a fairway-green hitting mat in warm directional light and Nina Brooks",
-    "label": "Display wall",
+    "label": "Launch monitor lab",
     "wide": true
   },
   "best-golf-simulator-hitting-mat": {
@@ -149,6 +149,12 @@
     "label": "Product proof",
     "wide": true
   },
+  "foresight-gcquad-vs-gc3-vs-falcon-2026": {
+    "image": "/images/generated/article-covers/foresight-gcquad-vs-gc3-vs-falcon-2026.webp",
+    "alt": "Foresight GCQuad vs GC3 vs Falcon 2026: Which Foresight Launch Monitor Should You Buy? cover with Foresight GCQuad launch monitor and Nina Brooks",
+    "label": "Foresight buy map",
+    "wide": true
+  },
   "garage-golf-simulator-build-guide": {
     "image": "/images/generated/article-covers/garage-golf-simulator-build-guide.webp",
     "alt": "Garage Golf Simulator Build Guide 2026: Ceiling, Depth, Cold, and the Buy Order That Works cover with Carl's Place DIY golf simulator enclosure and impact screen, the backbone of a garage build and Nina Brooks",
@@ -156,8 +162,8 @@
     "wide": true
   },
   "garmin-r50-room-build-bible-2026": {
-    "image": "/images/golf/garmin-r50-room-build-bible.jpg",
-    "alt": "Garmin Approach R50 Room Build Bible cover with Nina Brooks measuring a golf simulator bay and real R50 product proof",
+    "image": "/images/generated/article-covers/garmin-r50-room-build-bible-2026.webp",
+    "alt": "Garmin Approach R50 Room Build Bible: No-PC Golf Simulator Setup, Total Cost, and What to Buy cover with Garmin Approach R50 room build bible cover with Nina Brooks measuring a golf simulator bay and real R50 product proof and Nina Brooks",
     "label": "R50 room bible",
     "wide": true
   },
@@ -227,16 +233,28 @@
     "label": "Product proof",
     "wide": true
   },
+  "luxury-golf-simulator-room-build-25000-2026": {
+    "image": "/images/generated/article-covers/luxury-golf-simulator-room-build-25000-2026.webp",
+    "alt": "Luxury Golf Simulator Room Build 2026: The $25K Buy-Once-Cry-Once Plan That Is Actually Worth It cover with SIG10 golf simulator enclosure in a premium home golf room and Nina Brooks",
+    "label": "$25K room stack",
+    "wide": true
+  },
   "premium-launch-monitor-room-fit-2026": {
     "image": "/images/generated/article-covers/premium-launch-monitor-room-fit-2026.webp",
     "alt": "Garmin R50 vs SkyTrak ST MAX vs Bushnell Launch Pro: Which Premium Launch Monitor Fits Your Room? cover with Garmin Approach R50 premium golf launch monitor with built-in screen and Nina Brooks",
     "label": "Premium monitor room fit",
     "wide": true
   },
+  "premium-overhead-golf-launch-monitors-2026": {
+    "image": "/images/generated/article-covers/premium-overhead-golf-launch-monitors-2026.webp",
+    "alt": "Best Premium Overhead Golf Launch Monitors 2026: Foresight Falcon vs Uneekor EYE XO2 vs TrackMan iO Reality cover with Uneekor EYE XO2 overhead golf launch monitor and Nina Brooks",
+    "label": "Overhead monitor war",
+    "wide": true
+  },
   "radar-vs-photometric-launch-monitor": {
     "image": "/images/generated/article-covers/radar-vs-photometric-launch-monitor.webp",
     "alt": "Radar vs Photometric Launch Monitors (2026): How Each Measures, and Which One Your Room Actually Allows cover with A photometric camera launch monitor beside a hitting mat and a radar unit set behind it, lit in warm gold against deep green simulator walls and Nina Brooks",
-    "label": "Display wall",
+    "label": "Launch monitor lab",
     "wide": true
   },
   "skytrak-plus-review": {
@@ -302,7 +320,7 @@
   "professional-ship-simulator-2026-hardware-setup": {
     "image": "/images/generated/article-covers/professional-ship-simulator-2026-hardware-setup.webp",
     "alt": "Professional Ship Simulator 2026 Hardware Setup: Dual Throttles, Conning Stick & Generic Boards cover with Professional Ship Simulator (formerly Nautic XP) key art — the upcoming hardware-friendly PC ship simulator and Gus Calder",
-    "label": "Bridge controls",
+    "label": "Ship bridge bench",
     "wide": true
   },
   "racing-wheel-boat-helm": {
@@ -350,13 +368,13 @@
   "best-sim-racing-cockpits-and-seats-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-cockpits-and-seats-2026.webp",
     "alt": "Best Sim Racing Cockpits and Seats of 2026: The Rigidity Ladder cover with Trak Racer TR160 80/20 aluminium profile sim racing cockpit and Duke Alvarez",
-    "label": "Rig fit verdict",
+    "label": "Rigidity ladder",
     "wide": true
   },
   "best-sim-racing-monitors-triple-vs-ultrawide-2026": {
     "image": "/images/generated/article-covers/best-sim-racing-monitors-triple-vs-ultrawide-2026.webp",
     "alt": "Best Sim Racing Monitors of 2026: Triple vs Super-Ultrawide vs OLED cover with Samsung Odyssey OLED G9 49-inch super-ultrawide sim racing monitor and Duke Alvarez",
-    "label": "OLED display war",
+    "label": "FOV wall test",
     "wide": true
   },
   "best-sim-racing-motion-platforms-2026": {
@@ -431,6 +449,12 @@
     "label": "Tactile impact",
     "wide": true
   },
+  "flagship-direct-drive-wheelbase-buyer-map-2026": {
+    "image": "/images/generated/article-covers/flagship-direct-drive-wheelbase-buyer-map-2026.webp",
+    "alt": "Flagship Direct Drive Wheelbase Buyer Map 2026: Simucube vs Asetek vs Simagic vs Fanatec cover with Simagic Alpha Evo Ultra direct drive wheelbase and Duke Alvarez",
+    "label": "Flagship DD map",
+    "wide": true
+  },
   "how-to-fix-ffb-clipping-direct-drive-2026": {
     "image": "/images/generated/article-covers/how-to-fix-ffb-clipping-direct-drive-2026.webp",
     "alt": "How to Fix FFB Clipping on a Direct-Drive Wheel (2026) cover with MOZA R12 direct-drive sim racing wheelbase, the headroom reference for a clipping fix and Duke Alvarez",
@@ -485,6 +509,12 @@
     "label": "Rig buyer map",
     "wide": true
   },
+  "simucube-activepedal-pro-vs-moza-mbooster-2026": {
+    "image": "/images/generated/article-covers/simucube-activepedal-pro-vs-moza-mbooster-2026.webp",
+    "alt": "Simucube ActivePedal Pro vs MOZA mBooster 2026: Is an Active Pedal Finally Worth It? cover with Simucube ActivePedal Pro active sim racing pedal and Duke Alvarez",
+    "label": "Active pedal war",
+    "wide": true
+  },
   "smart-upgrade-path": {
     "image": "/images/generated/article-covers/smart-upgrade-path.webp",
     "alt": "The Smart Sim Racing Upgrade Ladder: What to Buy in What Order (2026) cover with MOZA R12 direct-drive wheelbase, the 12Nm sweet-spot base most upgrade ladders end on and Duke Alvarez",
@@ -500,13 +530,13 @@
   "best-beginner-hosas-under-300": {
     "image": "/images/generated/article-covers/best-beginner-hosas-under-300.webp",
     "alt": "Best Beginner HOSAS Under $300 for Star Citizen & Elite (2026) cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the upgrade-path beginner HOSAS pick and Val Chen",
-    "label": "Starter HOSAS map",
+    "label": "Control map",
     "wide": true
   },
   "best-controls-for-elite-dangerous": {
     "image": "/images/generated/article-covers/best-controls-for-elite-dangerous.webp",
     "alt": "Best Controls for Elite Dangerous in 2026 (HOSAS vs HOTAS vs Gamepad) cover with Thrustmaster T.16000M FCS joystick — the building block of the cheapest credible Elite Dangerous HOSAS rig and Val Chen",
-    "label": "Elite control path",
+    "label": "Control map",
     "wide": true
   },
   "best-hotas-for-star-citizen": {
@@ -569,16 +599,16 @@
     "label": "HOSAS upgrade",
     "wide": true
   },
-  "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026": {
-    "image": "/images/generated/article-covers/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026.webp",
-    "alt": "Thrustmaster SOL-R 2 vs SOL-R 4 HOSAS and HOTAS 2026 guide cover with real SOL-R space sim hardware in use and Val Chen's verdict",
-    "label": "SOL-R verdict",
-    "wide": true
-  },
   "stream-deck-button-box-space-sim": {
     "image": "/images/generated/article-covers/stream-deck-button-box-space-sim.webp",
     "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with Elgato Stream Deck XL — the 32-key labeled macro panel that tames a space sim's 200-plus bindings and Val Chen",
     "label": "Product proof",
+    "wide": true
+  },
+  "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026": {
+    "image": "/images/generated/article-covers/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026.webp",
+    "alt": "Thrustmaster SOL-R 2 vs SOL-R 4 in 2026: HOSAS, HOTAS, FlightDeck, VKB, and WinWing Without the Forum Fog cover with Thrustmaster SOL-R 2 vs SOL-R 4 HOSAS and HOTAS guide cover with real SOL-R space sim hardware in use and Val Chen's verdict and Val Chen",
+    "label": "SOL-R desk flight",
     "wide": true
   },
   "vkb-gladiator-to-gunfighter-upgrade-path": {
@@ -590,7 +620,7 @@
   "vkb-vs-virpil-vs-winwing-space-sticks-2026": {
     "image": "/images/generated/article-covers/vkb-vs-virpil-vs-winwing-space-sticks-2026.webp",
     "alt": "VKB vs Virpil vs WinWing for Space Sims in 2026: Which Boutique HOSAS Brand Should You Buy? cover with VKB Gladiator NXT EVO Space Combat Edition joystick, the default first HOSAS pick and Val Chen",
-    "label": "Boutique stick war",
+    "label": "Boutique HOSAS war",
     "wide": true
   },
   "voiceattack-hcs-setup-space-sims": {
