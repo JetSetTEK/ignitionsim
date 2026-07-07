@@ -7,6 +7,7 @@ import bays from '../data/bays.json';
 import games from '../data/games.json';
 import signals from '../data/research-signals.json';
 import crew from '../data/crew.json';
+import growthPriorities from '../data/growth-priorities.json';
 import { isCertifiedArticle, sortNewestArticles } from '../lib/content';
 import { getArticleCardArt } from '../lib/articleArt';
 import { hasVerifiedProductImage } from '../lib/productMedia';
@@ -48,46 +49,13 @@ const diverseArticles = (items: any[], limit: number) => {
   return picked;
 };
 
-const cornerstoneIds = [
-  'golf/garmin-r50-room-build-bible-2026',
-  'space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026',
-  'racing/iracing-review-2026',
-  'golf/premium-launch-monitor-room-fit-2026',
-  'racing/console-direct-drive-2026',
-  'space/star-citizen-hosas-buyer-map-2026',
-  'golf/budget-launch-monitor-war-2026',
-  'flight/msfs-home-cockpit-buyer-map-2026',
-  'racing/active-pedals-vs-load-cell-hydraulic-2026',
-  'golf/golf-simulator-projector-guide',
-  'golf/golf-launch-monitors-under-5000-2026',
-  'racing/direct-drive-upgrade-ladder-2026',
-  'golf/home-golf-simulator-under-10000-2026',
-  'racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
-  'golf/home-golf-simulator-build-sheet-2026',
-];
+const cornerstoneIds = (growthPriorities as any).cornerstoneArticleIds || [];
 const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Boolean);
 const featureGuides = cornerstones.map((a: any, i) => {
   const href = articleHref(a);
   return { a, href, art: getArticleCardArt(href), i };
 });
-const streamLeadIds = [
-  'space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026',
-  'golf/garmin-r50-room-build-bible-2026',
-  'racing/best-bass-shakers-tactile-sim-2026',
-  'flight/best-gpu-for-sim-racing-flight-2026',
-  'golf/golf-simulator-projector-guide',
-  'racing/best-sim-racing-cockpits-and-seats-2026',
-  'space/star-citizen-hosas-buyer-map-2026',
-  'marine/professional-ship-simulator-2026-hardware-setup',
-  'flight/best-vr-headset-for-sim-2026',
-  'golf/premium-launch-monitor-room-fit-2026',
-  'racing/active-pedals-vs-load-cell-hydraulic-2026',
-  'flight/msfs-home-cockpit-buyer-map-2026',
-  'golf/home-golf-simulator-build-sheet-2026',
-  'racing/best-sim-racing-monitors-triple-vs-ultrawide-2026',
-  'space/vkb-vs-virpil-vs-winwing-space-sticks-2026',
-  'racing/iracing-review-2026',
-];
+const streamLeadIds = (growthPriorities as any).streamLeadArticleIds || [];
 const streamArticles = diverseArticles(uniqueArticles([
   ...streamLeadIds.map((id) => articleById.get(id)),
   ...all,

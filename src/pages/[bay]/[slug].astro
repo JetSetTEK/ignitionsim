@@ -27,6 +27,12 @@ const slug = entry.id.split('/').pop();
 const url = new URL(`/${d.bay}/${slug}`, site.url).href;
 
 const fmtDate = (x: Date) => new Date(x).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const freshnessItems = [
+  d.updatedDate ? `Updated ${fmtDate(d.updatedDate)}` : `Published ${fmtDate(d.publishDate)}`,
+  d.sourceReviewDate ? `Sources reviewed ${fmtDate(d.sourceReviewDate)}` : '',
+  d.goldCertifiedDate ? `Gold certified ${fmtDate(d.goldCertifiedDate)}` : '',
+  d.revenueTier ? `Revenue tier ${d.revenueTier}` : '',
+].filter(Boolean);
 
 // Resolve the article author to a curator record for linked byline + author box.
 const bylineCurator = getCuratorByName(d.author) as any;
@@ -140,6 +146,11 @@ if (d.faqs.length) {
         <h1>{d.title}</h1>
         <p class="article-deck">{d.description}</p>
         <p class="byline">By {curatorHref ? <a class="byline-link" href={curatorHref}><b>{d.author}</b></a> : <b>{d.author}</b>} · {fmtDate(d.publishDate)}{d.updatedDate ? ` · Updated ${fmtDate(d.updatedDate)}` : ''} · {d.readingTime || 7} min read</p>
+        {freshnessItems.length > 0 && (
+          <p class="article-freshness">
+            {freshnessItems.map((item) => <span>{item}</span>)}
+          </p>
+        )}
         <div class="article-share"><ShareButtons /></div>
       </div>
       {isWorldHero && heroProofProduct && (
@@ -227,6 +238,29 @@ if (d.faqs.length) {
 <style>
   .byline-link { color: color-mix(in srgb, var(--accent) 82%, #fff); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 46%, transparent); }
   .byline-link:hover { color: #fff; }
+  .article-freshness {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    max-width: 72ch;
+    margin: 12px 0 0;
+  }
+  .article-freshness span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 28px;
+    padding: 6px 10px;
+    border: 1px solid color-mix(in srgb, var(--accent) 48%, rgba(255,255,255,.26));
+    border-radius: 999px;
+    background: rgba(255,255,255,.9);
+    color: #101820;
+    font-family: var(--font-mono);
+    font-size: .58rem;
+    font-weight: 900;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    box-shadow: 0 8px 20px rgba(16,24,32,.18);
+  }
   .author-card {
     max-width: 1000px; margin: 30px auto; display: grid; grid-template-columns: 150px 1fr; gap: 22px; align-items: center;
     padding: 22px; border: 2px solid color-mix(in srgb, var(--accent) 30%, rgba(16,24,32,.14)); border-radius: 22px;

@@ -7,6 +7,7 @@ import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import community from '../../data/community.json';
 import signals from '../../data/research-signals.json';
+import growthPriorities from '../../data/growth-priorities.json';
 import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import { hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
@@ -25,12 +26,7 @@ const commPreview = commItems.slice(0, 4);
 const articles = sortNewestArticles(await getCollection('articles', ({ data }) => data.bay === bay.slug && isCertifiedArticle(data)));
 const slug = (a: any) => a.id.split('/').pop();
 
-const starterGuideByBay: Record<string, string> = {
-  racing: 'sim-rig-buyer-map-2026',
-  flight: 'msfs-home-cockpit-buyer-map-2026',
-  space: 'star-citizen-hosas-buyer-map-2026',
-  golf: 'home-golf-simulator-build-sheet-2026',
-};
+const starterGuideByBay: Record<string, string> = (growthPriorities as any).starterGuideByBay || {};
 const starterGuideSlug = starterGuideByBay[bay.slug] || (articles[0] ? slug(articles[0]) : '');
 const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` : '/guides';
 

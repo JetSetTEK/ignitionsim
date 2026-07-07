@@ -1,0 +1,72 @@
+{
+  "notes": "Highest-ROI surfaces for the $10k/month build. Certified articles only. Update this before publishing a flagship guide.",
+  "cornerstoneArticleIds": [
+    "golf/garmin-r50-room-build-bible-2026",
+    "golf/premium-launch-monitor-room-fit-2026",
+    "golf/golf-launch-monitors-under-5000-2026",
+    "golf/budget-launch-monitor-war-2026",
+    "golf/golf-simulator-projector-guide",
+    "golf/home-golf-simulator-under-10000-2026",
+    "golf/home-golf-simulator-build-sheet-2026",
+    "racing/iracing-review-2026",
+    "racing/best-bass-shakers-tactile-sim-2026",
+    "racing/best-sim-racing-cockpits-and-seats-2026",
+    "racing/best-sim-racing-monitors-triple-vs-ultrawide-2026",
+    "racing/active-pedals-vs-load-cell-hydraulic-2026",
+    "racing/console-direct-drive-2026",
+    "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+    "space/star-citizen-hosas-buyer-map-2026",
+    "flight/msfs-home-cockpit-buyer-map-2026"
+  ],
+  "streamLeadArticleIds": [
+    "golf/garmin-r50-room-build-bible-2026",
+    "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+    "racing/best-bass-shakers-tactile-sim-2026",
+    "racing/iracing-review-2026",
+    "golf/premium-launch-monitor-room-fit-2026",
+    "golf/golf-simulator-projector-guide",
+    "racing/best-sim-racing-cockpits-and-seats-2026",
+    "flight/best-gpu-for-sim-racing-flight-2026",
+    "flight/best-vr-headset-for-sim-2026",
+    "space/star-citizen-hosas-buyer-map-2026",
+    "golf/home-golf-simulator-build-sheet-2026",
+    "racing/best-sim-racing-monitors-triple-vs-ultrawide-2026",
+    "racing/active-pedals-vs-load-cell-hydraulic-2026",
+    "marine/professional-ship-simulator-2026-hardware-setup",
+    "space/vkb-vs-virpil-vs-winwing-space-sticks-2026",
+    "flight/msfs-home-cockpit-buyer-map-2026"
+  ],
+  "starterGuideByBay": {
+    "racing": "sim-rig-buyer-map-2026",
+    "golf": "home-golf-simulator-build-sheet-2026",
+    "flight": "msfs-home-cockpit-buyer-map-2026",
+    "space": "star-citizen-hosas-buyer-map-2026",
+    "marine": "professional-ship-simulator-2026-hardware-setup"
+  },
+  "moneyClusters": {
+    "golf": [
+      "garmin-r50-room-build-bible-2026",
+      "premium-launch-monitor-room-fit-2026",
+      "golf-launch-monitors-under-5000-2026",
+      "budget-launch-monitor-war-2026",
+      "golf-simulator-projector-guide",
+      "home-golf-simulator-under-10000-2026"
+    ],
+    "racing": [
+      "iracing-review-2026",
+      "best-bass-shakers-tactile-sim-2026",
+      "best-sim-racing-cockpits-and-seats-2026",
+      "best-sim-racing-wheelbases-2026",
+      "active-pedals-vs-load-cell-hydraulic-2026",
+      "best-sim-racing-monitors-triple-vs-ultrawide-2026"
+    ],
+    "flightSpace": [
+      "msfs-home-cockpit-buyer-map-2026",
+      "best-gpu-for-sim-racing-flight-2026",
+      "best-vr-headset-for-sim-2026",
+      "star-citizen-hosas-buyer-map-2026",
+      "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+      "vkb-vs-virpil-vs-winwing-space-sticks-2026"
+    ]
+  }
+}

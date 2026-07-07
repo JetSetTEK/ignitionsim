@@ -5,6 +5,7 @@ const root = process.cwd();
 const articlesRoot = path.join(root, 'src/content/articles');
 const homepagePath = path.join(root, 'src/pages/index.astro');
 const coversPath = path.join(root, 'src/data/generated-article-covers.json');
+const growthPath = path.join(root, 'src/data/growth-priorities.json');
 
 const forbiddenText = [
   /PHOTO SLOT READY/i,
@@ -76,7 +77,12 @@ for (const file of walk(articlesRoot)) {
 
 const homepage = fs.readFileSync(homepagePath, 'utf8');
 const covers = JSON.parse(fs.readFileSync(coversPath, 'utf8'));
+const growth = fs.existsSync(growthPath)
+  ? JSON.parse(fs.readFileSync(growthPath, 'utf8'))
+  : {};
 const surfaceIds = [
+  ...((growth.cornerstoneArticleIds || [])),
+  ...((growth.streamLeadArticleIds || [])),
   ...extractIdList(homepage, 'cornerstoneIds'),
   ...extractIdList(homepage, 'streamLeadIds'),
 ];

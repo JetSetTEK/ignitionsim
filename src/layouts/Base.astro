@@ -180,12 +180,41 @@ const allSchema = [orgSchema, siteSchema, ...schema];
     (() => {
       (window as any).ig = { track: (e: string, d?: any) => { try { const u = (window as any).umami; const p = (window as any).plausible; if (u && u.track) u.track(e, d); else if (p) p(e, { props: d }); } catch {} } };
       document.addEventListener('click', (e) => {
-        const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"]') as HTMLElement | null;
+        const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"], a[href^="/racing/"], a[href^="/golf/"], a[href^="/flight/"], a[href^="/space/"], a[href^="/marine/"], a[href^="/games"], a[href^="/build-stream"], a[href^="/guides"]') as HTMLElement | null;
         if (!el) return;
         const link = el instanceof HTMLAnchorElement ? el : el.closest('a');
-        const eventName = el.dataset.event || 'buy_click';
-        (window as any).ig.track(eventName, link ? { href: link.href, text: link.textContent?.trim().slice(0, 120) } : undefined);
+        const sponsored = !!(link && link.rel && link.rel.split(/\s+/).includes('sponsored'));
+        const eventName = el.dataset.event || (sponsored ? 'buy_click' : 'internal_recommendation_click');
+        (window as any).ig.track(eventName, link ? {
+          href: link.href,
+          text: link.textContent?.trim().replace(/\s+/g, ' ').slice(0, 120),
+          page_path: location.pathname,
+          outbound: link.origin !== location.origin,
+        } : { page_path: location.pathname });
       }, { capture: true });
+      document.addEventListener('submit', (e) => {
+        const form = e.target as HTMLFormElement | null;
+        if (!form || !form.matches('form[data-netlify="true"]')) return;
+        (window as any).ig.track('newsletter_signup', {
+          form_name: form.getAttribute('name') || form.querySelector('input[name="form-name"]')?.getAttribute('value') || 'newsletter',
+          page_path: location.pathname,
+        });
+      }, { capture: true });
+      const sent: Record<number, boolean> = {};
+      const marks = [25, 50, 75, 90];
+      const onScrollDepth = () => {
+        const h = document.documentElement;
+        const max = h.scrollHeight - h.clientHeight;
+        if (max <= 0) return;
+        const pct = Math.floor((h.scrollTop / max) * 100);
+        marks.forEach((mark) => {
+          if (sent[mark] || pct < mark) return;
+          sent[mark] = true;
+          (window as any).ig.track('scroll_depth', { percent: mark, page_path: location.pathname });
+        });
+      };
+      document.addEventListener('scroll', onScrollDepth, { passive: true });
+      onScrollDepth();
     })();
   </script>
 </body>
