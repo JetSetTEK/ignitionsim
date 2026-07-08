@@ -1173,6 +1173,16 @@
     "size": 202418
   },
   {
+    "id": "evercade-vs-r-exp-r",
+    "bay": "racing",
+    "brand": "Evercade",
+    "image": "/images/gear/racing/evercade-vs-r-exp-r.png",
+    "ok": true,
+    "width": 1536,
+    "height": 838,
+    "size": 367467
+  },
+  {
     "id": "cammus-c5",
     "bay": "racing",
     "brand": "Cammus",

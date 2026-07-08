@@ -794,5 +794,18 @@
       "note": "Sold through Pimax and occasionally Amazon; check the exact package and payment terms."
     },
     "platforms": "PC"
+  },
+  {
+    "id": "evercade-vs-r-exp-r",
+    "name": "Evercade VS-R / EXP-R",
+    "brand": "Evercade",
+    "bay": "racing",
+    "price": "Check live pricing",
+    "image": "/images/gear/racing/evercade-vs-r-exp-r.png",
+    "alt": "Evercade VS-R console and EXP-R handheld physical cartridge hardware",
+    "affiliateUrl": "https://www.amazon.com/s?k=Evercade%20VS-R%20EXP-R&tag=ignitionsim-20",
+    "verdict": "A physical-cartridge side station for sim rooms once the core rig is already funded.",
+    "sourceUrl": "https://evercade.co.uk/new-hardware-new-lower-price-introducing-evercade-exp-r-and-evercade-vs-r/",
+    "type": "retro side station"
   }
 ]

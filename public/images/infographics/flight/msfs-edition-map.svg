@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="760" viewBox="0 0 1320 760">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#08131f"/>
+      <stop offset="0.55" stop-color="#182332"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1320" height="760" rx="36" fill="url(#g)"/>
+  <path d="M80 110 C300 40 520 160 750 92 S1060 42 1235 130" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="8"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#38bdf8" letter-spacing="7">IGNITIONSIM FIELD CARD</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="52" font-weight="900" fill="#ffffff">MSFS Edition Reality</text>
+  <rect x="70" y="170" width="1180" height="110" rx="26" fill="#ffffff" opacity="0.93"/>
+<text x="110" y="224" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#0b1118">Standard</text>
+<text x="110" y="266" font-family="Arial, sans-serif" font-size="22" fill="#425466">Best for most builders until you know your aircraft obsession.</text>
+<text x="1120" y="246" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#38bdf8" text-anchor="middle">Buy</text>
+<rect x="70" y="302" width="1180" height="110" rx="26" fill="#ffffff" opacity="0.93"/>
+<text x="110" y="356" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#0b1118">Deluxe / Premium</text>
+<text x="110" y="398" font-family="Arial, sans-serif" font-size="22" fill="#425466">Worth it when the included aircraft and airports are the exact draw.</text>
+<text x="1120" y="378" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#38bdf8" text-anchor="middle">Maybe</text>
+<rect x="70" y="434" width="1180" height="110" rx="26" fill="#ffffff" opacity="0.93"/>
+<text x="110" y="488" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#0b1118">Aviator</text>
+<text x="110" y="530" font-family="Arial, sans-serif" font-size="22" fill="#425466">For collectors and aircraft omnivores, not first-time budget cockpit math.</text>
+<text x="1120" y="510" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#38bdf8" text-anchor="middle">$$$</text>
+<rect x="70" y="566" width="1180" height="110" rx="26" fill="#ffffff" opacity="0.93"/>
+<text x="110" y="620" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#0b1118">Add-ons</text>
+<text x="110" y="662" font-family="Arial, sans-serif" font-size="22" fill="#425466">Budget marketplace spending like hardware. It sneaks up.</text>
+<text x="1120" y="642" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#38bdf8" text-anchor="middle">Plan</text>
+</svg>

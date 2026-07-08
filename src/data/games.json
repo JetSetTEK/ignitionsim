@@ -8,7 +8,12 @@
     "bestFor": "League racing, oval/road discipline, endurance teams, and drivers who care about clean competition.",
     "hardwareThatMatters": "A stable cockpit, load-cell pedals, a 9-12 Nm direct-drive base, and triples or a serious ultrawide.",
     "watchTheTrap": "The subscription plus cars and tracks can outrun your hardware budget if you impulse-buy series.",
-    "guideIds": ["racing/iracing-review-2026", "racing/sim-rig-buyer-map-2026", "racing/triple-monitor-vs-ultrawide-vs-vr-2026", "racing/active-pedals-vs-load-cell-hydraulic-2026"],
+    "guideIds": [
+      "racing/iracing-review-2026",
+      "racing/sim-rig-buyer-map-2026",
+      "racing/triple-monitor-vs-ultrawide-vs-vr-2026",
+      "racing/active-pedals-vs-load-cell-hydraulic-2026"
+    ],
     "officialUrl": "https://www.iracing.com/"
   },
   {
@@ -20,7 +25,11 @@
     "bestFor": "Drivers who want modern physics, broad car culture, mod-adjacent energy, and a rig that can grow with the platform.",
     "hardwareThatMatters": "A direct-drive base with clean detail, load-cell pedals, and a display setup with enough FOV to read traffic.",
     "watchTheTrap": "Early-platform excitement can move faster than hardware support and settings wisdom. Buy a flexible ecosystem.",
-    "guideIds": ["racing/direct-drive-upgrade-ladder-2026", "racing/sim-rig-buyer-map-2026", "racing/triple-monitor-vs-ultrawide-vs-vr-2026"],
+    "guideIds": [
+      "racing/direct-drive-upgrade-ladder-2026",
+      "racing/sim-rig-buyer-map-2026",
+      "racing/triple-monitor-vs-ultrawide-vs-vr-2026"
+    ],
     "officialUrl": "https://assettocorsa.gg/assetto-corsa-evo/"
   },
   {
@@ -32,7 +41,11 @@
     "bestFor": "GT3/GT4 drivers who want tire feel, brake consistency, night racing, weather, and sweaty online sessions.",
     "hardwareThatMatters": "Load-cell or better pedals first, then a rigid seat position and a wheelbase that gives front-grip detail.",
     "watchTheTrap": "A powerful base on a flexy wheel stand makes ACC feel worse, not better. Fix the brake deck before chasing torque.",
-    "guideIds": ["racing/cockpit-rigidity-wheel-stand-vs-8020-2026", "racing/active-pedals-vs-load-cell-hydraulic-2026", "racing/direct-drive-upgrade-ladder-2026"],
+    "guideIds": [
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026",
+      "racing/active-pedals-vs-load-cell-hydraulic-2026",
+      "racing/direct-drive-upgrade-ladder-2026"
+    ],
     "officialUrl": "https://assettocorsa.gg/assetto-corsa-competizione/"
   },
   {
@@ -44,7 +57,11 @@
     "bestFor": "Prototype and GT endurance fans who care about long-race comfort, brake repeatability, and display awareness.",
     "hardwareThatMatters": "Stable seating, pedals that do the same thing on lap 80, and a display setup that reduces fatigue.",
     "watchTheTrap": "Endurance exposes tiny ergonomic problems. If your neck, wrists, or brake leg complain after 30 minutes, the rig is not done.",
-    "guideIds": ["racing/triple-monitor-vs-ultrawide-vs-vr-2026", "racing/active-pedals-vs-load-cell-hydraulic-2026", "racing/sim-rig-buyer-map-2026"],
+    "guideIds": [
+      "racing/triple-monitor-vs-ultrawide-vs-vr-2026",
+      "racing/active-pedals-vs-load-cell-hydraulic-2026",
+      "racing/sim-rig-buyer-map-2026"
+    ],
     "officialUrl": "https://lemansultimate.com/"
   },
   {
@@ -56,7 +73,11 @@
     "bestFor": "PS5 players who want a beautiful first serious racing setup without building a PC.",
     "hardwareThatMatters": "Console-compatible direct drive, a sturdy wheel stand or cockpit, and pedals that will not slide across the room.",
     "watchTheTrap": "Console compatibility is exact-model specific. Do not buy a PC-only base because the brand name looked familiar.",
-    "guideIds": ["racing/console-direct-drive-2026", "racing/cockpit-rigidity-wheel-stand-vs-8020-2026", "racing/direct-drive-upgrade-ladder-2026"],
+    "guideIds": [
+      "racing/console-direct-drive-2026",
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026",
+      "racing/direct-drive-upgrade-ladder-2026"
+    ],
     "officialUrl": "https://www.gran-turismo.com/us/gt7/"
   },
   {
@@ -68,7 +89,11 @@
     "bestFor": "Players who want approachable racing with real wheel support and a cleaner console-first path.",
     "hardwareThatMatters": "Xbox-compatible wheelbases, a sane cockpit or stand, and pedals good enough to make braking learnable.",
     "watchTheTrap": "Xbox support often depends on the exact wheel rim or bundle, not just the base. Verify before checkout.",
-    "guideIds": ["racing/console-direct-drive-2026", "racing/sim-rig-buyer-map-2026", "racing/cockpit-rigidity-wheel-stand-vs-8020-2026"],
+    "guideIds": [
+      "racing/console-direct-drive-2026",
+      "racing/sim-rig-buyer-map-2026",
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026"
+    ],
     "officialUrl": "https://forza.net/motorsport"
   },
   {
@@ -80,7 +105,16 @@
     "bestFor": "Garage and basement golfers who want community courses, PC graphics, and broad launch-monitor paths.",
     "hardwareThatMatters": "A compatible launch monitor, Windows gaming PC, impact screen, projector or display, and reliable networking.",
     "watchTheTrap": "Software compatibility can eliminate a launch monitor before you ever hit a ball. Pick the software path early.",
-    "guideIds": ["golf/garmin-r50-room-build-bible-2026", "golf/premium-launch-monitor-room-fit-2026", "golf/budget-launch-monitor-war-2026", "golf/golf-simulator-projector-guide", "golf/home-golf-simulator-build-sheet-2026", "golf/launch-monitor-ladder-2026", "golf/golf-launch-monitors-under-5000-2026"],
+    "guideIds": [
+      "golf/gspro-review-2026",
+      "golf/garmin-r50-room-build-bible-2026",
+      "golf/premium-launch-monitor-room-fit-2026",
+      "golf/budget-launch-monitor-war-2026",
+      "golf/golf-simulator-projector-guide",
+      "golf/home-golf-simulator-build-sheet-2026",
+      "golf/launch-monitor-ladder-2026",
+      "golf/golf-launch-monitors-under-5000-2026"
+    ],
     "officialUrl": "https://gsprogolf.com/"
   },
   {
@@ -92,7 +126,15 @@
     "bestFor": "Golfers who want a more appliance-like software experience, especially when iPad support matters.",
     "hardwareThatMatters": "The launch monitor/software compatibility pair, then room geometry, mat, screen, and projector.",
     "watchTheTrap": "The wrong software-monitor pair can create subscription costs or missing features you did not budget for.",
-    "guideIds": ["golf/garmin-r50-room-build-bible-2026", "golf/premium-launch-monitor-room-fit-2026", "golf/budget-launch-monitor-war-2026", "golf/golf-simulator-projector-guide", "golf/home-golf-simulator-under-10000-2026", "golf/home-golf-simulator-build-sheet-2026", "golf/golf-mats-screens-enclosures-2026"],
+    "guideIds": [
+      "golf/garmin-r50-room-build-bible-2026",
+      "golf/premium-launch-monitor-room-fit-2026",
+      "golf/budget-launch-monitor-war-2026",
+      "golf/golf-simulator-projector-guide",
+      "golf/home-golf-simulator-under-10000-2026",
+      "golf/home-golf-simulator-build-sheet-2026",
+      "golf/golf-mats-screens-enclosures-2026"
+    ],
     "officialUrl": "https://e6golf.com/"
   },
   {
@@ -104,7 +146,15 @@
     "bestFor": "Families, kids, practice games, and golfers who want the bay used by more than one obsessive adult.",
     "hardwareThatMatters": "A launch monitor it supports, safe side protection, a durable mat, and an enclosure that can survive weird shots.",
     "watchTheTrap": "Fun software does not make a cheap net safe. Protect walls, ceilings, and people first.",
-    "guideIds": ["golf/garmin-r50-room-build-bible-2026", "golf/premium-launch-monitor-room-fit-2026", "golf/budget-launch-monitor-war-2026", "golf/golf-simulator-projector-guide", "golf/golf-mats-screens-enclosures-2026", "golf/home-golf-simulator-build-sheet-2026", "golf/launch-monitor-ladder-2026"],
+    "guideIds": [
+      "golf/garmin-r50-room-build-bible-2026",
+      "golf/premium-launch-monitor-room-fit-2026",
+      "golf/budget-launch-monitor-war-2026",
+      "golf/golf-simulator-projector-guide",
+      "golf/golf-mats-screens-enclosures-2026",
+      "golf/home-golf-simulator-build-sheet-2026",
+      "golf/launch-monitor-ladder-2026"
+    ],
     "officialUrl": "https://www.awesome-golf.com/"
   },
   {
@@ -116,7 +166,11 @@
     "bestFor": "GA pilots, airliner builders, bush flyers, sightseeing pilots, and anyone who wants the room to feel like a cockpit.",
     "hardwareThatMatters": "Yoke or stick, throttle quadrant, rudders, head tracking, and powered USB before panel sprawl.",
     "watchTheTrap": "Panels are fun but not first. A weak USB chain or missing rudders will annoy you more than a missing radio stack.",
-    "guideIds": ["flight/msfs-home-cockpit-buyer-map-2026", "flight/yoke-throttle-rudder-head-tracking-order-2026"],
+    "guideIds": [
+      "flight/microsoft-flight-simulator-2024-review-2026",
+      "flight/msfs-home-cockpit-buyer-map-2026",
+      "flight/yoke-throttle-rudder-head-tracking-order-2026"
+    ],
     "officialUrl": "https://www.flightsimulator.com/microsoft-flight-simulator-2024/"
   },
   {
@@ -128,7 +182,10 @@
     "bestFor": "Pilots who care about flight feel, aircraft systems, procedure practice, and a serious controls workflow.",
     "hardwareThatMatters": "Accurate primary controls, rudder pedals, trim workflow, and head tracking for cockpit scanning.",
     "watchTheTrap": "Do not build a panel farm until the physical control loop feels natural.",
-    "guideIds": ["flight/msfs-home-cockpit-buyer-map-2026", "flight/yoke-throttle-rudder-head-tracking-order-2026"],
+    "guideIds": [
+      "flight/msfs-home-cockpit-buyer-map-2026",
+      "flight/yoke-throttle-rudder-head-tracking-order-2026"
+    ],
     "officialUrl": "https://www.x-plane.com/"
   },
   {
@@ -140,7 +197,11 @@
     "bestFor": "Combat aviation pilots who want deep aircraft modules, HOTAS muscle memory, and serious cockpit workflow.",
     "hardwareThatMatters": "Quality HOTAS, rudder pedals, mounts, head tracking or VR, and enough buttons to stop touching the keyboard.",
     "watchTheTrap": "DCS can make cheap controls feel cheap fast. Buy fewer pieces, but buy the ones your aircraft actually needs.",
-    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "flight/yoke-throttle-rudder-head-tracking-order-2026", "flight/msfs-home-cockpit-buyer-map-2026"],
+    "guideIds": [
+      "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+      "flight/yoke-throttle-rudder-head-tracking-order-2026",
+      "flight/msfs-home-cockpit-buyer-map-2026"
+    ],
     "officialUrl": "https://www.digitalcombatsimulator.com/"
   },
   {
@@ -152,7 +213,12 @@
     "bestFor": "Pilots who want six-axis flight, dogfighting, hauling, mining, and a desk that starts looking like a cockpit.",
     "hardwareThatMatters": "Dual sticks or HOSAS, mounts, head tracking, button layers, and a binding plan you can remember under pressure.",
     "watchTheTrap": "A gorgeous dual-stick setup without mounts and bindings becomes expensive desk clutter.",
-    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
+    "guideIds": [
+      "space/star-citizen-review-2026",
+      "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+      "space/star-citizen-hosas-buyer-map-2026",
+      "space/star-citizen-hosas-upgrade-path-2026"
+    ],
     "officialUrl": "https://robertsspaceindustries.com/star-citizen"
   },
   {
@@ -164,7 +230,11 @@
     "bestFor": "Explorers, traders, combat pilots, and people who want a cockpit that feels good for hours.",
     "hardwareThatMatters": "HOTAS or HOSAS, comfortable mounts, head tracking, and enough buttons for menus without keyboard fishing.",
     "watchTheTrap": "Comfort beats maximal controls. A painful mount position ruins deep-space sessions.",
-    "guideIds": ["space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026", "space/star-citizen-hosas-buyer-map-2026", "space/star-citizen-hosas-upgrade-path-2026"],
+    "guideIds": [
+      "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
+      "space/star-citizen-hosas-buyer-map-2026",
+      "space/star-citizen-hosas-upgrade-path-2026"
+    ],
     "officialUrl": "https://www.elitedangerous.com/"
   },
   {
@@ -188,7 +258,23 @@
     "bestFor": "Builders who want a practical ship bridge training sim and are willing to DIY controls.",
     "hardwareThatMatters": "Repurposed throttles, button boxes, DIY USB boards, labels, and patience.",
     "watchTheTrap": "There is no mass-market consumer ship helm. Marine control builds are repurposing and DIY by default.",
-    "guideIds": [],
+    "guideIds": [
+      "marine/bridge-command-review-2026"
+    ],
     "officialUrl": "https://www.bridgecommand.co.uk/"
+  },
+  {
+    "slug": "evercade",
+    "name": "Evercade",
+    "bay": "racing",
+    "type": "physical cartridge retro console",
+    "signal": "The sim-room side station for physical-media people.",
+    "bestFor": "Builders who want a tidy retro cartridge shelf beside the cockpit, golf bay, or flight desk.",
+    "hardwareThatMatters": "VS-R or EXP-R hardware, HDMI or handheld plan, cartridge storage, and a budget that does not raid the main rig.",
+    "watchTheTrap": "It is a lifestyle add-on, not a simulator upgrade. Buy it after the rig works.",
+    "guideIds": [
+      "racing/evercade-physical-cartridge-sim-room-2026"
+    ],
+    "officialUrl": "https://evercade.co.uk/"
   }
 ]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <defs>
+    <linearGradient id="shade" x1="0" x2="1">
+      <stop offset="0" stop-color="#05080d" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#05080d" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="760" rx="34" fill="#101820"/>
+  <image href="/images/curator-scenes/val-space-hosas-cable-check.webp" x="0" y="0" width="760" height="760" preserveAspectRatio="xMidYMid slice"/>
+  <image href="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" x="720" y="88" width="560" height="420" preserveAspectRatio="xMidYMid meet"/>
+  <rect width="1400" height="760" fill="url(#shade)"/>
+  <rect x="730" y="520" width="560" height="118" rx="22" fill="#ffffff" opacity="0.94"/>
+  <text x="770" y="565" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#b45cff" letter-spacing="5">CURATOR BENCH</text>
+  <text x="770" y="608" font-family="Arial, sans-serif" font-size="32" font-weight="900" fill="#0b1118">Val Chen</text>
+  <text x="770" y="648" font-family="Arial, sans-serif" font-size="21" fill="#344054">Star Citizen is still the most dangerous reason to buy dual sticks: thrilling when the bindings </text>
+  <text x="62" y="620" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#b45cff" letter-spacing="5">DREAM FIRST, RECEIPTS SECOND</text>
+  <text x="62" y="676" font-family="Arial, sans-serif" font-size="44" font-weight="900" fill="#ffffff">Star Citizen Review 2026: Is It Worth Building HOSAS A</text>
+</svg>

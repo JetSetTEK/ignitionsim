@@ -1,6 +1,11 @@
 {
   "notes": "Highest-ROI surfaces for the $10k/month build. Certified articles only. Update this before publishing a flagship guide.",
   "cornerstoneArticleIds": [
+    "golf/gspro-review-2026",
+    "flight/microsoft-flight-simulator-2024-review-2026",
+    "space/star-citizen-review-2026",
+    "marine/bridge-command-review-2026",
+    "racing/evercade-physical-cartridge-sim-room-2026",
     "golf/premium-overhead-golf-launch-monitors-2026",
     "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
     "golf/luxury-golf-simulator-room-build-25000-2026",
@@ -24,6 +29,11 @@
     "flight/msfs-home-cockpit-buyer-map-2026"
   ],
   "streamLeadArticleIds": [
+    "golf/gspro-review-2026",
+    "flight/microsoft-flight-simulator-2024-review-2026",
+    "space/star-citizen-review-2026",
+    "marine/bridge-command-review-2026",
+    "racing/evercade-physical-cartridge-sim-room-2026",
     "golf/premium-overhead-golf-launch-monitors-2026",
     "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
     "golf/luxury-golf-simulator-room-build-25000-2026",
@@ -55,6 +65,7 @@
   },
   "moneyClusters": {
     "golf": [
+      "gspro-review-2026",
       "premium-overhead-golf-launch-monitors-2026",
       "foresight-gcquad-vs-gc3-vs-falcon-2026",
       "luxury-golf-simulator-room-build-25000-2026",
@@ -66,6 +77,7 @@
       "home-golf-simulator-under-10000-2026"
     ],
     "racing": [
+      "evercade-physical-cartridge-sim-room-2026",
       "simucube-activepedal-pro-vs-moza-mbooster-2026",
       "flagship-direct-drive-wheelbase-buyer-map-2026",
       "iracing-review-2026",
@@ -76,12 +88,17 @@
       "best-sim-racing-monitors-triple-vs-ultrawide-2026"
     ],
     "flightSpace": [
+      "microsoft-flight-simulator-2024-review-2026",
+      "star-citizen-review-2026",
       "msfs-home-cockpit-buyer-map-2026",
       "best-gpu-for-sim-racing-flight-2026",
       "best-vr-headset-for-sim-2026",
       "star-citizen-hosas-buyer-map-2026",
       "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
       "vkb-vs-virpil-vs-winwing-space-sticks-2026"
+    ],
+    "marine": [
+      "bridge-command-review-2026"
     ]
   }
 }

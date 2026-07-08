@@ -89,6 +89,12 @@
     "label": "Product proof",
     "wide": true
   },
+  "microsoft-flight-simulator-2024-review-2026": {
+    "image": "/images/generated/article-covers/microsoft-flight-simulator-2024-review-2026.webp",
+    "alt": "Microsoft Flight Simulator 2024 Review 2026: Is It Still the Home Cockpit King? cover with Microsoft Flight Simulator 2024 aircraft cockpit screenshot and Val Chen",
+    "label": "MSFS cockpit verdict",
+    "wide": true
+  },
   "msfs-2024-best-graphics-settings-fps": {
     "image": "/images/generated/article-covers/msfs-2024-best-graphics-settings-fps.webp",
     "alt": "MSFS 2024 Best Graphics Settings in 2026: Stop the Stutter, Keep the Frames cover with A triple-monitor flight-sim battlestation silhouette at night with screens glowing cyan and an abstract HUD altitude tape and Mac Donovan",
@@ -203,6 +209,12 @@
     "label": "Product proof",
     "wide": true
   },
+  "gspro-review-2026": {
+    "image": "/images/generated/article-covers/gspro-review-2026.webp",
+    "alt": "GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around? cover with GSPro golf simulator logo and ball mark and Nina Brooks",
+    "label": "GSPro bay verdict",
+    "wide": true
+  },
   "gspro-setup-guide-courses-connectors": {
     "image": "/images/generated/article-covers/gspro-setup-guide-courses-connectors.webp",
     "alt": "GSPro Setup Guide 2026: Connectors, Courses, and the Gotchas Nobody Warns You About cover with SkyTrak+ launch monitor — one of the units that reaches GSPro through a connector and Nina Brooks",
@@ -285,6 +297,12 @@
     "image": "/images/generated/article-covers/best-sailing-sim-setup-2026.webp",
     "alt": "Best Sailing Sim Setup for 2026: eSail V3, Sailaway III, MarineVerse VR and the Hardware That Actually Helps cover with A polished stainless yacht tiller and winch glistening with sea spray at ocean dusk, deep teal water and Gus Calder",
     "label": "Product proof",
+    "wide": true
+  },
+  "bridge-command-review-2026": {
+    "image": "/images/generated/article-covers/bridge-command-review-2026.webp",
+    "alt": "Bridge Command Review 2026: The DIY Ship Bridge Simulator for Builders cover with Bridge Command tug simulator screenshot and Gus Calder",
+    "label": "DIY bridge sim",
     "wide": true
   },
   "diy-bridge-command-throttle": {
@@ -449,6 +467,12 @@
     "label": "Tactile impact",
     "wide": true
   },
+  "evercade-physical-cartridge-sim-room-2026": {
+    "image": "/images/generated/article-covers/evercade-physical-cartridge-sim-room-2026.webp",
+    "alt": "Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room? cover with Evercade VS-R and EXP-R physical cartridge gaming hardware and Mac Donovan",
+    "label": "Physical shelf pick",
+    "wide": true
+  },
   "flagship-direct-drive-wheelbase-buyer-map-2026": {
     "image": "/images/generated/article-covers/flagship-direct-drive-wheelbase-buyer-map-2026.webp",
     "alt": "Flagship Direct Drive Wheelbase Buyer Map 2026: Simucube vs Asetek vs Simagic vs Fanatec cover with Simagic Alpha Evo Ultra direct drive wheelbase and Duke Alvarez",
@@ -597,6 +621,12 @@
     "image": "/images/generated/article-covers/star-citizen-hosas-upgrade-path-2026.webp",
     "alt": "Star Citizen HOSAS Upgrade Path 2026: VKB, Virpil, WinWing, Mounts, Pedals, Bindings, and the No-Regrets Buy Order cover with VKB Gladiator NXT EVO Omni Throttle for space sims and Val Chen",
     "label": "HOSAS upgrade",
+    "wide": true
+  },
+  "star-citizen-review-2026": {
+    "image": "/images/generated/article-covers/star-citizen-review-2026.webp",
+    "alt": "Star Citizen Review 2026: Is It Worth Building HOSAS Around Yet? cover with Star Citizen Alpha 4.2.1 official patch artwork and Val Chen",
+    "label": "Star Citizen HOSAS",
     "wide": true
   },
   "stream-deck-button-box-space-sim": {

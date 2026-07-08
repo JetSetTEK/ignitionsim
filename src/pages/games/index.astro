@@ -92,6 +92,11 @@ const gameMediaBySlug: Record<string, { image: string; alt: string; label: strin
     alt: 'Leo Bodnar BBI-32 button box interface board for DIY simulator controls',
     label: 'DIY proof',
   },
+  evercade: {
+    image: '/images/gear/racing/evercade-vs-r-exp-r.png',
+    alt: 'Evercade VS-R console and EXP-R handheld physical cartridge gaming hardware',
+    label: 'Physical shelf',
+  },
 };
 const fallbackMediaByBay: Record<string, { image: string; alt: string; label: string }> = {
   racing: gameMediaBySlug['assetto-corsa-evo'],
@@ -116,7 +121,7 @@ const grouped = bays
   .filter((group) => group.games.length);
 
 const featured = (games as any[])
-  .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen', 'bridge-command'].includes(g.slug))
+  .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen', 'bridge-command', 'evercade'].includes(g.slug))
   .map((g) => ({ ...g, bayData: bayMap.get(g.bay), world: getWorldForBay(g.bay), media: gameMediaFor(g) }));
 
 const description = 'IgnitionSim simulator games hub: the racing, golf, flight, space, and marine sims worth building hardware around, with buyer-map links and setup traps.';

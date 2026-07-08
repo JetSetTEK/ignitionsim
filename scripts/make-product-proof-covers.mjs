@@ -153,6 +153,29 @@ const slugProductHints = {
     '/images/gear/racing/steelseries-arctis-nova-7.jpg',
     '/images/gear/racing/govee-rgbic-bars.jpg',
   ],
+  'gspro-review-2026': [
+    '/images/gear/golf/garmin-approach-r50.jpg',
+    '/images/gear/golf/foresight-gc3.jpg',
+    '/images/gear/golf/skytrak-plus.jpg',
+  ],
+  'microsoft-flight-simulator-2024-review-2026': [
+    '/images/gear/flight/honeycomb-alpha-yoke.jpg',
+    '/images/gear/flight/honeycomb-bravo-throttle.jpg',
+    '/images/gear/flight/honeycomb-charlie-pedals.jpg',
+  ],
+  'star-citizen-review-2026': [
+    '/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg',
+    '/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg',
+    '/images/gear/space/virpil-warbrd-d-base.jpg',
+  ],
+  'bridge-command-review-2026': [
+    '/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg',
+    '/images/gear/marine/raildriver-ship-throttle.jpg',
+  ],
+  'evercade-physical-cartridge-sim-room-2026': [
+    '/images/gear/racing/evercade-vs-r-exp-r.png',
+    '/images/gear/racing/samsung-odyssey-oled-g9-49.jpg',
+  ],
 };
 
 const slugSceneHints = {
@@ -168,6 +191,11 @@ const slugSceneHints = {
   'best-sim-racing-monitors-triple-vs-ultrawide-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
   'best-sim-racing-motion-platforms-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
   'sim-rig-accessories-audio-lighting-2026': '/images/curator-scenes/duke-racing-cockpit-pedal-tuning-2.webp',
+  'gspro-review-2026': '/images/curator-scenes/nina-golf-bay-presenting.webp',
+  'microsoft-flight-simulator-2024-review-2026': '/images/curator-scenes/val-space-hosas-routing-2.webp',
+  'star-citizen-review-2026': '/images/curator-scenes/val-space-hosas-cable-check.webp',
+  'bridge-command-review-2026': '/images/curator-scenes/gus-marine-throttle-helm.webp',
+  'evercade-physical-cartridge-sim-room-2026': '/images/curator-scenes/mac-gpu-flight-pc-workbench.webp',
 };
 
 const slugLabelHints = {
@@ -182,6 +210,11 @@ const slugLabelHints = {
   'thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026': 'SOL-R desk flight',
   'professional-ship-simulator-2026-hardware-setup': 'Ship bridge bench',
   'vkb-vs-virpil-vs-winwing-space-sticks-2026': 'Boutique HOSAS war',
+  'gspro-review-2026': 'GSPro bay verdict',
+  'microsoft-flight-simulator-2024-review-2026': 'MSFS cockpit verdict',
+  'star-citizen-review-2026': 'Star Citizen HOSAS',
+  'bridge-command-review-2026': 'DIY bridge sim',
+  'evercade-physical-cartridge-sim-room-2026': 'Physical shelf pick',
 };
 
 function inferredLabel(data, slug) {
