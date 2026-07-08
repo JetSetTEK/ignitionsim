@@ -6,7 +6,7 @@ import { getCollection, render } from 'astro:content';
 import ShareButtons from '../../components/ShareButtons.astro';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
-import { isCertifiedArticle } from '../../lib/content';
+import { articleMeta, isCertifiedArticle } from '../../lib/content';
 import { displayProductImage, hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
 import { getCuratorByName, crewSlug } from '../../lib/crew';
@@ -227,7 +227,7 @@ if (d.faqs.length) {
             <ArticleCard href={`/${a.data.bay}/${a.id.split('/').pop()}`} title={a.data.title}
               excerpt={a.data.excerpt || a.data.description} type={a.data.type}
               image={a.data.heroImage} imageAlt={a.data.heroAlt}
-              meta={`${a.data.bay.toUpperCase()} · ${a.data.readingTime || 6} min read`} />
+              meta={articleMeta(a.data)} />
           ))}
         </div>
       </section>

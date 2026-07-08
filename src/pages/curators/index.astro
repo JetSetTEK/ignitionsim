@@ -4,7 +4,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import site from '../../data/site.json';
 import { allCrew, crewSlug, getCrewForBay } from '../../lib/crew';
-import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import { getWorldForBay } from '../../lib/worlds';
 
 const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
@@ -61,7 +61,7 @@ const schema = [{
             {picks.length ? picks.map((entry) => (
               <ArticleCard href={`/${entry.data.bay}/${articleSlug(entry)}`} title={entry.data.title}
                 excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type}
-                meta={`${entry.data.readingTime || 7} min read`} />
+                meta={articleMeta(entry.data)} />
             )) : <p class="quiet-note">Mac is being fed more certified wiring, haptics, and DIY proof before he gets a full guide shelf.</p>}
           </div>
         </section>

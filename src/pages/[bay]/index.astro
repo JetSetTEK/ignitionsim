@@ -8,7 +8,7 @@ import site from '../../data/site.json';
 import community from '../../data/community.json';
 import signals from '../../data/research-signals.json';
 import growthPriorities from '../../data/growth-priorities.json';
-import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { articleMeta, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import { hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
 import { getCrewForBay, crewSlug } from '../../lib/crew';
@@ -148,7 +148,7 @@ const schema = [
             <ArticleCard href={`/${bay.slug}/${slug(a)}`} title={a.data.title}
               excerpt={a.data.excerpt || a.data.description} type={a.data.type}
               image={a.data.heroImage} imageAlt={a.data.heroAlt}
-              meta={`${a.data.readingTime || 6} min read`} />
+              meta={articleMeta(a.data)} />
           ))}
         </div>
       ) : (

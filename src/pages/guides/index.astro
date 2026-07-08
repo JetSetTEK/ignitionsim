@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
-import { isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { articleMeta, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import { getWorldForBay } from '../../lib/worlds';
@@ -38,7 +38,7 @@ const schema = [{
             <ArticleCard href={`/${g.bay.slug}/${slug(a)}`} title={a.data.title}
               excerpt={a.data.excerpt || a.data.description} type={a.data.type}
               image={a.data.heroImage} imageAlt={a.data.heroAlt}
-              meta={`${a.data.readingTime || 7} min read`} />
+              meta={articleMeta(a.data)} />
           ))}
         </div>
       </section>

@@ -7,7 +7,7 @@ import bays from '../../../data/bays.json';
 import site from '../../../data/site.json';
 import signals from '../../../data/research-signals.json';
 import { getCollection } from 'astro:content';
-import { isCertifiedArticle } from '../../../lib/content';
+import { articleMeta, isCertifiedArticle } from '../../../lib/content';
 import { displayProductImage, hasVerifiedProductImage } from '../../../lib/productMedia';
 
 export async function getStaticPaths() {
@@ -203,7 +203,7 @@ const buyPulse = verdictScore >= 8.5
             <ArticleCard href={`/${a.data.bay}/${guideSlug(a)}`} title={a.data.title}
               excerpt={a.data.excerpt || a.data.description} type={a.data.type}
               image={a.data.heroImage} imageAlt={a.data.heroAlt}
-              meta={`${a.data.readingTime || 7} min read`} />
+              meta={articleMeta(a.data)} />
           ))}
         </div>
       </section>

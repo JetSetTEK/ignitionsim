@@ -4,7 +4,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import site from '../../data/site.json';
 import { allCrew, crewSlug, getCrewBySlug, getCrewForBay } from '../../lib/crew';
-import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
 import { getWorldForBay } from '../../lib/worlds';
 
 export function getStaticPaths() {
@@ -182,7 +182,7 @@ if (takes.length) {
           {ownedArticles.map((entry) => (
             <ArticleCard href={`/${entry.data.bay}/${articleSlug(entry)}`} title={entry.data.title}
               excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type}
-              meta={`${entry.data.bay.toUpperCase()} · ${entry.data.readingTime || 7} min read`} />
+              meta={articleMeta(entry.data)} />
           ))}
         </div>
       ) : (
