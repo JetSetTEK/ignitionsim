@@ -799,13 +799,56 @@
     "id": "evercade-vs-r-exp-r",
     "name": "Evercade VS-R / EXP-R",
     "brand": "Evercade",
+    "model": "VS-R / EXP-R",
     "bay": "racing",
-    "price": "Check live pricing",
+    "price": 99,
+    "priceNote": "VS-R/EXP-R pricing varies by bundle and retailer; verify current Amazon listing",
     "image": "/images/gear/racing/evercade-vs-r-exp-r.png",
     "alt": "Evercade VS-R console and EXP-R handheld physical cartridge hardware",
-    "affiliateUrl": "https://evercade.co.uk/new-hardware-new-lower-price-introducing-evercade-exp-r-and-evercade-vs-r/",
-    "verdict": "A physical-cartridge side station for sim rooms once the core rig is already funded.",
+    "summary": "Evercade VS-R and EXP-R are physical-cartridge retro gaming systems that make sense as a sim-room side station: the VS-R is the TV/couch box, while the EXP-R is the handheld path for the same cartridge ecosystem. In a digital-heavy room full of launchers, firmware, subscriptions and storefronts, Evercade gives the space a tangible shelf ritual.",
+    "specs": {
+      "Type": "Physical cartridge retro gaming console / handheld ecosystem",
+      "Primary choice": "VS-R for TV side station; EXP-R for handheld play",
+      "Media": "Evercade physical cartridges",
+      "Best role": "Game-room and sim-room side station",
+      "Core warning": "Not a simulator platform or performance upgrade"
+    },
+    "pros": [
+      "Physical cartridges and boxes give a digital-heavy room real shelf culture",
+      "VS-R is easy to understand as a guest-friendly side console",
+      "EXP-R carries the same cartridge appeal into handheld play"
+    ],
+    "cons": [
+      "Not a sim-performance upgrade",
+      "Library fit matters; buy collections you actually want to play",
+      "Cartridge availability can move in waves"
+    ],
+    "whoFor": "A sim-room or game-room builder who already has the core rig working and wants a physical-media retro side station with real cartridges.",
+    "rating": {
+      "overall": 8.8,
+      "value": 8.4,
+      "build": 8,
+      "upgradeCeiling": 8.5,
+      "beginnerFriendly": 9
+    },
+    "faqs": [
+      {
+        "q": "Should I buy VS-R or EXP-R first?",
+        "a": "Buy VS-R first for a TV or sim-room side station. Buy EXP-R first if handheld physical-media play is the real reason you care."
+      },
+      {
+        "q": "Is Evercade a sim platform?",
+        "a": "No. It is a physical-media retro game station that belongs beside a working sim rig, not instead of it."
+      }
+    ],
+    "amazonAsin": "B0D1VYPWLH",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D1VYPWLH/?tag=ignitionsim-20",
+    "verdict": "Buy it if your sim room already works and you care about physical games: the VS-R is a genuinely cool cartridge side station for a digital-heavy room.",
     "sourceUrl": "https://evercade.co.uk/new-hardware-new-lower-price-introducing-evercade-exp-r-and-evercade-vs-r/",
-    "type": "retro side station"
+    "type": "retro side station",
+    "affiliate": {
+      "primary": "amazon",
+      "note": "Direct VS-R link; cross-shop EXP-R handheld separately if the couch/travel loop matters more than TV play."
+    }
   }
 ]
