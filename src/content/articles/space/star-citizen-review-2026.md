@@ -64,6 +64,10 @@ Star Citizen is the game that convinces rational adults to put two joysticks on 
 
 <small>IgnitionSim infographic: the HOSAS dream works when each hand has a job you can remember under pressure.</small>
 
+![Val Chen tightening a HOSAS desk mount and routing cables for a Star Citizen cockpit](/images/curator-scenes/val-star-citizen-desk-mount-install.webp)
+
+<small>AI curator scene: Val fixes the unsexy part first: mounts, cable path, and a control layout that will not move under panic input.</small>
+
 ## What Changed In The 2026 Conversation
 
 The Alpha 4.2.1 patch cycle keeps the universe moving, and that matters for buyers because a living alpha creates both excitement and churn. Reddit and HOTAS communities keep circling the same buyer question: do I buy a mainstream set, jump to VKB or Virpil, or wait for a cleaner all-in-one space solution?

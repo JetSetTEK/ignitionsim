@@ -64,6 +64,10 @@ Nina's take: GSPro is not just software. It is the decision that decides your la
 
 <small>IgnitionSim infographic: build the room in the right order before chasing course count.</small>
 
+![Nina Brooks measuring hitting depth and projector geometry in a garage golf simulator bay](/images/curator-scenes/nina-gspro-room-tape-measure-overhead.webp)
+
+<small>AI curator scene: Nina treats the golf bay like a room build first, because software only feels premium when the space is measured correctly.</small>
+
 ## What GSPro Actually Solves
 
 GSPro gives home-golf builders a better reason to finish the room. The big draw is the feeling of a living course library and a software ecosystem that community golfers actually talk about. The practical draw is different: once GSPro is the target, you can stop shopping vaguely and start asking better questions.

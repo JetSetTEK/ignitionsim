@@ -64,6 +64,10 @@ Val's line is simple: MSFS 2024 sells the sky, but your hardware sells the cockp
 
 <small>IgnitionSim infographic: controls first, panels later, fewer mystery disconnects forever.</small>
 
+![Val Chen labeling USB and power routing under a Microsoft Flight Simulator home cockpit](/images/curator-scenes/val-msfs-usb-hub-floor-triage.webp)
+
+<small>AI curator scene: Val starts where the cockpit usually fails first, under the desk with power, USB, and labels.</small>
+
 ## The Cockpit Order That Actually Works
 
 The forums are full of builders who love the dream and quietly admit the same hard truth: a cockpit is only as good as the control loop. A yoke that moves around, a sticky throttle, missing rudders, or a flaky hub ruins more sessions than a missing autopilot panel.

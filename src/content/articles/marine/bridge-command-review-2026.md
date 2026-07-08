@@ -61,6 +61,10 @@ Bridge Command is a different animal from racing, golf, and flight. It does not 
 
 <small>IgnitionSim infographic: marine sim control is a map, label, test, backup loop.</small>
 
+![Gus Calder testing a DIY marine simulator switch panel with a multimeter](/images/curator-scenes/gus-bridge-command-wiring-calibration.webp)
+
+<small>AI curator scene: Gus does the thing marine builders actually do: test the panel, label the wires, and make the weird controls behave.</small>
+
 ## What Bridge Command Does Well
 
 Bridge Command gives builders a practical ship simulator foundation, including multi-screen possibilities, vessel handling, and documented controller support. The official docs matter because this niche needs receipts. When a simulator documents joystick mapping and DIY throttle paths, that is not trivia. That is permission to build.

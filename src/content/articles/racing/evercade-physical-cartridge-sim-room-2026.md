@@ -63,6 +63,10 @@ Evercade fits IgnitionSim as a side-station idea: the little physical shelf besi
 
 <small>IgnitionSim infographic: nostalgia is allowed, but not before the cockpit budget survives.</small>
 
+![Mac Donovan choosing a physical cartridge beside a racing simulator side station](/images/curator-scenes/mac-evercade-cartridge-shelf-night.webp)
+
+<small>AI curator scene: Mac frames Evercade as room culture: the little cartridge ritual next to the serious rig.</small>
+
 ## Why It Feels More Relevant In 2026
 
 Sony's PlayStation Blog announced that physical disc production for new PlayStation console games ends in January 2028. That does not make Evercade the future of everything, but it does make physical media feel less quaint. A cartridge ecosystem suddenly reads like a deliberate design choice instead of a retro gimmick.
