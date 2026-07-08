@@ -33,7 +33,7 @@ related:
 
 # Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room?
 
-![Mac Donovan presenting Evercade hardware as a physical media side station for a sim room](/images/curator-scenes/generated/evercade-physical-cartridge-sim-room-2026-field-card.svg)
+![Mac Donovan presenting Evercade hardware as a physical media side station for a sim room](/images/curator-scenes/generated/evercade-physical-cartridge-sim-room-2026-field-card.webp)
 
 <small>AI curator scene with real Evercade product proof. Mac approves of cartridges because they cannot be silently patched out of a shelf.</small>
 
@@ -123,7 +123,7 @@ You must actually like the collections. Do not buy hardware for the idea of phys
       <p class="eyebrow">Hardware</p>
       <h3>Evercade VS-R / EXP-R</h3>
       <p>The core choice: TV side station or handheld physical-media machine.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Evercade%20VS-R%20EXP-R&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://evercade.co.uk/new-hardware-new-lower-price-introducing-evercade-exp-r-and-evercade-vs-r/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -132,7 +132,7 @@ You must actually like the collections. Do not buy hardware for the idea of phys
       <p class="eyebrow">Storage</p>
       <h3>Cartridge storage</h3>
       <p>The whole point is the shelf. Make the shelf clean.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Evercade%20cartridges%20storage&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://evercade.co.uk/cartridges/" rel="nofollow sponsored noopener" target="_blank">Browse cartridges</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -141,7 +141,7 @@ You must actually like the collections. Do not buy hardware for the idea of phys
       <p class="eyebrow">Display</p>
       <h3>Small HDMI gaming display</h3>
       <p>Use what you have, but a side display keeps guests out of the main rig settings.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=small%20hdmi%20gaming%20monitor&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://evercade.co.uk/" rel="nofollow sponsored noopener" target="_blank">Compare hardware</a>
     </div>
   </article>
 </div>

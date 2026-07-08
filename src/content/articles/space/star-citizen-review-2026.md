@@ -34,7 +34,7 @@ related:
 
 # Star Citizen Review 2026: Is It Worth Building HOSAS Around Yet?
 
-![Val Chen configuring Star Citizen HOSAS controls in a space sim cockpit](/images/curator-scenes/generated/star-citizen-review-2026-field-card.svg)
+![Val Chen configuring Star Citizen HOSAS controls in a space sim cockpit](/images/curator-scenes/generated/star-citizen-review-2026-field-card.webp)
 
 <small>AI curator scene with real HOSAS proof. Val is smiling because the bindings finally survived a patch.</small>
 
@@ -124,7 +124,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Starter HOSAS</p>
       <h3>VKB Gladiator NXT EVO Space Combat Edition</h3>
       <p>The practical serious start for many Star Citizen pilots before boutique spending.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=VKB%20Gladiator%20NXT%20EVO%20Space%20Combat%20Edition&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -133,7 +133,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Left-hand control</p>
       <h3>VKB Omni Throttle</h3>
       <p>A clever bridge for players who want throttle-ish comfort with space-sim movement.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=VKB%20Omni%20Throttle&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -142,7 +142,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Mounting</p>
       <h3>Monstertech Table Mount</h3>
       <p>Not glamorous. Absolutely cockpit-changing.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=joystick%20desk%20mount%20HOSAS&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.mtsim.com/product/joystick-hotas-table-mount/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
 </div>

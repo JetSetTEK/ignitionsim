@@ -34,7 +34,7 @@ related:
 
 # GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around?
 
-![Nina Brooks in a home golf simulator bay presenting the GSPro buying path](/images/curator-scenes/generated/gspro-review-2026-field-card.svg)
+![Nina Brooks in a home golf simulator bay presenting the GSPro buying path](/images/curator-scenes/generated/gspro-review-2026-field-card.webp)
 
 <small>AI curator scene with real product proof. Nina is here to keep the software dream attached to room geometry.</small>
 
@@ -138,7 +138,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Launch monitor</p>
       <h3>Garmin Approach R50</h3>
       <p>A premium all-in-one monitor to research if you want screen-forward convenience. Confirm GSPro workflow before buying.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Garmin%20Approach%20R50%20launch%20monitor&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.garmin.com/en-US/p/736810/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -147,7 +147,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Launch monitor</p>
       <h3>SkyTrak Plus</h3>
       <p>A serious PC-bay candidate when you want data without jumping straight to overhead money.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Uneekor%20Eye%20Mini%20Lite%20launch%20monitor&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.amazon.com/SkyTrak-Launch-Monitor-Simulator-Bundle/dp/B0GJDRRGKC?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -156,7 +156,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Projector</p>
       <h3>BenQ AK700ST</h3>
       <p>Short-throw golf projection is room geometry, not decoration. Verify throw and mount position.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=BenQ%20AK700ST%20golf%20simulator%20projector&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.benq.com/en-us/projector/golf/ak700st/spec.html" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
 </div>

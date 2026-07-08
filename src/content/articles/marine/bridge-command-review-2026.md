@@ -31,7 +31,7 @@ related:
 
 # Bridge Command Review 2026: The DIY Ship Bridge Simulator for Builders
 
-![Gus Calder testing a DIY ship bridge simulator control station](/images/curator-scenes/generated/bridge-command-review-2026-field-card.svg)
+![Gus Calder testing a DIY ship bridge simulator control station](/images/curator-scenes/generated/bridge-command-review-2026-field-card.webp)
 
 <small>AI curator scene with real Bridge Command proof. Gus believes labels are a love language.</small>
 
@@ -119,7 +119,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">DIY board</p>
       <h3>Leo Bodnar BBI-32</h3>
       <p>A practical button-interface path for labeled marine controls.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Leo%20Bodnar%20BBI-32%20button%20box%20interface&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -128,7 +128,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Repurposed control</p>
       <h3>RailDriver-style console</h3>
       <p>Worth studying as a repurposed lever/button station if you enjoy tinkering.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=RailDriver%20desktop%20train%20cab%20controller&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://raildriver.com/products/raildriver-desktop-train-cab-controller" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -137,7 +137,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Labels and wiring</p>
       <h3>Panel labels, USB hub, cable kit</h3>
       <p>The boring kit that makes weird DIY controls usable by other humans.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=powered%20usb%20hub%20cable%20labels%20simulator%20cockpit&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Check Amazon</a>
+      <a data-buy-link="true" href="https://sabrent.com/products/hb-bu10" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
 </div>
