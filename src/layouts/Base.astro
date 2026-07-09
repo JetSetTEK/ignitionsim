@@ -26,6 +26,8 @@ const {
 const canonical = new URL(Astro.url.pathname, site.url).href.replace(/\/$/, '') || site.url;
 const ogImage = image.startsWith('http') ? image : new URL(image, site.url).href;
 const fullTitle = title === site.name ? `${site.name} — ${site.descriptor}` : `${title} · ${site.name}`;
+const ga4MeasurementId = site.analytics?.ga4MeasurementId || (site.analytics?.provider === 'ga4' ? site.analytics.websiteId : '');
+const googleSiteVerification = site.analytics?.googleSiteVerification || '';
 
 // Organization + WebSite schema render on every page
 const orgSchema = {
@@ -59,6 +61,7 @@ const allSchema = [orgSchema, siteSchema, ...schema];
   <meta name="theme-color" content="#0A0E17" />
   <meta name="author" content={site.author.name} />
   <meta name="generator" content={Astro.generator} />
+  {googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
@@ -90,6 +93,9 @@ const allSchema = [orgSchema, siteSchema, ...schema];
   )}
   {site.analytics?.provider === 'plausible' && site.analytics.src && (
     <script is:inline defer data-domain={site.analytics.websiteId} src={site.analytics.src}></script>
+  )}
+  {ga4MeasurementId && (
+    <Fragment set:html={`<script async src="https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(ga4MeasurementId)}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;gtag('js',new Date());gtag('config',${JSON.stringify(ga4MeasurementId)},{send_page_view:true});</script>`} />
   )}
 
   {/* Amazon OneLink — international link localization. Paste the snippet from
@@ -178,19 +184,53 @@ const allSchema = [orgSchema, siteSchema, ...schema];
     })();
     // analytics event helper (no-op until a provider is configured) + delegation
     (() => {
-      (window as any).ig = { track: (e: string, d?: any) => { try { const u = (window as any).umami; const p = (window as any).plausible; if (u && u.track) u.track(e, d); else if (p) p(e, { props: d }); } catch {} } };
+      const normEventName = (value: string) =>
+        String(value || '')
+          .trim()
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '_')
+          .replace(/^_+|_+$/g, '')
+          .slice(0, 40) || 'event';
+      const datasetParams = (el: HTMLElement | null) => {
+        const out: Record<string, string> = {};
+        if (!el) return out;
+        for (const [key, value] of Object.entries(el.dataset)) {
+          if (!key.startsWith('event') || key === 'event') continue;
+          const param = key.replace(/^event/, '').replace(/^[A-Z]/, (m) => m.toLowerCase()).replace(/[A-Z]/g, (m) => `_${m.toLowerCase()}`);
+          if (param) out[param] = String(value || '').slice(0, 160);
+        }
+        return out;
+      };
+      (window as any).ig = {
+        track: (event: string, data?: any) => {
+          try {
+            const eventName = normEventName(event);
+            const payload = {
+              page_path: location.pathname,
+              page_title: document.title,
+              ...(data || {}),
+            };
+            const u = (window as any).umami;
+            const p = (window as any).plausible;
+            const g = (window as any).gtag;
+            if (u && u.track) u.track(eventName, payload);
+            if (p) p(eventName, { props: payload });
+            if (g) g('event', eventName, payload);
+          } catch {}
+        },
+      };
       document.addEventListener('click', (e) => {
         const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"], a[href^="/racing/"], a[href^="/golf/"], a[href^="/flight/"], a[href^="/space/"], a[href^="/marine/"], a[href^="/games"], a[href^="/build-stream"], a[href^="/guides"]') as HTMLElement | null;
         if (!el) return;
-        const link = el instanceof HTMLAnchorElement ? el : el.closest('a');
+        const link = el instanceof HTMLAnchorElement ? el : (el.closest('a') || el.querySelector('a[href]'));
         const sponsored = !!(link && link.rel && link.rel.split(/\s+/).includes('sponsored'));
         const eventName = el.dataset.event || (sponsored ? 'buy_click' : 'internal_recommendation_click');
         (window as any).ig.track(eventName, link ? {
           href: link.href,
           text: link.textContent?.trim().replace(/\s+/g, ' ').slice(0, 120),
-          page_path: location.pathname,
           outbound: link.origin !== location.origin,
-        } : { page_path: location.pathname });
+          ...datasetParams(el),
+        } : datasetParams(el));
       }, { capture: true });
       document.addEventListener('submit', (e) => {
         const form = e.target as HTMLFormElement | null;
@@ -215,6 +255,17 @@ const allSchema = [orgSchema, siteSchema, ...schema];
       };
       document.addEventListener('scroll', onScrollDepth, { passive: true });
       onScrollDepth();
+      let engagedSent = false;
+      const sendEngaged = (trigger: string) => {
+        if (engagedSent) return;
+        engagedSent = true;
+        (window as any).ig.track('engaged_reader_45s', { trigger });
+      };
+      window.setTimeout(() => sendEngaged('timer'), 45000);
+      document.addEventListener('click', (event) => {
+        const target = event.target as HTMLElement | null;
+        if (target?.closest('.article-next, .river-card, .latest-slide, .brief-card')) sendEngaged('next_step');
+      }, { capture: true });
     })();
   </script>
 </body>

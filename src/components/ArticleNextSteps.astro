@@ -1,0 +1,236 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import bays from '../data/bays.json';
+import growthPriorities from '../data/growth-priorities.json';
+import { articleMeta, articleSlug } from '../lib/content';
+import { getWorldForBay } from '../lib/worlds';
+import { getCrewForBay, crewSlug } from '../lib/crew';
+
+interface Props {
+  entry: any;
+  related?: any[];
+  placement?: 'top' | 'bottom';
+}
+
+const { entry, related = [], placement = 'bottom' } = Astro.props;
+const d = entry.data;
+const bay = bays.find((item) => item.slug === d.bay) || bays[0];
+const world = getWorldForBay(d.bay);
+const curator = getCrewForBay(d.bay);
+const starterGuideByBay = (growthPriorities as any).starterGuideByBay || {};
+const starterSlug = starterGuideByBay[d.bay] || articleSlug(entry);
+const starterHref = `/${d.bay}/${starterSlug}`;
+const titlePrefix = placement === 'top' ? 'Before you spend, pick the next proof point.' : 'Keep the build moving.';
+const routeCards = [
+  {
+    label: `${bay.name} bay`,
+    title: `Open the ${bay.name.toLowerCase()} build lane`,
+    text: bay.intro,
+    href: `/${d.bay}`,
+    event: 'article_next_bay_click',
+  },
+  {
+    label: 'Starter map',
+    title: 'Start from the buying order',
+    text: 'Use the bay starter guide when you need the fastest route from dream rig to sane cart.',
+    href: starterHref,
+    event: 'article_next_starter_click',
+  },
+  {
+    label: 'Sim Stream',
+    title: 'Read the newest certified routes',
+    text: 'Newest-first buyer maps, gear warnings, curator notes, and product-proof cards.',
+    href: '/build-stream',
+    event: 'article_next_stream_click',
+  },
+  {
+    label: 'Games hub',
+    title: 'Build around what you play',
+    text: 'Hardware advice by sim title, from iRacing and GSPro to MSFS and Star Citizen.',
+    href: '/games',
+    event: 'article_next_games_click',
+  },
+];
+---
+
+<section class={`article-next article-next-${placement}`} data-bay={d.bay} style={`--world-bg: url('${world.image}')`} aria-label="Recommended next IgnitionSim paths">
+  <div class="article-next-copy">
+    <span class="lbl lbl-accent">Next move · {curator.handle}</span>
+    <h2>{titlePrefix}</h2>
+    <p>{curator.name} would rather you open one more useful route than panic-buy the expensive part twice.</p>
+  </div>
+
+  <div class="article-next-routes">
+    {routeCards.map((card) => (
+      <a class="next-route" href={card.href} data-event={card.event} data-event-bay={d.bay} data-event-source={articleSlug(entry)}>
+        <span>{card.label}</span>
+        <h3>{card.title}</h3>
+        <p>{card.text}</p>
+      </a>
+    ))}
+  </div>
+
+  {related.length > 0 && (
+    <div class="article-next-guides">
+      <div class="mini-head">
+        <span class="lbl">Related certified guides</span>
+        <a href={`/curator/${crewSlug(curator)}`} data-event="article_next_curator_click" data-event-curator={crewSlug(curator)}>More from {curator.name.split(' ')[0]} &#9656;</a>
+      </div>
+      <div class="article-next-grid">
+        {related.slice(0, 3).map((a) => (
+          <div data-event="article_next_guide_click" data-event-bay={a.data.bay} data-event-source={articleSlug(entry)} data-event-target={articleSlug(a)}>
+            <ArticleCard
+              href={`/${a.data.bay}/${articleSlug(a)}`}
+              title={a.data.title}
+              excerpt={a.data.excerpt || a.data.description}
+              type={a.data.type}
+              image={a.data.heroImage}
+              imageAlt={a.data.heroAlt}
+              meta={articleMeta(a.data)}
+            />
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
+</section>
+
+<style>
+  .article-next {
+    position: relative;
+    max-width: 1080px;
+    margin: 28px auto;
+    padding: 24px;
+    overflow: hidden;
+    border: 2px solid color-mix(in srgb, var(--accent) 36%, rgba(16,24,32,.18));
+    border-radius: 26px;
+    background:
+      radial-gradient(720px 330px at 90% 8%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 70%),
+      linear-gradient(90deg, rgba(16,24,32,.92), rgba(16,24,32,.58)),
+      var(--world-bg) center / cover no-repeat;
+    box-shadow: 0 12px 0 rgba(16,24,32,.12), 0 32px 70px color-mix(in srgb, var(--accent) 14%, transparent);
+    color: #fff;
+  }
+  .article-next::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+    background-size: 42px 42px;
+    opacity: .42;
+    mix-blend-mode: screen;
+  }
+  .article-next > * {
+    position: relative;
+    z-index: 1;
+  }
+  .article-next-copy {
+    max-width: 760px;
+    margin-bottom: 18px;
+  }
+  .article-next h2 {
+    margin: 8px 0 8px;
+    color: #fff;
+    font-size: clamp(1.75rem, 3.5vw, 3rem);
+    line-height: .98;
+    text-transform: uppercase;
+  }
+  .article-next-copy p {
+    max-width: 70ch;
+    color: rgba(255,255,255,.82);
+    line-height: 1.6;
+  }
+  .article-next-routes {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .next-route {
+    min-height: 172px;
+    padding: 16px;
+    border: 1px solid rgba(255,255,255,.28);
+    border-radius: 16px;
+    background: rgba(255,255,255,.9);
+    color: #101820;
+    box-shadow: 0 8px 0 rgba(0,0,0,.16);
+  }
+  .next-route:hover {
+    transform: translateY(-4px);
+    background: #fff;
+  }
+  .next-route span,
+  .mini-head .lbl {
+    font-family: var(--font-mono);
+    font-size: .58rem;
+    font-weight: 900;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .next-route h3 {
+    margin: 8px 0;
+    font-size: 1.05rem;
+    line-height: 1.06;
+  }
+  .next-route p {
+    color: #475569;
+    font-size: .9rem;
+    line-height: 1.45;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .article-next-guides {
+    margin-top: 22px;
+  }
+  .mini-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .mini-head a {
+    color: #fff;
+    font-weight: 800;
+  }
+  .article-next-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .article-next-grid :global(.article-world-card) {
+    border-radius: 16px;
+    box-shadow: 0 8px 0 rgba(0,0,0,.18), 0 20px 45px rgba(0,0,0,.18);
+  }
+  .article-next-top {
+    margin-top: 0;
+  }
+  @media (max-width: 920px) {
+    .article-next-routes,
+    .article-next-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (max-width: 640px) {
+    .article-next {
+      padding: 18px;
+      border-radius: 20px;
+    }
+    .article-next-routes,
+    .article-next-grid {
+      grid-template-columns: 1fr;
+    }
+    .next-route {
+      min-height: 0;
+    }
+    .mini-head {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+  }
+</style>

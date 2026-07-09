@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import FAQ from '../../components/FAQ.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import ArticleNextSteps from '../../components/ArticleNextSteps.astro';
 import { getCollection, render } from 'astro:content';
 import ShareButtons from '../../components/ShareButtons.astro';
 import bays from '../../data/bays.json';
@@ -39,10 +40,30 @@ const bylineCurator = getCuratorByName(d.author) as any;
 const curatorHref = bylineCurator ? `/curator/${crewSlug(bylineCurator)}` : null;
 const authorFirst = String(d.author).split(' ')[0];
 
-// related
+// Related guides are scored instead of merely sliced so every article gets a
+// strong internal path back into its bay, buying intent, and declared siblings.
+const relatedIds = new Set((d.related || []).flatMap((item: string) => item.includes('/') ? [item, item.split('/').pop()] : [item, `${d.bay}/${item}`]));
+const scoreRelated = (candidate: any) => {
+  const cSlug = candidate.id.split('/').pop();
+  let score = 0;
+  if (relatedIds.has(candidate.id) || relatedIds.has(cSlug)) score += 100;
+  if (candidate.data.bay === d.bay) score += 36;
+  if (candidate.data.contentCluster && candidate.data.contentCluster === d.contentCluster) score += 24;
+  if (candidate.data.revenueTier === d.revenueTier) score += 8;
+  if (candidate.data.revenueTier === 'A') score += 12;
+  if (candidate.data.featured) score += 8;
+  if (candidate.data.type === d.type) score += 6;
+  const fresh = +new Date(candidate.data.updatedDate || candidate.data.publishDate || 0);
+  score += Math.max(0, Math.min(10, Math.floor((fresh - Date.UTC(2026, 0, 1)) / 1000 / 60 / 60 / 24 / 14)));
+  return score;
+};
 const related = (await getCollection('articles', ({ data }) => isCertifiedArticle(data)))
-  .filter((a) => a.id !== entry.id && (d.related.includes(a.id.split('/').pop()!) || a.data.bay === d.bay))
-  .slice(0, 3);
+  .filter((a) => a.id !== entry.id)
+  .map((a) => ({ a, score: scoreRelated(a) }))
+  .filter(({ score }) => score > 0)
+  .sort((x, y) => y.score - x.score)
+  .map(({ a }) => a)
+  .slice(0, 4);
 
 const typeLabel = d.type.replace(/-/g, ' ');
 const worldHeroByBay: Record<string, { image: string; alt: string }> = {
@@ -168,6 +189,8 @@ if (d.faqs.length) {
       <ol></ol>
     </nav>
 
+    <ArticleNextSteps entry={entry} related={related} placement="top" />
+
     <div class="prose">
       <Content />
     </div>
@@ -200,6 +223,8 @@ if (d.faqs.length) {
     <div class="prose">
       <p class="disclosure">{site.disclosure}</p>
     </div>
+
+    <ArticleNextSteps entry={entry} related={related} placement="bottom" />
 
     {bylineCurator && (
       <aside class="author-card" data-bay={d.bay}>

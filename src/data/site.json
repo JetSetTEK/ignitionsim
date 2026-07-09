@@ -38,7 +38,9 @@
   "analytics": {
     "provider": "umami",
     "websiteId": "2db5a7e2-92ec-489e-93b6-e9a6cf532a0b",
-    "src": "https://cloud.umami.is/script.js"
+    "src": "https://cloud.umami.is/script.js",
+    "ga4MeasurementId": "G-7XB7ZDLV7E",
+    "googleSiteVerification": ""
   },
   "affiliate": {
     "amazonTag": "ignitionsim-20",

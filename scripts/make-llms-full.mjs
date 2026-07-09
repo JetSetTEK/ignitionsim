@@ -1,7 +1,6 @@
 // Generate public/llms-full.txt — a full-text corpus (overview + methodology +
 // every product + every guide body) for AI retrieval / citation.
 import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -26,10 +25,14 @@ Independent, engineer-minded, honest-broker. Compatibility-checked builds, deep 
 `;
 
 // products per bay
+const allProductFiles = (await readdir(join(root, 'src', 'data', 'products'))).filter((file) => file.endsWith('.json'));
+const allProducts = [];
+for (const file of allProductFiles) {
+  const list = JSON.parse(await readFile(join(root, 'src', 'data', 'products', file), 'utf8'));
+  allProducts.push(...list);
+}
 for (const bay of bays) {
-  const f = join(root, 'src', 'data', 'products', `${bay.slug}.json`);
-  if (!existsSync(f)) continue;
-  const list = JSON.parse(await readFile(f, 'utf8')).filter((p) => verifiedImages.has(productImage(p)));
+  const list = allProducts.filter((p) => p.bay === bay.slug && verifiedImages.has(productImage(p)));
   out += `## ${bay.name} gear (${list.length})\n`;
   for (const p of list) {
     out += `- ${p.brand} ${p.model} — ${p.price ? '~$' + p.price : 'price varies'} — Verdict ${p.rating?.overall ?? '?'}/10 — ${p.summary} [${site.url}/${p.bay}/gear/${p.id}]\n`;
