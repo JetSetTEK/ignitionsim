@@ -69,7 +69,7 @@ The Simucube ActivePedal Pro is the one people measure against because it feels 
     <span class="gp-price">~$1.8K+ per pedal class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube%20ActivePedal%20Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -87,7 +87,7 @@ MOZA mBooster is the reason this category suddenly feels less absurd. It brings 
     <span class="gp-price">~$799 class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA%20mBooster%20active%20pedal&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

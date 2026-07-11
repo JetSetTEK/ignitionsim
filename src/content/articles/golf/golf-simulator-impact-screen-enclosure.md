@@ -73,7 +73,7 @@ Prices move with promos and screen tier, so check current pricing before you com
     <span class="gp-price">Kit commonly ~$750 sale / ~$1,000+ regular — check current, screen tier extra</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+DIY+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -87,7 +87,7 @@ Prices move with promos and screen tier, so check current pricing before you com
     <span class="gp-price">~$2,000 with SIGPRO Premium — check current, Gray upgrade extra</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -132,7 +132,7 @@ In independent head-to-head testing, the **SIGPRO Premium** outperformed the lea
     <span class="gp-price">~$550 (smallest) to ~$1,150 (largest) by size — check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-premium-impact-screen">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Premium+impact+screen&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -169,7 +169,7 @@ The move: pick the screen size your room depth allows, confirm the aspect ratio 
     <span class="gp-price">Commonly around $1.2K — check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -183,7 +183,7 @@ The move: pick the screen size your room depth allows, confirm the aspect ratio 
     <span class="gp-price">Premium 4K tier (~$4.9K) — check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -206,7 +206,7 @@ The enclosure isn't just the screen frame — the **side and ceiling baffles** a
     <span class="gp-price">~$400 — check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-side-barrier-netting">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -222,7 +222,7 @@ The floor matters too. A landing-pad turf roll between the mat and the screen pr
     <span class="gp-price">~$11-$14 per sq ft for full systems — check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig-landing-pad-turf">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+landing+pad+turf&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -260,7 +260,7 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
     <span class="gp-eyebrow">Best value enclosure path</span>
     <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure + Preferred screen</a></span>
     <p class="gp-why">Match size, screen, pipe kit, back cover, foam, and side protection to the room. The value sweet spot for most home bays, with the bounceback hardware built in.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+DIY+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -270,7 +270,7 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
     <span class="gp-eyebrow">Best screen for image quality</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">SIGPRO Premium Impact Screen</a></span>
     <p class="gp-why">The MyGolfSpy testing winner: sharpest 4K image, quietest, lowest bounceback, no sag after 150,000 strikes. Buy it if the picture is the point.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Premium+impact+screen&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -280,7 +280,7 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
     <span class="gp-eyebrow">Best premium all-in-one</span>
     <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Golf Simulator Enclosure</a></span>
     <p class="gp-why">A dedicated ~11-ft room and a tool-free bay with frame, padding, surround, and a 250 mph-rated SIGPRO Premium screen. Zero white border, engineering done for you.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -290,7 +290,7 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
     <span class="gp-eyebrow">Best cheap protection</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">SIGPRO Side Barrier Netting</a></span>
     <p class="gp-why">A few hundred dollars that saves the walls, TVs, and windows beside the bay from the inevitable shank. Add it to any enclosed room built near anything valuable.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

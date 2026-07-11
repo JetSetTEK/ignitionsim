@@ -74,7 +74,7 @@ The regret-proof read: for a home sim-racing rig, **3DOF with a traction-loss ax
     <span class="gp-price">~$2,999 (2DOF)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/nlr-motion-v3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+Motion+Platform+V3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -88,7 +88,7 @@ The regret-proof read: for a home sim-racing rig, **3DOF with a traction-loss ax
     <span class="gp-price">~$2,999 base (3DOF)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/dof-reality-h3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=DOF+Reality+H3+motion+platform&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -168,7 +168,7 @@ Motion is not a plug-and-play seat pad. Budget for the whole picture before you 
     <span class="gp-eyebrow">Best value motion pick</span>
     <span class="gp-name"><a href="/racing/gear/dof-reality-h3">DOF Reality H3</a></span>
     <p class="gp-why">If you're spending motion money, spend it on the axis that matters. Real 3DOF with traction-loss yaw for roughly premium-2DOF price. More DIY, less polished than the NLR — but your hands will feel the rear end move, and that's the whole reason you wanted motion.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=DOF+Reality+H3+motion+platform&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -178,7 +178,7 @@ Motion is not a plug-and-play seat pad. Budget for the whole picture before you 
     <span class="gp-eyebrow">Best turnkey / quiet 2DOF</span>
     <span class="gp-name"><a href="/racing/gear/nlr-motion-v3">Next Level Racing Motion Platform V3</a></span>
     <p class="gp-why">The polished, quiet, best-supported way into motion for the grip-circuit racer who values a clean install and apartment-friendly noise over the yaw axis. Bolts to NLR cockpits, refined software, genuinely lovely to live with.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+Motion+Platform+V3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

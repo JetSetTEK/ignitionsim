@@ -90,7 +90,7 @@ Every cornerstone article should include:
 - If a product has credible low-star patterns, name the risk in plain English and link readers to live reviews or a sourced discussion.
 - If a product is good but annoying, say so: "buy it, but know this will take an extra Saturday."
 - If the best advice is to wait for a revision, say that even if the affiliate link would convert today.
-- Use Amazon links for now, but prefer official/vendor links when Amazon does not show the right product or the product is ecosystem/direct-only.
+- Amazon CTAs must use verified direct product pages only: `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`. Never publish Amazon search-result links (`/s?k=`, `/s?keywords=`, or generic "Check Amazon" destinations). If the exact ASIN cannot be verified, use an official/vendor/specialty-retailer link or omit the Amazon CTA until verified.
 
 ## Game And Software Review Standard
 - Treat game/software reviews as hardware-buying pages, not generic game criticism. The core question is: is this sim worth building a room, rig, bay, cockpit, desk, or control stack around?
@@ -145,7 +145,7 @@ Manual surfaces that must be decided and updated before publish:
 Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
 - Run `npm run gold-audit`; it must pass before build, deploy, or push. The build now runs this automatically, but run it directly while editing so failures are caught early.
-- Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended product.
+- Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended exact product. Amazon links must be direct `/dp/ASIN` URLs with `tag=ignitionsim-20`; no search-result URLs ship.
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.
 - Check article cards and homepage modules for wrong-product, duplicate-product, logo-only, or marketplace-placeholder imagery. Fix the source image or cover generator before publishing.
 - Search the output for placeholder markers, `PHOTO SLOT READY`, `cimg-fallback`, procedural hero art, missing images, and product pages that are only spec cards. Fix or demote before deploy.

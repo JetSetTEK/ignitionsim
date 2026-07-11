@@ -86,7 +86,7 @@ The late-2025 **ST MAX** refresh is worth knowing about: GOLFTEC-powered speed t
     <span class="gp-price">~$1,995 (clearance; verify stock)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -100,7 +100,7 @@ The late-2025 **ST MAX** refresh is worth knowing about: GOLFTEC-powered speed t
     <span class="gp-price">~$2,995</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -127,7 +127,7 @@ A Launch Pro on Gold plus GSPro is approaching **$750/year** in recurring cost. 
     <span class="gp-price">~$2,499 + subscription</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -151,7 +151,7 @@ For a player who wants to shoot a round on Pebble and see honest ball flight, th
     <span class="gp-price">~$6,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -206,7 +206,7 @@ The hardware differences are smaller than the software differences. Here is how 
     <span class="gp-eyebrow">Best total cost of ownership</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+ (or ST MAX)</a></span>
     <p class="gp-why">The right buy for most serious home players: strong ball data, included range, no annual fee. Grab the clearance + if GSPro/E6 connectors are confirmed, or the ST MAX for the snappier feel.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -216,7 +216,7 @@ The hardware differences are smaller than the software differences. Here is how 
     <span class="gp-eyebrow">Foresight ball data if you accept the fee</span>
     <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">The cheapest genuine Foresight sensor. Buy it if you want tour-grade ball data and you have budgeted the Silver/Gold fee or the one-time club-data unlock.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -226,7 +226,7 @@ The hardware differences are smaller than the software differences. Here is how 
     <span class="gp-eyebrow">Fitting-grade, lifetime software</span>
     <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight GC3</a></span>
     <p class="gp-why">Buy it if you fit or instruct and want tour-grade club data with lifetime FSX and no recurring fee. Buy the straight GC3, not the phased-out GC3S.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

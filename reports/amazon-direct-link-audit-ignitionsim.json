@@ -1,0 +1,27 @@
+{
+  "root": "/Users/robpruitt/ignitionsim",
+  "tag": "ignitionsim-20",
+  "scannedFiles": 187,
+  "before": {
+    "total": 17,
+    "unique": 12,
+    "byClass": {
+      "direct": 17
+    },
+    "uniqueByClass": {
+      "direct": 12
+    }
+  },
+  "replacements": 0,
+  "after": {
+    "total": 17,
+    "unique": 12,
+    "byClass": {
+      "direct": 17
+    },
+    "uniqueByClass": {
+      "direct": 12
+    }
+  },
+  "unresolved": []
+}

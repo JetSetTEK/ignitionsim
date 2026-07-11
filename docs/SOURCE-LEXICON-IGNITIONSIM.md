@@ -6,7 +6,7 @@ This is the starting source registry for product-photo hunting, source review, a
 
 1. Official manufacturer product pages, press rooms, manuals, and setup docs.
 2. Specialty retailer product pages when they publish clean store media and the official page is blocked or incomplete.
-3. Amazon Associates links and Amazon product pages for broad catalog items, with title/ASIN checks before linking.
+3. Amazon Associates links and Amazon product pages for broad catalog items, with title/ASIN checks before linking. Amazon CTAs must be exact direct product URLs, never search-result pages.
 4. Owned screenshots, owned photos, original diagrams, and explicitly permitted community photos.
 
 Do not hotlink. Save verified product media into `public/images/gear/...`, keep the product source URL in the product registry or fetch script, and verify the local file before it can appear on public product benches.
@@ -100,4 +100,4 @@ Useful search patterns:
 - Local image is not a logo, icon, placeholder, tracking pixel, or tiny thumbnail.
 - Product is centered, recognizable, and not aggressively cropped.
 - If the image is an AI scene, label it as editorial/AI and keep real product proof nearby.
-- If the product is unavailable or direct-only, use official/vendor links instead of forcing a bad Amazon search.
+- If the product is unavailable, direct-only, or cannot be matched to an exact ASIN, use official/vendor links instead of forcing a bad Amazon CTA.

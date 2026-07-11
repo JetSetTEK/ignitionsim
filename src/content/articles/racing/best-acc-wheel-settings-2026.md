@@ -94,7 +94,7 @@ Tune to that feeling on a corner you know well, not to a forum post. Five focuse
     <span class="gp-price">~$429 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -114,7 +114,7 @@ Two dampers cure it. **Dynamic Damping** (in-game) is really the effective weigh
     <span class="gp-price">~$899-$999 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -149,7 +149,7 @@ The clean fix: **set your base software and ACC to the same rotation** — 900°
 
 ## What to run ACC on
 
-This is a settings guide, not a shopping list — the right numbers make a humble base feel sharp, and no base is "too weak" for good ACC feel once it's dialed. If you *are* still choosing hardware, the honest short version: a 12Nm base like the [MOZA R12](/racing/gear/moza-r12) sits in the sweet spot most drivers never outgrow, and a clean 9-12Nm base with perfect settings out-informs a mis-tuned 18-21Nm one every time. Budget-first? The Fanatec CSL DD (5-8Nm) tunes up beautifully in ACC at 75-100% Gain — <a href="https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">check current pricing on Amazon</a>. We don't have a verified studio photo of it yet, so it's a text pick here rather than a pictured one.
+This is a settings guide, not a shopping list — the right numbers make a humble base feel sharp, and no base is "too weak" for good ACC feel once it's dialed. If you *are* still choosing hardware, the honest short version: a 12Nm base like the [MOZA R12](/racing/gear/moza-r12) sits in the sweet spot most drivers never outgrow, and a clean 9-12Nm base with perfect settings out-informs a mis-tuned 18-21Nm one every time. Budget-first? The Fanatec CSL DD (5-8Nm) tunes up beautifully in ACC at 75-100% Gain — verify current pricing through a direct product listing. We don't have a verified studio photo of it yet, so it's a text pick here rather than a pictured one.
 
 <aside class="gearpick">
   <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Best all-round ACC base</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
@@ -160,7 +160,7 @@ This is a settings guide, not a shopping list — the right numbers make a humbl
     <span class="gp-price">~$429 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

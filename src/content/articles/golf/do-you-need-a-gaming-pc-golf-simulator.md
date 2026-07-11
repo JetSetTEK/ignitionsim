@@ -122,7 +122,7 @@ The tradeoff is course depth and openness: an all-in-one gives you Garmin's ecos
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -146,7 +146,7 @@ This is a low-product-density decision — the "purchase" is mostly a parts list
     <span class="gp-eyebrow">Best when your real enemy is setup friction</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">If you never want to build, patch, or troubleshoot a gaming PC, this is the answer — the simulator lives inside the launch monitor. You spend the PC money on the physical bay instead. Not the cheapest path and not the deepest course library, but the least friction of anything on the market.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

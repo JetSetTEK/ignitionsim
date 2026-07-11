@@ -75,7 +75,7 @@ The budget entry is two **Thrustmaster T.16000M** sticks. Buy them as the **Spac
     <span class="gp-price">~$80 each (~$120 the Space Sim Duo pair)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+Space+Sim+Duo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -89,7 +89,7 @@ The budget entry is two **Thrustmaster T.16000M** sticks. Buy them as the **Spac
     <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -114,7 +114,7 @@ On a budget, the **Thrustmaster T.16000M FCS HOTAS** (~$170) is the smart pick: 
     <span class="gp-price">~$170</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -145,7 +145,7 @@ Don't let the boutique-stick crowd shame you. A plain **gamepad** flies Elite Da
 
 On Xbox, boutique sticks (VKB, Virpil, WinWing) simply don't work — they're PC-only. The **Turtle Beach VelocityOne Flightstick** (~$130, seen ~$97-99 on sale) is the main licensed Xbox flight stick, with Hall-effect axes, an OLED data display, an integrated mini-throttle and 27 programmable buttons. It's a capable single stick; the common complaints are a stiff, non-adjustable centering spring, small throttle levers, and a light base that tips. If you're on Xbox and want more than a gamepad, it's essentially your one real choice — so we're linking it to search and to Turtle Beach's official page rather than embedding an unverified product photo. Confirm current price and layout before you buy.
 
-Turtle Beach VelocityOne Flightstick — official page: [turtlebeach.com](https://www.turtlebeach.com/products/velocity-one-flight-stick) · Amazon search: [Turtle Beach VelocityOne Flightstick](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — the licensed Xbox option; boutique sticks are PC-only.
+Turtle Beach VelocityOne Flightstick — official page: [turtlebeach.com](https://www.turtlebeach.com/products/velocity-one-flight-stick) · Turtle Beach VelocityOne Flightstick — the licensed Xbox option; boutique sticks are PC-only.
 
 ## The setup tax nobody quotes at checkout
 
@@ -175,7 +175,7 @@ The stick is the easy part. Three things trip up new Elite pilots more than any 
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -193,7 +193,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -218,7 +218,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
     <span class="gp-eyebrow">The sticks · Space Sim Duo twin-pack</span>
     <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
     <p class="gp-why">The cheapest credible HOSAS and the right first buy for combat Elite. Two ambidextrous Hall-effect sticks for ~$120 the Duo. If you want boutique feel, swap in a VKB Gladiator pair — same role, magnetic sensors, an upgrade ladder.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+Space+Sim+Duo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -228,7 +228,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk mid-firefight.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -238,7 +238,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames Elite's long bind list with labeled keys and folders. Setup-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot. Add a $60 gamepad on the desk for the Operations on-foot fights and the whole rig is complete.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -250,7 +250,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
     <span class="gp-eyebrow">The stick + throttle · one box</span>
     <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
     <p class="gp-why">A real linear-rail throttle you can park and forget, plus a Hall-effect stick, for ~$170. The right first HOTAS for exploration and trading. Want more switches for Elite's bind list? The Logitech X56 is the popular step-up — confirm current stock and price first.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

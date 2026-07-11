@@ -84,7 +84,7 @@ Nina's translation: **AK700ST is the best answer when you want the room to feel 
     <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -101,7 +101,7 @@ Nina's translation: **AK700ST is the best answer when you want the room to feel 
     <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ah700st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AH700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -118,7 +118,7 @@ Nina's translation: **AK700ST is the best answer when you want the room to feel 
     <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-lk936st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -135,7 +135,7 @@ Nina's translation: **AK700ST is the best answer when you want the room to feel 
     <span class="gp-price">Verify live pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -275,26 +275,10 @@ Hard specs in this guide were checked on July 2, 2026 against official pages:
 If you are building a serious permanent room, start here:
 
 <div class="buy-grid">
-  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST golf simulator projector product photo" loading="lazy">
-    <strong>BenQ AK700ST</strong>
-    <span>Best default 4K golf projector. Check Amazon.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+AH700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/benq-ah700st.jpg" alt="BenQ AH700ST golf simulator projector product photo" loading="lazy">
-    <strong>BenQ AH700ST</strong>
-    <span>Best value BenQ golf-specific projector. Check Amazon.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST golf simulator projector product photo" loading="lazy">
-    <strong>BenQ LK936ST</strong>
-    <span>Premium large-room 4K showpiece. Check Amazon.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR projector product photo" loading="lazy">
-    <strong>Optoma GT2100HDR</strong>
-    <span>Tight-room 1080p laser value pick. Check Amazon.</span>
-  </a>
+  BenQ AK700ST Best default 4K golf projector. Verify the exact model before buying.
+  BenQ AH700ST Best value BenQ golf-specific projector. Verify the exact model before buying.
+  BenQ LK936ST Premium large-room 4K showpiece. Verify the exact model before buying.
+  Optoma GT2100HDR Tight-room 1080p laser value pick. Verify the exact model before buying.
 </div>
 
 If you are still planning the whole room, read these before checkout:

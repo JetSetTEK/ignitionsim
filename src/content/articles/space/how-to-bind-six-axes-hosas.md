@@ -157,7 +157,7 @@ This guide is about binding, but a few hardware choices make the binding vastly 
     <span class="gp-price">~$80 each (~$160 the pair)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -171,7 +171,7 @@ This guide is about binding, but a few hardware choices make the binding vastly 
     <span class="gp-price">~$149</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Omni-Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

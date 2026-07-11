@@ -83,7 +83,7 @@ That is MOZA's pitch in one sentence: start cheap, upgrade in place, never re-bu
     <span class="gp-price">~$399-469 (12Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -99,7 +99,7 @@ If your platform is Xbox, MOZA is also the cheapest credible door into direct dr
     <span class="gp-price">~$399 bundle (3.9Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -126,7 +126,7 @@ What you get for buying in is the **widest accessory ecosystem in the hobby** �
     <span class="gp-price">Bundle · check current pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -142,7 +142,7 @@ The honest downside is lock-in, and it is the worst of the three. Fanatec's **QR
     <span class="gp-price">~$899 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD+Plus+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -162,7 +162,7 @@ The bigger story is the **QR-A quick release**, which finally opened Simagic bas
     <span class="gp-price">~$699 (18Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -178,7 +178,7 @@ The one disqualifier: **Simagic is PC-only, across the entire range.** If you ra
     <span class="gp-price">~$969 (28Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-ultra">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Ultra&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -232,7 +232,7 @@ All three are excellent 12-15Nm bases. The R12 wins on ladder depth and Pit Hous
     <span class="gp-eyebrow">Best pure-PC value ecosystem</span>
     <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
     <p class="gp-why">If your console never enters the equation, this is the best feel-per-dollar in the hobby and the friendliest quick release. 18Nm, open QR-A, done.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -242,7 +242,7 @@ All three are excellent 12-15Nm bases. The R12 wins on ladder depth and Pit Hous
     <span class="gp-eyebrow">Best one-brand ladder</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">The base for anyone who wants to grow inside one ecosystem, cradle to flagship, keeping their rims and software the whole way. Sweet-spot torque, best tuning suite.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -252,7 +252,7 @@ All three are excellent 12-15Nm bases. The R12 wins on ladder depth and Pit Hous
     <span class="gp-eyebrow">Best PlayStation ecosystem</span>
     <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: Gran Turismo licensed, complete bundle, deepest catalog, and free firmware torque bumps across the range. Buy it on a Fanatec sale and don't look back.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

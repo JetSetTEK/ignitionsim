@@ -65,7 +65,7 @@ Simucube is the clean feel/reference choice. Asetek is the fast, hard-hitting fl
     <span class="gp-price">~$1.2K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-2-sport">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube%202%20Sport&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -79,7 +79,7 @@ Simucube is the clean feel/reference choice. Asetek is the fast, hard-hitting fl
     <span class="gp-price">~$1.9K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asetek-invicta">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Asetek%20Invicta%20wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -93,7 +93,7 @@ Simucube is the clean feel/reference choice. Asetek is the fast, hard-hitting fl
     <span class="gp-price">~$1K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-ultra">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic%20Alpha%20Evo%20Ultra&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

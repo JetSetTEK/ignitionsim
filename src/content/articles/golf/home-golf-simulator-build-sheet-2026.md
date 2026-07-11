@@ -77,7 +77,7 @@ The **Garmin Approach R10** is still the budget radar gateway. The **Rapsodo MLM
     <span class="gp-price">Mid-tier launch monitor</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -95,7 +95,7 @@ A cheap mat can punish wrists, elbows, and swing mechanics. Good mats absorb imp
     <span class="gp-price">Premium mat</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+golf+simulator+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -113,7 +113,7 @@ Your impact screen is not decor. It is a repeated high-speed impact surface. Bud
     <span class="gp-price">Bay infrastructure</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

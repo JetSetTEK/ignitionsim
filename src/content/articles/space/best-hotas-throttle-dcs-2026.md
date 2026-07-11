@@ -34,7 +34,7 @@ related:
   - "best-space-sim-controllers-2026"
 ---
 
-Verdict first: **for the finest standalone DCS throttle, buy the [Virpil MongoosT-50CM3](https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20) (~$380, check current) — dual duralumin levers and five swappable detent profiles. For the same dual-lever, swappable-detent formula at the best price, buy the [VKB STECS Mk.II Standard](/space/gear/vkb-stecs-standard-mk2-throttle) (~$289, check current). For A-10 immersion, the [Thrustmaster Warthog Dual Throttle](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+Dual+Throttle&tag=ignitionsim-20) ($349.99) is the 1:1 replica. And to fly DCS for the least money, the [Thrustmaster T.16000M FCS HOTAS](/space/gear/thrustmaster-t16000m-fcs-hotas) (~$170) bundles a whole stick-and-throttle setup for less than one flagship lever.**
+Verdict first: **for the finest standalone DCS throttle, buy the Virpil MongoosT-50CM3 (~$380, check current) — dual duralumin levers and five swappable detent profiles. For the same dual-lever, swappable-detent formula at the best price, buy the [VKB STECS Mk.II Standard](/space/gear/vkb-stecs-standard-mk2-throttle) (~$289, check current). For A-10 immersion, the Thrustmaster Warthog Dual Throttle ($349.99) is the 1:1 replica. And to fly DCS for the least money, the [Thrustmaster T.16000M FCS HOTAS](/space/gear/thrustmaster-t16000m-fcs-hotas) (~$170) bundles a whole stick-and-throttle setup for less than one flagship lever.**
 
 Space sims demoted the throttle. In Star Citizen and Elite, the off-hand stick does the thrusting and a throttle is optional — I've argued that case at length in [HOSAS vs HOTAS](/space/hosas-vs-hotas). DCS World is the opposite. Atmospheric jets *live* on the throttle: afterburner detents you feel in the dark, reverse and idle gates, twin-engine levers you split for asymmetric thrust, and a slew control for the targeting pod. If you fly DCS, the throttle is not an afterthought — it's half the setup, and it's the half this guide is about.
 
@@ -88,7 +88,7 @@ The honest caveats: the TWCS spring is stiff out of the box (many pilots loosen 
     <span class="gp-price">~$170 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -101,7 +101,7 @@ The two honest gripes: the stock cams and springs run soft, so a heavier grip ca
 
 <div class="callout tip">
   <div class="ct">// Where to see the Orion 2 before you buy</div>
-  <p>We don't yet have a verified in-house product photo of the WinWing Orion 2, so we're keeping it text-only here rather than embed an image we can't stand behind. Cross-shop the official <a href="https://winwingsim.com/" target="_blank" rel="noopener">WinWing US store</a> product gallery and confirm the grip (F-16EX vs F/A-18C) and current combo price before checkout — bundle pricing shifts with grip choice and shaker-kit options. Amazon search: <a href="https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">WinWing Orion 2 HOTAS F-16EX</a>.</p>
+  <p>We don't yet have a verified in-house product photo of the WinWing Orion 2, so we're keeping it text-only here rather than embed an image we can't stand behind. Cross-shop the official <a href="https://winwingsim.com/" target="_blank" rel="noopener">WinWing US store</a> product gallery and confirm the grip (F-16EX vs F/A-18C) and current combo price before checkout — bundle pricing shifts with grip choice and shaker-kit options. WinWing Orion 2 HOTAS F-16EX.</p>
 </div>
 
 ## Value flagship — VKB STECS Mk.II Standard (~$289, check current)
@@ -119,7 +119,7 @@ If you're building inside the VKB world, this keeps you in one software ecosyste
     <span class="gp-price">~$289 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-stecs-standard-mk2-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+STECS+Mk.II+Standard&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -130,9 +130,9 @@ When you want the throttle to be the star of the room, this is the one most peop
 
 Two realities to plan around. First, Virpil sells in restock waves and frequent B-stock drops rather than constant retail supply, so prices swing and stock is intermittent — the base price tracks around 369.95 EUR, so the US figure lands near $380 (check current), and B-stock listings appear at a discount periodically. Buy when a drop lands. Second, it's a standalone throttle; you're pairing it with a separate stick base. For DCS pilots who already own a good stick and want the best lever made, it's arguably the finest standalone throttle you can buy.
 
-**Photo-verification note:** the MongoosT-50CM3 is a genuine, current product, but we don't yet have a verified in-house product photo of it — so it's referenced text-only here rather than embedded. Confirm live price, detent options, and stock on the official [VirPil MongoosT-50CM3 page](https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle), and use the Amazon search below to check retail availability.
+**Photo-verification note:** the MongoosT-50CM3 is a genuine, current product, but we don't yet have a verified in-house product photo of it — so it's referenced text-only here rather than embedded. Confirm live price, detent options, and stock on the official [VirPil MongoosT-50CM3 page](https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle), and use only a verified product listing to check retail availability.
 
-Amazon search for the Virpil throttle: [Virpil MongoosT-50CM3 Throttle](https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — verify it's the CM3 (current) generation and confirm US stock before you commit.
+the Virpil throttle: Virpil MongoosT-50CM3 Throttle — verify it's the CM3 (current) generation and confirm US stock before you commit.
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -154,7 +154,7 @@ The honest limits: its detent system is fixed geometry rather than the swap-a-pl
     <span class="gp-price">$349.99 (dual throttle standalone)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+Dual+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -172,7 +172,7 @@ Three of the five picks above — the STECS, the MongoosT-50CM3, and the standal
     <span class="gp-price">~$289 base only (grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -205,7 +205,7 @@ Buying the throttle is the easy part. Three costs trip up new DCS pilots more th
     <span class="gp-price">~$100 each (buy two for a HOTAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -219,7 +219,7 @@ Buying the throttle is the easy part. Three costs trip up new DCS pilots more th
     <span class="gp-price">~$110 (2-panel pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -233,7 +233,7 @@ Buying the throttle is the easy part. Three costs trip up new DCS pilots more th
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -255,9 +255,9 @@ Before you buy, model the throttle against your stick, desk, and any panels you'
 
 ## What to buy: the DCS throttle stack
 
-- **Best throttle overall:** [Virpil MongoosT-50CM3](https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20) (~$380, check current) — dual levers, five detent profiles, the finest lever made.
+- **Best throttle overall:** Virpil MongoosT-50CM3 (~$380, check current) — dual levers, five detent profiles, the finest lever made.
 - **Best value throttle:** [VKB STECS Mk.II Standard](/space/gear/vkb-stecs-standard-mk2-throttle) (~$289, check current) — the same dual-lever, swappable-detent formula for less.
-- **Best A-10 / immersion:** [Thrustmaster Warthog Dual Throttle](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+Dual+Throttle&tag=ignitionsim-20) ($349.99) — the 1:1 replica.
+- **Best A-10 / immersion:** Thrustmaster Warthog Dual Throttle ($349.99) — the 1:1 replica.
 - **Best complete budget HOTAS:** [Thrustmaster T.16000M FCS HOTAS](/space/gear/thrustmaster-t16000m-fcs-hotas) (~$170) — a whole setup for less than one flagship lever.
 - **Best stick-and-throttle mid HOTAS:** WinWing Orion 2 (~$460-500, check current) — Hall sensors, DCS-faithful grips, panel ecosystem.
 - **The setup tax:** a [Monstertech mount](/space/gear/monstertech-table-mount) and an [Elgato Stream Deck XL](/space/gear/elgato-stream-deck-xl) or [MFD Cougar Pack](/space/gear/thrustmaster-mfd-cougar-pack) — buy them with the throttle, not after.

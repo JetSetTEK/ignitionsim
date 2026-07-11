@@ -62,8 +62,8 @@ Evercade fits IgnitionSim as a side-station idea: the little physical shelf besi
 Mac's blunt verdict: **buy it if your room is already functional and you care about physical games.** This is not a core simulator purchase. It is a room-soul purchase. In a hobby where so much is software, accounts, subscriptions, launchers, licenses, and storefront permissions, a cartridge you can pull off a shelf has an emotional weight that is suddenly very current.
 
 <p class="cta-row">
-  <a class="gp-buy" data-buy-link="true" href="https://www.amazon.com/dp/B0D1VYPWLH/?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy Evercade VS-R on Amazon</a>
-  <a class="gp-buy" data-buy-link="true" href="https://www.amazon.com/dp/B0D1VZQ2VL/?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy Evercade EXP-R on Amazon</a>
+  <a class="gp-buy" data-buy-link="true" href="https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy Evercade VS-R on Amazon</a>
+  <a class="gp-buy" data-buy-link="true" href="https://www.amazon.com/dp/B0D1VZQ2VL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy Evercade EXP-R on Amazon</a>
 </p>
 
 ![Evercade side station fit infographic for sim rooms](/images/infographics/racing/evercade-side-station-fit.svg)
@@ -140,8 +140,8 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
       <p class="eyebrow">Hardware</p>
       <h3>Evercade VS-R / EXP-R</h3>
       <p>The core choice: TV side station or handheld physical-media machine. Start with VS-R for the sim room; choose EXP-R if handheld play is the real hook.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/dp/B0D1VYPWLH/?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy VS-R on Amazon</a>
-      <a data-buy-link="true" href="https://www.amazon.com/dp/B0D1VZQ2VL/?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy EXP-R on Amazon</a>
+      <a data-buy-link="true" href="https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy VS-R on Amazon</a>
+      <a data-buy-link="true" href="https://www.amazon.com/dp/B0D1VZQ2VL?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy EXP-R on Amazon</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -150,7 +150,7 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
       <p class="eyebrow">Storage</p>
       <h3>Cartridge storage</h3>
       <p>The whole point is the shelf. Make the shelf clean, and buy collections you actually want to play.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=Evercade+cartridges&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Shop Evercade cartridges on Amazon</a>
+      Shop Evercade cartridges on Amazon
       <a data-buy-link="true" href="https://evercade.co.uk/cartridges/" rel="nofollow noopener" target="_blank">Browse official cartridge list</a>
     </div>
   </article>
@@ -160,15 +160,15 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
       <p class="eyebrow">Display</p>
       <h3>Small HDMI gaming display</h3>
       <p>Use what you have, but a side display keeps guests out of the main rig settings.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/s?k=small+HDMI+gaming+monitor&tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Shop small HDMI displays on Amazon</a>
+      Shop small HDMI displays on Amazon
     </div>
   </article>
 </div>
 
 ## Mac's Buy Order
 
-1. **Buy Evercade VS-R first** if this is going beside a racing cockpit, flight deck, golf bay, or couch-facing game-room screen. It is the social version: people see the cartridges, understand the box, and can play without touching your sim settings. <a href="https://www.amazon.com/dp/B0D1VYPWLH/?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy VS-R on Amazon</a>.
-2. **Buy Evercade EXP-R first** if the appeal is personal physical media: handheld play, shelf collection, and the ritual of choosing a cartridge. <a href="https://www.amazon.com/dp/B0D1VZQ2VL/?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy EXP-R on Amazon</a>.
+1. **Buy Evercade VS-R first** if this is going beside a racing cockpit, flight deck, golf bay, or couch-facing game-room screen. It is the social version: people see the cartridges, understand the box, and can play without touching your sim settings. <a href="https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy VS-R on Amazon</a>.
+2. **Buy Evercade EXP-R first** if the appeal is personal physical media: handheld play, shelf collection, and the ritual of choosing a cartridge. <a href="https://www.amazon.com/dp/B0D1VZQ2VL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy EXP-R on Amazon</a>.
 3. **Add cartridges slowly.** Start with two or three collections you recognize. The point is playable ownership, not building another backlog monument.
 4. **Do not buy before core sim hardware.** Evercade is awesome because it adds soul to a working room. It is not a substitute for fixing bad pedals, bad seating, bad displays, or cable chaos.
 
@@ -177,7 +177,6 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
 Evercade fits IgnitionSim if you treat it as sim-room culture, not sim-room performance. It is the physical-media side station for builders who want a room with objects, shelves, and quick fun between serious sessions.
 
 Final verdict: **buy Evercade if you care about physical games and your main rig already works.** The Sony disc-production shift makes this feel less like nostalgia and more like resistance with a cartridge slot. It will not make you faster in iRacing, better in MSFS, or cleaner on a golf sim. It will make the room feel more human, more owned, and less dependent on digital storefront mood swings. That matters.
-
 
 ## Source Notes
 

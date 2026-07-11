@@ -85,7 +85,7 @@ The sweet spot is a **precise Hall-effect stick** as the cyclic, a **throttle-qu
     <span class="gp-price">~$100 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -103,7 +103,7 @@ For the cyclic, a compact all-in-one stick works too, and it's the friendliest f
     <span class="gp-price">~$130 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -119,7 +119,7 @@ If helicopters are your *main* sim, dedicated gear exists. Makers like **Komodo 
 
 The dedicated collective is text-and-link only below — we don't have a verified studio photo of the exact Komodo unit, and its price and lead time move because each is hand-built to order. Komodo publicly dropped prices on its cyclic grips and collectives (a roughly £200 reduction), so confirm the current figure on their store before you buy.
 
-- **[Komodo Simulations Helicopter Collective](/flight/gear/komodo-simulations-collective)** — hand-built UK weighted lever with twist-grip throttle, Bell 206-style, plug-and-play USB, **check current price** (approx. £350+ after the price drop), [official store](https://komodosimulations.co.uk/){:target="_blank" rel="nofollow noopener"} or [check Amazon](https://www.amazon.com/s?k=Komodo+Simulations+Helicopter+Collective&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Komodo Simulations Helicopter Collective](/flight/gear/komodo-simulations-collective)** — hand-built UK weighted lever with twist-grip throttle, Bell 206-style, plug-and-play USB, **check current price** (approx. £350+ after the price drop), [official store](https://komodosimulations.co.uk/){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The collective, up close: two verified options
 
@@ -135,7 +135,7 @@ The single most helicopter-specific piece of your rig is whatever gives you an u
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+MTQ+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -162,7 +162,7 @@ Your feet never stop working in a helicopter, so pedals matter more here than an
     <span class="gp-price">~$270 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -170,9 +170,9 @@ Your feet never stop working in a helicopter, so pedals matter more here than an
 
 The budget and specialist pedals below are text-and-link only because we haven't verified their exact product photos:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry with differential toe brakes and an adjustable damping dial, ~$180, [check Amazon](https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **Thrustmaster TFRP Rudder** — the cheapest way to free your twist axis and get real pedals under your feet, **check current**, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+TFRP+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[Thrustmaster TPR Pendular Rudder](/flight/best-flight-sim-rudder-pedals)** — pendular PENDUL_R motion, Hall-effect sensors, differential toe brakes, five pedal angles; the dedicated-tier choice, ~$599.99, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+TPR+Pendular+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry with differential toe brakes and an adjustable damping dial, ~$180, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TFRP Rudder** — the cheapest way to free your twist axis and get real pedals under your feet, **check current**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Thrustmaster TPR Pendular Rudder](/flight/best-flight-sim-rudder-pedals)** — pendular PENDUL_R motion, Hall-effect sensors, differential toe brakes, five pedal angles; the dedicated-tier choice, ~$599.99, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <div class="callout tip">
 
@@ -219,7 +219,7 @@ Skip dedicated helicopter hardware if you fly **mostly fixed-wing** and just wan
     <span class="gp-eyebrow">Cyclic · precise magnetic-sensor stick</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">A cheap, drift-free stick whose contactless H.E.A.R.T sensors hold the rock-solid center a hover demands. Bind it to the cyclic axes, add a -30% curve, and you have the most important helicopter control sorted for around $80.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -231,7 +231,7 @@ Skip dedicated helicopter hardware if you fly **mostly fixed-wing** and just wan
     <span class="gp-eyebrow">Collective · a parked throttle lever</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant</a></span>
     <p class="gp-why">The community's favorite collective substitute. One lever binds to COLLECTIVE AXIS, holds its position with tension, and gives a helicopter the up-and-down power control a fixed-wing throttle can't. Under $100 and the piece that makes rotary flying click.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -243,7 +243,7 @@ Skip dedicated helicopter hardware if you fly **mostly fixed-wing** and just wan
     <span class="gp-eyebrow">Anti-torque · the control you're on constantly</span>
     <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Charlie Pedals</a></span>
     <p class="gp-why">The one place not to economize. Smooth, linear, drift-proof pedals turn constant anti-torque work from a wrist-cramping twist-rudder chore into precise footwork — and they upgrade your fixed-wing landings too. Start on the ~$180 Logitech pedals if the budget's tight, but land here.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>

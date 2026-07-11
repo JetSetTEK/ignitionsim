@@ -13,6 +13,7 @@ import { getArticleCardArt } from '../lib/articleArt';
 import { hasVerifiedProductImage } from '../lib/productMedia';
 import { getWorldForBay } from '../lib/worlds';
 import { crewSlug } from '../lib/crew';
+import { canonicalAmazonProductUrl } from '../lib/amazon';
 
 const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
 const articleById = new Map(all.map((a) => [a.id, a]));
@@ -75,9 +76,7 @@ const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
 const verifiedProducts = allProducts.filter(hasVerifiedProductImage);
-const buyUrl = (p: any) => p.amazonAsin
-  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
-  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
+const buyUrl = (p: any) => canonicalAmazonProductUrl(p, amazonTag);
 const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 4000) / 1000;
 const gearItem = (p: any, tag?: string) => ({
   href: `/${p.bay}/gear/${p.id}`,
@@ -335,7 +334,7 @@ const schema = [{
                 <p>{p.whoFor || p.summary}</p>
                 <div class="lust-actions">
                   <a href={p.href}>Dig in</a>
-                  <a href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="lust_buy_click">Amazon ↗</a>
+                  {p.buyUrl && <a href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="lust_buy_click">Amazon ↗</a>}
                 </div>
               </div>
             </article>

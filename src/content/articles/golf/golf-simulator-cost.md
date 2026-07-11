@@ -90,7 +90,7 @@ The honest gotcha at this tier: radar units like the R10 want **several feet of 
     <span class="gp-price">~$699</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -104,7 +104,7 @@ The honest gotcha at this tier: radar units like the R10 want **several feet of 
     <span class="gp-price">~$600 (often discounted to ~$400–$500)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -137,7 +137,7 @@ The trap here is subscriptions. The Bushnell Launch Pro is tour-grade on ball da
     <span class="gp-price">~$2,995 (frequently near $2,000)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -151,7 +151,7 @@ The trap here is subscriptions. The Bushnell Launch Pro is tour-grade on ball da
     <span class="gp-price">~$1,999–$2,499 by screen tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -181,7 +181,7 @@ The **Foresight Sports GC3** (~$6,999) brings fitting-grade triple-camera ball a
     <span class="gp-price">~$6,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -197,7 +197,7 @@ If you want a **no-PC premium** path, the **Garmin Approach R50** (~$4,999) fold
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -235,7 +235,7 @@ Impact screens and side protection are where safety and spouse acceptance meet. 
     <span class="gp-price">~$1,155 base; screen upgrades extra</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -253,7 +253,7 @@ The **Optoma GT2100HDR** (~$1,199) is the value line: 1080p laser, 4,200 lumens,
     <span class="gp-price">~$1,199</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -286,7 +286,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
     <span class="gp-price">~$399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-side-barrier-netting">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -314,7 +314,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
     <span class="gp-eyebrow">Best data-per-dollar anchor</span>
     <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
     <p class="gp-why">The richest portable data set under $1,000, with GSPro direct connect. Build the room around it and upgrade the brain later.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -324,7 +324,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
     <span class="gp-eyebrow">Best accuracy-per-dollar, no fee</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The default $7K–$12K sensor for buyers who want camera-grade accuracy and no recurring subscription tax. Put the savings into the room.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -334,7 +334,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
     <span class="gp-eyebrow">Best fitting-grade club data</span>
     <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight Sports GC3</a></span>
     <p class="gp-why">Buy it if you fit clubs, instruct, or truly want tour-grade club metrics. If you just want to play Pebble, the SkyTrak+ gets you most of the ball-flight realism for far less.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -344,7 +344,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
     <span class="gp-eyebrow">Best body-protection spend</span>
     <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
     <p class="gp-why">The part you touch every swing, absorbing ~95% of clubhead shock. Underfunding this line is how a fun room becomes an expensive one you avoid.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+golf+simulator+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

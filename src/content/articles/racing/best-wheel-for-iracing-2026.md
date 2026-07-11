@@ -78,7 +78,7 @@ That's why the community consensus has hardened: **9-12Nm is the sweet spot, and
     <span class="gp-price">~$429 (12Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -92,7 +92,7 @@ That's why the community consensus has hardened: **9-12Nm is the sweet spot, and
     <span class="gp-price">~$429 (9Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R9+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -112,7 +112,7 @@ Here's a distinction the forums get right and the marketing ignores: **long-stin
     <span class="gp-price">~$699 (18Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -132,7 +132,7 @@ But almost nobody plays only iRacing. If you also want PS5 (Gran Turismo) or Xbo
     <span class="gp-price">8Nm bundle · check current pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -203,7 +203,7 @@ If you're on a recent belt wheel and racing the lower splits casually, you don't
     <span class="gp-eyebrow">Best overall iRacing base</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">The right base for nine out of ten iRacers. Sweet-spot 12Nm, best software, extra ports, deep ladder. Pair it with a round GT rim (rotaries + screen), add a load-cell pedal set and a rigid mount, and you're done for years.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -213,7 +213,7 @@ If you're on a recent belt wheel and racing the lower splits casually, you don't
     <span class="gp-eyebrow">Smoothness reference · 17Nm</span>
     <span class="gp-name"><a href="/racing/gear/simucube-2-sport">Simucube 2 Sport</a></span>
     <p class="gp-why">For the iRacer who values reference-grade smoothness over torque-per-dollar. Zero-cogging feel and the near-immortal SQR quick release make it the base your hands remember — more than iRacing needs, but a joy for the fidelity purist.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+2+Sport+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

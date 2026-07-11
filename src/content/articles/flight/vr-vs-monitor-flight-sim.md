@@ -105,7 +105,7 @@ A few honest notes:
     <span class="gp-price">$599.99 (512GB) · Quest 3S from $349.99 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -121,15 +121,15 @@ A few honest notes:
     <span class="gp-price">~$899 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Light+VR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
 </aside>
 
-The Bigscreen Beyond 2 is text-and-link only below because we haven't verified an exact product photo; the Amazon search will show current listings and the base-station bundles.
+The Bigscreen Beyond 2 is text-and-link only below because we haven't verified an exact product photo; we are withholding marketplace links until the exact listing is verified.
 
-- **[Bigscreen Beyond 2 / Beyond 2e](https://store.bigscreenvr.com/products/bigscreen-beyond-2)** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking), [check Amazon](https://www.amazon.com/s?k=Bigscreen+Beyond+2&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Bigscreen Beyond 2 / Beyond 2e](https://store.bigscreenvr.com/products/bigscreen-beyond-2)** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The GPU reality nobody quotes you
 
@@ -165,7 +165,7 @@ The [TrackIR 5](/flight/gear/naturalpoint-trackir-5) (~$170 with the TrackClip P
     <span class="gp-price">~$170 (TrackClip PRO bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -181,7 +181,7 @@ The [TrackIR 5](/flight/gear/naturalpoint-trackir-5) (~$170 with the TrackClip P
     <span class="gp-price">~$299 direct · check current at Amazon</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -217,7 +217,7 @@ VR is worth it **if immersion is your priority and your hardware can pay the tax
 
 Source review date: July 2, 2026. We checked official product/store pages and current pricing and specs rather than repeating old box numbers; where a price was configuration- or sale-dependent, or had recently moved, we flagged "check current."
 
-Headsets and specs: [Pimax Crystal Light (official store)](https://pimax.com/products/pimax-crystal-light), [Pimax Crystal Light full-payment version (Amazon)](https://www.amazon.com/Pimax-Local-Dimming-Full-Payment-Version/dp/B0G6YYW3PB), [Meta Quest 3 (official)](https://www.meta.com/quest/quest-3/), [Meta blog — Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/), [Meta Quest 3 price guide, June 2026 (NexraGear)](https://nexragear.com/meta-quest-3-price-guide-2026/), [Bigscreen Beyond 2 (official store)](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Bigscreen Beyond 2 review (VR.org)](https://vr.org/articles/bigscreen-beyond-2-review-107g-pcvr).
+Headsets and specs: [Pimax Crystal Light (official store)](https://pimax.com/products/pimax-crystal-light), [Pimax Crystal Light full-payment version (Amazon)](https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20), [Meta Quest 3 (official)](https://www.meta.com/quest/quest-3/), [Meta blog — Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/), [Meta Quest 3 price guide, June 2026 (NexraGear)](https://nexragear.com/meta-quest-3-price-guide-2026/), [Bigscreen Beyond 2 (official store)](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Bigscreen Beyond 2 review (VR.org)](https://vr.org/articles/bigscreen-beyond-2-review-107g-pcvr).
 
 MSFS 2024 VR performance + software: [Sim Update 2 VR enhancements (MSFS Addons, May 17 2025)](https://msfsaddons.com/2025/05/17/sim-update-2-brings-major-vr-enhancements-to-microsoft-flight-simulator-2024/), [MSFS 2024 now has foveated rendering (UploadVR)](https://www.uploadvr.com/microsoft-flight-simulator-2024-now-has-foveated-rendering/), [SU5 VR improvements preview (MSFS Addons, March 2026)](https://msfsaddons.com/2026/03/14/su5-promises-important-improvements-to-the-vr-experience-in-msfs-2024/), [Pimax Crystal Light vs Meta Quest 3 (Pimax)](https://pimax.com/pages/pimax-crystal-light-vs-meta-quest-3).
 

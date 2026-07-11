@@ -89,7 +89,7 @@ The point of the budget build is to spend on the *habit test*, not the dream roo
     <span class="gp-price">~$500</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -103,7 +103,7 @@ The point of the budget build is to spend on the *habit test*, not the dream roo
     <span class="gp-price">~$700</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -138,7 +138,7 @@ Around the sensor, the room is where the "real simulator" feeling comes from. A 
     <span class="gp-price">~$2,995 (often ~$1,995 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -154,7 +154,7 @@ The enclosure decision inside this build is the one that separates a real bay fr
     <span class="gp-price">~$1,999-$2,499 by screen tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -168,7 +168,7 @@ The enclosure decision inside this build is the one that separates a real bay fr
     <span class="gp-price">~$1,199</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -205,7 +205,7 @@ Around either anchor, go full room: a [SIG10 enclosure](/golf/gear/sig10-enclosu
     <span class="gp-price">~$2,499 + subscription</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -219,7 +219,7 @@ Around either anchor, go full room: a [SIG10 enclosure](/golf/gear/sig10-enclosu
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -233,7 +233,7 @@ Around either anchor, go full room: a [SIG10 enclosure](/golf/gear/sig10-enclosu
     <span class="gp-price">~$4,899</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -299,7 +299,7 @@ Impact quality and side protection are where safety and spouse-acceptance meet. 
     <span class="gp-eyebrow">Best overall build anchor</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
     <p class="gp-why">Camera-grade accuracy, no mandatory subscription, and it anchors the $7K-$9.5K bay that's right for most home builders. Watch for the frequent ~$1,995 sale and put the savings into the room.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -309,7 +309,7 @@ Impact quality and side protection are where safety and spouse-acceptance meet. 
     <span class="gp-eyebrow">Best value build brain</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The habit-test sensor. Real GSPro-capable data for ~$500, into a net today, upgraded into the mid build later around the same monitor. Give it depth behind you.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -319,7 +319,7 @@ Impact quality and side protection are where safety and spouse-acceptance meet. 
     <span class="gp-eyebrow">Best turnkey bay</span>
     <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
     <p class="gp-why">Frame, padding, surround, and a premium screen in one box with 100% image fill. The turnkey alternative to sourcing and framing a DIY enclosure — measure for the ~11 ft footprint first.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -329,7 +329,7 @@ Impact quality and side protection are where safety and spouse-acceptance meet. 
     <span class="gp-eyebrow">Best body-protection spend</span>
     <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
     <p class="gp-why">The part you touch every swing, absorbing ~95% of clubhead shock. Cheap out here and the whole expensive room becomes one you avoid. In every build, this is the high-ROI line.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+golf+simulator+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

@@ -81,7 +81,7 @@ Airliner simming is about modes, automation, power, spoilers, flaps, radios, and
     <span class="gp-price">Airbus control tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -105,7 +105,7 @@ The **Logitech G Flight Rudder Pedals** are the budget door. **Honeycomb Charlie
     <span class="gp-price">Pedal tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

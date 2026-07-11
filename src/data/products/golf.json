@@ -70,7 +70,7 @@
       { "q": "Is Square Golf better than Garmin R10 indoors?", "a": "For shallow indoor rooms, often yes, because it sits beside the ball instead of behind it and supports putting. The R10 is better for outdoor/range use and battery-first portability." },
       { "q": "Does Square Golf have a subscription?", "a": "Square's range and practice modes avoid a Square annual fee, while Square course play uses tokens and third-party software such as GSPro, E6, or Awesome Golf uses its own pricing." }
     ],
-    "affiliate": { "primary": "Amazon search", "note": "Also PlayBetter and Rain or Shine Golf; verify stock because availability changes quickly" },
+    "affiliate": { "primary": "Amazon direct when verified", "note": "Also PlayBetter and Rain or Shine Golf; verify exact model and stock because availability changes quickly" },
     "platforms": "iOS / Android / PC paths vary by simulator software; GSPro, E6 Connect, and Awesome Golf support should be verified before purchase"
   },
   {
@@ -107,7 +107,7 @@
       { "q": "Is a used original SkyTrak still worth buying?", "a": "It can be, but only after verifying ownership transfer, app access, battery health, connectivity, and shot reads. A cheap SkyTrak with account trouble is not cheap." },
       { "q": "What is the main downside of the original SkyTrak?", "a": "The experience feels older: shot delay, a small hitting zone, Micro-USB, and more account/software homework than modern budget units." }
     ],
-    "affiliate": { "primary": "Amazon search", "note": "Also SkyTrak direct, eBay, and local used listings; inspect condition carefully" },
+    "affiliate": { "primary": "Amazon direct when verified", "note": "Also SkyTrak direct, eBay, and local used listings; inspect condition carefully" },
     "platforms": "SkyTrak app; third-party simulator support depends on plan and version"
   },
   {

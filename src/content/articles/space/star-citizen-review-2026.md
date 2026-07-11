@@ -155,7 +155,6 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
 
 Star Citizen is worth building HOSAS around if the flight is your hobby, not just the backdrop for missions. Buy the control style, mounts, and binding patience as one package. Otherwise the dream turns into two expensive sticks sliding around a desk.
 
-
 ## Source Notes
 
 - [Star Citizen Alpha 4.2.1 patch notes](https://robertsspaceindustries.com/en/comm-link/Patch-Notes/20702-Star-Citizen-Alpha-421)

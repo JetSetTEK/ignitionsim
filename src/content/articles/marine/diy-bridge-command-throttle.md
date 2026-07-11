@@ -65,7 +65,7 @@ The whole build runs roughly **$30–$60** in parts. Prices on the board and pot
 
 The **BU0836** is the heart of it. It's a small board that presents your potentiometers to the PC as analog axes on a standard USB game controller — 8 analog inputs at 12-bit resolution, no firmware, no coding. You wire a pot, Windows sees an axis. That's the whole magic, and it's why the BU0836 is the documented choice over a code-it-yourself board.
 
-The classic guide names the **BU0836A** (pin-header version, ~£33 / ~$42), which you solder your pots and switches to. I don't have a verified photo of that exact board, so it's a link rather than a picture here — check current pricing and buy direct from [Leo Bodnar](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204) (US makers can also source it through Ricmotech), or [search Amazon for the Leo Bodnar BU0836A](https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20) (rel="sponsored nofollow noopener").
+The classic guide names the **BU0836A** (pin-header version, ~£33 / ~$42), which you solder your pots and switches to. I don't have a verified photo of that exact board, so it's a link rather than a picture here — check current pricing and buy direct from [Leo Bodnar](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204) (US makers can also source it through Ricmotech), or verify marketplace availability for the Leo Bodnar BU0836A.
 
 If you'd rather not touch a soldering iron at all, the **BU0836X** below is the same Leo Bodnar interface with solderless push-in terminals — press the tab, push the wire in, done. It's the friendlier version of the identical recipe (same 8 axes, same 12-bit resolution, 32 buttons), and it's the one board in this build I can show you a verified photo of. It costs more (~£59.99 / ~$77) for the convenience.
 
@@ -128,7 +128,7 @@ The trade is effort for control: you write and calibrate a sketch instead of jus
     <span class="gp-price">~$25 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

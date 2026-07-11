@@ -82,7 +82,7 @@ This is the part generic guides skip. The "right" answer flips depending on what
 - **Elite Dangerous → HOTAS is genuinely competitive.** Elite leans far more on pitch/yaw/roll plus forward throttle and much less on constant strafing. A detented throttle for precise, held speed control (crucial for supercruise and docking) maps cleanly, and plenty of top Elite pilots fly stick-and-throttle. HOSAS still helps in close PvP, but Elite is where a throttle earns its keep.
 - **DCS / atmospheric sims → HOTAS, no contest.** Aircraft fly forward and rotate; a throttle *is* the correct primary thrust control. If space is your side dish and jets are the main course, buy the HOTAS.
 - **Everspace / arcade-ish flight → either.** Lighter flight models don't punish a HOTAS the way SC does. Buy what feels good.
-- **Xbox / console space → single licensed stick.** Boutique twin-stick rigs are PC-only, so the debate is moot; a [Turtle Beach VelocityOne Flightstick](/space/gear/turtle-beach-velocityone-flightstick) (~$130, seen ~$97-99 on sale) with its integrated mini-throttle is the realistic console pick — one of the very few licensed Xbox flight sticks, with an OLED display and 27 buttons, though its stiff non-adjustable centering spring is the known catch. Confirm current price and layout on the official [Turtle Beach page](https://www.turtlebeach.com/products/velocityone-flightstick) or [check it on Amazon](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> before you buy.
+- **Xbox / console space → single licensed stick.** Boutique twin-stick rigs are PC-only, so the debate is moot; a [Turtle Beach VelocityOne Flightstick](/space/gear/turtle-beach-velocityone-flightstick) (~$130, seen ~$97-99 on sale) with its integrated mini-throttle is the realistic console pick — one of the very few licensed Xbox flight sticks, with an OLED display and 27 buttons, though its stiff non-adjustable centering spring is the known catch. Confirm current price and layout on the official [Turtle Beach page](https://www.turtlebeach.com/products/velocityone-flightstick) or verify marketplace availability before you buy.
 
 ## Where the throttle's job goes in HOSAS
 
@@ -99,7 +99,7 @@ You have three options. First, a self-centering left stick where forward thrust 
     <span class="gp-price">~$149</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Omni-Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -124,7 +124,7 @@ I'm an honest broker, so here's when you should *not* chase HOSAS:
     <span class="gp-price">~$500</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -144,7 +144,7 @@ The budget on-ramp is two identical fully-mappable sticks. A [Thrustmaster T.160
     <span class="gp-price">~$80 each (~$160 the pair)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -158,7 +158,7 @@ The budget on-ramp is two identical fully-mappable sticks. A [Thrustmaster T.160
     <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -198,7 +198,7 @@ Buying the sticks is the easy part. Three things trip up new two-stick pilots mo
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

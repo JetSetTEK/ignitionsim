@@ -68,7 +68,7 @@ GC3 is the Foresight I would put in the most premium home builds. It sits beside
     <span class="gp-price">~$7K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-gc3">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight%20GC3%20launch%20monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -86,7 +86,7 @@ GCQuad is the unit you buy when data credibility is the product. Fitters and coa
     <span class="gp-price">$12K-$18K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-gcquad">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight%20GCQuad%20launch%20monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -104,7 +104,7 @@ Falcon is not a GCQuad replacement. It is the Foresight overhead answer. Buy it 
     <span class="gp-price">~$15K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-falcon">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight%20Falcon%20launch%20monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

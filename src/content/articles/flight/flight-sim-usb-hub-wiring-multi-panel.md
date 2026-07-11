@@ -68,7 +68,7 @@ The takeaway: a yoke, throttle and pedals are easy. The moment **backlit panels*
     <span class="gp-price">~$280</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -153,7 +153,7 @@ A multi-panel flight sim cockpit is an electrical project disguised as a flying 
 
 Source review date: July 2, 2026. We checked official product pages, USB power specifications, and current cockpit-builder forum threads rather than repeating box copy. Wattage and port figures are quoted from the manufacturers; setup patterns are paraphrased from builder reports in our own voice.
 
-Official + spec: [Honeycomb Flight Sim USB Hub (6-port, 30W)](https://flyhoneycomb.com/products/flight-sim-usb-hub), [Honeycomb 6-Port USB Hub on Amazon](https://www.amazon.com/Honeycomb-Aeronautical-Flight-Sim-6-Port/dp/B0F63QL7K3), [Desktop Pilot 10-Port USB Hub](https://www.desktoppilot.com/product/desktop-pilot-10-port-usb-hub/), [USB port power/data figures (Cadence)](https://resources.pcb.cadence.com/blog/2020-what-are-the-maximum-power-output-and-data-transfer-rates-for-the-usb-standards).
+Official + spec: [Honeycomb Flight Sim USB Hub (6-port, 30W)](https://flyhoneycomb.com/products/flight-sim-usb-hub), [Honeycomb 6-Port USB Hub on Amazon](https://www.amazon.com/dp/B0F63QL7K3?tag=ignitionsim-20), [Desktop Pilot 10-Port USB Hub](https://www.desktoppilot.com/product/desktop-pilot-10-port-usb-hub/), [USB port power/data figures (Cadence)](https://resources.pcb.cadence.com/blog/2020-what-are-the-maximum-power-output-and-data-transfer-rates-for-the-usb-standards).
 
 Windows fix: [How to disable USB selective suspend (Puget Systems)](https://www.pugetsystems.com/support/guides/how-to-disable-usb-selective-suspend-1190/), [Disable USB selective suspend (Microchip)](https://support.microchip.com/s/article/USB--How-to-disable-USB-selective-suspend-on-Windows-OS).
 

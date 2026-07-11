@@ -93,7 +93,7 @@ Thrustmaster's materials list a built-in steel pitch-axis shaft, **7 axes**, int
     <span class="gp-price">$199.99 announced MSRP · Q3 2026 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sky-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sky+Yoke&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -117,7 +117,7 @@ It isn't a "new reveal," and that's the point: it's the deck most serious GA sim
     <span class="gp-price">~$250-300 street · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -133,7 +133,7 @@ It isn't a "new reveal," and that's the point: it's the deck most serious GA sim
     <span class="gp-price">~$280 street · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -147,9 +147,9 @@ The **MOZA AB9** is the flagship base at around **$499 (base only), ~$549-649 wi
 
 MOZA advertises native force-feedback telemetry for MSFS 2024/2020, X-Plane 12 and DCS with no plugins, though the turbulence-and-trim software is still maturing, and the servos genuinely demand a rigid desk mount or cockpit frame rather than a light clamp. No verified studio photo is on file for the MOZA flight bases yet, so they're text-and-link only here — but the MOZA MTQ throttle quadrant below is the verified, FFB-adjacent piece that pairs with them.
 
-- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick), [MOZA official](https://mozaracing.com/products/ab9-base) · [check Amazon](https://www.amazon.com/s?k=MOZA+AB9+flight+force+feedback+base&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}. Verify current USD pricing before buying.
-- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399, [MOZA official](https://us.mozaracing.com/collections/flight-series) · [check Amazon](https://www.amazon.com/s?k=MOZA+AB6+flight+force+feedback+bundle&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base, [MOZA official](https://mozaracing.com/products/ay210-ffb-yoke-bundle) · [check Amazon](https://www.amazon.com/s?k=MOZA+MFY+yoke+AY210&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick), [MOZA official](https://mozaracing.com/products/ab9-base) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Verify current USD pricing before buying.
+- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399, [MOZA official](https://us.mozaracing.com/collections/flight-series) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base, [MOZA official](https://mozaracing.com/products/ay210-ffb-yoke-bundle) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <aside class="gearpick">
 
@@ -161,7 +161,7 @@ MOZA advertises native force-feedback telemetry for MSFS 2024/2020, X-Plane 12 a
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+MTQ+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -180,13 +180,13 @@ For DCS and military sims, Thrustmaster refreshed its benchmark HOTAS. The **HOT
 
 That framing matters for your wallet. If you already own a healthy original Warthog, there is no urgent reason to pay $599.99 for the refresh. If you're buying your first metal HOTAS in 2026, buy the MKII rather than aging old stock — the grip cross-compatibility and durability tweaks are worth it on a fresh purchase. No verified studio photo of the MKII is on file yet, so it's text-and-link only here.
 
-- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026, [Thrustmaster press release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) · [check Amazon](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+MKII&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}. Check current retail pricing before buying.
+- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026, [Thrustmaster press release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Check current retail pricing before buying.
 
 ## Space sim: the OMNI Extension
 
 The quietest reveal is a $44.99 accessory. The **OMNI Extension** (released mid-2026) is a small connector arm that repositions a modular left-hand sidestick to roughly a **50-55 degree angle** for a more natural wrist position, aimed primarily at space-sim pilots running twin-stick setups. It is not a control and it does nothing on its own — it's an ergonomics fix for people who already own a modular sidestick and want the left hand angled instead of flat. If that's you, it's cheap. If it isn't, skip it. No verified photo is on file, so it's text-and-link only.
 
-- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99, [Thrustmaster OMNI Extension](https://eshop.thrustmaster.com/omni-extension.html) · [check Amazon](https://www.amazon.com/s?k=Thrustmaster+OMNI+Extension&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99, [Thrustmaster OMNI Extension](https://eshop.thrustmaster.com/omni-extension.html) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The Airbus path: sidestick first, panels second
 
@@ -199,9 +199,9 @@ If you live in the Fenix A320 or the iniBuilds Airbus fleet, a general yoke is t
 
 The WinWing FCU/EFIS and MCDU panels are the next rung — they move the Airbus workflow off the mouse so you twist altitude, heading, baro and range on real knobs and punch the MCDU like a human instead of clicking a virtual keypad on descent. They're PC-only, aircraft-specific and confirmed for the Fenix A320, and no verified photo is on file, so they're text-and-link only.
 
-- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier, [check Amazon](https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch, [check Amazon](https://www.amazon.com/s?k=WinWing+PAP+3+MCP&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}. Confirm your exact aircraft is supported before buying.
+- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Confirm your exact aircraft is supported before buying.
 
 ## The Xbox-friendly first stick
 
@@ -217,7 +217,7 @@ If you're brand new and console-bound, don't overbuild before you know you like 
     <span class="gp-price">~$130 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -227,11 +227,11 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 **Rule 1: Platform support beats every reveal.** The flashiest FlightSimExpo announcements — MOZA flight FFB, WinWing panels — are PC-only. If you're on Xbox or PS5, verify support before you buy, or the Sky Yoke and VelocityOne are your lane.
 
-**Rule 2: A stick or yoke without rudder is half a cockpit.** Twist rudder and auto-rudder get you started, but real pedals eventually make taxi, takeoff, crosswind and coordinated flight stop feeling haunted. No verified photo is on file for the budget/combat pedals we'd normally point to, so they're text-and-link only: the [VKB T-Rudder Mk.IV](https://www.amazon.com/s?k=VKB+T-Rudder+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"} (~$230, combat, no toe brakes) and the [Honeycomb Charlie](/flight/gear/honeycomb-charlie-pedals) below (verified) are the two to know.
+**Rule 2: A stick or yoke without rudder is half a cockpit.** Twist rudder and auto-rudder get you started, but real pedals eventually make taxi, takeoff, crosswind and coordinated flight stop feeling haunted. No verified photo is on file for the budget/combat pedals we'd normally point to, so they're text-and-link only: the VKB T-Rudder Mk.IV{:target="_blank" rel="sponsored nofollow noopener"} (~$230, combat, no toe brakes) and the [Honeycomb Charlie](/flight/gear/honeycomb-charlie-pedals) below (verified) are the two to know.
 
 **Rule 3: Force feedback needs a rigid mount.** The MOZA AB9 and AB6 servos want a 4-bolt mount or cockpit frame, not a light desk clamp — otherwise the force feedback fights your desk instead of your hands.
 
-**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: a 7-to-10-port sim hub is about $60, [check Amazon](https://www.amazon.com/s?k=powered+USB+hub+flight+sim+panels&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: a 7-to-10-port sim hub is about $60, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 **Rule 5: Buy aircraft-first.** GA, Airbus, Boeing, DCS and helicopters want different controls. A generic "best flight sim setup" is how you buy three wrong things and one correct cable.
 
@@ -257,20 +257,20 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 | Product | Best reason to buy | Verified image | Affiliate shortcut |
 | --- | --- | --- | --- |
-| Thrustmaster TCA Sky Yoke | Waitlist for affordable PC/Xbox/PS5 yoke | Yes | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Sky+Yoke&tag=ignitionsim-20) |
-| Honeycomb Alpha | Proven GA yoke + switch panel today | Yes | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20) |
-| Honeycomb Bravo | Throttle/trim/autopilot that changes GA flying | Yes | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20) |
-| TCA Sidestick Airbus | Cheapest authentic A320 side-stick | Yes | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20) |
-| TCA Quadrant Airbus | Airbus detents on a sane budget | Yes | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20) |
-| TCA Yoke Pack Boeing | 787-style yoke for Boeing pilots | Yes | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+TCA+Yoke+Pack+Boeing+Edition&tag=ignitionsim-20) |
-| MOZA MTQ | Modular jet throttle to pair with FFB base | Yes | [Check Amazon](https://www.amazon.com/s?k=MOZA+MTQ+Throttle+Quadrant&tag=ignitionsim-20) |
-| Turtle Beach VelocityOne Flight Stick | PC/Xbox beginner stick | Yes | [Check Amazon](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20) |
-| Honeycomb Charlie | Metal rudder pedals for a Honeycomb deck | Yes | [Check Amazon](https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20) |
-| TrackIR 5 | Head tracking without VR | Yes | [Check Amazon](https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20) |
-| Tobii Eye Tracker 5 | No-clip head + eye tracking | Yes | [Check Amazon](https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20) |
-| MOZA AB9 / AB6 flight FFB | Real force feedback at HOTAS money | No — text only | [Check Amazon](https://www.amazon.com/s?k=MOZA+AB9+flight+force+feedback+base&tag=ignitionsim-20) |
-| Warthog MKII | First metal HOTAS in 2026 | No — text only | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog+MKII&tag=ignitionsim-20) |
-| WinWing FCU/EFIS/MCDU | Airbus glareshield off the mouse | No — text only | [Check Amazon](https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20) |
+| Thrustmaster TCA Sky Yoke | Waitlist for affordable PC/Xbox/PS5 yoke | Yes | Verify exact model |
+| Honeycomb Alpha | Proven GA yoke + switch panel today | Yes | Verify exact model |
+| Honeycomb Bravo | Throttle/trim/autopilot that changes GA flying | Yes | Verify exact model |
+| TCA Sidestick Airbus | Cheapest authentic A320 side-stick | Yes | Verify exact model |
+| TCA Quadrant Airbus | Airbus detents on a sane budget | Yes | Verify exact model |
+| TCA Yoke Pack Boeing | 787-style yoke for Boeing pilots | Yes | Verify exact model |
+| MOZA MTQ | Modular jet throttle to pair with FFB base | Yes | Verify exact model |
+| Turtle Beach VelocityOne Flight Stick | PC/Xbox beginner stick | Yes | Verify exact model |
+| Honeycomb Charlie | Metal rudder pedals for a Honeycomb deck | Yes | Verify exact model |
+| TrackIR 5 | Head tracking without VR | Yes | Verify exact model |
+| Tobii Eye Tracker 5 | No-clip head + eye tracking | Yes | Verify exact model |
+| MOZA AB9 / AB6 flight FFB | Real force feedback at HOTAS money | No — text only | Verify exact model |
+| Warthog MKII | First metal HOTAS in 2026 | No — text only | Verify exact model |
+| WinWing FCU/EFIS/MCDU | Airbus glareshield off the mouse | No — text only | Verify exact model |
 
 <div class="callout forum">
 

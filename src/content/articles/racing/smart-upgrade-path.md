@@ -84,7 +84,7 @@ The one decision that matters here isn't the base, it's the *ecosystem*. Because
     <span class="gp-price">~$319 on sale ($399 reg) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+bundle+Xbox&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -109,7 +109,7 @@ This is your *first* real upgrade, full stop. A quality load-cell set transforms
     <span class="gp-price">~$399 (US) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -136,7 +136,7 @@ A rig matters more than people think for the pedals you just bought, too: a load
     <span class="gp-price">~$450–$499 (frame) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -150,7 +150,7 @@ A rig matters more than people think for the pedals you just bought, too: a load
     <span class="gp-price">~$849 (frame) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sim-Lab+P1-X+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -170,7 +170,7 @@ Now, after pedals and a solid rig, is when a stronger base earns its money. The 
     <span class="gp-price">~$399–$429 (12Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -195,7 +195,7 @@ A nicer rim. Tactile feedback through the seat. Triples or VR. Hydraulic or acti
     <span class="gp-price">~$200+ · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -229,7 +229,7 @@ Honest-broker note: if you're a casual player who races a few hours a month, **s
     <span class="gp-eyebrow">The Stage 2 upgrade that actually makes you faster</span>
     <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The one purchase nine out of ten racers should make before anything else after their bundle. 200kg load cell, tunable damper, CNC aluminum, USB to any base. If your budget is tighter, a MOZA SR-P or Fanatec CSL Load Cell Kit gets you a real pressure brake under $300.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -239,7 +239,7 @@ Honest-broker note: if you're a casual player who races a few hours a month, **s
     <span class="gp-eyebrow">The base most ladders end on</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">The destination base for most PC racers: 12Nm of sweet-spot torque, the best tuning software, a real ladder behind it. Buy it once your pedals and rig are already in place, and you arrive at a forever rig having bought each piece exactly once.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

@@ -96,7 +96,7 @@ The clean recommendation for an 8.5-foot room is a **side-of-ball photometric un
     <span class="gp-price">~$2,995 (frequently near $2,000 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -110,7 +110,7 @@ The clean recommendation for an 8.5-foot room is a **side-of-ball photometric un
     <span class="gp-price">~$2,499.99 base (subscription for full sim)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -128,7 +128,7 @@ If your real enemy is setup friction rather than budget, the **Garmin Approach R
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -146,12 +146,12 @@ You do not have to spend $2,500 to get the correct *geometry*. The **Square Golf
     <span class="gp-price">~$699</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/square-golf-launch-monitor">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Square+Golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
 
-**A note on the overhead units you'll see recommended everywhere.** The Uneekor EYE XO2 and Foresight Falcon are genuinely excellent launch monitors — and genuinely wrong for this room. The EYE XO2 mounts to the ceiling and wants roughly **9-10 feet** of clearance for its downward camera throw; the Foresight Falcon lists a **9'6" ceiling** requirement outright. In an 8.5-foot basement they cannot focus. If you have the height and want overhead, they belong on your list; if you are reading this guide, they do not. There is no verified in-catalog photo for either here, and more to the point, no reason to feature them for a low room. Search current specs and pricing directly ([Uneekor EYE XO2](https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20), [Foresight Falcon](https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20)) only if your ceiling grows.
+**A note on the overhead units you'll see recommended everywhere.** The Uneekor EYE XO2 and Foresight Falcon are genuinely excellent launch monitors — and genuinely wrong for this room. The EYE XO2 mounts to the ceiling and wants roughly **9-10 feet** of clearance for its downward camera throw; the Foresight Falcon lists a **9'6" ceiling** requirement outright. In an 8.5-foot basement they cannot focus. If you have the height and want overhead, they belong on your list; if you are reading this guide, they do not. There is no verified in-catalog photo for either here, and more to the point, no reason to feature them for a low room. Search current specs and pricing directly (Uneekor EYE XO2, Foresight Falcon) only if your ceiling grows.
 
 ## Step 3: Short-Throw Projection, Not Long-Throw
 
@@ -177,7 +177,7 @@ For the *lowest* rooms — under about 8.5 feet, where even a ceiling-mounted sh
     <span class="gp-price">~$1,199</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -191,7 +191,7 @@ For the *lowest* rooms — under about 8.5 feet, where even a ceiling-mounted sh
     <span class="gp-price">Value BenQ golf tier — verify live pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ah700st">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AH700ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -249,7 +249,7 @@ If your driver test fails badly under 8 feet **and** you're unwilling to run an 
     <span class="gp-eyebrow">Best side-mount sensor, no fee</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The default 8.5-foot-room brain: side-of-ball, accurate, no overhead clearance, and no annual subscription. Put the savings into the room.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -259,7 +259,7 @@ If your driver test fails badly under 8 feet **and** you're unwilling to run an 
     <span class="gp-eyebrow">Best if setup friction is the enemy</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">Sits 1.5 ft beside the tee with a built-in touchscreen, so a low ceiling never matters and no gaming PC is needed. Pay for convenience, not for skipping room planning.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -269,7 +269,7 @@ If your driver test fails badly under 8 feet **and** you're unwilling to run an 
     <span class="gp-eyebrow">Best throw-per-dollar for shallow rooms</span>
     <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The tightest mainstream throw fills a 12-ft screen from under 6 ft, clearing the swing arc where longer units can't. If the room is under 8.5 ft, floor-mount an ultra-short-throw instead — inside a shield.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -279,7 +279,7 @@ If your driver test fails badly under 8 feet **and** you're unwilling to run an 
     <span class="gp-eyebrow">Best value joint-saving mat</span>
     <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Country Club Elite Mat</a></span>
     <p class="gp-why">The part you touch every swing. A forgiving, real-tee-capable mat is what turns a low-ceiling basement into a room you use daily instead of a wrist injury with turf.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

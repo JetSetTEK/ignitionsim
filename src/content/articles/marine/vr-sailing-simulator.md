@@ -54,7 +54,7 @@ That means there is no analog-axis gate to worry about, no [compatibility map to
     <span class="gp-price">$599.99 (Quest 3, 512 GB) · Quest 3S from $349.99</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

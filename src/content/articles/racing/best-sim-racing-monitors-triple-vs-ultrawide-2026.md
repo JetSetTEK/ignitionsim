@@ -71,7 +71,7 @@ For hot-lapping and general racing, a 49" 32:9 ultrawide's ~55-65 degrees of usa
     <span class="gp-price">~$799 sale · ~$1,299 list</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -104,7 +104,7 @@ The honest catch: IPS blacks aren't OLED blacks, and the bezels never fully disa
     <span class="gp-price">~$250-280 each</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asus-tuf-vg27aq">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ASUS+TUF+VG27AQ&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -129,7 +129,7 @@ The [Next Level Racing Free Standing Triple Monitor Stand](/racing/gear/nlr-trip
     <span class="gp-price">~$399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/nlr-triple-monitor-stand">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+Free+Standing+Triple+Monitor+Stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -149,7 +149,7 @@ But go in clear-eyed. That resolution is the heaviest flat-panel load in this gu
     <span class="gp-price">~$1,500-2,300</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/samsung-odyssey-neo-g9-57">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+Neo+G9+57&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -193,7 +193,7 @@ If you race **endurance or organized league events** where knowing exactly where
     <span class="gp-eyebrow">Best overall display</span>
     <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
     <p class="gp-why">The right screen for most racers. Near-triples FOV, OLED blacks, 240Hz, one cable, and a GPU load a $600 card handles. Catch it on sale and it's the best value in the whole rig.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -203,7 +203,7 @@ If you race **endurance or organized league events** where knowing exactly where
     <span class="gp-eyebrow">Best triple build (×3)</span>
     <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF VG27AQ</a></span>
     <p class="gp-why">Three matched 1440p IPS panels for real side-window vision. Pair them with the freestanding stand below and an RTX 5080, and you've got the geometry tool endurance racers swear by.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=ASUS+TUF+VG27AQ&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -213,7 +213,7 @@ If you race **endurance or organized league events** where knowing exactly where
     <span class="gp-eyebrow">The mounting half of a triple build</span>
     <span class="gp-name"><a href="/racing/gear/nlr-triple-monitor-stand">NLR Free Standing Triple Monitor Stand</a></span>
     <p class="gp-why">Heavy, freestanding, wobble-free. Keeps the picture dead still while the wheelbase throws kerbs. Buy it in the same cart as the panels — this is the part first-time triple builders skip and regret.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+Free+Standing+Triple+Monitor+Stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

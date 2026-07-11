@@ -71,7 +71,7 @@ Your first rig does not have to be a monument. It does have to keep the wheel, s
     <span class="gp-price">Usually under a full cockpit</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+wheel+stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -91,7 +91,7 @@ Budget path: **Fanatec CSL LC** or **MOZA SR-P Lite with brake upgrade**. Mid-ti
     <span class="gp-price">Premium</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -111,7 +111,7 @@ For most PC buyers in 2026, the sweet spot is **5-12 Nm**. The **MOZA R5** is th
     <span class="gp-price">Starter DD tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -135,7 +135,7 @@ A single seat shaker or pedal shaker can give you kerbs, engine vibration, shift
     <span class="gp-price">Tactile tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

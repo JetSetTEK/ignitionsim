@@ -73,7 +73,7 @@ What stage 1 unlocks: precise hand-flying and a real start-up procedure. Fly the
     <span class="gp-price">~$299.99 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -99,7 +99,7 @@ What stage 2 unlocks: real power management on multi-engine aircraft and hands-o
     <span class="gp-price">~$299.99 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -117,7 +117,7 @@ Fly a mix of jets and want your throttle to swap character between an F-18, an A
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+MTQ+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -146,7 +146,7 @@ The Charlie gearpick is here for reference and for the day stock returns, but tr
     <span class="gp-price">~$349.99 official · <strong>often out of stock</strong></span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -158,9 +158,9 @@ Whatever set you buy, rudder pedals come last on purpose. The twist or rocker ru
 
 These three cover the range from budget to console. None has a verified studio photo on file yet, so they're text-and-link only here — but all are readily available, unlike the Charlie:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — the budget entry (~$180), with real differential toe brakes and an adjustable damping dial that spans a light GA feel to a heavier jet feel. Modest sensor resolution versus metal pedals, but the easy first set for most GA pilots. [Check Amazon](https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[VKB T-Rudder Mk.IV](/flight/gear/vkb-t-rudder-mk4)** — the durable, low-profile combat/warbird pick (~$230), contactless sensors, no toe brakes by design. Great for DCS and IL-2 rudder-only flying; skip it if you want differential braking. [Check Amazon](https://www.amazon.com/s?k=VKB+T-Rudder+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[Turtle Beach VelocityOne Rudder Pedals](/flight/gear/turtle-beach-velocityone-rudder-pedals)** — essentially the only serious **Xbox + PC** pedal option (~$300), suspended pendular motion, magnetic sensors, differential toe brakes. The console flyer's answer. [Check Amazon](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — the budget entry (~$180), with real differential toe brakes and an adjustable damping dial that spans a light GA feel to a heavier jet feel. Modest sensor resolution versus metal pedals, but the easy first set for most GA pilots. Verify the exact model before buying.
+- **[VKB T-Rudder Mk.IV](/flight/gear/vkb-t-rudder-mk4)** — the durable, low-profile combat/warbird pick (~$230), contactless sensors, no toe brakes by design. Great for DCS and IL-2 rudder-only flying; skip it if you want differential braking. Verify the exact model before buying.
+- **[Turtle Beach VelocityOne Rudder Pedals](/flight/gear/turtle-beach-velocityone-rudder-pedals)** — essentially the only serious **Xbox + PC** pedal option (~$300), suspended pendular motion, magnetic sensors, differential toe brakes. The console flyer's answer. Verify the exact model before buying.
 
 What stage 3 unlocks: proper yaw authority and independent toe braking — the last two controls standing between you and a complete GA flight deck. Whether they wear a Honeycomb badge or not matters far less than that they're on the floor, in stock, and drift-free.
 
@@ -188,7 +188,7 @@ The Honeycomb ladder is a GA instrument, full stop. If your flying drifts toward
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -204,7 +204,7 @@ The Honeycomb ladder is a GA instrument, full stop. If your flying drifts toward
     <span class="gp-price">~$100</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -220,7 +220,7 @@ The Honeycomb ladder is a GA instrument, full stop. If your flying drifts toward
     <span class="gp-price">~$500 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Yoke+Pack+Boeing+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -242,7 +242,7 @@ Once the controls are sorted — GA or airliner — the cheapest big immersion u
     <span class="gp-price">~$174 (TrackClip PRO bundle) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -258,7 +258,7 @@ Once the controls are sorted — GA or airliner — the cheapest big immersion u
     <span class="gp-price">~$279-339 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 

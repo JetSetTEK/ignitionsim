@@ -89,7 +89,7 @@ Nina's no-fluff buyer rule: **R50 solves friction, ST MAX solves value, Launch P
     <span class="gp-price">Official price checked: $4,999.99</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -106,7 +106,7 @@ Nina's no-fluff buyer rule: **R50 solves friction, ST MAX solves value, Launch P
     <span class="gp-price">Approx $2,995 class; sales move</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ Nina's no-fluff buyer rule: **R50 solves friction, ST MAX solves value, Launch P
     <span class="gp-price">Official product page showed $2,499.99 class hardware</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -222,10 +222,7 @@ Start here if you already know the room can support a premium monitor.
     <span class="gp-eyebrow">Buy when convenience beats tinkering</span>
     <span class="gp-name">Garmin Approach R50</span>
     <p class="gp-why">Best for the premium buyer who wants a simulator brain in the monitor, not another PC project. Verify Garmin Golf membership needs and third-party software before checkout.</p>
-    <span class="gp-actions">
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-      <a class="gp-review" href="https://www.garmin.com/en-US/p/736810/" target="_blank" rel="nofollow noopener">Official specs</a>
-    </span>
+
   </div>
 </aside>
 
@@ -238,10 +235,7 @@ Start here if you already know the room can support a premium monitor.
     <span class="gp-eyebrow">Buy when SkyTrak+ is not cheap enough</span>
     <span class="gp-name">SkyTrak ST MAX</span>
     <p class="gp-why">Best for the tight-room indoor builder who wants a faster SkyTrak experience and is comfortable with PC/tablet simulator software. Compare against SkyTrak+ sale pricing.</p>
-    <span class="gp-actions">
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-      <a class="gp-review" href="https://skytrakgolf.com/products/skytrak-st-max-launch-monitor" target="_blank" rel="nofollow noopener">Official product page</a>
-    </span>
+
   </div>
 </aside>
 
@@ -254,19 +248,16 @@ Start here if you already know the room can support a premium monitor.
     <span class="gp-eyebrow">Buy when plan math is acceptable</span>
     <span class="gp-name">Bushnell Launch Pro</span>
     <p class="gp-why">Best for buyers who want Foresight-family ball-data confidence and are willing to verify Silver/Gold, club data, and third-party software access before checkout.</p>
-    <span class="gp-actions">
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-      <a class="gp-review" href="https://www.bushnellgolf.com/products/launch-monitors/launch-pro/" target="_blank" rel="nofollow noopener">Official product page</a>
-    </span>
+
   </div>
 </aside>
 
 Also price the supporting room:
 
-- [BenQ AK700ST projector on Amazon](https://www.amazon.com/s?k=BenQ+AK700ST+golf+simulator+projector&tag=ignitionsim-20) for a premium 4K golf projector path.
-- [Golf simulator enclosure on Amazon](https://www.amazon.com/s?k=golf+simulator+enclosure&tag=ignitionsim-20) if you still need screen/safety structure.
-- [Premium golf hitting mat on Amazon](https://www.amazon.com/s?k=premium+golf+simulator+hitting+mat&tag=ignitionsim-20) because a premium launch monitor cannot save your elbows.
-- [USB-C and HDMI cable management on Amazon](https://www.amazon.com/s?k=usb+c+hdmi+cable+management&tag=ignitionsim-20) because the clean room dream dies by cable spaghetti.
+- BenQ AK700ST projector on Amazon for a premium 4K golf projector path.
+- Golf simulator enclosure on Amazon if you still need screen/safety structure.
+- Premium golf hitting mat on Amazon because a premium launch monitor cannot save your elbows.
+- USB-C and HDMI cable management on Amazon because the clean room dream dies by cable spaghetti.
 
 ## Source Shelf
 

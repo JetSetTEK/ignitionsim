@@ -75,7 +75,7 @@ The real reason it wins the default is the ladder behind it. Start on a Gladiato
     <span class="gp-price">~$139 each (US store; verify hand + grip at checkout)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -84,7 +84,7 @@ The real reason it wins the default is the ladder behind it. Start on a Gladiato
 
 The stick that reframed the budget conversation. The [WinWing Ursa Minor Space](/space/gear/winwing-ursa-minor-space) (~$110 each) undercuts the boutiques while adding a feature they don't have at the price: a **built-in vibration motor** in the stick head for haptic feedback synced to in-game events. It runs non-contact magnetic sensors on X/Y, a 32-bit controller, and the Space variant's twist axis covers a full six-axis HOSAS. Two land around $220-240 — well under boutique cost. The gimbal leans on glass-fiber-reinforced nylon rather than VKB's all-metal internals, so it feels lighter under aggressive input, and the upgrade ecosystem is narrower. But as a cheap magnetic-sensor pair with haptics, it's the value champion — and, quietly, the easiest of the three boutique-adjacent brands to actually find in stock at mainstream retail.
 
-**Honest photo gap:** we don't yet have a verified in-house product photo of the Ursa Minor Space, so it's text-only in this guide rather than shown as a gearpick. Cross-shop the official [WinWing US store](https://winwingsim.com/) and confirm you're getting the **Space** (twist) variant, not the Fighter, then buy via [Amazon search for the Ursa Minor Space](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — verify current price and handedness before checkout.
+**Honest photo gap:** we don't yet have a verified in-house product photo of the Ursa Minor Space, so it's text-only in this guide rather than shown as a gearpick. Cross-shop the official [WinWing US store](https://winwingsim.com/) and confirm you're getting the **Space** (twist) variant, not the Fighter, then buy only after verifying the exact model for the Ursa Minor Space — verify current price and handedness before checkout.
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -104,7 +104,7 @@ The classic cheapest credible HOSAS. The [T.16000M FCS](/space/gear/thrustmaster
     <span class="gp-price">~$80 each (check current price)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -124,7 +124,7 @@ The Virpil equivalent is the [VPC WarBRD-D base](/space/gear/virpil-warbrd-d-bas
     <span class="gp-price">~$289 base only (grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -138,7 +138,7 @@ The Virpil equivalent is the [VPC WarBRD-D base](/space/gear/virpil-warbrd-d-bas
     <span class="gp-price">~$136 grip only (Ultimate ~$234)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-mcg-pro-grip">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+MCG+Pro+grip&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -152,7 +152,7 @@ The Virpil equivalent is the [VPC WarBRD-D base](/space/gear/virpil-warbrd-d-bas
     <span class="gp-price">~$260 base only (check current; grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/virpil-warbrd-d-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+WarBRD-D+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -161,7 +161,7 @@ The Virpil equivalent is the [VPC WarBRD-D base](/space/gear/virpil-warbrd-d-bas
 
 Console pilots can't use any of the boutique gear above, full stop. The [Turtle Beach VelocityOne Flightstick](/space/gear/turtle-beach-velocityone-flightstick) (~$130, seen lower on sale) is the rare licensed Xbox flight stick, explicitly marketed for air *and* space combat. It packs an OLED data display, 27 programmable buttons, an integrated mini-throttle and ambidextrous adjustment. The headline complaint is a very stiff, non-adjustable centering spring, and it's a single stick rather than a HOSAS — but for Xbox space pilots, it's the option that matters.
 
-**Honest photo gap:** we don't yet have a verified in-house product photo of the VelocityOne in our space gear library, so it's text-only here rather than a gearpick. Confirm current price and layout on the official [Turtle Beach VelocityOne page](https://www.turtlebeach.com/products/velocity-one-flight-stick) or via [Amazon search](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> before you buy.
+**Honest photo gap:** we don't yet have a verified in-house product photo of the VelocityOne in our space gear library, so it's text-only here rather than a gearpick. Confirm current price and layout on the official [Turtle Beach VelocityOne page](https://www.turtlebeach.com/products/velocity-one-flight-stick) or through a verified marketplace listing before you buy.
 
 ## Solve the bind problem: Elgato Stream Deck XL
 
@@ -176,7 +176,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
     <span class="gp-price">~$225-250 (15-key MK.2 cheaper)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -194,7 +194,7 @@ The most under-appreciated problem in space sim: tabletop sticks slide under agg
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -267,7 +267,7 @@ Buying the sticks is the easy part. Three things trip up new HOSAS pilots more t
     <span class="gp-eyebrow">The sticks · buy one L + one R</span>
     <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
     <p class="gp-why">The right first HOSAS for most pilots. Magnetic sensors, twist, and a clean upgrade path. If VKB is out of stock, two WinWing Ursa Minor Space sticks are the in-stock alternative at a lower price.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -277,7 +277,7 @@ Buying the sticks is the easy part. Three things trip up new HOSAS pilots more t
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -287,7 +287,7 @@ Buying the sticks is the easy part. Three things trip up new HOSAS pilots more t
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames 200-plus binds with labeled keys and folders. Brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

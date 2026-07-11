@@ -67,7 +67,7 @@ The **VKB Gladiator NXT EVO Space Combat Edition** is the default value answer f
     <span class="gp-price">Value HOSAS</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -87,7 +87,7 @@ If you fly both Star Citizen and DCS, a traditional HOTAS throttle may still mak
     <span class="gp-price">Off-hand upgrade</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -107,7 +107,7 @@ Monstertech-style table mounts are the clean premium answer. DIY mounts can work
     <span class="gp-price">Mounting tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

@@ -114,7 +114,7 @@ Sailing sims are better-behaved than the ship and fishing titles when it comes t
     <span class="gp-price">~$500</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

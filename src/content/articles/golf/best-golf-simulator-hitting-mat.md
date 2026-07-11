@@ -88,7 +88,7 @@ The Player Preferred studio line assembles tool-free and comes in single-hitting
     <span class="gp-price">~$1,249 (7×4); Player Preferred ~$1,399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+Studio+Hitting+Mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -108,7 +108,7 @@ The Softy earns its name. A super-soft foam insert under a 1-inch Teeline turf, 
     <span class="gp-price">~$999 (4×7)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Softy+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -128,7 +128,7 @@ The honest caveat from build forums: some players find CCE **firmer than Fiberbu
     <span class="gp-price">~$479–$600 (4×5)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -152,9 +152,7 @@ Two more names come up constantly and deserve honest coverage even though we do 
     <span class="gp-name">TrueStrike Gel Golf Mat</span>
     <p class="gp-why">The most realistic ground interaction indoors — the silicone-gel subsurface moves like real turf so you take an actual divot. Premium price; verify current cost and size before buying. We are sourcing verified product photography before featuring it as a body visual.</p>
     <span class="gp-price">Check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-buy" href="https://www.amazon.com/s?k=TrueStrike+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
+
   </div>
 </aside>
 
@@ -164,9 +162,7 @@ Two more names come up constantly and deserve honest coverage even though we do 
     <span class="gp-name">Carl's HotShot Mat System</span>
     <p class="gp-why">The tune-it-yourself pick: one cushioned base, three strip personalities (Standard, Foam, Gel). Swap the strip, not the mat, as your priorities shift from real-tee driver work to joint-first iron reps. Verified photography pending.</p>
     <span class="gp-price">Check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+HotShot+golf+hitting+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-    </span>
+
   </div>
 </aside>
 
@@ -204,7 +200,7 @@ If you are building on a garage slab, budget toward a platform or build a level 
     <span class="gp-price">Scales by size (~$11–$14/sq ft)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig-landing-pad-turf">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+landing+pad+turf&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -230,7 +226,7 @@ This is the feature that separates premium mats from budget ones, and it matters
     <span class="gp-eyebrow">Best body-protection spend</span>
     <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio / Player Preferred</a></span>
     <p class="gp-why">The part you touch every swing. ~95% shock absorption and a real-tee holder make it the difference between daily practice and a very expensive room you avoid.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+golf+simulator+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -240,7 +236,7 @@ This is the feature that separates premium mats from budget ones, and it matters
     <span class="gp-eyebrow">Best realism-per-dollar</span>
     <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Real Feel Country Club Elite</a></span>
     <p class="gp-why">The value champion of the premium tier. Honest down-and-through feel, real-tee capable, and it starts under $500. The high-ROI first upgrade for most builds.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -250,7 +246,7 @@ This is the feature that separates premium mats from budget ones, and it matters
     <span class="gp-eyebrow">Best for heavy, joint-first practice</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-4x7-mat">SIGPRO Softy 4×7</a></span>
     <p class="gp-why">The softest feel and a swappable strip so hard practice does not cost you a whole mat. Just plan for its 2.5-inch height against your ceiling and launch monitor.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Softy+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -260,7 +256,7 @@ This is the feature that separates premium mats from budget ones, and it matters
     <span class="gp-eyebrow">Cheap insurance around the mat</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">SIGPRO Side Barrier Netting</a></span>
     <p class="gp-why">A great mat still lets you shank one sideways. A few hundred dollars of side netting protects the walls, TVs, and windows around your bay for the cost of one repair you will never have to make.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

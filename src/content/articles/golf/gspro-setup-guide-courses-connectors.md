@@ -92,7 +92,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$2,995 (often ~$2,000 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -106,7 +106,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$699</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -120,7 +120,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$600 (often discounted)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -134,7 +134,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$1,299 base</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=FlightScope+Mevo+Gen+2+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$2,499 hardware + Gold sub</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -162,7 +162,7 @@ For most GSPro buyers the connection story below is the deciding factor. Each of
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

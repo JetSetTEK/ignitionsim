@@ -135,7 +135,7 @@ If you run single-screw vessels and want one smooth, high-resolution engine leve
     <span class="gp-price">~$130 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TWCS+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -151,7 +151,7 @@ For sims that expose a true **rudder axis** rather than a wheel, a flight stick'
     <span class="gp-price">~$80 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -171,7 +171,7 @@ The no-DIY route is a **PXN CB1**: a finished, plug-and-play panel with 19 contr
     <span class="gp-price">~$80 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+Button+Box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -221,7 +221,7 @@ If you'd rather code your own logic — software detents, button matrices, a com
     <span class="gp-price">~$25 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -246,7 +246,7 @@ If the compatibility table is more hassle than your title is worth, two verified
     <span class="gp-price">~$499 (Quest 3S from ~$329, check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -271,8 +271,8 @@ If the compatibility table is more hassle than your title is worth, two verified
 
 The two most-recommended axis controllers in this bay are a repurposed racing wheel as a helm and a flight throttle quadrant as an engine telegraph. I don't have a verified marine-context photo of either, so they're links, not pictures.
 
-- **Logitech G29 (as helm)** — the community default helm stand-in, a 900-degree racing wheel with a leather rim that reads as a ship's wheel and floods the secondhand market. Its analog steering only matters if your title reads an analog axis, and its force feedback is unused on water. Buy the G29 over the G923 and pocket the FFB premium. [Check current pricing on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20).
-- **Saitek Pro Flight Throttle Quadrant (as engine telegraph)** — the best value in the bay, dollar for dollar: three analog levers map to port throttle, starboard throttle, and bow thruster, and the quadrants daisy-chain. The levers sit dead in any sim that won't read an analog throttle axis, so verify first. [Check current pricing on Amazon](https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20).
+- **Logitech G29 (as helm)** — the community default helm stand-in, a 900-degree racing wheel with a leather rim that reads as a ship's wheel and floods the secondhand market. Its analog steering only matters if your title reads an analog axis, and its force feedback is unused on water. Buy the G29 over the G923 and pocket the FFB premium. verify current pricing through a direct product listing.
+- **Saitek Pro Flight Throttle Quadrant (as engine telegraph)** — the best value in the bay, dollar for dollar: three analog levers map to port throttle, starboard throttle, and bow thruster, and the quadrants daisy-chain. The levers sit dead in any sim that won't read an analog throttle axis, so verify first. verify current pricing through a direct product listing.
 
 ## How to use this map before you buy
 

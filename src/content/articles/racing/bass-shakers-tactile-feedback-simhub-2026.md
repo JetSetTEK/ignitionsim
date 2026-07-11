@@ -69,7 +69,7 @@ The classic trap is starving a big transducer. Underpower one and you'll get a u
     <span class="gp-price">~$200 (amp included)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -81,8 +81,8 @@ A tactile setup is three parts — transducer, amplifier, and SimHub — plus th
 
 | Layer | DIY budget tier | Plug-and-play tier |
 |---|---|---|
-| **Transducer** | 2x [Dayton Audio BST-1](https://www.amazon.com/s?k=Dayton+Audio+BST-1&tag=ignitionsim-20) (~$30 each, 25W continuous) | [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (magnetic-suspension driver) |
-| **Amplifier** | Budget class-D e.g. [Dayton Audio DTA-120](https://www.amazon.com/s?k=Dayton+Audio+DTA-120&tag=ignitionsim-20) (~$50) or Nobsound mini-amp | Bundled 150W amp — nothing to buy or match |
+| **Transducer** | 2x Dayton Audio BST-1 (~$30 each, 25W continuous) | [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (magnetic-suspension driver) |
+| **Amplifier** | Budget class-D e.g. Dayton Audio DTA-120 (~$50) or Nobsound mini-amp | Bundled 150W amp — nothing to buy or match |
 | **Software** | SimHub ShakeIt Bass Shakers (free core) | SimHub, or ButtKicker HaptiConnect (defaults) |
 | **Mounting** | M6 bolts + Sorbothane/rubber isolators | Universal clamp (~1–1.77 in posts) |
 | **What you feel** | Road, kerbs, big impacts under the seat | + wheelspin, ABS, lockup, RPM, shifts once tuned |

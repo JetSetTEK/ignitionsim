@@ -218,7 +218,7 @@
       { "q": "Is SOL-R 2 better than a HOTAS for Star Citizen?", "a": "For dogfighting and six-degree strafing, yes. Two sticks give both hands analog control, which maps better to spaceflight than a single throttle lever." },
       { "q": "Should I buy SOL-R 2 instead of VKB or WinWing?", "a": "Buy SOL-R 2 if you want a complete retail HOSAS and the sci-fi cockpit feel. Buy VKB or WinWing if you care more about upgrade ladders, tunable bases, and community-proven long-term ownership." }
     ],
-    "affiliate": { "primary": "thrustmaster.com", "note": "Also search Amazon and Best Buy; verify live reviews because the review pool is still young." },
+    "affiliate": { "primary": "thrustmaster.com", "note": "Use the official product page first; only use Amazon or Best Buy when the exact product page and live seller reviews are verified." },
     "platforms": "PC"
   },
   {
@@ -255,7 +255,7 @@
       { "q": "Is SOL-R 4 better than SOL-R 2?", "a": "Only if you want a throttle. SOL-R 4 is better for Elite Dangerous hauling, DCS/MSFS crossover, and cruise-heavy flying; SOL-R 2 is better for Star Citizen dogfighting and full six-axis strafe." },
       { "q": "Is SOL-R 4 better than Turtle Beach VelocityOne FlightDeck?", "a": "SOL-R 4 is the more traditional HOTAS. FlightDeck offers touchscreen/HUD features and a huge control count, but it is less space-native than dual sticks and also needs careful PC setup." }
     ],
-    "affiliate": { "primary": "thrustmaster.com", "note": "Check Amazon, Best Buy, and Thrustmaster; verify live reviews before buying." },
+    "affiliate": { "primary": "thrustmaster.com", "note": "Verify the exact product page at Thrustmaster, Amazon, or Best Buy and read live seller reviews before buying." },
     "platforms": "PC"
   },
   {

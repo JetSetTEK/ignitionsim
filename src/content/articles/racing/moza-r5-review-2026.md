@@ -73,7 +73,7 @@ Where you feel the ceiling is in **heavy cars and big moments.** A high-downforc
     <span class="gp-price">~$399 (US bundle) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -97,7 +97,7 @@ The **myth to retire:** the R5 does *not* have an oddball mounting pattern. It u
     <span class="gp-price">~$319–$399 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -127,7 +127,7 @@ The R12 remains the "buy once, stop" answer for a committed racer: 12Nm is the c
     <span class="gp-price">base ~$299–$349 on sale · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R9+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -152,7 +152,7 @@ The R12 remains the "buy once, stop" answer for a committed racer: 12Nm is the c
     <span class="gp-price">~$399 (US)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -189,7 +189,7 @@ Skip it if you race on **console** (PC-only kills it — the R3 is your MOZA pat
     <span class="gp-eyebrow">Cheapest real MOZA bundle</span>
     <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
     <p class="gp-why">The right call when budget or cockpit size is tight: a complete, ready-to-drive DD bundle with clamp and pedals for around $399. Add a load-cell brake and you've got a rig that punches far above its price. Resell it cheap when you climb.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -199,7 +199,7 @@ Skip it if you race on **console** (PC-only kills it — the R3 is your MOZA pat
     <span class="gp-eyebrow">The 2026 smart-money base</span>
     <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9</a></span>
     <p class="gp-why">After the V3 re-tier, the 9Nm sweet spot with wireless V2 comms sits close enough to the R5 that most PC racers should buy it once instead of twice. Pair it with a load-cell brake and a wheel and you're set for years.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R9+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

@@ -72,7 +72,7 @@ The reason it wins isn't a single benchmark — it's the balance. It's the card 
     <span class="gp-price">$999 MSRP · ~$1,249+ street (2026)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/nvidia-rtx-5080">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=NVIDIA+GeForce+RTX+5080&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -92,7 +92,7 @@ Is it overkill for most people? Yes, and that's the honest part. In a racing sim
     <span class="gp-price">$1,999 MSRP · ~$2,699+ street (2026)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/nvidia-rtx-5090">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=NVIDIA+GeForce+RTX+5090&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -171,7 +171,7 @@ If you race and never touch flight sim, the 5090 is money burned — even triple
     <span class="gp-eyebrow">Best GPU for most sim rigs</span>
     <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5080">NVIDIA GeForce RTX 5080</a></span>
     <p class="gp-why">The right card for nine out of ten sim PCs: triples, ultrawide, 1440p and mainstream VR, with 4K in reach via frame-gen. Pair it with an X3D CPU and you're done.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=NVIDIA+GeForce+RTX+5080&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -181,7 +181,7 @@ If you race and never touch flight sim, the 5090 is money burned — even triple
     <span class="gp-eyebrow">No-compromise 4K and flagship VR</span>
     <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5090">NVIDIA GeForce RTX 5090</a></span>
     <p class="gp-why">The one card that clears native 4K Ultra in MSFS 2024 and a Pimax Crystal Super at once. Buy it for those two jobs, on the best price you can find, and ignore it for everything lighter.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=NVIDIA+GeForce+RTX+5090&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

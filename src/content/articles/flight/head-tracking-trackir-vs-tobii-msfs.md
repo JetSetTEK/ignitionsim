@@ -83,7 +83,7 @@ The trade-offs are real but small. You wear the clip on your headset (or a refle
     <span class="gp-price">~$174 (TrackClip PRO bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=NaturalPoint+TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -103,7 +103,7 @@ The honest downsides come from the camera-watching-your-face design. It is a tou
     <span class="gp-price">~$339 (refurb ~$289)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ People constantly frame this as head tracking *versus* VR. It is not really a ve
     <span class="gp-eyebrow">Best for GA + airliners on one screen</span>
     <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">Clip-free, native in MSFS 2024, and the responsiveness gap is invisible for the flying most people do. Give it good lighting and a single ≤30-inch screen and just sit down and fly.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -158,7 +158,7 @@ People constantly frame this as head tracking *versus* VR. It is not really a ve
     <span class="gp-eyebrow">Best for fighters, warbirds, DCS — and the cheaper pick</span>
     <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">Sharper, faster, and about $165 cheaper than the Tobii. If you wear a headset anyway, the TrackClip PRO clips right on and the "hassle" all but disappears. The precision pick for combat and aerobatics.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=NaturalPoint+TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -174,6 +174,6 @@ Whichever you pick, head tracking is the rare upgrade that costs less than a goo
 
 Source review date: July 2, 2026. We checked official product pages and current 2026 pricing rather than repeating box specs, and paraphrased community reports in our own voice.
 
-Official + retail pages: [NaturalPoint TrackIR 5](https://www.naturalpoint.com/trackir/trackir5/), [TrackIR 5 with TrackClip PRO (Amazon)](https://www.amazon.com/TrackIr-Optical-Tracking-System-Bundle/dp/B00KQPETHO), [Tobii Eye Tracker 5 official](https://gaming.tobii.com/product/eye-tracker-5/), [Tobii Eye Tracker 5 (Amazon)](https://www.amazon.com/Tobii-Eye-Tracker-5/dp/B0897GCBWW), [Tobii + MSFS 2024 support](https://gaming.tobii.com/games/microsoft-flight-simulator-2024/).
+Official + retail pages: [NaturalPoint TrackIR 5](https://www.naturalpoint.com/trackir/trackir5/), [TrackIR 5 with TrackClip PRO (Amazon)](https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20), [Tobii Eye Tracker 5 official](https://gaming.tobii.com/product/eye-tracker-5/), [Tobii Eye Tracker 5 (Amazon)](https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20), [Tobii + MSFS 2024 support](https://gaming.tobii.com/games/microsoft-flight-simulator-2024/).
 
 Community + review reads (paraphrased in our voice): [Magenta Debrief Tobii Eye Tracker 5 review](https://magentadebrief.com/tobii-eye-tracker-5-review/), [FSElite on how Tobii eye tracking works](https://fselite.net/content/learn-more-about-tobii-eye-tracking-and-how-it-works-in-flight-sim/), and the recurring [NaturalPoint MSFS 2024 forum threads](https://forums.naturalpoint.com/viewtopic.php?t=31751) on the start-software-first workaround.

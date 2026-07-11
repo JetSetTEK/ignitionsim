@@ -80,7 +80,7 @@ The arms also do a second thing that matters more than people expect: they let y
     <span class="gp-price">~$129 each (verify current — frequent sales)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -129,7 +129,7 @@ There's a temptation to think mounting is an enthusiast concern — that if you 
     <span class="gp-price">~$80 each (~$160 the pair)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -145,7 +145,7 @@ Budget the mount as part of the rig, not as an upgrade. I treat it as a non-nego
     <span class="gp-price">~$289 base only (grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -183,7 +183,7 @@ Mounting isn't a late-game upgrade. It slots in right beside the sticks:
     <span class="gp-eyebrow">The mounts · buy two for a HOSAS</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Desk Mount ×2</a></span>
     <p class="gp-why">The safe default: widest compatibility, proven build, quick-release clamp, infinitely variable height. One per stick, locked rigid and canted to your wrists. If you want to spend less, the US-made Foxx Mount is the budget modular alternative; if you're all-Virpil, the steel VPC Desk Mount V4 matches your bases.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -193,7 +193,7 @@ Mounting isn't a late-game upgrade. It slots in right beside the sticks:
     <span class="gp-eyebrow">Budget HOSAS pair</span>
     <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
     <p class="gp-why">If you're on a budget, these light plastic sticks are exactly the ones a mount rescues. Buy two ambidextrous sticks and two mounts together — the pairing turns the cheapest credible HOSAS into a stable one.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -206,7 +206,7 @@ Mounting isn't a late-game upgrade. It slots in right beside the sticks:
     <span class="gp-price">~$250 (15-key MK.2 ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -222,7 +222,7 @@ Flying atmospheric sims too? The same mounting logic applies to a HOTAS — a he
     <span class="gp-price">~$500 (mounts separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

@@ -150,7 +150,6 @@ The hardware path is not standardized. You will research, wire, map, test, and r
 
 Bridge Command is worth it if you want to build a ship bridge more than you want to buy a shiny appliance. It is niche, practical, and strangely charming. The people who love it are the people who enjoy turning a control problem into a room.
 
-
 ## Source Notes
 
 - [Bridge Command official site](https://www.bridgecommand.co.uk/)

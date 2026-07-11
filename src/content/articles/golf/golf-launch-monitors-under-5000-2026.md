@@ -79,7 +79,7 @@ The catch is philosophical. If you already know you want a gaming PC, GSPro, pro
     <span class="gp-price">MSRP around $4,999.99</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -101,7 +101,7 @@ This is the pick for the buyer who wants a serious simulator without jumping str
     <span class="gp-price">Commonly around the $3K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ That makes it a great fit for the builder who already wants GSPro, a projector, 
     <span class="gp-price">Often discounted below ST MAX</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -145,7 +145,7 @@ But this is the article where we say the quiet part loudly: the Launch Pro is no
     <span class="gp-price">Hardware deal, recurring-cost watchlist</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -188,7 +188,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
     <span class="gp-eyebrow">Best under-$5K no-PC launch monitor</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">For buyers who want to play quickly, keep the room clean, and still have a premium launch monitor. Most expensive here, but also the least fiddly.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -198,7 +198,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
     <span class="gp-eyebrow">Best indoor value path</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
     <p class="gp-why">The smart middle for most rooms. Compare against SkyTrak+ pricing before checkout; the older unit may be the better buy during sales.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -208,7 +208,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
     <span class="gp-eyebrow">Best when older inventory is discounted</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The practical fallback when the ST MAX premium is too high. Same room-friendly camera logic, more money left for enclosure safety.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak%2B+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -218,7 +218,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
     <span class="gp-eyebrow">Best sensor if fees make sense</span>
     <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">Excellent data path, but check software tier and club-data needs before calling it a bargain.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

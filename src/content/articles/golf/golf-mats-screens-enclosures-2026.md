@@ -96,7 +96,7 @@ Nina's shortcut: **if you practice often, comfort gets first veto.** Realism mat
     <span class="gp-price">Premium hitting mat</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+Studio+Golf+Mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -110,7 +110,7 @@ Nina's shortcut: **if you practice often, comfort gets first veto.** Realism mat
     <span class="gp-price">Premium mat tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+Softy+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -124,7 +124,7 @@ Nina's shortcut: **if you practice often, comfort gets first veto.** Realism mat
     <span class="gp-price">Durable mat tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -144,7 +144,7 @@ Forum reports around bounceback are extremely useful because they separate showr
     <span class="gp-price">Premium screen tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-premium-impact-screen">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+impact+screen+premium&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -171,7 +171,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
     <span class="gp-price">Varies by size and add-ons</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+DIY+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -185,7 +185,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
     <span class="gp-price">Premium enclosure tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -209,7 +209,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
     <span class="gp-eyebrow">First safety add-on</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">Side Barrier Netting</a></span>
     <p class="gp-why">If friends, family, kids, or one terrifying slice live near this room, side protection is not optional.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -219,7 +219,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
     <span class="gp-eyebrow">Bounceback helper</span>
     <span class="gp-name"><a href="/golf/gear/sig-landing-pad-turf">Landing Pad Turf</a></span>
     <p class="gp-why">Helps the front of the bay look finished and gives low shots somewhere less chaotic to die.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+landing+turf&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -229,7 +229,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
     <span class="gp-eyebrow">Projection and impact layer</span>
     <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">Premium Impact Screen</a></span>
     <p class="gp-why">Upgrade here when projection quality, noise, and repeated use matter. Install it with the right tension and rear clearance.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=premium+golf+simulator+impact+screen&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

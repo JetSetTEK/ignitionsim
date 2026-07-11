@@ -80,7 +80,7 @@ If you are starting at the affordable end, our [breakdown of launch monitors und
     <span class="gp-price">~$600 (often on sale near $400–$500)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -94,7 +94,7 @@ If you are starting at the affordable end, our [breakdown of launch monitors und
     <span class="gp-price">~$2,995 (frequently near $2,000)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -114,7 +114,7 @@ Budget **$1,000 to $3,000** for a DIY enclosure kit plus screen at the garage ti
     <span class="gp-price">~$1,155 base; screen upgrades extra</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -128,7 +128,7 @@ Budget **$1,000 to $3,000** for a DIY enclosure kit plus screen at the garage ti
     <span class="gp-price">~$399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-side-barrier-netting">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+side+barrier+netting&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ The mat is the most injury-relevant cheap part of the build. A premium turf plat
     <span class="gp-price">~$1,199</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -162,7 +162,7 @@ The mat is the most injury-relevant cheap part of the build. A premium turf plat
     <span class="gp-price">~$599 (often near $479)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -194,7 +194,7 @@ The pattern most first-timers miss: the launch monitor is a *smaller* share of a
     <span class="gp-price">~$11–$14 per sq ft for full systems</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig-landing-pad-turf">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=golf+simulator+landing+pad+turf&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -239,7 +239,7 @@ If your garage ceiling tops out under **8.5 feet to the lowest obstruction** and
     <span class="gp-eyebrow">Best budget sensor for a deep garage</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The sub-$2,000 weekend-build anchor when the bay has 15 feet of length. Build the room around it and upgrade the brain later.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -249,7 +249,7 @@ If your garage ceiling tops out under **8.5 feet to the lowest obstruction** and
     <span class="gp-eyebrow">Best practical enclosure path</span>
     <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure</a></span>
     <p class="gp-why">Match size, screen tier, and pipe kit to the garage instead of improvising after the first shank. This is where an affordable bay gets real.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+DIY+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -259,7 +259,7 @@ If your garage ceiling tops out under **8.5 feet to the lowest obstruction** and
     <span class="gp-eyebrow">Best projector for a shallow bay</span>
     <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The tightest mainstream throw fits a shallow garage and clears the swing arc. Check throw and offset against your screen size first.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -269,7 +269,7 @@ If your garage ceiling tops out under **8.5 feet to the lowest obstruction** and
     <span class="gp-eyebrow">Best body-protection spend</span>
     <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Country Club Elite Mat</a></span>
     <p class="gp-why">The part you touch every swing. A forgiving, real-tee-capable mat is the difference between daily practice and a very expensive garage you avoid.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Real+Feel+Country+Club+Elite+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

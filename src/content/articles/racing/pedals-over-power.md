@@ -81,7 +81,7 @@ You don't need to agonize over ten sets. There are three rungs, and almost every
     <span class="gp-price">~$399 (US)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -95,7 +95,7 @@ You don't need to agonize over ten sets. There are three rungs, and almost every
     <span class="gp-price">~€495 (2-pedal)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -120,7 +120,7 @@ Buy hydraulic because you specifically *want* that progressive real-car feel, no
     <span class="gp-price">~$609</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-p2000">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+P2000+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -134,7 +134,7 @@ Buy hydraulic because you specifically *want* that progressive real-car feel, no
     <span class="gp-price">~$630 on sale (list ~$900)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Asetek+Invicta+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -154,7 +154,7 @@ They are real, and they are remarkable. They are also priced per pedal and deliv
     <span class="gp-price">~€1,402 per unit (ex-VAT)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+ActivePedal+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -168,7 +168,7 @@ They are real, and they are remarkable. They are also priced per pedal and deliv
     <span class="gp-price">~$799</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+mBooster+active+pedal&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -217,7 +217,7 @@ Honest-broker note: if you're a casual GT cruiser who races occasionally and doe
     <span class="gp-eyebrow">Best value load-cell brake</span>
     <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The pedal that makes nine out of ten racers faster. 200kg load cell, tunable damper, CNC aluminum, USB brand-agnostic. If your budget is tighter, the MOZA SRP2 or Fanatec CSL Load Cell Kit get you a real pressure brake under $300.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -227,7 +227,7 @@ Honest-broker note: if you're a casual GT cruiser who races occasionally and doe
     <span class="gp-eyebrow">Pro benchmark load cell</span>
     <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
     <p class="gp-why">The endgame brake for most people: professional load-cell feel, progressive elastomers, SmartControl calibration, USB to any base. Buy it and stop shopping for pedals.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

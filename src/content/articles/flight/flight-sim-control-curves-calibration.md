@@ -98,7 +98,7 @@ So the rule of thumb is simple: a *twitchy* axis is a **curve problem** (fix it 
     <span class="gp-price">~$270 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -144,7 +144,7 @@ You can absolutely tune twitch out of budget gear — that's the whole point of 
     <span class="gp-price">~$250 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 

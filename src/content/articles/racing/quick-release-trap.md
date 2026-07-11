@@ -87,7 +87,7 @@ There is a category of rim built specifically to dodge this whole problem: premi
 
 There's no verified product photo of the Cube Controls GT Pro in our library yet, so I won't fake one — but the idea matters more than the specific model. When a rim's spec sheet says "70mm PCD, USB," that rim is voting against lock-in, and it's worth a premium if you plan to grow.
 
-<p><a href="https://www.amazon.com/s?k=Cube+Controls+GT+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check the Cube Controls GT Pro on Amazon ↗</a></p>
+<p>verify Cube Controls GT Pro availability ↗</p>
 
 ## How to avoid the trap
 

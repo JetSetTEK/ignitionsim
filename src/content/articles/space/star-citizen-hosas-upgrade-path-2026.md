@@ -75,7 +75,7 @@ VKB’s official listing highlights the 2 contactless MaRS sensors, ball-bearing
     <span class="gp-price">Value boutique tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -97,7 +97,7 @@ Community wisdom around the Omni usually boils down to this: it costs more than 
     <span class="gp-price">Off-hand HOSAS tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -117,7 +117,7 @@ The caveat is trust. VKB has a longer “we can recommend this without drama” 
     <span class="gp-price">Reliable value tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -137,7 +137,7 @@ Buy mounts before stepping from VKB Gladiator to Virpil unless you already have 
     <span class="gp-price">Mounting tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=joystick+desk+mount+HOSAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -164,7 +164,7 @@ The catch is real cost. A Virpil grip is not a full stick by itself. You need a 
     <span class="gp-price">Premium base tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -214,16 +214,16 @@ Do not copy somebody’s entire binding profile on faith. Use it as a starting m
 
 | Product | Best reason to buy | Affiliate shortcut |
 | --- | --- | --- |
-| VKB Gladiator NXT EVO Space Combat Edition | Safe first serious right-hand stick | [Check Amazon](https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat+Edition&tag=ignitionsim-20) |
-| VKB Gladiator NXT EVO Omni-Throttle | Best off-hand HOSAS controller for Star Citizen | [Check Amazon](https://www.amazon.com/s?k=VKB+Gladiator+Omni+Throttle&tag=ignitionsim-20) |
-| WinWing Ursa Minor Space | Value HOSAS pair if price matters | [Check Amazon](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+Joystick&tag=ignitionsim-20) |
-| Virpil Constellation Alpha / Alpha Prime | Premium mirrored HOSAS grip path | [Check Amazon](https://www.amazon.com/s?k=Virpil+Constellation+Alpha+Prime&tag=ignitionsim-20) |
-| Virpil WarBRD-D Base | Premium adjustable base for Alpha grips | [Check Amazon](https://www.amazon.com/s?k=Virpil+WarBRD-D+Base&tag=ignitionsim-20) |
-| VKB Gunfighter Mk.IV Base | Premium VKB base upgrade | [Check Amazon](https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20) |
-| Monstertech Table Mount | Fix ergonomics before buying more stick | [Check Amazon](https://www.amazon.com/s?k=joystick+desk+mount+HOSAS&tag=ignitionsim-20) |
-| Elgato Stream Deck XL | Ship systems, macros, mining, salvage layers | [Check Amazon](https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20) |
-| Thrustmaster MFD Cougar Pack | Cheap physical buttons around a monitor | [Check Amazon](https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20) |
-| Tobii Eye Tracker 5 | Head/eye tracking without VR or a clip | [Check Amazon](https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20) |
+| VKB Gladiator NXT EVO Space Combat Edition | Safe first serious right-hand stick | Verify exact model |
+| VKB Gladiator NXT EVO Omni-Throttle | Best off-hand HOSAS controller for Star Citizen | Verify exact model |
+| WinWing Ursa Minor Space | Value HOSAS pair if price matters | Verify exact model |
+| Virpil Constellation Alpha / Alpha Prime | Premium mirrored HOSAS grip path | Verify exact model |
+| Virpil WarBRD-D Base | Premium adjustable base for Alpha grips | Verify exact model |
+| VKB Gunfighter Mk.IV Base | Premium VKB base upgrade | Verify exact model |
+| Monstertech Table Mount | Fix ergonomics before buying more stick | Verify exact model |
+| Elgato Stream Deck XL | Ship systems, macros, mining, salvage layers | Verify exact model |
+| Thrustmaster MFD Cougar Pack | Cheap physical buttons around a monitor | Verify exact model |
+| Tobii Eye Tracker 5 | Head/eye tracking without VR or a clip | Verify exact model |
 
 ## FAQ
 

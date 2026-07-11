@@ -66,7 +66,7 @@ The rules are simple. Clamp against a solid edge of the desktop, never an overha
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -97,7 +97,7 @@ These are the same wheel-stand-style, bolt-it-down philosophy that sim racers us
     <span class="gp-price">~$100 each · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+HOTAS+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -115,7 +115,7 @@ The rule is firm. The moment you pass three or four devices, buy a **powered** U
 
 No verified studio photo is on file for a dedicated sim USB hub yet, so it's text-and-link only here — a 7-to-10-port powered hub with its own adapter is about $60 and it's the cheapest reliability you'll ever buy:
 
-- **Powered 10-port USB hub (sim-cockpit style)** — dedicated wall adapter, per-port switches, USB 2.0/3.x support, ~$60, [check Amazon](https://www.amazon.com/s?k=10+port+powered+USB+hub+with+power+adapter&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}. Good general alternatives include the TP-Link UH720 and Sabrent powered hubs.
+- **Powered 10-port USB hub (sim-cockpit style)** — dedicated wall adapter, per-port switches, USB 2.0/3.x support, ~$60, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Good general alternatives include the TP-Link UH720 and Sabrent powered hubs.
 
 <div class="callout forum">
 
@@ -152,7 +152,7 @@ At that point you graduate to a wheel-stand-style frame or a dedicated **8020 al
     <span class="gp-price">~$499 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -160,7 +160,7 @@ At that point you graduate to a wheel-stand-style frame or a dedicated **8020 al
 
 The FFB yoke that triggers all of this is text-and-link only below, because no verified studio photo is on file for it yet:
 
-- **MOZA AY210 Force Feedback Yoke** — dual-servo FFB, ~9 Nm roll / 210 N pitch, official MOZA clamp for desks or a rigid rig for cockpits, ~$699 base (~$848 with the required MFY handle), [check Amazon](https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA AY210 Force Feedback Yoke** — dual-servo FFB, ~9 Nm roll / 210 N pitch, official MOZA clamp for desks or a rigid rig for cockpits, ~$699 base (~$848 with the required MFY handle), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The setup tax nobody quotes you
 

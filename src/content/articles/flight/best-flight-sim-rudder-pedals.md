@@ -93,7 +93,7 @@ The default first pedals, and rightly. The [Logitech G Flight Rudder Pedals](/fl
     <span class="gp-price">~$180 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/logitech-g-flight-rudder-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -105,7 +105,7 @@ The rock-bottom entry point, and the answer for a console flyer who wants brakes
 
 No verified studio photo is on file for the TFRP, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+TFRP+Flight+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## Low-profile, no brakes — VKB T-Rudder Mk.V (~$199)
 
@@ -121,7 +121,7 @@ The enthusiast's minimalist pick. The [VKB T-Rudder Mk.V](/flight/gear/vkb-t-rud
     <span class="gp-price">~$199 US direct · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/vkb-t-rudder-mk4">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+T-Rudder+Mk.V+rudder+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -141,7 +141,7 @@ If you are building an all-Honeycomb GA flight deck, the [Honeycomb Charlie](/fl
     <span class="gp-price">~$270-350 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -153,7 +153,7 @@ The long-standing enthusiast standard for pilots who want top-tier feel without 
 
 No verified studio photo is on file for the Crosswind V3, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper, sold direct from [mfg-sim.com](https://mfg-sim.com/rudders/), [check Amazon](https://www.amazon.com/s?k=MFG+Crosswind+V3+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper, sold direct from [mfg-sim.com](https://mfg-sim.com/rudders/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <div class="callout forum">
 
@@ -168,7 +168,7 @@ New for 2026 and aimed squarely at airliner simmers. The **WinCTRL Orion 32** (f
 
 No verified studio photo is on file for the Orion 32, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper), sold direct from [winctrl.com](https://winctrl.com/view/goods-details.html?id=1845), [check Amazon](https://www.amazon.com/s?k=WinCTRL+Orion+32+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper), sold direct from [winctrl.com](https://winctrl.com/view/goods-details.html?id=1845), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## Console — Turtle Beach VelocityOne Rudder Pedals (~$300)
 
@@ -184,7 +184,7 @@ The notable Xbox-and-PC option, and close to the only serious pedal choice for c
     <span class="gp-price">~$300 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-rudder-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -196,7 +196,7 @@ The aspirational set. The **Thrustmaster TPR** uses the exclusive PENDUL_R suspe
 
 No verified studio photo is on file for the TPR, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+TPR+Pendular+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## Incoming, now shipping — WinCTRL force-feedback pedals (~$500-800)
 
@@ -204,7 +204,7 @@ The big change since our last update: **force-feedback rudder pedals moved from 
 
 No verified studio photo is on file for the WinCTRL FFB pedals, and they have no gear page in our catalog yet, so they are text-and-link only:
 
-- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026, sold direct from [winctrl.com](https://winctrl.com/), [check Amazon](https://www.amazon.com/s?k=WinCTRL+CyberTaurus+force+feedback+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026, sold direct from [winctrl.com](https://winctrl.com/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The 2026 rudder-pedal shortlist
 
@@ -245,7 +245,7 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
     <span class="gp-eyebrow">The first-pedal starting point</span>
     <span class="gp-name"><a href="/flight/gear/logitech-g-flight-rudder-pedals">Logitech G Flight Rudder Pedals</a></span>
     <p class="gp-why">The right call for most first-time buyers: sliding, self-centering, real differential toe brakes, and a damping dial that spans GA to jet. It covers exactly the flying that pushed you to buy pedals, at half the price of metal sets. Image is our verified Honeycomb Charlie stand-in.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -257,7 +257,7 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
     <span class="gp-eyebrow">The matched-deck upgrade</span>
     <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Charlie</a></span>
     <p class="gp-why">The metal, Hall-effect step up if you're building a matched Honeycomb GA deck. Proportional variable-pressure toe brakes, adjustable foot angle, and sensors that don't drift. Add it after the Alpha and Bravo and the GA ladder is complete.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -269,7 +269,7 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
     <span class="gp-eyebrow">The rudder-only combat pick</span>
     <span class="gp-name"><a href="/flight/gear/vkb-t-rudder-mk4">VKB T-Rudder Mk.V</a></span>
     <p class="gp-why">The durable, no-toe-brake choice for DCS and warbird pilots who steer with rudder alone. All-metal, contactless MaRS sensor, low-profile footprint, and the Mk.V fixes the old spring whine. Image is our verified Honeycomb Charlie stand-in.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+T-Rudder+Mk.V+rudder+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>

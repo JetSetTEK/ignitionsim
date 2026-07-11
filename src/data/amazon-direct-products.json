@@ -1,0 +1,2032 @@
+{
+  "generated": "2026-07-11T19:31:46.563Z",
+  "tag": "ignitionsim-20",
+  "queries": {
+    "honeycomb aeronautical alpha flight controls": {
+      "query": "Honeycomb Aeronautical Alpha Flight Controls",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.717Z"
+    },
+    "thrustmaster tca sidestick airbus edition": {
+      "query": "Thrustmaster TCA Sidestick Airbus Edition",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.718Z"
+    },
+    "thrustmaster hotas warthog": {
+      "query": "Thrustmaster HOTAS Warthog",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.720Z"
+    },
+    "thrustmaster tca yoke pack boeing edition": {
+      "query": "Thrustmaster TCA Yoke Pack Boeing Edition",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.737Z"
+    },
+    "thrustmaster tca quadrant airbus edition": {
+      "query": "Thrustmaster TCA Quadrant Airbus Edition",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.738Z"
+    },
+    "honeycomb aeronautical bravo throttle quadrant": {
+      "query": "Honeycomb Aeronautical Bravo Throttle Quadrant",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.751Z"
+    },
+    "honeycomb aeronautical charlie rudder pedals": {
+      "query": "Honeycomb Aeronautical Charlie Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.752Z"
+    },
+    "moza mtq throttle quadrant": {
+      "query": "MOZA MTQ Throttle Quadrant",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.752Z"
+    },
+    "turtle beach velocityone rudder pedals": {
+      "query": "Turtle Beach VelocityOne Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.864Z"
+    },
+    "vkb t rudder rudder pedals": {
+      "query": "VKB T-Rudder rudder pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.883Z"
+    },
+    "trackir 5 trackclip pro": {
+      "query": "TrackIR 5 TrackClip PRO",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.891Z"
+    },
+    "logitech g flight rudder pedals": {
+      "query": "Logitech G Flight Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.891Z"
+    },
+    "winwing pap 3 mcp": {
+      "query": "WinWing PAP 3 MCP",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.892Z"
+    },
+    "winwing fcu efis a320": {
+      "query": "WinWing FCU EFIS A320",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.892Z"
+    },
+    "winwing pfp 3n 737 cdu": {
+      "query": "WinWing PFP 3N 737 CDU",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.904Z"
+    },
+    "winwing mcdu a320": {
+      "query": "WinWing MCDU A320",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:29.904Z"
+    },
+    "vkb t rudder mk v rudder pedals": {
+      "query": "VKB T-Rudder Mk.V rudder pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.050Z"
+    },
+    "winctrl orion 32 rudder pedals": {
+      "query": "WinCTRL Orion 32 rudder pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.051Z"
+    },
+    "tobii eye tracker 5": {
+      "query": "Tobii Eye Tracker 5",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.052Z"
+    },
+    "moza ay210 force feedback yoke": {
+      "query": "MOZA AY210 Force Feedback Yoke",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.052Z"
+    },
+    "winctrl cybertaurus force feedback rudder pedals": {
+      "query": "WinCTRL CyberTaurus force feedback rudder pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.057Z"
+    },
+    "thrustmaster tpr pendular rudder pedals": {
+      "query": "Thrustmaster TPR Pendular Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.057Z"
+    },
+    "mfg crosswind v3 rudder pedals": {
+      "query": "MFG Crosswind V3 rudder pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.064Z"
+    },
+    "thrustmaster tfrp flight rudder pedals": {
+      "query": "Thrustmaster TFRP Flight Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.065Z"
+    },
+    "nvidia geforce rtx 5090": {
+      "query": "NVIDIA GeForce RTX 5090",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.203Z"
+    },
+    "nvidia geforce rtx 5080": {
+      "query": "NVIDIA GeForce RTX 5080",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.203Z"
+    },
+    "winwing orion 2 hotas": {
+      "query": "WinWing Orion 2 HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.204Z"
+    },
+    "turtle beach velocityone flight stick": {
+      "query": "Turtle Beach VelocityOne Flight Stick",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.206Z"
+    },
+    "turtle beach velocityone flightstick": {
+      "query": "Turtle Beach VelocityOne Flightstick",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.223Z"
+    },
+    "vkb gladiator nxt evo": {
+      "query": "VKB Gladiator NXT EVO",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.224Z"
+    },
+    "logitech g pro flight yoke system": {
+      "query": "Logitech G PRO Flight Yoke System",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.225Z"
+    },
+    "thrustmaster t flight hotas one msfs edition": {
+      "query": "Thrustmaster T.Flight HOTAS One MSFS Edition",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.226Z"
+    },
+    "honeycomb bravo throttle quadrant": {
+      "query": "Honeycomb Bravo Throttle Quadrant",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.369Z"
+    },
+    "meta quest 3s": {
+      "query": "Meta Quest 3S",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.369Z"
+    },
+    "bigscreen beyond 2": {
+      "query": "Bigscreen Beyond 2",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.369Z"
+    },
+    "moza ab9 flight force feedback base": {
+      "query": "MOZA AB9 flight force feedback base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.370Z"
+    },
+    "pimax crystal super": {
+      "query": "Pimax Crystal Super",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.373Z"
+    },
+    "pimax crystal light": {
+      "query": "Pimax Crystal Light",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.373Z"
+    },
+    "meta quest 3": {
+      "query": "Meta Quest 3",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.377Z"
+    },
+    "thrustmaster tca sky yoke": {
+      "query": "Thrustmaster TCA Sky Yoke",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.382Z"
+    },
+    "moza ab6 flight force feedback bundle": {
+      "query": "MOZA AB6 flight force feedback bundle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.565Z"
+    },
+    "brunner cls e force feedback yoke": {
+      "query": "Brunner CLS-E force feedback yoke",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.569Z"
+    },
+    "naturalpoint trackir 5 trackclip pro": {
+      "query": "NaturalPoint TrackIR 5 TrackClip PRO",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.569Z"
+    },
+    "powered usb hub flight sim panels": {
+      "query": "powered USB hub flight sim panels",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.570Z"
+    },
+    "thrustmaster hotas warthog mkii": {
+      "query": "Thrustmaster HOTAS Warthog MKII",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.593Z"
+    },
+    "moza mfy yoke ay210": {
+      "query": "MOZA MFY yoke AY210",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.593Z"
+    },
+    "vpforce rhino force feedback": {
+      "query": "VPForce Rhino force feedback",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.631Z"
+    },
+    "thrustmaster omni extension": {
+      "query": "Thrustmaster OMNI Extension",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.631Z"
+    },
+    "10 port powered usb hub with power adapter": {
+      "query": "10 port powered USB hub with power adapter",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.731Z"
+    },
+    "komodo simulations helicopter collective": {
+      "query": "Komodo Simulations Helicopter Collective",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.731Z"
+    },
+    "monstertech hotas table mount": {
+      "query": "Monstertech HOTAS table mount",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.731Z"
+    },
+    "thrustmaster tfrp rudder pedals": {
+      "query": "Thrustmaster TFRP Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.734Z"
+    },
+    "trak racer tr80 cockpit": {
+      "query": "Trak Racer TR80 cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.775Z"
+    },
+    "thrustmaster tca quadrant airbus": {
+      "query": "Thrustmaster TCA Quadrant Airbus",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.788Z"
+    },
+    "honeycomb alpha flight controls": {
+      "query": "Honeycomb Alpha Flight Controls",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.789Z"
+    },
+    "pimax crystal light vr": {
+      "query": "Pimax Crystal Light VR",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.789Z"
+    },
+    "honeycomb charlie rudder pedals": {
+      "query": "Honeycomb Charlie Rudder Pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.899Z"
+    },
+    "rapsodo mlm2pro launch monitor": {
+      "query": "Rapsodo MLM2PRO launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.900Z"
+    },
+    "square golf launch monitor": {
+      "query": "Square Golf launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.901Z"
+    },
+    "garmin approach r10 launch monitor": {
+      "query": "Garmin Approach R10 launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.901Z"
+    },
+    "skytrak launch monitor": {
+      "query": "SkyTrak launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.925Z"
+    },
+    "skytrak plus launch monitor": {
+      "query": "SkyTrak Plus launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.965Z"
+    },
+    "fiberbuilt studio hitting mat": {
+      "query": "Fiberbuilt Studio Hitting Mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.965Z"
+    },
+    "flightscope mevo gen 2 launch monitor": {
+      "query": "FlightScope Mevo Gen 2 launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:30.966Z"
+    },
+    "real feel country club elite golf mat": {
+      "query": "Real Feel Country Club Elite golf mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.037Z"
+    },
+    "truestrike golf mat": {
+      "query": "TrueStrike golf mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.037Z"
+    },
+    "sigpro softy golf mat": {
+      "query": "SIGPRO Softy golf mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.038Z"
+    },
+    "carls place hotshot golf hitting mat": {
+      "query": "Carls Place HotShot golf hitting mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.038Z"
+    },
+    "golf simulator landing pad turf": {
+      "query": "golf simulator landing pad turf",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.076Z"
+    },
+    "golf simulator side barrier netting": {
+      "query": "golf simulator side barrier netting",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.132Z"
+    },
+    "country club elite golf mat": {
+      "query": "Country Club Elite golf mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.132Z"
+    },
+    "fiberbuilt golf simulator mat": {
+      "query": "Fiberbuilt golf simulator mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.132Z"
+    },
+    "optoma gt2100hdr projector": {
+      "query": "Optoma GT2100HDR projector",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.191Z"
+    },
+    "sig10 golf simulator enclosure": {
+      "query": "SIG10 golf simulator enclosure",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.191Z"
+    },
+    "skytrak st max launch monitor": {
+      "query": "SkyTrak ST MAX launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.191Z"
+    },
+    "bushnell launch pro": {
+      "query": "Bushnell Launch Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.192Z"
+    },
+    "garmin approach r50 launch monitor": {
+      "query": "Garmin Approach R50 launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.224Z"
+    },
+    "garmin approach r10": {
+      "query": "Garmin Approach R10",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.271Z"
+    },
+    "rapsodo mlm2pro": {
+      "query": "Rapsodo MLM2PRO",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.271Z"
+    },
+    "benq lk936st golf projector": {
+      "query": "BenQ LK936ST golf projector",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.271Z"
+    },
+    "foresight gc3 launch monitor": {
+      "query": "Foresight GC3 launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.329Z"
+    },
+    "carls place golf simulator enclosure": {
+      "query": "Carls Place golf simulator enclosure",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.330Z"
+    },
+    "foresight falcon launch monitor": {
+      "query": "Foresight Falcon launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.330Z"
+    },
+    "foresight gcquad launch monitor": {
+      "query": "Foresight GCQuad launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.331Z"
+    },
+    "carls place diy golf simulator enclosure": {
+      "query": "Carls Place DIY golf simulator enclosure",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.365Z"
+    },
+    "benq ak700st golf simulator projector": {
+      "query": "BenQ AK700ST golf simulator projector",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.477Z"
+    },
+    "hdmi cable raceway cable management": {
+      "query": "hdmi cable raceway cable management",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.477Z"
+    },
+    "sigpro 4x7 golf mat": {
+      "query": "SIGPRO 4x7 golf mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.478Z"
+    },
+    "golf simulator impact screen protection": {
+      "query": "golf simulator impact screen protection",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.478Z"
+    },
+    "fiberbuilt studio golf mat": {
+      "query": "Fiberbuilt Studio Golf Mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.478Z"
+    },
+    "golf simulator landing turf": {
+      "query": "golf simulator landing turf",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.493Z"
+    },
+    "bushnell launch pro golf launch monitor": {
+      "query": "Bushnell Launch Pro golf launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.495Z"
+    },
+    "golf simulator impact screen premium": {
+      "query": "golf simulator impact screen premium",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.534Z"
+    },
+    "sigpro side barrier netting": {
+      "query": "SIGPRO side barrier netting",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.621Z"
+    },
+    "optoma gt2100hdr": {
+      "query": "Optoma GT2100HDR",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.621Z"
+    },
+    "benq ak700st golf projector": {
+      "query": "BenQ AK700ST golf projector",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.632Z"
+    },
+    "premium golf simulator impact screen": {
+      "query": "premium golf simulator impact screen",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.636Z"
+    },
+    "sigpro premium impact screen": {
+      "query": "SIGPRO Premium impact screen",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.638Z"
+    },
+    "benq ah700st golf projector": {
+      "query": "BenQ AH700ST golf projector",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.638Z"
+    },
+    "foresight gc3": {
+      "query": "Foresight GC3",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.654Z"
+    },
+    "uneekor eye xo2 launch monitor": {
+      "query": "Uneekor EYE XO2 launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.674Z"
+    },
+    "bushnell launch pro launch monitor": {
+      "query": "Bushnell Launch Pro launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.782Z"
+    },
+    "golf simulator ball tray": {
+      "query": "golf simulator ball tray",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.783Z"
+    },
+    "skytrak st max": {
+      "query": "SkyTrak ST MAX",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.788Z"
+    },
+    "active hdmi cable 4k": {
+      "query": "active HDMI cable 4K",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.793Z"
+    },
+    "ceiling projector mount": {
+      "query": "ceiling projector mount",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.798Z"
+    },
+    "adjustable led track lighting": {
+      "query": "adjustable LED track lighting",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.798Z"
+    },
+    "golf simulator side netting": {
+      "query": "golf simulator side netting",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.798Z"
+    },
+    "garmin approach r50": {
+      "query": "Garmin Approach R50",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.813Z"
+    },
+    "golf simulator enclosure": {
+      "query": "golf simulator enclosure",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.919Z"
+    },
+    "logitech g saitek pro flight throttle quadrant": {
+      "query": "Logitech G Saitek Pro Flight Throttle Quadrant",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.939Z"
+    },
+    "arduino leonardo": {
+      "query": "Arduino Leonardo",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.940Z"
+    },
+    "premium golf simulator hitting mat": {
+      "query": "premium golf simulator hitting mat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.940Z"
+    },
+    "uneekor eye xo2 golf launch monitor": {
+      "query": "Uneekor EYE XO2 golf launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.943Z"
+    },
+    "pxn cb1 button box": {
+      "query": "PXN CB1 Button Box",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.951Z"
+    },
+    "usb c hdmi cable management": {
+      "query": "usb c hdmi cable management",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.951Z"
+    },
+    "foresight sports falcon launch monitor": {
+      "query": "Foresight Sports Falcon launch monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:31.954Z"
+    },
+    "thrustmaster t 16000m fcs": {
+      "query": "Thrustmaster T.16000M FCS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.099Z"
+    },
+    "logitech g g923 trueforce": {
+      "query": "Logitech G G923 TrueForce",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.107Z"
+    },
+    "arduino pro micro atmega32u4": {
+      "query": "Arduino Pro Micro ATmega32u4",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.107Z"
+    },
+    "raildriver desktop train cab controller": {
+      "query": "RailDriver Desktop Train Cab Controller",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.107Z"
+    },
+    "logitech g g29 driving force": {
+      "query": "Logitech G G29 Driving Force",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.107Z"
+    },
+    "leo bodnar bu0836a": {
+      "query": "Leo Bodnar BU0836A",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.108Z"
+    },
+    "logitech g g923 racing wheel": {
+      "query": "Logitech G G923 Racing Wheel",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.109Z"
+    },
+    "thrustmaster twcs throttle": {
+      "query": "Thrustmaster TWCS Throttle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.119Z"
+    },
+    "simucube activepedal pro": {
+      "query": "Simucube ActivePedal Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.247Z"
+    },
+    "buttkicker gamer pro": {
+      "query": "ButtKicker Gamer PRO",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.253Z"
+    },
+    "dayton audio bst 1": {
+      "query": "Dayton Audio BST-1",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.256Z"
+    },
+    "moza mbooster active pedal": {
+      "query": "MOZA mBooster Active Pedal",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.262Z"
+    },
+    "simagic p2000 pedals": {
+      "query": "Simagic P2000 pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.266Z"
+    },
+    "heusinkveld sprint pedals": {
+      "query": "Heusinkveld Sprint pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.267Z"
+    },
+    "moza crp2 pedals": {
+      "query": "MOZA CRP2 pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.271Z"
+    },
+    "asetek invicta pedals": {
+      "query": "Asetek Invicta pedals",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.271Z"
+    },
+    "fosi audio ht4s amplifier": {
+      "query": "Fosi Audio HT4S amplifier",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.401Z"
+    },
+    "dayton audio dta 120": {
+      "query": "Dayton Audio DTA-120",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.404Z"
+    },
+    "buttkicker gamer plus": {
+      "query": "ButtKicker Gamer Plus",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.404Z"
+    },
+    "fanatec clubsport dd wheel base": {
+      "query": "Fanatec ClubSport DD wheel base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.407Z"
+    },
+    "next level racing hf8 haptic pad": {
+      "query": "Next Level Racing HF8 haptic pad",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.411Z"
+    },
+    "moza r12 wheelbase": {
+      "query": "MOZA R12 wheelbase",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.415Z"
+    },
+    "fanatec csl dd": {
+      "query": "Fanatec CSL DD",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.417Z"
+    },
+    "dayton audio bst 1 bass shaker": {
+      "query": "Dayton Audio BST-1 bass shaker",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.424Z"
+    },
+    "gt omega apex wheel stand": {
+      "query": "GT Omega Apex wheel stand",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.554Z"
+    },
+    "sim lab p1 x cockpit": {
+      "query": "Sim-Lab P1-X cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.554Z"
+    },
+    "simucube 2 sport wheel base": {
+      "query": "Simucube 2 Sport wheel base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.554Z"
+    },
+    "samsung odyssey oled g9 49": {
+      "query": "Samsung Odyssey OLED G9 49",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.557Z"
+    },
+    "next level racing gtlite cockpit": {
+      "query": "Next Level Racing GTLite cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.568Z"
+    },
+    "trak racer tr160 cockpit": {
+      "query": "Trak Racer TR160 cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.569Z"
+    },
+    "next level racing elite es1 seat": {
+      "query": "Next Level Racing Elite ES1 seat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.570Z"
+    },
+    "next level racing gt track cockpit": {
+      "query": "Next Level Racing GT Track cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.570Z"
+    },
+    "gt omega apex cockpit": {
+      "query": "GT Omega Apex cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.711Z"
+    },
+    "thrustmaster t598": {
+      "query": "Thrustmaster T598",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.711Z"
+    },
+    "fanatec gt dd pro": {
+      "query": "Fanatec GT DD Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.711Z"
+    },
+    "dof reality h3 motion platform": {
+      "query": "DOF Reality H3 motion platform",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.715Z"
+    },
+    "next level racing free standing triple monitor stand": {
+      "query": "Next Level Racing Free Standing Triple Monitor Stand",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.715Z"
+    },
+    "samsung odyssey neo g9 57": {
+      "query": "Samsung Odyssey Neo G9 57",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.719Z"
+    },
+    "next level racing motion platform v3": {
+      "query": "Next Level Racing Motion Platform V3",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.719Z"
+    },
+    "asus tuf vg27aq": {
+      "query": "ASUS TUF VG27AQ",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.719Z"
+    },
+    "moza r3 bundle xbox": {
+      "query": "MOZA R3 bundle Xbox",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.862Z"
+    },
+    "sim lab p1x cockpit": {
+      "query": "Sim-Lab P1X cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.862Z"
+    },
+    "next level racing gttrack": {
+      "query": "Next Level Racing GTTrack",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.862Z"
+    },
+    "moza rs v2 wheel": {
+      "query": "MOZA RS V2 wheel",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.862Z"
+    },
+    "elgato stream deck xl": {
+      "query": "Elgato Stream Deck XL",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.881Z"
+    },
+    "simagic alpha evo pro wheelbase": {
+      "query": "Simagic Alpha Evo Pro wheelbase",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.883Z"
+    },
+    "asetek forte wheel base": {
+      "query": "Asetek Forte wheel base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.884Z"
+    },
+    "moza r9 wheelbase": {
+      "query": "MOZA R9 wheelbase",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:32.900Z"
+    },
+    "sim lab p1 x aluminum profile rig": {
+      "query": "Sim-Lab P1-X aluminum profile rig",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.026Z"
+    },
+    "moza r3 racing bundle xbox": {
+      "query": "MOZA R3 Racing Bundle Xbox",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.026Z"
+    },
+    "trak racer tr80": {
+      "query": "Trak Racer TR80",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.026Z"
+    },
+    "moza r3 xbox bundle": {
+      "query": "MOZA R3 Xbox bundle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.028Z"
+    },
+    "sim racing wheel desk clamp": {
+      "query": "sim racing wheel desk clamp",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.032Z"
+    },
+    "fanatec clubsport dd plus": {
+      "query": "Fanatec ClubSport DD plus",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.046Z"
+    },
+    "next level racing gt track": {
+      "query": "Next Level Racing GT Track",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.051Z"
+    },
+    "fanatec clubsport dd": {
+      "query": "Fanatec ClubSport DD+",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.065Z"
+    },
+    "simagic alpha evo pro": {
+      "query": "Simagic Alpha Evo Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.179Z"
+    },
+    "asetek invicta wheelbase": {
+      "query": "Asetek Invicta wheelbase",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.205Z"
+    },
+    "small hdmi gaming monitor": {
+      "query": "small HDMI gaming monitor",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.205Z"
+    },
+    "simucube 2 sport": {
+      "query": "Simucube 2 Sport",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.206Z"
+    },
+    "cammus c5 direct drive": {
+      "query": "Cammus C5 direct drive",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.206Z"
+    },
+    "evercade cartridges": {
+      "query": "Evercade cartridges",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.207Z"
+    },
+    "moza r5 direct drive wheel": {
+      "query": "MOZA R5 direct drive wheel",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.207Z"
+    },
+    "simagic alpha evo ultra": {
+      "query": "Simagic Alpha Evo Ultra",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.208Z"
+    },
+    "sim lab p1x pro cockpit": {
+      "query": "Sim-Lab P1X Pro cockpit",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.320Z"
+    },
+    "heusinkveld sim handbrake": {
+      "query": "Heusinkveld Sim Handbrake",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.349Z"
+    },
+    "moza hbp handbrake": {
+      "query": "MOZA HBP handbrake",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.350Z"
+    },
+    "fanatec clubsport handbrake v2": {
+      "query": "Fanatec ClubSport Handbrake V2",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.382Z"
+    },
+    "sim lab xb1 handbrake": {
+      "query": "Sim-Lab XB1 handbrake",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.383Z"
+    },
+    "cube controls gt pro": {
+      "query": "Cube Controls GT Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.383Z"
+    },
+    "fanatec clubsport dd plus wheel base": {
+      "query": "Fanatec ClubSport DD Plus wheel base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.384Z"
+    },
+    "moza r5 bundle": {
+      "query": "MOZA R5 bundle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.384Z"
+    },
+    "govee rgbic gaming light bars": {
+      "query": "Govee RGBIC Gaming Light Bars",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.560Z"
+    },
+    "sim lab p1 x pro": {
+      "query": "Sim-Lab P1-X Pro",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.561Z"
+    },
+    "sabrent 10 port powered usb hub": {
+      "query": "Sabrent 10 Port Powered USB Hub",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.562Z"
+    },
+    "winwing ursa minor space joystick": {
+      "query": "WinWing Ursa Minor Space joystick",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.562Z"
+    },
+    "moza sgp shifter": {
+      "query": "MOZA SGP shifter",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.583Z"
+    },
+    "steelseries arctis nova 7 wireless": {
+      "query": "SteelSeries Arctis Nova 7 Wireless",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.583Z"
+    },
+    "fanatec clubsport shifter sq": {
+      "query": "Fanatec ClubSport Shifter SQ",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.583Z"
+    },
+    "thrustmaster th8a shifter": {
+      "query": "Thrustmaster TH8A shifter",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.590Z"
+    },
+    "logitech g x56 hotas": {
+      "query": "Logitech G X56 HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.731Z"
+    },
+    "thrustmaster t 16000m fcs hotas": {
+      "query": "Thrustmaster T.16000M FCS HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.731Z"
+    },
+    "thrustmaster t 16000m fcs space sim duo": {
+      "query": "Thrustmaster T.16000M FCS Space Sim Duo",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.731Z"
+    },
+    "vkb stecs throttle standard": {
+      "query": "VKB STECS Throttle Standard",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.731Z"
+    },
+    "vkb gladiator nxt evo space combat": {
+      "query": "VKB Gladiator NXT EVO Space Combat",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.737Z"
+    },
+    "logitech x52 hotas": {
+      "query": "Logitech X52 HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.737Z"
+    },
+    "monstertech joystick table mount": {
+      "query": "Monstertech joystick table mount",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.737Z"
+    },
+    "vkb gunfighter mk iv base": {
+      "query": "VKB Gunfighter Mk IV base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.753Z"
+    },
+    "thrustmaster hotas warthog dual throttle": {
+      "query": "Thrustmaster HOTAS Warthog Dual Throttle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.913Z"
+    },
+    "vkb stecs mk ii standard": {
+      "query": "VKB STECS Mk.II Standard",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.914Z"
+    },
+    "virpil warbrd d base": {
+      "query": "Virpil WarBRD-D base",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.914Z"
+    },
+    "winwing orion 2 hotas f 16ex": {
+      "query": "WinWing Orion 2 HOTAS F-16EX",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.922Z"
+    },
+    "virpil mongoost 50cm3 throttle": {
+      "query": "Virpil MongoosT-50CM3 Throttle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.922Z"
+    },
+    "vkb mcg pro grip": {
+      "query": "VKB MCG Pro grip",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.923Z"
+    },
+    "thrustmaster mfd cougar pack": {
+      "query": "Thrustmaster MFD Cougar Pack",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.923Z"
+    },
+    "logitech x56 hotas": {
+      "query": "Logitech X56 HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:33.948Z"
+    },
+    "naturalpoint trackir 5": {
+      "query": "NaturalPoint TrackIR 5",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.052Z"
+    },
+    "vkb gunfighter mk iv": {
+      "query": "VKB Gunfighter Mk IV",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.092Z"
+    },
+    "virpil constellation alpha prime": {
+      "query": "Virpil Constellation Alpha Prime",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "vkb gladiator nxt evo omni throttle": {
+      "query": "VKB Gladiator NXT EVO Omni-Throttle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "vkb gladiator nxt evo space combat edition": {
+      "query": "VKB Gladiator NXT EVO Space Combat Edition",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "leo bodnar bbi 32 button box interface": {
+      "query": "Leo Bodnar BBI-32 button box interface",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "vkb gladiator omni throttle": {
+      "query": "VKB Gladiator Omni Throttle",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "joystick desk mount hosas": {
+      "query": "joystick desk mount HOSAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.113Z"
+    },
+    "arduino pro micro leonardo": {
+      "query": "Arduino Pro Micro Leonardo",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.206Z"
+    },
+    "turtle beach velocityone flightdeck": {
+      "query": "Turtle Beach VelocityOne FlightDeck",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.248Z"
+    },
+    "thrustmaster sol r 2 hosas": {
+      "query": "Thrustmaster SOL-R 2 HOSAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.267Z"
+    },
+    "thrustmaster sol r 4 hotas": {
+      "query": "Thrustmaster SOL-R 4 HOTAS",
+      "asin": "",
+      "title": "",
+      "status": 200,
+      "error": "no confident asin found",
+      "candidates": [],
+      "resolvedAt": "2026-07-11T19:04:34.267Z"
+    }
+  },
+  "asins": {}
+}

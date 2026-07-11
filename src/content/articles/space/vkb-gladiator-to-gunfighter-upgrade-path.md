@@ -74,7 +74,7 @@ The one task you can't skip here is mounting. Two sticks with a light, compact b
     <span class="gp-price">~$119 Standard / ~$139 Premium per stick (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -101,7 +101,7 @@ The [Gladiator NXT EVO Omni-Throttle](/space/gear/vkb-gladiator-nxt-evo-omni-thr
     <span class="gp-price">~$149 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Omni-Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -125,7 +125,7 @@ Done that way, the climb is genuinely incremental: one Gunfighter base under the
     <span class="gp-price">~$289 base only, grip separate (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -147,7 +147,7 @@ This rung is unapologetically for enthusiasts. It's a want. The performance delt
     <span class="gp-price">~$136 grip only (Ultimate ~$234) (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-mcg-pro-grip">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+MCG+Pro+grip&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -181,7 +181,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
     <span class="gp-price">~$100 each, buy two for a HOSAS (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -197,7 +197,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
     <span class="gp-price">~$250 (15-key MK.2 ~$150) (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -225,7 +225,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
     <span class="gp-eyebrow">The sticks · buy one L + one R</span>
     <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
     <p class="gp-why">The foundation of the whole ladder and, for most pilots, the finish line. Magnetic sensors, twist, dedicated L/R hands, and a clean path up the VKB ecosystem you never have to take.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -235,7 +235,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. The difference between precise aiming and chasing a stick across your desk.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -245,7 +245,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames 200-plus binds with labeled keys and folders. Brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

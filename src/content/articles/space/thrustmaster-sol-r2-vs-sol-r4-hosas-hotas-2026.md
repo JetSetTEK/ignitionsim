@@ -98,7 +98,7 @@ That is the dream. The practical read: SOL-R 2 gives new space pilots a visible,
     <span class="gp-price">~$300-400 street/MSRP range; verify live price</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+SOL-R+2+HOSAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -128,7 +128,7 @@ The tradeoff is blunt: **SOL-R 4 is less space-native.** A throttle can control 
     <span class="gp-price">~$350-450 street/MSRP range; verify live price</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+SOL-R+4+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -158,7 +158,7 @@ The key correction: **FlightDeck is PC-only.** Do not confuse it with other Velo
     <span class="gp-price">~$400 MSRP; sales vary</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+FlightDeck&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -256,7 +256,7 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
     <p class="gp-why">Best SOL-R pick for Star Citizen combat, six-axis control, and pilots who want the spaceship left hand instead of a throttle.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Read spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+SOL-R+2+HOSAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Amazon search</a>
+
     </span>
   </div>
 </aside>
@@ -269,7 +269,7 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
     <p class="gp-why">Best SOL-R pick if Elite Dangerous, DCS, MSFS, and throttle-first flying matter as much as space combat.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Read spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+SOL-R+4+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Amazon search</a>
+
     </span>
   </div>
 </aside>
@@ -282,7 +282,7 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
     <p class="gp-why">The obvious SOL-R 4 rival. Consider it if the HUD/touchscreen/control-surface concept is what makes you want to sit down and fly.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Read spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+FlightDeck&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Amazon search</a>
+
     </span>
   </div>
 </aside>
@@ -295,7 +295,7 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
     <p class="gp-why">A good control set on a sliding desk base still feels cheap. Budget mounting early, especially for dual-stick HOSAS.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Read spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Amazon search</a>
+
     </span>
   </div>
 </aside>
@@ -308,7 +308,7 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
     <p class="gp-why">No stick has enough buttons for every space-sim function. A labeled macro surface is often a better third purchase than fancier springs.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Read spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Amazon search</a>
+
     </span>
   </div>
 </aside>

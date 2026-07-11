@@ -86,7 +86,7 @@ The defining trait — and the catch — is that radar sits behind the hitter an
     <span class="gp-price">~$600</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -110,7 +110,7 @@ The catch is lighting. These units capture rapid-fire images at impact, and flic
     <span class="gp-price">~$2,995 (often near $2,000 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -124,7 +124,7 @@ The catch is lighting. These units capture rapid-fire images at impact, and flic
     <span class="gp-price">~$2,499 (Circle B base)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -144,7 +144,7 @@ Fusion is the answer to "I want radar's affordability but I'm hitting indoors." 
     <span class="gp-price">~$700 (lifetime premium ~$500 extra)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -155,9 +155,9 @@ Overhead units are photometric too, but they mount above the ball for a clean, u
 
 The downward angle is excellent for club data and removes the side-clearance fuss, but it trades one constraint for another: overhead units need **9–10 feet of ceiling** for the camera throw. In an 8.5-foot basement, an overhead unit is the wrong tool — full stop. That ceiling number is non-negotiable, which is exactly why you [measure the room first](/golf/golf-simulator-room-size). (These flagships have verified spec cards on the site, but no verified product photo yet, so I am linking rather than showing them here.)
 
-- **Uneekor EYE XO2** — 3-camera overhead, 25 metrics, needs 9–10 ft ceiling. [Check Amazon ↗](https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20)
-- **Foresight Falcon** — overhead Quadrascopic, needs a 9'6" ceiling by 12x14 ft room. [Check Amazon ↗](https://www.amazon.com/s?k=Foresight+Sports+Falcon+launch+monitor&tag=ignitionsim-20)
-- **Garmin Approach R50** — side-of-tee 3-camera, built-in touchscreen, no PC needed. [Check Amazon ↗](https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20)
+- **Uneekor EYE XO2** — 3-camera overhead, 25 metrics, needs 9–10 ft ceiling. Amazon direct link pending
+- **Foresight Falcon** — overhead Quadrascopic, needs a 9'6" ceiling by 12x14 ft room. Amazon direct link pending
+- **Garmin Approach R50** — side-of-tee 3-camera, built-in touchscreen, no PC needed. Amazon direct link pending
 
 ## The Two Camera Warnings People Ignore
 

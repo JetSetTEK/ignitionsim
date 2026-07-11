@@ -12,6 +12,7 @@ import { articleMeta, isCertifiedArticle, sortNewestArticles } from '../../lib/c
 import { hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
 import { getCrewForBay, crewSlug } from '../../lib/crew';
+import { canonicalAmazonProductUrl } from '../../lib/amazon';
 
 export async function getStaticPaths() {
   return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
@@ -33,9 +34,7 @@ const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` :
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
-const buyUrl = (p: any) => p.amazonAsin
-  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
-  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
+const buyUrl = (p: any) => canonicalAmazonProductUrl(p, amazonTag);
 const gearItems = allProducts
   .filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p))
   .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0))

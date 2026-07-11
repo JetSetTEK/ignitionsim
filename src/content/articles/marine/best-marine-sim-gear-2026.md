@@ -65,7 +65,7 @@ This is why glue software is part of nearly every serious marine rig. Tools like
 
 The cheapest path to real lever-style engine control is a flight quadrant, and dollar-for-dollar it adds more marine feel than anything else in the bay. The **Saitek / Logitech Pro Flight Throttle Quadrant** (~$50–$70) gives you three analog levers that map cleanly to twin throttles plus a bow thruster, with base rocker switches for quick commands, and the quadrants daisy-chain when three levers aren't enough. The honest caveats: the levers are short and lightly sprung, nothing like a real engine-order telegraph, and they only do anything in sims that read analog throttle input. I don't have a verified marine-context photo of this unit, so it's a link rather than a picture.
 
-Check current pricing: [Saitek Pro Flight Throttle Quadrant on Amazon](https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20) (rel="sponsored nofollow noopener").
+Check current pricing: Saitek Pro Flight Throttle Quadrant on Amazon (rel="sponsored nofollow noopener").
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -85,7 +85,7 @@ If you run single-screw vessels and want one smooth, high-resolution engine leve
     <span class="gp-price">~$130</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TWCS+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -103,7 +103,7 @@ For sims that expose a true rudder axis rather than a wheel — like the upcomin
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -112,13 +112,13 @@ For sims that expose a true rudder axis rather than a wheel — like the upcomin
 
 Since there's no boat wheel, the community's default helm is a racing wheel. The **Logitech G29** is the value answer: a 900-degree leather-rimmed wheel that reads convincingly as a helm, standard around $300 but frequently ~$200 on sale and cheaper still secondhand thanks to the flooded sim-racing market. Here's the money-saving detail: the pricier **G923's** headline TrueForce force feedback is *completely wasted* in marine sims, because marine titles almost never support FFB and a car wheel doesn't replicate a boat wheel's feel anyway. If FFB is the only reason you were eyeing the G923 over the cheaper G29, don't bother — for boats, that premium buys nothing. Buy the G29, confirm your sim reads an analog steering axis first, and pocket the difference. I cover the whole racing-wheel-as-helm question in [Can a Racing Wheel Be a Boat Helm?](/marine/racing-wheel-boat-helm)
 
-Prices move constantly on these — check current before you buy: [Logitech G29 on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20) · [Logitech G923 on Amazon](https://www.amazon.com/s?k=Logitech+G+G923+Racing+Wheel&tag=ignitionsim-20) (both rel="sponsored nofollow noopener").
+Prices move constantly on these — check current before you buy: Logitech G29 and Logitech G923 through verified direct listings.
 
 ## Best DIY: the Leo Bodnar board (the real native ecosystem)
 
 Here's the twist that makes marine sim different from every other bay: its most "native" hardware isn't sold — it's built. **Bridge Command**, a free open-source ship-handling sim, publishes an official how-to for building your own wheel and throttles from a **Leo Bodnar BU0836** USB board and three **10k linear potentiometers**, with a string-friction trick so the throttle levers hold position like a real engine control. That is the closest thing the niche has to a hardware spec, and it's entirely homemade. If you're going to build anything, [start with the Bridge Command throttle build](/marine/diy-bridge-command-throttle).
 
-The classic guide points at the solder-it-yourself **BU0836A** (~$42, if you're comfortable with a soldering iron — text and link only, since I don't have a verified photo of that exact board: [BU0836A on Amazon](https://www.amazon.com/s?k=Leo+Bodnar+BU0836A&tag=ignitionsim-20), rel="sponsored nofollow noopener"). The one I *can* show you is the **BU0836X** below — the same Leo Bodnar interface with solderless push-in terminals (£59.99 direct, ~$77 before shipping), the friendlier version of the same recipe. Its 8 analog axes and 32 buttons cover twin throttles, wheel, thruster and a panel on one board.
+The classic guide points at the solder-it-yourself **BU0836A** (~$42, if you're comfortable with a soldering iron — text and link only, since I don't have a verified photo of that exact board: BU0836A on Amazon, rel="sponsored nofollow noopener"). The one I *can* show you is the **BU0836X** below — the same Leo Bodnar interface with solderless push-in terminals (£59.99 direct, ~$77 before shipping), the friendlier version of the same recipe. Its 8 analog axes and 32 buttons cover twin throttles, wheel, thruster and a panel on one board.
 
 <aside class="gearpick">
   <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">DIY helm board (no solder)</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
@@ -161,7 +161,7 @@ If you'd rather code your own logic — software detents, button matrices, a com
     <span class="gp-price">~$25</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -184,7 +184,7 @@ If DIY isn't your thing, a **PXN CB1** is a finished, plug-and-play button box (
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+Button+Box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -202,7 +202,7 @@ VR is the one path that sidesteps the entire hardware problem. On a **Meta Quest
     <span class="gp-price">~$499 (Quest 3S from ~$329)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -220,7 +220,7 @@ One genuine crossover repurpose deserves a mention. The **RailDriver** (~$220 �
     <span class="gp-price">~$220</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=RailDriver+Desktop+Train+Cab+Controller&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

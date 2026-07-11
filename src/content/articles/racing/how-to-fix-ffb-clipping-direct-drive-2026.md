@@ -127,7 +127,7 @@ Fix the tuning first, always. But if you've confirmed you're truly out of headro
     <span class="gp-price">~$429 (12Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

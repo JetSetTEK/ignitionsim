@@ -93,7 +93,7 @@ The catch is geometry. An ultrawide is still one screen. It can wrap your vision
     <span class="gp-price">Premium ultrawide tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -117,7 +117,7 @@ Why? True side visibility. In iRacing, ACC, Le Mans Ultimate, and other sims tha
     <span class="gp-price">Multiply by three</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asus-tuf-vg27aq">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ASUS+TUF+VG27AQ&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -141,7 +141,7 @@ But VR is also the most personal choice. Some racers feel amazing. Some feel sic
     <span class="gp-price">Mainstream VR tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -155,7 +155,7 @@ But VR is also the most personal choice. Some racers feel amazing. Some feel sic
     <span class="gp-price">High-clarity PCVR tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Light+VR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -189,7 +189,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
     <span class="gp-eyebrow">Best single-display upgrade</span>
     <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The premium one-screen answer for racers who want a cockpit-filling display without triple alignment.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -199,7 +199,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
     <span class="gp-eyebrow">Buy three for triples</span>
     <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF Gaming VG27AQ</a></span>
     <p class="gp-why">A sensible 27-inch 1440p candidate for real triple-monitor rigs.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=ASUS+TUF+VG27AQ&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -209,7 +209,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
     <span class="gp-eyebrow">Best mainstream VR gateway</span>
     <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The safer first VR buy because it is widely supported, widely sold, and useful beyond sim racing.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -219,7 +219,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
     <span class="gp-eyebrow">Best next VR step</span>
     <span class="gp-name"><a href="/racing/gear/pimax-crystal-light">Pimax Crystal Light</a></span>
     <p class="gp-why">The clearer PCVR path for racers already sold on VR and ready to feed it a serious GPU.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Light+VR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

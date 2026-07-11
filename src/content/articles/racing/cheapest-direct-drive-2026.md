@@ -73,7 +73,7 @@ The **[MOZA R3](/racing/gear/moza-r3-xbox-bundle)** trades a little torque (3.9N
     <span class="gp-price">~$319 on sale (3.9Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+bundle+Xbox&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -98,7 +98,7 @@ The deeper reason it wins the budget conversation is the ladder behind it. Buy a
     <span class="gp-price">~$429 (12Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ The value-minded PlayStation alternative is the [Thrustmaster T598](/racing/gear
     <span class="gp-price">$700 (5Nm) / $850 (8Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -137,14 +137,14 @@ The value-minded PlayStation alternative is the [Thrustmaster T598](/racing/gear
     <span class="gp-price">~$400-500 bundle · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
 
 ## The Fanatec wildcard: CSL DD
 
-The [Fanatec CSL DD](/racing/gear/fanatec-csl-dd) is the odd one out on this list because it's a base, not a bundle. At around $350 for the base alone you'll spend more by the time you add a wheel and pedals (the Ready2Race bundles start near $600), but you get 5Nm on the stock supply and **8Nm with the optional Boost Kit 180**, plus native **Xbox** support and entry into the most mature accessory catalog in the hobby. It's the pick if your real plan is a Fanatec ecosystem and you just want to start at the bottom of it. Just budget honestly: a complete CSL DD setup costs more than the cheapest MOZA or Cammus bundle, and the QR2 quick release disables force feedback on non-Fanatec rims unless you add a Podium Hub, the classic lock-in tax. (We don't have a verified in-house photo of the CSL DD base yet, so it's text-only here; the [Amazon listing](https://www.amazon.com/s?k=Fanatec+CSL+DD&tag=ignitionsim-20) has current images.)
+The [Fanatec CSL DD](/racing/gear/fanatec-csl-dd) is the odd one out on this list because it's a base, not a bundle. At around $350 for the base alone you'll spend more by the time you add a wheel and pedals (the Ready2Race bundles start near $600), but you get 5Nm on the stock supply and **8Nm with the optional Boost Kit 180**, plus native **Xbox** support and entry into the most mature accessory catalog in the hobby. It's the pick if your real plan is a Fanatec ecosystem and you just want to start at the bottom of it. Just budget honestly: a complete CSL DD setup costs more than the cheapest MOZA or Cammus bundle, and the QR2 quick release disables force feedback on non-Fanatec rims unless you add a Podium Hub, the classic lock-in tax. (We don't have a verified in-house photo of the CSL DD base yet, so it's text-only here; the Amazon listing has current images.)
 
 ## What you actually give up at the bottom
 
@@ -192,7 +192,7 @@ If you're genuinely **testing whether sim racing sticks**, buy the floor, a Camm
     <span class="gp-eyebrow">Value sweet spot, PC</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">Only ~$110 more than the cheapest bundle and the base you never outgrow. 12Nm, best software, real ladder. Add a load-cell brake and a rigid mount and you're done for years.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -202,7 +202,7 @@ If you're genuinely **testing whether sim racing sticks**, buy the floor, a Camm
     <span class="gp-eyebrow">Cheapest credible bundle, Xbox + PC</span>
     <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
     <p class="gp-why">The right floor for a tight budget or a toe in the water: real direct drive, complete kit, Xbox support, and the first rung of a ladder so nothing's stranded if you climb. On PC-only budgets, the Cammus C5 goes even cheaper.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+bundle+Xbox&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

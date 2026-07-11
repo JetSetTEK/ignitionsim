@@ -68,7 +68,7 @@ The floor is genuinely low now. The **Cammus C5** hides its 5Nm motor inside the
     <span class="gp-price">~$319-399 (sale-dependent) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Racing+Bundle+Xbox&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -82,7 +82,7 @@ The floor is genuinely low now. The **Cammus C5** hides its 5Nm motor inside the
     <span class="gp-price">~$499 bundle · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -117,7 +117,7 @@ Read that table once and the marketing arms race dissolves. The reason brands se
     <span class="gp-price">~$429 (9Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R9+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -131,7 +131,7 @@ Read that table once and the marketing arms race dissolves. The reason brands se
     <span class="gp-price">~$399-429 (12Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -151,7 +151,7 @@ The step-up PlayStation base is the **Fanatec ClubSport DD+** (15Nm sustained), 
     <span class="gp-price">8Nm bundle · check current pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -165,7 +165,7 @@ The step-up PlayStation base is the **Fanatec ClubSport DD+** (15Nm sustained), 
     <span class="gp-price">~$999 base · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD+plus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -185,7 +185,7 @@ The detail you feel — the texture of the asphalt, the tiny corrections as the 
     <span class="gp-price">~$699 (18Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -208,7 +208,7 @@ Past the sweet spot, you're not buying grip — you're buying slew rate, encoder
     <span class="gp-price">~$1,199 (17Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-2-sport">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+2+Sport+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -222,7 +222,7 @@ Past the sweet spot, you're not buying grip — you're buying slew rate, encoder
     <span class="gp-price">~$1,199 (18Nm) · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asetek-forte">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Asetek+Forte+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -236,7 +236,7 @@ Past the sweet spot, you're not buying grip — you're buying slew rate, encoder
 
 | Base | ~Price | Torque | Platform | Verdict |
 |------|--------|--------|----------|---------|
-| [Cammus C5](https://www.amazon.com/s?k=Cammus+C5+direct+drive&tag=ignitionsim-20) | ~$299-328 | 5Nm | PC | Cheapest real DD, integrated motor |
+| Cammus C5 | ~$299-328 | 5Nm | PC | Cheapest real DD, integrated motor |
 | [MOZA R3 Bundle](/racing/gear/moza-r3-xbox-bundle) | ~$319-399 | 3.9Nm | Xbox + PC | Cheapest Xbox DD, complete kit |
 | [Thrustmaster T598](/racing/gear/thrustmaster-t598) | ~$499 | 5Nm | PS5 / PS4 / PC | PlayStation entry DD bundle |
 | [MOZA R9](/racing/gear/moza-r9) | ~$429 | 9Nm | PC | Enthusiast-band starting point |
@@ -284,7 +284,7 @@ For everyone else — anyone who races leagues, chases consistency, or just want
     <span class="gp-eyebrow">Best sweet-spot PC base</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">The right base for nine out of ten PC racers who can stretch to it. Sweet-spot 12Nm, best-in-class software, real upgrade ladder. Add a load-cell pedal set and a rigid mount and you're done. If money's tight, a 5Nm Cammus C5 or MOZA R3 gets you real DD and frees cash for pedals.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -294,7 +294,7 @@ For everyone else — anyone who races leagues, chases consistency, or just want
     <span class="gp-eyebrow">Best PlayStation base</span>
     <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: Gran Turismo licensed, complete bundle, deep ecosystem, 8Nm that's plenty to feel the car. Buy it on a Fanatec sale and don't look back. Want more headroom later? The ClubSport DD+ is the 15Nm PS5 step-up.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -308,6 +308,6 @@ Source review date: July 2, 2026. We checked official product pages and current 
 
 Official pages: [MOZA R12 V2 (12Nm, 21-bit, NexGen 4.0)](https://mozaracing.com/products/r12-wheelbase), [MOZA R5 bundle (5.5Nm)](https://us.mozaracing.com/products/r5-racing-bundle), [MOZA R3 Xbox bundle (3.9Nm)](https://us.mozaracing.com/products/r3-racing-bundle-pc), [Cammus C5 (integrated 5Nm)](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/).
 
-Pricing + specs: [Fanatec CSL DD QR2 8Nm bundle + Boost Kit 180 (fanatec.com)](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_us/csl-dd-qr2-ready2race-bundle-pc-8-nm-us), [Cammus C5 bundle (Amazon)](https://www.amazon.com/Simulator-Technology-Wheelbase-Construction-Cloud-based-Desktop/dp/B0CSGD9T7L).
+Pricing + specs: [Fanatec CSL DD QR2 8Nm bundle + Boost Kit 180 (fanatec.com)](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_us/csl-dd-qr2-ready2race-bundle-pc-8-nm-us), [Cammus C5 bundle (Amazon)](https://www.amazon.com/dp/B0CSGD9T7L?tag=ignitionsim-20).
 
 DD-vs-belt + torque-need reads (paraphrased in our voice): [Direct drive vs belt vs gear drive (SimRacingGearGuide — 2-3/4-6/6-30+Nm, price parity)](https://www.simracinggearguide.com/wheels/direct-drive-vs-belt-driven/), [Direct drive vs belt vs gear (Racing Rig Guide)](https://racingrigguide.com/blog/direct-drive-vs-belt-drive-vs-gear-drive), [How much torque do you need (Apex Sim Racing)](https://www.apexsimracing.com/blogs/sim-racing-blog/how-much-torque), [How much DD torque: 5 vs 8 vs 12 vs 20Nm (SimXPro)](https://simxpro.com/en-us/blogs/guides/how-much-direct-drive-torque-do-you-really-need-5nm-vs-8nm-vs-12nm-vs-20nm), and the recurring [r/simracing](https://www.reddit.com/r/simracing/) torque-headroom and pedals-over-power threads.

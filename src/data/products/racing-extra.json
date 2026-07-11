@@ -406,8 +406,8 @@
       }
     ],
     "affiliate": {
-      "primary": "MOZA direct / Amazon search",
-      "note": "Sold through MOZA and specialty sim retailers; use Amazon search when available."
+      "primary": "MOZA direct / Amazon direct when verified",
+      "note": "Sold through MOZA and specialty sim retailers; use Amazon only when the exact product ASIN is verified."
     },
     "platforms": "PC"
   },
@@ -646,7 +646,7 @@
       }
     ],
     "affiliate": {
-      "primary": "Fanatec direct / Amazon search",
+      "primary": "Fanatec direct / Amazon direct when verified",
       "note": "Sold through Fanatec and some retailer channels; verify bundle and platform before buying."
     },
     "platforms": "PS5 / PS4 / PC / Xbox with compatible wheel"
@@ -790,7 +790,7 @@
       }
     ],
     "affiliate": {
-      "primary": "Pimax direct / Amazon search",
+      "primary": "Pimax direct / Amazon direct when verified",
       "note": "Sold through Pimax and occasionally Amazon; check the exact package and payment terms."
     },
     "platforms": "PC"
@@ -842,7 +842,7 @@
       }
     ],
     "amazonAsin": "B0D1VYPWLH",
-    "affiliateUrl": "https://www.amazon.com/dp/B0D1VYPWLH/?tag=ignitionsim-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20",
     "verdict": "Buy it if your sim room already works and you care about physical games: the VS-R is a genuinely cool cartridge side station for a digital-heavy room.",
     "sourceUrl": "https://evercade.co.uk/new-hardware-new-lower-price-introducing-evercade-exp-r-and-evercade-vs-r/",
     "type": "retro side station",

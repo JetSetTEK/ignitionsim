@@ -27,7 +27,7 @@ Read these first:
 - Do not use AI-generated images to represent real hardware, game UI, telemetry, launch-monitor screens, dashboards, cockpit displays, button labels, or product details.
 - Do not fabricate prices, review counts, star ratings, dimensions, release dates, compatibility, firmware claims, stock status, or forum sentiment.
 - Paraphrase community wisdom. Use short direct quotes only when necessary and cite them.
-- If Amazon does not clearly show the correct product, use an Amazon search link with `tag=ignitionsim-20` and flag it for exact-ASIN follow-up.
+- If Amazon does not clearly show the correct product, do **not** create an Amazon CTA. Use the official/vendor URL and flag the item for exact-ASIN follow-up. Search-result Amazon links never ship.
 - If a claim needs re-checking, mark it as unresolved rather than smoothing it over.
 
 ## Run Structure
@@ -60,7 +60,7 @@ Each JSON entry:
       "notes": "Clean white-background product shot / install photo / use photo"
     }
   ],
-  "amazonUrl": "https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20",
+  "amazonDirectUrl": "https://www.amazon.com/dp/ASIN?tag=ignitionsim-20 or blank until verified",
   "blocksArticles": ["force-feedback-yoke-worth-it", "best-flight-sim-hardware-2026"],
   "confidence": "high | medium | low",
   "needsCodexVerification": true

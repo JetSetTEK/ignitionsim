@@ -72,7 +72,7 @@ The one drawback across the whole VKB line is software depth. VKBDevCfg is power
     <span class="gp-price">~$119 Standard / ~$139 Premium</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -86,7 +86,7 @@ The one drawback across the whole VKB line is software depth. VKBDevCfg is power
     <span class="gp-price">~$289 base only (grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -113,7 +113,7 @@ The downside of the whole ecosystem is cost and availability. Virpil can be wort
     <span class="gp-price">~$260 base only (~$234 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/virpil-warbrd-d-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Virpil+WarBRD-D+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -131,14 +131,14 @@ The trade-offs are real. The gimbal leans on glass-fiber-reinforced nylon rather
 
 The quiet advantage: **WinWing is the easiest of the three to actually buy.** Where VKB grips and Virpil bases routinely sell out and restock in waves, the Ursa Minor Space shows up in stock at Micro Center and Amazon. When the "best" boutique stick is out of stock for six weeks, the one you can order today wins.
 
-**Honest photo gap:** WinWing is a headline brand in this comparison, but we don't yet have any verified in-house product photos of the Ursa Minor Space, Orion 2 base, or Orion 2 HOTAS. Rather than embed an unverified image, we're keeping all WinWing hardware text-only here and linking you to real sources below. Buy links go to Amazon search; confirm layout, handedness, and current price before checkout.
+**Honest photo gap:** WinWing is a headline brand in this comparison, but we don't yet have any verified in-house product photos of the Ursa Minor Space, Orion 2 base, or Orion 2 HOTAS. Rather than embed an unverified image, we're keeping all WinWing hardware text-only here and linking you to real sources below. Marketplace links are withheld until the exact ASIN is verified; confirm layout, handedness, and current price before checkout.
 
 <div class="callout tip">
   <div class="ct">// Where to see WinWing before you buy</div>
   <p>Because we don't have verified WinWing photos in-house yet, cross-shop these instead: the official <a href="https://winwingsim.com/" target="_blank" rel="noopener">WinWing US store</a> product gallery, in-stock listings at <a href="https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l" target="_blank" rel="noopener">Micro Center</a>, and independent hands-on reviews. Then buy the variant whose physical controls match your binding plan — the right stick is the one whose hats and mini-stick fit your hand, not the one with the biggest feature list.</p>
 </div>
 
-Amazon search for the Ursa Minor Space: [WinWing Ursa Minor Space joystick](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — verify it's the Space (twist) variant, not the Fighter.
+the Ursa Minor Space: WinWing Ursa Minor Space joystick — verify it's the Space (twist) variant, not the Fighter.
 
 ## The three problems nobody warns you about
 
@@ -168,7 +168,7 @@ Buying the stick is the easy part. Three things trip up new HOSAS pilots more th
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -186,7 +186,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -218,7 +218,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
     <span class="gp-eyebrow">The sticks · buy one L + one R</span>
     <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
     <p class="gp-why">The right first HOSAS for most pilots. Magnetic sensors, twist, and a clean upgrade path. If VKB is out of stock, the WinWing Ursa Minor Space is the in-stock alternative at a similar price.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -228,7 +228,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -238,7 +238,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames 200-plus binds with labeled keys and folders. Brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

@@ -80,7 +80,7 @@ It is not the strongest. It is not the most premium. But as a PS5/PS4/PC bundle,
     <span class="gp-price">Around $499 bundle class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -100,7 +100,7 @@ The warning is upgrade gravity. If you already know you want load-cell pedals, a
     <span class="gp-price">Often around $319-$399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -120,7 +120,7 @@ The only thing to watch is compatibility language. The RS50 ecosystem has PC, Pl
     <span class="gp-price">Around $499 bundle class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -140,7 +140,7 @@ Why still buy it? Fanatec ecosystem depth. Wheels, pedals, shifters, QR2, used-m
     <span class="gp-price">5 Nm / 8 Nm paths</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -165,7 +165,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <p class="gp-why">The serious PlayStation base when GT DD Pro feels too soft and you want Fanatec's deep wheel and pedal ecosystem behind the purchase.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD%2B&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -178,7 +178,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <p class="gp-why">The PlayStation-first serious rig base. Strong enough that cockpit rigidity, pedals, and seating matter more than the next torque number.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD%2B&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -207,7 +207,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <span class="gp-eyebrow">Best budget Xbox DD</span>
     <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
     <p class="gp-why">Buy if Xbox is the platform and price matters more than torque headroom.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -217,7 +217,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <span class="gp-eyebrow">Best affordable PS DD bundle</span>
     <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
     <p class="gp-why">The PlayStation/PC bundle to check before assuming Fanatec is the only value option.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -227,7 +227,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <span class="gp-eyebrow">Best budget Xbox DD</span>
     <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
     <p class="gp-why">The cleanest Xbox entry when you want real direct-drive feel without forcing a premium cockpit and pedal upgrade on day one.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R3+Xbox+Bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -237,7 +237,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
     <span class="gp-eyebrow">Best established PS ecosystem pick</span>
     <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">Still a very good answer when Fanatec's wheel/pedal ecosystem is part of your long-term plan.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

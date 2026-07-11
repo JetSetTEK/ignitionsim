@@ -79,7 +79,7 @@ Two costs to know, and one compatibility asterisk. It runs about **$250/year**, 
     <span class="gp-price">~$2,995 (frequently near $2,000)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -99,7 +99,7 @@ The cost story has two branches. Classic **E6 Connect** subscriptions run about 
     <span class="gp-price">~$1,299 base (loaded ~$2,274)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=FlightScope+Mevo+Gen+2+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -125,7 +125,7 @@ The cost model is the whole decision here. On a straight **GC3, FSX Play and 25 
     <span class="gp-price">~$699 (premium sub ~$500 lifetime option)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

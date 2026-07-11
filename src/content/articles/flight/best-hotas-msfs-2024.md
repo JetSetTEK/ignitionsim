@@ -75,7 +75,7 @@ The **Thrustmaster T.Flight HOTAS One** is the floor. It's plastic, the throttle
 
 This tier has no verified studio photo on file, so it's text-and-link only here:
 
-- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+T.Flight+HOTAS+One+MSFS+Edition&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ### Budget precision — the smart-money pick
 
@@ -83,7 +83,7 @@ The **[VKB Gladiator NXT EVO](https://vkbsimcontrollers.com/collections/gladiato
 
 VKB sells direct rather than through a verified studio photo on our side, so the Gladiator is text-and-link only:
 
-- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149, [buy direct from VKB](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks){:target="_blank" rel="nofollow noopener"} or [check Amazon](https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149, [buy direct from VKB](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <aside class="gearpick">
 
@@ -95,7 +95,7 @@ VKB sells direct rather than through a verified studio photo on our side, so the
     <span class="gp-price">~$100</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -115,7 +115,7 @@ If you mainly fly the Fenix A320, the cleanest stick-first answer isn't a combat
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -137,7 +137,7 @@ Don't confuse it with its bigger sibling. The **VelocityOne Flightdeck** (~$400;
     <span class="gp-price">~$110 · MSRP $129.99</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -149,8 +149,8 @@ The **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** is
 
 The **WinWing Orion 2** is the modular answer: a Hall-effect base (joystick base from ~$390; full F-16-style HOTAS sets climb past $1,100) with swappable grips, so one base can serve a fighter today and a different airframe tomorrow, configured through WinWing's SimApp Pro. Both the Warthog and the Orion 2 are cockpit-builder territory, not first buys — and neither has a verified studio photo on file, so both are text-and-link only:
 
-- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current), [check Amazon](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets), [buy from WinWing/WinCTRL](https://winctrl.com/){:target="_blank" rel="nofollow noopener"} or [check Amazon](https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets), [buy from WinWing/WinCTRL](https://winctrl.com/){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## What the community says
 
@@ -168,7 +168,7 @@ For pairing a stick with head movement, note that a HOTAS frees both hands — w
     <span class="gp-price">~$170 (TrackClip PRO bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -209,7 +209,7 @@ Skip a HOTAS entirely if you fly **only GA and airliners** — your money is bet
     <span class="gp-eyebrow">The throttle half a stick is missing</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
     <p class="gp-why">The VKB Gladiator's natural partner and the cheapest authentic detented quadrant. Contactless sensors, real Airbus gates, and detents you can disable for non-Airbus flying. Around $100 turns a bare stick into a real HOTAS.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -221,7 +221,7 @@ Skip a HOTAS entirely if you fly **only GA and airliners** — your money is bet
     <span class="gp-eyebrow">The console all-in-one</span>
     <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
     <p class="gp-why">The one device that gets an Xbox flyer airborne with no extra gear: Hall-effect axes, 27 buttons, an OLED HUD and a twist rudder, all licensed for console. Plug-and-play binding is the bonus.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flight+Stick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>

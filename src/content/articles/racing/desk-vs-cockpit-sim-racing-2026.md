@@ -68,7 +68,7 @@ The clamp that ships free with most entry bases is a real, legitimate mount — 
     <span class="gp-price">Free with most entry bases</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/desk-clamp">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=sim+racing+wheel+desk+clamp&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -97,7 +97,7 @@ When your base clears the stand's comfort zone — or you simply want to sit pro
     <span class="gp-price">~$389</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -113,7 +113,7 @@ The mid-tier step within this rung adds features rather than raw stiffness. A ri
     <span class="gp-price">~$699</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+GT+Track&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -133,7 +133,7 @@ Profile size is the spec that matters here, and it scales with torque. Mid-range
     <span class="gp-price">~$829 (frame)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sim-Lab+P1-X+aluminum+profile+rig&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -149,7 +149,7 @@ The value entry to this rung is the **Trak Racer TR80** (~$499–$699 frame-only
     <span class="gp-price">~$499–$699 (frame)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -216,7 +216,7 @@ If you're on a gamepad, a belt wheel, or a sub-5Nm entry bundle, **do not** rush
     <span class="gp-eyebrow">Best value seated cockpit</span>
     <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
     <p class="gp-why">The right mount for most racers running a 5–12Nm base who want to sit properly. Seat in the box, big rigidity jump over a stand, friendly price. If you rent or need to stash it, a folding Next Level Racing Wheel Stand 2.0 (~$279) is the space-saving alternative for entry torque.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -226,7 +226,7 @@ If you're on a gamepad, a belt wheel, or a sub-5Nm entry bundle, **do not** rush
     <span class="gp-eyebrow">Best-value future-proof 8020</span>
     <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">If you're at 15Nm-plus or you want a frame you never replace, this is the value 8020 entry: 80mm profile, flagship-torque rigidity, roughly the price of a feature-rich steel cockpit. Step up to the Sim-Lab P1-X Pro's 120/160mm profile if you're running a 25Nm flagship.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

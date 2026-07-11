@@ -75,7 +75,7 @@ On a tighter budget, the [Logitech G PRO Flight Yoke System](/flight/gear/logite
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -95,7 +95,7 @@ Fly the Fenix A320 and the answer on rung one changes entirely — a yoke is the
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -115,7 +115,7 @@ Boeing pilots get the [TCA Yoke Pack Boeing Edition](/flight/gear/thrustmaster-t
     <span class="gp-price">~$500 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Yoke+Pack+Boeing+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -125,9 +125,9 @@ Boeing pilots get the [TCA Yoke Pack Boeing Edition](/flight/gear/thrustmaster-t
 
 For DCS and military sims, the [Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog) is still the build-quality benchmark — an all-metal 1:1 replica of the A-10C's stick and dual-throttle that weighs over 14 lb and feels genuinely aircraft-grade. The H.E.A.R.T magnetic stick sensor avoids drift, the five-coil spring centers firmly, and DCS community support is unmatched sixteen years after launch. It's overkill and the wrong layout for civil flying, and it has no twist rudder — so budget pedals. Current U.S. pricing runs around **$580-$600, so check current before you buy** (it's crept up from its long-standing ~$500). No verified studio photo is on file yet, so it's text-only here.
 
-The Warthog is text-and-link only below because we haven't verified an exact product photo; the Amazon search will show current listings.
+The Warthog is text-and-link only below because we haven't verified an exact product photo; we are withholding marketplace links until the exact listing is verified.
 
-- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$580-600, [check Amazon](https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$580-600, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <div class="callout tip">
 
@@ -152,7 +152,7 @@ For jet flyers, the modular alternative is the [MOZA MTQ](/flight/gear/moza-mtq-
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -168,7 +168,7 @@ For jet flyers, the modular alternative is the [MOZA MTQ](/flight/gear/moza-mtq-
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+MTQ+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -188,7 +188,7 @@ Pair the TCA Sidestick with the [TCA Quadrant Airbus Edition](/flight/gear/thrus
     <span class="gp-price">~$100</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -210,7 +210,7 @@ The budget entry is the [Logitech G Flight Rudder Pedals](/flight/gear/logitech-
     <span class="gp-price">~$350 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -218,9 +218,9 @@ The budget entry is the [Logitech G Flight Rudder Pedals](/flight/gear/logitech-
 
 The budget and combat pedals below are text-and-link only because we haven't verified their exact product photos:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry, differential toe brakes, adjustable damping, ~$180, [check Amazon](https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[VKB T-Rudder Mk.IV](/flight/gear/vkb-t-rudder-mk4)** — low-profile, no toe brakes, combat/warbird focus, ~$230, [check Amazon](https://www.amazon.com/s?k=VKB+T-Rudder+rudder+pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[Turtle Beach VelocityOne Rudder Pedals](/flight/gear/turtle-beach-velocityone-rudder-pedals)** — Xbox + PC, pendular motion, differential brakes, ~$300, [check Amazon](https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry, differential toe brakes, adjustable damping, ~$180, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[VKB T-Rudder Mk.IV](/flight/gear/vkb-t-rudder-mk4)** — low-profile, no toe brakes, combat/warbird focus, ~$230, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Turtle Beach VelocityOne Rudder Pedals](/flight/gear/turtle-beach-velocityone-rudder-pedals)** — Xbox + PC, pendular motion, differential brakes, ~$300, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## Rung 4 — Best airliner panels: WinWing MIP series
 
@@ -228,10 +228,10 @@ If you're building toward a home cockpit, WinWing's MIP-series panels are the va
 
 WinWing panels are text-and-link only here because we haven't verified their exact product photos (all confirmed via the WinWing/WinCTRL store):
 
-- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, Fenix A320, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+MCDU+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[WinWing PFP 3N (737 FMC/CDU)](/flight/gear/winwing-pfp-3n-boeing-fmc)** — backlit Boeing 737 CDU for PMDG, from ~$130, [check Amazon](https://www.amazon.com/s?k=WinWing+PFP+3N+737+CDU&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[WinWing PAP 3 (737 MCP)](/flight/gear/winwing-pap-3-mcp)** — 1:1 737 Mode Control Panel with disconnect bar, ~$150, [check Amazon](https://www.amazon.com/s?k=WinWing+PAP+3+MCP&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **[WinWing FCU + EFIS combo (A320)](/flight/gear/winwing-fcu-efis-combo-a320)** — Airbus glareshield autopilot + EFIS panels, ~$480, [check Amazon](https://www.amazon.com/s?k=WinWing+FCU+EFIS+A320&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, Fenix A320, from ~$130, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[WinWing PFP 3N (737 FMC/CDU)](/flight/gear/winwing-pfp-3n-boeing-fmc)** — backlit Boeing 737 CDU for PMDG, from ~$130, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[WinWing PAP 3 (737 MCP)](/flight/gear/winwing-pap-3-mcp)** — 1:1 737 Mode Control Panel with disconnect bar, ~$150, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[WinWing FCU + EFIS combo (A320)](/flight/gear/winwing-fcu-efis-combo-a320)** — Airbus glareshield autopilot + EFIS panels, ~$480, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <div class="callout tip">
 
@@ -256,7 +256,7 @@ The [Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5) (~$299 direct, ~$369
     <span class="gp-price">~$170 (TrackClip PRO bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -272,7 +272,7 @@ The [Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5) (~$299 direct, ~$369
     <span class="gp-price">~$299 direct · ~$369 Amazon</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -284,7 +284,7 @@ The most exciting category in years, and a special case: force feedback replaces
 
 No verified studio photo is on file for the AY210 yet, so it's text-and-link only here:
 
-- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9Nm roll / 210N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with handle), [check Amazon](https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9Nm roll / 210N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with handle), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## The 2026 flight hardware shortlist
 
@@ -340,7 +340,7 @@ No verified studio photo is on file for the AY210 yet, so it's text-and-link onl
     <span class="gp-eyebrow">Rung 1 · the GA starting point</span>
     <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha</a></span>
     <p class="gp-why">The yoke most experienced GA pilots wish they'd bought first. Add the Bravo when budget allows and the Charlie after that, and you've climbed the whole GA ladder in the right order.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -352,7 +352,7 @@ No verified studio photo is on file for the AY210 yet, so it's text-and-link onl
     <span class="gp-eyebrow">Rung 1 · the Airbus starting point</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">The best value in flight sim and the correct rung-one buy for the Fenix A320. Add the TCA Quadrant for under $200 total and you're flying a credible Airbus cockpit.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -364,7 +364,7 @@ No verified studio photo is on file for the AY210 yet, so it's text-and-link onl
     <span class="gp-eyebrow">Rung 5 · the finishing move</span>
     <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">TrackIR 5</a></span>
     <p class="gp-why">The cheapest big immersion upgrade — but only once the controls are sorted. Six-degree head movement that transforms situational awareness in every sim you own.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=TrackIR+5+TrackClip+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>

@@ -87,7 +87,7 @@ My honest recommendation for most pilots is the **32-key XL**. Fifteen keys forc
     <span class="gp-price">~$200-250 (often ~$190 on sale)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -144,14 +144,14 @@ A Stream Deck's keys are flat LCDs — no toggle switches, no covered missile-gu
     <span class="gp-price">~$90-110</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
 
-The **Leo Bodnar BBI-32** interface board is the standard heart of a wired box — credit-card-sized, solderless push-in terminals, 32 buttons and 16 encoders, recognized instantly as a USB controller. We don't have a verified in-house product photo of it, so it's text-only here; buy it direct from Leo Bodnar Electronics rather than a marketplace, and confirm you're getting the connector version (Model 1) unless you plan to solder. Check the official [Leo Bodnar BBI-32 page](https://www.leobodnar.com/products/BBI-32/) for current price and stock, or [search Amazon](https://www.amazon.com/s?k=Leo+Bodnar+BBI-32+button+box+interface&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — availability varies.
+The **Leo Bodnar BBI-32** interface board is the standard heart of a wired box — credit-card-sized, solderless push-in terminals, 32 buttons and 16 encoders, recognized instantly as a USB controller. We don't have a verified in-house product photo of it, so it's text-only here; buy it direct from Leo Bodnar Electronics rather than a marketplace, and confirm you're getting the connector version (Model 1) unless you plan to solder. Check the official [Leo Bodnar BBI-32 page](https://www.leobodnar.com/products/BBI-32/) for current price and stock, or verify marketplace availability — availability varies.
 
-For a **full DIY build**, the parts are cheap and the software is free: an [Arduino Pro Micro or Leonardo](https://www.amazon.com/s?k=Arduino+Pro+Micro+Leonardo&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> board, arcade buttons and toggles, and open Arduino joystick firmware. The [Arduino forum](https://forum.arduino.cc/) and Star Citizen community hub have step-by-step button-box guides. It's the most work and the most personal — and the only route that gets you exactly the switches, guards, and rotaries you want.
+For a **full DIY build**, the parts are cheap and the software is free: an Arduino Pro Micro or Leonardo board, arcade buttons and toggles, and open Arduino joystick firmware. The [Arduino forum](https://forum.arduino.cc/) and Star Citizen community hub have step-by-step button-box guides. It's the most work and the most personal — and the only route that gets you exactly the switches, guards, and rotaries you want.
 
 The trade-off across all three physical routes is labeling and flexibility. A physical switch is fixed — it does one thing forever, and relabeling means a sticker. A Stream Deck reconfigures in software in seconds and shows live state. For most pilots the Stream Deck's flexibility wins; for cockpit-immersion builders chasing the *feel* of switches, a physical box wins. Many serious simpits run both.
 
@@ -185,7 +185,7 @@ Buying the box is the easy part. Two things trip up new button-box pilots more t
     <span class="gp-eyebrow">The core · 32 labeled LCD keys</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The default button box for space sims. Labeled, color-coded, reactive with the free Elite and Star Citizen plugins, and folders for unlimited binds. If you want dials, drop to the 8-key Stream Deck + (~$180); if budget's tight, the 15-key MK.2 (~$150) with folder pages still works.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -195,7 +195,7 @@ Buying the box is the easy part. Two things trip up new button-box pilots more t
     <span class="gp-eyebrow">The physical layer · 48 buttons, two panels</span>
     <span class="gp-name"><a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a></span>
     <p class="gp-why">The cheapest way to add real tactile buttons framing your monitor. Plug-and-play, backlit, 48 keys for around $90-110. Pair it with the Stream Deck — the Deck runs the reactive systems layer, the Cougar handles the buttons you like to press by hand.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

@@ -65,7 +65,7 @@ But the deeper reason it wins is the ecosystem behind it. Buy an R12 and you've 
     <span class="gp-price">~$429 (12Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -85,7 +85,7 @@ Is 18Nm overkill? For most people, yes — you'll run it well below max. But the
     <span class="gp-price">~$699 (18Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -121,7 +121,7 @@ The premium console pick is the [Logitech G PRO Racing Wheel](/racing/gear/logit
     <span class="gp-price">8Nm bundle · check current pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -145,7 +145,7 @@ At the frontier, the [Asetek Forte](/racing/gear/asetek-forte) (~$1,199, 18Nm) a
     <span class="gp-price">~$899–$999 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+ClubSport+DD+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -159,7 +159,7 @@ At the frontier, the [Asetek Forte](/racing/gear/asetek-forte) (~$1,199, 18Nm) a
     <span class="gp-price">~$1,199 (17Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-2-sport">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+2+Sport+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -173,7 +173,7 @@ At the frontier, the [Asetek Forte](/racing/gear/asetek-forte) (~$1,199, 18Nm) a
     <span class="gp-price">~$1,199 (18Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asetek-forte">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Asetek+Forte+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -222,7 +222,7 @@ If you race exclusively on **PlayStation**, the MOZA R12 isn't an option — go 
     <span class="gp-eyebrow">Best overall PC base</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">The right base for nine out of ten PC racers. Sweet-spot torque, best software, real ladder. Add a load-cell pedal set and a rigid mount and you're done.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -232,7 +232,7 @@ If you race exclusively on **PlayStation**, the MOZA R12 isn't an option — go 
     <span class="gp-eyebrow">Best PlayStation base</span>
     <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: Gran Turismo licensed, complete bundle, deep ecosystem. Buy it on a Fanatec sale and don't look back.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

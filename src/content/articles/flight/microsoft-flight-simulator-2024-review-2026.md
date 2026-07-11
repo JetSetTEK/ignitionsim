@@ -155,7 +155,6 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
 
 MSFS 2024 remains the home-cockpit king because it makes hardware feel emotionally justified. Just build the cockpit in the right order. The sky can wait one weekend while you fix the USB hub.
 
-
 ## Source Notes
 
 - [MSFS 2024 official page](https://www.flightsimulator.com/microsoft-flight-simulator-2024/)

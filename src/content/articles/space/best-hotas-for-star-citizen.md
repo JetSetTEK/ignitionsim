@@ -80,7 +80,7 @@ Where it strains is Star Citizen specifically. You'll run out of physical button
     <span class="gp-price">~$170 (MSRP $149.99)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -91,7 +91,7 @@ If your Star Citizen life is mostly hauling, mining, and exploring rather than c
 
 The honest knocks: the spring feel is mushier than a VKB or Virpil, the analog quality is gaming-grade rather than boutique, and stock has been intermittent — the X56 sells out and restocks in waves, so **check current availability** before you set your heart on it. But when it's in stock at ~$250 for a complete stick-and-throttle with this many inputs, nothing else competes on buttons-per-dollar.
 
-We don't have a verified in-house product photo of the X56 yet, so we're keeping it text-only here rather than embedding an image we can't stand behind. Confirm the current price, spring kit, and layout on the official Logitech page before you buy: [check the X56 on Amazon](https://www.amazon.com/s?k=Logitech+G+X56+HOTAS&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span>.
+We don't have a verified in-house product photo of the X56 yet, so we're keeping it text-only here rather than embedding an image we can't stand behind. Confirm the current price, spring kit, and layout on the official Logitech page before you buy: verify X56 availability.
 
 ## The smart-money space pick: VKB stick + STECS Mk.II throttle (~$289 throttle)
 
@@ -110,7 +110,7 @@ Be straight about the trade: everything runs through VKBDevCfg, which is powerfu
     <span class="gp-price">~$289</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-stecs-standard-mk2-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+STECS+Throttle+Standard&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -124,7 +124,7 @@ Be straight about the trade: everything runs through VKBDevCfg, which is powerfu
     <span class="gp-price">~$289 base only (grip separate)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -138,7 +138,7 @@ Be straight about the trade: everything runs through VKBDevCfg, which is powerfu
     <span class="gp-price">~$136 (Ultimate ~$234)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-mcg-pro-grip">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+MCG+Pro+grip&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -149,7 +149,7 @@ If you split your time between Star Citizen and DCS or Falcon BMS, the **WINCTRL
 
 Be straight about two trades. First, the shape: the Orion 2 grip is fighter-ergonomic, which is great for a jet and a weaker fit for the symmetric feel of pure six-axis space combat — this is a crossover HOTAS, not a space-native one. Second, the throttle: Orion 2 throttles have drawn real, repeated complaints on the DCS forums about **stiction** (a sticky, grabby feel in the throttle travel) on some units. It isn't universal, but it's common enough that you should read recent owner threads for your exact SKU before buying. The joystick side earns far steadier praise.
 
-We don't yet have a verified in-house product photo of the Orion 2 HOTAS, so we're keeping it text-only rather than embedding an unverified image. Cross-shop the official [WINCTRL store](https://winctrl.com/) for live specs, price, and stock, then confirm your grip and handedness before checkout: [check the WinWing Orion 2 HOTAS on Amazon](https://www.amazon.com/s?k=WinWing+Orion+2+HOTAS+F-16EX&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span>.
+We don't yet have a verified in-house product photo of the Orion 2 HOTAS, so we're keeping it text-only rather than embedding an unverified image. Cross-shop the official [WINCTRL store](https://winctrl.com/) for live specs, price, and stock, then confirm your grip and handedness before checkout: verify WinWing Orion 2 HOTAS availability.
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -162,7 +162,7 @@ If money is no object and you want the finest standalone space-sim throttle ever
 
 The cost is money, patience, and — as of 2026 — timing. Virpil sells in restock waves rather than constant retail supply, street price sits around $380 (often ~$315 on a B-stock drop), and **Virpil has said the final production batch of the MongoosT-50CM3 is due in 2026** — so this is a buy-it-while-you-can item, not an evergreen one. If you want it, watch for a drop and move.
 
-We don't have a verified in-house photo of the CM3 throttle, so it's text-only here. Confirm live price, stock, and whether new or B-stock units remain before you commit: [check the Virpil MongoosT-50CM3 on Amazon](https://www.amazon.com/s?k=Virpil+MongoosT-50CM3+Throttle&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span>.
+We don't have a verified in-house photo of the CM3 throttle, so it's text-only here. Confirm live price, stock, and whether new or B-stock units remain before you commit: verify Virpil MongoosT-50CM3 availability.
 
 ## The button problem — and the fix every HOTAS shares
 
@@ -179,7 +179,7 @@ The community answer, regardless of which HOTAS you run, is a labeled macro pane
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -193,7 +193,7 @@ The community answer, regardless of which HOTAS you run, is a labeled macro pane
     <span class="gp-price">~$110 (2-panel pack)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+MFD+Cougar+Pack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -224,7 +224,7 @@ The community answer, regardless of which HOTAS you run, is a labeled macro pane
     <span class="gp-price">~$100 each (buy two for a HOTAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -256,7 +256,7 @@ Here's the decisive part most buying guides duck. Read our full [HOSAS vs HOTAS 
     <span class="gp-eyebrow">Space-native metal throttle</span>
     <span class="gp-name"><a href="/space/gear/vkb-stecs-standard-mk2-throttle">VKB STECS Throttle System Mk.II — Standard</a></span>
     <p class="gp-why">The space-first throttle to anchor a metal HOTAS. Dual levers, MaRS sensors, a tunable detent notch for your SCM speed break. If you're testing the water instead, the Thrustmaster T.16000M FCS HOTAS is the ~$170 alternative.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+STECS+Throttle+Standard&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -266,7 +266,7 @@ Here's the decisive part most buying guides duck. Read our full [HOSAS vs HOTAS 
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOTAS. One for the stick, one for the throttle, both locked rigid at an ergonomic angle. The difference between precise control and chasing a throttle across your desk.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -276,7 +276,7 @@ Here's the decisive part most buying guides duck. Read our full [HOSAS vs HOTAS 
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames the 200-plus binds with labeled keys and folders. Brand-agnostic, and a bigger quality-of-life jump than any throttle upgrade for a new pilot. The 15-key MK.2 (~$150) is the budget version.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

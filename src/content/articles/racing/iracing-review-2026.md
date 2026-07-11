@@ -130,7 +130,7 @@ If the seat slides, the wheel flexes, or the pedal deck moves under braking, you
     <span class="gp-price">Premium 8020 tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sim-lab-p1x">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sim-Lab+P1X+Pro+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -149,7 +149,7 @@ If you are not ready for an aluminum-profile cockpit, start with something sturd
     <span class="gp-price">Starter mount tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+wheel+stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -170,7 +170,7 @@ The iRacing upgrade that changes behavior fastest is a repeatable brake. Not bec
     <span class="gp-price">Premium pedal tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -187,7 +187,7 @@ The iRacing upgrade that changes behavior fastest is a repeatable brake. Not bec
     <span class="gp-price">Mid-tier pedal tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -208,7 +208,7 @@ Most iRacing drivers do not need a 20+ Nm base early. They need clean detail, en
     <span class="gp-price">Serious PC DD tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -239,7 +239,7 @@ Triples are still the strongest racecraft answer because side windows matter in 
     <span class="gp-price">Premium ultrawide tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -387,7 +387,7 @@ Start here if your verdict is build around it. If your verdict is play first, bu
     <p class="gp-why">Enough direct-drive quality to test iRacing seriously without pretending you already run an endurance team.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r5">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -403,7 +403,7 @@ Start here if your verdict is build around it. If your verdict is play first, bu
     <p class="gp-why">The sensible move if space is real and you still need the wheel and pedals to stay put.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+wheel+stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -419,7 +419,7 @@ Start here if your verdict is build around it. If your verdict is play first, bu
     <p class="gp-why">The first premium upgrade I would make for weekly iRacing once the cockpit is stable.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -435,7 +435,7 @@ Start here if your verdict is build around it. If your verdict is play first, bu
     <p class="gp-why">The one-screen route for iRacing drivers who want a cockpit-filling view without triple-monitor architecture.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9+49&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -451,7 +451,7 @@ Start here if your verdict is build around it. If your verdict is play first, bu
     <p class="gp-why">A high-fun upgrade after the cockpit, brake, wheelbase, and display are behaving. Tune it lightly unless you want your rig to feel like an appliance recall.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Inspect</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

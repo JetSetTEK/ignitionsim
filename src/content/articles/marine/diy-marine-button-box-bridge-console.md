@@ -65,7 +65,7 @@ The **Pro Micro** is the value king. Its ATmega32u4 chip has native USB, so with
     <span class="gp-price">~$25 (Pro Micro clone from ~$5)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Pro+Micro+ATmega32u4&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

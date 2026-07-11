@@ -87,7 +87,7 @@ These are conservative starting points — the highest gain where most cars stay
     <span class="gp-price">~$429 (12Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -164,7 +164,7 @@ LMU is built on the rFactor 2 engine and responds well to a strong ceiling that 
     <span class="gp-price">~$1,199 (17Nm)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-2-sport">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+2+Sport+wheel+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

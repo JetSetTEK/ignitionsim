@@ -117,7 +117,7 @@ The catch is the one every bare transducer shares: **it does nothing on its own.
     <span class="gp-price">~$55 each (50W RMS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/dayton-bst-1">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Dayton+Audio+BST-1+bass+shaker&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -137,7 +137,7 @@ The amp is the piece nobody sells sim racers as part of a bundle, and the piece 
     <span class="gp-price">~$145 (4.1 channel)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fosi-ht4s">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fosi+Audio+HT4S+amplifier&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -162,7 +162,7 @@ The honest trade is punch. Eight small motors give you *position* — you can fe
     <span class="gp-price">~$179–199 (8 motors)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/nlr-hf8">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+HF8+haptic+pad&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -182,7 +182,7 @@ The **[ButtKicker Gamer Plus](/racing/gear/buttkicker-gamer-plus) (~$280)** pair
     <span class="gp-price">~$280 (90W bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+Plus&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -196,7 +196,7 @@ The **[ButtKicker Gamer Plus](/racing/gear/buttkicker-gamer-plus) (~$280)** pair
     <span class="gp-price">~$380 (150W bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -282,7 +282,7 @@ If you rent, race late at night, or simply don't want to wire anything, **skip t
     <span class="gp-eyebrow">Best value tactile</span>
     <span class="gp-name"><a href="/racing/gear/dayton-bst-1">Dayton BST-1 ×2 + Fosi HT4S</a></span>
     <p class="gp-why">Two BST-1 shakers on the seat rails, a Fosi HT4S driving them, SimHub doing the telemetry. Under ~$260 all-in and it punches like gear five times the price. The builder's answer.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Dayton+Audio+BST-1+bass+shaker&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -292,7 +292,7 @@ If you rent, race late at night, or simply don't want to wire anything, **skip t
     <span class="gp-eyebrow">Best plug-and-play tactile</span>
     <span class="gp-name"><a href="/racing/gear/nlr-hf8">Next Level Racing HF8</a></span>
     <p class="gp-why">Ten-minute install, no amp, no bolts, quiet enough for an apartment, real SimHub telemetry feedback. The no-hassle default when you don't want a project.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+HF8+haptic+pad&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

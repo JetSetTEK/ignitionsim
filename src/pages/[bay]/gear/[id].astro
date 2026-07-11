@@ -9,6 +9,7 @@ import signals from '../../../data/research-signals.json';
 import { getCollection } from 'astro:content';
 import { articleMeta, isCertifiedArticle } from '../../../lib/content';
 import { displayProductImage, hasVerifiedProductImage } from '../../../lib/productMedia';
+import { canonicalAmazonProductUrl } from '../../../lib/amazon';
 
 export async function getStaticPaths() {
   const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
@@ -23,9 +24,7 @@ const hasRealGallery = imgs.length > 0;
 const bay = bays.find((b) => b.slug === p.bay)!;
 const url = new URL(`/${p.bay}/gear/${p.id}`, site.url).href;
 const amazonTag = (site as any).affiliate?.amazonTag;
-const buyUrl = p.amazonAsin
-  ? `https://www.amazon.com/dp/${p.amazonAsin}/?tag=${amazonTag}`
-  : `https://www.amazon.com/s?k=${encodeURIComponent(p.brand + ' ' + p.model)}${amazonTag ? `&tag=${amazonTag}` : ''}`;
+const buyUrl = canonicalAmazonProductUrl(p, amazonTag);
 const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
 const brandIds = new Set((((Object.values(brandMods)[0] as any)?.default) || []).map((b: any) => b.id));
 const brandSlug = String(p.brand).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
@@ -36,7 +35,7 @@ const guideSlug = (a: any) => a.id.split('/').pop();
 const specEntries = Object.entries(p.specs || {});
 const ratingAxes = Object.entries(p.rating || {}).filter(([k]) => k !== 'overall');
 
-const offers = p.price ? {
+const offers = p.price && buyUrl ? {
   '@type': 'Offer', price: String(p.price), priceCurrency: 'USD',
   availability: 'https://schema.org/InStock', url: buyUrl,
 } : undefined;
@@ -123,8 +122,8 @@ const buyPulse = verdictScore >= 8.5
           {p.cons?.[0] && <small>Known caution: {p.cons[0]}</small>}
         </div>
         <div class="gh-cta">
-          <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Check price on Amazon ▸</a>
-          <a class="btn" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="review_check">Check live seller reviews ↗</a>
+          {buyUrl && <a class="btn btn-primary" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Check price on Amazon ▸</a>}
+          {buyUrl && <a class="btn" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="review_check">Check live seller reviews ↗</a>}
           {hasBrandPage && <a class="btn" href={`/brand/${brandSlug}`}>More {p.brand} →</a>}
           <a class="btn" href={`/${p.bay}/gear`}>All {bay.name} gear</a>
         </div>
@@ -172,7 +171,7 @@ const buyPulse = verdictScore >= 8.5
           {p.pros?.[0] && <p><b>Why it works:</b> {p.pros[0]}</p>}
           {p.cons?.[0] && <p><b>Check before buying:</b> {p.cons[0]}</p>}
           {baySignal.weekendKiller && <p><b>Setup tax:</b> {baySignal.weekendKiller}</p>}
-          <a href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="seller_review_check">Verify current seller reviews ↗</a>
+          {buyUrl && <a href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="seller_review_check">Verify current seller reviews ↗</a>}
         </div>
       </aside>
     </section>

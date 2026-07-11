@@ -77,7 +77,7 @@ The dual-wireless trick matters more than it sounds. The Nova 7 runs its 2.4GHz 
     <span class="gp-price">~$179 (Gen 2)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/steelseries-arctis-nova-7">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SteelSeries+Arctis+Nova+7+Wireless&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -99,7 +99,7 @@ RGBIC — the "IC" is the addressable controller — is what separates these fro
     <span class="gp-price">~$60-80 (2-bar set)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/govee-rgbic-bars">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Govee+RGBIC+Gaming+Light+Bars&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -119,7 +119,7 @@ The fix is a **powered** hub, and the word "powered" is doing all the work. A bu
     <span class="gp-price">~$36</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sabrent-powered-usb-hub">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sabrent+10+Port+Powered+USB+Hub&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -151,7 +151,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
     <span class="gp-price">~$350 (bundle)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -193,7 +193,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
     <span class="gp-eyebrow">Cheapest highest-relief fix</span>
     <span class="gp-name"><a href="/racing/gear/sabrent-powered-usb-hub">Sabrent 10-Port Powered USB Hub</a></span>
     <p class="gp-why">Thirty-six dollars ends the mid-race disconnects your expensive base can't. Ten powered ports, one cable to the PC, individual switches. There is no better-value accessory in sim racing.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Sabrent+10+Port+Powered+USB+Hub&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -203,7 +203,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
     <span class="gp-eyebrow">Best cheap visible upgrade</span>
     <span class="gp-name"><a href="/racing/gear/govee-rgbic-bars">Govee RGBIC Gaming Light Bars</a></span>
     <p class="gp-why">Sixty to eighty dollars turns a dark corner into a finished cockpit and saves your eyes on the night stints. Clamp them to the rig, point at the wall, done.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Govee+RGBIC+Gaming+Light+Bars&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -213,7 +213,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
     <span class="gp-eyebrow">Best all-round headset</span>
     <span class="gp-name"><a href="/racing/gear/steelseries-arctis-nova-7">SteelSeries Arctis Nova 7</a></span>
     <p class="gp-why">Wireless, comfortable for hours, positional enough to hear the car alongside you, and midnight-friendly. The cable you stop snagging on the shifter is worth the price by itself.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SteelSeries+Arctis+Nova+7+Wireless&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -223,6 +223,6 @@ Source review date: July 3, 2026. We checked official product pages and current 
 
 Official pages: [SteelSeries Arctis Nova 7 Gen 2](https://steelseries.com/gaming-headsets/arctis-nova-7-gen-2), [Govee RGBIC Wi-Fi Gaming Light Bars (H6047)](https://us.govee.com/products/govee-rgbic-wi-fi-gaming-light-bars-with-smart-controller), [Sabrent 10-Port USB 3.0 Powered Hub (HB-BU10)](https://sabrent.com/products/hb-bu10), [ButtKicker Gamer PRO](https://thebuttkicker.com/products/buttkicker-gamer-pro).
 
-Pricing + specs cross-checks: [Arctis Nova 7 Gen 2 (Amazon)](https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-Platform-Headset/dp/B0B15QM5LL), [Govee Gaming Light Bars H6047 (Amazon)](https://www.amazon.com/Govee-H6047-Controller-Specially-Assistant/dp/B0B6CQ2LQ2), [Sabrent HB-BU10 (Newegg)](https://www.newegg.com/sabrent-hb-bu10-usb/p/0J2-0066-000Z1).
+Pricing + specs cross-checks: [Arctis Nova 7 Gen 2 (Amazon)](https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20), [Govee Gaming Light Bars H6047 (Amazon)](https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20), [Sabrent HB-BU10 (Newegg)](https://www.newegg.com/sabrent-hb-bu10-usb/p/0J2-0066-000Z1).
 
 Community + review reads (paraphrased in our voice): [OC Racing — 3 cheap sim racing accessories](https://ocracing.com/guides/3-cheap-sim-racing-accessories/), [SimSportGadget cable management](https://simsportgadget.com/collections/cable-management), [RacingRigGuide — best sim racing headsets 2026](https://racingrigguide.com/blog/best-sim-racing-headsets-2026-complete-guide), and [SimRacingSetup — best headphones for sim racing](https://simracingsetup.com/product-guides/best-headphones-for-sim-racing/).

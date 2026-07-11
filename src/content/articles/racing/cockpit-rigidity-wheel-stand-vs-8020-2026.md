@@ -90,7 +90,7 @@ That is the decision point. If your setup has to fold away, buy a serious stand 
     <span class="gp-price">Compact tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+wheel+stand&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -110,7 +110,7 @@ The tradeoff is modularity. If you later want triples, custom shifter plates, si
     <span class="gp-price">Mid cockpit tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/nlr-gt-track">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Next+Level+Racing+GTTrack&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -130,7 +130,7 @@ That is why 8020 is the no-regrets path for 12 Nm+ wheelbases, stiff pedals, and
     <span class="gp-price">Premium cockpit</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sim-lab-p1x">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sim-Lab+P1X+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

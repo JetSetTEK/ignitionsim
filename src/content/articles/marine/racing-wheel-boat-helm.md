@@ -49,7 +49,7 @@ The G923's headline feature over the G29 is **TrueForce** force feedback. In a r
 
 The practical conclusion: **for boats, buy the G29, not the G923.** The G923 lists at **$349.99**; the G29 frequently drops to **~$180–$200** on sale (list is higher, but it's almost always discounted — check current pricing before you buy). You'd be paying well over $100 more for a feature the bay cannot use. Save it for a throttle quadrant or a DIY board instead.
 
-Check current pricing: [Logitech G29 on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20) (rel="sponsored nofollow noopener") · [Logitech G923 on Amazon](https://www.amazon.com/s?k=Logitech+G+G923+TrueForce&tag=ignitionsim-20) (rel="sponsored nofollow noopener").
+Check current pricing: Logitech G29 on Amazon (rel="sponsored nofollow noopener") · Logitech G923 on Amazon (rel="sponsored nofollow noopener").
 
 ## The real test: analog axis vs. center-deadzone stick
 
@@ -83,7 +83,7 @@ Here's the wrinkle worth knowing before you commit to a wheel at all: several sh
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

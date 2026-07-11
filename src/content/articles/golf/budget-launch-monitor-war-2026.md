@@ -89,7 +89,7 @@ Nina's no-drama recommendation: **if the sim lives in a shallow garage, start wi
     <span class="gp-price">Approx $699, verify live stock</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/square-golf-launch-monitor">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Square+Golf+Launch+Monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -106,7 +106,7 @@ Nina's no-drama recommendation: **if the sim lives in a shallow garage, start wi
     <span class="gp-price">Approx $599.99 sale price; Premium extra after trial</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ Nina's no-drama recommendation: **if the sim lives in a shallow garage, start wi
     <span class="gp-price">MSRP $599.99, often discounted</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -140,7 +140,7 @@ Nina's no-drama recommendation: **if the sim lives in a shallow garage, start wi
     <span class="gp-price">New sale/used pricing varies heavily</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-og-launch-monitor">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Launch+Monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -276,26 +276,10 @@ Hard specs and pricing language were checked on July 2, 2026. Always verify live
 Use Amazon for price checks and broad buyer protection, but verify that the listing is the exact model. Some golf-sim hardware is cleaner through specialty retailers until we wire direct affiliate programs.
 
 <div class="buy-grid">
-  <a class="buy-card" href="https://www.amazon.com/s?k=Square+Golf+Launch+Monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/square-golf-launch-monitor.jpg" alt="Square Golf Launch Monitor product photo" loading="lazy">
-    <strong>Square Golf Launch Monitor</strong>
-    <span>Best tight-room indoor camera pick. Check Amazon first, then verify retailer stock.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor product photo" loading="lazy">
-    <strong>Rapsodo MLM2PRO</strong>
-    <span>Best video/data practice lab if you budget Premium. Check Amazon.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 product photo" loading="lazy">
-    <strong>Garmin Approach R10</strong>
-    <span>Best portable/range starter and easiest gift pick. Check Amazon.</span>
-  </a>
-  <a class="buy-card" href="https://www.amazon.com/s?k=SkyTrak+Launch+Monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">
-    <img src="/images/gear/golf/skytrak-og-launch-monitor.jpg" alt="Original SkyTrak launch monitor product photo" loading="lazy">
-    <strong>SkyTrak OG</strong>
-    <span>Used bargain only after inspection. Check Amazon, then compare direct/used.</span>
-  </a>
+  Square Golf Launch Monitor Best tight-room indoor camera pick. Verify the exact model and current retailer stock before buying.
+  Rapsodo MLM2PRO Best video/data practice lab if you budget Premium. Verify the exact model before buying.
+  Garmin Approach R10 Best portable/range starter and easiest gift pick. Verify the exact model before buying.
+  SkyTrak OG Used bargain only after inspection. Verify the exact model, then compare direct and used pricing.
 </div>
 
 Pair the launch monitor with the stuff that makes it usable:

@@ -67,7 +67,7 @@ Buy this rung if you are still deciding whether sim racing is a forever hobby. T
     <span class="gp-price">Entry DD</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R5+direct+drive+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -87,7 +87,7 @@ The **MOZA R12** is the clean PC value. Fanatec's **ClubSport DD** is the catalo
     <span class="gp-price">Mid-tier DD</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -107,7 +107,7 @@ The **Simagic Alpha Evo Pro** is the value monster. Fanatec DD+ matters for Play
     <span class="gp-price">Enthusiast DD</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-evo-pro">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+Alpha+Evo+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

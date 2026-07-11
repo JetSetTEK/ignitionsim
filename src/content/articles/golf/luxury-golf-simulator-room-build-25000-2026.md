@@ -60,7 +60,7 @@ The $15K build should feel premium, not custom. Think [Garmin R50](/golf/gear/ga
     <span class="gp-price">~$5K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin%20Approach%20R50&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -83,7 +83,7 @@ At $25K, the room should stop feeling like a collection of purchases. The sensor
     <span class="gp-price">~$2K-$2.5K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10%20golf%20simulator%20enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -97,7 +97,7 @@ At $25K, the room should stop feeling like a collection of purchases. The sensor
     <span class="gp-price">~$3K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ%20AK700ST%20golf%20projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

@@ -75,7 +75,7 @@ The trick is restraint. New users crank every channel until the rig feels like a
     <span class="gp-price">Tactile tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=ButtKicker+Gamer+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

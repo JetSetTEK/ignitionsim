@@ -71,7 +71,7 @@ Here is the honest function-to-hardware map. None of these are marine products; 
 | Full custom bridge (switches) | **Leo Bodnar BBI-32** interface | ~$53 | ✓ verified |
 | Code-your-own helm | **Arduino Leonardo** as HID | ~$25 | ✓ verified |
 
-Two of the most-recommended items — a repurposed **Logitech G29** racing wheel as a helm (~$200-300) and the **Saitek Pro Flight Throttle Quadrant** as an engine telegraph (~$50-70) — appear here as text and links rather than photos, because I don't have a verified image of either in a marine context. I'd rather flag that gap than show a stock shot pretending to be something it isn't. Check current pricing: [Saitek Pro Flight Throttle Quadrant on Amazon](https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20) · [Logitech G29 on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20).
+Two of the most-recommended items — a repurposed **Logitech G29** racing wheel as a helm (~$200-300) and the **Saitek Pro Flight Throttle Quadrant** as an engine telegraph (~$50-70) — appear here as text and links rather than photos, because I don't have a verified image of either in a marine context. I'd rather flag that gap than show a stock shot pretending to be something it isn't. Check current pricing: Saitek Pro Flight Throttle Quadrant on Amazon · Logitech G29 on Amazon.
 
 ## The three rigs worth building
 
@@ -90,7 +90,7 @@ The single cheapest upgrade that changes the feel is the engine control. A fligh
     <span class="gp-price">~$130</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TWCS+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -106,7 +106,7 @@ For the switches — nav lights, horn, telegraph stages, autopilot, anchor — a
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+button+box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -122,7 +122,7 @@ For the switches — nav lights, horn, telegraph stages, autopilot, anchor — a
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -190,7 +190,7 @@ If you'd rather code your own logic — software detents, button matrices, a com
     <span class="gp-price">~$25</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -206,7 +206,7 @@ If you want big, deliberate lever feel for slow marine engine moves, the crossov
     <span class="gp-price">~$220</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=RailDriver+Desktop+Train+Cab+Controller&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

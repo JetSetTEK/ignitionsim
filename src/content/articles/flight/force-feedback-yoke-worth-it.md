@@ -87,7 +87,7 @@ Force feedback is no longer one product, and pretending it is would do you a dis
     <span class="gp-price">~$280</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -95,9 +95,9 @@ Force feedback is no longer one product, and pretending it is would do you a dis
 
 The FFB options above are text-and-link only because we haven't verified an exact studio photo for any of them; the searches show current listings:
 
-- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9 Nm roll / 210 N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with the MFY handle), [check Amazon](https://www.amazon.com/s?k=MOZA+AY210+Force+Feedback+Yoke&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **Brunner CLS-E NG / MK II** — flight-school-grade FFB, premium build, roughly double a MOZA setup, [check Amazon](https://www.amazon.com/s?k=Brunner+CLS-E+force+feedback+yoke&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
-- **VPForce Rhino** — DIY/community FFB base, ~9 Nm, deeply configurable for tinkerers, [check Amazon](https://www.amazon.com/s?k=VPForce+Rhino+force+feedback&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9 Nm roll / 210 N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with the MFY handle), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Brunner CLS-E NG / MK II** — flight-school-grade FFB, premium build, roughly double a MOZA setup, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **VPForce Rhino** — DIY/community FFB base, ~9 Nm, deeply configurable for tinkerers, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 ## Where it falls short in 2026
 

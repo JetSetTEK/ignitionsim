@@ -85,7 +85,7 @@ The honest asterisks: measured spin rate and spin axis need **RPT-marked balls**
     <span class="gp-price">~$699.99 · Premium ~$199.99/yr or ~$599.99 lifetime</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -105,7 +105,7 @@ The honest limits: it is **indoor-only**, so range and outdoor buyers should loo
     <span class="gp-price">~$699 · no Square annual fee (course tokens)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/square-golf-launch-monitor">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Square+Golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -130,7 +130,7 @@ The honest catch is radar's nature: it wants **depth behind you** to read full b
     <span class="gp-price">~$500 (often lower) · Garmin Golf ~$99.99/yr</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ There is a fourth path if you are willing to shop carefully: the **original SkyT
     <span class="gp-price">Used-market only; verify condition and transfer</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-og-launch-monitor">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -168,7 +168,7 @@ The **FlightScope Mevo Gen 2** ($1,299 base) replaces the beloved Mevo+ with pat
     <span class="gp-price">~$1,299 base · loaded ~$2,274</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=FlightScope+Mevo+Gen+2+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -184,7 +184,7 @@ And if photometric accuracy is the real goal, the next serious jump is the SkyTr
     <span class="gp-price">Clearing near ~$2,000 (over budget)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -219,7 +219,7 @@ And if photometric accuracy is the real goal, the next serious jump is the SkyTr
     <span class="gp-eyebrow">Best sub-$1,000 data per dollar</span>
     <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
     <p class="gp-why">Fusion tech that behaves indoors, measured spin, and official GSPro direct connect for the price of a decent driver. The default pick for most buyers.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -229,7 +229,7 @@ And if photometric accuracy is the real goal, the next serious jump is the SkyTr
     <span class="gp-eyebrow">Best for tight indoor bays</span>
     <span class="gp-name"><a href="/golf/gear/square-golf-launch-monitor">Square Golf Launch Monitor</a></span>
     <p class="gp-why">The only real camera unit under a grand and the one that fits a shallow room, with genuine putting and short-game data. Indoor-only.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Square+Golf+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -239,7 +239,7 @@ And if photometric accuracy is the real goal, the next serious jump is the SkyTr
     <span class="gp-eyebrow">Best value and outdoor pick</span>
     <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The cheapest honest door in, an on-device sim so you can play before building a PC, and the best of the three at the range. Give it depth.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

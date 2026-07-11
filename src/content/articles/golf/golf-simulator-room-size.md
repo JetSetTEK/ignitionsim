@@ -105,7 +105,7 @@ That is the entire "the room decides the launch monitor" story in one list: a sh
     <span class="gp-price">~$2,995 (often on sale near $2,000)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -119,7 +119,7 @@ That is the entire "the room decides the launch monitor" story in one list: a sh
     <span class="gp-price">~$600 (often discounted to ~$400–$500)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -146,7 +146,7 @@ Width is where the **dual-handed question** lives. If both a righty and a lefty 
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -157,9 +157,9 @@ If your room has a 10-foot ceiling but not the 18-to-20 feet a radar unit wants,
 
 The trade is money and permanence. The **Uneekor EYE XO2** is the enthusiast benchmark here: a three-camera overhead unit with a 28-by-21-inch hitting zone and Dimple Optix spin reading off any ball, needing roughly 9 to 10 feet of ceiling — but it is a five-figure, dedicated-room commitment, and we do not yet have a verified product photo of it, so treat it as a spec, not a picture.
 
-> **Uneekor EYE XO2 — overhead flagship (text-only, image pending).** ~$11,000, 25 ball and club metrics, 28" x 21" hitting zone, needs 9–10 ft ceiling. The build-it-once choice for a tall, dedicated room. [Check price on Amazon](https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20)
+> **Uneekor EYE XO2 — overhead flagship (text-only, image pending).** ~$11,000, 25 ball and club metrics, 28" x 21" hitting zone, needs 9–10 ft ceiling. The build-it-once choice for a tall, dedicated room. Check price on Amazon
 
-> **Foresight Falcon — overhead Quadrascopic (text-only, image pending).** ~$14,999, spec sheet asks for a 9-foot-6 ceiling by 12 feet wide by 14 feet deep. GCHawk-class accuracy in a cleaner ceiling install. [Check price on Amazon](https://www.amazon.com/s?k=Foresight+Falcon+launch+monitor&tag=ignitionsim-20)
+> **Foresight Falcon — overhead Quadrascopic (text-only, image pending).** ~$14,999, spec sheet asks for a 9-foot-6 ceiling by 12 feet wide by 14 feet deep. GCHawk-class accuracy in a cleaner ceiling install. Check price on Amazon
 
 ## Lighting: The Photometric Catch Nobody Puts on the Box
 
@@ -186,7 +186,7 @@ The warning: "better projector" is meaningless if the throw ratio, offset, and m
     <span class="gp-price">~$1,199</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -200,7 +200,7 @@ The warning: "better projector" is meaningless if the throw ratio, offset, and m
     <span class="gp-price">~$4,899 (list ~$5,499)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -234,7 +234,7 @@ The launch monitor and projector get the attention, but the physical bay is what
     <span class="gp-price">~$1,999–$2,499 by screen tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -248,7 +248,7 @@ The launch monitor and projector get the attention, but the physical bay is what
     <span class="gp-price">~$1,249 (7'x4' Grass Series)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+Studio+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

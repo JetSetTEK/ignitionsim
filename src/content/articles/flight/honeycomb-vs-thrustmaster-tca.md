@@ -73,7 +73,7 @@ What you give up: it's plastic-bodied at this tier, MSFS 2024 binding can take s
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -89,7 +89,7 @@ What you give up: it's plastic-bodied at this tier, MSFS 2024 binding can take s
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -111,7 +111,7 @@ The entry math is brutal in TCA's favor for the Airbus: a side-stick plus quadra
     <span class="gp-price">~$80 official</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -127,7 +127,7 @@ The entry math is brutal in TCA's favor for the Airbus: a side-stick plus quadra
     <span class="gp-price">~$130 official · ~$100 street</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -145,7 +145,7 @@ The Boeing side is the other half of the TCA story. The **TCA Yoke Pack Boeing E
     <span class="gp-price">~$550 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Yoke+Pack+Boeing+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -208,7 +208,7 @@ This comparison resolves the moment you name your airplane. If you fly **general
     <span class="gp-eyebrow">GA · the starting point</span>
     <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha</a></span>
     <p class="gp-why">The GA standard. Buy the yoke first, add the Bravo when budget allows, and finish with the Charlie pedals — the whole GA ladder, in the right order.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -220,7 +220,7 @@ This comparison resolves the moment you name your airplane. If you fly **general
     <span class="gp-eyebrow">Airbus · the starting point</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">The best value in flight sim and the correct rung-one buy for the Fenix A320. Add the TCA Quadrant for under $200 total and you're flying a credible Airbus cockpit.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -231,6 +231,6 @@ Source review date: July 2, 2026. We checked official product pages and current 
 
 Official pages: [Honeycomb Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Honeycomb Captain's Bundle (Alpha/Bravo/Charlie)](https://flyhoneycomb.com/products/captains-bundle), [Thrustmaster TCA Sidestick Airbus Edition](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-quadrant-airbus-edition/), [Thrustmaster TCA Captain Pack X Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-captain-pack-x-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing Edition](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/).
 
-Pricing + availability reads: [Honeycomb Alpha + Bravo bundle (Aircraft Spruce)](https://www.aircraftspruce.com/catalog/pspages/honeycombalpha_13-24011.php), [Honeycomb three-piece bundle (Aircraft Spruce)](https://www.aircraftspruce.com/catalog/pspages/honeycomb_13-25786.php), [Honeycomb Bravo (Sporty's)](https://www.sportys.com/honeycomb-bravo-throttle-quadrant.html), [TCA Captain Pack X (Amazon)](https://www.amazon.com/Thrustmaster-Captains-Pack-Airbus-XBOX-PC/dp/B0BG3DQLDD), [TCA Yoke Pack Boeing (Amazon)](https://www.amazon.com/Thrustmaster-Yoke-PACK-Boeing-Xbox-x/dp/B09DPYHM55).
+Pricing + availability reads: [Honeycomb Alpha + Bravo bundle (Aircraft Spruce)](https://www.aircraftspruce.com/catalog/pspages/honeycombalpha_13-24011.php), [Honeycomb three-piece bundle (Aircraft Spruce)](https://www.aircraftspruce.com/catalog/pspages/honeycomb_13-25786.php), [Honeycomb Bravo (Sporty's)](https://www.sportys.com/honeycomb-bravo-throttle-quadrant.html), [TCA Captain Pack X (Amazon)](https://www.amazon.com/dp/B0BG3DQLDD?tag=ignitionsim-20), [TCA Yoke Pack Boeing (Amazon)](https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20).
 
 Review + sentiment reads (paraphrased in our voice): [FSElite TCA Yoke Pack Boeing review](https://fselite.net/content/review-thrustmaster-tca-yoke-pack-boeing-edition/), [Boosted Media TCA Yoke Pack Boeing review](https://boostedmedia.net/flight-sim/thrustmaster-tca-yoke-pack-boeing-edition-detailed-review/), [Peccadille best flight sticks (2026) — TCA Sidestick / Fenix A320 value](https://peccadille.net/best-flight-sticks/), and the recurring [r/flightsim](https://www.reddit.com/r/flightsim/) "right brand, wrong airplane" and "you'll own both" buy-order threads.

@@ -97,7 +97,7 @@ What you're accepting:
   <figure><a href="/space/gear/elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a><figcaption>Stream Deck XL — the gamepad's real fix</figcaption></figure>
 </div>
 
-I lay out the specific Star Citizen stick picks in [HOSAS vs HOTAS](/space/hosas-vs-hotas), and the **X56** remains the standard answer for a single-box HOTAS — but because we don't yet have a verified in-house photo of the X56, it's text-only here. Confirm current price and layout on the official [Logitech X56 page](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) or [check it on Amazon](https://www.amazon.com/s?k=Logitech+X56+HOTAS&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> before you buy.
+I lay out the specific Star Citizen stick picks in [HOSAS vs HOTAS](/space/hosas-vs-hotas), and the **X56** remains the standard answer for a single-box HOTAS — but because we don't yet have a verified in-house photo of the X56, it's text-only here. Confirm current price and layout on the official [Logitech X56 page](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) or verify marketplace availability before you buy.
 
 <aside class="gearpick">
   <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Cheapest HOTAS entry</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
@@ -108,7 +108,7 @@ I lay out the specific Star Citizen stick picks in [HOSAS vs HOTAS](/space/hosas
     <span class="gp-price">~$170</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -122,7 +122,7 @@ I lay out the specific Star Citizen stick picks in [HOSAS vs HOTAS](/space/hosas
     <span class="gp-price">~$500</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+HOTAS+Warthog&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -147,7 +147,7 @@ That matters for your buying decision because it reframes the ladder. If you're 
     <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -167,7 +167,7 @@ Pair it with a tuned gamepad and you have a two-piece setup that flies the game,
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -195,7 +195,7 @@ Buying the hardware is the easy part. Two things trip up pilots who jump from a 
     <span class="gp-price">~$100 each</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

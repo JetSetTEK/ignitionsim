@@ -27,7 +27,7 @@ The site goal is a $10,000/month simulator authority site. The public promise is
 - Do not hotlink images.
 - Do not copy long quotes. Paraphrase Reddit/forum/review patterns in our voice. Use direct quotes only sparingly and keep them short.
 - Do not fabricate prices, ratings, review counts, stock, release dates, firmware claims, dimensions, compatibility, or source sentiment.
-- If Amazon does not clearly land on the correct product, use an Amazon search link with `tag=ignitionsim-20` and flag it for later exact-ASIN replacement.
+- If Amazon does not clearly land on the correct product, do **not** create an Amazon CTA. Use the official/vendor URL and flag it for exact-ASIN follow-up. Search-result Amazon links never ship.
 - If you cannot verify the source, say so in the handoff instead of smoothing over uncertainty.
 
 ## Target Run Scope
@@ -178,7 +178,7 @@ Use this shape:
       "product": "MOZA R5",
       "preferredLocalPath": "/images/gear/racing/moza-r5.jpg",
       "officialSourceUrl": "https://...",
-      "amazonUrl": "https://www.amazon.com/s?k=MOZA+R5+bundle&tag=ignitionsim-20",
+      "amazonDirectUrl": "https://www.amazon.com/dp/ASIN?tag=ignitionsim-20 or blank until verified",
       "status": "exists-verified | needs-download | needs-permission | source-blocked",
       "notes": "Use as dominant product proof, not tiny collage."
     }
@@ -273,8 +273,8 @@ Use Amazon Associates links for now:
 
 - Exact product if verified:
   - `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`
-- Search fallback if exact product is uncertain:
-  - `https://www.amazon.com/s?k=PRODUCT+NAME&tag=ignitionsim-20`
+- If exact product is uncertain:
+  - leave the Amazon URL blank, use the official/vendor URL, and flag for exact-ASIN follow-up.
 
 Every article should have:
 
@@ -318,4 +318,3 @@ When finished, tell the user:
 - Which articles are ready for Codex final graphics/certification.
 - Which claims or product photos need re-checking.
 - Whether the build/audit passed.
-

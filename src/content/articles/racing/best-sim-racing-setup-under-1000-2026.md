@@ -74,7 +74,7 @@ Don't overthink the base. **Torque buys headroom, not lap time**, and 12Nm is a 
     <span class="gp-price">~$399 on sale (~$469 list)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -96,7 +96,7 @@ The [MOZA CRP2](/racing/gear/moza-crp2) is the verified value king here: a rare 
     <span class="gp-price">~$369-399</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ The budget-friendly answer that keeps the total under $1,000 is a **quality fold
     <span class="gp-price">~$389-449 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=GT+Omega+Apex+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -146,7 +146,7 @@ Console buyers don't get the open PC field, and the R12 isn't an option — it's
     <span class="gp-price">~$500 bundle · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T598&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -160,7 +160,7 @@ Console buyers don't get the open PC field, and the R12 isn't an option — it's
     <span class="gp-price">bundle · check current pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Fanatec+GT+DD+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -199,7 +199,7 @@ Here's the honest breakdown of a $1,000 that a lot of new racers get exactly bac
     <span class="gp-eyebrow">Base — buy this first</span>
     <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
     <p class="gp-why">Sweet-spot 12Nm, best software, real ladder, ~$399 on sale. The anchor of the sub-$1,000 rig. Add the CRP2 and a rigid mount and you're done for years.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+R12+wheelbase&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -209,7 +209,7 @@ Here's the honest breakdown of a $1,000 that a lot of new racers get exactly bac
     <span class="gp-eyebrow">Pedals — do not cheap out</span>
     <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The 200kg load-cell brake that makes you consistent, ~$369. Tighter budget? The Fanatec CSL Pedals LC ($199.99) or MOZA SR-P (~$149) are honest load cells too.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

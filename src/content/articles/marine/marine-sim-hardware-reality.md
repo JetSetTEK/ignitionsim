@@ -61,11 +61,11 @@ Here is the repurposing map. None of these are marine products. All of them are 
 
 The most-recommended helm stand-in is a **Logitech G29** (~$200 on sale) or its pricier sibling the **G923** (~$300). Both are 900-degree racing wheels with leather rims that read convincingly as a ship's wheel — and both are flooded on the secondhand market thanks to sim racing, which is why they're the community default. Here's the money-saving detail: the G923's headline TrueForce force feedback is *completely wasted* in marine sims, because marine titles almost never support FFB and a car wheel doesn't replicate a boat wheel's feel anyway. If FFB is the only reason you were eyeing the G923 over the cheaper G29, don't bother — for boats, that premium buys nothing. Buy the G29, confirm your sim reads an analog steering axis first, and pocket the difference. I cover the whole racing-wheel-as-helm question in [Can a Racing Wheel Be a Boat Helm?](/marine/racing-wheel-boat-helm).
 
-Check current pricing: [Logitech G29 on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20) · [Logitech G923 on Amazon](https://www.amazon.com/s?k=Logitech+G+G923+Racing+Wheel&tag=ignitionsim-20).
+Check current pricing: Logitech G29 on Amazon · Logitech G923 on Amazon.
 
 ### The quiet hero: a flight throttle quadrant (text-only, honestly)
 
-The **Saitek Pro Flight Throttle Quadrant** (~$50–$70) is the best-value pick in the whole bay, dollar for dollar. Three analog levers map naturally to port throttle, starboard throttle and bow thruster, and the quadrants daisy-chain when three levers aren't enough. It's a flight throttle wearing a sailor's hat, and it adds more marine-sim immersion per dollar than the wheel does. Same analog caveat applies: the levers do nothing in a sim that won't read analog throttle axes, so verify first. I don't have a verified marine-context photo of this unit, so it's a link rather than a picture: [Saitek Pro Flight Throttle Quadrant on Amazon](https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20).
+The **Saitek Pro Flight Throttle Quadrant** (~$50–$70) is the best-value pick in the whole bay, dollar for dollar. Three analog levers map naturally to port throttle, starboard throttle and bow thruster, and the quadrants daisy-chain when three levers aren't enough. It's a flight throttle wearing a sailor's hat, and it adds more marine-sim immersion per dollar than the wheel does. Same analog caveat applies: the levers do nothing in a sim that won't read analog throttle axes, so verify first. I don't have a verified marine-context photo of this unit, so it's a link rather than a picture: Saitek Pro Flight Throttle Quadrant on Amazon.
 
 ### The smooth single lever: Thrustmaster TWCS
 
@@ -80,7 +80,7 @@ If you run single-screw vessels and want one smooth, high-resolution engine leve
     <span class="gp-price">~$130</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TWCS+Throttle&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -98,7 +98,7 @@ For sims that expose a true rudder axis rather than a wheel, a flight stick's tw
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -116,7 +116,7 @@ A genuine crossover repurpose from the train-sim world: the **RailDriver** desk 
     <span class="gp-price">~$220</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=RailDriver+Desktop+Train+Cab+Controller&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -181,7 +181,7 @@ If you'd rather code your own logic — software detents, button matrices, a com
     <span class="gp-price">~$25</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -204,7 +204,7 @@ If DIY isn't your thing, a **PXN CB1** is a finished, plug-and-play button box �
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+Button+Box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -220,7 +220,7 @@ And VR sidesteps the hardware problem entirely. On a **Meta Quest 3** running Ma
     <span class="gp-price">~$499 (Quest 3S from ~$329)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

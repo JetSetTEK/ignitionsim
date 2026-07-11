@@ -77,7 +77,7 @@ If anything earns its place in a $200 budget, it's engine levers — not a wheel
 
 The full repurposing walkthrough lives in the [hardware reality check](/marine/marine-sim-hardware-reality), but the headline is simple: real levers you can set and hold transform engine control in a way a keyboard never will. The only caveat is the one that governs everything here — the levers do nothing in a sim that won't read analog throttle input, so verify first.
 
-A quick honesty note on the photo below. The Saitek quadrant is the budget MVP of this bay, but I don't have a verified marine-context product image of it yet, so it appears as text and links rather than a photo. I'd rather flag that than show a stock shot pretending to be a marine telegraph. Check current pricing and stock: [Logitech G Saitek Pro Flight Throttle Quadrant on Amazon](https://www.amazon.com/s?k=Logitech+G+Saitek+Pro+Flight+Throttle+Quadrant&tag=ignitionsim-20).
+A quick honesty note on the photo below. The Saitek quadrant is the budget MVP of this bay, but I don't have a verified marine-context product image of it yet, so it appears as text and links rather than a photo. I'd rather flag that than show a stock shot pretending to be a marine telegraph. Check current pricing and stock: Logitech G Saitek Pro Flight Throttle Quadrant on Amazon.
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -120,7 +120,7 @@ If you'd rather code your own logic — software detents, a button matrix, a com
     <span class="gp-price">~$25 (clones cheaper)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Arduino+Leonardo&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ A **PXN CB1** is a finished, plug-and-play button box — 19 controls and up to 
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=PXN+CB1+Button+Box&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -173,7 +173,7 @@ If you're going fully DIY and want a solderless way to wire a real panel of brid
 
 A racing wheel as a helm is *optional* and, for most people on this budget, skippable. If you go that route, buy the budget option and expect to blow past $200: the **Logitech G29** runs roughly **$200–$300** (often ~$200 secondhand thanks to the flooded sim-racing market) and the **G923** more still. A wheel is a stretch purchase, not a starter one.
 
-Two hard rules if you buy one. First, **do not pay for the G923 over the G29 expecting force feedback to matter** — marine sims don't use FFB, so that premium buys nothing on the water. Second, **confirm your chosen title reads analog steering before you spend**, because as the [compatibility map](/marine/marine-sim-controller-support) shows, several popular titles only see the wheel as binary left/right — in which case you spent $250 to press the arrow keys. I don't have a verified marine-context photo of the G29, so it's text-and-link only here, honestly flagged rather than faked: [Logitech G29 on Amazon](https://www.amazon.com/s?k=Logitech+G+G29+Driving+Force&tag=ignitionsim-20).
+Two hard rules if you buy one. First, **do not pay for the G923 over the G29 expecting force feedback to matter** — marine sims don't use FFB, so that premium buys nothing on the water. Second, **confirm your chosen title reads analog steering before you spend**, because as the [compatibility map](/marine/marine-sim-controller-support) shows, several popular titles only see the wheel as binary left/right — in which case you spent $250 to press the arrow keys. I don't have a verified marine-context photo of the G29, so it's text-and-link only here, honestly flagged rather than faked: Logitech G29 on Amazon.
 
 ## The budget tiers at a glance
 
@@ -229,7 +229,7 @@ VR sidesteps the hardware problem entirely, though it's a stretch on a strict bu
     <span class="gp-price">~$350 (Quest 3S) + $29.99 app</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3S&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

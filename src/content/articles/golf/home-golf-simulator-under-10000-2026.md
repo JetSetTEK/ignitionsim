@@ -78,7 +78,7 @@ This is the most balanced build because no single part eats the whole cart. It g
     <span class="gp-price">$3K class, watch sale pricing</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -108,7 +108,7 @@ The trick is restraint. Pair the R50 with a safe enclosure and a quality mat. Us
     <span class="gp-price">MSRP around $4,999.99</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -128,7 +128,7 @@ The **Rapsodo MLM2PRO** and **Garmin R10** can work well when the room has enoug
     <span class="gp-price">Budget launch monitor</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Rapsodo+MLM2PRO+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -164,7 +164,7 @@ Tom's Guide published a useful under-$10K real-world build using a Carl's Place 
     <span class="gp-price">Budget depends on size and add-ons</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -184,7 +184,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-price">Commonly around $1.3K</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -198,7 +198,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-price">Premium 4K projector tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+LK936ST+golf+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -215,13 +215,13 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
 
 ## Accessories People Forget
 
-| Accessory | Why it matters | Amazon search |
+| Accessory | Why it matters | Verified source |
 | --- | --- | --- |
-| Ceiling projector mount | Keeps shadow path and enclosure geometry stable | [Projector mount](https://www.amazon.com/s?k=ceiling+projector+mount&tag=ignitionsim-20) |
-| HDMI/USB active cables | Long runs need reliable signal | [Active HDMI cable](https://www.amazon.com/s?k=active+HDMI+cable+4K&tag=ignitionsim-20) |
-| Side barrier netting | Saves drywall, windows, and friendships | [Golf side barrier netting](https://www.amazon.com/s?k=golf+simulator+side+netting&tag=ignitionsim-20) |
-| LED track lighting | Camera launch monitors and human eyes both benefit | [Adjustable LED track lighting](https://www.amazon.com/s?k=adjustable+LED+track+lighting&tag=ignitionsim-20) |
-| Ball tray and rubber tees | Small friction reducer, huge day-to-day sanity | [Golf simulator ball tray](https://www.amazon.com/s?k=golf+simulator+ball+tray&tag=ignitionsim-20) |
+| Ceiling projector mount | Keeps shadow path and enclosure geometry stable | Projector mount |
+| HDMI/USB active cables | Long runs need reliable signal | Active HDMI cable |
+| Side barrier netting | Saves drywall, windows, and friendships | Golf side barrier netting |
+| LED track lighting | Camera launch monitors and human eyes both benefit | Adjustable LED track lighting |
+| Ball tray and rubber tees | Small friction reducer, huge day-to-day sanity | Golf simulator ball tray |
 
 ## What To Buy
 
@@ -231,7 +231,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-eyebrow">Best value launch monitor path</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+ or ST MAX</a></span>
     <p class="gp-why">The sensible under-$10K anchor for many indoor rooms. Spend the savings on the room infrastructure.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -241,7 +241,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-eyebrow">Best practical enclosure path</span>
     <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure</a></span>
     <p class="gp-why">Match size, screen, pipe kit, back cover, foam, and side protection to the room. This is where under-$10K builds get real.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Carls+Place+DIY+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -251,7 +251,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-eyebrow">Best projector budget saver</span>
     <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">Spend here when the BenQ tier blows up the budget. Check throw and offset first.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Optoma+GT2100HDR+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -261,7 +261,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
     <span class="gp-eyebrow">Best body-protection spend</span>
     <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
     <p class="gp-why">The part you touch every swing. A better mat can be the difference between daily practice and a very expensive room you avoid.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Fiberbuilt+golf+simulator+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

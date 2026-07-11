@@ -65,7 +65,7 @@ The catch you cannot ignore: **SkyTrak's own store lists the SkyTrak+ as no long
     <span class="gp-price">~$1,795–$1,995 closeout (was $2,995)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -129,7 +129,7 @@ For the full three-way scoring on accuracy and total cost of ownership at this t
     <span class="gp-price">~$2,499 base (subscriptions extra)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -158,7 +158,7 @@ Neither is a wrong answer. The wrong answer is paying full ST MAX money expectin
     <span class="gp-price">~$2,995</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -181,7 +181,7 @@ If you are shopping the SkyTrak world on a tight budget, you will bump into the 
     <span class="gp-price">Used pricing varies by condition</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-og-launch-monitor">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -199,7 +199,7 @@ If you want **fitting-grade club data** for swing engineering or club building, 
     <span class="gp-price">~$6,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -215,7 +215,7 @@ If your worry is SkyTrak's software direction and you want a **no-PC, self-conta
     <span class="gp-price">~$4,999</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -231,12 +231,12 @@ And if you have a deep room and want a **measured-club radar with no recurring f
     <span class="gp-price">~$1,299 base</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=FlightScope+Mevo+Gen+2+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
 
-If your room has 9–10 feet of ceiling and you want to build once at the top of the value curve, the overhead **Uneekor EYE XO2** (roughly $11,000–$14,000) delivers GCQuad-class accuracy over a huge hitting zone with native GSPro, E6, and TGC 2019 support — no software-policy asterisk. We don't have a verified studio photo for it yet, so it's a text mention here: [check current EYE XO2 pricing](https://www.amazon.com/s?k=Uneekor+EYE+XO2+launch+monitor&tag=ignitionsim-20){rel="sponsored nofollow noopener"}.
+If your room has 9–10 feet of ceiling and you want to build once at the top of the value curve, the overhead **Uneekor EYE XO2** (roughly $11,000–$14,000) delivers GCQuad-class accuracy over a huge hitting zone with native GSPro, E6, and TGC 2019 support — no software-policy asterisk. We don't have a verified studio photo for it yet, so it's a text mention here: check current EYE XO2 pricing{rel="sponsored nofollow noopener"}.
 
 ## The Buy Order
 
@@ -254,7 +254,7 @@ If your room has 9–10 feet of ceiling and you want to build once at the top of
     <span class="gp-eyebrow">Best if you want the current, warrantied unit</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
     <p class="gp-why">The in-production SkyTrak. Same accuracy as the +, plus dual USB-C, speed training, and full support. The safe SkyTrak buy in 2026.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -264,7 +264,7 @@ If your room has 9–10 feet of ceiling and you want to build once at the top of
     <span class="gp-eyebrow">Best if you want the same accuracy for less</span>
     <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+ (closeout)</a></span>
     <p class="gp-why">Identical data to the MAX at up to ~$1,000 less. Buy it as a clearance deal with your software plan settled and end-of-life status accepted.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+Plus+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -274,7 +274,7 @@ If your room has 9–10 feet of ceiling and you want to build once at the top of
     <span class="gp-eyebrow">Best conventional GSPro/FSX path</span>
     <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">If SkyTrak's software direction is the dealbreaker, the Launch Pro gives GC3-grade ball data with a normal FSX-plus-GSPro path. Just run the subscription math.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -284,7 +284,7 @@ If your room has 9–10 feet of ceiling and you want to build once at the top of
     <span class="gp-eyebrow">Best fitting-grade step up</span>
     <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight Sports GC3</a></span>
     <p class="gp-why">The upgrade if you fit clubs or instruct. Triple-camera club data the SkyTrak line can't match, with lifetime FSX Play on the straight GC3.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Foresight+GC3+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

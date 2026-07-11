@@ -62,9 +62,9 @@ For **airliner-leaning newcomers**, the alternative is the [Thrustmaster TCA Sid
 
 At this tier you do not buy pedals. Every device here has a twist or rocker rudder axis, and it's plenty for early flying.
 
-The Logitech G PRO Flight Yoke System is text-and-link only below because we haven't verified an exact studio photo for it; the Amazon search shows current listings.
+The Logitech G PRO Flight Yoke System is text-and-link only below because we haven't verified an exact studio photo for it; we are withholding marketplace links until the exact listing is verified.
 
-- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**, [check Amazon](https://www.amazon.com/s?k=Logitech+G+PRO+Flight+Yoke+System&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <aside class="gearpick">
 
@@ -76,7 +76,7 @@ The Logitech G PRO Flight Yoke System is text-and-link only below because we hav
     <span class="gp-price">~$80</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -92,7 +92,7 @@ The Logitech G PRO Flight Yoke System is text-and-link only below because we hav
     <span class="gp-price">~$130</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -121,7 +121,7 @@ Run the Alpha alongside the throttle quadrant you already own from Build 1, or a
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -139,7 +139,7 @@ For **Airbus flyers** building their second piece instead, the parallel move is 
     <span class="gp-price">~$100</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Quadrant+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -161,7 +161,7 @@ This is the build I point most newcomers toward if they already know flight sim 
     <span class="gp-price">~$300 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -190,7 +190,7 @@ The moment to buy pedals is specific: when you start flying crosswind landings, 
 
 The Logitech G Flight Rudder Pedals are text-and-link only here because we haven't verified an exact studio photo:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**, [check Amazon](https://www.amazon.com/s?k=Logitech+G+Flight+Rudder+Pedals&tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
 
 <aside class="gearpick">
 
@@ -202,7 +202,7 @@ The Logitech G Flight Rudder Pedals are text-and-link only here because we haven
     <span class="gp-price">~$350 official · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Charlie+Rudder+Pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -222,7 +222,7 @@ If your week on the gamepad told you your future is a Boeing glass cockpit rathe
     <span class="gp-price">~$500 · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Yoke+Pack+Boeing+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -257,7 +257,7 @@ And don't buy the obvious top pick against your own airplane. Don't buy the Hone
     <span class="gp-eyebrow">The cheapest credible first buy</span>
     <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">At ~$80, the best value in flight sim and the correct rung-one buy for the Fenix A320. Add the TCA Quadrant for under $200 total and you're flying a credible Airbus cockpit — no yoke required.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+TCA+Sidestick+Airbus+Edition&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -269,7 +269,7 @@ And don't buy the obvious top pick against your own airplane. Don't buy the Hone
     <span class="gp-eyebrow">The GA starting point most pilots wish they'd bought first</span>
     <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha</a></span>
     <p class="gp-why">At ~$300, the yoke that turns "flying a Cessna" into "flying a Cessna properly." Add the Bravo when budget allows and the Charlie after that, and you've climbed the whole GA ladder in the right order.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Aeronautical+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -281,7 +281,7 @@ And don't buy the obvious top pick against your own airplane. Don't buy the Hone
     <span class="gp-eyebrow">The console all-in-one</span>
     <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flightstick</a></span>
     <p class="gp-why">At ~$130, one Xbox- and PC-licensed device with an integrated twist rudder to get a console flyer airborne. Keep an eye on the TCA Sky Yoke if you'd rather have a cross-console yoke than a stick.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Turtle+Beach+VelocityOne+Flightstick&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>

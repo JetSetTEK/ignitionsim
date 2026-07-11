@@ -37,7 +37,7 @@ related:
   - "vkb-gladiator-to-gunfighter-upgrade-path"
 ---
 
-Verdict first: **buy the [WinWing Ursa Minor Space](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) pair if you want the most feel-per-dollar right now — the in-stick vibration motor is real immersion the Gladiator can't match, and it's usually the cheaper pair. Buy the [VKB Gladiator NXT EVO Space Combat Edition](/space/gear/vkb-gladiator-nxt-evo-space-combat-edition) pair if you suspect you'll climb, because it's the bottom rung of a ladder that ends at a tunable Gunfighter you build without throwing anything away.** Both clear the only hardware bar that matters at this price — contactless magnetic sensors — for roughly the same money, so you are not choosing between a good stick and a bad one. You're choosing between feedback today and a future you grow into.
+Verdict first: **buy the WinWing Ursa Minor Space pair if you want the most feel-per-dollar right now — the in-stick vibration motor is real immersion the Gladiator can't match, and it's usually the cheaper pair. Buy the [VKB Gladiator NXT EVO Space Combat Edition](/space/gear/vkb-gladiator-nxt-evo-space-combat-edition) pair if you suspect you'll climb, because it's the bottom rung of a ladder that ends at a tunable Gunfighter you build without throwing anything away.** Both clear the only hardware bar that matters at this price — contactless magnetic sensors — for roughly the same money, so you are not choosing between a good stick and a bad one. You're choosing between feedback today and a future you grow into.
 
 These are the two sticks every space-sim forum points a new pilot toward, and the recommendation is earned. Neither drifts. Both fly fine out of the box. The separation isn't on the spec sheet — it's in philosophy. If you haven't decided that two sticks is even your layout yet, start with [HOSAS vs HOTAS](/space/hosas-vs-hotas) first; if you have, this is the closest call in the budget tier, and below is exactly how I'd make it.
 
@@ -50,7 +50,7 @@ The WinWing Ursa Minor is the other half of this comparison, but you'll notice i
 
 <div class="callout warning">
   <div class="ct">// Honest photo gap</div>
-  <p>We don't yet have a verified in-house product photo of the WinWing Ursa Minor Space, so it's kept text-only throughout this guide rather than shown with an image we can't stand behind. Every WinWing buy link points to an Amazon search — confirm you're getting the <strong>Space</strong> (twist) variant, not the Fighter, and check current price and handedness before checkout. The VKB Gladiator and its upgrade path are shown with verified photos.</p>
+  <p>We don't yet have a verified in-house product photo of the WinWing Ursa Minor Space, so it's kept text-only throughout this guide rather than shown with an image we can't stand behind. Marketplace links are withheld until the exact ASIN is verified — confirm you're getting the <strong>Space</strong> (twist) variant, not the Fighter, and check current price and handedness before checkout. The VKB Gladiator and its upgrade path are shown with verified photos.</p>
 </div>
 
 ## Spec-for-spec
@@ -87,7 +87,7 @@ The trade-offs are honest ones. The gimbal leans on glass-fiber-reinforced nylon
   <p>Because we don't have a verified in-house photo, cross-shop the real thing: the official <a href="https://winwingsim.com/" target="_blank" rel="noopener">WinWing US store</a> gallery, in-stock listings at <a href="https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l" target="_blank" rel="noopener">Micro Center</a>, and independent hands-on reviews. Then buy the variant whose hats and mini-stick fit your binding plan — and confirm it's the <strong>Space</strong> (twist) version, not the Fighter.</p>
 </div>
 
-Amazon search for the pair: [WinWing Ursa Minor Space joystick](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — buy one left-angled and one right-angled for a HOSAS pair, and verify current price at checkout.
+the pair: WinWing Ursa Minor Space joystick — buy one left-angled and one right-angled for a HOSAS pair, and verify current price at checkout.
 
 ## The Gladiator's case: pedigree and the ladder
 
@@ -106,7 +106,7 @@ The cost of that pedigree runs two ways. Per stick, the Gladiator is usually a t
     <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ Whichever stick you pick, two costs sit outside the stick's price tag — and th
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -166,7 +166,7 @@ Neither the Ursa Minor nor the Gladiator has enough buttons for a fully-bound St
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -189,11 +189,11 @@ Neither the Ursa Minor nor the Gladiator has enough buttons for a fully-bound St
     <span class="gp-eyebrow">The sticks (if you'll climb) · buy one L + one R</span>
     <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
     <p class="gp-why">The right first HOSAS if you suspect you'll upgrade. Magnetic sensors, lockable twist, all-metal internals, and a clean path to a Gunfighter base. If you want vibration and the cheaper pair instead, the WinWing Ursa Minor Space is the alternative — text-only here, links below.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
-For the vibration-and-value side of the trade, the **WinWing Ursa Minor Space** is text-only in this guide — buy a left and a right via [Amazon search](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> and confirm the Space (twist) variant.
+For the vibration-and-value side of the trade, the **WinWing Ursa Minor Space** is text-only in this guide — buy a left and a right through a verified marketplace listing and confirm the Space (twist) variant.
 
 <aside class="gearpick">
   <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Buy with the sticks</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
@@ -201,7 +201,7 @@ For the vibration-and-value side of the trade, the **WinWing Ursa Minor Space** 
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a light HOSAS pair. One per stick, locked rigid at an ergonomic angle. The difference between precise aiming and chasing a stick across your desk.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -211,7 +211,7 @@ For the vibration-and-value side of the trade, the **WinWing Ursa Minor Space** 
     <span class="gp-eyebrow">The bind fixer</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames 200-plus binds with labeled keys and folders. Brand-agnostic across both sticks, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

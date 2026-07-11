@@ -91,7 +91,7 @@ Overhead means ceiling work, power, networking, alignment, service access, and i
     <span class="gp-price">~$11K-$14K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/uneekor-eye-xo2">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Uneekor%20EYE%20XO2%20golf%20launch%20monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -105,7 +105,7 @@ Overhead means ceiling work, power, networking, alignment, service access, and i
     <span class="gp-price">~$15K class</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/foresight-falcon">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Foresight%20Falcon%20launch%20monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

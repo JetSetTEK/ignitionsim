@@ -77,7 +77,7 @@ Step up to the [Quest 3](/racing/gear/meta-quest-3) at $599.99 and you get the t
     <span class="gp-price">$349.99 (128GB)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/meta-quest-3s">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3S&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -91,7 +91,7 @@ Step up to the [Quest 3](/racing/gear/meta-quest-3) at $599.99 and you get the t
     <span class="gp-price">$599.99 (512GB)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -118,7 +118,7 @@ Now the honesty the sticker doesn't carry. At ~$1,783 it is not an impulse buy, 
     <span class="gp-price">~$1,783</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/pimax-crystal-super">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Super&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -134,7 +134,7 @@ If the Crystal Super's price or GPU demand is a bridge too far, the [Pimax Cryst
     <span class="gp-price">~$899</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Light&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -154,7 +154,7 @@ The trade is setup tax and total cost. The Beyond 2 is $1,019 (or $1,219 for the
     <span class="gp-price">$1,019 ($1,219 w/ eye-tracking 2e)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/bigscreen-beyond-2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bigscreen+Beyond+2&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -203,7 +203,7 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
     <span class="gp-eyebrow">Try VR without the risk</span>
     <span class="gp-name"><a href="/flight/gear/meta-quest-3s">Meta Quest 3S</a></span>
     <p class="gp-why">$349.99, standalone or PCVR, lowest GPU bar in this guide. The right first VR purchase for almost everyone — answer the "is this for me" question before you spend more.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3S&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -213,7 +213,7 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
     <span class="gp-eyebrow">If you have the RTX 5090</span>
     <span class="gp-name"><a href="/flight/gear/pimax-crystal-super">Pimax Crystal Super</a></span>
     <p class="gp-why">The sharpest sim VR of 2026 — every gauge readable, no base stations. Only worth it once the GPU can feed it, but when it can, nothing else looks like this.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Pimax+Crystal+Super&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -223,7 +223,7 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
     <span class="gp-eyebrow">For long, comfortable sessions</span>
     <span class="gp-name"><a href="/flight/gear/bigscreen-beyond-2">Bigscreen Beyond 2</a></span>
     <p class="gp-why">107 grams of micro-OLED that disappears over a long flight. Buy it when hours-long comfort is your priority — and budget the base stations that aren't in the box.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Bigscreen+Beyond+2&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

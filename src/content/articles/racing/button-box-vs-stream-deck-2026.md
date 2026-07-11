@@ -90,7 +90,7 @@ Early in 2026 Elgato also announced the **Stream Deck + XL**, expanding the XL t
     <span class="gp-price">~£230 / ~$250</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -103,7 +103,7 @@ If you land on the button-box side, you're choosing between DIY, budget pre-buil
 - **Precision Sim Engineering Pro Switch Panel** (~$250) — 20 RGB-lit buttons plus joysticks, RAM/VESA mountable.
 - **ignitiON Controls Mini RR** (~£399) and **GRID / Apex** replica boxes — the premium, real-automotive-switch end for buyers who want the look and feel of a genuine GT3 panel.
 
-None of these has a verified product photo in our library yet, so we're citing them as text plus an Amazon search rather than showing an image we can't stand behind. When we source real photos, they graduate to gearpick cards.
+None of these has a verified product photo in our library yet, so we're citing them as text-only until we verify exact listings and images. When we source real photos, they graduate to gearpick cards.
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -128,7 +128,7 @@ If you're a sprint-race-only GT driver, your wheel is enough and the money belon
 
 <div class="callout tip">
   <div class="ct">// Check the rim first</div>
-  <p>Before you buy a control panel, check whether your wheel already covers you. A real-GT round rim like the <a href="/racing/gear/moza-rs-v2">MOZA RS V2</a> (~$249) — programmable buttons, dual-clutch paddles, shift LEDs and a rotary or two — handles sprint racing without a box or a deck in sight. Run out of inputs first; then add a panel. (<a href="https://www.amazon.com/s?k=MOZA+RS+V2+wheel&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon ↗</a>)</p>
+  <p>Before you buy a control panel, check whether your wheel already covers you. A real-GT round rim like the <a href="/racing/gear/moza-rs-v2">MOZA RS V2</a> (~$249) — programmable buttons, dual-clutch paddles, shift LEDs and a rotary or two — handles sprint racing without a box or a deck in sight. Run out of inputs first; then add a panel. ( Amazon direct link pending)</p>
 </div>
 
 ## What the community says

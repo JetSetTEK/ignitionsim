@@ -68,7 +68,7 @@ The **Rapsodo MLM2PRO** is the other budget name to know. It adds strong app pol
     <span class="gp-price">Budget tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r10">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R10&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -88,7 +88,7 @@ This is the tier where most serious home buyers should start if the room is not 
     <span class="gp-price">Mid-tier photometric</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/skytrak-st-max">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SkyTrak+ST+MAX&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -108,7 +108,7 @@ If you already plan to run GSPro on a PC with a projector, the R50's convenience
     <span class="gp-price">Premium convenience</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -126,7 +126,7 @@ The **Bushnell Launch Pro** is compelling because Foresight-grade sensing enters
     <span class="gp-price">Premium tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Bushnell+Launch+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

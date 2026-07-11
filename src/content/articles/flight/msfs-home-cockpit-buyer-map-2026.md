@@ -78,7 +78,7 @@ If you fly Airbus, fighters, helicopters, or space/flight hybrids, a stick may m
     <span class="gp-price">Yoke tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Alpha+Flight+Controls&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -98,7 +98,7 @@ Airbus-focused builders may prefer the **Thrustmaster TCA Quadrant Airbus**. Mil
     <span class="gp-price">Throttle tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Honeycomb+Bravo+Throttle+Quadrant&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -122,7 +122,7 @@ Head tracking changes how you fly because it removes the mouse from basic visual
     <span class="gp-price">Awareness tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Full review</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

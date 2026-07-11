@@ -78,7 +78,7 @@ The Heusinkveld Sprint is still the reference example because Heusinkveld lists 
     <span class="gp-price">Premium load-cell tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -92,7 +92,7 @@ The Heusinkveld Sprint is still the reference example because Heusinkveld lists 
     <span class="gp-price">Mid-tier load-cell pick</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -112,7 +112,7 @@ The upside is confidence. A good hydraulic pedal can help you lean into the brak
     <span class="gp-price">Hydraulic mid/high tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simagic-p2000">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simagic+P2000+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -126,7 +126,7 @@ The upside is confidence. A good hydraulic pedal can help you lean into the brak
     <span class="gp-price">Flagship hydraulic tier</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Asetek+Invicta+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -148,7 +148,7 @@ The strongest active-pedal use case is **profile switching**. GT3 one session, v
     <span class="gp-price">Starting around $1.8K per pedal</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+ActivePedal+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -162,7 +162,7 @@ The strongest active-pedal use case is **profile switching**. GT3 one session, v
     <span class="gp-price">$799 regular / sale pricing varies</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+mBooster+Active+Pedal&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -195,7 +195,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
     <span class="gp-eyebrow">First genuinely serious brake</span>
     <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
     <p class="gp-why">The classic club-racer step: precise load-cell feel, clean software, and a brake pedal that rewards pressure discipline instead of ankle guesswork.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -205,7 +205,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
     <span class="gp-eyebrow">Best sane-money PC pick</span>
     <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">Strong spec, strong price, strong place to stop before the pedal budget gets unwell.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -215,7 +215,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
     <span class="gp-eyebrow">Best long-term load-cell pick</span>
     <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
     <p class="gp-why">The high-quality pedal set that can survive multiple wheelbase upgrades.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -225,7 +225,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
     <span class="gp-eyebrow">Best active pedal</span>
     <span class="gp-name"><a href="/racing/gear/simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
     <p class="gp-why">Buy when the question is not "should I upgrade?" but "how much do I value profiles and pedal feedback?"</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Simucube+ActivePedal+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

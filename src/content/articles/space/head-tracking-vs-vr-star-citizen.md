@@ -75,7 +75,7 @@ Head tracking does one thing exceptionally well: it moves your in-game view as y
     <span class="gp-price">~$150 (TrackClip Pro bundle ~$175-180 — check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=NaturalPoint+TrackIR+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -93,7 +93,7 @@ The **[Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5)** is the clip-free
     <span class="gp-price">~$339 US (was $299 — verify current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Tobii+Eye+Tracker+5&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -131,7 +131,7 @@ VR is the more breathtaking experience, full stop. The sense of scale inside a S
     <span class="gp-price">~$500 (check for sales)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Meta+Quest+3&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 
@@ -174,7 +174,7 @@ For most pilots on a monitor, the whole "look around" question is answered by on
     <span class="gp-eyebrow">The look-around answer for a flat screen</span>
     <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The right buy for the vast majority of Star Citizen pilots. Full-accuracy 6DOF head tracking, zero frame-rate cost, no motion sickness, and your keyboard stays in view. Get the TrackClip Pro bundle if you fly in a gaming headset.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=NaturalPoint+TrackIR+5+TrackClip+Pro&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 
 </aside>
@@ -189,7 +189,7 @@ For most pilots on a monitor, the whole "look around" question is answered by on
     <span class="gp-price">~$250 (15-key MK.2 ~$150)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 

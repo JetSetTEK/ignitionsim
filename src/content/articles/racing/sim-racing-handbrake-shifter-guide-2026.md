@@ -84,10 +84,10 @@ If you drift or run gravel rally regularly, **buy load-cell.** If you pull the h
 
 Use the official spec links below to inspect current product photos, dimensions, compatibility, and mounting options before checkout. We are linking directly rather than using unverified third-party images.
 
-- **MOZA HBP Handbrake** — [official spec](https://us.mozaracing.com/products/hbp-handbrake) · <a href="https://www.amazon.com/s?k=MOZA+HBP+handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-- **Sim-Lab XB1 Load-Cell Handbrake** — [official spec](https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing) · <a href="https://www.amazon.com/s?k=Sim-Lab+XB1+handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-- **Fanatec ClubSport Handbrake V2** — [official spec](https://www.fanatec.com/us/en/p/add-ons/cs_hb_v2/clubsport-handbrake-v2) · <a href="https://www.amazon.com/s?k=Fanatec+ClubSport+Handbrake+V2&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-- **Heusinkveld Sim Handbrake V2** — [official spec](https://heusinkveld.com/) · <a href="https://www.amazon.com/s?k=Heusinkveld+Sim+Handbrake&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+- **MOZA HBP Handbrake** — [official spec](https://us.mozaracing.com/products/hbp-handbrake) · Verify exact model
+- **Sim-Lab XB1 Load-Cell Handbrake** — [official spec](https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing) · Verify exact model
+- **Fanatec ClubSport Handbrake V2** — [official spec](https://www.fanatec.com/us/en/p/add-ons/cs_hb_v2/clubsport-handbrake-v2) · Verify exact model
+- **Heusinkveld Sim Handbrake V2** — [official spec](https://heusinkveld.com/) · Verify exact model
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -106,9 +106,9 @@ Two completely different tools, and people buy the wrong one constantly.
 
 Use the official spec links below to inspect current shifter photos, dimensions, compatibility, and mounting options before checkout:
 
-- **MOZA SGP Sequential Shifter** — [official spec](https://us.mozaracing.com/products/sgp-shifter) · <a href="https://www.amazon.com/s?k=MOZA+SGP+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-- **Thrustmaster TH8A (H-pattern + sequential)** — [official spec](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/) · <a href="https://www.amazon.com/s?k=Thrustmaster+TH8A+shifter&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
-- **Fanatec ClubSport Shifter SQ V1.5** — [official spec](https://www.fanatec.com/us/en/p/sim-racing-accessories/clubsport-shifter-sq-v-1-5) · <a href="https://www.amazon.com/s?k=Fanatec+ClubSport+Shifter+SQ&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+- **MOZA SGP Sequential Shifter** — [official spec](https://us.mozaracing.com/products/sgp-shifter) · Verify exact model
+- **Thrustmaster TH8A (H-pattern + sequential)** — [official spec](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/) · Verify exact model
+- **Fanatec ClubSport Shifter SQ V1.5** — [official spec](https://www.fanatec.com/us/en/p/sim-racing-accessories/clubsport-shifter-sq-v-1-5) · Verify exact model
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -138,7 +138,7 @@ You need **zero flex** at the mount. A handbrake you pull hard and a shifter you
     <span class="gp-price">Rigid profile · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Sim-Lab+P1-X+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -152,7 +152,7 @@ You need **zero flex** at the mount. A handbrake you pull hard and a shifter you
     <span class="gp-price">Cockpit · check current</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Trak+Racer+TR80+cockpit&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -175,7 +175,7 @@ Before you spend a dollar here, the honest-broker note that saves the most money
     <span class="gp-price">~$399 (US)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=MOZA+CRP2+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -189,7 +189,7 @@ Before you spend a dollar here, the honest-broker note that saves the most money
     <span class="gp-price">~€495 (2-pedal)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Heusinkveld+Sprint+pedals&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>

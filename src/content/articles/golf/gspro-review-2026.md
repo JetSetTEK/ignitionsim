@@ -151,7 +151,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Launch monitor</p>
       <h3>SkyTrak Plus</h3>
       <p>A serious PC-bay candidate when you want data without jumping straight to overhead money.</p>
-      <a data-buy-link="true" href="https://www.amazon.com/SkyTrak-Launch-Monitor-Simulator-Bundle/dp/B0GJDRRGKC?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a data-buy-link="true" href="https://www.amazon.com/dp/B0GJDRRGKC?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -168,7 +168,6 @@ Nina's rule: if a product requires a forum thread to explain the connection path
 ## Bottom Line
 
 GSPro is worth building around if you are building a real home golf simulator, not a temporary net corner. It rewards people who plan the full system. Buy the software dream, yes, but buy the boring compatibility work first.
-
 
 ## Source Notes
 

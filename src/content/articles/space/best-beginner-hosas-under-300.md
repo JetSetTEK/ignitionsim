@@ -72,7 +72,7 @@ What you give up: it feels like an ~$80 stick because it is one. The springs are
     <span class="gp-price">~$80 each (~$150-160 the pair)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Thrustmaster+T.16000M+FCS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -90,7 +90,7 @@ Configured through WinWing's **SimAppPro** software, the Ursa Minor pair is the 
   <p>We don't yet have a verified in-house product photo of the WinWing Ursa Minor Space, so we're keeping it text-only here rather than showing an unverified image. Cross-shop it at the official <a href="https://winwingsim.com/" target="_blank" rel="noopener">WinWing US store</a> and check live stock at <a href="https://www.microcenter.com/product/686702/winwingursa-minor-space-joystick-l" target="_blank" rel="noopener">Micro Center</a>. Buy the <strong>Space</strong> variant (with twist), not the Fighter variant that drops it — and confirm you're getting one left-hand and one right-hand unit for a true mirrored pair.</p>
 </div>
 
-Amazon search for the Ursa Minor Space pair: [WinWing Ursa Minor Space joystick](https://www.amazon.com/s?k=WinWing+Ursa+Minor+Space+joystick&tag=ignitionsim-20) <span rel="sponsored nofollow noopener"></span> — verify handedness and the Space (twist) variant before checkout, and never fabricate the pair price from a single-stick listing.
+the Ursa Minor Space pair: WinWing Ursa Minor Space joystick — verify handedness and the Space (twist) variant before checkout, and never fabricate the pair price from a single-stick listing.
 
 ## Tier 3: VKB Gladiator NXT EVO pair — the upgrade-path play
 
@@ -109,7 +109,7 @@ The cost: VKB's **VKBDevCfg** tuning software is powerful and intimidating, and 
     <span class="gp-price">~$119 Standard / ~$139 Premium (each)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -123,7 +123,7 @@ The cost: VKB's **VKBDevCfg** tuning software is powerful and intimidating, and 
     <span class="gp-price">Base only · budget for a grip on top</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gunfighter+Mk+IV+base&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -141,7 +141,7 @@ If your heart is set on a one-box HOTAS to start, that's a legitimate different 
 
 <div class="callout tip">
   <div class="ct">// Logitech X52 / X56, honestly</div>
-  <p>We don't have a verified in-house photo of the Logitech X52 Pro, so it stays text-only here. If a single-box HOTAS is genuinely what you want, cross-shop the current X52 and X56 at the official <a href="https://www.logitechg.com/en-us/products/space/" target="_blank" rel="noopener">Logitech G store</a> and search <a href="https://www.amazon.com/s?k=Logitech+X52+HOTAS&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Logitech X52 HOTAS on Amazon</a> — but know you're buying a HOTAS on-ramp, not a HOSAS. It can't become the two-stick rig this guide is about.</p>
+  <p>We don't have a verified in-house photo of the Logitech X52 Pro, so it stays text-only here. If a single-box HOTAS is genuinely what you want, cross-shop the current X52 and X56 at the official <a href="https://www.logitechg.com/en-us/products/space/" target="_blank" rel="noopener">Logitech G store</a> and search Logitech X52 HOTAS on Amazon — but know you're buying a HOTAS on-ramp, not a HOSAS. It can't become the two-stick rig this guide is about.</p>
 </div>
 
 ## How to actually choose
@@ -163,7 +163,7 @@ Whatever you pick, budget for one thing this guide's prices don't include: **mou
     <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -208,7 +208,7 @@ Buying the sticks is the easy part. Four things trip up new HOSAS pilots more th
     <span class="gp-eyebrow">The sticks · buy one L + one R</span>
     <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
     <p class="gp-why">The upgrade-path pick for a pilot who knows they're staying. Magnetic sensors, twist, and a clean climb to a Gunfighter base. If VKB is out of stock, the WinWing Ursa Minor Space pair is the in-stock alternative at a similar price — and the twin T.16000M pair is the cheapest way to start if you're still testing the waters.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=VKB+Gladiator+NXT+EVO+Space+Combat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -218,7 +218,7 @@ Buying the sticks is the easy part. Four things trip up new HOSAS pilots more th
     <span class="gp-eyebrow">The mounts · buy two</span>
     <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
     <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk mid-dogfight.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Monstertech+joystick+table+mount&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 
@@ -228,7 +228,7 @@ Buying the sticks is the easy part. Four things trip up new HOSAS pilots more th
     <span class="gp-eyebrow">The bind fixer · optional, later</span>
     <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Not a day-one beginner buy, but the pragmatic fix for the 200-bind problem no stick can solve. Labeled keys with folders for power, shields, gear, and comms — brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade once you're past the basics.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/s?k=Elgato+Stream+Deck+XL&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a></span>
+
   </div>
 </aside>
 

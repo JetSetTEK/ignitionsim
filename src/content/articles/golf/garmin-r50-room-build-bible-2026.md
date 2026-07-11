@@ -245,7 +245,7 @@ If you want a clean bay, start with screen width, then projector throw ratio, th
     <p class="gp-why">The R50 can feed a projector over HDMI, but the projector still has to fit the room. The AK700ST is the premium 4K golf-specific path when screen size and budget make 4K worth it.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+simulator+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -292,7 +292,7 @@ Nina's line: **The R50 should simplify the room, not excuse you from planning it
     <p class="gp-why">The R50 is the article's anchor because it changes the room workflow. Built-in touchscreen, no-PC Home Tee Hero path, HDMI output, impact video, and premium camera-based data make it the cleanest appliance-style golf sim buy.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/garmin-approach-r50">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=Garmin+Approach+R50+launch+monitor&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -305,7 +305,7 @@ Nina's line: **The R50 should simplify the room, not excuse you from planning it
     <p class="gp-why">A serious R50 room deserves a real target, not a sad sheet and hope. The enclosure gives the image a home and gives bad shots somewhere safer to die.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sig10-enclosure">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIG10+golf+simulator+enclosure&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -318,7 +318,7 @@ Nina's line: **The R50 should simplify the room, not excuse you from planning it
     <p class="gp-why">The mat is where the build touches your body. A large platform keeps stance and ball level, and a swappable hitting strip keeps one worn groove from becoming the whole mat's obituary.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=SIGPRO+4x7+golf+mat&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
@@ -331,17 +331,17 @@ Nina's line: **The R50 should simplify the room, not excuse you from planning it
     <p class="gp-why">If you are using the R50 as the simulator source, the projector is how the appliance becomes a room. Measure throw first, then buy the picture.</p>
     <span class="gp-actions">
       <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/s?k=BenQ+AK700ST+golf+simulator+projector&tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Check Amazon</a>
+
     </span>
   </div>
 </aside>
 
 Also price the boring finishers:
 
-- [Golf simulator side netting on Amazon](https://www.amazon.com/s?k=golf+simulator+side+barrier+netting&tag=ignitionsim-20)
-- [Golf simulator landing turf on Amazon](https://www.amazon.com/s?k=golf+simulator+landing+turf&tag=ignitionsim-20)
-- [HDMI cable and cable raceway on Amazon](https://www.amazon.com/s?k=hdmi+cable+raceway+cable+management&tag=ignitionsim-20)
-- [Golf impact screen protection on Amazon](https://www.amazon.com/s?k=golf+simulator+impact+screen+protection&tag=ignitionsim-20)
+- Golf simulator side netting on Amazon
+- Golf simulator landing turf on Amazon
+- HDMI cable and cable raceway on Amazon
+- Golf impact screen protection on Amazon
 
 ## Final Verdict
 
