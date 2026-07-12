@@ -38,13 +38,15 @@ const schema: Record<string, any>[] = [
     name: `${person.name} · IgnitionSim curator`,
     description: person.profile,
     url: new URL(`/curator/${crewSlug(person)}`, site.url).href,
+    creator: { '@type': 'Person', name: site.author.name, url: new URL('/about', site.url).href },
     mainEntity: {
-      '@type': 'Person',
+      '@type': 'Thing',
       name: person.name,
+      additionalType: 'AI-assisted editorial persona',
       description: person.authorBio || person.profile,
       image: new URL(person.image, site.url).href,
       knowsAbout: expertise,
-      worksFor: { '@type': 'Organization', name: site.name, url: site.url },
+      creator: { '@type': 'Person', name: site.author.name, url: new URL('/about', site.url).href },
     },
   },
 ];
@@ -69,6 +71,7 @@ if (takes.length) {
         <p class="tagline">{person.tagline}</p>
         <p class="motto">&ldquo;{person.catchphrase || person.motto}&rdquo;</p>
         <p>{person.profile}</p>
+        <p class="persona-note">AI-assisted editorial persona · created and reviewed by <a href="/about">{site.author.name}</a>.</p>
         <p class="since">{person.since}</p>
         <div class="profile-actions">
           <a class="btn btn-primary btn-lg" href="#takes">Ask {first}</a>
@@ -100,13 +103,13 @@ if (takes.length) {
       <div class="shop-copy">
         <span class="lbl lbl-accent">How {first} got here</span>
         <p class="origin">{person.origin}</p>
-        <p class="trust"><b>Why trust {first}:</b> {person.trustLine}</p>
+        <p class="trust"><b>{first}'s editorial lens:</b> {person.trustLine}</p>
       </div>
     </section>
 
     <section class="know-band">
       <div class="know-head">
-        <span class="lbl lbl-accent">// What {first} actually knows</span>
+        <span class="lbl lbl-accent">// What {first} is built to investigate</span>
         <h2>{person.credentials}</h2>
       </div>
       <ul class="expertise-tags">

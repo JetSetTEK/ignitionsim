@@ -22,6 +22,14 @@ Companion benchmark: `docs/PUZZLEWICK-TO-IGNITIONSIM-STANDARD.md` is now the tra
 - Clean slate means the public UI has to earn trust too. Do not publish a surface just because it builds: homepage modules, bay hubs, product pages, gear indexes, best-of rankings, brand pages, tools, sitemap, and footer/navigation links must feel complete, visual, useful, and aligned with the Gen X builder-command-center direction.
 - Product, brand, best-of, and tool surfaces stay noindexed or out of navigation until they have the same buyer usefulness as certified articles: real product imagery, review/source snapshots, warnings, affiliate paths, and clear verdict logic.
 
+## Quantitative Certification Gate
+- Run `npm run audit:quality` before certifying or materially refreshing an article. The report is written to `reports/ignitionsim-worldclass-quality.md` and `.json`.
+- A new revenue-tier A cornerstone must score at least **85/100** before publication. A score never excuses weak facts, wrong product identity, unclear rights, or bad judgment; it only catches omissions that visual review routinely misses.
+- Minimum cornerstone evidence: 1,800 useful editorial words, 8 source URLs with official sources for hard claims, 10 unique images, 70% image uniqueness, one real use/install photo, one curator action scene, and one practical diagram. The 90-point target raises that to roughly 2,400 words, 10 sources, 12 unique images, two use/install photos, two curator action scenes, and two useful diagrams.
+- Product images repeated in multiple cards count once. Repetition is layout, not evidence. A gallery of the same white-background object from nearly identical angles does not pass the visual-diversity requirement.
+- Existing certified pages below 85 enter the revenue-weighted rescue queue. Tier A pages are repaired first. Certification is not expanded to additional pages while higher-value certified pages still contain placeholders, repeated art, weak sourcing, or no real-use proof.
+- The scorecard is a triage instrument, not an automatic demotion bot. Editorial review decides whether an older page remains public while it is refreshed, but no new article may knowingly ship below the gate.
+
 ## UI And Experience Standard
 - The site should feel like a Gen X simulator builder command center: real garage/workbench energy, PC-gaming-magazine confidence, product catalog clarity, and engineering practicality.
 - Cornerstone philosophy: create the worlds that our viewers are trying to live in with these sims. Racing should feel like a garage/pit lane. Golf should feel like a private practice bay. Flight should feel like a cockpit. Space should feel like a command station. Marine should feel like a bridge. Never let the public UI collapse into a generic shopping grid.
@@ -55,6 +63,7 @@ Companion benchmark: `docs/PUZZLEWICK-TO-IGNITIONSIM-STANDARD.md` is now the tra
   4. Add reality-check annotations where useful: room depth, ceiling height, cable path, mount point, projector throw, pedal flex, USB hub, return-window warning, or subscription trap.
   5. QA the final image for fake-looking screens, warped products, wrong scale, impossible ergonomics, unreadable text, unsafe setup geometry, and any component that could be mistaken for a real recommendation but is not.
 - AI curators are fictional editorial hosts. Label them as AI curator scenes in the UI when they appear in generated lifestyle imagery.
+- Curators are not represented as real product testers, owners, or independent human reviewers. Robert Pruitt is the accountable author/editor in visible bylines and article schema; the crew member is an AI-assisted editorial persona and schema contributor. Persona copy may synthesize sourced evidence, but it must never invent first-hand ownership or testing.
 - Before publishing any AI scene, inspect it for fake screens, impossible workstations, wrong scale, malformed controls, confusing product lookalikes, unsafe setup geometry, and distracting layout artifacts. If it creates trust friction, replace it or move it out of the hero.
 - Do not use procedural/abstract placeholder art for certified article covers, related cards, gear cards, product benches, or money-page thumbnails. If a public card cannot show real product/use/parts imagery, the page stays `refresh` until it can.
 - Product thumbnails and gear cards should center the product, use `object-fit: contain`, and avoid aggressive cropping.
@@ -84,6 +93,7 @@ Every cornerstone article should include:
 - Internal links to the bay hub, gear pages, adjacent buyer maps, and relevant best-of rankings.
 - FAQ blocks written as direct answer-engine bait: short, specific, accurate, and useful.
 - Product schema, article schema, FAQ schema, descriptive image alt text, and a clear updated date when refreshed.
+- Contextual crew participation: the responsible curator should answer the current page's central question, surface a memorable caveat, and recommend the next useful guide. Static biography alone does not count.
 
 ## Product Review Standard
 - Never fabricate prices, review counts, star ratings, stock status, dimensions, compatibility, or firmware claims.
@@ -145,6 +155,7 @@ Manual surfaces that must be decided and updated before publish:
 Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
 - Run `npm run gold-audit`; it must pass before build, deploy, or push. The build now runs this automatically, but run it directly while editing so failures are caught early.
+- Run `npm run audit:quality`; new Tier A work must meet the 85-point gate and the report must show no missing real-use proof, curator action, practical diagram, or non-direct Amazon link.
 - Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended exact product. Amazon links must be direct `/dp/ASIN` URLs with `tag=ignitionsim-20`; no search-result URLs ship.
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.
 - Check article cards and homepage modules for wrong-product, duplicate-product, logo-only, or marketplace-placeholder imagery. Fix the source image or cover generator before publishing.

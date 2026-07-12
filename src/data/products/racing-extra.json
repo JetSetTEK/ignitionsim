@@ -609,12 +609,12 @@
     "type": "base",
     "brand": "Fanatec",
     "model": "ClubSport DD+",
-    "price": 999,
-    "priceNote": "base price varies by bundle and sale",
+    "price": 899,
+    "priceNote": "US base price checked July 13, 2026; verify live pricing and firmware before purchase",
     "image": "/images/gear/racing/fanatec-clubsport-dd-plus.webp",
-    "summary": "The Fanatec ClubSport DD+ is the premium PlayStation direct-drive base: 15 Nm of sustained torque, official PS5/PS4 support, PC support, QR2, FullForce support and Fanatec ecosystem compatibility. Fanatec's Xbox compatibility model means Xbox support can depend on pairing with an Xbox-compatible Fanatec wheel, so PlayStation buyers should treat it as the premium PS/PC base first and Xbox-capable only when configured correctly.",
+    "summary": "The Fanatec ClubSport DD+ is the premium PlayStation direct-drive base: 18 Nm of holding torque after Fanatec's May 2026 firmware update, official PS5/PS4 support, PC support, QR2, FullForce support and Fanatec ecosystem compatibility. Fanatec's Xbox compatibility model means Xbox support can depend on pairing with an Xbox-compatible Fanatec wheel, so PlayStation buyers should treat it as the premium PS/PC base first and Xbox-capable only when configured correctly.",
     "specs": {
-      "Torque": "15 Nm sustained",
+      "Torque": "18 Nm holding after May 2026 firmware update",
       "Feedback": "FullForce / FluxBarrier",
       "Quick release": "QR2",
       "Cooling": "Passive",
@@ -623,7 +623,7 @@
     },
     "pros": [
       "Strongest mainstream PlayStation DD base",
-      "15 Nm sustained torque with QR2",
+      "18 Nm holding torque with QR2 after the 2026 firmware update",
       "Deep Fanatec ecosystem"
     ],
     "cons": [

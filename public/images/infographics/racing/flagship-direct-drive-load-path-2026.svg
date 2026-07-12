@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Flagship direct drive wheelbase load path and cockpit audit</title>
+  <desc id="desc">A five-stage diagram showing force traveling from the wheel rim through the quick release, motor mount, cockpit uprights, floor and driver, with checks for flex and safety.</desc>
+  <rect width="1600" height="900" fill="#0d1720"/>
+  <path d="M0 120H1600M0 450H1600M0 780H1600" stroke="#203746" stroke-width="2"/>
+  <text x="90" y="105" fill="#ff6a2b" font-family="Arial, sans-serif" font-size="28" font-weight="700">IGNITIONSIM // LOAD-PATH AUDIT</text>
+  <text x="90" y="180" fill="#ffffff" font-family="Arial, sans-serif" font-size="55" font-weight="800">A flagship base can only report what the rig preserves.</text>
+  <text x="90" y="232" fill="#b9cad5" font-family="Arial, sans-serif" font-size="25">Push here. Watch every joint downstream. Fix the first moving interface.</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(80 330)"><rect width="260" height="280" rx="12" fill="#f4f7f8"/><circle cx="130" cy="72" r="45" fill="none" stroke="#ff6a2b" stroke-width="14"/><text x="26" y="155" font-size="28" font-weight="800" fill="#111c25">1. RIM + HUB</text><text x="26" y="198" font-size="20" fill="#435866">Check rim mass, hub,</text><text x="26" y="228" font-size="20" fill="#435866">QR play and fasteners.</text></g>
+    <g transform="translate(380 330)"><rect width="260" height="280" rx="12" fill="#f4f7f8"/><rect x="72" y="35" width="116" height="78" rx="10" fill="#1f9bd1"/><text x="26" y="155" font-size="28" font-weight="800" fill="#111c25">2. MOTOR</text><text x="26" y="198" font-size="20" fill="#435866">Set a safe ceiling.</text><text x="26" y="228" font-size="20" fill="#435866">Test torque-off access.</text></g>
+    <g transform="translate(680 330)"><rect width="260" height="280" rx="12" fill="#f4f7f8"/><path d="M55 105V35H205V105" fill="none" stroke="#ffbf3f" stroke-width="18"/><text x="26" y="155" font-size="28" font-weight="800" fill="#111c25">3. MOUNT</text><text x="26" y="198" font-size="20" fill="#435866">Use the correct bracket,</text><text x="26" y="228" font-size="20" fill="#435866">bolts and hole pattern.</text></g>
+    <g transform="translate(980 330)"><rect width="260" height="280" rx="12" fill="#f4f7f8"/><path d="M55 110V28M205 110V28M45 75H215" stroke="#39d3a2" stroke-width="15"/><text x="26" y="155" font-size="28" font-weight="800" fill="#111c25">4. COCKPIT</text><text x="26" y="198" font-size="20" fill="#435866">Watch uprights, corner</text><text x="26" y="228" font-size="20" fill="#435866">brackets and seat rails.</text></g>
+    <g transform="translate(1280 330)"><rect width="240" height="280" rx="12" fill="#f4f7f8"/><path d="M48 105H192M70 105V38M170 105V38" stroke="#c86df0" stroke-width="14"/><text x="24" y="155" font-size="28" font-weight="800" fill="#111c25">5. FLOOR</text><text x="24" y="198" font-size="20" fill="#435866">Level feet, lock casters,</text><text x="24" y="228" font-size="20" fill="#435866">protect the room.</text></g>
+    <path d="M340 470H380M640 470H680M940 470H980M1240 470H1280" stroke="#ff6a2b" stroke-width="8"/>
+    <path d="M370 470l-22-14v28zM670 470l-22-14v28zM970 470l-22-14v28zM1270 470l-22-14v28z" fill="#ff6a2b"/>
+    <rect x="80" y="670" width="1440" height="130" rx="12" fill="#152633" stroke="#39d3a2" stroke-width="3"/>
+    <text x="115" y="725" fill="#39d3a2" font-size="24" font-weight="700">DUKE'S PASS/FAIL RULE</text>
+    <text x="115" y="770" fill="#ffffff" font-size="27">If you can see the structure move while pushing the rim or braking, the cockpit belongs in the cart first.</text>
+  </g>
+</svg>

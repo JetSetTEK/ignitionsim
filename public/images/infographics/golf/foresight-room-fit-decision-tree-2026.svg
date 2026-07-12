@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Foresight launch monitor room-fit decision tree</title>
+  <desc id="desc">A decision tree choosing GC3, GCQuad or Falcon based on portability, fitting work, handedness and permanent ceiling installation.</desc>
+  <rect width="1600" height="900" fill="#eef7f2"/>
+  <text x="90" y="95" fill="#0e7c68" font-family="Arial, sans-serif" font-size="28" font-weight="700">IGNITIONSIM // FORESIGHT ROOM-FIT TREE</text>
+  <text x="90" y="170" fill="#13252c" font-family="Arial, sans-serif" font-size="56" font-weight="800">Choose the room architecture before the sensor.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="520" y="235" width="560" height="100" rx="14" fill="#13252c"/>
+    <text x="575" y="296" fill="#fff" font-size="29" font-weight="700">Will the launch monitor leave this room?</text>
+    <path d="M650 335V425M950 335V425" stroke="#13252c" stroke-width="7"/>
+    <text x="565" y="390" fill="#0e7c68" font-size="24" font-weight="700">YES</text><text x="980" y="390" fill="#0e7c68" font-size="24" font-weight="700">NO</text>
+    <rect x="260" y="425" width="520" height="100" rx="14" fill="#fff" stroke="#0e7c68" stroke-width="4"/>
+    <text x="310" y="486" fill="#13252c" font-size="28" font-weight="700">Is fitting / impact detail the paid job?</text>
+    <path d="M390 525V620M650 525V620" stroke="#13252c" stroke-width="7"/>
+    <rect x="180" y="620" width="360" height="150" rx="14" fill="#ffcf56"/>
+    <text x="290" y="678" fill="#13252c" font-size="38" font-weight="800">GC3</text>
+    <text x="220" y="724" fill="#13252c" font-size="22">Serious home + portable practice</text>
+    <rect x="570" y="620" width="360" height="150" rx="14" fill="#ef7f62"/>
+    <text x="650" y="678" fill="#13252c" font-size="38" font-weight="800">GCQUAD</text>
+    <text x="612" y="724" fill="#13252c" font-size="22">Coaching, fitting, impact workflow</text>
+    <rect x="850" y="425" width="520" height="100" rx="14" fill="#fff" stroke="#0e7c68" stroke-width="4"/>
+    <text x="900" y="468" fill="#13252c" font-size="27" font-weight="700">Permanent ceiling + mixed handedness</text>
+    <text x="980" y="502" fill="#647780" font-size="21">Power, data, service access solved?</text>
+    <path d="M1110 525V620" stroke="#13252c" stroke-width="7"/>
+    <rect x="960" y="620" width="360" height="150" rx="14" fill="#51c9b3"/>
+    <text x="1065" y="678" fill="#13252c" font-size="38" font-weight="800">FALCON</text>
+    <text x="1005" y="724" fill="#13252c" font-size="22">Clean permanent overhead bay</text>
+    <text x="90" y="850" fill="#526a73" font-size="24">If the ceiling is uncertain, stop. A portable unit is easier to upgrade than a badly planned room.</text>
+  </g>
+</svg>

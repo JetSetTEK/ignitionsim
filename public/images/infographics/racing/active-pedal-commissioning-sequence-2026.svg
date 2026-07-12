@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Active pedal commissioning sequence</title>
+  <desc id="desc">A six-step sequence for fitting, calibrating and safely adding telemetry effects to an active simulator pedal.</desc>
+  <rect width="1600" height="900" fill="#f5f1ea"/>
+  <text x="90" y="100" fill="#e64f23" font-family="Arial, sans-serif" font-size="28" font-weight="700">IGNITIONSIM // ACTIVE PEDAL FIRST NIGHT</text>
+  <text x="90" y="180" fill="#121c24" font-family="Arial, sans-serif" font-size="58" font-weight="800">Make the brake boring before making it clever.</text>
+  <text x="90" y="232" fill="#536673" font-family="Arial, sans-serif" font-size="25">One changed variable at a time. Keep a neutral profile as the control.</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(90 310)"><circle cx="70" cy="70" r="65" fill="#e64f23"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">1</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">LOCK THE SEAT</text><text x="0" y="212" font-size="19" fill="#536673">Mark rails and heel position.</text></g>
+    <g transform="translate(335 310)"><circle cx="70" cy="70" r="65" fill="#168fc1"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">2</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">PROVE THE RIG</text><text x="0" y="212" font-size="19" fill="#536673">Watch plate, joints and seat.</text></g>
+    <g transform="translate(580 310)"><circle cx="70" cy="70" r="65" fill="#27b98b"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">3</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">PLAIN INPUT</text><text x="0" y="212" font-size="19" fill="#536673">Calibrate 0-100%. No effects.</text></g>
+    <g transform="translate(825 310)"><circle cx="70" cy="70" r="65" fill="#f3a623"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">4</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">ADD ONE CUE</text><text x="0" y="212" font-size="19" fill="#536673">Low intensity. Supported title.</text></g>
+    <g transform="translate(1070 310)"><circle cx="70" cy="70" r="65" fill="#8b57d9"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">5</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">SAVE + LABEL</text><text x="0" y="212" font-size="19" fill="#536673">Sim, car, force, version, date.</text></g>
+    <g transform="translate(1315 310)"><circle cx="70" cy="70" r="65" fill="#263b49"/><text x="52" y="88" font-size="52" font-weight="800" fill="#fff">6</text><text x="0" y="175" font-size="26" font-weight="800" fill="#121c24">TEST RECOVERY</text><text x="0" y="212" font-size="19" fill="#536673">Power off. Restore. Recalibrate.</text></g>
+    <path d="M225 380H320M470 380H565M715 380H810M960 380H1055M1205 380H1300" stroke="#121c24" stroke-width="7" stroke-dasharray="12 10"/>
+    <rect x="90" y="650" width="1420" height="145" rx="12" fill="#121c24"/>
+    <text x="130" y="710" fill="#f3a623" font-size="25" font-weight="700">THE DIAGNOSTIC CONTROL</text>
+    <text x="130" y="760" fill="#ffffff" font-size="29">If an effect feels wrong, return to the neutral profile before changing hardware, firmware and game settings at once.</text>
+  </g>
+</svg>

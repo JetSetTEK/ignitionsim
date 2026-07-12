@@ -1,0 +1,109 @@
+---
+interface Recommendation { label: string; href: string; }
+interface PageContext { title: string; summary: string; type: string; updated: string; }
+interface Props { person: any; recommendations?: Recommendation[]; context?: PageContext | null; }
+const { person, recommendations = [], context = null } = Astro.props as Props;
+const first = String(person.name || 'the crew').split(' ')[0];
+const payload = {
+  id: person.slug,
+  name: person.name,
+  first,
+  motto: person.catchphrase || person.motto,
+  profile: person.profile,
+  obsession: person.currentObsession,
+  warning: person.favoriteWarning,
+  questions: (person.signatureTakes || []).slice(0, 3),
+  hills: (person.hillsToDieOn || []).slice(0, 3),
+  recommendations,
+  context,
+  profileHref: `/curator/${person.slug}`,
+};
+---
+
+<aside class="bc-root" data-bc>
+  <button class="bc-launch" type="button" aria-haspopup="dialog" data-bc-open>
+    <img src={person.image} alt="" width="46" height="46" loading="lazy" decoding="async" />
+    <span><b>Ask {first}</b><small>{person.handle} · on the bench</small></span>
+    <i aria-hidden="true"></i>
+  </button>
+  <section class="bc-modal" role="dialog" aria-modal="false" aria-label={`Ask ${person.name}`} hidden>
+    <header>
+      <img src={person.image} alt={person.name} width="54" height="54" decoding="async" />
+      <span><b>{person.name}</b><small>AI-assisted bench persona · Robert reviews</small></span>
+      <button type="button" aria-label="Close" data-bc-close>×</button>
+    </header>
+    <div class="bc-stream" aria-live="polite"></div>
+    <div class="bc-options" aria-label="Questions for the bench"></div>
+  </section>
+  <script type="application/json" data-bc-data set:html={JSON.stringify(payload)} />
+</aside>
+
+<style is:global>
+  .bc-root { position: fixed; right: 18px; bottom: 18px; z-index: 3900; font-family: var(--font-body, Inter, sans-serif); }
+  .bc-launch { display: grid; grid-template-columns: 46px 1fr 9px; gap: 10px; align-items: center; min-width: 218px; padding: 7px 13px 7px 7px; border: 2px solid #101820; border-radius: 8px; color: #101820; background: rgba(255,255,255,.96); box-shadow: 6px 6px 0 rgba(16,24,32,.22), 0 18px 42px rgba(16,24,32,.2); cursor: pointer; text-align: left; }
+  .bc-launch img, .bc-modal header img { display: block; object-fit: cover; object-position: center top; border: 2px solid var(--accent); }
+  .bc-launch img { width: 46px; height: 46px; border-radius: 5px; }
+  .bc-launch span { display: flex; flex-direction: column; min-width: 0; }
+  .bc-launch b { font-family: var(--font-display); text-transform: uppercase; font-size: .9rem; }
+  .bc-launch small { overflow: hidden; color: #5d6a76; font-family: var(--font-mono); font-size: .58rem; text-overflow: ellipsis; white-space: nowrap; }
+  .bc-launch i { width: 9px; height: 9px; border-radius: 50%; background: #22c55e; box-shadow: 0 0 0 4px rgba(34,197,94,.13); }
+  .bc-modal { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; width: min(430px, calc(100vw - 24px)); height: min(650px, calc(100vh - 36px)); overflow: hidden; border: 2px solid #101820; border-radius: 8px; color: #f8fafc; background: #101820; box-shadow: 12px 12px 0 rgba(16,24,32,.2), 0 34px 90px rgba(0,0,0,.35); }
+  .bc-modal[hidden] { display: none; }
+  .bc-modal header { display: grid; grid-template-columns: 54px 1fr 38px; gap: 11px; align-items: center; padding: 12px; border-bottom: 1px solid rgba(255,255,255,.16); background: color-mix(in srgb, var(--accent) 16%, #101820); }
+  .bc-modal header img { width: 54px; height: 54px; border-radius: 5px; }
+  .bc-modal header span { display: flex; flex-direction: column; }
+  .bc-modal header b { font-family: var(--font-display); text-transform: uppercase; }
+  .bc-modal header small { color: rgba(255,255,255,.68); font-family: var(--font-mono); font-size: .58rem; }
+  .bc-modal header button { width: 36px; height: 36px; border: 1px solid rgba(255,255,255,.25); border-radius: 5px; color: #fff; background: transparent; font-size: 1.35rem; cursor: pointer; }
+  .bc-stream { flex: 1; display: flex; flex-direction: column; gap: 10px; overflow-y: auto; padding: 16px 14px; background: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), #101820; background-size: 100% 34px; }
+  .bc-msg { max-width: 88%; padding: 11px 13px; border-radius: 7px; line-height: 1.5; font-size: .9rem; }
+  .bc-them { align-self: flex-start; border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent); background: color-mix(in srgb, var(--accent) 13%, #17212b); }
+  .bc-me { align-self: flex-end; color: #101820; background: color-mix(in srgb, var(--accent) 76%, #fff); font-weight: 700; }
+  .bc-links { display: grid; gap: 7px; margin-top: 2px; }
+  .bc-links a { display: block; padding: 10px 12px; border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent); border-radius: 5px; color: #fff; background: rgba(255,255,255,.05); font-weight: 800; text-decoration: none; }
+  .bc-links a:hover { background: color-mix(in srgb, var(--accent) 22%, #101820); }
+  .bc-options { display: flex; flex-wrap: wrap; gap: 7px; max-height: 180px; overflow-y: auto; padding: 12px; border-top: 1px solid rgba(255,255,255,.14); background: #0b1118; }
+  .bc-options button { min-height: 38px; padding: 8px 11px; border: 1px solid rgba(255,255,255,.24); border-radius: 5px; color: #fff; background: rgba(255,255,255,.06); cursor: pointer; font: 700 .76rem/1.25 var(--font-body); text-align: left; }
+  .bc-options button:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 18%, #101820); }
+  @media (max-width: 600px) { .bc-root { right: 10px; bottom: 10px; } .bc-launch { min-width: 0; } .bc-launch small { display: none; } .bc-modal { right: 0; bottom: 0; width: 100vw; height: 86vh; border-radius: 8px 8px 0 0; } }
+</style>
+
+<script>
+  (() => {
+    document.querySelectorAll('[data-bc]').forEach((root) => {
+      const data = root.querySelector('[data-bc-data]');
+      let p: any; try { p = JSON.parse(data?.textContent || '{}'); } catch { return; }
+      const launch = root.querySelector('[data-bc-open]') as HTMLButtonElement;
+      const modal = root.querySelector('.bc-modal') as HTMLElement;
+      const stream = root.querySelector('.bc-stream') as HTMLElement;
+      const options = root.querySelector('.bc-options') as HTMLElement;
+      const close = root.querySelector('[data-bc-close]') as HTMLButtonElement;
+      const key = `ig_crew_chat_${p.id}`;
+      let memory: any = { opens: 0, questions: {} };
+      try { memory = { ...memory, ...JSON.parse(localStorage.getItem(key) || '{}') }; } catch {}
+      const track = (name: string, data: any = {}) => { try { (window as any).ig?.track(name, { curator: p.id, ...data }); } catch {} };
+      const save = () => { try { localStorage.setItem(key, JSON.stringify(memory)); } catch {} };
+      const message = (text: string, mine = false) => { const el = document.createElement('div'); el.className = `bc-msg ${mine ? 'bc-me' : 'bc-them'}`; el.textContent = text; stream.appendChild(el); stream.scrollTop = stream.scrollHeight; };
+      const links = (items: any[]) => { const box = document.createElement('div'); box.className = 'bc-links'; items.forEach((item) => { const a = document.createElement('a'); a.href = item.href; a.textContent = item.label; a.dataset.event = 'crew_chat_recommendation_click'; a.dataset.eventCurator = p.id; box.appendChild(a); }); stream.appendChild(box); stream.scrollTop = stream.scrollHeight; };
+      const menu = () => {
+        options.innerHTML = '';
+        const items = [
+          ...(p.context ? [{
+            label: 'Give me the short answer on this page.',
+            answer: `You're reading “${p.context.title}.” ${p.context.summary} My bench warning: ${p.warning}`,
+            id: 'page_verdict',
+          }] : []),
+          ...(p.questions || []).map((q: any, index: number) => ({ label: q.q, answer: q.a, id: `question_${index}` })),
+          { label: 'What are you watching right now?', answer: p.obsession, id: 'obsession' },
+          { label: 'What is the expensive mistake?', answer: p.warning, id: 'warning' },
+          { label: 'What should I read next?', id: 'recommendations' },
+          { label: `Who are you, really?`, answer: p.profile, id: 'profile' },
+        ];
+        items.forEach((item) => { const button = document.createElement('button'); button.type = 'button'; button.textContent = item.label; button.addEventListener('click', () => { message(item.label, true); memory.questions[item.id] = Number(memory.questions[item.id] || 0) + 1; save(); track('crew_chat_question', { question: item.id, count: memory.questions[item.id] }); if (item.id === 'recommendations') { message('These are the three routes I would open next. No filler, and no pretending every upgrade belongs in the cart.'); links(p.recommendations || []); } else { message(item.answer || p.motto); if (item.id === 'profile') links([{ label: `Open ${p.first}'s full bench profile`, href: p.profileHref }]); } }); options.appendChild(button); });
+      };
+      launch?.addEventListener('click', () => { modal.hidden = false; modal.setAttribute('aria-modal', 'true'); launch.hidden = true; if (!stream.children.length) { const returning = memory.opens > 0; memory.opens++; save(); message(returning ? `Back again. Good. I remember what you keep asking me about.` : `${p.motto} Ask me the question before you buy the part.`); track(returning ? 'crew_chat_return' : 'crew_chat_open', { opens: memory.opens }); menu(); } });
+      close?.addEventListener('click', () => { modal.hidden = true; modal.setAttribute('aria-modal', 'false'); launch.hidden = false; });
+      document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && !modal.hidden) close?.click(); });
+    });
+  })();
+</script>

@@ -3,6 +3,10 @@ import site from '../data/site.json';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
+import CrewChat from '../components/CrewChat.astro';
+import { getCollection } from 'astro:content';
+import { articleSlug, isCertifiedArticle, sortNewestArticles } from '../lib/content';
+import { getCrewForBay } from '../lib/crew';
 
 interface Props {
   title: string;
@@ -48,6 +52,20 @@ const siteSchema = {
   description: site.descriptor,
 };
 const allSchema = [orgSchema, siteSchema, ...schema];
+const chatPerson = getCrewForBay(bay || 'racing') as any;
+const currentArticleSlug = Astro.url.pathname.split('/').filter(Boolean).at(-1) || '';
+const certifiedArticles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
+const currentArticle = certifiedArticles.find((entry) => entry.data.bay === bay && articleSlug(entry) === currentArticleSlug);
+const chatContext = currentArticle ? {
+  title: currentArticle.data.title,
+  summary: currentArticle.data.excerpt || currentArticle.data.description,
+  type: currentArticle.data.type,
+  updated: (currentArticle.data.updatedDate || currentArticle.data.publishDate).toISOString().slice(0, 10),
+} : null;
+const chatRecommendations = sortNewestArticles(certifiedArticles)
+  .filter((entry) => entry.data.bay === (bay || 'racing') && articleSlug(entry) !== currentArticleSlug)
+  .slice(0, 3)
+  .map((entry) => ({ label: entry.data.title, href: `/${entry.data.bay}/${articleSlug(entry)}` }));
 ---
 <!DOCTYPE html>
 <html lang="en" data-bay={bay ?? undefined}>
@@ -95,7 +113,16 @@ const allSchema = [orgSchema, siteSchema, ...schema];
     <script is:inline defer data-domain={site.analytics.websiteId} src={site.analytics.src}></script>
   )}
   {ga4MeasurementId && (
-    <Fragment set:html={`<script async src="https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(ga4MeasurementId)}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;gtag('js',new Date());gtag('config',${JSON.stringify(ga4MeasurementId)},{send_page_view:true});</script>`} />
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(ga4MeasurementId)}`}></script>
+  )}
+  {ga4MeasurementId && (
+    <script is:inline define:vars={{ ga4MeasurementId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4MeasurementId, { send_page_view: true });
+    </script>
   )}
 
   {/* Amazon OneLink — international link localization. Paste the snippet from
@@ -110,6 +137,7 @@ const allSchema = [orgSchema, siteSchema, ...schema];
     <slot />
   </main>
   <Footer />
+  {!Astro.url.pathname.startsWith('/curator/') && <CrewChat person={chatPerson} recommendations={chatRecommendations} context={chatContext} />}
   <div class="toast" id="toast"></div>
   <div class="lightbox" id="lightbox" aria-hidden="true">
     <button class="lb-close" aria-label="Close image">×</button>
