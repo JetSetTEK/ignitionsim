@@ -1,0 +1,52 @@
+{
+  "racing": {
+    "dream": "A cockpit that disappears around you when the lights go out.",
+    "reality": "The frame, brake deck, sightline, and software profile decide whether expensive force feedback feels precise or merely loud.",
+    "stages": [
+      { "n": "01", "title": "Foundation", "decision": "Wheel stand, tubular cockpit, or aluminum profile", "warning": "Match stiffness to brake force and peak torque before choosing the wheelbase." },
+      { "n": "02", "title": "Primary controls", "decision": "Load-cell brake, wheelbase, rim, and shifters", "warning": "Pedal consistency usually buys more lap time than another jump in torque." },
+      { "n": "03", "title": "Visual field", "decision": "Single display, ultrawide, triples, or VR", "warning": "FOV and mounting geometry matter more than the panel's marketing name." },
+      { "n": "04", "title": "Feedback layer", "decision": "Audio, bass shakers, haptic seat, or motion", "warning": "Add physical effects only after the cockpit stops flexing and the telemetry is clean." }
+    ]
+  },
+  "golf": {
+    "dream": "A private practice room that is always dry, open, and yours.",
+    "reality": "Ceiling, swing width, tee depth, projector throw, screen buffer, and subscription cost all get veto power.",
+    "stages": [
+      { "n": "01", "title": "Room geometry", "decision": "Ceiling, width, depth, handedness, and tee line", "warning": "Measure the golfer's real driver swing, not an optimistic rectangle on graph paper." },
+      { "n": "02", "title": "Launch data", "decision": "Photometric, radar, floor, or overhead monitor", "warning": "The room chooses the sensor technology before reviews choose the brand." },
+      { "n": "03", "title": "Impact system", "decision": "Mat, screen, enclosure, padding, and landing turf", "warning": "The mat protects joints and the enclosure protects everything else." },
+      { "n": "04", "title": "Image and software", "decision": "Projector, aspect ratio, PC, courses, and subscriptions", "warning": "Throw geometry and software lock-in can cost more than the launch monitor discount saved." }
+    ]
+  },
+  "flight": {
+    "dream": "A clean flight deck where every movement has a physical answer.",
+    "reality": "Primary controls, rudder authority, viewing position, USB power, and saved profiles matter before decorative panels.",
+    "stages": [
+      { "n": "01", "title": "Aircraft and controls", "decision": "Yoke or stick, throttle, and rudder pedals", "warning": "Buy for the aircraft you actually fly, not the cockpit photo you admire." },
+      { "n": "02", "title": "View and position", "decision": "Monitor, head tracking, VR, and mount height", "warning": "A good sightline and head tracking often beat another panel for immersion." },
+      { "n": "03", "title": "Power and profiles", "decision": "Powered USB, device order, firmware, and backups", "warning": "A haunted cockpit is usually a topology problem before it is a dead peripheral." },
+      { "n": "04", "title": "Panels later", "decision": "Radio, autopilot, FMC, and switch modules", "warning": "Only add a panel after you know which keyboard reach keeps breaking the flight." }
+    ]
+  },
+  "space": {
+    "dream": "A command station that makes six-axis movement feel native instead of mapped.",
+    "reality": "HOSAS versus HOTAS, mounting, button layers, power, and binding discipline decide whether the desk becomes a cockpit.",
+    "stages": [
+      { "n": "01", "title": "Flight role", "decision": "Dogfight, haul, mine, explore, or crew", "warning": "Your in-game job decides HOSAS, HOTAS, or the hybrid that makes sense." },
+      { "n": "02", "title": "Axes and grips", "decision": "Dual sticks, throttle, pedals, and twist", "warning": "Count the axes and buttons you need under stress before comparing metal content." },
+      { "n": "03", "title": "Mount and reach", "decision": "Desk clamps, chair mounts, 8020, and keyboard access", "warning": "Premium gimbals on bad mounts still move in the wrong direction." },
+      { "n": "04", "title": "Bindings and power", "decision": "Layers, curves, exported profiles, powered USB", "warning": "The first night is configuration. Save the profile before the next patch teaches that lesson again." }
+    ]
+  },
+  "marine": {
+    "dream": "A working bridge where helm, throttle, and instruments answer like a system.",
+    "reality": "Software support is thin, so controller translation, generic HID boards, labels, and repeatable profiles do the heavy lifting.",
+    "stages": [
+      { "n": "01", "title": "Software reality", "decision": "Native axes, keyboard commands, telemetry, and VR support", "warning": "Do not buy hardware until the simulator proves it can read the control you want." },
+      { "n": "02", "title": "Helm and throttle", "decision": "Repurposed wheel, stick, quadrant, or DIY lever", "warning": "Continuous rotation and clear detents matter more than marine branding." },
+      { "n": "03", "title": "Control bridge", "decision": "Mapping software, button boards, rotary encoders, and labels", "warning": "The useful bridge is the one every guest can operate without asking what button 17 does." },
+      { "n": "04", "title": "Profiles and testing", "decision": "Calibration, backups, failure drills, and game-specific maps", "warning": "Save a known-good profile before every update and test it away from the dock." }
+    ]
+  }
+}

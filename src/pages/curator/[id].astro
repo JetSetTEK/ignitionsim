@@ -3,9 +3,11 @@ import Base from '../../layouts/Base.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import site from '../../data/site.json';
+import editorialSurfaces from '../../data/editorial-surfaces.json';
 import { allCrew, crewSlug, getCrewBySlug, getCrewForBay } from '../../lib/crew';
-import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import { articleMeta, articleSlug, isCertifiedArticle } from '../../lib/content';
 import { getWorldForBay } from '../../lib/worlds';
+import { clearsDiscoveryGate, qualityFor, sortByEditorialStrength } from '../../lib/editorial';
 
 export function getStaticPaths() {
   return allCrew.map((person) => ({ params: { id: crewSlug(person) } }));
@@ -14,12 +16,12 @@ export function getStaticPaths() {
 const { id } = Astro.params;
 const person = (getCrewBySlug(id || '') || allCrew[0]) as any;
 const first = String(person.name).split(' ')[0];
-const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
-const ownedArticles = articles.filter((entry) => {
+const articles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
+const ownedArticles = sortByEditorialStrength(articles.filter((entry) => {
   const curator = getCrewForBay(entry.data.bay);
   if (crewSlug(curator) === crewSlug(person)) return true;
   return crewSlug(person) === 'mac-donovan' && ['diy', 'gear-explainer'].includes(entry.data.type);
-});
+}).filter((entry) => clearsDiscoveryGate(entry.id))).slice(0, 6);
 const primaryBay = person.name === 'Nina Brooks' ? 'golf'
   : person.name === 'Gus Calder' ? 'marine'
   : person.name === 'Val Chen' ? 'space'
@@ -30,6 +32,7 @@ const crest = `/images/crew/crest-${crewSlug(person)}.svg`;
 const takes = (person.signatureTakes || []) as { q: string; a: string }[];
 const hills = (person.hillsToDieOn || []) as string[];
 const expertise = (person.expertise || []) as string[];
+const actionScenes = ((editorialSurfaces as any).curatorActions?.[crewSlug(person)] || []) as any[];
 
 const schema: Record<string, any>[] = [
   {
@@ -80,11 +83,14 @@ if (takes.length) {
         </div>
       </div>
       <div class="profile-card">
-        <img src={person.image} alt={person.alt} loading="eager" decoding="async" />
+        <div class="profile-card-image">
+          <img src={actionScenes[0]?.image || person.image} alt={actionScenes[0]?.alt || person.alt} loading="eager" decoding="async" />
+          {actionScenes[0] && <span>AI editorial scene</span>}
+        </div>
         <div>
           <span>Current obsession</span>
           <b>{person.currentObsession}</b>
-          <small>{person.favoriteWarning}</small>
+          <small>{actionScenes[0]?.task || person.favoriteWarning}</small>
         </div>
       </div>
     </div>
@@ -131,6 +137,29 @@ if (takes.length) {
           <div><span>Pet peeve</span><b>{person.petPeeve}</b></div>
         </div>
       </aside>
+    </section>
+
+    {actionScenes.length > 1 && (
+      <section class="working-band">
+        <div class="sec-head">
+          <div><span class="lbl lbl-accent">{first}, actually working</span><h2>Two jobs, two scenes, no decorative posing.</h2></div>
+          <span class="lbl">AI editorial scenes · clearly labeled</span>
+        </div>
+        <div class="working-grid">
+          {actionScenes.map((scene) => (
+            <figure><div><img src={scene.image} alt={scene.alt} loading="lazy" decoding="async" /><span>AI editorial scene</span></div><figcaption>{scene.task}</figcaption></figure>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="weekend-plan">
+      <div class="weekend-plan-head"><span class="lbl lbl-accent">The weekend plan</span><h2>What {first} would do before buying another box.</h2></div>
+      <ol>
+        <li><span>Friday night</span><p>{person.benchMove}</p></li>
+        <li><span>Saturday</span><p>{person.signatureGear?.why}</p></li>
+        <li><span>Sunday veto</span><p>{person.favoriteWarning}</p></li>
+      </ol>
     </section>
 
     {hills.length > 0 && (
@@ -185,7 +214,7 @@ if (takes.length) {
           {ownedArticles.map((entry) => (
             <ArticleCard href={`/${entry.data.bay}/${articleSlug(entry)}`} title={entry.data.title}
               excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type}
-              meta={articleMeta(entry.data)} />
+              meta={`${qualityFor(entry.id)?.grade} · ${qualityFor(entry.id)?.score}/100 · ${articleMeta(entry.data)}`} />
           ))}
         </div>
       ) : (
@@ -222,7 +251,9 @@ if (takes.length) {
   .profile-copy .since { margin-top: 14px; font-family: var(--font-mono); font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: color-mix(in srgb, var(--accent) 68%, #fff); }
   .profile-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
   .profile-card { overflow: hidden; border: 2px solid rgba(255,255,255,.42); border-radius: 20px; background: rgba(255,255,255,.94); color: #101820; box-shadow: 0 12px 0 rgba(16,24,32,.2), 0 34px 84px rgba(0,0,0,.24); }
-  .profile-card img { width: 100%; aspect-ratio: 4 / 4.6; object-fit: cover; object-position: center top; display: block; }
+  .profile-card-image { position: relative; aspect-ratio: 16 / 10; overflow: hidden; padding: 0 !important; }
+  .profile-card-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .profile-card-image > span { position: absolute; left: 10px; bottom: 10px; padding: 6px 8px; color: #fff; background: rgba(16,24,32,.82); font-family: var(--font-mono); font-size: .5rem; text-transform: uppercase; letter-spacing: .08em; }
   .profile-card div { padding: 18px; }
   .profile-card span { color: var(--accent); font-family: var(--font-mono); font-size: .6rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
   .profile-card b { display: block; margin-top: 7px; font-size: 1.18rem; line-height: 1.25; }
@@ -267,6 +298,21 @@ if (takes.length) {
   .rig-meta span { color: color-mix(in srgb, var(--accent) 66%, #fff); font-family: var(--font-mono); font-size: .58rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
   .rig-meta b { display: block; margin-top: 4px; color: #fff; font-weight: 600; line-height: 1.4; font-size: .92rem; }
 
+  .working-band { margin: 0 0 30px; }
+  .working-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .working-grid figure { margin: 0; overflow: hidden; border: 2px solid rgba(16,24,32,.14); background: #fff; box-shadow: 0 10px 0 rgba(16,24,32,.08); }
+  .working-grid figure > div { position: relative; aspect-ratio: 16 / 10; overflow: hidden; }
+  .working-grid img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .working-grid figure > div > span { position: absolute; left: 12px; bottom: 12px; padding: 6px 8px; color: #fff; background: rgba(16,24,32,.82); font-family: var(--font-mono); font-size: .5rem; text-transform: uppercase; }
+  .working-grid figcaption { padding: 18px; font-family: var(--font-disp); font-size: 1.15rem; line-height: 1.2; }
+
+  .weekend-plan { display: grid; grid-template-columns: .8fr 1.2fr; gap: 28px; margin: 0 0 30px; padding: 30px; color: #fff; background: #101820; border: 2px solid #101820; box-shadow: 0 11px 0 color-mix(in srgb, var(--accent) 28%, rgba(16,24,32,.12)); }
+  .weekend-plan h2 { margin-top: 9px; color: #fff; font-size: clamp(1.8rem, 3.3vw, 3rem); line-height: .96; text-transform: uppercase; }
+  .weekend-plan ol { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
+  .weekend-plan li { padding: 15px; color: #101820; background: #fff; border-left: 4px solid var(--accent); }
+  .weekend-plan li span { color: var(--accent); font-family: var(--font-mono); font-size: .56rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+  .weekend-plan li p { margin-top: 6px; color: #334155; line-height: 1.52; }
+
   /* hills */
   .hills-band, .takes-band { margin: 0 0 30px; }
   .hills-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
@@ -286,9 +332,12 @@ if (takes.length) {
   .profile-empty p { margin-top: 8px; color: #435363; }
 
   @media (max-width: 980px) {
-    .profile-grid, .gear-band, .hills-grid, .profile-guide-grid { grid-template-columns: 1fr; }
+    .profile-grid, .gear-band, .hills-grid, .profile-guide-grid, .weekend-plan { grid-template-columns: 1fr; }
     .shop-band { grid-template-columns: 1fr; }
     .shop-media { min-height: 240px; }
     .profile-card { max-width: 420px; }
+  }
+  @media (max-width: 680px) {
+    .working-grid { grid-template-columns: 1fr; }
   }
 </style>

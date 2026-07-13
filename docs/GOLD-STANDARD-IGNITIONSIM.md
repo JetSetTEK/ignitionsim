@@ -125,6 +125,17 @@ The public path should prioritize:
 - Game/universe placement matters. If an article answers an iRacing, Assetto Corsa EVO, GSPro, MSFS, DCS, Star Citizen, Elite, Sailaway, Bridge Command, or similar game-specific buying question, update the relevant game card/routes so the reader can enter from the game they actually play.
 - The Build Stream/info river is the sitewide reverse-chronological discovery path for certified articles only. It should feel like a useful simulator buyer feed, not an archive dump: strong cards, bay/game context, product-first art, and clear next-step links.
 
+### Editorial Surface Gate (Locked 2026-07-13)
+- Certification makes an article public; it does not automatically earn promotion. Homepage investigations require an 85+ world-class quality score. Sim Stream, bay-hub, and curator-shelf promotion require 70+.
+- Homepage guide IDs must be unique across Current Investigations and the Sim Stream preview. A guide cannot appear twice merely because it is both strong and recent.
+- The homepage order is: immersive dream hero, five build worlds, The Bench Says, real builds, three Current Investigations, contextual Objects of Desire, five-item Sim Stream preview, curator debate, newsletter.
+- No article wall, archive dump, or product grid may be reintroduced on the homepage. No section may show more than six repeated editorial items.
+- Objects of Desire use real installed, use, official lifestyle, or room-context images. White-background catalog cutouts stay in technical product benches where inspection is the purpose.
+- Bay hubs explain the complete system before displaying the parts: four-stage system map, strongest buyer route, curator field note, short promoted shelf, owner pattern, then technical product bench.
+- Sim Stream alternates product investigations, build stories, failure clinics, field tests, owner-pattern updates, and full curator field notes. It is an information river, not a newest-first white-card dump.
+- Curator pages must expose current rig, origin, strong opinions, a weekend plan, at least two distinct task-based scenes, and no more than six promoted guides.
+- Run `npm run audit:surfaces` after homepage, Stream, hub, curator, quality-report, or editorial-image changes. The audit enforces promotion thresholds, contextual product imagery, real-build credits, and distinct curator action scenes.
+
 ## Publishing Surface Map
 Every certified guide must be checked against the public discovery system before it counts as published. Puzzlewick-style surfacing is part of the work, not a cleanup task later.
 
@@ -137,8 +148,8 @@ Automatic surfaces once `goldStatus: "certified"` and `draft !== true` are corre
 - Sitemap/RSS/feed paths after `npm run build`.
 
 Manual surfaces that must be decided and updated before publish:
-- Front page scroller/cornerstone shelf: update `cornerstoneIds` in `src/pages/index.astro` for flagship, high-ROI, or audience-defining guides.
-- Front page Sim Stream/latest briefing: update `streamLeadIds` in `src/pages/index.astro` so the first 10 rotator pieces and first 12 latest pieces are deliberate, varied, and current.
+- Homepage promotion is quality-gated automatically from `reports/ignitionsim-worldclass-quality.json`: 85+ for Current Investigations and 70+ for the five-item Sim Stream preview. Re-run `npm run audit:quality` after material article work so the scores are current.
+- `src/data/growth-priorities.json` remains the revenue/editorial queue, but it cannot override the public quality thresholds.
 - Custom thumbnail: add or refresh the slug in `src/data/generated-article-covers.json`. The image must be wide, product-first, and free of placeholder/marketplace monotony.
 - Game/software universe hub: update `src/data/games.json` `guideIds` when the guide maps to iRacing, Assetto Corsa EVO, ACC, GSPro, E6 Connect, Awesome Golf, MSFS, X-Plane, DCS, Star Citizen, Elite Dangerous, Sailaway, Bridge Command, or any other build-around game/sport universe.
 - Product and gear surfaces: update `src/data/products/*.json`, `src/data/verified-product-images.json`, and real images under `public/images/gear/...` when the guide introduces gear, depends on gear, or changes a buyer path.
@@ -155,6 +166,7 @@ Manual surfaces that must be decided and updated before publish:
 Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
 - Run `npm run gold-audit`; it must pass before build, deploy, or push. The build now runs this automatically, but run it directly while editing so failures are caught early.
+- Run `npm run audit:surfaces` after any discovery, hub, curator, or contextual-image change. Homepage duplication, catalog-cutout regression, and missing curator-action scenes are release blockers.
 - Run `npm run audit:quality`; new Tier A work must meet the 85-point gate and the report must show no missing real-use proof, curator action, practical diagram, or non-direct Amazon link.
 - Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended exact product. Amazon links must be direct `/dp/ASIN` URLs with `tag=ignitionsim-20`; no search-result URLs ship.
 - Check images for real-photo compliance, uncropped product visibility, correct alt text, and no fake product render confusion.

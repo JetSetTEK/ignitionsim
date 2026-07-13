@@ -1,201 +1,124 @@
 ---
 import Base from '../layouts/Base.astro';
-import GearCarousel from '../components/GearCarousel.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import bays from '../data/bays.json';
-import games from '../data/games.json';
 import signals from '../data/research-signals.json';
 import crew from '../data/crew.json';
-import growthPriorities from '../data/growth-priorities.json';
-import { articleMeta, isCertifiedArticle, sortNewestArticles } from '../lib/content';
+import editorialSurfaces from '../data/editorial-surfaces.json';
+import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../lib/content';
 import { getArticleCardArt } from '../lib/articleArt';
-import { hasVerifiedProductImage } from '../lib/productMedia';
-import { getWorldForBay } from '../lib/worlds';
 import { crewSlug } from '../lib/crew';
-import { canonicalAmazonProductUrl } from '../lib/amazon';
+import { getWorldForBay } from '../lib/worlds';
+import { clearsDiscoveryGate, clearsHomepageGate, evidenceLabels, qualityFor, sortByEditorialStrength } from '../lib/editorial';
 
 const all = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data)));
-const articleById = new Map(all.map((a) => [a.id, a]));
-const slug = (a: any) => a.id.split('/').pop();
-const articleHref = (a: any) => `/${a.data.bay}/${slug(a)}`;
+const articleHref = (entry: any) => `/${entry.data.bay}/${articleSlug(entry)}`;
 const crewByName = new Map((crew as any[]).map((person) => [person.name, person]));
-const bayFallbackCurator = (bay: string) => {
-  const curatorName = bay === 'golf' ? 'Nina Brooks'
-    : bay === 'racing' ? 'Duke Alvarez'
-    : bay === 'marine' ? 'Gus Calder'
-    : bay === 'flight' ? 'Val Chen'
-    : bay === 'space' ? 'Val Chen'
-    : 'Mac Donovan';
-  return crewByName.get(curatorName) || (crew as any[])[0];
-};
-const curatorForArticle = (a: any) => crewByName.get(a.data.author) || bayFallbackCurator(a.data.bay);
-const uniqueArticles = (items: any[]) => {
-  const seen = new Set();
-  return items.filter((item) => {
-    if (!item || seen.has(item.id)) return false;
-    seen.add(item.id);
-    return true;
-  });
-};
-const diverseArticles = (items: any[], limit: number) => {
-  const remaining = [...uniqueArticles(items)];
+const curatorFor = (entry: any) => crewByName.get(entry.data.author) || (crew as any[])[0];
+
+const takeDiverse = (items: any[], limit: number, used = new Set<string>()) => {
+  const remaining = items.filter((item) => !used.has(item.id));
   const picked: any[] = [];
   while (picked.length < limit && remaining.length) {
-    const last = picked[picked.length - 1];
-    const index = remaining.findIndex((item) => item.data.bay !== last?.data?.bay);
+    const previousBay = picked[picked.length - 1]?.data?.bay;
+    const index = remaining.findIndex((item) => item.data.bay !== previousBay);
     const [next] = remaining.splice(index >= 0 ? index : 0, 1);
     picked.push(next);
+    used.add(next.id);
   }
   return picked;
 };
 
-const cornerstoneIds = (growthPriorities as any).cornerstoneArticleIds || [];
-const cornerstones = cornerstoneIds.map((id) => articleById.get(id)).filter(Boolean);
-const featureGuides = cornerstones.map((a: any, i) => {
-  const href = articleHref(a);
-  return { a, href, art: getArticleCardArt(href), i };
-});
-const streamLeadIds = (growthPriorities as any).streamLeadArticleIds || [];
-const streamArticles = diverseArticles(uniqueArticles([
-  ...streamLeadIds.map((id) => articleById.get(id)),
-  ...all,
-]), 18);
-const latestRotator = streamArticles.slice(0, 10).map((a: any) => {
-  const href = articleHref(a);
-  return { a, href, art: getArticleCardArt(href) };
-});
-const latestBriefing = streamArticles.slice(0, 12).map((a: any, i) => {
-  const href = articleHref(a);
-  const art = getArticleCardArt(href);
-  const curator = curatorForArticle(a);
-  return { a, href, art, curator, i };
-});
+const editorialLeaders = sortByEditorialStrength(all.filter((entry) => clearsHomepageGate(entry.id)));
+const discoveryPool = sortByEditorialStrength(all.filter((entry) => clearsDiscoveryGate(entry.id)));
+const promotedIds = new Set<string>();
+const investigations = takeDiverse(editorialLeaders, 3, promotedIds).map((entry) => ({
+  entry,
+  href: articleHref(entry),
+  art: getArticleCardArt(articleHref(entry)),
+  curator: curatorFor(entry),
+  quality: qualityFor(entry.id),
+  evidence: evidenceLabels(entry.id),
+}));
+const streamPreview = takeDiverse(discoveryPool, 5, promotedIds).map((entry) => ({
+  entry,
+  href: articleHref(entry),
+  art: getArticleCardArt(articleHref(entry)),
+  curator: curatorFor(entry),
+  quality: qualityFor(entry.id),
+}));
 
-const amazonTag = (site as any).affiliate?.amazonTag;
-const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
-const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
-const verifiedProducts = allProducts.filter(hasVerifiedProductImage);
-const buyUrl = (p: any) => canonicalAmazonProductUrl(p, amazonTag);
-const rankProduct = (p: any) => (p.rating?.overall || 0) * 100 + Math.min(p.price || 0, 4000) / 1000;
-const gearItem = (p: any, tag?: string) => ({
-  href: `/${p.bay}/gear/${p.id}`,
-  image: p.image || `/images/gear/${p.bay}/${p.id}.jpg`,
-  brand: p.brand,
-  model: p.model,
-  price: p.price,
-  priceNote: p.priceNote,
-  type: p.type,
-  whoFor: p.whoFor,
-  summary: p.summary,
-  buyUrl: buyUrl(p),
-  tag,
-});
+const curatorActions = (editorialSurfaces as any).curatorActions as Record<string, any[]>;
+const benchVoices = (crew as any[]).map((person, index) => ({
+  person,
+  scene: curatorActions[crewSlug(person)]?.[index % 2] || { image: person.scene, alt: person.sceneAlt, task: person.currentObsession },
+  verdict: person.favoriteWarning || person.hillsToDieOn?.[0],
+}));
 
-const heroPhoto = '/images/dream/ignitionsim-dream-garage.webp';
-const homeGameCards = (games as any[])
-  .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen'].includes(g.slug))
-  .map((g) => ({
-    ...g,
-    bayData: bays.find((b) => b.slug === g.bay),
-    world: getWorldForBay(g.bay),
-  }));
-
-const bayPriority: Record<string, number> = { golf: 1, racing: 2, flight: 3, space: 4, marine: 5 };
-const productsByBay = new Map(bays.map((b) => [
-  b.slug,
-  verifiedProducts.filter((p) => p.bay === b.slug).sort((a, c) => rankProduct(c) - rankProduct(a)),
-]));
-const moneyProducts = [
-  ...((productsByBay.get('golf') || []).filter((p) => ['launch-monitor', 'enclosure', 'mat', 'projector'].includes(p.type)).slice(0, 5)),
-  ...((productsByBay.get('racing') || []).filter((p) => ['base', 'pedals', 'cockpit', 'haptics'].includes(p.type)).slice(0, 5)),
-  ...((productsByBay.get('flight') || []).filter((p) => ['yoke', 'throttle', 'rudder', 'head-tracking'].includes(p.type)).slice(0, 2)),
-].slice(0, 12).map((p, i) => gearItem(p, i < 4 ? 'Money part' : undefined));
-const lustKeys = [
-  'golf/garmin-approach-r50',
-  'racing/simucube-activepedal-pro',
-  'racing/samsung-odyssey-oled-g9-49',
-  'racing/sim-lab-p1x',
-  'flight/honeycomb-alpha-yoke',
-  'space/vkb-gladiator-nxt-evo-space-combat-edition',
-];
-const lustProducts = lustKeys
-  .map((key) => verifiedProducts.find((p) => `${p.bay}/${p.id}` === key))
-  .filter(Boolean)
-  .map((p: any) => ({
-    ...p,
-    href: `/${p.bay}/gear/${p.id}`,
-    buyUrl: buyUrl(p),
-  }));
-const heroBenchNotes = [
-  {
-    label: 'Room veto',
-    title: 'Nina measures before anyone falls in love.',
-    text: 'Ceiling, throw, hitting depth, and mat pain decide the golf bay before the launch monitor gets a vote.',
-    href: '/golf/home-golf-simulator-build-sheet-2026',
-    curator: crewByName.get('Nina Brooks'),
-  },
-  {
-    label: 'Rig truth',
-    title: 'Duke starts at the brake deck.',
-    text: 'Torque is fun. A flexing cockpit just makes expensive force feedback tell lies louder.',
-    href: '/racing/cockpit-rigidity-wheel-stand-vs-8020-2026',
-    curator: crewByName.get('Duke Alvarez'),
-  },
-  {
-    label: 'Cable tax',
-    title: 'Val buys the powered hub first.',
-    text: 'A cockpit that drops USB mid-flight is not immersive. It is an avoidable wiring problem.',
-    href: '/flight/flight-sim-usb-hub-wiring-multi-panel',
-    curator: crewByName.get('Val Chen'),
-  },
-].filter((note) => note.curator);
-
-const bayLanes = [...bays]
+const bayPriority: Record<string, number> = { racing: 1, golf: 2, flight: 3, space: 4, marine: 5 };
+const worldLanes = [...bays]
   .sort((a, b) => (bayPriority[a.slug] || 9) - (bayPriority[b.slug] || 9))
-  .map((bay) => {
-    const bayProducts = (productsByBay.get(bay.slug) || []).slice(0, 3);
-    const signal = (signals as any)[bay.slug];
-    const world = getWorldForBay(bay.slug);
-    return { bay, bayProducts, signal, world };
-  });
+  .map((bay) => ({ bay, world: getWorldForBay(bay.slug), signal: (signals as any)[bay.slug] || {} }));
+
+const realBuilds = (editorialSurfaces as any).realBuilds as any[];
+const objectsOfDesire = (editorialSurfaces as any).objectsOfDesire as any[];
+const heroPhoto = '/images/dream/ignitionsim-dream-garage.webp';
 
 const schema = [{
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'IgnitionSim certified simulator hardware buyer paths',
-  itemListElement: cornerstones.map((a: any, i) => ({
+  name: 'IgnitionSim editor-selected simulator buyer guides',
+  itemListElement: investigations.map((item, index) => ({
     '@type': 'ListItem',
-    position: i + 1,
-    name: a.data.title,
-    url: new URL(`/${a.data.bay}/${slug(a)}`, site.url).href,
+    position: index + 1,
+    name: item.entry.data.title,
+    url: new URL(item.href, site.url).href,
   })),
 }];
 ---
 <Base title={site.name} description={site.descriptor} schema={schema}>
-  <section class="hero-v2" aria-label="IgnitionSim workshop">
-    <img src={heroPhoto} alt="AI editorial concept of a premium simulator garage with racing, golf, flight, and hardware benches" loading="eager" decoding="async" />
-    <div class="hero-v2-scrim"></div>
+  <section class="home-hero" aria-label="IgnitionSim simulator workshop">
+    <img src={heroPhoto} alt="AI editorial concept of an aspirational simulator workshop with racing, golf, flight, and hardware bays" loading="eager" decoding="async" />
+    <div class="home-hero-shade"></div>
     <span class="ai-scene-badge">AI editorial concept</span>
-    <div class="wrap hero-v2-inner">
-      <div class="hero-v2-copy">
-        <span class="lbl lbl-accent">Dream rigs. Real buying proof.</span>
-        <h1>Build the rig in your head. Then buy like an adult.</h1>
-        <p>IgnitionSim sells the dream first: the golf bay, racing cockpit, flight deck, space desk, or marine bridge you actually want to walk into. Then we get mean about fit, parts, subscriptions, install pain, and the products worth your money.</p>
+    <div class="wrap home-hero-inner">
+      <div class="home-hero-copy">
+        <span class="lbl lbl-accent">The rig should make you want the weekend back</span>
+        <h1>Build the room you keep seeing in your head.</h1>
+        <p>Start with the dream. Then let five obsessive builders interrogate the room, the mounting, the subscriptions, the firmware, and the parts that can turn it into an expensive mistake.</p>
         <div class="hero-actions">
-          <a class="btn btn-primary btn-lg" href="#build-bays">Choose your sim world</a>
-          <a class="btn btn-lg" href="#money-bench">See the parts bench</a>
+          <a class="btn btn-primary btn-lg" href="#worlds">Choose your sim world</a>
+          <a class="btn btn-lg" href="#investigations">See the strongest guides</a>
         </div>
       </div>
-      <div class="hero-bench-stack">
-        <span>The crew's first warnings</span>
-        {heroBenchNotes.map((note: any) => (
-          <a class="hero-bench-card" href={note.href}>
-            <img src={note.curator.image} alt={note.curator.alt} loading="eager" decoding="async" />
+      <aside class="weekend-brief">
+        <img src={benchVoices[0].scene.image} alt={benchVoices[0].scene.alt} loading="eager" decoding="async" />
+        <div>
+          <span>Weekend objective · {benchVoices[0].person.handle}</span>
+          <h2>{benchVoices[0].scene.task}</h2>
+          <p>{benchVoices[0].person.benchMove}</p>
+          <a href={`/curator/${crewSlug(benchVoices[0].person)}`}>Open Duke's bench notes</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="world-band" id="worlds">
+    <div class="wrap">
+      <div class="section-intro light-copy">
+        <div><span class="lbl lbl-accent">Five build worlds</span><h2>Walk into the room first.</h2></div>
+        <p>The category is not a filter. It is the environment every purchase has to survive.</p>
+      </div>
+      <div class="world-grid">
+        {worldLanes.map(({ bay, world, signal }) => (
+          <a class="world-door" data-bay={bay.slug} href={`/${bay.slug}`}>
+            <img src={world.image} alt={world.alt} loading="lazy" decoding="async" />
             <div>
-              <small>{note.label} · {note.curator.handle}</small>
-              <b>{note.title}</b>
-              <p>{note.text}</p>
+              <span>{bay.name}</span>
+              <h3>{world.label}</h3>
+              <p>{signal.buyFast || bay.tagline}</p>
+              <small>Enter the {bay.name.toLowerCase()} bay</small>
             </div>
           </a>
         ))}
@@ -203,1084 +126,307 @@ const schema = [{
     </div>
   </section>
 
-  <div class="wrap">
-    <section class="signal-strip" aria-label="IgnitionSim promise">
-      <div><b>{all.length}</b><span>certified guides</span></div>
-      <div><b>{verifiedProducts.length}</b><span>real product proof</span></div>
-      <div><b>0</b><span>paid verdicts</span></div>
-      <div><b>5</b><span>sim build bays</span></div>
-    </section>
-
-    <section class="sec home-world-section build-world" id="build-bays" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Build bays</span>
-          <h2>Pick the world first. The hardware only matters after that.</h2>
-        </div>
-        <span class="lbl">highest-intent build lanes</span>
+  <section class="bench-says-band">
+    <div class="wrap">
+      <div class="section-intro">
+        <div><span class="lbl lbl-accent">The bench says</span><h2>Five people who will interrupt the spec sheet.</h2></div>
+        <a class="text-link" href="/curators">Meet the entire bench crew</a>
       </div>
-      <div class="bay-command-grid">
-        {bayLanes.map(({ bay, bayProducts, signal, world }) => (
-          <a class="bay-command" data-bay={bay.slug} href={`/${bay.slug}`} style={`--world-bg: url('${world.image}')`}>
-            <div class="bay-command-media">
-              <img src={world.image} alt={world.alt || `${bay.name} simulator world`} loading="lazy" decoding="async" />
-              <span>{bay.name}</span>
+      <div class="bench-rail">
+        {benchVoices.map(({ person, scene, verdict }) => (
+          <a class="bench-verdict" href={`/curator/${crewSlug(person)}`} data-bay={String(person.bay).toLowerCase().split(' ')[0]}>
+            <div class="bench-scene">
+              <img src={scene.image} alt={scene.alt} loading="lazy" decoding="async" />
+              <span>AI editorial scene</span>
             </div>
-            <div class="bay-command-copy">
-              <h3>{bay.tagline}</h3>
-              <p>{signal?.buyFast || bay.intro}</p>
-              <div class="bay-chip-row">
-                {bayProducts.map((p: any) => <span>{p.brand} {p.model}</span>)}
-              </div>
-            </div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <section class="sec home-world-section home-games-world" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Games hub</span>
-          <h2>Start with what you play. Build the room around that.</h2>
-        </div>
-        <a class="lbl" href="/games">all sim games</a>
-      </div>
-      <div class="home-game-grid">
-        {homeGameCards.map((game) => (
-          <a class="home-game-card" data-bay={game.bay} href={`/games#${game.bay}`} style={`--world-bg: url('${game.world.image}')`}>
-            <span>{game.bayData?.name || game.bay}</span>
-            <h3>{game.name}</h3>
-            <p>{game.signal}</p>
-            <small>{game.hardwareThatMatters}</small>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <section class="sec latest-rotator" aria-label="Latest IgnitionSim buyer guides">
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Sim Stream</span>
-          <h2>Workbench dispatches worth reading before the cart opens.</h2>
-        </div>
-        <a class="lbl" href="/build-stream">open the Sim Stream</a>
-      </div>
-      <div class="latest-rail">
-        {latestRotator.map(({ a, href, art }, i) => (
-          <a class="latest-slide" data-bay={a.data.bay} href={href}>
-            <div class:list={['latest-slide-art', art?.wide && 'is-wide-art']}>
-              {art && <img src={art.image} alt={art.alt} loading={i < 2 ? 'eager' : 'lazy'} decoding="async" />}
-              {art && <span>{art.label}</span>}
-            </div>
-            <div class="latest-slide-copy">
-              <small>{a.data.type.replace(/-/g, ' ')} · {articleMeta(a.data)}</small>
-              <h3>{a.data.title}</h3>
-              <p>{a.data.excerpt || a.data.description}</p>
-            </div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    {latestBriefing.length > 0 && (
-      <section class="sec curator-latest">
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Curator briefing</span>
-            <h2>12 fresh routes through the build bench.</h2>
-          </div>
-          <span class="lbl">product-first · certified only</span>
-        </div>
-        <div class="curator-latest-grid">
-          {latestBriefing.map(({ a, href, art, curator, i }) => (
-            <a class="brief-card" data-bay={a.data.bay} href={href}>
-              <div class:list={['brief-art', art?.wide && 'is-wide-art']}>
-                {art && <img src={art.image} alt={art.alt} loading={i < 4 ? 'eager' : 'lazy'} decoding="async" />}
-              </div>
-              <div class="brief-body">
-                <div class="brief-curator">
-                  <img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" />
-                  <span>{curator.name} <b class="brief-handle">· {curator.handle}</b></span>
-                </div>
-                <h3>{a.data.title}</h3>
-                <p>{a.data.excerpt || a.data.description}</p>
-                <small>{articleMeta(a.data)}</small>
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
-
-    {lustProducts.length > 0 && (
-      <section class="sec lust-section home-world-section" style={`--world-bg: url('${getWorldForBay('golf').image}')`}>
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Lust objects</span>
-            <h2>The big pieces people daydream about before they ask what fits.</h2>
-          </div>
-          <span class="lbl">dream, then inspect</span>
-        </div>
-        <div class="lust-grid">
-          {lustProducts.map((p: any) => (
-            <article class="lust-card" data-bay={p.bay}>
-              <a class="lust-image" href={p.href}>
-                <img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
-              </a>
-              <div class="lust-copy">
-                <span>{p.type.replace(/-/g, ' ')}</span>
-                <h3>{p.brand} {p.model}</h3>
-                <p>{p.whoFor || p.summary}</p>
-                <div class="lust-actions">
-                  <a href={p.href}>Dig in</a>
-                  {p.buyUrl && <a href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="lust_buy_click">Amazon ↗</a>}
-                </div>
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-    )}
-
-    {moneyProducts.length > 0 && (
-      <section class="sec home-world-section money-world" id="money-bench" style={`--world-bg: url('${getWorldForBay('racing').image}')`}>
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Parts bench</span>
-            <h2>Buy once, cry once, worth-it parts.</h2>
-          </div>
-          <a class="lbl" href="/guides">certified buyer maps</a>
-        </div>
-        <GearCarousel items={moneyProducts} id="home-money-bench" />
-      </section>
-    )}
-
-    {cornerstones.length > 0 && (
-      <section class="sec home-world-section maps-world" style={`--world-bg: url('${getWorldForBay('flight').image}')`}>
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Certified maps</span>
-            <h2>Only the buying maps strong enough to hand to a builder with a credit card.</h2>
-          </div>
-          <a class="lbl" href="/guides">all certified guides</a>
-        </div>
-        <div class="feature-guide-grid">
-          {featureGuides.map(({ a, href, art, i }) => (
-            <a class="feature-guide" href={href} data-bay={a.data.bay}>
-              <div class:list={['feature-guide-media', art?.wide && 'is-wide-art']}>
-                {art && <img src={art.image} alt={art.alt} loading="lazy" decoding="async" />}
-                {art && <span class="feature-guide-badge">{art.label}</span>}
-              </div>
-              <div class="feature-guide-copy">
-                <span class="feature-guide-index">{String(i + 1).padStart(2, '0')} / {a.data.type.replace(/-/g, ' ')}</span>
-                <h3>{a.data.title}</h3>
-                <p>{a.data.excerpt || a.data.description}</p>
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
-
-    <section class="sec crew-bench home-world-section" id="curator-bench" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
-      <div class="sec-head">
-        <div>
-          <span class="lbl lbl-accent">Curator bench</span>
-          <h2>Adult supervision for expensive toys.</h2>
-        </div>
-        <a class="lbl" href="/curators">meet the bench crew</a>
-      </div>
-      <div class="crew-grid">
-        {(crew as any[]).map((person) => (
-          <a class="crew-card" href={`/curator/${crewSlug(person)}`}>
-            <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
-            <div>
-              <span>{person.handle}</span>
+            <div class="bench-copy">
+              <small>{person.handle} · {scene.task}</small>
               <h3>{person.name}</h3>
-              <p>{person.motto || person.voice}</p>
-              <small>{person.currentObsession || person.beat}</small>
+              <blockquote>“{verdict}”</blockquote>
+              <p>{person.voice}</p>
             </div>
           </a>
         ))}
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="workbench-drop" id="newsletter" style={`--world-bg: url('${getWorldForBay('marine').image}')`}>
-      <div>
-        <span class="lbl lbl-accent">Workbench Drop</span>
-        <h2>One useful upgrade note. No algorithm soup.</h2>
-        <p>{site.newsletter.blurb} Product moves, forum wisdom, weekend-killer warnings, and the occasional “do not buy that yet” from the bench.</p>
+  <section class="real-build-band">
+    <div class="wrap">
+      <div class="section-intro light-copy">
+        <div><span class="lbl lbl-accent">Real builds · real people</span><h2>This is what the dream has to survive.</h2></div>
+        <p>Real rooms and real controls first. Editorial scenes are labeled. Product proof stays product proof.</p>
       </div>
+      <div class="real-build-grid">
+        {realBuilds.map((build, index) => (
+          <article class:list={['real-build', index === 0 && 'lead']} data-bay={build.bay}>
+            <a class="real-build-image" href={build.href}><img src={build.image} alt={build.alt} loading="lazy" decoding="async" /></a>
+            <div>
+              <span>{build.bay} build study</span>
+              <h3>{build.title}</h3>
+              <p>{build.dek}</p>
+              <a class="photo-credit" href={build.creditUrl} target="_blank" rel="noopener">Photo: {build.credit}</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="investigation-band" id="investigations">
+    <div class="wrap">
+      <div class="section-intro">
+        <div><span class="lbl lbl-accent">Current investigations</span><h2>Three guides strong enough for the front bench.</h2></div>
+        <p>Every guide here cleared the A-grade authority gate. Nothing is promoted because it merely exists.</p>
+      </div>
+      <div class="investigation-grid">
+        {investigations.map(({ entry, href, art, curator, quality, evidence }, index) => (
+          <a class:list={['investigation-card', index === 0 && 'lead']} data-bay={entry.data.bay} href={href}>
+            <div class="investigation-image">
+              {art && <img src={art.image} alt={art.alt} loading={index === 0 ? 'eager' : 'lazy'} decoding="async" />}
+              <span class="grade">{quality?.grade} · {quality?.score}/100</span>
+            </div>
+            <div class="investigation-copy">
+              <div class="investigator"><img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" /><span>{curator.name} · {entry.data.type.replace(/-/g, ' ')}</span></div>
+              <h3>{entry.data.title}</h3>
+              <p>{entry.data.excerpt || entry.data.description}</p>
+              <div class="evidence-row">{evidence.map((label) => <span>{label}</span>)}</div>
+              <small>{articleMeta(entry.data)}</small>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="desire-band">
+    <div class="wrap">
+      <div class="section-intro light-copy">
+        <div><span class="lbl lbl-accent">Objects of desire</span><h2>The parts that make builders lean toward the screen.</h2></div>
+        <p>Shown installed or in use wherever the proof exists. No white marketplace squares pretending to be atmosphere.</p>
+      </div>
+      <div class="desire-grid">
+        {objectsOfDesire.map((item, index) => (
+          <a class:list={['desire-card', index % 3 === 0 && 'wide']} data-bay={item.bay} href={item.href}>
+            <div class="desire-image"><img src={item.image} alt={item.alt} loading="lazy" decoding="async" /><span>{item.proof}</span></div>
+            <div><small>{item.eyebrow}</small><h3>{item.title}</h3><p>{item.verdict}</p><b>Inspect the product →</b></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="stream-preview-band">
+    <div class="wrap">
+      <div class="section-intro">
+        <div><span class="lbl lbl-accent">Sim Stream</span><h2>Five more routes from the information river.</h2></div>
+        <a class="text-link" href="/build-stream">Open the full Sim Stream</a>
+      </div>
+      <div class="stream-preview-list">
+        {streamPreview.map(({ entry, href, art, curator, quality }, index) => (
+          <a class="stream-preview-row" data-bay={entry.data.bay} href={href}>
+            <span class="stream-index">{String(index + 1).padStart(2, '0')}</span>
+            <div class="stream-preview-image">{art && <img src={art.image} alt={art.alt} loading="lazy" decoding="async" />}</div>
+            <div class="stream-preview-copy">
+              <small>{entry.data.bay} · {entry.data.type.replace(/-/g, ' ')} · {quality?.grade}</small>
+              <h3>{entry.data.title}</h3>
+              <p>{entry.data.excerpt || entry.data.description}</p>
+            </div>
+            <div class="stream-curator"><img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" /><span>{curator.name}</span></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="crew-debate-band">
+    <div class="wrap debate-layout">
+      <div class="debate-copy">
+        <span class="lbl lbl-accent">The bench, mid-argument</span>
+        <h2>Good builders do not agree. They expose the trade.</h2>
+        <p>Every curator has a history, a current rig, expensive mistakes, and a different tolerance for setup pain. Their job is not to decorate a card. It is to tell you what they would buy, what they would skip, and what ruins the weekend.</p>
+        <a class="btn btn-primary" href="/curators">Listen at the bench</a>
+      </div>
+      <div class="debate-thread">
+        {benchVoices.slice(1, 5).map(({ person }, index) => (
+          <a href={`/curator/${crewSlug(person)}`}>
+            <img src={person.image} alt={person.alt} loading="lazy" decoding="async" />
+            <div><span>{person.handle}</span><blockquote>“{person.hillsToDieOn?.[index % person.hillsToDieOn.length] || person.favoriteWarning}”</blockquote></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="newsletter-band" id="newsletter">
+    <div class="wrap newsletter-inner">
+      <div><span class="lbl lbl-accent">Workbench Drop</span><h2>One useful upgrade note. No algorithm soup.</h2><p>{site.newsletter.blurb} Product moves, forum wisdom, owner warnings, and the occasional “wait for version two.”</p></div>
       <form name="workbench-drop" method="POST" data-netlify="true" netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="workbench-drop" />
         <p class="sr-only"><label>Do not fill this out: <input name="bot-field" /></label></p>
-        <input type="email" placeholder="builder@garage.net" aria-label="Email address" required />
+        <input type="email" name="email" placeholder="builder@garage.net" aria-label="Email address" required />
         <button class="btn btn-primary" type="submit">Join the bench list</button>
       </form>
-    </section>
-  </div>
+    </div>
+  </section>
 </Base>
 
 <style>
-  .hero-v2 {
-    position: relative;
-    min-height: min(760px, calc(100vh - 72px));
-    display: flex;
-    align-items: flex-end;
-    overflow: hidden;
-    border-bottom: 3px solid #101820;
-  }
-  .hero-v2 > img {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: saturate(1.05) contrast(1.05);
-  }
-  .hero-v2-scrim {
-    position: absolute;
-    inset: 0;
-    background:
-      linear-gradient(90deg, rgba(16, 24, 32, .92) 0%, rgba(16, 24, 32, .58) 45%, rgba(16, 24, 32, .08) 100%),
-      linear-gradient(180deg, rgba(16, 24, 32, .08), rgba(16, 24, 32, .42));
-  }
-  .hero-v2-inner {
-    position: relative;
-    z-index: 2;
-    width: 100%;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 360px;
-    gap: 28px;
-    align-items: end;
-    padding-top: 70px;
-    padding-bottom: 42px;
-  }
-  .hero-v2-copy {
-    max-width: 760px;
-    color: #fff;
-  }
-  .hero-v2-copy h1 {
-    max-width: 12ch;
-    margin: 14px 0 18px;
-    color: #fff;
-    font-size: clamp(2.8rem, 6.8vw, 5.55rem);
-    line-height: .92;
-    text-transform: uppercase;
-  }
-  .hero-v2-copy p {
-    max-width: 62ch;
-    color: rgba(255,255,255,.86);
-    font-size: 1.08rem;
-  }
+  .home-hero { position: relative; min-height: min(780px, calc(100vh - 72px)); display: flex; align-items: flex-end; overflow: hidden; background: #101820; }
+  .home-hero > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(1.14) contrast(1.02) brightness(1.06); }
+  .home-hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(8,15,22,.93), rgba(8,15,22,.48) 55%, rgba(8,15,22,.12)), linear-gradient(180deg, rgba(8,15,22,.04), rgba(8,15,22,.58)); }
+  .home-hero-inner { position: relative; z-index: 2; width: 100%; display: grid; grid-template-columns: minmax(0, 1fr) 430px; gap: 38px; align-items: end; padding-top: 84px; padding-bottom: 42px; }
+  .home-hero-copy { max-width: 830px; color: #fff; }
+  .home-hero-copy h1 { max-width: 12ch; margin: 14px 0 18px; color: #fff; font-size: clamp(3.2rem, 7vw, 6.5rem); line-height: .89; text-transform: uppercase; }
+  .home-hero-copy p { max-width: 66ch; color: rgba(255,255,255,.88); font-size: 1.08rem; line-height: 1.65; }
   .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
-  .hero-bench-stack {
-    align-self: end;
-    display: grid;
-    gap: 12px;
-    max-width: 470px;
-    padding: 14px;
-    color: #fff;
-    background:
-      linear-gradient(145deg, rgba(16,24,32,.9), rgba(16,24,32,.68)),
-      radial-gradient(360px 220px at 100% 0%, rgba(255,94,26,.22), transparent 72%);
-    border: 2px solid rgba(255,255,255,.34);
-    border-radius: 18px;
-    box-shadow: 0 10px 0 rgba(16,24,32,.28), 0 28px 72px rgba(0,0,0,.28);
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
-  }
-  .hero-bench-stack > span {
-    font-family: var(--font-mono);
-    font-size: .62rem;
-    text-transform: uppercase;
-    letter-spacing: .08em;
-    font-weight: 800;
-    color: color-mix(in srgb, var(--accent) 70%, #fff);
-  }
-  .hero-bench-card {
-    min-width: 0;
-    display: grid;
-    grid-template-columns: 76px 1fr;
-    gap: 12px;
-    align-items: center;
-    padding: 12px;
-    border: 1px solid rgba(255,255,255,.28);
-    border-radius: 14px;
-    background: rgba(255,255,255,.93);
-    color: #101820;
-  }
-  .hero-bench-card:hover {
-    border-color: #fff;
-    transform: translateY(-3px);
-  }
-  .hero-bench-card img {
-    width: 76px;
-    height: 76px;
-    border-radius: 12px;
-    object-fit: cover;
-    object-position: center top;
-    display: block;
-    border: 2px solid rgba(16,24,32,.14);
-    box-shadow: 0 10px 18px rgba(16,24,32,.16);
-  }
-  .hero-bench-card b {
-    display: block;
-    font-family: var(--font-disp);
-    font-size: 1.05rem;
-    line-height: 1.05;
-  }
-  .hero-bench-card small {
-    display: block;
-    margin-bottom: 5px;
-    color: var(--accent);
-    font-family: var(--font-mono);
-    font-size: .54rem;
-    font-weight: 900;
-    letter-spacing: .1em;
-    line-height: 1.25;
-    text-transform: uppercase;
-  }
-  .hero-bench-card p {
-    margin-top: 6px;
-    color: #435363;
-    font-size: .78rem;
-    line-height: 1.42;
-  }
-  .signal-strip {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    margin: 28px 0 8px;
-    border: 2px solid #101820;
-    background: #fff;
-    box-shadow: 0 8px 0 rgba(16, 24, 32, .12);
-  }
-  .signal-strip div {
-    padding: 18px;
-    border-right: 1px solid rgba(16, 24, 32, .12);
-  }
-  .signal-strip div:last-child { border-right: 0; }
-  .signal-strip b {
-    display: block;
-    font-family: var(--font-disp);
-    font-size: 2rem;
-    line-height: 1;
-    color: var(--accent);
-  }
-  .signal-strip span {
-    display: block;
-    margin-top: 7px;
-    font-family: var(--font-mono);
-    font-size: .62rem;
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    color: #435363;
-  }
-  .home-world-section {
-    position: relative;
-    margin: 34px 0;
-    padding: 36px 24px 42px;
-    overflow: hidden;
-    border: 2px solid rgba(16,24,32,.18);
-    border-radius: 32px;
-    background:
-      radial-gradient(820px 380px at 84% 6%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 70%),
-      linear-gradient(90deg, rgba(16,24,32,.92), rgba(16,24,32,.58) 45%, rgba(16,24,32,.3)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 40px 90px rgba(16,24,32,.16);
-  }
-  .home-world-section::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background:
-      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
-    background-size: 46px 46px;
-    opacity: .36;
-    mix-blend-mode: screen;
-  }
-  .home-world-section > * {
-    position: relative;
-    z-index: 1;
-  }
-  .home-world-section .sec-head h2,
-  .home-world-section .sec-head .lbl {
-    color: #fff;
-    text-shadow: 0 2px 18px rgba(0,0,0,.3);
-  }
-  .home-world-section .sec-head .lbl-accent,
-  .home-world-section .sec-head a {
-    color: color-mix(in srgb, var(--accent) 68%, #fff);
-  }
-  .latest-rotator,
-  .curator-latest {
-    margin: 34px 0;
-    padding: 34px 24px 40px;
-    border: 2px solid rgba(16,24,32,.16);
-    border-radius: 30px;
-    background:
-      radial-gradient(820px 320px at 92% 0%, rgba(255,94,26,.13), transparent 68%),
-      radial-gradient(640px 300px at 0% 100%, rgba(56,189,248,.11), transparent 70%),
-      linear-gradient(180deg, #fff, #f4f8fb);
-    box-shadow: 0 12px 0 rgba(16,24,32,.1), 0 36px 78px rgba(16,24,32,.12);
-    overflow: hidden;
-  }
-  .latest-rotator .sec-head h2,
-  .curator-latest .sec-head h2 {
-    color: var(--txt);
-  }
-  .latest-rail {
-    display: grid;
-    grid-auto-flow: column;
-    grid-auto-columns: minmax(560px, 52%);
-    gap: 20px;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    padding: 5px 3px 20px;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-  .latest-rail::-webkit-scrollbar { display: none; }
-  .latest-slide {
-    position: relative;
-    min-height: 0;
-    overflow: hidden;
-    display: grid;
-    grid-template-rows: 315px auto;
-    border: 2px solid rgba(16,24,32,.16);
-    border-radius: 22px;
-    color: #101820;
-    background: #fff;
-    scroll-snap-align: start;
-    box-shadow: 0 10px 0 rgba(16,24,32,.11), 0 28px 62px rgba(16,24,32,.13);
-  }
-  .latest-slide:hover {
-    transform: translateY(-5px);
-    border-color: #101820;
-  }
-  .latest-slide-art {
-    position: relative;
-    display: grid;
-    place-items: center;
-    min-height: 315px;
-    padding: 28px;
-    background:
-      radial-gradient(420px 250px at 50% 80%, color-mix(in srgb, var(--accent) 15%, transparent), transparent 72%),
-      linear-gradient(135deg, #ffffff, #eef4f8);
-    border-bottom: 2px solid rgba(16,24,32,.1);
-  }
-  .latest-slide-art img {
-    width: 100%;
-    height: 232px;
-    object-fit: contain;
-    filter: drop-shadow(0 24px 32px rgba(16,24,32,.22));
-    transition: transform .5s ease;
-  }
-  .latest-slide-art.is-wide-art {
-    padding: 0;
-    background: #101820;
-  }
-  .latest-slide-art.is-wide-art img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: none;
-  }
-  .latest-slide:hover .latest-slide-art.is-wide-art img { transform: scale(1.025); }
-  .latest-slide:hover .latest-slide-art img { transform: scale(1.045) rotate(-.5deg); }
-  .latest-slide-art span {
-    position: absolute;
-    left: 18px;
-    top: 18px;
-    padding: 8px 10px;
-    border: 1px solid #101820;
-    border-radius: 8px;
-    background: #ff5e1a;
-    color: #101820;
-    font-family: var(--font-mono);
-    font-size: .54rem;
-    font-weight: 900;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-  }
-  .latest-slide-copy {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: 24px 24px 26px;
-  }
-  .latest-slide-copy small,
-  .lust-copy span {
-    font-family: var(--font-mono);
-    color: var(--accent);
-    font-size: .58rem;
-    text-transform: uppercase;
-    letter-spacing: .12em;
-    font-weight: 900;
-  }
-  .latest-slide-copy h3 {
-    margin-top: 12px;
-    color: #101820;
-    font-size: clamp(1.2rem, 1.75vw, 1.7rem);
-    line-height: 1.03;
-    text-transform: uppercase;
-    overflow-wrap: anywhere;
-    display: -webkit-box;
-    -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .latest-slide-copy p {
-    margin-top: 14px;
-    color: #435363;
-    max-width: 56ch;
-    font-size: .92rem;
-    line-height: 1.5;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .curator-latest-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 18px;
-  }
-  .brief-card {
-    display: grid;
-    grid-template-rows: 210px auto;
-    min-height: 246px;
-    overflow: hidden;
-    border: 2px solid rgba(16,24,32,.14);
-    border-radius: 18px;
-    background: #fff;
-    box-shadow: 0 8px 0 rgba(16,24,32,.08);
-    color: #101820;
-  }
-  .brief-card:hover {
-    transform: translateY(-4px);
-    border-color: #101820;
-    box-shadow: 0 12px 0 rgba(16,24,32,.12);
-  }
-  .brief-art {
-    display: grid;
-    place-items: center;
-    padding: 20px;
-    background:
-      radial-gradient(320px 180px at 72% 20%, color-mix(in srgb, var(--accent) 13%, transparent), transparent 72%),
-      linear-gradient(135deg, #fff, #eef4f8);
-    border-bottom: 1px solid rgba(16,24,32,.12);
-  }
-  .brief-art img {
-    width: 100%;
-    height: 170px;
-    object-fit: contain;
-    filter: drop-shadow(0 15px 22px rgba(16,24,32,.2));
-  }
-  .brief-art.is-wide-art {
-    padding: 0;
-    background: #101820;
-  }
-  .brief-art.is-wide-art img {
-    width: 100%;
-    height: 100%;
-    min-height: 210px;
-    object-fit: cover;
-    filter: none;
-  }
-  .brief-body {
-    padding: 16px;
-  }
-  .brief-curator {
-    display: flex;
-    align-items: center;
-    gap: 9px;
-    margin-bottom: 12px;
-  }
-  .brief-curator img {
-    width: 34px;
-    height: 34px;
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center top;
-    border: 2px solid var(--accent);
-  }
-  .brief-curator span,
-  .brief-body small {
-    font-family: var(--font-mono);
-    color: var(--accent);
-    font-size: .56rem;
-    font-weight: 900;
-    letter-spacing: .11em;
-    text-transform: uppercase;
-  }
-  .brief-handle { color: var(--dimmer); font-weight: 700; }
-  .brief-card h3 {
-    font-size: clamp(1.08rem, 1.5vw, 1.34rem);
-    line-height: 1.05;
-  }
-  .brief-card p {
-    margin-top: 9px;
-    color: #435363;
-    font-size: .9rem;
-    line-height: 1.48;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .brief-body small {
-    display: block;
-    margin-top: 12px;
-  }
-  .home-games-world {
-    background:
-      radial-gradient(760px 360px at 82% 8%, rgba(255,94,26,.25), transparent 70%),
-      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.52)),
-      var(--world-bg) center / cover no-repeat;
-  }
-  .home-game-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 14px;
-  }
-  .home-game-card {
-    min-height: 300px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    position: relative;
-    overflow: hidden;
-    padding: 18px;
-    border: 2px solid rgba(255,255,255,.24);
-    border-radius: 20px;
-    color: #fff;
-    background:
-      linear-gradient(180deg, rgba(16,24,32,.12), rgba(16,24,32,.9)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 10px 0 rgba(16,24,32,.18), 0 26px 58px rgba(0,0,0,.18);
-  }
-  .home-game-card::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background:
-      radial-gradient(360px 220px at 72% 12%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 70%),
-      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
-    background-size: auto, 38px 38px, 38px 38px;
-    opacity: .65;
-    mix-blend-mode: screen;
-  }
-  .home-game-card > * {
-    position: relative;
-    z-index: 1;
-  }
-  .home-game-card:hover {
-    transform: translateY(-5px);
-    border-color: rgba(255,255,255,.72);
-  }
-  .home-game-card span {
-    color: color-mix(in srgb, var(--accent) 72%, #fff);
-    font-family: var(--font-mono);
-    font-size: .58rem;
-    font-weight: 900;
-    letter-spacing: .14em;
-    text-transform: uppercase;
-  }
-  .home-game-card h3 {
-    margin-top: 8px;
-    color: #fff;
-    font-size: clamp(1.35rem, 2.2vw, 2rem);
-    line-height: .9;
-    text-transform: uppercase;
-  }
-  .home-game-card p {
-    margin-top: 10px;
-    color: rgba(255,255,255,.88);
-    font-weight: 800;
-    line-height: 1.3;
-  }
-  .home-game-card small {
-    display: block;
-    margin-top: 12px;
-    color: rgba(255,255,255,.68);
-    font-size: .78rem;
-    line-height: 1.4;
-  }
-  .bay-command-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 14px;
-  }
-  .lust-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 18px;
-  }
-  .lust-card {
-    display: grid;
-    grid-template-rows: minmax(260px, 1fr) auto;
-    overflow: hidden;
-    border: 2px solid rgba(16,24,32,.14);
-    border-radius: 14px;
-    background: #fff;
-    box-shadow: 0 9px 0 rgba(16,24,32,.1);
-  }
-  .lust-card:hover { transform: translateY(-5px); border-color: #101820; box-shadow: 0 13px 0 rgba(16,24,32,.14); }
-  .lust-image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 280px;
-    padding: 22px;
-    background:
-      radial-gradient(420px 240px at 70% 20%, color-mix(in srgb, var(--accent) 11%, transparent), transparent 70%),
-      linear-gradient(135deg, #fff, #f6f8fa);
-    border-bottom: 2px solid rgba(16,24,32,.1);
-  }
-  .lust-image img {
-    width: 100%;
-    height: 240px;
-    object-fit: contain;
-    filter: drop-shadow(0 22px 28px rgba(16,24,32,.18));
-    transition: transform .5s ease;
-  }
-  .lust-card:hover .lust-image img { transform: scale(1.05); }
-  .lust-copy { padding: 20px; }
-  .lust-copy h3 { margin-top: 8px; font-size: 1.35rem; }
-  .lust-copy p { margin-top: 9px; color: #435363; font-size: .9rem; line-height: 1.55; }
-  .lust-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
-  .lust-actions a {
-    font-family: var(--font-mono);
-    font-size: .68rem;
-    letter-spacing: .06em;
-    text-transform: uppercase;
-    font-weight: 900;
-    border: 1px solid rgba(16,24,32,.16);
-    border-radius: 8px;
-    padding: 8px 12px;
-    color: #101820;
-  }
-  .lust-actions a:last-child {
-    background: #ff5e1a;
-    border-color: #101820;
-  }
-  .bay-command {
-    display: flex;
-    min-height: 440px;
-    flex-direction: column;
-    color: #101820;
-    overflow: hidden;
-    border: 2px solid rgba(255,255,255,.24);
-    border-radius: 18px;
-    background:
-      linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,255,255,.96)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 10px 0 rgba(16, 24, 32, .16), 0 26px 58px rgba(0,0,0,.2);
-  }
-  .bay-command:hover {
-    transform: translateY(-5px);
-    border-color: #101820;
-    box-shadow: 0 12px 0 rgba(16, 24, 32, .12);
-  }
-  .bay-command-media {
-    position: relative;
-    min-height: 230px;
-    background: #101820;
-    overflow: hidden;
-  }
-  .bay-command-media img {
-    width: 100%;
-    height: 100%;
-    min-height: 230px;
-    object-fit: cover;
-    display: block;
-    filter: saturate(1.05) contrast(1.05);
-  }
-  .bay-command-media::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background:
-      radial-gradient(420px 230px at 72% 12%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 70%),
-      linear-gradient(180deg, rgba(16,24,32,.12) 20%, rgba(16,24,32,.78));
-  }
-  .bay-command-media span {
-    position: absolute;
-    left: 14px;
-    bottom: 12px;
-    z-index: 2;
-    color: #fff;
-    font-family: var(--font-disp);
-    font-size: 1.75rem;
-    font-weight: 800;
-    text-transform: uppercase;
-  }
-  .bay-command-copy { padding: 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
-  .bay-command-copy h3 { font-size: 1.1rem; line-height: 1.18; }
-  .bay-command-copy p { color: #435363; font-size: .84rem; line-height: 1.55; flex: 1; }
-  .bay-chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
-  .bay-chip-row span {
-    border: 1px solid rgba(16,24,32,.12);
-    background: rgba(246,248,250,.92);
-    color: #435363;
-    border-radius: 999px;
-    padding: 5px 7px;
-    font-family: var(--font-mono);
-    font-size: .52rem;
-    letter-spacing: .04em;
-  }
-  /* Feature-guide cards — bulletproof vertical card: never skinny (min 320px),
-     never towering (capped title/excerpt). Media on top, copy below. */
-  .feature-guide-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 20px;
-  }
-  .feature-guide {
-    --world-a: var(--accent);
-    --world-b: var(--accent2);
-    color: #101820;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    border: 2px solid color-mix(in srgb, var(--world-a) 34%, rgba(16,24,32,.16));
-    border-radius: 20px;
-    background: linear-gradient(160deg, #fff, color-mix(in srgb, var(--world-a) 5%, #f6f9fb));
-    box-shadow: 0 10px 0 rgba(16,24,32,.10), 0 26px 56px rgba(16,24,32,.13);
-    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .feature-guide:hover {
-      transform: translateY(-5px);
-      border-color: #101820;
-      box-shadow: 0 14px 0 rgba(16,24,32,.15), 0 34px 70px color-mix(in srgb, var(--world-a) 18%, transparent);
-    }
-  }
-  .feature-guide-media {
-    position: relative;
-    display: grid;
-    place-items: center;
-    aspect-ratio: 16 / 10;
-    width: 100%;
-    padding: 22px 22px 26px;
-    overflow: hidden;
-    border-bottom: 2px solid rgba(16,24,32,.1);
-    background:
-      radial-gradient(360px 200px at 70% 18%, color-mix(in srgb, var(--world-b) 20%, transparent), transparent 72%),
-      radial-gradient(340px 180px at 12% 108%, color-mix(in srgb, var(--world-a) 16%, transparent), transparent 72%),
-      linear-gradient(150deg, color-mix(in srgb, var(--world-a) 12%, #fff), #fff 52%, color-mix(in srgb, var(--world-b) 10%, #fff));
-  }
-  /* soft pedestal so the product reads as staged, not lost */
-  .feature-guide-media::before {
-    content: "";
-    position: absolute;
-    left: 18%; right: 18%; bottom: 16px;
-    height: 16%;
-    border-radius: 999px;
-    background: radial-gradient(ellipse at center, rgba(16,24,32,.20), transparent 70%);
-    filter: blur(10px);
-  }
-  .feature-guide-media img {
-    position: relative;
-    z-index: 1;
-    width: auto;
-    max-width: 88%;
-    max-height: 100%;
-    object-fit: contain;
-    filter: drop-shadow(0 20px 26px rgba(16,24,32,.26));
-    transition: transform .4s ease;
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .feature-guide:hover .feature-guide-media img { transform: scale(1.06); }
-  }
-  .feature-guide-media.is-wide-art {
-    padding: 0;
-    background: #101820;
-  }
-  .feature-guide-media.is-wide-art::before { display: none; }
-  .feature-guide-media.is-wide-art img {
-    width: 100%;
-    max-width: none;
-    height: 100%;
-    max-height: none;
-    object-fit: cover;
-    filter: none;
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .feature-guide:hover .feature-guide-media.is-wide-art img { transform: scale(1.03); }
-  }
-  .feature-guide-badge {
-    position: absolute;
-    left: 14px;
-    top: 14px;
-    z-index: 2;
-    padding: 6px 10px;
-    border-radius: 8px;
-    background: linear-gradient(135deg, #101820, color-mix(in srgb, var(--world-a) 30%, #101820));
-    color: #fff;
-    font-family: var(--font-mono);
-    font-size: .54rem;
-    font-weight: 900;
-    letter-spacing: .11em;
-    text-transform: uppercase;
-    box-shadow: 0 8px 18px rgba(16,24,32,.2);
-  }
-  .feature-guide-copy {
-    padding: 18px 22px 22px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    flex: 1;
-  }
-  .feature-guide-index {
-    font-family: var(--font-mono);
-    font-size: .56rem;
-    color: var(--accent);
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    font-weight: 800;
-  }
-  .feature-guide h3 {
-    font-size: clamp(1.12rem, 1.4vw, 1.4rem);
-    line-height: 1.16;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    min-height: 3.5em;
-  }
-  .feature-guide p {
-    color: #334155;
-    font-size: .9rem;
-    line-height: 1.5;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .feature-guide-copy::after {
-    content: "Read the guide →";
-    margin-top: auto;
-    padding-top: 12px;
-    font-family: var(--font-mono);
-    font-size: .68rem;
-    font-weight: 800;
-    letter-spacing: .04em;
-    color: var(--accent);
-  }
-  .crew-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 14px;
-  }
-  .crew-card {
-    overflow: hidden;
-    background: rgba(255,255,255,.94);
-    border: 2px solid rgba(255,255,255,.26);
-    border-radius: 16px;
-    box-shadow: 0 10px 0 rgba(16,24,32,.16), 0 26px 58px rgba(0,0,0,.16);
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .crew-card img {
-    width: 100%;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
-    object-position: center top;
-    display: block;
-    border-bottom: 2px solid rgba(16,24,32,.1);
-  }
-  .crew-card div { padding: 15px; }
-  .crew-card span {
-    font-family: var(--font-mono);
-    font-size: .56rem;
-    text-transform: uppercase;
-    color: var(--accent);
-    letter-spacing: .1em;
-    font-weight: 800;
-  }
-  .crew-card h3 { margin-top: 7px; font-size: 1.18rem; }
-  .crew-card p { color: #435363; margin-top: 6px; font-size: .86rem; line-height: 1.45; }
-  .crew-card small { display: block; color: #71808c; margin-top: 9px; line-height: 1.45; }
-  .workbench-drop {
-    position: relative;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 24px;
-    align-items: center;
-    margin: 34px 0 60px;
-    padding: 26px;
-    border: 2px solid #101820;
-    border-radius: 24px;
-    color: #fff;
-    overflow: hidden;
-    background:
-      radial-gradient(760px 380px at 88% 0%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%),
-      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.62)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 34px 78px rgba(16,24,32,.18);
-  }
-  .workbench-drop::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background:
-      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
-    background-size: 46px 46px;
-    opacity: .34;
-    mix-blend-mode: screen;
-  }
-  .workbench-drop > * { position: relative; z-index: 1; }
-  .workbench-drop h2 { font-size: clamp(1.5rem, 3.2vw, 2.2rem); margin: 8px 0; }
-  .workbench-drop p { color: rgba(255,255,255,.84); max-width: 66ch; }
-  .workbench-drop form { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
-  .workbench-drop input {
-    min-width: 260px;
-    border: 2px solid rgba(16,24,32,.14);
-    border-radius: 8px;
-    padding: 13px 14px;
-    font-family: var(--font-mono);
-  }
-  @media (max-width: 1180px) {
-    .hero-v2-inner { grid-template-columns: 1fr; }
-    .hero-bench-stack { max-width: 720px; }
-    .bay-command-grid, .crew-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .feature-guide-grid, .lust-grid { grid-template-columns: 1fr 1fr; }
-  }
-  @media (max-width: 760px) {
-    .hero-v2 { min-height: 760px; }
-    .hero-v2-inner { padding-bottom: 28px; }
-    .hero-v2-copy h1 { font-size: clamp(2.75rem, 14vw, 4.15rem); }
-    .latest-rail { grid-auto-columns: 100%; }
-    .latest-slide { min-height: 0; grid-template-columns: 1fr; grid-template-rows: 210px auto; }
-    .latest-slide-art { min-height: 260px; }
-    .latest-slide-art img { height: 210px; }
-    .latest-slide-art.is-wide-art { min-height: 210px; border-right: 0; border-bottom: 2px solid rgba(16,24,32,.1); }
-    .latest-slide-art.is-wide-art img { height: 210px; }
-    .latest-slide-copy { padding: 18px; }
-    .latest-slide-copy h3 { -webkit-line-clamp: 4; font-size: 1.18rem; }
-    .latest-slide-copy p { display: none; }
-    .hero-bench-stack, .feature-guide-grid, .bay-command-grid, .crew-grid, .signal-strip, .workbench-drop, .lust-grid, .home-game-grid, .curator-latest-grid { grid-template-columns: 1fr; }
-    .brief-card { grid-template-columns: 1fr; }
-    .brief-art { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
-    .brief-art.is-wide-art img { min-height: 190px; height: 190px; }
-    .brief-body { padding: 14px; }
-    .brief-card p { -webkit-line-clamp: 2; }
-    .crew-card { display: grid; grid-template-columns: 102px 1fr; }
-    .crew-card img { height: 100%; min-height: 178px; aspect-ratio: auto; border-bottom: 0; border-right: 2px solid rgba(16,24,32,.1); }
-    .feature-guide-media { min-height: 0; border-right: 0; border-bottom: 2px solid rgba(16,24,32,.1); }
-    .feature-guide-media img { height: min(210px, 82%); }
-    .feature-guide-media.is-wide-art img { min-height: 0; height: 100%; }
-    .signal-strip div { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.12); }
-    .signal-strip div:last-child { border-bottom: 0; }
-    .workbench-drop form { justify-content: stretch; }
-    .workbench-drop input, .workbench-drop button { width: 100%; justify-content: center; }
+  .weekend-brief { overflow: hidden; border: 2px solid rgba(255,255,255,.45); background: rgba(255,255,255,.95); color: #101820; box-shadow: 0 14px 0 rgba(6,12,18,.28), 0 40px 90px rgba(0,0,0,.28); }
+  .weekend-brief img { width: 100%; aspect-ratio: 16/10; object-fit: cover; display: block; }
+  .weekend-brief div { padding: 20px; }
+  .weekend-brief span, .weekend-brief a { color: var(--accent); font-family: var(--font-mono); font-size: .62rem; font-weight: 900; letter-spacing: .09em; text-transform: uppercase; }
+  .weekend-brief h2 { margin-top: 9px; font-size: 1.45rem; line-height: 1.08; }
+  .weekend-brief p { margin: 9px 0 14px; color: #435363; font-size: .9rem; line-height: 1.5; }
+
+  .section-intro { display: grid; grid-template-columns: minmax(0, 1fr) minmax(240px, 470px); gap: 28px; align-items: end; margin-bottom: 28px; }
+  .section-intro h2 { max-width: 16ch; margin-top: 8px; font-size: clamp(2rem, 4.5vw, 4.2rem); line-height: .95; text-transform: uppercase; }
+  .section-intro > p { color: #536272; font-size: 1rem; line-height: 1.65; }
+  .light-copy h2, .light-copy p { color: #fff; }
+  .light-copy p { color: rgba(255,255,255,.78); }
+  .text-link { align-self: end; color: var(--accent); font-family: var(--font-mono); font-size: .68rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+
+  .world-band { padding: 64px 0 72px; background: #101820; color: #fff; }
+  .world-grid { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 12px; }
+  .world-door { position: relative; min-height: 470px; overflow: hidden; color: #fff; border: 1px solid rgba(255,255,255,.26); }
+  .world-door img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
+  .world-door::after { content:""; position:absolute; inset:0; background: linear-gradient(180deg, rgba(8,15,22,.03) 24%, rgba(8,15,22,.92)); }
+  .world-door > div { position: absolute; z-index: 1; inset: auto 0 0; padding: 22px; }
+  .world-door span, .world-door small { color: color-mix(in srgb, var(--accent) 68%, #fff); font-family: var(--font-mono); font-size: .58rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
+  .world-door h3 { margin-top: 8px; color: #fff; font-size: 1.55rem; line-height: 1.02; }
+  .world-door p { margin: 10px 0 16px; color: rgba(255,255,255,.78); font-size: .84rem; line-height: 1.5; }
+  .world-door:hover img { transform: scale(1.055); }
+
+  .bench-says-band { padding: 72px 0; background: #f6f1ea; }
+  .bench-rail { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(420px, 46%); gap: 18px; overflow-x: auto; padding: 4px 4px 22px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+  .bench-verdict { display: grid; grid-template-columns: 48% 1fr; min-height: 340px; overflow: hidden; color: #101820; background: #fff; border: 2px solid #101820; box-shadow: 0 10px 0 rgba(16,24,32,.12); scroll-snap-align: start; }
+  .bench-scene { position: relative; min-height: 340px; }
+  .bench-scene img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .bench-scene span { position:absolute; z-index:1; left:12px; bottom:12px; padding:6px 8px; background:rgba(16,24,32,.82); color:#fff; font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; letter-spacing:.08em; }
+  .bench-copy { align-self: center; padding: 26px; }
+  .bench-copy small, .bench-copy h3 { color: var(--accent); }
+  .bench-copy small { font-family: var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.09em; text-transform:uppercase; }
+  .bench-copy h3 { margin-top:9px; font-size:1.45rem; }
+  .bench-copy blockquote { margin:14px 0; font-family:var(--font-disp); font-size:1.28rem; line-height:1.18; }
+  .bench-copy p { color:#5a6874; font-size:.88rem; line-height:1.5; }
+
+  .real-build-band { padding: 72px 0 80px; color:#fff; background: linear-gradient(135deg,#152331,#09131d); }
+  .real-build-grid { display:grid; grid-template-columns: 1.35fr 1fr; gap:18px; }
+  .real-build { display:grid; grid-template-columns: 1.1fr .9fr; min-height:320px; background:#fff; color:#101820; overflow:hidden; }
+  .real-build.lead { grid-row: span 2; grid-template-columns:1fr; grid-template-rows: minmax(390px,1fr) auto; }
+  .real-build-image { min-height:260px; overflow:hidden; }
+  .real-build-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .6s ease; }
+  .real-build:hover .real-build-image img { transform:scale(1.03); }
+  .real-build > div { padding:24px; align-self:center; }
+  .real-build span, .real-build .photo-credit { color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.1em; text-transform:uppercase; }
+  .real-build h3 { margin-top:9px; font-size:1.45rem; line-height:1.08; }
+  .real-build p { margin:10px 0 14px; color:#435363; font-size:.9rem; line-height:1.55; }
+
+  .investigation-band { padding:76px 0 86px; background:#edf4f8; }
+  .investigation-grid { display:grid; grid-template-columns:1.15fr .85fr; gap:20px; }
+  .investigation-card { display:grid; grid-template-rows:auto 1fr; overflow:hidden; color:#101820; border:2px solid rgba(16,24,32,.16); background:#fff; box-shadow:0 10px 0 rgba(16,24,32,.1); }
+  .investigation-card.lead { grid-row:span 2; }
+  .investigation-card:not(.lead) { grid-template-columns:42% 1fr; grid-template-rows:1fr; min-height:330px; }
+  .investigation-image { position:relative; aspect-ratio:16/9; overflow:hidden; background:#101820; }
+  .investigation-card:not(.lead) .investigation-image { aspect-ratio:auto; }
+  .investigation-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s ease; }
+  .investigation-card:hover .investigation-image img { transform:scale(1.03); }
+  .grade { position:absolute; left:14px; top:14px; padding:7px 9px; background:#ff5e1a; border:1px solid #101820; color:#101820; font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.08em; }
+  .investigation-copy { padding:24px; align-self:center; }
+  .investigator { display:flex; gap:9px; align-items:center; color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
+  .investigator img { width:38px; height:38px; border-radius:50%; object-fit:cover; object-position:center top; border:2px solid var(--accent); }
+  .investigation-copy h3 { margin-top:13px; font-size:clamp(1.3rem,2.2vw,2rem); line-height:1.04; }
+  .investigation-copy p { margin-top:11px; color:#435363; line-height:1.55; }
+  .evidence-row { display:flex; flex-wrap:wrap; gap:7px; margin-top:15px; }
+  .evidence-row span { padding:6px 8px; border:1px solid rgba(16,24,32,.14); color:#42515e; font-family:var(--font-mono); font-size:.52rem; text-transform:uppercase; letter-spacing:.06em; }
+  .investigation-copy > small { display:block; margin-top:14px; color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; text-transform:uppercase; letter-spacing:.07em; }
+
+  .desire-band { padding:78px 0 86px; color:#fff; background:#12100e; }
+  .desire-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
+  .desire-card { display:grid; grid-template-rows:280px auto; overflow:hidden; color:#101820; background:#fff; }
+  .desire-card.wide { grid-column:span 2; grid-template-columns:1.25fr .75fr; grid-template-rows:1fr; min-height:390px; }
+  .desire-image { position:relative; overflow:hidden; background:#1d2935; }
+  .desire-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .55s ease; }
+  .desire-card:hover .desire-image img { transform:scale(1.035); }
+  .desire-image span { position:absolute; left:12px; bottom:12px; padding:6px 8px; color:#fff; background:rgba(16,24,32,.84); font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; letter-spacing:.08em; }
+  .desire-card > div:last-child { padding:24px; align-self:center; }
+  .desire-card small, .desire-card b { color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.09em; text-transform:uppercase; }
+  .desire-card h3 { margin-top:9px; font-size:1.55rem; line-height:1.03; }
+  .desire-card p { margin:10px 0 18px; color:#435363; line-height:1.55; }
+
+  .stream-preview-band { padding:78px 0; background:#fff; }
+  .stream-preview-list { border-top:2px solid #101820; }
+  .stream-preview-row { display:grid; grid-template-columns:58px 230px minmax(0,1fr) 92px; gap:20px; align-items:center; padding:18px 0; color:#101820; border-bottom:1px solid rgba(16,24,32,.16); }
+  .stream-index { font-family:var(--font-disp); font-size:1.8rem; color:var(--accent); }
+  .stream-preview-image { height:142px; overflow:hidden; background:#101820; }
+  .stream-preview-image img { width:100%; height:100%; object-fit:cover; display:block; }
+  .stream-preview-copy small { color:var(--accent); font-family:var(--font-mono); font-size:.55rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
+  .stream-preview-copy h3 { margin-top:7px; font-size:1.35rem; line-height:1.08; }
+  .stream-preview-copy p { margin-top:8px; color:#536272; font-size:.88rem; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .stream-curator { text-align:center; }
+  .stream-curator img { width:58px; height:58px; border-radius:50%; object-fit:cover; object-position:center top; border:2px solid var(--accent); }
+  .stream-curator span { display:block; margin-top:6px; color:#61707c; font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; }
+
+  .crew-debate-band { padding:82px 0; color:#fff; background:linear-gradient(135deg,#101820,#263949); }
+  .debate-layout { display:grid; grid-template-columns:.8fr 1.2fr; gap:54px; align-items:center; }
+  .debate-copy h2 { margin:10px 0 16px; color:#fff; font-size:clamp(2.1rem,4vw,4rem); line-height:.94; text-transform:uppercase; }
+  .debate-copy p { color:rgba(255,255,255,.78); line-height:1.65; }
+  .debate-copy .btn { margin-top:20px; }
+  .debate-thread { display:grid; gap:12px; }
+  .debate-thread a { display:grid; grid-template-columns:68px 1fr; gap:14px; align-items:center; padding:14px; color:#101820; background:#fff; border-left:5px solid var(--accent); }
+  .debate-thread img { width:68px; height:68px; object-fit:cover; object-position:center top; }
+  .debate-thread span { color:var(--accent); font-family:var(--font-mono); font-size:.54rem; font-weight:900; text-transform:uppercase; letter-spacing:.08em; }
+  .debate-thread blockquote { margin-top:5px; font-family:var(--font-disp); font-size:1rem; line-height:1.25; }
+
+  .newsletter-band { padding:54px 0; background:#ff5e1a; border-top:3px solid #101820; }
+  .newsletter-inner { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:32px; align-items:center; }
+  .newsletter-inner h2 { margin:8px 0; font-size:clamp(1.8rem,3.6vw,3rem); line-height:1; text-transform:uppercase; }
+  .newsletter-inner p { max-width:66ch; color:#28343e; }
+  .newsletter-inner form { display:flex; gap:10px; }
+  .newsletter-inner input { min-width:290px; padding:14px; border:2px solid #101820; background:#fff; font-family:var(--font-mono); }
+  .newsletter-inner .btn { background:#101820; color:#fff; }
+
+  @media (max-width:1100px) {
+    .home-hero-inner, .debate-layout { grid-template-columns:1fr; }
+    .weekend-brief { max-width:720px; display:grid; grid-template-columns:42% 1fr; }
+    .weekend-brief img { height:100%; aspect-ratio:auto; }
+    .world-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+    .investigation-grid { grid-template-columns:1fr; }
+    .investigation-card.lead { grid-row:auto; }
+    .desire-grid { grid-template-columns:1fr 1fr; }
+    .desire-card.wide { grid-column:span 2; }
+  }
+  @media (max-width:760px) {
+    .home-hero { min-height:900px; }
+    .home-hero-inner { padding-bottom:26px; }
+    .home-hero-copy h1 { font-size:clamp(3rem,15vw,4.7rem); }
+    .weekend-brief { grid-template-columns:1fr; }
+    .section-intro { grid-template-columns:1fr; gap:12px; }
+    .world-grid { display:grid; grid-auto-flow:column; grid-auto-columns:82%; grid-template-columns:none; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:14px; }
+    .world-door { min-height:430px; scroll-snap-align:start; }
+    .bench-rail { grid-auto-columns:92%; }
+    .bench-verdict { grid-template-columns:1fr; grid-template-rows:230px auto; }
+    .bench-scene { min-height:230px; }
+    .real-build-grid { grid-template-columns:1fr; }
+    .real-build, .real-build.lead { grid-row:auto; grid-template-columns:1fr; grid-template-rows:240px auto; }
+    .investigation-card:not(.lead) { grid-template-columns:1fr; grid-template-rows:220px auto; }
+    .desire-grid { grid-template-columns:1fr; }
+    .desire-card, .desire-card.wide { grid-column:auto; grid-template-columns:1fr; grid-template-rows:260px auto; min-height:0; }
+    .stream-preview-row { grid-template-columns:44px 116px 1fr; gap:10px; }
+    .stream-preview-image { height:100px; }
+    .stream-preview-copy p, .stream-curator { display:none; }
+    .stream-preview-copy h3 { font-size:.98rem; }
+    .debate-layout { gap:28px; }
+    .newsletter-inner { grid-template-columns:1fr; }
+    .newsletter-inner form { flex-direction:column; }
+    .newsletter-inner input { min-width:0; width:100%; }
   }
 </style>

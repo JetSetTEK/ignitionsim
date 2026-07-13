@@ -1,0 +1,150 @@
+{
+  "realBuilds": [
+    {
+      "bay": "racing",
+      "title": "The rig disappears when the controls land where your body expects.",
+      "dek": "A real driver, a real wheel, and a display wrapped far enough around the seat to remove the room from the lap.",
+      "image": "/images/real-builds/racing-vr-event.webp",
+      "alt": "Driver using a full sim racing cockpit with a direct-drive wheel and wraparound display at a gaming event",
+      "credit": "Matheus Bertelli / Pexels",
+      "creditUrl": "https://www.pexels.com/photo/realistic-vr-racing-simulator-experience-28993071/",
+      "href": "/racing"
+    },
+    {
+      "bay": "golf",
+      "title": "The private practice room is the product, not just the launch monitor.",
+      "dek": "Impact screen, turf, lighting, tee position, and enough calm to make a Tuesday night feel like a tee time.",
+      "image": "/images/real-builds/golf-room.webp",
+      "alt": "Real indoor golf simulator room with impact screen, hitting turf, golf bag, and projected course",
+      "credit": "Swingzone / Pexels",
+      "creditUrl": "https://www.pexels.com/photo/indoor-golf-simulator-room-in-mississauga-31212256/",
+      "href": "/golf"
+    },
+    {
+      "bay": "flight",
+      "title": "A flight deck earns its magic one correctly placed control at a time.",
+      "dek": "The best cockpits are not panel collections. They are clean sightlines, reliable axes, and muscle memory under pressure.",
+      "image": "/images/real-builds/flight-training.webp",
+      "alt": "Two people using a professional aircraft flight simulator with a panoramic runway display",
+      "credit": "ThisIsEngineering / Pexels",
+      "creditUrl": "https://www.pexels.com/photo/engineer-in-flight-simulator-3862137/",
+      "href": "/flight"
+    }
+  ],
+  "objectsOfDesire": [
+    {
+      "bay": "racing",
+      "eyebrow": "Active braking",
+      "title": "Simucube ActivePedal Pro",
+      "verdict": "The rare five-figure-feeling upgrade that changes what the brake can teach your foot.",
+      "image": "/images/article-proofs/racing/active-pedals/simucube-activepedal-installed-case-study.webp",
+      "alt": "Simucube ActivePedal installed and powered inside the Driven DynamiX motion simulator",
+      "href": "/racing/gear/simucube-activepedal-pro",
+      "proof": "Official installed-rig photo",
+      "proofType": "installed",
+      "source": "Simucube / Driven DynamiX case study",
+      "sourceUrl": "https://simucube.com/en-us/case-study-driven-dynamix-simucube-genelec/"
+    },
+    {
+      "bay": "golf",
+      "eyebrow": "Tour-grade launch data",
+      "title": "Foresight GCQuad",
+      "verdict": "Four-camera certainty for the golfer who is done negotiating with questionable indoor spin.",
+      "image": "/images/article-proofs/golf/foresight/gcquad-range-use.png",
+      "alt": "Foresight GCQuad launch monitor being used beside a golfer on a real driving range",
+      "href": "/golf/gear/foresight-gcquad",
+      "proof": "Real range-use photo",
+      "proofType": "use",
+      "source": "Foresight Sports",
+      "sourceUrl": "https://www.foresightsports.com/pages/gcquad"
+    },
+    {
+      "bay": "racing",
+      "eyebrow": "Seat-level feedback",
+      "title": "Next Level Racing HF8",
+      "verdict": "Less fabrication than a shaker stack, more physical information than another LED strip.",
+      "image": "/images/article-proofs/racing/tactile/nlr-hf8-installed-rig-official.webp",
+      "alt": "Next Level Racing HF8 haptic pad installed on a complete simulator cockpit",
+      "href": "/racing/gear/nlr-hf8",
+      "proof": "Official installed-rig photo",
+      "proofType": "installed",
+      "source": "Next Level Racing",
+      "sourceUrl": "https://nextlevelracing.com/products/hf8-haptic-gaming-pad/"
+    },
+    {
+      "bay": "space",
+      "eyebrow": "Six-axis control",
+      "title": "Thrustmaster SOL-R 2 HOSAS",
+      "verdict": "A serious all-in-one route into dual-stick spaceflight, with the mounting question still attached.",
+      "image": "/images/article-proofs/space/sol-r/sol-r2-official-banner.webp",
+      "alt": "Official Thrustmaster SOL-R 2 HOSAS dual-stick space simulation setup",
+      "href": "/space/gear/thrustmaster-sol-r2-hosas",
+      "proof": "Official lifestyle image",
+      "proofType": "official-lifestyle",
+      "source": "Thrustmaster",
+      "sourceUrl": "https://www.thrustmaster.com/products/sol-r-2-hosas-space-sim-duo/"
+    }
+  ],
+  "curatorActions": {
+    "duke-alvarez": [
+      {
+        "image": "/images/curator-scenes/duke-wheelbase-rigidity-dial-test-v2.webp",
+        "alt": "AI editorial scene of Duke Alvarez measuring flex on an aluminum-profile racing cockpit",
+        "task": "Measuring cockpit flex before approving more torque"
+      },
+      {
+        "image": "/images/curator-scenes/duke-tactile-diagnostic-driver.webp",
+        "alt": "AI editorial scene of Duke Alvarez diagnosing tactile feedback from the driver seat",
+        "task": "Separating useful telemetry from vibration theater"
+      }
+    ],
+    "nina-brooks": [
+      {
+        "image": "/images/curator-scenes/nina-golf-bay-commissioning-laser-v2.webp",
+        "alt": "AI editorial scene of Nina Brooks laser-measuring a bright home golf simulator bay",
+        "task": "Measuring the room before the shopping cart gets a vote"
+      },
+      {
+        "image": "/images/curator-scenes/nina-golf-bay-room-check-2.webp",
+        "alt": "AI editorial scene of Nina Brooks checking hitting width and projector geometry",
+        "task": "Checking swing clearance and projector shadows"
+      }
+    ],
+    "val-chen": [
+      {
+        "image": "/images/curator-scenes/val-msfs-usb-hub-floor-triage.webp",
+        "alt": "AI editorial scene of Val Chen tracing powered USB connections beneath a flight simulator cockpit",
+        "task": "Finding the dropout before blaming the flight controls"
+      },
+      {
+        "image": "/images/curator-scenes/val-star-citizen-desk-mount-install.webp",
+        "alt": "AI editorial scene of Val Chen installing dual-stick mounts at a space simulator desk",
+        "task": "Mounting HOSAS where six-axis muscle memory can form"
+      }
+    ],
+    "mac-donovan": [
+      {
+        "image": "/images/curator-scenes/mac-diy-button-board-test.webp",
+        "alt": "AI editorial scene of Mac Donovan testing a DIY simulator button board on an electronics bench",
+        "task": "Probing the home-built controller before it reaches a rig"
+      },
+      {
+        "image": "/images/curator-scenes/mac-gpu-flight-pc-workbench.webp",
+        "alt": "AI editorial scene of Mac Donovan inspecting a simulator PC and GPU on a practical workbench",
+        "task": "Finding the bottleneck the spec sheet hid"
+      }
+    ],
+    "gus-calder": [
+      {
+        "image": "/images/curator-scenes/gus-bridge-command-wiring-calibration.webp",
+        "alt": "AI editorial scene of Gus Calder calibrating a DIY twin-throttle marine simulator bridge",
+        "task": "Calibrating the bridge one exposed axis at a time"
+      },
+      {
+        "image": "/images/curator-scenes/gus-marine-throttle-helm.webp",
+        "alt": "AI editorial scene of Gus Calder operating helm and throttle controls on a marine simulator bridge",
+        "task": "Testing whether the mapped controls survive a real maneuver"
+      }
+    ]
+  }
+}

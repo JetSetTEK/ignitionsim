@@ -6,53 +6,59 @@ import { getCollection } from 'astro:content';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import community from '../../data/community.json';
-import signals from '../../data/research-signals.json';
-import growthPriorities from '../../data/growth-priorities.json';
-import { articleMeta, isCertifiedArticle, sortNewestArticles } from '../../lib/content';
+import systemMaps from '../../data/system-maps.json';
+import editorialSurfaces from '../../data/editorial-surfaces.json';
+import { articleMeta, articleSlug, isCertifiedArticle } from '../../lib/content';
+import { getArticleCardArt } from '../../lib/articleArt';
 import { hasVerifiedProductImage } from '../../lib/productMedia';
 import { getWorldForBay } from '../../lib/worlds';
 import { getCrewForBay, crewSlug } from '../../lib/crew';
 import { canonicalAmazonProductUrl } from '../../lib/amazon';
+import { clearsDiscoveryGate, evidenceLabels, qualityFor, sortByEditorialStrength } from '../../lib/editorial';
 
 export async function getStaticPaths() {
-  return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
+  return bays.map((bay) => ({ params: { bay: bay.slug }, props: { bay } }));
 }
 
 const { bay } = Astro.props;
-const baySignal = ((signals as any)[bay.slug] || {}) as any;
 const world = getWorldForBay(bay.slug);
-const bayCurator = getCrewForBay(bay.slug);
-const commItems = ((community as any)[bay.slug] || []) as any[];
-const commPreview = commItems.slice(0, 4);
-const articles = sortNewestArticles(await getCollection('articles', ({ data }) => data.bay === bay.slug && isCertifiedArticle(data)));
-const slug = (a: any) => a.id.split('/').pop();
+const bayCurator = getCrewForBay(bay.slug) as any;
+const map = (systemMaps as any)[bay.slug];
+const commItems = ((community as any)[bay.slug] || []).slice(0, 3) as any[];
+const actionMap = (editorialSurfaces as any).curatorActions as Record<string, any[]>;
+const curatorScenes = actionMap[crewSlug(bayCurator)] || [];
+const primaryScene = curatorScenes[bay.slug === 'space' ? 1 : 0] || { image: bayCurator.scene, alt: bayCurator.sceneAlt, task: bayCurator.currentObsession };
+const secondaryScene = curatorScenes[bay.slug === 'space' ? 0 : 1] || primaryScene;
 
-const starterGuideByBay: Record<string, string> = (growthPriorities as any).starterGuideByBay || {};
-const starterGuideSlug = starterGuideByBay[bay.slug] || (articles[0] ? slug(articles[0]) : '');
-const starterGuideHref = starterGuideSlug ? `/${bay.slug}/${starterGuideSlug}` : '/guides';
+const allBayArticles = await getCollection('articles', ({ data }) => data.bay === bay.slug && isCertifiedArticle(data));
+const promotedArticles = sortByEditorialStrength(allBayArticles.filter((entry) => clearsDiscoveryGate(entry.id)));
+const lead = promotedArticles[0];
+const shelf = promotedArticles.slice(1, 5);
+const leadHref = lead ? `/${bay.slug}/${articleSlug(lead)}` : '/guides';
+const leadArt = lead ? getArticleCardArt(leadHref) : undefined;
+const leadQuality = lead ? qualityFor(lead.id) : undefined;
+const leadEvidence = lead ? evidenceLabels(lead.id) : [];
 
 const amazonTag = (site as any).affiliate?.amazonTag;
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
-const allProducts = Object.values(prodMods).flatMap((m: any) => (m.default || m)) as any[];
-const buyUrl = (p: any) => canonicalAmazonProductUrl(p, amazonTag);
+const allProducts = Object.values(prodMods).flatMap((mod: any) => (mod.default || mod)) as any[];
 const gearItems = allProducts
-  .filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p))
+  .filter((product) => product.bay === bay.slug && hasVerifiedProductImage(product))
   .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0))
-  .slice(0, 12)
-  .map((p, i) => ({
-    href: `/${bay.slug}/gear/${p.id}`,
-    image: p.image || `/images/gear/${bay.slug}/${p.id}.jpg`,
-    brand: p.brand,
-    model: p.model,
-    price: p.price,
-    type: p.type,
-    whoFor: p.whoFor,
-    summary: p.summary,
-    buyUrl: buyUrl(p),
-    tag: i === 0 ? 'Bench pick' : undefined,
+  .slice(0, 8)
+  .map((product, index) => ({
+    href: `/${bay.slug}/gear/${product.id}`,
+    image: product.image || `/images/gear/${bay.slug}/${product.id}.jpg`,
+    brand: product.brand,
+    model: product.model,
+    price: product.price,
+    type: product.type,
+    whoFor: product.whoFor,
+    summary: product.summary,
+    buyUrl: canonicalAmazonProductUrl(product, amazonTag),
+    tag: index === 0 ? 'Bench pick' : undefined,
   }));
 
-const heroPhoto = { src: world.image, alt: world.alt, ai: true };
 const schema = [
   {
     '@context': 'https://schema.org',
@@ -65,491 +71,203 @@ const schema = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: `${bay.name} sim hardware`,
-    description: bay.intro,
+    name: `${bay.name} simulator system hub`,
+    description: `${map.dream} ${map.reality}`,
     url: new URL(`/${bay.slug}`, site.url).href,
     isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
   },
 ];
 ---
-<Base title={`${bay.name} Sim Hardware`} description={bay.intro} bay={bay.slug} activeNav={bay.slug} schema={schema}
-      image={world.image}>
-  <div class="bay-hero" style={`--world-bg: url('${world.image}')`}>
-    <img src={heroPhoto.src} alt={heroPhoto.alt || `${bay.name} simulator setup`} loading="eager" decoding="async" />
-    <div class="bay-hero-scrim"></div>
-    {heroPhoto.ai && <span class="ai-scene-badge">AI world scene</span>}
+<Base title={`${bay.name} Simulator System Hub`} description={`${map.dream} ${map.reality}`} bay={bay.slug} activeNav={bay.slug} schema={schema} image={world.image}>
+  <header class="bay-hero" data-bay={bay.slug}>
+    <img src={world.image} alt={world.alt} loading="eager" decoding="async" />
+    <div class="bay-hero-shade"></div>
     <div class="wrap bay-hero-inner">
-      <div>
-        <div class="crumbs"><a href="/">Home</a><span>/</span>{bay.name}</div>
-        <span class="lbl lbl-accent">{bay.name} bench</span>
-        <h1>{bay.tagline}</h1>
-        <p>{bay.intro}</p>
-        <div class="bay-hero-actions">
-          <a class="btn btn-primary btn-lg" href={starterGuideHref}>{articles.length ? 'Open the buyer map' : 'See certified guides'}</a>
-          {gearItems[0] && <a class="btn btn-lg" href="#parts-bench">Inspect parts bench</a>}
-        </div>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span>{bay.name}</nav>
+      <div class="bay-hero-copy">
+        <span class="lbl lbl-accent">{bay.name} system hub</span>
+        <h1>{map.dream}</h1>
+        <p>{map.reality}</p>
+        <div class="bay-actions"><a class="btn btn-primary btn-lg" href="#system-map">Map the complete system</a>{lead && <a class="btn btn-lg" href={leadHref}>Open the strongest guide</a>}</div>
       </div>
-      <a class="bay-curator-card" href={`/curator/${crewSlug(bayCurator)}`}>
-        <img src={bayCurator.image} alt={bayCurator.alt} loading="eager" decoding="async" />
-        <div>
-          <span>{bayCurator.handle}</span>
-          <h2>{bayCurator.name}</h2>
-          <p>{bayCurator.motto}</p>
-          <small>{bayCurator.currentObsession}</small>
-        </div>
+      <a class="curator-on-shift" href={`/curator/${crewSlug(bayCurator)}`}>
+        <div class="curator-shift-image"><img src={primaryScene.image} alt={primaryScene.alt} loading="eager" decoding="async" /><span>AI editorial scene</span></div>
+        <div><small>{bayCurator.handle} · on shift</small><h2>{primaryScene.task}</h2><blockquote>“{bayCurator.favoriteWarning}”</blockquote></div>
       </a>
     </div>
-  </div>
+  </header>
 
-  <div class="wrap">
+  <main>
+    <section class="system-map-band" id="system-map" data-bay={bay.slug}>
+      <div class="wrap">
+        <div class="section-intro"><div><span class="lbl lbl-accent">The complete {bay.name.toLowerCase()} system</span><h2>Four decisions. One room that works together.</h2></div><p>Every stage is a dependency. Buying stage three before stage one is how boxes become expensive shelf decor.</p></div>
+        <div class="system-map-grid">
+          {map.stages.map((stage: any) => (
+            <article><span>{stage.n}</span><h3>{stage.title}</h3><b>{stage.decision}</b><p>{stage.warning}</p></article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    {lead && (
+      <section class="authority-band" data-bay={bay.slug}>
+        <div class="wrap authority-layout">
+          <a class="authority-image" href={leadHref}>{leadArt && <img src={leadArt.image} alt={leadArt.alt} loading="eager" decoding="async" />}<span>{leadQuality?.grade} · {leadQuality?.score}/100 authority score</span></a>
+          <div class="authority-copy">
+            <span class="lbl lbl-accent">Start with this buyer map</span>
+            <h2>{lead.data.title}</h2>
+            <p>{lead.data.excerpt || lead.data.description}</p>
+            <div class="authority-proof">{leadEvidence.map((label) => <span>{label}</span>)}</div>
+            <small>{articleMeta(lead.data)}</small>
+            <a class="btn btn-primary" href={leadHref}>Open the complete guide</a>
+          </div>
+        </div>
+      </section>
+    )}
+
+    <section class="field-note-band" data-bay={bay.slug}>
+      <div class="wrap field-note-layout">
+        <div class="field-note-copy"><span class="lbl lbl-accent">{bayCurator.name}'s field note</span><h2>{secondaryScene.task}</h2><p>{bayCurator.origin}</p><blockquote>“{bayCurator.hillsToDieOn?.[0] || bayCurator.favoriteWarning}”</blockquote><a href={`/curator/${crewSlug(bayCurator)}`}>Open {bayCurator.name}'s current rig journal →</a></div>
+        <div class="field-note-image"><img src={secondaryScene.image} alt={secondaryScene.alt} loading="lazy" decoding="async" /><span>AI editorial scene</span></div>
+      </div>
+    </section>
+
+    {shelf.length > 0 && (
+      <section class="route-band" data-bay={bay.slug}>
+        <div class="wrap">
+          <div class="section-intro"><div><span class="lbl lbl-accent">Next routes</span><h2>The rest of the {bay.name.toLowerCase()} bench, deliberately short.</h2></div><p>Only guides clearing the stronger discovery gate appear here. The full archive remains available without hijacking this page.</p></div>
+          <div class="route-grid">
+            {shelf.map((entry) => (
+              <ArticleCard href={`/${bay.slug}/${articleSlug(entry)}`} title={entry.data.title} excerpt={entry.data.excerpt || entry.data.description} type={entry.data.type} meta={`${qualityFor(entry.id)?.grade} · ${qualityFor(entry.id)?.score}/100 · ${articleMeta(entry.data)}`} />
+            ))}
+          </div>
+          <a class="archive-link" href="/guides">Browse the complete certified guide archive →</a>
+        </div>
+      </section>
+    )}
+
+    {commItems.length > 0 && (
+      <section class="owner-signal-band" data-bay={bay.slug}>
+        <div class="wrap owner-layout">
+          <div><span class="lbl lbl-accent">Owner pattern</span><h2>What keeps coming back after launch week.</h2><p>Paraphrased patterns from builder conversations, never anonymous theater dressed up as a quote.</p></div>
+          <div class="owner-list">
+            {commItems.map((item: any, index: number) => <article><span>{String(index + 1).padStart(2,'0')} · {item.sentiment}</span><p>{item.point}</p><small>{item.context}</small></article>)}
+          </div>
+        </div>
+      </section>
+    )}
+
     {gearItems.length > 0 && (
-      <section class="sec bay-world-section product-first" id="parts-bench" style={`--world-bg: url('${world.image}')`}>
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Product bench</span>
-            <h2>The stuff people actually buy, mount, wire, and swear at.</h2>
-          </div>
-          <span class="lbl">{gearItems.length} verified product photos</span>
-        </div>
-        <GearCarousel items={gearItems} id={`${bay.slug}-parts-bench`} />
-      </section>
-    )}
-
-    <section class="bay-truth world-panel" style={`--world-bg: url('${world.image}')`}>
-      <article class="truth-main">
-        <span class="lbl lbl-accent">Fast verdict</span>
-        <h2>{baySignal.buyFast}</h2>
-      </article>
-      <article><span>Watch out</span><p>{baySignal.watchOut}</p></article>
-      <article><span>Setup tax</span><p>{baySignal.weekendKiller}</p></article>
-      <article><span>Maybe wait</span><p>{baySignal.waitFor}</p></article>
-    </section>
-
-    <section class="bay-dream-brief" style={`--world-bg: url('${world.image}')`}>
-      <div>
-        <span class="lbl lbl-accent">The dream · {world.label}</span>
-        <h2>{bay.slug === 'golf' ? 'A room that makes practice feel like a private club.' : bay.slug === 'racing' ? 'A cockpit that makes every lap feel expensive.' : bay.slug === 'flight' ? 'A desk that stops being a desk and becomes a cockpit.' : bay.slug === 'space' ? 'A command station with six-axis control and no desk chaos.' : 'A bridge that feels built, not borrowed.'}</h2>
-      </div>
-      <p>{bay.slug === 'golf' ? 'Then the reality check starts: ceiling height, hitting width, projector throw, screen protection, and subscriptions.' : bay.slug === 'racing' ? 'Then the reality check starts: cockpit flex, brake consistency, monitor placement, and software profiles.' : bay.slug === 'flight' ? 'Then the reality check starts: USB power, bindings, rudder pedals, head tracking, and control curves.' : bay.slug === 'space' ? 'Then the reality check starts: mounts, bindings, button layers, and deciding HOSAS versus HOTAS.' : 'Then the reality check starts: software support, control mapping, DIY labels, and repurposed hardware.'}</p>
-    </section>
-
-    <section class="sec bay-world-section guide-shelf-world" style={`--world-bg: url('${world.image}')`}>
-      <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Certified guides</span>
-            <h2>{articles.length ? `The ${bay.name.toLowerCase()} maps worth opening before you buy.` : `${bay.name} guides stay dark until they have proof.`}</h2>
-          </div>
-        <span class="lbl">certified only</span>
-      </div>
-      {articles.length > 0 ? (
-        <div class="card-grid">
-          {articles.map((a) => (
-            <ArticleCard href={`/${bay.slug}/${slug(a)}`} title={a.data.title}
-              excerpt={a.data.excerpt || a.data.description} type={a.data.type}
-              image={a.data.heroImage} imageAlt={a.data.heroAlt}
-              meta={articleMeta(a.data)} />
-          ))}
-        </div>
-      ) : (
-        <div class="stowed-note">
-          <h3>Nothing half-built is being shown here.</h3>
-          <p>This bay stays lean until the guide has real photos, useful diagrams, current sources, affiliate paths, and a verdict strong enough to help a builder buy or wait.</p>
-        </div>
-      )}
-    </section>
-
-    {commPreview.length > 0 && (
-      <section class="sec bay-world-section compact-signal" style={`--world-bg: url('${world.image}')`}>
-        <div class="sec-head">
-          <div>
-            <span class="lbl lbl-accent">Builder signal</span>
-            <h2>Four things the forums keep teaching the hard way.</h2>
-          </div>
-          <span class="lbl">paraphrased, not copied</span>
-        </div>
-        <div class="comm-grid">
-          {commPreview.map((c) => (
-            <article class="comm-card" data-sentiment={c.sentiment}>
-              <span>{c.sentiment}</span>
-              <p>{c.point}</p>
-            </article>
-          ))}
+      <section class="parts-band" id="parts-bench" data-bay={bay.slug}>
+        <div class="wrap">
+          <div class="section-intro"><div><span class="lbl lbl-accent">Technical parts bench</span><h2>Now inspect the boxes.</h2></div><p>Isolated product views belong here, where ports, prices, mounting, and direct purchase paths are the point.</p></div>
+          <GearCarousel items={gearItems} id={`${bay.slug}-parts-bench`} />
         </div>
       </section>
     )}
 
-    <section class="workbench-drop" style={`--world-bg: url('${world.image}')`}>
-      <div>
-        <span class="lbl lbl-accent">{bay.name} workbench drop</span>
-        <h2>Keep the bench honest.</h2>
-        <p>{site.newsletter.blurb} We send buyer warnings, product moves, and setup notes when they actually matter.</p>
-      </div>
-      <form name={`${bay.slug}-bench-list`} method="POST" data-netlify="true" netlify-honeypot="bot-field">
-        <input type="hidden" name="form-name" value={`${bay.slug}-bench-list`} />
-        <p class="sr-only"><label>Do not fill this out: <input name="bot-field" /></label></p>
-        <input type="email" placeholder="builder@garage.net" aria-label="Email address" required />
-        <button class="btn btn-primary" type="submit">Join the bench list</button>
-      </form>
+    <section class="bay-newsletter" data-bay={bay.slug}>
+      <div class="wrap newsletter-layout"><div><span class="lbl lbl-accent">{bay.name} Workbench Drop</span><h2>Useful updates, only when the bench moves.</h2><p>{site.newsletter.blurb} Firmware changes, fit warnings, owner patterns, and the products that earned another look.</p></div><form name={`${bay.slug}-bench-list`} method="POST" data-netlify="true" netlify-honeypot="bot-field"><input type="hidden" name="form-name" value={`${bay.slug}-bench-list`} /><p class="sr-only"><label>Do not fill this out: <input name="bot-field" /></label></p><input type="email" name="email" placeholder="builder@garage.net" aria-label="Email address" required /><button class="btn btn-primary" type="submit">Join the bench list</button></form></div>
     </section>
-  </div>
+  </main>
 </Base>
 
 <style>
-  .bay-hero {
-    position: relative;
-    min-height: 500px;
-    display: flex;
-    align-items: flex-end;
-    overflow: hidden;
-    border-bottom: 3px solid #101820;
+  .bay-hero { position:relative; min-height:720px; display:flex; align-items:flex-end; overflow:hidden; color:#fff; background:#101820; }
+  .bay-hero > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; filter:saturate(1.12) brightness(1.06); }
+  .bay-hero-shade { position:absolute; inset:0; background:linear-gradient(90deg,rgba(8,15,22,.95),rgba(8,15,22,.5) 58%,rgba(8,15,22,.14)),linear-gradient(180deg,rgba(8,15,22,.04),rgba(8,15,22,.62)); }
+  .bay-hero-inner { position:relative; z-index:1; width:100%; display:grid; grid-template-columns:minmax(0,1fr) 430px; gap:38px; align-items:end; padding-top:98px; padding-bottom:44px; }
+  .bay-hero .crumbs { grid-column:1/-1; color:rgba(255,255,255,.72); }
+  .bay-hero .crumbs a { color:inherit; }
+  .bay-hero-copy h1 { max-width:13ch; margin:12px 0 18px; color:#fff; font-size:clamp(3.1rem,6.4vw,6rem); line-height:.9; text-transform:uppercase; }
+  .bay-hero-copy > p { max-width:64ch; color:rgba(255,255,255,.84); font-size:1.06rem; line-height:1.65; }
+  .bay-actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:24px; }
+  .curator-on-shift { overflow:hidden; color:#101820; background:rgba(255,255,255,.96); border:2px solid rgba(255,255,255,.45); box-shadow:0 14px 0 rgba(8,15,22,.25); }
+  .curator-shift-image { position:relative; height:270px; overflow:hidden; }
+  .curator-shift-image img { width:100%; height:100%; object-fit:cover; display:block; }
+  .curator-shift-image span { position:absolute; left:12px; bottom:12px; padding:6px 8px; background:rgba(16,24,32,.82); color:#fff; font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; letter-spacing:.08em; }
+  .curator-on-shift > div:last-child { padding:20px; }
+  .curator-on-shift small { color:var(--accent); font-family:var(--font-mono); font-size:.55rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
+  .curator-on-shift h2 { margin-top:8px; font-size:1.35rem; line-height:1.08; }
+  .curator-on-shift blockquote { margin-top:10px; color:#435363; font-size:.9rem; line-height:1.5; }
+
+  .section-intro { display:grid; grid-template-columns:minmax(0,1fr) minmax(260px,470px); gap:32px; align-items:end; margin-bottom:28px; }
+  .section-intro h2 { max-width:17ch; margin-top:8px; font-size:clamp(2rem,4vw,3.7rem); line-height:.95; text-transform:uppercase; }
+  .section-intro > p { color:#536272; line-height:1.65; }
+  .system-map-band { padding:72px 0 82px; background:#f4f7f9; }
+  .system-map-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); border-top:2px solid #101820; border-bottom:2px solid #101820; }
+  .system-map-grid article { padding:24px; border-right:1px solid rgba(16,24,32,.18); background:#fff; }
+  .system-map-grid article:last-child { border-right:0; }
+  .system-map-grid article > span { color:var(--accent); font-family:var(--font-disp); font-size:2.1rem; }
+  .system-map-grid h3 { margin-top:12px; font-size:1.35rem; text-transform:uppercase; }
+  .system-map-grid b { display:block; margin-top:10px; color:#263541; font-size:.9rem; line-height:1.45; }
+  .system-map-grid p { margin-top:12px; color:#65727d; font-size:.84rem; line-height:1.55; }
+
+  .authority-band { padding:82px 0; color:#fff; background:#101820; }
+  .authority-layout { display:grid; grid-template-columns:1.12fr .88fr; gap:38px; align-items:center; }
+  .authority-image { position:relative; min-height:480px; overflow:hidden; border:1px solid rgba(255,255,255,.24); }
+  .authority-image img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .authority-image span { position:absolute; left:16px; top:16px; padding:8px 10px; color:#101820; background:#ff5e1a; border:1px solid #101820; font-family:var(--font-mono); font-size:.58rem; font-weight:900; }
+  .authority-copy h2 { margin-top:11px; color:#fff; font-size:clamp(2rem,3.8vw,3.5rem); line-height:.96; }
+  .authority-copy > p { margin-top:16px; color:rgba(255,255,255,.75); line-height:1.65; }
+  .authority-proof { display:flex; flex-wrap:wrap; gap:8px; margin-top:18px; }
+  .authority-proof span { padding:7px 9px; border:1px solid rgba(255,255,255,.24); color:rgba(255,255,255,.8); font-family:var(--font-mono); font-size:.52rem; text-transform:uppercase; letter-spacing:.06em; }
+  .authority-copy > small { display:block; margin:16px 0; color:color-mix(in srgb,var(--accent) 70%,#fff); font-family:var(--font-mono); font-size:.56rem; text-transform:uppercase; }
+
+  .field-note-band { padding:78px 0; background:#f4efe7; }
+  .field-note-layout { display:grid; grid-template-columns:.9fr 1.1fr; gap:38px; align-items:center; }
+  .field-note-copy h2 { max-width:16ch; margin-top:10px; font-size:clamp(2rem,4vw,3.7rem); line-height:.95; text-transform:uppercase; }
+  .field-note-copy > p { margin-top:16px; color:#4b5b68; line-height:1.68; }
+  .field-note-copy blockquote { margin:20px 0; padding-left:18px; border-left:4px solid var(--accent); font-family:var(--font-disp); font-size:1.28rem; line-height:1.3; }
+  .field-note-copy > a { color:var(--accent); font-family:var(--font-mono); font-size:.62rem; font-weight:900; text-transform:uppercase; letter-spacing:.07em; }
+  .field-note-image { position:relative; min-height:500px; overflow:hidden; box-shadow:0 14px 0 rgba(16,24,32,.12); }
+  .field-note-image img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .field-note-image span { position:absolute; left:14px; bottom:14px; padding:7px 9px; color:#fff; background:rgba(16,24,32,.84); font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; }
+
+  .route-band { padding:78px 0 88px; background:#fff; }
+  .route-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; }
+  .archive-link { display:inline-block; margin-top:28px; color:var(--accent); font-family:var(--font-mono); font-size:.65rem; font-weight:900; text-transform:uppercase; letter-spacing:.07em; }
+
+  .owner-signal-band { padding:78px 0; color:#fff; background:linear-gradient(135deg,#162533,#0c151d); }
+  .owner-layout { display:grid; grid-template-columns:.68fr 1.32fr; gap:48px; }
+  .owner-layout > div:first-child h2 { margin-top:9px; color:#fff; font-size:clamp(2rem,3.7vw,3.4rem); line-height:.96; text-transform:uppercase; }
+  .owner-layout > div:first-child p { margin-top:14px; color:rgba(255,255,255,.7); line-height:1.6; }
+  .owner-list { display:grid; gap:12px; }
+  .owner-list article { padding:20px; color:#101820; background:#fff; border-left:5px solid var(--accent); }
+  .owner-list span { color:var(--accent); font-family:var(--font-mono); font-size:.54rem; font-weight:900; text-transform:uppercase; letter-spacing:.08em; }
+  .owner-list p { margin-top:8px; line-height:1.55; }
+  .owner-list small { display:block; margin-top:9px; color:#6a7782; line-height:1.45; }
+
+  .parts-band { padding:78px 0 88px; background:#eef4f7; }
+  .bay-newsletter { padding:54px 0; background:#ff5e1a; border-top:3px solid #101820; }
+  .newsletter-layout { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:30px; align-items:center; }
+  .newsletter-layout h2 { margin:8px 0; font-size:clamp(1.7rem,3.5vw,3rem); line-height:1; text-transform:uppercase; }
+  .newsletter-layout p { max-width:65ch; color:#293641; }
+  .newsletter-layout form { display:flex; gap:10px; }
+  .newsletter-layout input { min-width:280px; padding:14px; border:2px solid #101820; background:#fff; font-family:var(--font-mono); }
+  .newsletter-layout .btn { background:#101820; color:#fff; }
+
+  @media (max-width:1000px) {
+    .bay-hero-inner, .authority-layout, .field-note-layout, .owner-layout { grid-template-columns:1fr; }
+    .curator-on-shift { max-width:720px; display:grid; grid-template-columns:44% 1fr; }
+    .curator-shift-image { height:100%; min-height:260px; }
+    .system-map-grid { grid-template-columns:1fr 1fr; }
+    .system-map-grid article:nth-child(2) { border-right:0; }
+    .system-map-grid article:nth-child(-n+2) { border-bottom:1px solid rgba(16,24,32,.18); }
   }
-  .bay-hero > img {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: saturate(1.08) contrast(1.04);
-  }
-  .bay-hero::after {
-    content: "";
-    position: absolute;
-    inset: auto 0 0;
-    height: 38%;
-    pointer-events: none;
-    background: linear-gradient(180deg, transparent, var(--baybg));
-    opacity: .72;
-  }
-  .bay-hero-scrim {
-    position: absolute;
-    inset: 0;
-    background:
-      radial-gradient(720px 420px at 78% 22%, color-mix(in srgb, var(--accent) 17%, transparent), transparent 72%),
-      linear-gradient(90deg, rgba(16,24,32,.74), rgba(16,24,32,.36) 48%, rgba(16,24,32,.05)),
-      linear-gradient(180deg, rgba(16,24,32,.02), rgba(16,24,32,.38));
-  }
-  .bay-hero-inner {
-    position: relative;
-    z-index: 2;
-    max-width: 1180px;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 340px;
-    gap: 28px;
-    align-items: end;
-    padding-top: 84px;
-    padding-bottom: 38px;
-  }
-  .bay-hero .crumbs,
-  .bay-hero .crumbs a { color: rgba(255,255,255,.72); }
-  .bay-hero h1 {
-    color: #fff;
-    max-width: 15ch;
-    margin: 12px 0 16px;
-    font-size: clamp(2.7rem, 5.6vw, 4.8rem);
-    line-height: .92;
-    text-transform: uppercase;
-  }
-  .bay-hero p {
-    color: rgba(255,255,255,.86);
-    max-width: 66ch;
-    font-size: 1.05rem;
-  }
-  .bay-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
-  .bay-curator-card {
-    display: grid;
-    grid-template-columns: 116px 1fr;
-    gap: 14px;
-    align-items: center;
-    padding: 12px;
-    color: #101820;
-    background: rgba(255,255,255,.9);
-    border: 2px solid rgba(255,255,255,.72);
-    border-radius: 16px;
-    box-shadow: 0 10px 0 rgba(16,24,32,.22), 0 28px 70px rgba(0,0,0,.26);
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
-  }
-  .bay-curator-card:hover {
-    transform: translateY(-4px);
-    border-color: #fff;
-  }
-  .bay-curator-card img {
-    width: 116px;
-    height: 146px;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 12px;
-    border: 2px solid var(--accent);
-  }
-  .bay-curator-card span,
-  .bay-curator-card small {
-    display: block;
-    font-family: var(--font-mono);
-    color: var(--accent);
-    font-size: .56rem;
-    font-weight: 900;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-  }
-  .bay-curator-card h2 {
-    margin: 5px 0 7px;
-    font-size: 1.3rem;
-  }
-  .bay-curator-card p {
-    color: #253342;
-    font-weight: 900;
-    line-height: 1.32;
-  }
-  .bay-curator-card small {
-    margin-top: 9px;
-    color: #647484;
-    letter-spacing: .04em;
-    line-height: 1.35;
-  }
-  .curator-note {
-    display: grid;
-    grid-template-columns: 108px 1fr;
-    gap: 14px;
-    align-items: center;
-    padding: 12px;
-    color: #101820;
-    background: rgba(255,255,255,.92);
-    border: 2px solid rgba(255,255,255,.78);
-    border-radius: 10px;
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .curator-note img {
-    width: 108px;
-    height: 132px;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 8px;
-    border: 1px solid rgba(16,24,32,.14);
-  }
-  .curator-note span {
-    font-family: var(--font-mono);
-    font-size: .56rem;
-    color: var(--accent);
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    font-weight: 800;
-  }
-  .curator-note h2 { font-size: 1.35rem; margin: 5px 0; }
-  .curator-note p { color: #435363; font-size: .86rem; line-height: 1.45; }
-  .bay-proof-chip {
-    justify-self: end;
-    width: 220px;
-    padding: 12px;
-    color: #101820;
-    background: rgba(255,255,255,.92);
-    border: 2px solid rgba(255,255,255,.78);
-    border-radius: 10px;
-    box-shadow: 0 8px 0 rgba(16,24,32,.18);
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .bay-proof-chip span,
-  .bay-proof-chip small {
-    display: block;
-    font-family: var(--font-mono);
-    font-size: .52rem;
-    letter-spacing: .08em;
-    text-transform: uppercase;
-    color: #5d6a76;
-  }
-  .bay-proof-chip img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 4 / 3;
-    object-fit: contain;
-    margin: 8px 0;
-    border-radius: 8px;
-    border: 1px solid rgba(16,24,32,.14);
-    background: #fff;
-  }
-  .bay-proof-chip b { display: block; font-size: .9rem; line-height: 1.14; }
-  .bay-proof-chip small { margin-top: 6px; line-height: 1.35; letter-spacing: .04em; color: #435363; }
-  .bay-truth {
-    position: relative;
-    display: grid;
-    grid-template-columns: 1.35fr repeat(3, 1fr);
-    gap: 14px;
-    margin: 28px 0 10px;
-  }
-  .bay-dream-brief {
-    position: relative;
-    display: grid;
-    grid-template-columns: minmax(0, .95fr) minmax(0, 1fr);
-    gap: 22px;
-    align-items: end;
-    margin: 28px 0 8px;
-    padding: 26px;
-    border: 2px solid #101820;
-    border-radius: 22px;
-    background:
-      linear-gradient(90deg, rgba(16,24,32,.88), rgba(16,24,32,.52)),
-      var(--world-bg) center / cover no-repeat;
-    color: #fff;
-    overflow: hidden;
-    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 32px 72px color-mix(in srgb, var(--accent) 18%, transparent);
-  }
-  .bay-dream-brief::after,
-  .bay-world-section::after,
-  .workbench-drop::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background:
-      linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
-    background-size: 44px 44px;
-    opacity: .42;
-    mix-blend-mode: screen;
-  }
-  .bay-dream-brief h2 { margin-top: 8px; font-size: clamp(1.6rem, 3.2vw, 2.35rem); }
-  .bay-dream-brief p { color: rgba(255,255,255,.86); font-size: 1.02rem; line-height: 1.65; }
-  .bay-dream-brief > * { position: relative; z-index: 1; }
-  .bay-dream-brief .lbl { color: color-mix(in srgb, var(--accent) 72%, #fff); }
-  .bay-world-section {
-    position: relative;
-    margin: 34px -18px;
-    padding: 34px 18px 40px;
-    overflow: hidden;
-    border: 2px solid color-mix(in srgb, var(--accent) 36%, rgba(16,24,32,.18));
-    border-radius: 30px;
-    background:
-      radial-gradient(760px 340px at 80% 8%, color-mix(in srgb, var(--accent) 24%, transparent), transparent 70%),
-      linear-gradient(90deg, rgba(16,24,32,.9), rgba(16,24,32,.52) 42%, rgba(16,24,32,.24)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 14px 0 rgba(16,24,32,.14), 0 38px 82px color-mix(in srgb, var(--accent) 16%, transparent);
-  }
-  .product-first {
-    margin-top: 28px;
-  }
-  .product-first .sec-head h2 {
-    max-width: 18ch;
-  }
-  .bay-world-section > * { position: relative; z-index: 1; }
-  .bay-world-section .sec-head h2,
-  .bay-world-section .sec-head .lbl {
-    color: #fff;
-    text-shadow: 0 2px 18px rgba(0,0,0,.32);
-  }
-  .bay-world-section .sec-head .lbl-accent,
-  .bay-world-section .sec-head a {
-    color: color-mix(in srgb, var(--accent) 72%, #fff);
-  }
-  .bay-world-section .card-grid,
-  .bay-world-section .comm-grid {
-    padding: 2px;
-  }
-  .guide-shelf-world .card-grid {
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 560px), 1fr));
-    gap: 22px;
-  }
-  .bay-truth article {
-    border: 2px solid rgba(16,24,32,.14);
-    border-radius: 10px;
-    padding: 18px;
-    background: rgba(255,255,255,.9);
-    box-shadow: 0 8px 0 rgba(16,24,32,.1), 0 22px 42px rgba(16,24,32,.08);
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .bay-truth .truth-main h2 { margin-top: 9px; font-size: 1.3rem; line-height: 1.32; }
-  .bay-truth article > span {
-    display: block;
-    font-family: var(--font-mono);
-    color: var(--accent);
-    text-transform: uppercase;
-    letter-spacing: .11em;
-    font-size: .58rem;
-    font-weight: 800;
-    margin-bottom: 8px;
-  }
-  .bay-truth p { color: #435363; font-size: .9rem; line-height: 1.55; }
-  .stowed-note {
-    border: 2px dashed rgba(16,24,32,.22);
-    border-radius: 10px;
-    padding: 24px;
-    background: rgba(255,255,255,.9);
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .stowed-note h3 { font-size: 1.3rem; }
-  .stowed-note p { color: #435363; margin-top: 8px; max-width: 70ch; }
-  .compact-signal {
-    background:
-      radial-gradient(760px 340px at 80% 8%, color-mix(in srgb, var(--accent) 15%, transparent), transparent 70%),
-      linear-gradient(90deg, rgba(16,24,32,.78), rgba(16,24,32,.3) 44%, rgba(16,24,32,.12)),
-      var(--world-bg) center / cover no-repeat;
-  }
-  .comm-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
-  .comm-card {
-    border: 2px solid rgba(16,24,32,.14);
-    border-left: 6px solid var(--accent);
-    border-radius: 10px;
-    padding: 18px;
-    background: rgba(255,255,255,.92);
-    box-shadow: 0 8px 0 rgba(16,24,32,.08);
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);
-  }
-  .comm-card[data-sentiment="warning"] { border-left-color: var(--red); }
-  .comm-card[data-sentiment="tip"] { border-left-color: var(--green); }
-  .comm-card[data-sentiment="debate"] { border-left-color: var(--amber); }
-  .comm-card span {
-    font-family: var(--font-mono);
-    color: var(--accent);
-    font-size: .56rem;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    font-weight: 800;
-  }
-  .comm-card p { color: #2d3a46; margin-top: 10px; line-height: 1.55; }
-  .workbench-drop {
-    position: relative;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 24px;
-    align-items: center;
-    margin: 34px 0 60px;
-    padding: 26px;
-    border: 2px solid #101820;
-    border-radius: 24px;
-    color: #fff;
-    overflow: hidden;
-    background:
-      linear-gradient(90deg, rgba(16,24,32,.94), rgba(16,24,32,.66)),
-      var(--world-bg) center / cover no-repeat;
-    box-shadow: 0 12px 0 rgba(16,24,32,.18), 0 32px 72px color-mix(in srgb, var(--accent) 18%, transparent);
-  }
-  .workbench-drop > * { position: relative; z-index: 1; }
-  .workbench-drop h2 { font-size: clamp(1.5rem, 3.2vw, 2.2rem); margin: 8px 0; }
-  .workbench-drop p { color: rgba(255,255,255,.84); max-width: 66ch; }
-  .workbench-drop form { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
-  .workbench-drop input {
-    min-width: 260px;
-    border: 2px solid rgba(16,24,32,.14);
-    border-radius: 8px;
-    padding: 13px 14px;
-    font-family: var(--font-mono);
-  }
-  @media (max-width: 980px) {
-    .bay-hero-inner,
-    .bay-truth, .bay-dream-brief, .workbench-drop, .comm-grid { grid-template-columns: 1fr; }
-    .bay-curator-card,
-    .curator-note { max-width: 520px; }
-    .bay-proof-chip { display: none; }
-  }
-  @media (max-width: 620px) {
-    .bay-hero { min-height: 760px; }
-    .bay-hero h1 { font-size: clamp(3rem, 16vw, 4.8rem); }
-    .curator-note { grid-template-columns: 86px 1fr; }
-    .curator-note img { width: 86px; height: 108px; }
-    .workbench-drop form { justify-content: stretch; }
-    .workbench-drop input, .workbench-drop button { width: 100%; justify-content: center; }
+  @media (max-width:720px) {
+    .bay-hero { min-height:900px; }
+    .bay-hero-inner { padding-bottom:26px; }
+    .bay-hero-copy h1 { font-size:clamp(3rem,14vw,4.6rem); }
+    .curator-on-shift { grid-template-columns:1fr; }
+    .section-intro { grid-template-columns:1fr; gap:12px; }
+    .system-map-grid { grid-template-columns:1fr; }
+    .system-map-grid article { border-right:0; border-bottom:1px solid rgba(16,24,32,.18); }
+    .system-map-grid article:last-child { border-bottom:0; }
+    .authority-image, .field-note-image { min-height:300px; }
+    .route-grid { grid-template-columns:1fr; }
+    .newsletter-layout { grid-template-columns:1fr; }
+    .newsletter-layout form { flex-direction:column; }
+    .newsletter-layout input { min-width:0; width:100%; }
   }
 </style>
