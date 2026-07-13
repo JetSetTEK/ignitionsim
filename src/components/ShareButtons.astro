@@ -2,11 +2,13 @@
 interface Props { label?: string; }
 const { label = 'Share' } = Astro.props;
 ---
-<div class="share" data-share data-event="share">
+<div class="share" data-share>
   <span class="lbl">{label}</span>
-  <a class="sh x" rel="noopener" aria-label="Share on X">𝕏</a>
-  <a class="sh pin" rel="noopener" aria-label="Pin on Pinterest">📌</a>
-  <button class="sh copy" type="button" aria-label="Copy link">⧉ Copy</button>
+  <a class="sh x" rel="noopener" aria-label="Share on X" data-event="share_click" data-event-network="x">X</a>
+  <a class="sh reddit" rel="noopener" aria-label="Share on Reddit" data-event="share_click" data-event-network="reddit">Reddit</a>
+  <a class="sh pin" rel="noopener" aria-label="Pin on Pinterest" data-event="share_click" data-event-network="pinterest">Pin</a>
+  <button class="sh copy" type="button" aria-label="Copy link" data-event="share_click" data-event-network="copy">Copy</button>
+  <button class="sh native" type="button" aria-label="Share with another app" data-event="share_click" data-event-network="native" hidden>Share</button>
 </div>
 
 <style>
@@ -22,12 +24,21 @@ const { label = 'Share' } = Astro.props;
     const title = encodeURIComponent(document.title);
     const img = encodeURIComponent((document.querySelector('meta[property="og:image"]') as HTMLMetaElement)?.content || '');
     const x = s.querySelector('.x') as HTMLAnchorElement;
+    const reddit = s.querySelector('.reddit') as HTMLAnchorElement;
     const pin = s.querySelector('.pin') as HTMLAnchorElement;
     if (x) { x.href = `https://twitter.com/intent/tweet?text=${title}&url=${url}`; x.target = '_blank'; }
+    if (reddit) { reddit.href = `https://www.reddit.com/submit?url=${url}&title=${title}`; reddit.target = '_blank'; }
     if (pin) { pin.href = `https://www.pinterest.com/pin/create/button/?url=${url}&media=${img}&description=${title}`; pin.target = '_blank'; }
     s.querySelector('.copy')?.addEventListener('click', async () => {
       try { await navigator.clipboard.writeText(location.href); (window as any).toast?.('Link copied'); }
       catch { (window as any).toast?.('Copy failed'); }
     });
+    const native = s.querySelector('.native') as HTMLButtonElement | null;
+    if (native && navigator.share) {
+      native.hidden = false;
+      native.addEventListener('click', async () => {
+        try { await navigator.share({ title: document.title, url: location.href }); } catch {}
+      });
+    }
   });
 </script>

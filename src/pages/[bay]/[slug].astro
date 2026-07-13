@@ -25,7 +25,7 @@ const d = entry.data;
 const bay = bays.find((b) => b.slug === d.bay)!;
 const world = getWorldForBay(d.bay);
 const slug = entry.id.split('/').pop();
-const url = new URL(`/${d.bay}/${slug}`, site.url).href;
+const url = new URL(`/${d.bay}/${slug}/`, site.url).href;
 
 const fmtDate = (x: Date) => new Date(x).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const freshnessItems = [
@@ -157,7 +157,7 @@ if (d.faqs.length) {
 }
 ---
 <Base title={d.title} description={d.description} bay={d.bay} activeNav={d.bay} schema={schema}
-      image={socialImage}>
+      image={socialImage} ogType="article">
   <article class="wrap">
     <header class="article-topper" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
       {articleHeroImage && <img src={articleHeroImage} alt={articleHeroAlt} loading="eager" decoding="async" />}

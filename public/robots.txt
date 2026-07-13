@@ -33,3 +33,4 @@ User-agent: Amazonbot
 Allow: /
 
 Sitemap: https://ignitionsim.com/sitemap-index.xml
+Sitemap: https://ignitionsim.com/image-sitemap.xml

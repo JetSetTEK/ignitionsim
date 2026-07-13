@@ -168,6 +168,15 @@ Before publishing or pushing a major update:
 - Update the relevant hub/homepage/gear/best-of surfaces when the article is strategically important.
 - Search the public pages after build to verify the article appears in the expected bay, games/universe hub, Build Stream/info river, homepage module, related-guide cluster, sitemap, and RSS/feed path where applicable.
 
+## Trend + Distribution Gate (LOCKED 2026-07-13)
+Traffic work is part of the article, not a cleanup pass. Every current-product or Tier A buyer guide must ship with:
+- A dated demand brief that separates confirmed facts from rumors and records official, expert-review, owner/community, and current seller evidence.
+- A 1200x675 product-first editorial thumbnail, a 1200x630 social card, and a 1080x1350 vertical share asset. The exact real product or real installed rig must dominate; generated context may sell the dream but never impersonate product proof.
+- Final trailing-slash canonical, `og:type=article`, image discovery, RSS, sitemap, bay, games/universe, Sim Stream, curator, related-guide, and deliberate homepage placement checks in the same release.
+- Network-aware `share_click` analytics and one useful share object: a compatibility map, total-cost ladder, room-fit diagram, failure diagnostic, installation timeline, or blunt buy/wait/skip scorecard.
+- An IndexNow submission after the production deploy is verified. Submission helps discovery; it does not create authority by itself.
+- A direct-product revenue path. Amazon links use exact verified ASINs with `tag=ignitionsim-20`; if an exact match is unavailable, use the official manufacturer or an approved specialty retailer rather than a search page.
+
 ## Live Push And Netlify Verification Gate
 Publishing is not complete at local build or git push. Future public content work must end with a live production verification.
 

@@ -13,6 +13,7 @@ interface Props {
   description?: string;
   bay?: 'racing' | 'flight' | 'space' | 'marine' | 'golf' | null;
   image?: string;                 // OG image path (absolute or site-relative)
+  ogType?: 'website' | 'article';
   noindex?: boolean;
   schema?: Record<string, any>[]; // extra JSON-LD blocks for this page
   activeNav?: string;
@@ -22,12 +23,16 @@ const {
   description = site.descriptor,
   bay = null,
   image = '/og-default.png',
+  ogType = 'website',
   noindex = false,
   schema = [],
   activeNav,
 } = Astro.props;
 
-const canonical = new URL(Astro.url.pathname, site.url).href.replace(/\/$/, '') || site.url;
+const canonicalPath = Astro.url.pathname === '/' || Astro.url.pathname.endsWith('/')
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonical = new URL(canonicalPath, site.url).href;
 const ogImage = image.startsWith('http') ? image : new URL(image, site.url).href;
 const fullTitle = title === site.name ? `${site.name} — ${site.descriptor}` : `${title} · ${site.name}`;
 const ga4MeasurementId = site.analytics?.ga4MeasurementId || (site.analytics?.provider === 'ga4' ? site.analytics.websiteId : '');
@@ -82,7 +87,7 @@ const chatRecommendations = sortNewestArticles(certifiedArticles)
   {googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}
 
   <!-- Open Graph -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:site_name" content={site.name} />
   <meta property="og:title" content={fullTitle} />
   <meta property="og:description" content={description} />
@@ -101,6 +106,7 @@ const chatRecommendations = sortNewestArticles(certifiedArticles)
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/favicon.svg" />
   <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title="IgnitionSim — New Simulator Buyer Guides" href="/rss.xml" />
 
   {allSchema.map((s) => (
     <script type="application/ld+json" set:html={JSON.stringify(s)} />
