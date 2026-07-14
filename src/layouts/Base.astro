@@ -17,6 +17,8 @@ interface Props {
   noindex?: boolean;
   schema?: Record<string, any>[]; // extra JSON-LD blocks for this page
   activeNav?: string;
+  chatPerson?: any;
+  hideCrewChat?: boolean;
 }
 const {
   title,
@@ -27,6 +29,8 @@ const {
   noindex = false,
   schema = [],
   activeNav,
+  chatPerson = null,
+  hideCrewChat = false,
 } = Astro.props;
 
 const canonicalPath = Astro.url.pathname === '/' || Astro.url.pathname.endsWith('/')
@@ -57,7 +61,7 @@ const siteSchema = {
   description: site.descriptor,
 };
 const allSchema = [orgSchema, siteSchema, ...schema];
-const chatPerson = getCrewForBay(bay || 'racing') as any;
+const resolvedChatPerson = chatPerson || getCrewForBay(bay || 'racing') as any;
 const currentArticleSlug = Astro.url.pathname.split('/').filter(Boolean).at(-1) || '';
 const certifiedArticles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
 const currentArticle = certifiedArticles.find((entry) => entry.data.bay === bay && articleSlug(entry) === currentArticleSlug);
@@ -143,7 +147,7 @@ const chatRecommendations = sortNewestArticles(certifiedArticles)
     <slot />
   </main>
   <Footer />
-  {!Astro.url.pathname.startsWith('/curator/') && <CrewChat person={chatPerson} recommendations={chatRecommendations} context={chatContext} />}
+  {!hideCrewChat && <CrewChat person={resolvedChatPerson} recommendations={chatRecommendations} context={chatContext} />}
   <div class="toast" id="toast"></div>
   <div class="lightbox" id="lightbox" aria-hidden="true">
     <button class="lb-close" aria-label="Close image">×</button>

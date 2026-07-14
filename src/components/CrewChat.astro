@@ -1,9 +1,13 @@
 ---
+import conversations from '../data/crew-conversations.json';
+
 interface Recommendation { label: string; href: string; }
 interface PageContext { title: string; summary: string; type: string; updated: string; }
 interface Props { person: any; recommendations?: Recommendation[]; context?: PageContext | null; }
 const { person, recommendations = [], context = null } = Astro.props as Props;
 const first = String(person.name || 'the crew').split(' ')[0];
+const modalId = `bc-modal-${person.slug}`;
+const conversation = (conversations as any)[person.slug] || {};
 const payload = {
   id: person.slug,
   name: person.name,
@@ -17,21 +21,38 @@ const payload = {
   recommendations,
   context,
   profileHref: `/curator/${person.slug}`,
+  image: person.image,
+  scene: person.scene,
+  benchMove: person.benchMove,
+  nowRunning: person.nowRunning,
+  petPeeve: person.petPeeve,
+  favoriteSim: person.favoriteSim,
+  signatureGear: person.signatureGear,
+  conversation,
 };
 ---
 
-<aside class="bc-root" data-bc>
-  <button class="bc-launch" type="button" aria-haspopup="dialog" data-bc-open>
-    <img src={person.image} alt="" width="46" height="46" loading="lazy" decoding="async" />
+<aside class="bc-root" data-bc style={`--bc-room:url('${person.scene}')`}>
+  <div class="bc-nudge" data-bc-nudge hidden>
+    <button class="bc-nudge-main" type="button" data-bc-nudge-open>
+      <img src={person.image} alt="" width="42" height="42" loading="lazy" decoding="async" />
+      <span><small>{person.handle} · bench interruption</small><b data-bc-nudge-text>{person.favoriteWarning}</b></span>
+    </button>
+    <button class="bc-nudge-close" type="button" aria-label={`Dismiss ${first}'s bench note`} data-bc-nudge-close>×</button>
+  </div>
+  <button class="bc-launch" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls={modalId} data-bc-open>
+    <img src={person.image} alt="" width="46" height="46" loading="eager" fetchpriority="low" decoding="async" />
     <span><b>Ask {first}</b><small>{person.handle} · on the bench</small></span>
     <i aria-hidden="true"></i>
   </button>
-  <section class="bc-modal" role="dialog" aria-modal="false" aria-label={`Ask ${person.name}`} hidden>
+  <section class="bc-modal" id={modalId} role="dialog" aria-modal="false" aria-label={`Ask ${person.name}`} tabindex="-1" hidden>
+    <div class="bc-room" aria-hidden="true"></div>
     <header>
       <img src={person.image} alt={person.name} width="54" height="54" decoding="async" />
-      <span><b>{person.name}</b><small>AI-assisted bench persona · Robert reviews</small></span>
+      <span><b>{person.name}</b><small>{person.handle} · AI-assisted · Robert reviews</small></span>
       <button type="button" aria-label="Close" data-bc-close>×</button>
     </header>
+    {context && <div class="bc-context"><span>On this bench</span><b>{context.title}</b></div>}
     <div class="bc-stream" aria-live="polite"></div>
     <div class="bc-options" aria-label="Questions for the bench"></div>
   </section>
@@ -40,6 +61,14 @@ const payload = {
 
 <style is:global>
   .bc-root { position: fixed; right: 18px; bottom: 18px; z-index: 3900; font-family: var(--font-body, Inter, sans-serif); }
+  .bc-nudge { position: absolute; right: 0; bottom: calc(100% + 12px); display: grid; grid-template-columns: minmax(0,1fr) 34px; width: min(360px, calc(100vw - 28px)); overflow: hidden; border: 2px solid #101820; border-radius: 8px; background: rgba(255,255,255,.98); box-shadow: 7px 7px 0 rgba(16,24,32,.2), 0 20px 48px rgba(16,24,32,.22); }
+  .bc-nudge[hidden] { display: none; }
+  .bc-nudge-main { display: grid; grid-template-columns: 42px minmax(0,1fr); gap: 10px; align-items: center; min-width: 0; padding: 9px; border: 0; color: #101820; background: transparent; cursor: pointer; text-align: left; }
+  .bc-nudge-main img { width: 42px; height: 42px; object-fit: cover; object-position: center top; border: 2px solid var(--accent); border-radius: 5px; }
+  .bc-nudge-main span { min-width: 0; }
+  .bc-nudge-main small { display: block; color: var(--accent); font-family: var(--font-mono); font-size: .52rem; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; }
+  .bc-nudge-main b { display: -webkit-box; margin-top: 3px; overflow: hidden; font-size: .78rem; line-height: 1.3; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .bc-nudge-close { width: 34px; border: 0; border-left: 1px solid rgba(16,24,32,.12); color: #687581; background: #f3f6f8; cursor: pointer; font-size: 1.15rem; }
   .bc-launch { display: grid; grid-template-columns: 46px 1fr 9px; gap: 10px; align-items: center; min-width: 218px; padding: 7px 13px 7px 7px; border: 2px solid #101820; border-radius: 8px; color: #101820; background: rgba(255,255,255,.96); box-shadow: 6px 6px 0 rgba(16,24,32,.22), 0 18px 42px rgba(16,24,32,.2); cursor: pointer; text-align: left; }
   .bc-launch img, .bc-modal header img { display: block; object-fit: cover; object-position: center top; border: 2px solid var(--accent); }
   .bc-launch img { width: 46px; height: 46px; border-radius: 5px; }
@@ -47,25 +76,43 @@ const payload = {
   .bc-launch b { font-family: var(--font-display); text-transform: uppercase; font-size: .9rem; }
   .bc-launch small { overflow: hidden; color: #5d6a76; font-family: var(--font-mono); font-size: .58rem; text-overflow: ellipsis; white-space: nowrap; }
   .bc-launch i { width: 9px; height: 9px; border-radius: 50%; background: #22c55e; box-shadow: 0 0 0 4px rgba(34,197,94,.13); }
-  .bc-modal { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; width: min(430px, calc(100vw - 24px)); height: min(650px, calc(100vh - 36px)); overflow: hidden; border: 2px solid #101820; border-radius: 8px; color: #f8fafc; background: #101820; box-shadow: 12px 12px 0 rgba(16,24,32,.2), 0 34px 90px rgba(0,0,0,.35); }
+  .bc-modal { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; width: min(440px, calc(100vw - 24px)); height: min(690px, calc(100vh - 36px)); overflow: hidden; border: 2px solid #101820; border-radius: 10px; color: #f8fafc; background: #101820; box-shadow: 12px 12px 0 rgba(16,24,32,.2), 0 34px 90px rgba(0,0,0,.35); }
   .bc-modal[hidden] { display: none; }
-  .bc-modal header { display: grid; grid-template-columns: 54px 1fr 38px; gap: 11px; align-items: center; padding: 12px; border-bottom: 1px solid rgba(255,255,255,.16); background: color-mix(in srgb, var(--accent) 16%, #101820); }
+  .bc-room { position: absolute; inset: 0; z-index: 0; background: linear-gradient(rgba(9,15,21,.78), rgba(9,15,21,.94)), var(--bc-room) center / cover no-repeat; opacity: .62; pointer-events: none; }
+  .bc-modal > *:not(.bc-room) { position: relative; z-index: 1; }
+  .bc-modal header { display: grid; grid-template-columns: 54px 1fr 44px; gap: 11px; align-items: center; padding: 12px; border-bottom: 1px solid rgba(255,255,255,.16); background: color-mix(in srgb, var(--accent) 18%, rgba(16,24,32,.94)); }
   .bc-modal header img { width: 54px; height: 54px; border-radius: 5px; }
   .bc-modal header span { display: flex; flex-direction: column; }
   .bc-modal header b { font-family: var(--font-display); text-transform: uppercase; }
   .bc-modal header small { color: rgba(255,255,255,.68); font-family: var(--font-mono); font-size: .58rem; }
-  .bc-modal header button { width: 36px; height: 36px; border: 1px solid rgba(255,255,255,.25); border-radius: 5px; color: #fff; background: transparent; font-size: 1.35rem; cursor: pointer; }
-  .bc-stream { flex: 1; display: flex; flex-direction: column; gap: 10px; overflow-y: auto; padding: 16px 14px; background: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), #101820; background-size: 100% 34px; }
+  .bc-modal header button { width: 44px; height: 44px; border: 1px solid rgba(255,255,255,.25); border-radius: 5px; color: #fff; background: transparent; font-size: 1.35rem; cursor: pointer; }
+  .bc-context { display: grid; gap: 3px; padding: 9px 14px; border-bottom: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.06); }
+  .bc-context span { color: color-mix(in srgb, var(--accent) 75%, #fff); font-family: var(--font-mono); font-size: .5rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+  .bc-context b { overflow: hidden; color: #fff; font-size: .76rem; text-overflow: ellipsis; white-space: nowrap; }
+  .bc-stream { flex: 1; display: flex; flex-direction: column; gap: 10px; overflow-y: auto; padding: 16px 14px; background: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px); background-size: 100% 34px; }
   .bc-msg { max-width: 88%; padding: 11px 13px; border-radius: 7px; line-height: 1.5; font-size: .9rem; }
   .bc-them { align-self: flex-start; border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent); background: color-mix(in srgb, var(--accent) 13%, #17212b); }
   .bc-me { align-self: flex-end; color: #101820; background: color-mix(in srgb, var(--accent) 76%, #fff); font-weight: 700; }
   .bc-links { display: grid; gap: 7px; margin-top: 2px; }
   .bc-links a { display: block; padding: 10px 12px; border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent); border-radius: 5px; color: #fff; background: rgba(255,255,255,.05); font-weight: 800; text-decoration: none; }
   .bc-links a:hover { background: color-mix(in srgb, var(--accent) 22%, #101820); }
-  .bc-options { display: flex; flex-wrap: wrap; gap: 7px; max-height: 180px; overflow-y: auto; padding: 12px; border-top: 1px solid rgba(255,255,255,.14); background: #0b1118; }
-  .bc-options button { min-height: 38px; padding: 8px 11px; border: 1px solid rgba(255,255,255,.24); border-radius: 5px; color: #fff; background: rgba(255,255,255,.06); cursor: pointer; font: 700 .76rem/1.25 var(--font-body); text-align: left; }
+  .bc-options { display: flex; flex-wrap: wrap; gap: 7px; max-height: 210px; overflow-y: auto; padding: 12px; border-top: 1px solid rgba(255,255,255,.14); background: rgba(7,12,17,.96); }
+  .bc-options button { min-height: 42px; padding: 9px 11px; border: 1px solid rgba(255,255,255,.24); border-radius: 5px; color: #fff; background: rgba(255,255,255,.06); cursor: pointer; font: 700 .76rem/1.25 var(--font-body); text-align: left; }
   .bc-options button:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 18%, #101820); }
-  @media (max-width: 600px) { .bc-root { right: 10px; bottom: 10px; } .bc-launch { min-width: 0; } .bc-launch small { display: none; } .bc-modal { right: 0; bottom: 0; width: 100vw; height: 86vh; border-radius: 8px 8px 0 0; } }
+  @media (max-width: 600px) {
+    body.bc-chat-open { overflow: hidden; }
+    .bc-root { right: 10px; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); }
+    .bc-launch { grid-template-columns: 38px minmax(0,1fr) 8px; gap: 8px; width: 166px; min-width: 0; min-height: 52px; padding: 6px 10px 6px 6px; }
+    .bc-launch img { width: 38px; height: 38px; }
+    .bc-launch b { font-size: .8rem; }
+    .bc-launch small { font-size: .5rem; }
+    .bc-nudge { width: min(350px, calc(100vw - 20px)); }
+    .bc-modal { right: 0; bottom: 0; width: 100vw; height: min(82dvh, 720px); max-height: calc(100dvh - 10px); border-radius: 14px 14px 0 0; padding-bottom: env(safe-area-inset-bottom, 0px); }
+    .bc-modal::before { content: ""; position: absolute; z-index: 4; top: 7px; left: 50%; width: 42px; height: 4px; border-radius: 99px; background: rgba(255,255,255,.34); transform: translateX(-50%); }
+    .bc-modal header { padding-top: 17px; }
+    .bc-options { max-height: 34dvh; padding-bottom: calc(12px + env(safe-area-inset-bottom, 0px)); }
+    .bc-options button { min-height: 44px; }
+  }
 </style>
 
 <script>
@@ -78,32 +125,145 @@ const payload = {
       const stream = root.querySelector('.bc-stream') as HTMLElement;
       const options = root.querySelector('.bc-options') as HTMLElement;
       const close = root.querySelector('[data-bc-close]') as HTMLButtonElement;
+      const nudge = root.querySelector('[data-bc-nudge]') as HTMLElement;
+      const nudgeText = root.querySelector('[data-bc-nudge-text]') as HTMLElement;
+      const nudgeOpen = root.querySelector('[data-bc-nudge-open]') as HTMLButtonElement;
+      const nudgeClose = root.querySelector('[data-bc-nudge-close]') as HTMLButtonElement;
       const key = `ig_crew_chat_${p.id}`;
-      let memory: any = { opens: 0, questions: {} };
+      const nudgeKey = `ig_crew_nudge_${p.id}`;
+      let memory: any = { opens: 0, questions: {}, lastTopic: '' };
+      let lastTrigger: HTMLElement | null = launch;
+      let nudgeTimer = 0;
       try { memory = { ...memory, ...JSON.parse(localStorage.getItem(key) || '{}') }; } catch {}
       const track = (name: string, data: any = {}) => { try { (window as any).ig?.track(name, { curator: p.id, ...data }); } catch {} };
       const save = () => { try { localStorage.setItem(key, JSON.stringify(memory)); } catch {} };
       const message = (text: string, mine = false) => { const el = document.createElement('div'); el.className = `bc-msg ${mine ? 'bc-me' : 'bc-them'}`; el.textContent = text; stream.appendChild(el); stream.scrollTop = stream.scrollHeight; };
       const links = (items: any[]) => { const box = document.createElement('div'); box.className = 'bc-links'; items.forEach((item) => { const a = document.createElement('a'); a.href = item.href; a.textContent = item.label; a.dataset.event = 'crew_chat_recommendation_click'; a.dataset.eventCurator = p.id; box.appendChild(a); }); stream.appendChild(box); stream.scrollTop = stream.scrollHeight; };
+      const chat = p.conversation || {};
+      const items = [
+        ...(p.context ? [{
+          label: 'Give me the short answer on this build.',
+          answer: `You are reading “${p.context.title}.” ${p.context.summary} My bench warning: ${p.warning}`,
+          id: 'page_verdict',
+        }] : []),
+        ...(p.questions || []).map((q: any, index: number) => ({ label: q.q, answer: q.a, id: `question_${index}` })),
+        { label: chat.diagnostic?.label || 'Give me a 60-second diagnostic.', answer: (chat.diagnostic?.steps || []).map((step: string, index: number) => `${index + 1}. ${step}`).join(' '), id: 'diagnostic' },
+        { label: 'What is the expensive mistake?', answer: p.warning, id: 'warning' },
+        { label: 'What should get the money first?', answer: `${p.signatureGear?.name || 'The boring foundation first.'} ${p.signatureGear?.why || p.benchMove}`, id: 'spend_first' },
+        { label: chat.story?.label || 'How did you get into this?', answer: chat.story?.answer || p.profile, id: 'story' },
+        { label: chat.ritual?.label || 'What is your bench ritual?', answer: chat.ritual?.answer || p.benchMove, id: 'ritual' },
+        { label: 'What is on your rig right now?', answer: p.nowRunning, id: 'current_rig' },
+        { label: chat.offDuty?.label || 'What are you like off the bench?', answer: chat.offDuty?.answer || p.profile, id: 'off_duty' },
+        { label: chat.disagreement?.label || 'Who do you argue with?', answer: chat.disagreement?.answer || p.petPeeve, id: 'disagreement' },
+        { label: 'What are you watching right now?', answer: p.obsession, id: 'obsession' },
+        { label: 'What should I read next?', id: 'recommendations' },
+        { label: `Who are you, really?`, answer: `${p.profile} Favorite sim: ${p.favoriteSim} Pet peeve: ${p.petPeeve}`, id: 'profile' },
+      ].filter((item) => item.answer || item.id === 'recommendations');
+
+      const respond = (item: any, echo = true) => {
+        if (!item) return;
+        if (echo) message(item.label, true);
+        memory.questions[item.id] = Number(memory.questions[item.id] || 0) + 1;
+        memory.lastTopic = item.id;
+        save();
+        track('crew_chat_question', { question: item.id, count: memory.questions[item.id] });
+        if (item.id === 'recommendations') {
+          message('These are the routes I would open next. No filler, and no pretending every upgrade belongs in the cart.');
+          if (p.recommendations?.length) links(p.recommendations);
+          else links([{ label: `Open ${p.first}'s full bench profile`, href: p.profileHref }]);
+          return;
+        }
+        message(item.answer || p.motto);
+        if (item.id === 'profile' || item.id === 'off_duty') links([{ label: `Open ${p.first}'s full bench profile`, href: p.profileHref }]);
+      };
+
       const menu = () => {
         options.innerHTML = '';
-        const items = [
-          ...(p.context ? [{
-            label: 'Give me the short answer on this page.',
-            answer: `You're reading “${p.context.title}.” ${p.context.summary} My bench warning: ${p.warning}`,
-            id: 'page_verdict',
-          }] : []),
-          ...(p.questions || []).map((q: any, index: number) => ({ label: q.q, answer: q.a, id: `question_${index}` })),
-          { label: 'What are you watching right now?', answer: p.obsession, id: 'obsession' },
-          { label: 'What is the expensive mistake?', answer: p.warning, id: 'warning' },
-          { label: 'What should I read next?', id: 'recommendations' },
-          { label: `Who are you, really?`, answer: p.profile, id: 'profile' },
-        ];
-        items.forEach((item) => { const button = document.createElement('button'); button.type = 'button'; button.textContent = item.label; button.addEventListener('click', () => { message(item.label, true); memory.questions[item.id] = Number(memory.questions[item.id] || 0) + 1; save(); track('crew_chat_question', { question: item.id, count: memory.questions[item.id] }); if (item.id === 'recommendations') { message('These are the three routes I would open next. No filler, and no pretending every upgrade belongs in the cart.'); links(p.recommendations || []); } else { message(item.answer || p.motto); if (item.id === 'profile') links([{ label: `Open ${p.first}'s full bench profile`, href: p.profileHref }]); } }); options.appendChild(button); });
+        items.forEach((item: any) => {
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.textContent = item.label;
+          button.addEventListener('click', () => respond(item));
+          options.appendChild(button);
+        });
       };
-      launch?.addEventListener('click', () => { modal.hidden = false; modal.setAttribute('aria-modal', 'true'); launch.hidden = true; if (!stream.children.length) { const returning = memory.opens > 0; memory.opens++; save(); message(returning ? `Back again. Good. I remember what you keep asking me about.` : `${p.motto} Ask me the question before you buy the part.`); track(returning ? 'crew_chat_return' : 'crew_chat_open', { opens: memory.opens }); menu(); } });
-      close?.addEventListener('click', () => { modal.hidden = true; modal.setAttribute('aria-modal', 'false'); launch.hidden = false; });
-      document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && !modal.hidden) close?.click(); });
+
+      const hideNudge = (remember = false) => {
+        window.clearTimeout(nudgeTimer);
+        if (nudge) nudge.hidden = true;
+        if (remember) { try { sessionStorage.setItem(nudgeKey, '1'); } catch {} }
+      };
+      const showNudge = () => {
+        if (!nudge || !modal.hidden) return;
+        try { if (sessionStorage.getItem(nudgeKey)) return; } catch {}
+        const nudges = chat.nudges?.length ? chat.nudges : [p.warning];
+        const seed = [...location.pathname].reduce((total, char) => total + char.charCodeAt(0), 0);
+        if (nudgeText) nudgeText.textContent = nudges[seed % nudges.length];
+        nudge.hidden = false;
+        track('crew_chat_nudge_view', { page_path: location.pathname });
+      };
+      const scheduleNudge = () => {
+        window.clearTimeout(nudgeTimer);
+        nudgeTimer = window.setTimeout(showNudge, matchMedia('(max-width: 600px)').matches ? 12000 : 9000);
+      };
+
+      const open = (initialId = '', trigger: HTMLElement | null = launch) => {
+        lastTrigger = trigger;
+        hideNudge(true);
+        modal.hidden = false;
+        modal.setAttribute('aria-modal', 'true');
+        launch.setAttribute('aria-expanded', 'true');
+        launch.hidden = true;
+        document.body.classList.add('bc-chat-open');
+        if (!stream.children.length) {
+          const returning = memory.opens > 0;
+          const greetings = chat.greetings?.length ? chat.greetings : [`${p.motto} Ask me the question before you buy the part.`];
+          const greeting = returning ? (chat.returnGreeting || 'Back at the bench. Let us pick up where we left off.') : greetings[memory.opens % greetings.length];
+          memory.opens++;
+          save();
+          message(greeting);
+          if (p.context) message(`I can see the build on this page. Start with the short answer if you want the fast route.`);
+          track(returning ? 'crew_chat_return' : 'crew_chat_open', { opens: memory.opens });
+          menu();
+        }
+        modal.focus({ preventScroll: true });
+        if (initialId) {
+          const item = items.find((candidate: any) => candidate.id === initialId);
+          if (item) window.setTimeout(() => respond(item), 180);
+        }
+      };
+      const shut = () => {
+        modal.hidden = true;
+        modal.setAttribute('aria-modal', 'false');
+        launch.setAttribute('aria-expanded', 'false');
+        launch.hidden = false;
+        document.body.classList.remove('bc-chat-open');
+        lastTrigger?.focus({ preventScroll: true });
+      };
+
+      launch?.addEventListener('click', () => open());
+      close?.addEventListener('click', shut);
+      nudgeOpen?.addEventListener('click', () => open('warning', nudgeOpen));
+      nudgeClose?.addEventListener('click', () => { hideNudge(true); track('crew_chat_nudge_dismiss'); });
+      document.addEventListener('click', (event) => {
+        const trigger = (event.target as HTMLElement | null)?.closest('[data-open-crew-chat]') as HTMLElement | null;
+        if (!trigger) return;
+        event.preventDefault();
+        open(trigger.dataset.crewQuestion || (p.context ? 'page_verdict' : ''), trigger);
+      });
+      document.addEventListener('keydown', (event) => {
+        if (modal.hidden) return;
+        if (event.key === 'Escape') { shut(); return; }
+        if (event.key !== 'Tab') return;
+        const focusable = Array.from(modal.querySelectorAll<HTMLElement>('button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])'))
+          .filter((element) => !element.hidden && element.getClientRects().length);
+        if (!focusable.length) { event.preventDefault(); modal.focus(); return; }
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (event.shiftKey && (document.activeElement === first || document.activeElement === modal)) { event.preventDefault(); last.focus(); }
+        else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+      });
+      scheduleNudge();
     });
   })();
 </script>

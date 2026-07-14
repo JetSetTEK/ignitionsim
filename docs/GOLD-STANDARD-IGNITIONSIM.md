@@ -2,7 +2,17 @@
 
 IgnitionSim is an authority site for people who want to buy real simulator hardware, install it cleanly, and start playing without losing a weekend to bad fit, weak mounting, driver weirdness, or forum haze.
 
-Companion benchmark: `docs/PUZZLEWICK-TO-IGNITIONSIM-STANDARD.md` is now the translation layer from Puzzlewick's proven gold standard to IgnitionSim. Before any homepage, hub, card, article, or curator work is published, check that document as the "does this have the soul and surfacing discipline?" gate.
+Companion benchmarks:
+
+- `docs/ARTICLE-GOLD-STANDARD-V2.md` is the current operational reference for
+  research, writing, visual proof, curator action, commerce, QA, and publishing.
+- `docs/CURATOR-BIBLE-IGNITIONSIM.md` defines the crew's roles, voice, chat,
+  visual behavior, and disclosure boundaries.
+- `docs/PUZZLEWICK-TO-IGNITIONSIM-STANDARD.md` remains the translation layer
+  from Puzzlewick's proven discovery and personality system.
+
+Before any homepage, hub, card, article, or curator work is published, use all
+three as the "does this have soul, evidence, and surfacing discipline?" gate.
 
 ## Audience
 - Primary reader: Gen X and older millennial builders with engineering brains, gaming nostalgia, and limited patience for hype.

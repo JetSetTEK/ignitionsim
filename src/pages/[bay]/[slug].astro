@@ -5,6 +5,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import ArticleNextSteps from '../../components/ArticleNextSteps.astro';
 import { getCollection, render } from 'astro:content';
 import ShareButtons from '../../components/ShareButtons.astro';
+import CuratorFieldBrief from '../../components/CuratorFieldBrief.astro';
 import bays from '../../data/bays.json';
 import site from '../../data/site.json';
 import { articleMeta, isCertifiedArticle } from '../../lib/content';
@@ -113,6 +114,12 @@ const fallbackProducts = allProducts
 const articleProducts = (linkedProducts.length ? linkedProducts : fallbackProducts).slice(0, 5);
 const heroProofProduct = articleProducts[0];
 const heroProofImage = heroProofProduct ? displayProductImage(heroProofProduct) : '';
+const fieldProofProduct = linkedProducts[0];
+const fieldProof = fieldProofProduct ? {
+  image: displayProductImage(fieldProofProduct),
+  name: `${fieldProofProduct.brand} ${fieldProofProduct.model}`,
+  href: `/${fieldProofProduct.bay}/gear/${fieldProofProduct.id}`,
+} : null;
 const articleHeroImage = d.heroImage || heroProofImage || worldHero?.image;
 const articleHeroAlt = d.heroAlt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : worldHero?.alt || d.title);
 const isWorldHero = Boolean(worldHero && articleHeroImage === worldHero.image);
@@ -193,6 +200,8 @@ if (d.faqs.length) {
     </nav>
 
     <ArticleNextSteps entry={entry} related={related} placement="top" />
+
+    {bylineCurator && <CuratorFieldBrief entry={entry} person={bylineCurator} proof={fieldProof} />}
 
     <div class="prose">
       <Content />

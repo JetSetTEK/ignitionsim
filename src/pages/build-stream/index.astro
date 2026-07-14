@@ -34,6 +34,7 @@ const articleRows = articles.map((entry, index) => {
     story: storyFor(entry, index),
     quality: qualityFor(entry.id),
     evidence: evidenceLabels(entry.id),
+    take: curator.hillsToDieOn?.[index % Math.max(curator.hillsToDieOn?.length || 0, 1)] || curator.favoriteWarning,
   };
 });
 const lead = articleRows[0];
@@ -102,6 +103,7 @@ const schema = [{
                 <div class="river-byline"><img src={row.curator.image} alt={row.curator.alt} loading="lazy" decoding="async" /><span>{row.curator.name} · {row.bay?.name}</span><b>{row.quality?.grade}</b></div>
                 <h2><a href={row.href}>{row.entry.data.title}</a></h2>
                 <p>{row.entry.data.excerpt || row.entry.data.description}</p>
+                <blockquote class="river-take">&ldquo;{row.take}&rdquo;<span>{row.curator.name}</span></blockquote>
                 <div class="river-proof">{row.evidence.map((label) => <span>{label}</span>)}</div>
                 <small>{articleMeta(row.entry.data)}</small>
                 <a class="river-open" href={row.href}>Open the investigation →</a>
@@ -213,6 +215,8 @@ const schema = [{
   .river-story h2 { margin-top:14px; font-size:clamp(1.45rem,2.6vw,2.2rem); line-height:1.03; }
   .river-story h2 a { color:#101820; }
   .river-story-copy > p { margin-top:12px; color:#435363; line-height:1.6; }
+  .river-take { margin-top:14px; padding:12px 14px; border-left:4px solid var(--accent); color:#263541; background:#f2f6f8; font-family:var(--font-disp); font-size:.94rem; line-height:1.42; }
+  .river-take span { display:block; margin-top:7px; color:var(--accent); font-family:var(--font-mono); font-size:.5rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
   .river-proof { display:flex; flex-wrap:wrap; gap:7px; margin-top:15px; }
   .river-proof span { padding:6px 8px; border:1px solid rgba(16,24,32,.14); color:#536272; font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; letter-spacing:.06em; }
   .river-story-copy > small { display:block; margin-top:14px; color:#73808b; font-family:var(--font-mono); font-size:.55rem; text-transform:uppercase; }

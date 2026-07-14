@@ -98,7 +98,10 @@ const schema = [{
           <span>Weekend objective · {benchVoices[0].person.handle}</span>
           <h2>{benchVoices[0].scene.task}</h2>
           <p>{benchVoices[0].person.benchMove}</p>
-          <a href={`/curator/${crewSlug(benchVoices[0].person)}`}>Open Duke's bench notes</a>
+          <div class="weekend-links">
+            <button type="button" data-open-crew-chat>Ask Duke about the build</button>
+            <a href={`/curator/${crewSlug(benchVoices[0].person)}`}>Open Duke's bench notes</a>
+          </div>
         </div>
       </aside>
     </div>
@@ -187,9 +190,10 @@ const schema = [{
               <span class="grade">{quality?.grade} · {quality?.score}/100</span>
             </div>
             <div class="investigation-copy">
-              <div class="investigator"><img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" /><span>{curator.name} · {entry.data.type.replace(/-/g, ' ')}</span></div>
+              <div class="investigator"><span>{curator.name} · {entry.data.type.replace(/-/g, ' ')}</span></div>
               <h3>{entry.data.title}</h3>
               <p>{entry.data.excerpt || entry.data.description}</p>
+              <blockquote class="investigator-note">&ldquo;{curator.favoriteWarning}&rdquo;</blockquote>
               <div class="evidence-row">{evidence.map((label) => <span>{label}</span>)}</div>
               <small>{articleMeta(entry.data)}</small>
             </div>
@@ -232,7 +236,7 @@ const schema = [{
               <h3>{entry.data.title}</h3>
               <p>{entry.data.excerpt || entry.data.description}</p>
             </div>
-            <div class="stream-curator"><img src={curator.image} alt={curator.alt} loading="lazy" decoding="async" /><span>{curator.name}</span></div>
+            <div class="stream-curator"><span>{curator.name}</span><blockquote>&ldquo;{curator.benchMove}&rdquo;</blockquote></div>
           </a>
         ))}
       </div>
@@ -286,6 +290,9 @@ const schema = [{
   .weekend-brief span, .weekend-brief a { color: var(--accent); font-family: var(--font-mono); font-size: .62rem; font-weight: 900; letter-spacing: .09em; text-transform: uppercase; }
   .weekend-brief h2 { margin-top: 9px; font-size: 1.45rem; line-height: 1.08; }
   .weekend-brief p { margin: 9px 0 14px; color: #435363; font-size: .9rem; line-height: 1.5; }
+  .weekend-links { display: flex; flex-wrap: wrap; gap: 10px; padding: 0 !important; }
+  .weekend-links button, .weekend-links a { padding: 0; border: 0; color: var(--accent); background: none; font-family: var(--font-mono); font-size: .62rem; font-weight: 900; letter-spacing: .09em; text-transform: uppercase; cursor: pointer; }
+  .weekend-links button { color: #101820; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
 
   .section-intro { display: grid; grid-template-columns: minmax(0, 1fr) minmax(240px, 470px); gap: 28px; align-items: end; margin-bottom: 28px; }
   .section-intro h2 { max-width: 16ch; margin-top: 8px; font-size: clamp(2rem, 4.5vw, 4.2rem); line-height: .95; text-transform: uppercase; }
@@ -342,9 +349,10 @@ const schema = [{
   .grade { position:absolute; left:14px; top:14px; padding:7px 9px; background:#ff5e1a; border:1px solid #101820; color:#101820; font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.08em; }
   .investigation-copy { padding:24px; align-self:center; }
   .investigator { display:flex; gap:9px; align-items:center; color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
-  .investigator img { width:38px; height:38px; border-radius:50%; object-fit:cover; object-position:center top; border:2px solid var(--accent); }
+  .investigator::before { content:"//"; display:grid; place-items:center; width:34px; height:34px; flex:none; color:#101820; background:var(--accent); border:1px solid #101820; }
   .investigation-copy h3 { margin-top:13px; font-size:clamp(1.3rem,2.2vw,2rem); line-height:1.04; }
   .investigation-copy p { margin-top:11px; color:#435363; line-height:1.55; }
+  .investigator-note { margin-top:14px; padding:11px 13px; border-left:3px solid var(--accent); color:#263541; background:#f3f6f8; font-family:var(--font-disp); font-size:.9rem; line-height:1.4; }
   .evidence-row { display:flex; flex-wrap:wrap; gap:7px; margin-top:15px; }
   .evidence-row span { padding:6px 8px; border:1px solid rgba(16,24,32,.14); color:#42515e; font-family:var(--font-mono); font-size:.52rem; text-transform:uppercase; letter-spacing:.06em; }
   .investigation-copy > small { display:block; margin-top:14px; color:var(--accent); font-family:var(--font-mono); font-size:.56rem; font-weight:900; text-transform:uppercase; letter-spacing:.07em; }
@@ -364,16 +372,16 @@ const schema = [{
 
   .stream-preview-band { padding:78px 0; background:#fff; }
   .stream-preview-list { border-top:2px solid #101820; }
-  .stream-preview-row { display:grid; grid-template-columns:58px 230px minmax(0,1fr) 92px; gap:20px; align-items:center; padding:18px 0; color:#101820; border-bottom:1px solid rgba(16,24,32,.16); }
+  .stream-preview-row { display:grid; grid-template-columns:58px 230px minmax(0,1fr) minmax(145px,210px); gap:20px; align-items:center; padding:18px 0; color:#101820; border-bottom:1px solid rgba(16,24,32,.16); }
   .stream-index { font-family:var(--font-disp); font-size:1.8rem; color:var(--accent); }
   .stream-preview-image { height:142px; overflow:hidden; background:#101820; }
   .stream-preview-image img { width:100%; height:100%; object-fit:cover; display:block; }
   .stream-preview-copy small { color:var(--accent); font-family:var(--font-mono); font-size:.55rem; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
   .stream-preview-copy h3 { margin-top:7px; font-size:1.35rem; line-height:1.08; }
   .stream-preview-copy p { margin-top:8px; color:#536272; font-size:.88rem; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-  .stream-curator { text-align:center; }
-  .stream-curator img { width:58px; height:58px; border-radius:50%; object-fit:cover; object-position:center top; border:2px solid var(--accent); }
-  .stream-curator span { display:block; margin-top:6px; color:#61707c; font-family:var(--font-mono); font-size:.5rem; text-transform:uppercase; }
+  .stream-curator { padding:11px 12px; border-left:3px solid var(--accent); background:#f3f6f8; }
+  .stream-curator span { display:block; color:var(--accent); font-family:var(--font-mono); font-size:.5rem; font-weight:900; letter-spacing:.07em; text-transform:uppercase; }
+  .stream-curator blockquote { margin-top:5px; color:#334155; font-family:var(--font-disp); font-size:.75rem; line-height:1.35; }
 
   .crew-debate-band { padding:82px 0; color:#fff; background:linear-gradient(135deg,#101820,#263949); }
   .debate-layout { display:grid; grid-template-columns:.8fr 1.2fr; gap:54px; align-items:center; }
@@ -408,6 +416,7 @@ const schema = [{
     .home-hero { min-height:900px; }
     .home-hero-inner { padding-bottom:26px; }
     .home-hero-copy h1 { font-size:clamp(3rem,15vw,4.7rem); }
+    .hero-actions { padding-bottom:64px; }
     .weekend-brief { grid-template-columns:1fr; }
     .section-intro { grid-template-columns:1fr; gap:12px; }
     .world-grid { display:grid; grid-auto-flow:column; grid-auto-columns:82%; grid-template-columns:none; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:14px; }

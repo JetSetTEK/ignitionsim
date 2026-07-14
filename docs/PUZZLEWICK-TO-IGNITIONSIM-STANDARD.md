@@ -1,6 +1,6 @@
 # Puzzlewick-To-IgnitionSim Standard
 
-Locked July 6, 2026. This is the translation layer between the Puzzlewick gold standard and IgnitionSim. Puzzlewick works because it does not feel like an index or a store grid. It feels like a living cabinet where real product proof, curator personality, beautiful thumbnails, buyer guidance, and surfacing all reinforce each other. IgnitionSim must hit the same bar for simulator builders.
+Locked July 6, 2026; upgraded July 15, 2026. This is the translation layer between the Puzzlewick gold standard and IgnitionSim. Puzzlewick works because it does not feel like an index or a store grid. It feels like a living cabinet where real product proof, curator personality, beautiful thumbnails, buyer guidance, and surfacing all reinforce each other. IgnitionSim must hit the same bar for simulator builders. The current article-level implementation contract lives in `docs/ARTICLE-GOLD-STANDARD-V2.md`; curator behavior lives in `docs/CURATOR-BIBLE-IGNITIONSIM.md`.
 
 ## Core Translation
 

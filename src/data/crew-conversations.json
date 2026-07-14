@@ -1,0 +1,187 @@
+{
+  "duke-alvarez": {
+    "greetings": [
+      "Tell me what moves when you brake. We can work backward from there.",
+      "If you are about to buy more torque, show me the frame first.",
+      "Good timing. I was just looking for the part of the rig nobody photographed under load."
+    ],
+    "returnGreeting": "Back at the torque desk. Good. The frame has not become stiffer while we were gone.",
+    "story": {
+      "label": "What made you so suspicious of flex?",
+      "answer": "A wandering brake trace and a desk I could watch move under threshold braking. I spent two seasons blaming software and consistency before admitting the hardware under my feet was changing the input. The cure was not more wheelbase. It was a rigid load path and a real brake. That mistake still informs almost every buying order I give."
+    },
+    "ritual": {
+      "label": "What is your pre-drive ritual?",
+      "answer": "Seat bolts, pedal plate, wheel mount, then one slow calibration sweep. After that I run two laps with the telemetry bar visible and no lap-time target. The first lap checks the rig; the second checks the driver. Chasing a time before both are settled is how people tune around a loose bolt."
+    },
+    "offDuty": {
+      "label": "What do you do when the rig is quiet?",
+      "answer": "Old touring-car races, garage coffee, and notebooks full of brake traces that nobody asked to see. I like mechanical watches for the same reason I like a good pedal: the interesting part is the force path you cannot see from the front."
+    },
+    "diagnostic": {
+      "label": "Give me a 60-second rigidity check.",
+      "steps": [
+        "Sit in the driving position and press the brake as hard as you do in a panic stop.",
+        "Watch the pedal plate, wheel deck, seat rails, and monitor stand separately.",
+        "Fix the first visible movement before adding torque, active pedals, or motion."
+      ]
+    },
+    "disagreement": {
+      "label": "Which crew member do you argue with most?",
+      "answer": "Mac, usually. He can make tactile feedback explain almost anything, and I keep asking whether the driver should have felt it through the controls first. He is right about clean channels. I am right that a moving pedal deck makes every channel a liar."
+    },
+    "nudges": [
+      "Before the cart opens: press the brake hard and watch the deck.",
+      "Peak torque is not a personality. Frame stiffness first.",
+      "A clean 9 Nm signal beats a clipped 20 Nm flex demonstration."
+    ]
+  },
+  "nina-brooks": {
+    "greetings": [
+      "Ceiling height, room depth, handedness. Give me those and I will let the shopping cart speak.",
+      "The private-club dream is allowed. We just measure the garage before ordering it.",
+      "I have a laser measure and a deeply unromantic question about your projector mount."
+    ],
+    "returnGreeting": "Welcome back to the launch room. Did the ceiling get taller? No? Good, we will keep designing the honest room.",
+    "story": {
+      "label": "What was your first simulator mistake?",
+      "answer": "I bought the projector before I understood the room. The picture was lovely and my shadow was in every shot. Then a driver met a rafter. That was the weekend I stopped treating the launch monitor as the build and started treating the room as the product."
+    },
+    "ritual": {
+      "label": "What do you measure before a bay goes live?",
+      "answer": "Tee line to screen, tee line to back wall, ceiling at the entire swing arc, side clearance for both hands, projector throw, and service access above or beside the sensor. Then I tape the hitting zone and make the tallest golfer dry-swing before anything expensive is mounted."
+    },
+    "offDuty": {
+      "label": "What do you enjoy outside the sim bay?",
+      "answer": "Early tee times, architecture magazines, and rearranging rooms on graph paper. I notice bad lighting and awkward circulation before I notice decor, which is probably why I cannot walk into a garage without mentally moving the projector."
+    },
+    "diagnostic": {
+      "label": "Give me a 60-second room-fit check.",
+      "steps": [
+        "Mark the intended tee line with painter's tape and stand there with your longest club.",
+        "Dry-swing slowly while someone watches ceiling, side wall, projector path, and screen distance.",
+        "If the swing changes to protect the room, redesign the room before choosing the sensor."
+      ]
+    },
+    "disagreement": {
+      "label": "Which crew member do you argue with most?",
+      "answer": "Mason would have been the obvious answer, but around here it is Mac. He sees a cable and imagines a better control system. I see a cable and ask whether a guest will trip over it while carrying a seven iron. We usually end up with his electronics and my floor plan."
+    },
+    "nudges": [
+      "Measure the swing, not just the empty room.",
+      "A launch monitor cannot negotiate with a rafter.",
+      "Projector brightness and throw beat a 4K badge in the wrong room."
+    ]
+  },
+  "val-chen": {
+    "greetings": [
+      "Before we blame the controls, show me the USB tree and the mount.",
+      "A cockpit becomes relaxing when the bindings survive stress and the cables stop surprising you.",
+      "Tell me what you fly and what your left hand needs to do when everything gets busy."
+    ],
+    "returnGreeting": "Back on the vector bench. I kept the labels and the exported profile. We can resume without rebuilding the cockpit from memory.",
+    "story": {
+      "label": "Why do you care so much about USB power?",
+      "answer": "My first space-sim desk kept dropping controls in supercruise. I nearly replaced the stick before discovering three devices were fighting through one passive hub. A powered hub solved the haunted-cockpit problem for less than the return shipping. Ever since, I treat power and topology as controls, not accessories."
+    },
+    "ritual": {
+      "label": "What is your cockpit shutdown ritual?",
+      "answer": "Export the profile, photograph the mounts, label any cable that moved, and leave one sentence about what felt wrong. Future-me should not have to reverse-engineer a good evening from six unnamed USB leads and a settings screen I forgot to save."
+    },
+    "offDuty": {
+      "label": "What do you do away from the cockpit?",
+      "answer": "Mechanical keyboards, tea, transit maps, and making playlists with suspiciously precise energy curves. I like systems that reveal their structure when you look closely, which explains both the control maps and the labeled drawers."
+    },
+    "diagnostic": {
+      "label": "Give me a 60-second dropout check.",
+      "steps": [
+        "List every USB device and note which ones share an unpowered hub.",
+        "Move the highest-draw base or throttle to a powered port and disconnect decorative panels.",
+        "Reproduce the problem with primary controls only, then add devices back one at a time."
+      ]
+    },
+    "disagreement": {
+      "label": "Which crew member do you argue with most?",
+      "answer": "Duke thinks every useful signal should eventually reach the driver through force. I think some information belongs on a control, some in audio, and some nowhere at all. We agree that the mount must stop moving before the argument becomes interesting."
+    },
+    "nudges": [
+      "Export the control profile before the next patch exports your patience.",
+      "Panels are dessert. Primary controls, power, and mounts are dinner.",
+      "A premium stick on a passive hub is an expensive disconnect."
+    ]
+  },
+  "mac-donovan": {
+    "greetings": [
+      "Put the credit card down for sixty seconds. Which cable, channel, or heat source did we not test?",
+      "Welcome to Patch Cable, where random failures become embarrassingly specific.",
+      "If the rig acts haunted, electricity is still the leading suspect."
+    ],
+    "returnGreeting": "Back at the patch bench. I labeled your place, which is more than Past You was going to do.",
+    "story": {
+      "label": "What was the build that started all this?",
+      "answer": "One Dayton shaker zip-tied under a dining chair. The curb feedback was glorious; the ground-loop hum was louder than the car. A weekend of tracing power, shielding RCA, and learning star grounding turned a silly experiment into a permanent habit: diagnose the invisible system before replacing the visible box."
+    },
+    "ritual": {
+      "label": "What happens before you close a wiring job?",
+      "answer": "Photograph both ends, label both ends, tug-test strain relief, and power-cycle from cold. Then I wait ten minutes and service one imaginary failure with only a flashlight. If I cannot reach the hub or identify the amp channel, the job is not closed."
+    },
+    "offDuty": {
+      "label": "What do you build when it is not a simulator?",
+      "answer": "Old audio gear, small synthesizer modules, and unnecessarily repairable lamps. Anything with a schematic and one component the manufacturer clearly hoped nobody would replace is interesting to me."
+    },
+    "diagnostic": {
+      "label": "Give me a 60-second haunted-rig check.",
+      "steps": [
+        "Disconnect decorative USB devices, extra amps, and anything powered from the rig frame.",
+        "Run primary controls from one powered hub and separate data cables from motor and amplifier power.",
+        "Add one device at a time until the failure returns, then label the actual offender."
+      ]
+    },
+    "disagreement": {
+      "label": "Which crew member do you argue with most?",
+      "answer": "Nina, because she keeps asking whether a human can walk through the cable route I just made electrically perfect. This is irritating because she is often right. The compromise is a clean service loop that also survives a golf bag."
+    },
+    "nudges": [
+      "Temporary wiring becomes permanent at approximately midnight.",
+      "Separate signal, power, and optimism before replacing the device.",
+      "Two well-routed tactile channels beat four pucks playing the same mud."
+    ]
+  },
+  "gus-calder": {
+    "greetings": [
+      "Tell me which axis the sim exposes. Then we can decide what the lever is called.",
+      "Welcome to Bridge Oddities. Half the hardware here had a previous career.",
+      "Hear me out: that old quadrant may already be a better engine telegraph than the thing in your cart."
+    ],
+    "returnGreeting": "Back on the bridge. The axis still exists, which puts us ahead of most marine-hardware plans.",
+    "story": {
+      "label": "How did you end up building marine controls?",
+      "answer": "I wanted a helm that felt slow and deliberate, then discovered the marine-hardware shelf was nearly empty. Bridge Command's DIY notes, a Bodnar board, and three potentiometers did what the catalog could not. Since then I have treated every unwanted racing or flight control as a possible bridge component until the software proves otherwise."
+    },
+    "ritual": {
+      "label": "What do you check before leaving port?",
+      "answer": "Center and range each axis, test ahead and astern independently, verify rudder direction, then save the config file somewhere sensible. The glamorous bridge photo happens after the emergency stop and bow-thruster buttons do what their labels claim."
+    },
+    "offDuty": {
+      "label": "What do you enjoy off watch?",
+      "answer": "Harbor walks, old ferry timetables, brass instruments that are not musical, and finding good labels in hardware drawers. I am suspicious of any machine whose controls do not reveal how it expects to be operated."
+    },
+    "diagnostic": {
+      "label": "Give me a 60-second axis check.",
+      "steps": [
+        "Open the simulator's input or config file before connecting new hardware.",
+        "Confirm it exposes continuous rudder and throttle axes rather than keyboard steps only.",
+        "Map one borrowed controller first; buy or build a dedicated helm only after the software listens."
+      ]
+    },
+    "disagreement": {
+      "label": "Which crew member do you argue with most?",
+      "answer": "Val. She wants every control map elegant before launch. I am willing to call a racing pedal a bow thruster and sail today. She is right about exporting the profile. I am right that a handwritten label can rescue a perfectly good afternoon."
+    },
+    "nudges": [
+      "Check the config before buying the lever.",
+      "If Windows sees the axis and the sim agrees, it has a new job.",
+      "A twin-screw vessel is a poor place to discover you bought one throttle."
+    ]
+  }
+}
