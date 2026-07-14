@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Flight yoke buy now or wait decision map for 2026</title>
+  <desc id="desc">A platform-first decision tree for choosing the Thrustmaster TCA Sky Yoke, Turtle Beach VelocityOne Flight, Honeycomb Alpha XPC, or MOZA AY210.</desc>
+  <rect width="1600" height="900" fill="#edf7fb"/>
+  <rect x="46" y="42" width="1508" height="816" rx="30" fill="#ffffff" stroke="#153044" stroke-width="4"/>
+  <text x="96" y="126" fill="#153044" font-family="Arial, sans-serif" font-size="54" font-weight="800">BUY NOW OR WAIT?</text>
+  <text x="96" y="174" fill="#5d7382" font-family="Arial, sans-serif" font-size="26">Platform first. Then decide whether you need a complete cockpit or better control feel.</text>
+
+  <rect x="96" y="220" width="1408" height="100" rx="20" fill="#153044"/>
+  <text x="800" y="281" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="800">WHICH MACHINE WILL RUN MICROSOFT FLIGHT SIMULATOR?</text>
+  <path d="M800 320V370 M800 370H288 M800 370H800 M800 370H1312" fill="none" stroke="#153044" stroke-width="6"/>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="96" y="404" width="384" height="344" rx="24" fill="#fff1df" stroke="#e9832e" stroke-width="3"/>
+    <text x="132" y="458" fill="#a85116" font-size="24" font-weight="800">PS5</text>
+    <text x="132" y="514" fill="#153044" font-size="35" font-weight="800">WAIT FOR SKY YOKE</text>
+    <text x="132" y="558" fill="#153044" font-size="22">$199.99 announced · Q3 2026</text>
+    <text x="132" y="602" fill="#5d7382" font-size="21">Rare native PS5 support and all</text>
+    <text x="132" y="634" fill="#5d7382" font-size="21">basic axes in one box.</text>
+    <rect x="132" y="674" width="306" height="44" rx="10" fill="#e9832e"/>
+    <text x="285" y="704" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">WAIT FOR RETAIL TESTS</text>
+
+    <rect x="512" y="404" width="576" height="344" rx="24" fill="#e7f4ff" stroke="#3b82b4" stroke-width="3"/>
+    <text x="548" y="458" fill="#2e6d99" font-size="24" font-weight="800">XBOX OR PC · FLY TONIGHT</text>
+    <text x="548" y="514" fill="#153044" font-size="35" font-weight="800">VELOCITYONE FLIGHT</text>
+    <text x="548" y="558" fill="#153044" font-size="22">~$400 list · yoke + throttle + trim</text>
+    <text x="548" y="602" fill="#5d7382" font-size="21">Best complete first cockpit.</text>
+    <text x="548" y="634" fill="#5d7382" font-size="21">Accept the center feel and footprint.</text>
+    <rect x="548" y="674" width="220" height="44" rx="10" fill="#3b82b4"/>
+    <text x="658" y="704" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">BUY NOW</text>
+    <text x="820" y="704" fill="#2e6d99" font-size="19" font-weight="700">Or wait if $200 changes the build.</text>
+
+    <rect x="1120" y="404" width="384" height="344" rx="24" fill="#eaf7ef" stroke="#3e8b67" stroke-width="3"/>
+    <text x="1156" y="458" fill="#2e7152" font-size="24" font-weight="800">PC / XBOX · MODULAR</text>
+    <text x="1156" y="514" fill="#153044" font-size="32" font-weight="800">ALPHA XPC</text>
+    <text x="1156" y="552" fill="#5d7382" font-size="20">Better yoke feel, $349.99,</text>
+    <text x="1156" y="582" fill="#5d7382" font-size="20">but throttle + pedals are extra.</text>
+    <line x1="1156" y1="614" x2="1468" y2="614" stroke="#afd2bf" stroke-width="2"/>
+    <text x="1156" y="654" fill="#153044" font-size="32" font-weight="800">MOZA AY210</text>
+    <text x="1156" y="688" fill="#5d7382" font-size="20">PC + real FFB · ~$848 with handle.</text>
+    <text x="1156" y="720" fill="#a85116" font-size="19" font-weight="800">BUY FEEL, NOT A BUNDLE.</text>
+  </g>
+
+  <rect x="96" y="784" width="1408" height="42" rx="10" fill="#153044"/>
+  <text x="800" y="812" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="800">IF YOU FLY WITH A STICK TODAY, WAITING COSTS NOTHING. IF YOU OWN NO CONTROLS, COMPLETE BEATS PERFECT.</text>
+</svg>

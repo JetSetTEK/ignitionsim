@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Logitech RS50, MOZA R12 V2, and Simagic Alpha EVO buyer decision map</title>
+  <desc id="desc">A platform and ownership decision tree for selecting among three midrange direct-drive racing systems.</desc>
+  <rect width="1600" height="900" fill="#11171d"/>
+  <text x="80" y="112" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="800">PLATFORM FIRST. TORQUE SECOND.</text>
+  <text x="80" y="160" fill="#aab8c3" font-family="Arial, sans-serif" font-size="27">The correct ecosystem is the one that survives your next two purchases.</text>
+
+  <rect x="80" y="222" width="1440" height="118" rx="22" fill="#ed6333"/>
+  <text x="800" y="274" text-anchor="middle" fill="#17120f" font-family="Arial, sans-serif" font-size="31" font-weight="800">WILL YOU RACE ON PLAYSTATION OR XBOX?</text>
+  <text x="800" y="316" text-anchor="middle" fill="#4a2115" font-family="Arial, sans-serif" font-size="23">Licensing is a hard gate. “Maybe someday” still belongs in the invoice.</text>
+
+  <path d="M800 340V408 M800 408H370 M800 408H1230" fill="none" stroke="#aab8c3" stroke-width="6"/>
+  <rect x="80" y="440" width="580" height="328" rx="26" fill="#eaf3ff"/>
+  <text x="122" y="502" fill="#245f99" font-family="Arial, sans-serif" font-size="25" font-weight="800">YES · CONSOLE IS REAL</text>
+  <text x="122" y="566" fill="#11171d" font-family="Arial, sans-serif" font-size="42" font-weight="800">LOGITECH RS50</text>
+  <text x="122" y="616" fill="#425563" font-family="Arial, sans-serif" font-size="24">8 Nm + TRUEFORCE + licensed SKUs</text>
+  <text x="122" y="660" fill="#425563" font-family="Arial, sans-serif" font-size="24">leaves budget for the cockpit.</text>
+  <text x="122" y="716" fill="#a24629" font-family="Arial, sans-serif" font-size="22" font-weight="700">CHECK THE EXACT PLATFORM SKU.</text>
+
+  <rect x="710" y="440" width="810" height="328" rx="26" fill="#eff6f2"/>
+  <text x="752" y="502" fill="#2f7657" font-family="Arial, sans-serif" font-size="25" font-weight="800">NO · PC IS THE JOB</text>
+  <line x1="1115" y1="526" x2="1115" y2="730" stroke="#bfd3c8" stroke-width="3"/>
+  <text x="752" y="570" fill="#11171d" font-family="Arial, sans-serif" font-size="35" font-weight="800">MOZA R12 V2</text>
+  <text x="752" y="616" fill="#425563" font-family="Arial, sans-serif" font-size="22">Pick for wheel variety, value,</text>
+  <text x="752" y="650" fill="#425563" font-family="Arial, sans-serif" font-size="22">and 12 Nm headroom.</text>
+  <text x="1158" y="570" fill="#11171d" font-family="Arial, sans-serif" font-size="35" font-weight="800">ALPHA EVO 12</text>
+  <text x="1158" y="616" fill="#425563" font-family="Arial, sans-serif" font-size="22">Pick for cleaner feel, hardware,</text>
+  <text x="1158" y="650" fill="#425563" font-family="Arial, sans-serif" font-size="22">and the P1000/GT Neo path.</text>
+  <text x="752" y="716" fill="#a24629" font-family="Arial, sans-serif" font-size="22" font-weight="700">WHEEL + PEDAL PREFERENCE BREAKS THE TIE.</text>
+
+  <text x="80" y="840" fill="#aab8c3" font-family="Arial, sans-serif" font-size="21">IGNITIONSIM BUYER MAP · A 12 Nm base on a weak stand is a worse system than 8 Nm on a rigid cockpit.</text>
+</svg>

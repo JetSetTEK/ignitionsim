@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">True cockpit cost comparison for four flight yokes</title>
+  <desc id="desc">Compares what is included and the approximate cost to reach yoke, throttle, trim, and rudder control with the TCA Sky Yoke, VelocityOne Flight, Honeycomb Alpha XPC, and MOZA AY210.</desc>
+  <rect width="1600" height="900" fill="#f6f1e8"/>
+  <rect x="46" y="42" width="1508" height="816" rx="30" fill="#ffffff" stroke="#1e2931" stroke-width="4"/>
+  <text x="96" y="126" fill="#1e2931" font-family="Arial, sans-serif" font-size="52" font-weight="800">THE YOKE PRICE IS NOT THE COCKPIT PRICE</text>
+  <text x="96" y="174" fill="#687985" font-family="Arial, sans-serif" font-size="25">Approximate July 2026 US spend to reach yoke + power + trim + rudder control.</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="96" y="224" width="326" height="480" rx="22" fill="#fff2df" stroke="#e9832e" stroke-width="3"/>
+    <text x="126" y="276" fill="#a85116" font-size="22" font-weight="800">TCA SKY YOKE</text>
+    <text x="126" y="330" fill="#1e2931" font-size="40" font-weight="800">$200</text>
+    <text x="126" y="366" fill="#687985" font-size="19">Announced all-in-one</text>
+    <rect x="126" y="406" width="250" height="38" rx="8" fill="#e9832e"/><text x="142" y="432" fill="#fff" font-size="18">Yoke + pitch</text>
+    <rect x="126" y="456" width="250" height="38" rx="8" fill="#eea266"/><text x="142" y="482" fill="#fff" font-size="18">Throttle + trim</text>
+    <rect x="126" y="506" width="250" height="38" rx="8" fill="#f4c79f"/><text x="142" y="532" fill="#53321f" font-size="18">Integrated rudder</text>
+    <text x="126" y="594" fill="#1e2931" font-size="21" font-weight="700">Nothing else required</text>
+    <text x="126" y="628" fill="#687985" font-size="19">to learn. Pedals and</text>
+    <text x="126" y="656" fill="#687985" font-size="19">quadrant can come later.</text>
+
+    <rect x="458" y="224" width="326" height="480" rx="22" fill="#e8f4ff" stroke="#3b82b4" stroke-width="3"/>
+    <text x="488" y="276" fill="#2e6d99" font-size="22" font-weight="800">VELOCITYONE FLIGHT</text>
+    <text x="488" y="330" fill="#1e2931" font-size="40" font-weight="800">$400</text>
+    <text x="488" y="366" fill="#687985" font-size="19">Complete retail system</text>
+    <rect x="488" y="406" width="250" height="38" rx="8" fill="#3b82b4"/><text x="504" y="432" fill="#fff" font-size="18">Yoke + pitch</text>
+    <rect x="488" y="456" width="250" height="38" rx="8" fill="#70a9d0"/><text x="504" y="482" fill="#fff" font-size="18">Quadrant + trim wheel</text>
+    <rect x="488" y="506" width="250" height="38" rx="8" fill="#b6d5e9"/><text x="504" y="532" fill="#17374c" font-size="18">Finger rudder/brakes</text>
+    <text x="488" y="594" fill="#1e2931" font-size="21" font-weight="700">Best one-box answer</text>
+    <text x="488" y="628" fill="#687985" font-size="19">Sales change the verdict.</text>
+    <text x="488" y="656" fill="#687985" font-size="19">No PS5 support.</text>
+
+    <rect x="820" y="224" width="326" height="480" rx="22" fill="#eaf7ef" stroke="#3e8b67" stroke-width="3"/>
+    <text x="850" y="276" fill="#2e7152" font-size="22" font-weight="800">ALPHA XPC DECK</text>
+    <text x="850" y="330" fill="#1e2931" font-size="40" font-weight="800">~$930+</text>
+    <text x="850" y="366" fill="#687985" font-size="19">XPC + Bravo + pedals</text>
+    <rect x="850" y="406" width="250" height="38" rx="8" fill="#3e8b67"/><text x="866" y="432" fill="#fff" font-size="18">XPC yoke · $350</text>
+    <rect x="850" y="456" width="250" height="38" rx="8" fill="#71ae90"/><text x="866" y="482" fill="#fff" font-size="18">Bravo · ~$280</text>
+    <rect x="850" y="506" width="250" height="38" rx="8" fill="#afd2bf"/><text x="866" y="532" fill="#183d2c" font-size="18">Pedals · ~$300</text>
+    <text x="850" y="594" fill="#1e2931" font-size="21" font-weight="700">Modular and mature</text>
+    <text x="850" y="628" fill="#687985" font-size="19">Great feel; stock and Xbox</text>
+    <text x="850" y="656" fill="#687985" font-size="19">hub costs can complicate it.</text>
+
+    <rect x="1182" y="224" width="326" height="480" rx="22" fill="#f2ecff" stroke="#7c5bb0" stroke-width="3"/>
+    <text x="1212" y="276" fill="#664894" font-size="22" font-weight="800">MOZA AY210 DECK</text>
+    <text x="1212" y="330" fill="#1e2931" font-size="40" font-weight="800">~$1,350+</text>
+    <text x="1212" y="366" fill="#687985" font-size="19">FFB base + handle + controls</text>
+    <rect x="1212" y="406" width="250" height="38" rx="8" fill="#7c5bb0"/><text x="1228" y="432" fill="#fff" font-size="18">AY210 + handle · ~$848</text>
+    <rect x="1212" y="456" width="250" height="38" rx="8" fill="#9f84c7"/><text x="1228" y="482" fill="#fff" font-size="18">Throttle · ~$200</text>
+    <rect x="1212" y="506" width="250" height="38" rx="8" fill="#c9b7e1"/><text x="1228" y="532" fill="#352648" font-size="18">Pedals · ~$300</text>
+    <text x="1212" y="594" fill="#1e2931" font-size="21" font-weight="700">The control-loading buy</text>
+    <text x="1212" y="628" fill="#687985" font-size="19">PC only. Add a rigid mount</text>
+    <text x="1212" y="656" fill="#687985" font-size="19">before the servos arrive.</text>
+  </g>
+
+  <rect x="96" y="752" width="1408" height="74" rx="16" fill="#1e2931"/>
+  <text x="800" y="784" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="800">THE $200 YOKE IS A CATEGORY RESET ONLY IF ITS RETAIL FEEL AND DURABILITY HOLD UP.</text>
+  <text x="800" y="813" text-anchor="middle" fill="#bdd8e8" font-family="Arial, sans-serif" font-size="18">Prices exclude tax, shipping, Xbox hubs, displays and cockpit furniture. Verify current stock and bundles.</text>
+</svg>

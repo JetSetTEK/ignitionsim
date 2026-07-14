@@ -592,6 +592,81 @@
     "platforms": "PC"
   },
   {
+    "id": "honeycomb-alpha-xpc",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Honeycomb Aeronautical",
+    "model": "Alpha Flight Controls XPC",
+    "price": 350,
+    "priceNote": "$349.99 official price checked July 2026; stock varies",
+    "image": "/images/gear/flight/honeycomb-alpha-xpc.jpg",
+    "summary": "The Alpha XPC is Honeycomb's Xbox-capable version of its 180-degree general-aviation yoke. It uses upgraded Hall-effect sensing, a damped self-centering mechanism with no hard center detent, red backlighting, a complete ignition-and-light switch panel, and a dual mounting system. The yoke itself works on PC, Mac, Xbox One and Xbox Series X|S, but a complete Xbox cockpit can still require Honeycomb's Xbox Hub when Bravo and Charlie peripherals join the chain. The official store lists it at $349.99; availability has been the recurring ownership complaint, so confirm stock before planning the rest of the deck around it.",
+    "specs": {
+      "Rotation": "180 degrees",
+      "Sensors": "Upgraded Hall-effect sensors",
+      "Centering": "Damped self-centering, no hard center detent",
+      "Controls": "POV, rocker switches, buttons, PTT, ignition and light panel",
+      "Dimensions": "40 x 13 x 27 cm",
+      "Compatibility": "PC, Mac, Xbox One, Xbox Series X|S"
+    },
+    "pros": [
+      "Smooth 180-degree roll and a restrained center feel",
+      "Hall-effect sensing and useful GA switch panel",
+      "Real Xbox support for a serious modular cockpit"
+    ],
+    "cons": [
+      "Yoke only: throttle and rudder still cost extra",
+      "Stock availability has repeatedly frustrated buyers",
+      "Xbox multi-device builds may require the separate Xbox Hub"
+    ],
+    "whoFor": "PC or Xbox GA pilots who prefer a modular, better-feeling yoke deck and accept the cost and stock hunt of adding throttle and pedals separately.",
+    "rating": { "overall": 8, "value": 7, "build": 8, "realism": 8 },
+    "faqs": [
+      { "q": "What is different about the Alpha XPC?", "a": "It adds Xbox compatibility and upgraded Hall-effect sensing while retaining the 180-degree yoke, damped centering and GA switch panel." },
+      { "q": "Does the Alpha XPC include a throttle?", "a": "No. It is a yoke and switch panel. Budget separately for a Bravo or another throttle quadrant, plus pedals if you want proper rudder and toe brakes." }
+    ],
+    "affiliate": { "primary": "Honeycomb Aeronautical", "note": "No exact Amazon ASIN was verified in July 2026; use the official product page and confirm stock." },
+    "platforms": "PC / Mac / Xbox"
+  },
+  {
+    "id": "turtle-beach-velocityone-flight",
+    "bay": "flight",
+    "type": "yoke",
+    "brand": "Turtle Beach",
+    "model": "VelocityOne Flight Universal Control System",
+    "price": 400,
+    "priceNote": "$399.99 official price checked July 2026; sales frequently change it",
+    "image": "/images/gear/flight/turtle-beach-velocityone-flight.png",
+    "amazonAsin": "B09JM8SX8G",
+    "summary": "VelocityOne Flight is the genuinely complete Xbox-and-PC desk cockpit: a 180-degree Hall-effect yoke, modular throttle quadrant, dedicated trim wheel, integrated fingertip rudder and brake controls, 12 analog axes, a color flight-management display and a configurable status panel. It is the strongest buy-now answer when a beginner needs to fly tonight without sourcing three boxes. The compromise is physical feel and footprint: owner discussions repeatedly mention a noticeable center transition, plastic construction and the amount of desk it occupies. At the right sale price it remains a persuasive all-in-one; at full MSRP, a modular Honeycomb deck becomes easier to justify.",
+    "specs": {
+      "Yoke": "180-degree Hall-effect rotation",
+      "Included": "Yoke, modular throttle quadrant, trim wheel and integrated rudder/brake controls",
+      "Axes": "12 analog axes",
+      "Displays": "Color flight-management display and status indicator panel",
+      "Mounting": "Integrated clamps, micro-suction strips or six cockpit screws",
+      "Compatibility": "Xbox Series X|S, Xbox One and Windows PC"
+    },
+    "pros": [
+      "The most complete Xbox/PC control package in one purchase",
+      "Real trim wheel, swappable throttle tops and useful onboard display",
+      "Exact Amazon listing makes price and return-window comparison easy"
+    ],
+    "cons": [
+      "Center feel and plastic construction divide experienced owners",
+      "Large desk footprint",
+      "No PS5 compatibility and no force feedback"
+    ],
+    "whoFor": "Xbox or PC beginners who value a complete, immediately usable cockpit more than boutique yoke feel or modular upgrade purity.",
+    "rating": { "overall": 8, "value": 8, "build": 7, "features": 9 },
+    "faqs": [
+      { "q": "Does VelocityOne Flight include a throttle quadrant?", "a": "Yes. The modular quadrant, trim wheel, yoke and integrated rudder/brake controls are all included." },
+      { "q": "Does VelocityOne Flight work on PS5?", "a": "No. It supports Xbox and Windows PC. PS5 buyers should watch the TCA Sky Yoke instead." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Exact model ASIN B09JM8SX8G verified July 2026; compare current price with Turtle Beach direct." },
+    "platforms": "PC / Xbox"
+  },
+  {
     "id": "turtle-beach-velocityone-flight-stick",
     "bay": "flight",
     "type": "stick",

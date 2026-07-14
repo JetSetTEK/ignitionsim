@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Three-year launch monitor cost stack</title>
+  <desc id="desc">A cost checklist showing hardware, required access, simulation software, gaming PC, and optional club-data costs for four floor launch monitors.</desc>
+  <rect width="1600" height="900" fill="#101d23"/>
+  <text x="80" y="108" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="800">THE PRICE TAG IS ONLY ROW ONE</text>
+  <text x="80" y="156" fill="#a8c5ce" font-family="Arial, sans-serif" font-size="27">Build the three-year invoice before comparing accuracy claims.</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="80" y="214" width="1440" height="92" rx="18" fill="#1d333d"/>
+    <text x="114" y="270" fill="#ffffff" font-size="26" font-weight="700">COST LAYER</text>
+    <text x="500" y="270" fill="#58d0a3" font-size="26" font-weight="700">OMNI</text>
+    <text x="750" y="270" fill="#58d0a3" font-size="26" font-weight="700">SPICA 3</text>
+    <text x="1000" y="270" fill="#58d0a3" font-size="26" font-weight="700">NOVA</text>
+    <text x="1250" y="270" fill="#58d0a3" font-size="26" font-weight="700">EYE CORE</text>
+
+    <g font-size="23">
+      <rect x="80" y="320" width="1440" height="86" fill="#f7faf9"/>
+      <text x="114" y="374" fill="#17352f" font-weight="700">Hardware</text><text x="500" y="374" fill="#17352f">$1,599</text><text x="750" y="374" fill="#17352f">$3,199</text><text x="1000" y="374" fill="#17352f">$1,500</text><text x="1250" y="374" fill="#17352f">$1,499 MSRP</text>
+      <rect x="80" y="410" width="1440" height="86" fill="#e9f1ef"/>
+      <text x="114" y="464" fill="#17352f" font-weight="700">Required brand access</text><text x="500" y="464" fill="#2f765c">None stated</text><text x="750" y="464" fill="#2f765c">App lifetime</text><text x="1000" y="464" fill="#2f765c">None for GSPro link</text><text x="1250" y="464" fill="#a2482a">Verify current tier</text>
+      <rect x="80" y="500" width="1440" height="86" fill="#f7faf9"/>
+      <text x="114" y="554" fill="#17352f" font-weight="700">Course software</text><text x="500" y="554" fill="#17352f">Optional paid</text><text x="750" y="554" fill="#17352f">Optional paid</text><text x="1000" y="554" fill="#17352f">GSPro separate</text><text x="1250" y="554" fill="#17352f">Optional paid</text>
+      <rect x="80" y="590" width="1440" height="86" fill="#e9f1ef"/>
+      <text x="114" y="644" fill="#17352f" font-weight="700">Gaming PC</text><text x="500" y="644" fill="#17352f">Software dependent</text><text x="750" y="644" fill="#17352f">Software dependent</text><text x="1000" y="644" fill="#17352f">Likely for GSPro</text><text x="1250" y="644" fill="#17352f">Required for sim</text>
+      <rect x="80" y="680" width="1440" height="86" fill="#f7faf9"/>
+      <text x="114" y="734" fill="#17352f" font-weight="700">Club-data friction</text><text x="500" y="734" fill="#17352f">Stickers / verify</text><text x="750" y="734" fill="#17352f">Stickers</text><text x="1000" y="734" fill="#17352f">Ball-first brief</text><text x="1250" y="734" fill="#a2482a">No club data</text>
+    </g>
+  </g>
+  <rect x="80" y="800" width="1440" height="54" rx="14" fill="#ef6a3a"/>
+  <text x="800" y="836" text-anchor="middle" fill="#101d23" font-family="Arial, sans-serif" font-size="24" font-weight="800">ADD PC + SOFTWARE + MOUNTING + RETURN RISK BEFORE DECLARING A WINNER</text>
+</svg>

@@ -6,7 +6,7 @@
   "description": "IgnitionSim.com — the engineer's guide to sim hardware. Compatibility-checked builds, honest gear reviews, and restock alerts for racing, flight, space, marine, and golf sim rigs.",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/gen-llms.mjs && node scripts/make-llms-full.mjs && node scripts/audit-gold-standard.mjs && node scripts/audit-curator-system.mjs && node scripts/audit-public-surface-quality.mjs && node scripts/audit-editorial-surfaces.mjs && astro build && node scripts/prune-unverified-gear-images.mjs",
+    "build": "node scripts/gen-llms.mjs && node scripts/make-llms-full.mjs && node scripts/audit-worldclass-quality.mjs && node scripts/audit-gold-standard.mjs && node scripts/audit-curator-system.mjs && node scripts/audit-public-surface-quality.mjs && node scripts/audit-editorial-surfaces.mjs && astro build && node scripts/prune-unverified-gear-images.mjs",
     "preview": "astro preview",
     "llms": "node scripts/gen-llms.mjs && node scripts/make-llms-full.mjs",
     "seo:priority": "node scripts/seo-priority-urls.mjs",
@@ -14,7 +14,7 @@
     "images": "node scripts/fetch-images.mjs",
     "product-images": "node scripts/fetch-real-product-images.mjs",
     "infographics": "node scripts/make-ignitionsim-infographics.mjs",
-    "gold-audit": "node scripts/audit-gold-standard.mjs && node scripts/audit-curator-system.mjs && node scripts/audit-public-surface-quality.mjs && node scripts/audit-editorial-surfaces.mjs",
+    "gold-audit": "node scripts/audit-worldclass-quality.mjs && node scripts/audit-gold-standard.mjs && node scripts/audit-curator-system.mjs && node scripts/audit-public-surface-quality.mjs && node scripts/audit-editorial-surfaces.mjs",
     "audit:curators": "node scripts/audit-curator-system.mjs",
     "audit:surfaces": "node scripts/audit-editorial-surfaces.mjs",
     "audit:quality": "node scripts/audit-worldclass-quality.mjs",

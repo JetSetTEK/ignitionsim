@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Fifteen hundred dollar sim racing ecosystem invoice</title>
+  <desc id="desc">Compares approximate base, wheel, pedal, mounting, and remaining cockpit budget for Logitech RS50, MOZA R12 V2, and Simagic Alpha EVO 12 systems.</desc>
+  <rect width="1600" height="900" fill="#f5f1ea"/>
+  <rect x="48" y="44" width="1504" height="812" rx="32" fill="#ffffff" stroke="#191e24" stroke-width="4"/>
+  <text x="96" y="126" fill="#191e24" font-family="Arial, sans-serif" font-size="54" font-weight="800">THE $1,500 INVOICE</text>
+  <text x="96" y="173" fill="#64707c" font-family="Arial, sans-serif" font-size="26">A wheelbase is not a drivable system. Price one wheel, load-cell brake, and mount.</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="96" y="226" width="432" height="504" rx="26" fill="#eaf3ff" stroke="#3478bc" stroke-width="3"/>
+    <text x="132" y="286" fill="#245f99" font-size="26" font-weight="800">LOGITECH RS50</text>
+    <text x="132" y="336" fill="#191e24" font-size="38" font-weight="800">~$860</text>
+    <text x="132" y="374" fill="#64707c" font-size="20">System + two-pedal load-cell set</text>
+    <rect x="132" y="414" width="314" height="38" rx="8" fill="#3478bc"/><text x="148" y="440" fill="#fff" font-size="19">Base + hub + round wheel</text>
+    <rect x="132" y="464" width="212" height="38" rx="8" fill="#65a1dc"/><text x="148" y="490" fill="#fff" font-size="19">RS pedals</text>
+    <rect x="132" y="514" width="112" height="38" rx="8" fill="#b1d2f2"/><text x="148" y="540" fill="#173047" font-size="19">Clamp</text>
+    <text x="132" y="600" fill="#191e24" font-size="23" font-weight="700">Leaves roughly $640</text>
+    <text x="132" y="636" fill="#64707c" font-size="21">for stand, seat, clutch,</text>
+    <text x="132" y="668" fill="#64707c" font-size="21">or a better pedal path.</text>
+
+    <rect x="584" y="226" width="432" height="504" rx="26" fill="#fff1e8" stroke="#ed6333" stroke-width="3"/>
+    <text x="620" y="286" fill="#b44925" font-size="26" font-weight="800">MOZA R12 V2</text>
+    <text x="620" y="336" fill="#191e24" font-size="38" font-weight="800">~$1,200</text>
+    <text x="620" y="374" fill="#64707c" font-size="20">Base + current GT wheel + CRP2 class</text>
+    <rect x="620" y="414" width="216" height="38" rx="8" fill="#ed6333"/><text x="636" y="440" fill="#fff" font-size="19">R12 V2 base</text>
+    <rect x="620" y="464" width="182" height="38" rx="8" fill="#f08a65"/><text x="636" y="490" fill="#fff" font-size="19">GT wheel</text>
+    <rect x="620" y="514" width="254" height="38" rx="8" fill="#f5b69f"/><text x="636" y="540" fill="#612514" font-size="19">Load-cell pedals</text>
+    <text x="620" y="600" fill="#191e24" font-size="23" font-weight="700">Leaves roughly $300</text>
+    <text x="620" y="636" fill="#64707c" font-size="21">A rigid stand is mandatory.</text>
+    <text x="620" y="668" fill="#64707c" font-size="21">Cockpit may break the cap.</text>
+
+    <rect x="1072" y="226" width="432" height="504" rx="26" fill="#eaf7ef" stroke="#3c8a67" stroke-width="3"/>
+    <text x="1108" y="286" fill="#2f7657" font-size="26" font-weight="800">SIMAGIC ALPHA EVO 12</text>
+    <text x="1108" y="336" fill="#191e24" font-size="38" font-weight="800">~$1,350</text>
+    <text x="1108" y="374" fill="#64707c" font-size="20">Base + GT Neo + P1000 class</text>
+    <rect x="1108" y="414" width="230" height="38" rx="8" fill="#3c8a67"/><text x="1124" y="440" fill="#fff" font-size="19">Alpha EVO base</text>
+    <rect x="1108" y="464" width="174" height="38" rx="8" fill="#71ad91"/><text x="1124" y="490" fill="#fff" font-size="19">GT Neo</text>
+    <rect x="1108" y="514" width="246" height="38" rx="8" fill="#abd2bf"/><text x="1124" y="540" fill="#173b2b" font-size="19">P1000 pedals</text>
+    <text x="1108" y="600" fill="#191e24" font-size="23" font-weight="700">Leaves roughly $150</text>
+    <text x="1108" y="636" fill="#64707c" font-size="21">Best bought when a rigid</text>
+    <text x="1108" y="668" fill="#64707c" font-size="21">cockpit already exists.</text>
+  </g>
+  <rect x="96" y="770" width="1408" height="52" rx="14" fill="#191e24"/>
+  <text x="800" y="805" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="800">PRICES ARE JULY 2026 APPROXIMATIONS · SHIPPING, TAX, AND COCKPIT EXCLUDED</text>
+</svg>

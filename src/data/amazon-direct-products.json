@@ -2018,6 +2018,24 @@
       "candidates": [],
       "resolvedAt": "2026-07-11T19:04:34.267Z"
     },
+    "turtle beach velocityone flight universal control system": {
+      "query": "Turtle Beach VelocityOne Flight Universal Control System",
+      "asin": "B09JM8SX8G",
+      "title": "Turtle Beach VelocityOne Flight Universal Control System",
+      "status": 200,
+      "error": "",
+      "candidates": ["B09JM8SX8G"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "uneekor eye mini core": {
+      "query": "Uneekor EYE MINI CORE",
+      "asin": "B0FPHVNCQ7",
+      "title": "Uneekor EYE MINI CORE Golf Launch Monitor & Simulator",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0FPHVNCQ7"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
     "thrustmaster sol r 4 hotas": {
       "query": "Thrustmaster SOL-R 4 HOTAS",
       "asin": "",

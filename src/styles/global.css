@@ -423,6 +423,27 @@ nav.primary a[aria-current] { color: var(--accent); }
 }
 
 @media (max-width: 620px) {
+  .wrap {
+    width: 100%;
+    min-width: 0;
+    padding-inline: 16px;
+  }
+  header.site .bar {
+    min-width: 0;
+    gap: 10px;
+  }
+  header.site .brand {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+  header.site .brand svg {
+    max-width: 100%;
+    height: auto;
+  }
+  header.site .btn {
+    flex: 0 0 auto;
+    padding-inline: 12px;
+  }
   .prose table,
   .spec-table {
     display: block;
@@ -737,6 +758,22 @@ img.zoomable, .zoomable img { cursor: zoom-in; transition: transform .4s ease; }
 .toc a { color: var(--dim); font-size: .9rem; display: inline-flex; gap: 8px; }
 .toc a::before { content: counter(toc, decimal-leading-zero); font-family: var(--font-mono); color: var(--accent); opacity: .7; font-size: .8rem; }
 .toc a:hover { color: var(--accent); }
+
+@media (max-width: 620px) {
+  .toc {
+    width: 100%;
+    min-width: 0;
+    padding: 15px 16px;
+  }
+  .toc li { min-width: 0; }
+  .toc a {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    width: 100%;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}
 
 /* ============================================================
    Clean Slate UI v2 — Gen X builder magazine / workshop command

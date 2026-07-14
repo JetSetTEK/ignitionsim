@@ -342,6 +342,7 @@
     "model": "EYE MINI CORE",
     "price": 1499,
     "priceNote": "approx 2026 price; Amazon-exclusive (launched Oct 2025)",
+    "amazonAsin": "B0FPHVNCQ7",
     "image": "/images/gear/golf/uneekor-eye-mini-core.jpg",
     "summary": "Uneekor's late-2025 play to drag real photometric infrared tech into the budget bracket, sold exclusively on Amazon. It tracks 15 ball data points off any standard ball (no stickers, no radar-specific balls) with near-zero latency, and is sim-ready for GSPro, E6 Connect, TGC 2019, and Creative Golf 3D. The trade-off is no clubhead data, which keeps the price down and suits practice-and-play setups that don't need fitting-grade club metrics. For the money it is one of the strongest value entries in the whole category.",
     "specs": {
@@ -740,5 +741,116 @@
     ],
     "affiliate": { "primary": "Rain or Shine Golf", "note": "Also Carl's Place, Indoor Golf Outlet, Amazon" },
     "platforms": "N/A (hitting mat)"
+  },
+  {
+    "id": "square-golf-omni",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "Square Golf",
+    "model": "Omni",
+    "price": 1599,
+    "priceNote": "announced 2026 price; verify current stock and ship date",
+    "image": "/images/gear/golf/square-golf-omni.jpg",
+    "summary": "Square's new four-camera floor unit brings the no-annual-subscription pitch to indoor and outdoor use, with a built-in data screen, removable battery and support for more than 20 ball and club metrics. Early independent indoor comparisons are encouraging; direct-sun testing is the reason to pause before calling it an outdoor replacement for radar.",
+    "specs": {
+      "Sensor": "Four infrared cameras",
+      "Use": "Indoor and outdoor, with direct-sun caveats",
+      "Battery": "Removable, approximately 6 hours claimed",
+      "Data": "20+ ball and club metrics",
+      "Software": "Square Golf software; third-party support varies",
+      "Subscription": "No required annual Square subscription"
+    },
+    "pros": [
+      "No required annual Square subscription",
+      "Built-in screen and removable battery make setup unusually self-contained",
+      "Large metric set at an aggressive launch price"
+    ],
+    "cons": [
+      "Independent outdoor direct-sun testing has shown meaningful distance discrepancies",
+      "Software ecosystem is less mature than Uneekor plus GSPro",
+      "New-product stock and fulfillment need checking before purchase"
+    ],
+    "whoFor": "Indoor-first builders who want club data and dislike recurring hardware-access fees, with occasional outdoor use rather than range-first ownership.",
+    "rating": { "overall": 8.4, "value": 9, "accuracy": 8, "valueForSpace": 9 },
+    "faqs": [
+      { "q": "Does Square Omni require a subscription?", "a": "Square markets the Omni without a required annual Square subscription. Paid third-party simulator software can still create a separate software bill." },
+      { "q": "Is Square Omni reliable outdoors?", "a": "It is advertised for indoor and outdoor use, but current independent testing found direct sunlight could produce significant distance errors. Treat outdoor use as a condition to verify, not a solved checkbox." }
+    ],
+    "affiliate": { "primary": "Verify authorized retailer", "note": "New 2026 model; verify stock, return policy and current software support before ordering." },
+    "platforms": "PC / mobile software ecosystem varies by integration"
+  },
+  {
+    "id": "golfjoy-spica-3",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "GOLFJOY",
+    "model": "Spica 3",
+    "price": 3199,
+    "priceNote": "manufacturer price checked July 2026",
+    "image": "/images/gear/golf/golfjoy-spica-3.jpg",
+    "summary": "A three-camera portable photometric unit with a built-in touchscreen, 6-7 hour battery, club data via reflective stickers and native links to GOLFJOY, GSPro, E6 Connect and Creative Golf. The hardware brief is unusually complete; the buying question is whether the extra club data and portability justify roughly twice the Nova or Omni price.",
+    "specs": {
+      "Sensor": "Three synchronized high-speed cameras with dual LED lighting",
+      "Hitting zone": "250 x 200/250 mm claimed",
+      "Battery": "12,800 mAh; 6-7 hours claimed",
+      "Club data": "Club path, speed, smash factor and attack angle with stickers",
+      "Connectivity": "Wi-Fi, Ethernet, Bluetooth and NFC",
+      "Software": "GOLFJOY, GSPro, E6 Connect and Creative Golf"
+    },
+    "pros": [
+      "Real touchscreen, long battery and broad connectivity",
+      "Measures core club-delivery data rather than only ball flight",
+      "Indoor/outdoor design works with any standard white ball"
+    ],
+    "cons": [
+      "Costs substantially more than the new $1,500-$1,600 floor units",
+      "Club metrics require reflective stickers",
+      "Brand marketing mixes measured and calculated trajectory metrics, so compare like with like"
+    ],
+    "whoFor": "The indoor/outdoor golfer who values club-delivery feedback and a self-contained screen enough to pay above the budget photometric tier.",
+    "rating": { "overall": 8.5, "value": 7.7, "accuracy": 8.5, "valueForSpace": 8.5 },
+    "faqs": [
+      { "q": "Does the Spica 3 charge an annual app fee?", "a": "GOLFJOY says the mobile app has lifetime access and includes a three-month PC software trial. GSPro, E6 and other simulator packages have their own licenses." },
+      { "q": "Does Spica 3 need club stickers?", "a": "Yes. Ball data works with standard balls, while detailed club-delivery metrics require reflective clubhead stickers." }
+    ],
+    "affiliate": { "primary": "GOLFJOY direct", "note": "No confirmed Amazon listing; verify warranty region and third-party software fees." },
+    "platforms": "PC / GOLFJOY mobile apps"
+  },
+  {
+    "id": "openlaunch-nova",
+    "bay": "golf",
+    "type": "launch-monitor",
+    "brand": "OpenLaunch",
+    "model": "Nova",
+    "price": 1500,
+    "priceNote": "manufacturer price checked July 2026",
+    "image": "/images/gear/golf/openlaunch-nova.jpg",
+    "summary": "The enthusiast-engineer choice in the new floor-unit fight: a $1,500 camera system built around open data and integrations rather than a polished walled garden. Nova publishes support for GSPro plus creator tools including OBS and Kinovea, making it interesting for builders who prize data access and DIY workflows over an all-in-one screen.",
+    "specs": {
+      "Sensor": "Camera-based floor launch monitor",
+      "Measured output": "Ball speed, launch, backspin, sidespin and related shot data",
+      "Controls": "Touch interface on unit",
+      "Integrations": "GSPro, OBS, Kinovea, TGC 2019 and creator workflows",
+      "Power": "12V adapter with 10-foot extension included",
+      "Subscription": "No added Nova fee for GSPro integration; GSPro license separate"
+    },
+    "pros": [
+      "Open-data and creator-tool philosophy is genuinely different",
+      "$1,500 hardware price with no extra Nova fee for GSPro integration",
+      "Real product photography shows a compact, practical floor installation"
+    ],
+    "cons": [
+      "Smaller support and reseller footprint than established launch-monitor brands",
+      "Less self-contained than a unit with a battery and built-in data display",
+      "Long-term accuracy and support evidence is thinner than Uneekor's"
+    ],
+    "whoFor": "Technical builders who want GSPro and data access, enjoy integrations, and accept a younger ecosystem in exchange for control.",
+    "rating": { "overall": 8.1, "value": 8.7, "accuracy": 7.8, "valueForSpace": 8.5 },
+    "faqs": [
+      { "q": "Does Nova add a fee to use GSPro?", "a": "OpenLaunch says it does not charge an additional Nova integration fee. GSPro itself is still purchased separately." },
+      { "q": "What comes with Nova?", "a": "The listed box includes the Nova system, a 12V power adapter and a 10-foot barrel-extension cable." }
+    ],
+    "affiliate": { "primary": "OpenLaunch direct", "note": "No confirmed Amazon listing; review current warranty, returns and software documentation before purchase." },
+    "platforms": "PC / open integration workflows"
   }
 ]
