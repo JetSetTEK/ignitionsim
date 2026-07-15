@@ -42,6 +42,16 @@ const gameMediaBySlug: Record<string, { image: string; alt: string; label: strin
     alt: 'MOZA R3 Xbox direct drive racing wheel bundle',
     label: 'Xbox proof',
   },
+  'american-truck-simulator': {
+    image: '/images/generated/article-covers/hori-truck-control-system-vs-moza-tsw-2026.webp',
+    alt: 'Duke Alvarez comparing real HORI and MOZA truck simulator controls on a measured workbench',
+    label: 'Truck control verdict',
+  },
+  'euro-truck-simulator-2': {
+    image: '/images/article-proofs/racing/truck-controls-2026/moza-complete-rig-official.webp',
+    alt: 'Official MOZA truck simulator cockpit with TSW wheel, dashboards, and road display',
+    label: 'Installed cab proof',
+  },
   gspro: {
     image: '/images/gear/golf/garmin-approach-r50.jpg',
     alt: 'Garmin Approach R50 launch monitor for golf simulator software',
@@ -121,7 +131,7 @@ const grouped = bays
   .filter((group) => group.games.length);
 
 const featured = (games as any[])
-  .filter((g) => ['iracing', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen', 'bridge-command', 'evercade'].includes(g.slug))
+  .filter((g) => ['iracing', 'american-truck-simulator', 'gspro', 'assetto-corsa-evo', 'microsoft-flight-simulator-2024', 'star-citizen', 'bridge-command', 'evercade'].includes(g.slug))
   .map((g) => ({ ...g, bayData: bayMap.get(g.bay), world: getWorldForBay(g.bay), media: gameMediaFor(g) }));
 
 const description = 'IgnitionSim simulator games hub: the racing, golf, flight, space, and marine sims worth building hardware around, with buyer-map links and setup traps.';

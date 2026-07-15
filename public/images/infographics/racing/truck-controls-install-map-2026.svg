@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Truck simulator desk footprint and connection map</title>
+  <desc id="desc">Installation diagram showing desk geometry and cable paths for the HORI Truck Control System and MOZA R5 Trucking Bundle.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9fbfc"/>
+      <stop offset="1" stop-color="#e7eef3"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#101820" flood-opacity=".14"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#ff6a2a"/></marker>
+    <style>
+      .k { font: 800 22px ui-monospace, monospace; fill: #ff5e1a; }
+      .h { font: 900 48px system-ui, sans-serif; fill: #101820; }
+      .sh { font: 900 30px system-ui, sans-serif; fill: #101820; }
+      .b { font: 600 22px system-ui, sans-serif; fill: #445665; }
+      .sm { font: 800 18px ui-monospace, monospace; fill: #647687; }
+      .on-dark { fill: #fff; }
+      .on-dark-warm { fill: #ffb48f; }
+      .on-dark-cool { fill: #9fddfa; }
+      .wire { stroke: #ff6a2a; stroke-width: 6; fill: none; marker-end: url(#arrow); }
+      .wire2 { stroke: #1688bd; stroke-width: 6; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1600" height="1100" rx="48" fill="url(#bg)"/>
+  <text x="80" y="82" class="k">IGNITIONSIM / INSTALL BEFORE DOWNLOAD NIGHT</text>
+  <text x="80" y="143" class="h">The truck wheel changes the whole desk.</text>
+
+  <rect x="70" y="195" width="700" height="375" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <text x="110" y="245" class="sh">1. Measure reach, not just width</text>
+  <rect x="140" y="330" width="520" height="90" rx="14" fill="#263746"/>
+  <rect x="345" y="263" width="110" height="66" rx="8" fill="#101820"/>
+  <circle cx="400" cy="455" r="96" fill="none" stroke="#ff6a2a" stroke-width="22"/>
+  <rect x="270" y="505" width="260" height="28" rx="8" fill="#6f8291"/>
+  <path d="M400 455L220 505" stroke="#101820" stroke-width="10"/>
+  <path d="M400 455L580 505" stroke="#101820" stroke-width="10"/>
+  <path d="M245 310H555" stroke="#1688bd" stroke-width="5" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="400" y="286" text-anchor="middle" class="sm">CHECK DESK CROSSBARS + CLAMP DEPTH</text>
+  <text x="110" y="552" class="b">A 400 mm rim and angled mount can move your torso back.</text>
+
+  <rect x="830" y="195" width="700" height="375" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <text x="870" y="245" class="sh">2. Protect the sightline</text>
+  <rect x="900" y="295" width="280" height="150" rx="14" fill="#101820"/>
+  <rect x="930" y="320" width="220" height="100" rx="8" fill="#1d91d0" opacity=".34"/>
+  <circle cx="1320" cy="435" r="64" fill="#d7e0e7" stroke="#101820" stroke-width="8"/>
+  <path d="M1255 420H1145" class="wire2"/>
+  <text x="870" y="500" class="b">If the wheel pushes you back 30 cm, the same monitor</text>
+  <text x="870" y="533" class="b">looks smaller. Move the display forward before buying bigger.</text>
+
+  <rect x="70" y="625" width="700" height="385" rx="30" fill="#101820" filter="url(#shadow)"/>
+  <text x="110" y="677" class="sh on-dark">HORI: four connections, two USB paths</text>
+  <rect x="110" y="730" width="150" height="82" rx="16" fill="#ff6a2a"/>
+  <text x="185" y="780" text-anchor="middle" class="sm on-dark">WHEEL</text>
+  <rect x="390" y="730" width="150" height="82" rx="16" fill="#fff"/>
+  <text x="465" y="780" text-anchor="middle" class="sm">PC USB</text>
+  <rect x="110" y="885" width="150" height="82" rx="16" fill="#fff"/>
+  <text x="185" y="935" text-anchor="middle" class="sm">PEDALS</text>
+  <rect x="390" y="885" width="150" height="82" rx="16" fill="#fff"/>
+  <text x="465" y="935" text-anchor="middle" class="sm">SHIFTER</text>
+  <rect x="590" y="730" width="135" height="82" rx="16" fill="#fff"/>
+  <text x="657" y="780" text-anchor="middle" class="sm">POWER</text>
+  <path d="M260 771H390" class="wire"/>
+  <path d="M185 885V812" class="wire"/>
+  <path d="M540 926H620V812" class="wire"/>
+  <path d="M590 771H540" class="wire"/>
+  <text x="110" y="995" class="sm on-dark-warm">UPDATE DRIVER + SHIFTER FIRMWARE BEFORE MAPPING</text>
+
+  <rect x="830" y="625" width="700" height="385" rx="30" fill="#153b4e" filter="url(#shadow)"/>
+  <text x="870" y="677" class="sh on-dark">MOZA: base first, truck controls are add-ons</text>
+  <rect x="870" y="730" width="145" height="82" rx="16" fill="#1d91d0"/>
+  <text x="942" y="780" text-anchor="middle" class="sm on-dark">R5 BASE</text>
+  <rect x="1135" y="730" width="145" height="82" rx="16" fill="#fff"/>
+  <text x="1207" y="780" text-anchor="middle" class="sm">PC USB</text>
+  <rect x="870" y="885" width="145" height="82" rx="16" fill="#fff"/>
+  <text x="942" y="935" text-anchor="middle" class="sm">2 PEDALS</text>
+  <rect x="1135" y="885" width="145" height="82" rx="16" fill="#fff"/>
+  <text x="1207" y="935" text-anchor="middle" class="sm">HGP / STALKS</text>
+  <rect x="1340" y="730" width="145" height="82" rx="16" fill="#fff"/>
+  <text x="1412" y="780" text-anchor="middle" class="sm">POWER</text>
+  <path d="M1015 771H1135" class="wire2"/>
+  <path d="M942 885V812" class="wire2"/>
+  <path d="M1280 926H1320V812" class="wire2"/>
+  <path d="M1340 771H1280" class="wire2"/>
+  <text x="870" y="995" class="sm on-dark-cool">PRICE THE CLUTCH, SHIFTER AND STALKS BEFORE CHECKOUT</text>
+
+  <text x="800" y="1064" text-anchor="middle" class="sm">THE BORING CHECKLIST SAVES THE EXCITING WEEKEND.</text>
+</svg>

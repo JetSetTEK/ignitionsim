@@ -96,6 +96,16 @@
         "image": "/images/curator-scenes/duke-tactile-diagnostic-driver.webp",
         "alt": "AI editorial scene of Duke Alvarez diagnosing tactile feedback from the driver seat",
         "task": "Separating useful telemetry from vibration theater"
+      },
+      {
+        "image": "/images/curator-scenes/truck-controls-2026/duke-truck-seating-geometry.webp",
+        "alt": "AI editorial scene of Duke Alvarez measuring seating geometry with a full-size cardboard truck-wheel template",
+        "task": "Proving the 400 mm wheel fits before the card comes out"
+      },
+      {
+        "image": "/images/curator-scenes/truck-controls-2026/duke-truck-cable-routing.webp",
+        "alt": "AI editorial scene of Duke Alvarez labeling USB and power cables beneath a truck simulator desk",
+        "task": "Routing the truck desk so firmware night stays boring"
       }
     ],
     "nina-brooks": [

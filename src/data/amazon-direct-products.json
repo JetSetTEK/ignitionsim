@@ -2036,6 +2036,42 @@
       "candidates": ["B0FPHVNCQ7"],
       "resolvedAt": "2026-07-15T00:00:00.000Z"
     },
+    "hori truck control system": {
+      "query": "HORI Truck Control System",
+      "asin": "B0D36621HM",
+      "title": "HORI Truck Control System for Windows PC",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0D36621HM"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "moza r5 trucking bundle": {
+      "query": "MOZA R5 Trucking Bundle",
+      "asin": "B0DTSNB3J6",
+      "title": "MOZA R5 Trucking Bundle with TSW Wheel",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0DTSNB3J6"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "moza multi function stalks": {
+      "query": "MOZA Multi-Function Stalks",
+      "asin": "B0DPM2CS52",
+      "title": "MOZA Multi-Function Stalks",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0DPM2CS52"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "moza hgp shifter": {
+      "query": "MOZA HGP Shifter",
+      "asin": "B0DHHJ3R7S",
+      "title": "MOZA HGP Shifter",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0DHHJ3R7S"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
     "thrustmaster sol r 4 hotas": {
       "query": "Thrustmaster SOL-R 4 HOTAS",
       "asin": "",

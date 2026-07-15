@@ -1,24 +1,24 @@
 {
   "summary": {
-    "generated": "2026-07-15T09:46:50.876Z",
+    "generated": "2026-07-15T12:53:29.301Z",
     "totals": {
-      "all": 119,
-      "certified": 85
+      "all": 120,
+      "certified": 86
     },
     "certified": {
-      "averageScore": 66.1,
-      "averageWords": 2346,
-      "averageSourceUrls": 9.9,
-      "averageUniqueImages": 8.3,
+      "averageScore": 66.4,
+      "averageWords": 2354.5,
+      "averageSourceUrls": 10,
+      "averageUniqueImages": 8.4,
       "averageHumanUseImages": 1.2,
       "averageCuratorScenes": 0.5,
-      "averageDiagrams": 1.3,
+      "averageDiagrams": 1.4,
       "gradeCounts": {
         "D": 52,
         "C": 20,
         "B": 2,
         "A": 5,
-        "A+": 6
+        "A+": 7
       },
       "revenueATriage": [
         "racing/triple-monitor-vs-ultrawide-vs-vr-2026",
@@ -4759,6 +4759,40 @@
         "practicalDiagrams": 8,
         "answerStructure": 7,
         "commerceIntegrity": 3
+      },
+      "gaps": []
+    },
+    {
+      "id": "racing/hori-truck-control-system-vs-moza-tsw-2026",
+      "title": "HORI Truck Control System vs MOZA TSW/R5 in 2026: The Truck-Sim Wheel You Should Actually Buy",
+      "bay": "racing",
+      "author": "Duke Alvarez",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 99,
+      "grade": "A+",
+      "words": 3080,
+      "sourceUrls": 17,
+      "imagePlacements": 18,
+      "uniqueImages": 16,
+      "imageUniqueness": 0.89,
+      "productImages": 12,
+      "humanUseImages": 4,
+      "curatorScenes": 4,
+      "diagrams": 5,
+      "amazonLinks": 4,
+      "directAmazonLinks": 4,
+      "dimensions": {
+        "decisionDepth": 15,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 8.9,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
       },
       "gaps": []
     },

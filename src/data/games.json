@@ -273,6 +273,38 @@
     "officialUrl": "https://www.bridgecommand.co.uk/"
   },
   {
+    "slug": "american-truck-simulator",
+    "name": "American Truck Simulator",
+    "bay": "racing",
+    "type": "truck driving simulator",
+    "signal": "The dedicated truck-control buying test.",
+    "bestFor": "Long-haul drivers, map explorers, fleet role-players, and builders who want a relaxed driving cockpit with serious control depth.",
+    "hardwareThatMatters": "A 400 mm truck wheel, reachable shifter and range/splitter controls, stalks or labeled buttons, stable pedals, and a monitor close enough to survive the deeper seating position.",
+    "watchTheTrap": "A premium wheel does not replace truck controls. Price the shifter, clutch, stalks, mounts, USB, and desk depth before comparing bundles.",
+    "guideIds": [
+      "racing/hori-truck-control-system-vs-moza-tsw-2026",
+      "racing/button-box-vs-stream-deck-2026",
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026"
+    ],
+    "officialUrl": "https://americantrucksimulator.com/"
+  },
+  {
+    "slug": "euro-truck-simulator-2",
+    "name": "Euro Truck Simulator 2",
+    "bay": "racing",
+    "type": "truck driving simulator",
+    "signal": "The long-running truck-cockpit rabbit hole.",
+    "bestFor": "Drivers who want deep map coverage, long routes, manual control routines, and a simulator that turns a desk into a working cab.",
+    "hardwareThatMatters": "Large wheel, range/splitter workflow, indicator and wiper controls, three pedals for manual play, and seating geometry that keeps the display close.",
+    "watchTheTrap": "Do not buy 1800-degree steering before measuring the desk. A large wheel and angled base can move you far enough back to make the monitor feel smaller.",
+    "guideIds": [
+      "racing/hori-truck-control-system-vs-moza-tsw-2026",
+      "racing/button-box-vs-stream-deck-2026",
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026"
+    ],
+    "officialUrl": "https://eurotrucksimulator2.com/"
+  },
+  {
     "slug": "evercade",
     "name": "Evercade",
     "bay": "racing",

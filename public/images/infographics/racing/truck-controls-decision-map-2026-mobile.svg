@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1500" viewBox="0 0 900 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile truck simulator wheel decision map</title>
+  <desc id="desc">Three large mobile-friendly routes for choosing HORI, MOZA, or an existing wheel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset=".55" stop-color="#253849"/><stop offset="1" stop-color="#542919"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000" flood-opacity=".3"/></filter>
+    <style>
+      .k{font:800 26px ui-monospace,monospace;fill:#ff7b3d}.h{font:900 58px system-ui,sans-serif;fill:#fff}.n{font:900 42px system-ui,sans-serif;fill:#101820}.b{font:600 31px system-ui,sans-serif;fill:#425564}.w{fill:#fff}.m{font:800 25px ui-monospace,monospace;fill:#fff}.arrow{stroke:#ffb247;stroke-width:8;fill:none;stroke-linecap:round}
+    </style>
+  </defs>
+  <rect width="900" height="1500" rx="42" fill="url(#bg)"/>
+  <text x="55" y="72" class="k">IGNITIONSIM / DUKE'S VERDICT</text>
+  <text x="55" y="140" class="h">Which truck wheel?</text>
+  <text x="55" y="195" class="m">START WITH THE JOB, NOT THE BOX.</text>
+
+  <rect x="55" y="250" width="790" height="310" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="125" cy="325" r="38" fill="#ff6a2a"/><text x="125" y="340" text-anchor="middle" class="n w">1</text>
+  <text x="190" y="320" class="n">Dedicated ATS / ETS2?</text>
+  <text x="95" y="390" class="b">You want stalks, three pedals, a</text>
+  <text x="95" y="435" class="b">range/splitter shifter, and mapped</text>
+  <text x="95" y="480" class="b">truck controls in one purchase.</text>
+  <rect x="95" y="505" width="710" height="70" rx="18" fill="#ff6a2a"/><text x="450" y="551" text-anchor="middle" class="n w">BUY HORI</text>
+
+  <path d="M450 580V620" class="arrow"/>
+  <rect x="55" y="630" width="790" height="310" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="125" cy="705" r="38" fill="#2098d2"/><text x="125" y="720" text-anchor="middle" class="n w">2</text>
+  <text x="190" y="700" class="n">Other driving sims too?</text>
+  <text x="95" y="770" class="b">You want direct-drive feel, better</text>
+  <text x="95" y="815" class="b">materials, software tuning, and an</text>
+  <text x="95" y="860" class="b">ecosystem you can expand later.</text>
+  <rect x="95" y="885" width="710" height="70" rx="18" fill="#2098d2"/><text x="450" y="931" text-anchor="middle" class="n w">BUY MOZA</text>
+
+  <path d="M450 960V1000" class="arrow"/>
+  <rect x="55" y="1010" width="790" height="310" rx="30" fill="#f1f5f7" filter="url(#shadow)"/>
+  <circle cx="125" cy="1085" r="38" fill="#526777"/><text x="125" y="1100" text-anchor="middle" class="n w">3</text>
+  <text x="190" y="1080" class="n">Still proving the habit?</text>
+  <text x="95" y="1150" class="b">Run the wheel you own. Learn which</text>
+  <text x="95" y="1195" class="b">keyboard actions annoy you before a</text>
+  <text x="95" y="1240" class="b">$500+ dedicated control purchase.</text>
+  <rect x="95" y="1265" width="710" height="70" rx="18" fill="#526777"/><text x="450" y="1311" text-anchor="middle" class="n w">KEEP YOUR WHEEL</text>
+
+  <text x="450" y="1415" text-anchor="middle" class="m">MOZA = BETTER STEERING SYSTEM</text>
+  <text x="450" y="1460" text-anchor="middle" class="m">HORI = BETTER COMPLETE APPLIANCE</text>
+</svg>
