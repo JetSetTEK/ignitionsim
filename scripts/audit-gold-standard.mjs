@@ -89,12 +89,15 @@ for (const file of walk(path.join(root, 'src/content/articles')).sort()) {
     const faqCount = (source.match(/^\s*-\s+q:\s+/gm) || []).length;
     const diagramImages = imgs.filter((ref) => /infographic|diagram|map|ladder|geometry|wiring|timeline|flow|decision/i.test(ref));
     const realProofImages = imgs.filter((ref) => /article-proofs|gear|official|installed|installation|setup|use|manual|screenshot/i.test(ref));
+    const curatorScenes = imgs.filter((ref) => /\/images\/curator-scenes\//i.test(ref));
     if (!crewNames.has(data.author)) failures.push(`${rel}: v2 author must match a complete IgnitionSim curator`);
     for (const field of ['sourceReviewDate', 'revenueTier', 'contentCluster']) {
       if (!data[field]) failures.push(`${rel}: v2 certification requires ${field}`);
     }
     if (uniqueImages.size < 10) failures.push(`${rel}: v2 requires at least 10 unique inline visuals`);
     if (realProofImages.length < 6) failures.push(`${rel}: v2 requires at least 6 real product/use/install/manual/screenshot visuals`);
+    if (curatorScenes.length < 4) failures.push(`${rel}: v2 requires 4 distinct in-context curator scenes`);
+    if (/class=["'][^"']*shotgrid/i.test(source)) failures.push(`${rel}: v2 forbids clumped product shotgrids; proof must be woven inline`);
     if (data.revenueTier === 'A' && diagramImages.length < 2) failures.push(`${rel}: v2 Tier A requires at least 2 practical diagrams`);
     if (sources.size < 8) failures.push(`${rel}: v2 requires at least 8 distinct source URLs`);
     if (faqCount < 4) failures.push(`${rel}: v2 requires at least 4 FAQ questions`);

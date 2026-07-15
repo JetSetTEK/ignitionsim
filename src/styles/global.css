@@ -506,11 +506,25 @@ nav.primary a[aria-current] { color: var(--accent); }
 .proof-wide img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
   margin: 0;
   border: 0;
   border-radius: 0;
+}
+.proof-wide.product-proof {
+  background:
+    radial-gradient(540px 260px at 84% 12%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 72%),
+    #f7f9fb;
+}
+.proof-wide.product-proof img {
+  padding: clamp(10px, 2vw, 26px);
+  background: transparent;
+}
+.proof-wide.curator-proof img,
+.proof-wide.use-proof img {
+  padding: 0;
 }
 .proof-wide figcaption {
   margin: 0;

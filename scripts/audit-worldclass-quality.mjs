@@ -69,7 +69,7 @@ function scoreArticle(file) {
     imageUniqueness: uniqueRatio * 10,
     productProof: Math.min(10, productImages.length / 6 * 10),
     humanUseProof: Math.min(10, humanUseImages.length / 2 * 10),
-    curatorAction: Math.min(10, curatorScenes.length / 2 * 10),
+    curatorAction: Math.min(10, curatorScenes.length / 4 * 10),
     practicalDiagrams: Math.min(8, diagrams.length / 2 * 8),
     answerStructure: Math.min(7, headings / 8 * 4 + faqs / 5 * 3),
     commerceIntegrity: amazon.length ? directAmazon.length / amazon.length * 5 : 3,
@@ -81,7 +81,8 @@ function scoreArticle(file) {
   if (uniqueImages.length < 10) gaps.push('unique images');
   if (uniqueRatio < 0.7) gaps.push('repeated image monotony');
   if (humanUseImages.length < 1) gaps.push('real use/install proof');
-  if (curatorScenes.length < 1) gaps.push('curator action');
+  if (curatorScenes.length < 4) gaps.push('four distinct curator actions');
+  if (/class=["'][^"']*shotgrid/i.test(body)) gaps.push('clumped marketplace image grid');
   if (diagrams.length < 1) gaps.push('practical diagram');
   if (amazon.length && directAmazon.length !== amazon.length) gaps.push('non-direct Amazon link');
   return {

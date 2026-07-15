@@ -10,8 +10,8 @@ updatedDate: 2026-07-15
 heroImage: "/images/article-proofs/flight/yoke-buy-now-wait-2026/tca-hero.jpg"
 heroAlt: "Official Thrustmaster TCA Sky Yoke product photograph showing the integrated yoke controls and desk clamp"
 excerpt: "The new $199 TCA Sky Yoke changes the console answer, but not every answer. Val separates the PS5 wait, the complete Xbox buy, the modular Honeycomb build, and the MOZA force-feedback leap."
-featured: true
-goldStatus: "certified"
+featured: false
+goldStatus: "refresh"
 goldCertifiedDate: 2026-07-15
 sourceReviewDate: 2026-07-15
 revenueTier: "A"

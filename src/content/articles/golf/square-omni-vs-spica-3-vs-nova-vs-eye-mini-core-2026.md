@@ -10,8 +10,8 @@ updatedDate: "2026-07-15"
 heroImage: "/images/article-proofs/golf/floor-launch-monitors-2026/square-omni-19.jpg"
 heroAlt: "Square Golf Omni floor launch monitor operating on a turf hitting area"
 excerpt: "Four camera-based floor units are fighting over the $1,500-$3,200 simulator bay. Nina sorts the subscription tax, sunlight risk, club-data promises, software gates, and the one each buyer should actually take home."
-featured: true
-goldStatus: "certified"
+featured: false
+goldStatus: "refresh"
 goldCertifiedDate: "2026-07-15"
 sourceReviewDate: "2026-07-15"
 revenueTier: "A"

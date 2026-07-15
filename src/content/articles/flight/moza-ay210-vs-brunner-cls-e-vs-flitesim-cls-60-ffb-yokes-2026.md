@@ -50,19 +50,18 @@ The dangerous thing about force feedback is that the shopping page sells force w
 
 ## What are you really buying with a force-feedback yoke?
 
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-installed.jpg" alt="Official MOZA AY210 force-feedback yoke base installed on a simulator desk" loading="lazy"><figcaption>MOZA's base is deep and substantial. The yoke handle, mounting choice, pitch clearance, and power brick belong in the budget. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
+
 You are buying a closed loop between the simulator, an aircraft model, vendor software, a motorized mechanism, and your hands. If any link is weak, the yoke can still function as a USB axis, but the expensive part of the experience becomes generic or wrong.
 
-<div class="shotgrid">
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-installed.jpg" alt="Official MOZA AY210 force-feedback yoke base installed on a simulator desk" loading="lazy"><figcaption>MOZA's base is deep and substantial. The yoke handle, mounting choice, pitch clearance, and power brick belong in the budget. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-base.png" alt="Official close product view of the MOZA AY210 force-feedback base" loading="lazy"><figcaption>The control head and shaft make the service envelope visible. This is not a shallow spring yoke. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-use.jpg" alt="Official installed MOZA AY210 yoke base showing pitch shaft and controls" loading="lazy"><figcaption>Front controls are useful only if the final panel and handle leave them reachable. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-mk2.png" alt="Official Brunner CLS-E MK II force-feedback yoke product photo" loading="lazy"><figcaption>Brunner is the control-loading incumbent: less mass-market sparkle, more training-system lineage. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-rear.png" alt="Official rear and side view of the Brunner CLS-E force-feedback yoke" loading="lazy"><figcaption>Rear depth, cable exits, and chassis mass matter to a panel builder more than a beauty angle. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-underdesk.jpg" alt="Real FliteSim CLS-60 force-feedback yoke installed beneath a desk" loading="lazy"><figcaption>Under-desk mounting is not cosmetic. It can put the shaft at a believable height and reclaim chart space. <span class="source-credit">Official FliteSim installation media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-dimensions.jpg" alt="Official FliteSim CLS-60 mounting dimensions diagram" loading="lazy"><figcaption>The drawing to print before checkout: 165 mm of pitch travel needs room in both directions. <span class="source-credit">Official FliteSim documentation</span></figcaption></figure>
-</div>
 
 ## Which yoke wins for most enthusiasts?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-yoke-flight-load.webp" alt="Val evaluates force feedback from the seat: control loading, trim movement, stall cues, and whether the shoulder can stay relaxed." loading="lazy"><figcaption><b>Val evaluates force feedback from the seat: control loading, trim movement, stall cues, and whether the shoulder can stay relaxed.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Force feedback is valuable when it communicates aircraft state. Vibration alone is theater.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-base.png" alt="Official close product view of the MOZA AY210 force-feedback base" loading="lazy"><figcaption>The control head and shaft make the service envelope visible. This is not a shallow spring yoke. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
 
 **MOZA AY210 wins the broad enthusiast recommendation, with one large asterisk: price the complete system.** MOZA specifies 9 Nm sustained roll torque, 210 N pitch force, 150 mm of pitch travel, plus or minus 90 degrees of roll, a 15-bit magnetic encoder, and a 1000 Hz response rate. The base is 243 by 403 by 216 mm and weighs 8 kg. It is a PC product drawing up to 216 W, not something to hang from a thin particleboard lip.
 
@@ -72,6 +71,8 @@ For someone building a serious but still recreational cockpit, AY210 is the clea
 
 ## When is Brunner worth the premium?
 
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-use.jpg" alt="Official installed MOZA AY210 yoke base showing pitch shaft and controls" loading="lazy"><figcaption>Front controls are useful only if the final panel and handle leave them reachable. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
+
 **Buy Brunner when the simulator is a procedure and control-loading instrument first, entertainment second.** The CLS-E MK II sits in a mature ecosystem built around control loading, trim, autopilot behavior, networking, and professional-adjacent use. That maturity is why training-minded pilots keep it on the shortlist even as less expensive hardware arrives with louder specifications.
 
 The premium buys lineage and integration, not immunity from configuration. Brunner's software and simulator connection path require study. Panel builders need to account for the mechanism, clearances, mounting, and cable service. The home enthusiast who wants a dramatic upgrade for weekend bush flights can spend less. The instrument pilot building a repeatable station for known aircraft may value Brunner's conservatism.
@@ -79,6 +80,8 @@ The premium buys lineage and integration, not immunity from configuration. Brunn
 This is the caveat product in the good sense: expensive enough that you should document the exact aircraft, simulator, connector software, and mounting plan before speaking to the vendor. If those questions feel excessive, Brunner is probably not your lane.
 
 ## Why would you choose FliteSim CLS-60 or CLS-120?
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-mk2.png" alt="Official Brunner CLS-E MK II force-feedback yoke product photo" loading="lazy"><figcaption>Brunner is the control-loading incumbent: less mass-market sparkle, more training-system lineage. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
 
 **Choose FliteSim when pitch travel, modular training hardware, and shared instruction are higher priorities than slick mass-market integration.** The CLS-60 publishes 60 N maximum pitch force, 165 mm pitch travel, and plus or minus 90 degrees of roll. The chassis is all metal, weighs about 9.2 kg, and can be configured for on-desk or under-desk mounting with removable tabs. An upgrade path to the 120 N CLS-120 is part of the appeal.
 
@@ -89,6 +92,12 @@ The ownership warnings are equally concrete. FliteSim's April 2026 setup guide t
 ![Force-feedback yoke decision map for MOZA, Brunner and FliteSim](/images/infographics/flight/ffb-yoke-decision-map-2026.svg)
 
 ## What will installation actually consume?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/val-msfs-cockpit-tuning-original.webp" alt="Val checks yoke reach, mount height, and cable service space inside a complete cockpit station." loading="lazy"><figcaption><b>Val checks yoke reach, mount height, and cable service space inside a complete cockpit station.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>The base weight is only the first number. Measure clamp reach, desk thickness, shaft travel, knees, power brick, and cable bend radius.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-rear.png" alt="Official rear and side view of the Brunner CLS-E force-feedback yoke" loading="lazy"><figcaption>Rear depth, cable exits, and chassis mass matter to a panel builder more than a beauty angle. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
 
 Plan the installation in five layers.
 
@@ -108,6 +117,8 @@ Plan the installation in five layers.
 
 ## What do owners love after the honeymoon?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-underdesk.jpg" alt="Real FliteSim CLS-60 force-feedback yoke installed beneath a desk" loading="lazy"><figcaption>Under-desk mounting is not cosmetic. It can put the shaft at a believable height and reclaim chart space. <span class="source-credit">Official FliteSim installation media</span></figcaption></figure>
+
 The repeated positive is **trim becoming physical**. Pilots stop trimming by watching a number and start trimming to relieve pressure. Autopilot movement can stop feeling like invisible software. Slow-flight, flare, turbulence, stall onset, and heavy-control aircraft become easier to distinguish when profiles are credible.
 
 The second love is repeatability. A known aircraft profile can return the yoke to a familiar force curve without changing springs or elastic bands. Instructors and shared-cockpit users gain even more from synchronization and replay functions.
@@ -115,6 +126,14 @@ The second love is repeatability. A known aircraft profile can return the yoke t
 The third is restraint. Experienced users tend to lower the fireworks after the first week. Engine vibration and runway texture can be useful, but authentic control loading and trim are the meal. If every event rattles the yoke, the information turns into noise.
 
 ## What makes people regret or return one?
+
+Fresh July 2026 owner discussion makes the verdict more nuanced. Pilots praise the AY210 as an unusually strong value and repeatedly say that going back to a spring yoke is difficult after genuine control loading. The counter-pattern is equally important: some owners describe software freezes, telemetry that was never activated, yokes that felt like vibration plus centering, plastic fit issues, or slow international support. One user only reached the expected behavior after launching the simulator through MOZA Cockpit until telemetry reported active. Buy the hardware, but reserve the return window for commissioning rather than admiration.
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-yoke-software-calibration.webp" alt="Val calibrates physical motion against a known test profile instead of judging a fresh install by one dramatic effect." loading="lazy"><figcaption><b>Val calibrates physical motion against a known test profile instead of judging a fresh install by one dramatic effect.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Do not decide whether FFB works from a runway rumble. Confirm telemetry, trim movement, centering, autopilot behavior, and stall loading separately.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-dimensions.jpg" alt="Official FliteSim CLS-60 mounting dimensions diagram" loading="lazy"><figcaption>The drawing to print before checkout: 165 mm of pitch travel needs room in both directions. <span class="source-credit">Official FliteSim documentation</span></figcaption></figure>
 
 The returns begin with physical surprise: weight, depth, handle cost, mount cost, under-desk interference, and the amount of pitch travel. The software surprises are next: profiles, firmware, aircraft-specific behavior, duplicate bindings, and the occasional evening lost to a configuration that worked yesterday.
 

@@ -48,20 +48,14 @@ Premium throttles are unusually easy to buy with your eyes. Metal toggles. backl
 
 ## What does each throttle do best?
 
-<div class="shotgrid">
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-main.jpg" alt="Official VKB STECS Mk II Standard premium throttle product photo" loading="lazy"><figcaption>STECS Standard is the system thinker: base, grips, detent frames, and modules form a configurable whole. <span class="source-credit">Official VKB product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-side.jpg" alt="Official side view of VKB STECS Mk II throttle showing grip reach and lever travel" loading="lazy"><figcaption>The side view reveals the important question: where the wrist and fingers land across full travel. <span class="source-credit">Official VKB product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-modules.jpg" alt="Official VKB STECS modular button and detent components" loading="lazy"><figcaption>Modularity is not decoration. It lets one throttle serve civil, combat, and space profiles without pretending they share one ideal detent. <span class="source-credit">Official VKB product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-prime.png" alt="Official Virpil VMAX Prime premium metal throttle product photo" loading="lazy"><figcaption>VMAX Prime concentrates seven axes and 49 physical button inputs into a polished, compact premium unit. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-detents.png" alt="Official Virpil VMAX Prime detent plate options diagram" loading="lazy"><figcaption>Classic Plus, Warthog, Aerobatic, and CosmoSim detents are included; placement still needs calibration. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-hero.jpg" alt="Official WINCTRL Orion2 throttle base and F-15EX grip product media" loading="lazy"><figcaption>Orion2 sells aircraft identity: dense metal controls and a grip layout that makes most sense inside DCS. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-control.jpg" alt="Official close view of WINCTRL Orion2 F-15EX throttle controls" loading="lazy"><figcaption>Control density can reduce keyboard work, but only if the physical labels and software profile agree. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-installed.jpg" alt="Real pilot using an installed WINCTRL Orion2 throttle in a simulator cockpit" loading="lazy"><figcaption>Mounted near elbow height, the unit stops being a desk object and begins behaving like a cockpit control. <span class="source-credit">Official WINCTRL use media</span></figcaption></figure>
-</div>
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-main.jpg" alt="Official VKB STECS Mk II Standard premium throttle product photo" loading="lazy"><figcaption>STECS Standard is the system thinker: base, grips, detent frames, and modules form a configurable whole. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+
 
 ![Premium throttle fit map for VKB STECS, Virpil VMAX Prime and WINCTRL Orion2](/images/infographics/flight/premium-throttle-fit-map-2026.svg)
 
 ## Why is VKB STECS the least-regret choice?
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-side.jpg" alt="Official side view of VKB STECS Mk II throttle showing grip reach and lever travel" loading="lazy"><figcaption>The side view reveals the important question: where the wrist and fingers land across full travel. <span class="source-credit">Official VKB product media</span></figcaption></figure>
 
 **STECS wins when the buyer flies more than one kind of machine.** The Mk II Standard bundle combines twin throttle axes, modular detent frames, swappable controls, front-panel inputs, and VKB's deep configuration software. It is unusually good at becoming a different throttle instead of forcing every aircraft into one physical story.
 
@@ -73,6 +67,8 @@ Choose STECS if you fly DCS today, Elite or Star Citizen tomorrow, and MSFS on S
 
 ## Who should buy Virpil VMAX Prime?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-modules.jpg" alt="Official VKB STECS modular button and detent components" loading="lazy"><figcaption>Modularity is not decoration. It lets one throttle serve civil, combat, and space profiles without pretending they share one ideal detent. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+
 **VMAX Prime is for the builder who wants a compact premium throttle and already accepts a mounted cockpit.** Virpil lists seven total axes and 49 physical button inputs, with metal handles, rubber grip pads, adjustable tension, swappable input modules, and included Classic Plus, Warthog, Aerobatic, and CosmoSim detent options.
 
 The ergonomic redesign is the buy case. Virpil moved away from simply cramming inputs onto the older shape and emphasizes natural hand position and reduced crowding. The contactless ministick, twin axes, encoders, toggles, and mode dial make it capable across fixed-wing, rotary, and space use.
@@ -83,6 +79,8 @@ VMAX Prime is the emotional pick that still has an engineering case. It feels li
 
 ## When is WINCTRL Orion2 F-15EX the better buy?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-prime.png" alt="Official Virpil VMAX Prime premium metal throttle product photo" loading="lazy"><figcaption>VMAX Prime concentrates seven axes and 49 physical button inputs into a polished, compact premium unit. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
+
 **Orion2 is the value winner for a pilot who wants specific combat-aircraft controls, especially for DCS.** The metal base and F-15EX-style grip deliver a dense layout at a price that often undercuts boutique European hardware. The appeal is immediate: switches and levers that look like they belong to a combat jet rather than a universal peripheral.
 
 The risk is equally consistent in owner discussions. Happy users praise hardware value and aircraft feel. Unhappy users describe uneven support, shipping, quality-control, or software experiences. That does not make every Orion2 a gamble; it does make the return route and regional storefront part of the product.
@@ -92,6 +90,12 @@ SimApp Pro is not optional background. It handles configuration, profiles, and d
 Orion2 is the correct buy when you can say, “I want this F-15EX control language for DCS,” not merely, “It has the most metal for the money.”
 
 ## Which one fits a desk, mount, and human arm?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-throttle-seated-reach.webp" alt="Val sets throttle height from the seated elbow, then marks the rail. Ergonomics are measured in the body, not the catalog." loading="lazy"><figcaption><b>Val sets throttle height from the seated elbow, then marks the rail. Ergonomics are measured in the body, not the catalog.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>If your shoulder lifts at military power, the mount is wrong even when the throttle is excellent.</p></div>
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-detents.png" alt="Official Virpil VMAX Prime detent plate options diagram" loading="lazy"><figcaption>Classic Plus, Warthog, Aerobatic, and CosmoSim detents are included; placement still needs calibration. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
 
 The fit test takes fifteen minutes and prevents a year of micro-annoyance.
 
@@ -109,6 +113,12 @@ A desktop throttle often sits too high. This produces shoulder elevation and wri
 
 ## How should detents be commissioned?
 
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-throttle-detent-swap-v2.webp" alt="Val swaps a detent frame at the bench and keeps the screws, profile, and calibration notes together." loading="lazy"><figcaption><b>Val swaps a detent frame at the bench and keeps the screws, profile, and calibration notes together.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>A detent is a physical promise. Calibrate the software range after every mechanical change or the promise becomes a dead zone.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-hero.jpg" alt="Official WINCTRL Orion2 throttle base and F-15EX grip product media" loading="lazy"><figcaption>Orion2 sells aircraft identity: dense metal controls and a grip layout that makes most sense inside DCS. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
+
 **Choose the aircraft behavior before fitting the plastic or metal.** Idle cutoff, ground idle, flight idle, military power, afterburner, reverse, and center detent are different jobs. Write the profile's intended aircraft at the top of the page.
 
 Fit the detent and set lever tension. Calibrate the raw physical axis through its entire travel. Record the percentage where the simulator recognizes each gate. Only then apply curves or saturation. Test a cold start, taxi/idle behavior, full military power, afterburner or reverse, and shutdown.
@@ -116,6 +126,8 @@ Fit the detent and set lever tension. Calibrate the raw physical axis through it
 Do not solve a wrong physical detent with a heroic software curve if moving the plate is the honest fix. Save one profile per aircraft family and name it with the simulator, aircraft, detent set, and date.
 
 ## How should one throttle serve DCS, MSFS, and space sims?
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-control.jpg" alt="Official close view of WINCTRL Orion2 F-15EX throttle controls" loading="lazy"><figcaption>Control density can reduce keyboard work, but only if the physical labels and software profile agree. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
 
 Do not make one universal profile carry three incompatible ideas of power. Build three shallow layers with the same emergency logic.
 
@@ -138,6 +150,14 @@ STECS owners repeatedly value adaptability, detent options, and the fact that co
 Across all three, the biggest upgrade is not immersion language. It is reducing keyboard reach. Engine starts, radar work, sensors, countermeasures, speed brakes, flaps, and mode changes become physical habits. That makes a complex simulator calmer.
 
 ## What causes regret?
+
+The current owner split is sharper than a feature table suggests. STECS keeps winning multi-airframe recommendations because the button modules, front-mounted ministick, software depth, and changeable detents solve practical reuse. VMAX attracts buyers who prioritize metal finish and premium feel, but several experienced owners question its grip ergonomics. Orion2 earns fierce loyalty for aircraft-specific control density and metal tactility, while support history and software are the recurring caveats. This is not quality versus quality; it is adaptable system versus premium object versus replica identity.
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-throttle-mount-audit.webp" alt="Val watches a second pilot move the throttle through full travel and catches a cable snag that a product photo could never reveal." loading="lazy"><figcaption><b>Val watches a second pilot move the throttle through full travel and catches a cable snag that a product photo could never reveal.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Commission from idle to stop with the cable connected and the chair occupied. The last ten percent of travel finds every lazy mount.</p></div>
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-installed.jpg" alt="Real pilot using an installed WINCTRL Orion2 throttle in a simulator cockpit" loading="lazy"><figcaption>Mounted near elbow height, the unit stops being a desk object and begins behaving like a cockpit control. <span class="source-credit">Official WINCTRL use media</span></figcaption></figure>
 
 The first regret is buying before mounting. The second is discovering the ministick or hats do not suit the buyer's hand. The third is assuming one detent profile will feel correct in every aircraft. The fourth is support friction after a damaged shipment or failed input.
 

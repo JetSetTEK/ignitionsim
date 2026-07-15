@@ -362,6 +362,24 @@ meet v2. Older certified pages are grandfathered only to avoid taking the site
 offline; they remain in a revenue-weighted rescue queue and do not establish a
 precedent for new work.
 
+V2 also locks the following inline-proof gate:
+
+- Do not use `.shotgrid` or any equivalent micro-collage in a certified guide.
+  Product, installation, control, and use evidence must appear individually
+  beside the decision it supports.
+- Render `.proof-wide` images at their natural ratio with `object-fit: contain`;
+  never crop a product, connector, mounting diagram, or setup to fill a frame.
+- Include at least four distinct curator actions: orient the build, measure or
+  install something, challenge a weak assumption, and demonstrate the finished
+  simulator experience.
+- Label AI-assisted scenes honestly and never use them as product proof.
+- Owner evidence must be allowed to change the verdict, not merely decorate an
+  opinion already written.
+- Tier A buyer guides require at least two practical, legible diagrams in
+  addition to real product and use photography.
+- Failures move to `goldStatus: "refresh"`; `npm run gold-audit` must pass before
+  certification is restored.
+
 The build-level curator audit applies immediately to every crew member. New v2
 article checks apply by certification date so the gate is strict without
 pretending the legacy backlog is already repaired.

@@ -50,19 +50,14 @@ FlightSimBuilder and RealSimGear are easier to judge because people can already 
 
 ## What does each G1000 system actually look like?
 
-<div class="shotgrid">
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-pfd.webp" alt="Official FlightSimBuilder G1000 TNxi PFD hardware product photo" loading="lazy"><figcaption>FlightSimBuilder PFD: physical bezel, knobs, softkeys, and optional touch behavior in a value-focused system. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-mfd.webp" alt="Official FlightSimBuilder G1000 TNxi MFD hardware product photo" loading="lazy"><figcaption>The MFD is not merely a second monitor. The physical controls and aircraft profile must agree with its role. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-installed.jpg" alt="Official FlightSimBuilder G1000 box and shipped hardware scale proof" loading="lazy"><figcaption>Box proof matters to a trainer buyer: measure the station before two large avionics units and their mounts arrive. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-suite.jpg" alt="Official RealSimGear G1000 PFD MFD and audio panel suite product photo" loading="lazy"><figcaption>RealSimGear's buy case is the suite: PFD, MFD, audio panel, stand, and a known procedure-training shape. <span class="source-credit">Official RealSimGear product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-use.jpg" alt="Real person using the installed RealSimGear G1000 PFD and MFD suite" loading="lazy"><figcaption>The real-use view exposes the width and hand travel. Two panels consume a serious part of a desk. <span class="source-credit">Official RealSimGear use media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-front.png" alt="Official MOZA MGX1000 10.4 inch glass cockpit panel front product photo" loading="lazy"><figcaption>MGX1000 arrives with excellent paper value: true-size 10.4-inch IPS, physical controls, and a $449 announced price. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-rear.png" alt="Official rear view of MOZA MGX1000 showing VESA mount and cable connections" loading="lazy"><figcaption>The rear tells the engineering story: VESA mounting, USB/DisplayLink architecture, power, and service clearance. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
-</div>
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-pfd.webp" alt="Official FlightSimBuilder G1000 TNxi PFD hardware product photo" loading="lazy"><figcaption>FlightSimBuilder PFD: physical bezel, knobs, softkeys, and optional touch behavior in a value-focused system. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
+
 
 ![G1000 hardware decision map for FlightSimBuilder, RealSimGear and MOZA](/images/infographics/flight/g1000-hardware-decision-map-2026.svg)
 
 ## Why is FlightSimBuilder the value recommendation?
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-mfd.webp" alt="Official FlightSimBuilder G1000 TNxi MFD hardware product photo" loading="lazy"><figcaption>The MFD is not merely a second monitor. The physical controls and aircraft profile must agree with its role. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
 
 **FlightSimBuilder makes the strongest current case for a flexible enthusiast trainer.** Its current G1000 TNxi product offers touchscreen and non-touch variants and is supported by FlightSimBuilder Hub software. The touchscreen option is valuable when the aircraft or workflow needs interaction beyond the traditional G1000 bezel, and the system is priced well below a full RealSimGear suite.
 
@@ -74,6 +69,12 @@ The caveat is consistency. Verify whether the exact aircraft needs touch, whethe
 
 ## Why does RealSimGear cost more?
 
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-g1000-procedure-flight.webp" alt="Val uses a generic glass-cockpit trainer to test the only premium question that matters: does the hardware improve the procedure, or merely decorate the desk?" loading="lazy"><figcaption><b>Val uses a generic glass-cockpit trainer to test the only premium question that matters: does the hardware improve the procedure, or merely decorate the desk?</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>A premium panel earns its keep when the hand goes to the right knob without a translation step.</p></div>
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-installed.jpg" alt="Official FlightSimBuilder G1000 box and shipped hardware scale proof" loading="lazy"><figcaption>Box proof matters to a trainer buyer: measure the station before two large avionics units and their mounts arrive. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
+
 **RealSimGear charges for maturity, suite cohesion, and a training-first product.** The current G1000 suite packages PFD, MFD, and audio-panel hardware and offers documented setup for MSFS 2020/2024 alongside other simulator paths. The physical stand and published cutout dimensions make panel integration more predictable.
 
 This is the lower-regret premium choice for a buyer building a conventional G1000/G1000 NXi procedure station. The controls, bezels, and dual-screen layout are already a known system rather than a collection of clever panels.
@@ -84,6 +85,8 @@ RealSimGear is the best choice when the exact aircraft fit is known and the buye
 
 ## Is MOZA MGX1000 the new value king?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-suite.jpg" alt="Official RealSimGear G1000 PFD MFD and audio panel suite product photo" loading="lazy"><figcaption>RealSimGear's buy case is the suite: PFD, MFD, audio panel, stand, and a known procedure-training shape. <span class="source-credit">Official RealSimGear product media</span></figcaption></figure>
+
 **On paper, yes. In July 2026, the correct verdict is still wait for owner proof.** MOZA lists a $449 price per unit, a 10.4-inch 1024 by 768 IPS display, 500-nit brightness, 304 by 201 by 66.8 mm dimensions, 1.17 kg weight, 75 by 75 VESA mounting, PC support, and early-August dispatch timing.
 
 The unusual decision is DisplayLink. MGX1000 is not described as consuming a conventional HDMI or DisplayPort output from the GPU. That can simplify GPU output limits and physical cabling, but it transfers risk into USB bandwidth, drivers, MOZA Cockpit integration, latency, and multi-unit behavior. Those are not automatic failures. They are exactly what shipping reviews must test.
@@ -93,6 +96,12 @@ The hardware appears ambitious and sensibly priced. MOZA has also demonstrated a
 Buy MGX1000 early only if testing new hardware is part of the fun and the return route is clear. Do not buy it as the foundation for a deadline-bound training station before those answers exist.
 
 ## Which avionics variants are not interchangeable?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-g1000-depth-gauge.webp" alt="Val measures the panel depth, mount clearance, and connector service space before treating any bezel as interchangeable." loading="lazy"><figcaption><b>Val measures the panel depth, mount clearance, and connector service space before treating any bezel as interchangeable.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>A front dimension tells you what fits in a photograph. Rear clearance tells you what fits in a build.</p></div>
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-use.jpg" alt="Real person using the installed RealSimGear G1000 PFD and MFD suite" loading="lazy"><figcaption>The real-use view exposes the width and hand travel. Two panels consume a serious part of a desk. <span class="source-credit">Official RealSimGear use media</span></figcaption></figure>
 
 G1000, G1000 NXi, G3000, and Cirrus Perspective share visual DNA but not identical physical control layouts or workflows. Even within G1000 families, aircraft makers and simulator developers can implement pages, softkeys, audio controls, autopilot functions, and touchscreen behavior differently.
 
@@ -107,6 +116,12 @@ Build an aircraft matrix before purchase:
 | Aspirational aircraft | Unknown | Unknown | Do not assume | Do not assume | Wait |
 
 ## How hard is the USB and display setup?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-g1000-cable-route-v2.webp" alt="Val labels USB, display, and power paths before the panels are buried in a cockpit shell." loading="lazy"><figcaption><b>Val labels USB, display, and power paths before the panels are buried in a cockpit shell.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Commission one panel first, record its ports, then add the second. Mystery USB problems love simultaneous installs.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-front.png" alt="Official MOZA MGX1000 10.4 inch glass cockpit panel front product photo" loading="lazy"><figcaption>MGX1000 arrives with excellent paper value: true-size 10.4-inch IPS, physical controls, and a $449 announced price. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
 
 Treat two avionics panels as a small system, not “two monitors.” There is screen output, button/knob input, vendor connector software, simulator pop-outs, aircraft profiles, power, mounting, and Windows device recovery.
 
@@ -123,6 +138,10 @@ Physical knobs and softkeys turn procedure rehearsal into hand memory. Flight pl
 Training-minded owners value repeatable flows. The panel can be excellent for practicing a procedure already taught correctly, rehearsing a flight, and reducing cockpit unfamiliarity. RealSimGear earns praise for tactile fidelity and a mature suite; FlightSimBuilder earns attention for value and flexibility.
 
 ## What causes returns or disappointment?
+
+The most expensive disappointment is buying by bezel resemblance while ignoring software architecture. A two-panel trainer can add multiple displays, USB devices, power supplies, and a mounting problem at once. Owners who report stable procedure stations tend to commission one device at a time, preserve a known-good port map, and verify the exact aircraft or avionics variant before panel fabrication. The value decision is therefore not simply panel price: it is the cost of a repeatable, supportable station.
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-rear.png" alt="Official rear view of MOZA MGX1000 showing VESA mount and cable connections" loading="lazy"><figcaption>The rear tells the engineering story: VESA mounting, USB/DisplayLink architecture, power, and service clearance. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
 
 The biggest source of disappointment is aircraft mismatch. The next is setup overhead: pop-outs, connector software, Windows display behavior, and more cables than the product photo suggests. Desk width and monitor placement surprise buyers. Touch expectations can also be wrong: not every panel or aircraft uses touch in the same way.
 

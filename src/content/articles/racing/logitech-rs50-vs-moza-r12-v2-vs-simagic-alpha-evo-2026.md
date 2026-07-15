@@ -10,8 +10,8 @@ updatedDate: "2026-07-15"
 heroImage: "/images/article-proofs/racing/midrange-ecosystems-2026/logitech-rs50-desk.jpg"
 heroAlt: "Driver using a Logitech RS50 direct-drive wheel and RS H-shifter at a racing desk"
 excerpt: "Three ecosystems, three very different bills. Duke prices the wheel, load-cell brake, mount, platform license, and future rim before deciding where a real $1,500 goes."
-featured: true
-goldStatus: "certified"
+featured: false
+goldStatus: "refresh"
 goldCertifiedDate: "2026-07-15"
 sourceReviewDate: "2026-07-15"
 revenueTier: "A"

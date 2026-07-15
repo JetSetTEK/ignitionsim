@@ -1,24 +1,24 @@
 {
   "summary": {
-    "generated": "2026-07-15T00:34:22.484Z",
+    "generated": "2026-07-15T07:01:53.990Z",
     "totals": {
       "all": 119,
-      "certified": 88
+      "certified": 85
     },
     "certified": {
-      "averageScore": 67,
-      "averageWords": 2317.8,
+      "averageScore": 65.9,
+      "averageWords": 2331.5,
       "averageSourceUrls": 9.8,
       "averageUniqueImages": 8.3,
       "averageHumanUseImages": 1.2,
-      "averageCuratorScenes": 0.3,
-      "averageDiagrams": 1.4,
+      "averageCuratorScenes": 0.5,
+      "averageDiagrams": 1.3,
       "gradeCounts": {
-        "D": 50,
+        "D": 52,
         "C": 20,
-        "B": 4,
+        "B": 2,
         "A": 5,
-        "A+": 9
+        "A+": 6
       },
       "revenueATriage": [
         "racing/triple-monitor-vs-ultrawide-vs-vr-2026",
@@ -55,24 +55,24 @@
         "flight/best-flight-sim-hardware-2026",
         "space/best-hotas-for-star-citizen",
         "space/best-hotas-throttle-dcs-2026",
+        "racing/evercade-physical-cartridge-sim-room-2026",
         "flight/flightsimexpo-2026-hardware-buyer-map",
+        "golf/gspro-review-2026",
         "racing/direct-drive-2026-do-you-need-it",
         "flight/best-gpu-for-sim-racing-flight-2026",
         "racing/best-sim-racing-monitors-triple-vs-ultrawide-2026",
         "flight/best-vr-headset-for-sim-2026",
         "racing/best-sim-racing-setup-under-1000-2026",
-        "racing/evercade-physical-cartridge-sim-room-2026",
         "golf/garmin-r50-room-build-bible-2026",
         "golf/premium-overhead-golf-launch-monitors-2026",
-        "golf/gspro-review-2026",
         "racing/sim-racing-handbrake-shifter-guide-2026",
+        "flight/microsoft-flight-simulator-2024-review-2026",
         "golf/premium-launch-monitor-room-fit-2026",
+        "marine/bridge-command-review-2026",
+        "space/star-citizen-review-2026",
         "golf/budget-launch-monitor-war-2026",
         "golf/golf-simulator-projector-guide",
         "racing/best-sim-racing-motion-platforms-2026",
-        "flight/microsoft-flight-simulator-2024-review-2026",
-        "marine/bridge-command-review-2026",
-        "space/star-citizen-review-2026",
         "racing/best-sim-racing-cockpits-and-seats-2026",
         "racing/iracing-review-2026"
       ]
@@ -115,7 +115,7 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -157,7 +157,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -197,7 +198,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -237,7 +239,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -276,7 +279,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -317,7 +320,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -358,7 +362,8 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -398,7 +403,8 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -438,7 +444,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -478,7 +485,7 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -518,7 +525,8 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -557,7 +565,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -598,7 +607,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -639,7 +649,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -679,7 +690,7 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -718,7 +729,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -759,7 +770,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -800,7 +812,8 @@
         "source evidence",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -840,7 +853,8 @@
         "decision depth",
         "source evidence",
         "unique images",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -879,7 +893,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -920,7 +935,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -961,7 +977,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1002,7 +1019,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1042,7 +1060,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1082,7 +1101,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1122,7 +1142,8 @@
         "decision depth",
         "source evidence",
         "unique images",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -1162,7 +1183,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -1201,7 +1223,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1241,7 +1264,7 @@
         "source evidence",
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -1279,7 +1302,8 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1318,7 +1342,8 @@
       "gaps": [
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1358,7 +1383,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1398,7 +1424,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1438,7 +1465,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1478,7 +1506,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1518,7 +1547,8 @@
         "decision depth",
         "source evidence",
         "unique images",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -1557,7 +1587,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1597,7 +1628,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1636,7 +1668,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -1675,7 +1707,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1715,7 +1748,8 @@
         "decision depth",
         "source evidence",
         "unique images",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -1754,7 +1788,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1794,7 +1829,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1834,7 +1870,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1874,7 +1911,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1914,7 +1952,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1954,7 +1993,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -1994,7 +2034,8 @@
         "source evidence",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2033,7 +2074,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -2074,7 +2115,8 @@
         "source evidence",
         "unique images",
         "repeated image monotony",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -2113,7 +2155,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2153,7 +2196,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2193,7 +2237,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2233,7 +2278,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2273,7 +2319,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2313,7 +2360,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2353,7 +2401,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2393,7 +2442,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2433,7 +2483,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2473,7 +2524,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2512,7 +2564,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -2551,7 +2603,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2591,7 +2644,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2630,7 +2684,8 @@
       "gaps": [
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2669,7 +2724,8 @@
       "gaps": [
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2708,7 +2764,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -2747,7 +2803,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2787,7 +2844,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2826,7 +2884,8 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2866,7 +2925,47 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "racing/evercade-physical-cartridge-sim-room-2026",
+      "title": "Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room?",
+      "bay": "racing",
+      "author": "Mac Donovan",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 64,
+      "grade": "D",
+      "words": 1350,
+      "sourceUrls": 4,
+      "imagePlacements": 13,
+      "uniqueImages": 10,
+      "imageUniqueness": 0.77,
+      "productImages": 5,
+      "humanUseImages": 0,
+      "curatorScenes": 2,
+      "diagrams": 2,
+      "amazonLinks": 2,
+      "directAmazonLinks": 2,
+      "dimensions": {
+        "decisionDepth": 8.4,
+        "sourceEvidence": 6,
+        "imageBreadth": 8.3,
+        "imageUniqueness": 7.7,
+        "productProof": 8.3,
+        "humanUseProof": 0,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 6.8,
+        "commerceIntegrity": 5
+      },
+      "gaps": [
+        "decision depth",
+        "source evidence",
+        "real use/install proof",
+        "four distinct curator actions"
       ]
     },
     {
@@ -2904,7 +3003,8 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2943,7 +3043,8 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -2982,7 +3083,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -3020,7 +3121,8 @@
       "gaps": [
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3059,8 +3161,48 @@
       "gaps": [
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
+      ]
+    },
+    {
+      "id": "golf/gspro-review-2026",
+      "title": "GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around?",
+      "bay": "golf",
+      "author": "Nina Brooks",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 66,
+      "grade": "D",
+      "words": 1049,
+      "sourceUrls": 6,
+      "imagePlacements": 13,
+      "uniqueImages": 10,
+      "imageUniqueness": 0.77,
+      "productImages": 8,
+      "humanUseImages": 0,
+      "curatorScenes": 2,
+      "diagrams": 3,
+      "amazonLinks": 1,
+      "directAmazonLinks": 1,
+      "dimensions": {
+        "decisionDepth": 6.6,
+        "sourceEvidence": 9,
+        "imageBreadth": 8.3,
+        "imageUniqueness": 7.7,
+        "productProof": 10,
+        "humanUseProof": 0,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 6.3,
+        "commerceIntegrity": 5
+      },
+      "gaps": [
+        "decision depth",
+        "source evidence",
+        "real use/install proof",
+        "four distinct curator actions"
       ]
     },
     {
@@ -3098,7 +3240,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -3138,7 +3280,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3177,7 +3320,7 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -3215,7 +3358,8 @@
       "gaps": [
         "unique images",
         "repeated image monotony",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3255,7 +3399,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3293,7 +3438,8 @@
       "gaps": [
         "unique images",
         "repeated image monotony",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3333,7 +3479,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3372,7 +3519,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3410,46 +3558,9 @@
       "gaps": [
         "unique images",
         "repeated image monotony",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
-      ]
-    },
-    {
-      "id": "racing/evercade-physical-cartridge-sim-room-2026",
-      "title": "Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room?",
-      "bay": "racing",
-      "author": "Mac Donovan",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 69,
-      "grade": "C",
-      "words": 1350,
-      "sourceUrls": 4,
-      "imagePlacements": 13,
-      "uniqueImages": 10,
-      "imageUniqueness": 0.77,
-      "productImages": 5,
-      "humanUseImages": 0,
-      "curatorScenes": 2,
-      "diagrams": 2,
-      "amazonLinks": 2,
-      "directAmazonLinks": 2,
-      "dimensions": {
-        "decisionDepth": 8.4,
-        "sourceEvidence": 6,
-        "imageBreadth": 8.3,
-        "imageUniqueness": 7.7,
-        "productProof": 8.3,
-        "humanUseProof": 0,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 6.8,
-        "commerceIntegrity": 5
-      },
-      "gaps": [
-        "decision depth",
-        "source evidence",
-        "real use/install proof"
       ]
     },
     {
@@ -3488,7 +3599,8 @@
         "source evidence",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3526,7 +3638,8 @@
       "gaps": [
         "decision depth",
         "unique images",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3562,7 +3675,8 @@
         "commerceIntegrity": 3
       },
       "gaps": [
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3599,7 +3713,8 @@
         "commerceIntegrity": 3
       },
       "gaps": [
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3637,7 +3752,8 @@
       },
       "gaps": [
         "unique images",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
       ]
     },
@@ -3677,45 +3793,8 @@
         "unique images",
         "repeated image monotony",
         "real use/install proof",
-        "curator action"
-      ]
-    },
-    {
-      "id": "golf/gspro-review-2026",
-      "title": "GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around?",
-      "bay": "golf",
-      "author": "Nina Brooks",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 71,
-      "grade": "C",
-      "words": 1049,
-      "sourceUrls": 6,
-      "imagePlacements": 13,
-      "uniqueImages": 10,
-      "imageUniqueness": 0.77,
-      "productImages": 8,
-      "humanUseImages": 0,
-      "curatorScenes": 2,
-      "diagrams": 3,
-      "amazonLinks": 1,
-      "directAmazonLinks": 1,
-      "dimensions": {
-        "decisionDepth": 6.6,
-        "sourceEvidence": 9,
-        "imageBreadth": 8.3,
-        "imageUniqueness": 7.7,
-        "productProof": 10,
-        "humanUseProof": 0,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 6.3,
-        "commerceIntegrity": 5
-      },
-      "gaps": [
-        "decision depth",
-        "source evidence",
-        "real use/install proof"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -3752,8 +3831,49 @@
       },
       "gaps": [
         "unique images",
-        "curator action",
+        "four distinct curator actions",
+        "clumped marketplace image grid",
         "practical diagram"
+      ]
+    },
+    {
+      "id": "flight/microsoft-flight-simulator-2024-review-2026",
+      "title": "Microsoft Flight Simulator 2024 Review 2026: Is It Still the Home Cockpit King?",
+      "bay": "flight",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 72,
+      "grade": "C",
+      "words": 813,
+      "sourceUrls": 7,
+      "imagePlacements": 13,
+      "uniqueImages": 9,
+      "imageUniqueness": 0.69,
+      "productImages": 6,
+      "humanUseImages": 4,
+      "curatorScenes": 2,
+      "diagrams": 3,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 5.1,
+        "sourceEvidence": 10.5,
+        "imageBreadth": 7.5,
+        "imageUniqueness": 6.9,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 6.3,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "decision depth",
+        "source evidence",
+        "unique images",
+        "repeated image monotony",
+        "four distinct curator actions"
       ]
     },
     {
@@ -3790,7 +3910,46 @@
       },
       "gaps": [
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "marine/bridge-command-review-2026",
+      "title": "Bridge Command Review 2026: The DIY Ship Bridge Simulator for Builders",
+      "bay": "marine",
+      "author": "Gus Calder",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 73,
+      "grade": "C",
+      "words": 757,
+      "sourceUrls": 7,
+      "imagePlacements": 13,
+      "uniqueImages": 11,
+      "imageUniqueness": 0.85,
+      "productImages": 5,
+      "humanUseImages": 2,
+      "curatorScenes": 2,
+      "diagrams": 4,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 4.7,
+        "sourceEvidence": 10.5,
+        "imageBreadth": 9.2,
+        "imageUniqueness": 8.5,
+        "productProof": 8.3,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 6.3,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "decision depth",
+        "source evidence",
+        "four distinct curator actions"
       ]
     },
     {
@@ -3827,7 +3986,7 @@
       },
       "gaps": [
         "unique images",
-        "curator action",
+        "four distinct curator actions",
         "practical diagram"
       ]
     },
@@ -3865,7 +4024,7 @@
       },
       "gaps": [
         "unique images",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -3903,7 +4062,45 @@
       "gaps": [
         "unique images",
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
+      ]
+    },
+    {
+      "id": "space/star-citizen-review-2026",
+      "title": "Star Citizen Review 2026: Is It Worth Building HOSAS Around Yet?",
+      "bay": "space",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 74,
+      "grade": "C",
+      "words": 850,
+      "sourceUrls": 7,
+      "imagePlacements": 13,
+      "uniqueImages": 10,
+      "imageUniqueness": 0.77,
+      "productImages": 8,
+      "humanUseImages": 2,
+      "curatorScenes": 2,
+      "diagrams": 3,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 5.3,
+        "sourceEvidence": 10.5,
+        "imageBreadth": 8.3,
+        "imageUniqueness": 7.7,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 6.3,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "decision depth",
+        "source evidence",
+        "four distinct curator actions"
       ]
     },
     {
@@ -3940,7 +4137,7 @@
       },
       "gaps": [
         "real use/install proof",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -3977,7 +4174,7 @@
       },
       "gaps": [
         "source evidence",
-        "curator action"
+        "four distinct curator actions"
       ]
     },
     {
@@ -4015,120 +4212,8 @@
       "gaps": [
         "unique images",
         "repeated image monotony",
-        "curator action"
-      ]
-    },
-    {
-      "id": "flight/microsoft-flight-simulator-2024-review-2026",
-      "title": "Microsoft Flight Simulator 2024 Review 2026: Is It Still the Home Cockpit King?",
-      "bay": "flight",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 77,
-      "grade": "C",
-      "words": 813,
-      "sourceUrls": 7,
-      "imagePlacements": 13,
-      "uniqueImages": 9,
-      "imageUniqueness": 0.69,
-      "productImages": 6,
-      "humanUseImages": 4,
-      "curatorScenes": 2,
-      "diagrams": 3,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 5.1,
-        "sourceEvidence": 10.5,
-        "imageBreadth": 7.5,
-        "imageUniqueness": 6.9,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 6.3,
-        "commerceIntegrity": 3
-      },
-      "gaps": [
-        "decision depth",
-        "source evidence",
-        "unique images",
-        "repeated image monotony"
-      ]
-    },
-    {
-      "id": "marine/bridge-command-review-2026",
-      "title": "Bridge Command Review 2026: The DIY Ship Bridge Simulator for Builders",
-      "bay": "marine",
-      "author": "Gus Calder",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 78,
-      "grade": "B",
-      "words": 757,
-      "sourceUrls": 7,
-      "imagePlacements": 13,
-      "uniqueImages": 11,
-      "imageUniqueness": 0.85,
-      "productImages": 5,
-      "humanUseImages": 2,
-      "curatorScenes": 2,
-      "diagrams": 4,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 4.7,
-        "sourceEvidence": 10.5,
-        "imageBreadth": 9.2,
-        "imageUniqueness": 8.5,
-        "productProof": 8.3,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 6.3,
-        "commerceIntegrity": 3
-      },
-      "gaps": [
-        "decision depth",
-        "source evidence"
-      ]
-    },
-    {
-      "id": "space/star-citizen-review-2026",
-      "title": "Star Citizen Review 2026: Is It Worth Building HOSAS Around Yet?",
-      "bay": "space",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 79,
-      "grade": "B",
-      "words": 850,
-      "sourceUrls": 7,
-      "imagePlacements": 13,
-      "uniqueImages": 10,
-      "imageUniqueness": 0.77,
-      "productImages": 8,
-      "humanUseImages": 2,
-      "curatorScenes": 2,
-      "diagrams": 3,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 5.3,
-        "sourceEvidence": 10.5,
-        "imageBreadth": 8.3,
-        "imageUniqueness": 7.7,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 6.3,
-        "commerceIntegrity": 3
-      },
-      "gaps": [
-        "decision depth",
-        "source evidence"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -4166,7 +4251,8 @@
       "gaps": [
         "unique images",
         "repeated image monotony",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -4203,7 +4289,8 @@
       },
       "gaps": [
         "source evidence",
-        "curator action"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -4239,147 +4326,8 @@
         "commerceIntegrity": 3
       },
       "gaps": [
-        "curator action"
-      ]
-    },
-    {
-      "id": "flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026",
-      "title": "FlightSimBuilder G1000 vs RealSimGear G1000 vs MOZA MGX1000: Best Glass Cockpit Hardware in 2026",
-      "bay": "flight",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 88,
-      "grade": "A",
-      "words": 1867,
-      "sourceUrls": 13,
-      "imagePlacements": 10,
-      "uniqueImages": 10,
-      "imageUniqueness": 1,
-      "productImages": 7,
-      "humanUseImages": 4,
-      "curatorScenes": 1,
-      "diagrams": 2,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 11.7,
-        "sourceEvidence": 15,
-        "imageBreadth": 8.3,
-        "imageUniqueness": 10,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 5,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
-    },
-    {
-      "id": "flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026",
-      "title": "MOZA AY210 vs Brunner CLS-E MK II vs FliteSim CLS-60: Which Force-Feedback Yoke Is Worth It in 2026?",
-      "bay": "flight",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 89,
-      "grade": "A",
-      "words": 2040,
-      "sourceUrls": 12,
-      "imagePlacements": 10,
-      "uniqueImages": 10,
-      "imageUniqueness": 1,
-      "productImages": 7,
-      "humanUseImages": 3,
-      "curatorScenes": 1,
-      "diagrams": 3,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 12.8,
-        "sourceEvidence": 15,
-        "imageBreadth": 8.3,
-        "imageUniqueness": 10,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 5,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
-    },
-    {
-      "id": "marine/marine-sim-twin-engine-throttle-controls-2026",
-      "title": "Best Twin-Engine Marine Sim Throttle Controls 2026: Honeycomb Bravo vs TCA vs Leo Bodnar DIY",
-      "bay": "marine",
-      "author": "Gus Calder",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 89,
-      "grade": "A",
-      "words": 1690,
-      "sourceUrls": 10,
-      "imagePlacements": 15,
-      "uniqueImages": 12,
-      "imageUniqueness": 0.8,
-      "productImages": 12,
-      "humanUseImages": 3,
-      "curatorScenes": 1,
-      "diagrams": 5,
-      "amazonLinks": 2,
-      "directAmazonLinks": 2,
-      "dimensions": {
-        "decisionDepth": 10.6,
-        "sourceEvidence": 15,
-        "imageBreadth": 10,
-        "imageUniqueness": 8,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 5,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 5
-      },
-      "gaps": [
-        "decision depth"
-      ]
-    },
-    {
-      "id": "space/star-citizen-mining-salvage-control-deck-2026",
-      "title": "Star Citizen Mining and Salvage Control Deck 2026: Stream Deck, Real Axes, and Patch-Safe Bindings",
-      "bay": "space",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 89,
-      "grade": "A",
-      "words": 1648,
-      "sourceUrls": 12,
-      "imagePlacements": 14,
-      "uniqueImages": 12,
-      "imageUniqueness": 0.86,
-      "productImages": 11,
-      "humanUseImages": 3,
-      "curatorScenes": 1,
-      "diagrams": 3,
-      "amazonLinks": 1,
-      "directAmazonLinks": 1,
-      "dimensions": {
-        "decisionDepth": 10.3,
-        "sourceEvidence": 15,
-        "imageBreadth": 10,
-        "imageUniqueness": 8.6,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 5,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 5
-      },
-      "gaps": [
-        "decision depth"
+        "four distinct curator actions",
+        "clumped marketplace image grid"
       ]
     },
     {
@@ -4389,8 +4337,8 @@
       "author": "Duke Alvarez",
       "status": "certified",
       "revenueTier": "A",
-      "score": 90,
-      "grade": "A+",
+      "score": 88,
+      "grade": "A",
       "words": 3277,
       "sourceUrls": 14,
       "imagePlacements": 24,
@@ -4409,56 +4357,25 @@
         "imageUniqueness": 7.1,
         "productProof": 10,
         "humanUseProof": 10,
-        "curatorAction": 5,
+        "curatorAction": 2.5,
         "practicalDiagrams": 8,
         "answerStructure": 7,
         "commerceIntegrity": 3
       },
-      "gaps": []
-    },
-    {
-      "id": "flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026",
-      "title": "VKB STECS Mk II vs Virpil VMAX Prime vs WINCTRL Orion2 F-15EX: Best Premium HOTAS Throttle in 2026",
-      "bay": "flight",
-      "author": "Val Chen",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 91,
-      "grade": "A+",
-      "words": 2069,
-      "sourceUrls": 12,
-      "imagePlacements": 12,
-      "uniqueImages": 12,
-      "imageUniqueness": 1,
-      "productImages": 8,
-      "humanUseImages": 2,
-      "curatorScenes": 1,
-      "diagrams": 3,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 12.9,
-        "sourceEvidence": 15,
-        "imageBreadth": 10,
-        "imageUniqueness": 10,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 5,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
     },
     {
       "id": "racing/logitech-rs50-vs-moza-r12-v2-vs-simagic-alpha-evo-2026",
       "title": "Logitech RS50 vs MOZA R12 V2 vs Simagic Alpha EVO 12: The $1,500 Ecosystem Decision",
       "bay": "racing",
       "author": "Duke Alvarez",
-      "status": "certified",
+      "status": "refresh",
       "revenueTier": "A",
-      "score": 91,
-      "grade": "A+",
+      "score": 88,
+      "grade": "A",
       "words": 2001,
       "sourceUrls": 11,
       "imagePlacements": 14,
@@ -4477,21 +4394,172 @@
         "imageUniqueness": 10,
         "productProof": 10,
         "humanUseProof": 10,
+        "curatorAction": 2.5,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
+      "title": "Foresight GCQuad vs GC3 vs Falcon 2026: Which Foresight Launch Monitor Should You Buy?",
+      "bay": "golf",
+      "author": "Nina Brooks",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 89,
+      "grade": "A",
+      "words": 2100,
+      "sourceUrls": 12,
+      "imagePlacements": 15,
+      "uniqueImages": 12,
+      "imageUniqueness": 0.8,
+      "productImages": 10,
+      "humanUseImages": 3,
+      "curatorScenes": 2,
+      "diagrams": 2,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 13.1,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 8,
+        "productProof": 10,
+        "humanUseProof": 10,
         "curatorAction": 5,
         "practicalDiagrams": 8,
         "answerStructure": 7,
         "commerceIntegrity": 3
       },
-      "gaps": []
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "golf/luxury-golf-simulator-room-build-25000-2026",
+      "title": "Luxury Golf Simulator Room Build 2026: The $25K Buy-Once-Cry-Once Plan That Is Actually Worth It",
+      "bay": "golf",
+      "author": "Nina Brooks",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 89,
+      "grade": "A",
+      "words": 2217,
+      "sourceUrls": 12,
+      "imagePlacements": 14,
+      "uniqueImages": 11,
+      "imageUniqueness": 0.79,
+      "productImages": 9,
+      "humanUseImages": 3,
+      "curatorScenes": 2,
+      "diagrams": 3,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 13.9,
+        "sourceEvidence": 15,
+        "imageBreadth": 9.2,
+        "imageUniqueness": 7.9,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "racing/flagship-direct-drive-wheelbase-buyer-map-2026",
+      "title": "Flagship Direct Drive Wheelbase Buyer Map 2026: Simucube vs Asetek vs Simagic vs Fanatec",
+      "bay": "racing",
+      "author": "Duke Alvarez",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 89,
+      "grade": "A",
+      "words": 2078,
+      "sourceUrls": 11,
+      "imagePlacements": 15,
+      "uniqueImages": 12,
+      "imageUniqueness": 0.8,
+      "productImages": 9,
+      "humanUseImages": 3,
+      "curatorScenes": 2,
+      "diagrams": 2,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 13,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 8,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "racing/simucube-activepedal-pro-vs-moza-mbooster-2026",
+      "title": "Simucube ActivePedal Pro vs MOZA mBooster 2026: Is an Active Pedal Finally Worth It?",
+      "bay": "racing",
+      "author": "Duke Alvarez",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 90,
+      "grade": "A+",
+      "words": 2068,
+      "sourceUrls": 12,
+      "imagePlacements": 16,
+      "uniqueImages": 14,
+      "imageUniqueness": 0.88,
+      "productImages": 11,
+      "humanUseImages": 3,
+      "curatorScenes": 2,
+      "diagrams": 4,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 12.9,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 8.8,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 5,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
     },
     {
       "id": "golf/square-omni-vs-spica-3-vs-nova-vs-eye-mini-core-2026",
       "title": "Square Omni vs Spica 3 vs Nova vs EYE MINI CORE: The 2026 Floor Launch Monitor Fight",
       "bay": "golf",
       "author": "Nina Brooks",
-      "status": "certified",
+      "status": "refresh",
       "revenueTier": "A",
-      "score": 93,
+      "score": 91,
       "grade": "A+",
       "words": 2243,
       "sourceUrls": 13,
@@ -4511,123 +4579,24 @@
         "imageUniqueness": 9.4,
         "productProof": 10,
         "humanUseProof": 10,
-        "curatorAction": 5,
+        "curatorAction": 2.5,
         "practicalDiagrams": 8,
         "answerStructure": 7,
         "commerceIntegrity": 5
       },
-      "gaps": []
-    },
-    {
-      "id": "golf/foresight-gcquad-vs-gc3-vs-falcon-2026",
-      "title": "Foresight GCQuad vs GC3 vs Falcon 2026: Which Foresight Launch Monitor Should You Buy?",
-      "bay": "golf",
-      "author": "Nina Brooks",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 94,
-      "grade": "A+",
-      "words": 2100,
-      "sourceUrls": 12,
-      "imagePlacements": 15,
-      "uniqueImages": 12,
-      "imageUniqueness": 0.8,
-      "productImages": 10,
-      "humanUseImages": 3,
-      "curatorScenes": 2,
-      "diagrams": 2,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 13.1,
-        "sourceEvidence": 15,
-        "imageBreadth": 10,
-        "imageUniqueness": 8,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
-    },
-    {
-      "id": "golf/luxury-golf-simulator-room-build-25000-2026",
-      "title": "Luxury Golf Simulator Room Build 2026: The $25K Buy-Once-Cry-Once Plan That Is Actually Worth It",
-      "bay": "golf",
-      "author": "Nina Brooks",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 94,
-      "grade": "A+",
-      "words": 2217,
-      "sourceUrls": 12,
-      "imagePlacements": 14,
-      "uniqueImages": 11,
-      "imageUniqueness": 0.79,
-      "productImages": 9,
-      "humanUseImages": 3,
-      "curatorScenes": 2,
-      "diagrams": 3,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 13.9,
-        "sourceEvidence": 15,
-        "imageBreadth": 9.2,
-        "imageUniqueness": 7.9,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
-    },
-    {
-      "id": "racing/flagship-direct-drive-wheelbase-buyer-map-2026",
-      "title": "Flagship Direct Drive Wheelbase Buyer Map 2026: Simucube vs Asetek vs Simagic vs Fanatec",
-      "bay": "racing",
-      "author": "Duke Alvarez",
-      "status": "certified",
-      "revenueTier": "A",
-      "score": 94,
-      "grade": "A+",
-      "words": 2078,
-      "sourceUrls": 11,
-      "imagePlacements": 15,
-      "uniqueImages": 12,
-      "imageUniqueness": 0.8,
-      "productImages": 9,
-      "humanUseImages": 3,
-      "curatorScenes": 2,
-      "diagrams": 2,
-      "amazonLinks": 0,
-      "directAmazonLinks": 0,
-      "dimensions": {
-        "decisionDepth": 13,
-        "sourceEvidence": 15,
-        "imageBreadth": 10,
-        "imageUniqueness": 8,
-        "productProof": 10,
-        "humanUseProof": 10,
-        "curatorAction": 10,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 3
-      },
-      "gaps": []
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
     },
     {
       "id": "flight/tca-sky-yoke-vs-honeycomb-alpha-xpc-vs-velocityone-vs-moza-ay210-2026",
       "title": "TCA Sky Yoke vs Honeycomb Alpha XPC vs VelocityOne vs MOZA AY210: Buy Now or Wait?",
       "bay": "flight",
       "author": "Val Chen",
-      "status": "certified",
+      "status": "refresh",
       "revenueTier": "A",
-      "score": 95,
+      "score": 93,
       "grade": "A+",
       "words": 2764,
       "sourceUrls": 12,
@@ -4647,7 +4616,44 @@
         "imageUniqueness": 10,
         "productProof": 10,
         "humanUseProof": 10,
-        "curatorAction": 5,
+        "curatorAction": 2.5,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": [
+        "four distinct curator actions",
+        "clumped marketplace image grid"
+      ]
+    },
+    {
+      "id": "marine/marine-sim-twin-engine-throttle-controls-2026",
+      "title": "Best Twin-Engine Marine Sim Throttle Controls 2026: Honeycomb Bravo vs TCA vs Leo Bodnar DIY",
+      "bay": "marine",
+      "author": "Gus Calder",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 95,
+      "grade": "A+",
+      "words": 1924,
+      "sourceUrls": 10,
+      "imagePlacements": 18,
+      "uniqueImages": 15,
+      "imageUniqueness": 0.83,
+      "productImages": 12,
+      "humanUseImages": 3,
+      "curatorScenes": 4,
+      "diagrams": 6,
+      "amazonLinks": 2,
+      "directAmazonLinks": 2,
+      "dimensions": {
+        "decisionDepth": 12,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 8.3,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
         "practicalDiagrams": 8,
         "answerStructure": 7,
         "commerceIntegrity": 5
@@ -4655,30 +4661,132 @@
       "gaps": []
     },
     {
-      "id": "racing/simucube-activepedal-pro-vs-moza-mbooster-2026",
-      "title": "Simucube ActivePedal Pro vs MOZA mBooster 2026: Is an Active Pedal Finally Worth It?",
-      "bay": "racing",
-      "author": "Duke Alvarez",
+      "id": "flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026",
+      "title": "FlightSimBuilder G1000 vs RealSimGear G1000 vs MOZA MGX1000: Best Glass Cockpit Hardware in 2026",
+      "bay": "flight",
+      "author": "Val Chen",
       "status": "certified",
       "revenueTier": "A",
-      "score": 95,
+      "score": 96,
       "grade": "A+",
-      "words": 2068,
-      "sourceUrls": 12,
-      "imagePlacements": 16,
-      "uniqueImages": 14,
-      "imageUniqueness": 0.88,
-      "productImages": 11,
-      "humanUseImages": 3,
-      "curatorScenes": 2,
-      "diagrams": 4,
+      "words": 2111,
+      "sourceUrls": 13,
+      "imagePlacements": 13,
+      "uniqueImages": 13,
+      "imageUniqueness": 1,
+      "productImages": 7,
+      "humanUseImages": 6,
+      "curatorScenes": 4,
+      "diagrams": 2,
       "amazonLinks": 0,
       "directAmazonLinks": 0,
       "dimensions": {
-        "decisionDepth": 12.9,
+        "decisionDepth": 13.2,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 10,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": []
+    },
+    {
+      "id": "space/star-citizen-mining-salvage-control-deck-2026",
+      "title": "Star Citizen Mining and Salvage Control Deck 2026: Stream Deck, Real Axes, and Patch-Safe Bindings",
+      "bay": "space",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 96,
+      "grade": "A+",
+      "words": 1873,
+      "sourceUrls": 12,
+      "imagePlacements": 17,
+      "uniqueImages": 15,
+      "imageUniqueness": 0.88,
+      "productImages": 11,
+      "humanUseImages": 3,
+      "curatorScenes": 4,
+      "diagrams": 4,
+      "amazonLinks": 1,
+      "directAmazonLinks": 1,
+      "dimensions": {
+        "decisionDepth": 11.7,
         "sourceEvidence": 15,
         "imageBreadth": 10,
         "imageUniqueness": 8.8,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": []
+    },
+    {
+      "id": "flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026",
+      "title": "MOZA AY210 vs Brunner CLS-E MK II vs FliteSim CLS-60: Which Force-Feedback Yoke Is Worth It in 2026?",
+      "bay": "flight",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 97,
+      "grade": "A+",
+      "words": 2297,
+      "sourceUrls": 12,
+      "imagePlacements": 13,
+      "uniqueImages": 13,
+      "imageUniqueness": 1,
+      "productImages": 7,
+      "humanUseImages": 6,
+      "curatorScenes": 4,
+      "diagrams": 3,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 14.4,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 10,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 3
+      },
+      "gaps": []
+    },
+    {
+      "id": "flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026",
+      "title": "VKB STECS Mk II vs Virpil VMAX Prime vs WINCTRL Orion2 F-15EX: Best Premium HOTAS Throttle in 2026",
+      "bay": "flight",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 98,
+      "grade": "A+",
+      "words": 2329,
+      "sourceUrls": 12,
+      "imagePlacements": 15,
+      "uniqueImages": 15,
+      "imageUniqueness": 1,
+      "productImages": 8,
+      "humanUseImages": 4,
+      "curatorScenes": 4,
+      "diagrams": 3,
+      "amazonLinks": 0,
+      "directAmazonLinks": 0,
+      "dimensions": {
+        "decisionDepth": 14.6,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 10,
         "productProof": 10,
         "humanUseProof": 10,
         "curatorAction": 10,

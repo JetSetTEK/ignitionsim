@@ -50,24 +50,22 @@ The trick is separating **memory controls** from **precision controls**. A label
 
 ## What does real mining gameplay ask your hands to do?
 
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-action.jpg" alt="Official Star Citizen mining gameplay screenshot with a real in-game pilot using a mining laser" loading="lazy"><figcaption>The career fantasy: position, scan, control energy, and extract without playing keyboard hide-and-seek. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+
 RSI's updated mining guide breaks the loop into scanning, fracturing, and extraction. Scanning finds candidates and reveals composition, resistance, and instability. Fracturing asks the operator to raise energy into a useful window without pushing into overcharge. Extraction switches the beam's purpose and collects valuable material.
 
 That sequence is the control architecture. It needs a scan action, a mode entry, target or aim control, beam activation, precise power control, fracture/extraction switching, and situational flight. Salvage adds its own beam modes, head or tool selection, tractor/cargo actions, and movement around the hull.
 
-<div class="shotgrid">
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-action.jpg" alt="Official Star Citizen mining gameplay screenshot with a real in-game pilot using a mining laser" loading="lazy"><figcaption>The career fantasy: position, scan, control energy, and extract without playing keyboard hide-and-seek. <span class="source-credit">Official RSI support media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-1.png" alt="Official Star Citizen mining HUD screenshot showing the first mining interface state" loading="lazy"><figcaption>The HUD is already a checklist. The physical deck should mirror its sequence rather than inventing a different one. <span class="source-credit">Official RSI support media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-2.png" alt="Official Star Citizen fracture gameplay interface screenshot" loading="lazy"><figcaption>Fracture is where continuous control matters. A reachable axis is more useful than another page of buttons. <span class="source-credit">Official RSI support media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-3.png" alt="Official Star Citizen extraction gameplay interface screenshot" loading="lazy"><figcaption>Extraction needs an obvious mode state. Color and page change can stop expensive operator confusion. <span class="source-credit">Official RSI support media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Official Elgato Stream Deck Plus product photo with keys, touch strip, and dials" loading="lazy"><figcaption>Plus combines visible keys with four dials, but dial-to-game behavior still depends on the mapping path. <span class="source-credit">Official Elgato product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-desk.png" alt="Official installed Stream Deck Plus on a real desktop" loading="lazy"><figcaption>Place it where the non-flight hand can reach without crossing the sticks. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-use.jpg" alt="Real user using Elgato Stream Deck Plus dials and keys at a desk" loading="lazy"><figcaption>The useful proof is scale: four dials and eight keys are compact enough to sit beside HOSAS without consuming the cockpit. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="Official VKB GNX Side Extension Module with real switches and analog axes" loading="lazy"><figcaption>GNX modules provide genuine joystick inputs, toggles, and axes when tactile control matters more than changing labels. <span class="source-credit">Official VKB product media</span></figcaption></figure>
-</div>
 
 ![Star Citizen mining and salvage career control map](/images/infographics/space/star-citizen-career-control-map-2026.svg)
 
 ## Stream Deck Plus, XL, or physical modules?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-star-citizen-hybrid-deck.webp" alt="Val separates visible mode controls from the one analog axis that must remain precise." loading="lazy"><figcaption><b>Val separates visible mode controls from the one analog axis that must remain precise.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>If a control changes a state, label it. If it changes an amount, put it on an axis.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-1.png" alt="Official Star Citizen mining HUD screenshot showing the first mining interface state" loading="lazy"><figcaption>The HUD is already a checklist. The physical deck should mirror its sequence rather than inventing a different one. <span class="source-credit">Official RSI support media</span></figcaption></figure>
 
 **Choose Stream Deck Plus when four dials and a compact footprint fit the station.** It is excellent for visible mode changes, laser/beam toggles, cargo actions, power presets, and page switching. The touch strip can provide state and navigation. The warning is specific: a Stream Deck dial is not automatically the same thing as a DirectInput joystick axis. Plugins and mapping layers may translate turns into repeated keys or other actions. Verify whether the result is smooth enough for the exact mining power control you expect.
 
@@ -78,6 +76,8 @@ That sequence is the control architecture. It needs a scan action, a mode entry,
 **Choose a hybrid if the career loop is the point.** A Plus or XL for memory and mode state, plus one analog axis from a throttle, GNX module, spare quadrant, or purpose-built box, is the highest-confidence build.
 
 ## What should be on the first mining page?
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-2.png" alt="Official Star Citizen fracture gameplay interface screenshot" loading="lazy"><figcaption>Fracture is where continuous control matters. A reachable axis is more useful than another page of buttons. <span class="source-credit">Official RSI support media</span></figcaption></figure>
 
 Do not begin with icons. Begin with a successful loop.
 
@@ -94,6 +94,12 @@ Use one color family for mode, another for danger, and another for cargo. A page
 
 ## How should salvage differ?
 
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-star-citizen-salvage-shift.webp" alt="Val operates a fictional salvage station to test whether mode color and control placement remain obvious under workload." loading="lazy"><figcaption><b>Val operates a fictional salvage station to test whether mode color and control placement remain obvious under workload.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Mining and salvage may share a deck, but they should not share a visual state. Make the active career obvious from peripheral vision.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-3.png" alt="Official Star Citizen extraction gameplay interface screenshot" loading="lazy"><figcaption>Extraction needs an obvious mode state. Color and page change can stop expensive operator confusion. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+
 Salvage should be a separate page because the operator's questions change. Which beam or head is active? Is the tool in the intended mode? Where are tractor, cargo, fracture/disintegration, and ship-position controls? Which action can damage or waste material?
 
 Preserve common safety controls in the same positions across pages: exit mode, beam off, landing/VTOL, lights, and a return to flight page. Consistency matters more than filling every key.
@@ -101,6 +107,12 @@ Preserve common safety controls in the same positions across pages: exit mode, b
 The community pattern is to double-bind some functions by operator or master mode rather than creating a giant universal layer. That can work well, but document it. Clever layers disappear from memory faster than physical labels suggest.
 
 ## How do you keep the deck working after a patch?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/val-star-citizen-patch-recovery.webp" alt="Val restores a dated profile, USB order, and printed physical map before rebuilding cosmetic pages." loading="lazy"><figcaption><b>Val restores a dated profile, USB order, and printed physical map before rebuilding cosmetic pages.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Val's bench note</div><p>Patch recovery order is flight, safety, career loop, then decoration. The icons can wait until the ship can land.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Official Elgato Stream Deck Plus product photo with keys, touch strip, and dials" loading="lazy"><figcaption>Plus combines visible keys with four dials, but dial-to-game behavior still depends on the mapping path. <span class="source-credit">Official Elgato product media</span></figcaption></figure>
 
 Star Citizen's binding system is part of the hobby. RSI provides export/import guidance, and community maintainers publish profiles, but copied maps remain starting points. Device IDs, left/right joystick order, firmware, and personal control philosophy vary.
 
@@ -114,17 +126,25 @@ After an update, test in this order: pitch/roll/yaw, translation, throttle/speed
 
 ## What do builders love?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-desk.png" alt="Official installed Stream Deck Plus on a real desktop" loading="lazy"><figcaption>Place it where the non-flight hand can reach without crossing the sticks. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
+
 Visible labels remove a surprising amount of cognitive load. Mining becomes a process instead of a recall test. Salvage feels like operating a tool. Page changes reinforce modes. A real lever makes laser power steadier and keeps eyes on the charge window.
 
 The deeper satisfaction is that a career deck can be modest. It does not need to imitate a fictional cockpit. One device and one axis can produce more functional immersion than a wall of decorative toggles.
 
 ## What makes the setup annoying?
 
+Current binding discussions keep converging on the same maintenance lesson: copied profiles are useful scaffolding, not truth. Device order, inversion, modifiers, left-versus-right stick identity, plugin behavior, and patch changes can all invalidate a beautiful layout. The deck is successful only when a printed map, exported action profile, Stream Deck backup, and known USB topology let you restore the career loop without rediscovering it from scratch.
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-use.jpg" alt="Real user using Elgato Stream Deck Plus dials and keys at a desk" loading="lazy"><figcaption>The useful proof is scale: four dials and eight keys are compact enough to sit beside HOSAS without consuming the cockpit. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
+
 Plugins can break or change. Icons drift out of date. A dial may send repeated keypresses rather than a smooth axis. Device order can change. A profile copied from another pilot can conflict with HOSAS philosophy. Pages can become too deep, and important actions disappear behind a folder exactly when they are needed.
 
 USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, audio, and charging devices can overwhelm a casual hub. Keep high-draw or timing-sensitive hardware on an appropriate powered path and document ports.
 
 ## Beginner, intermediate, and advanced builds
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="Official VKB GNX Side Extension Module with real switches and analog axes" loading="lazy"><figcaption>GNX modules provide genuine joystick inputs, toggles, and axes when tactile control matters more than changing labels. <span class="source-credit">Official VKB product media</span></figcaption></figure>
 
 **Beginner:** use the current stick or throttle axis for laser power and create one eight-key mining page. Prove the loop before buying hardware.
 

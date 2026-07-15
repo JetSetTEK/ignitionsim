@@ -50,21 +50,14 @@ That is not a weakness if you sequence the project correctly. A $100-class quadr
 
 ## What real hardware can a home marine builder use?
 
-<div class="shotgrid">
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Official Thrustmaster TCA Quadrant Airbus Edition product photo" loading="lazy"><figcaption>TCA is the inexpensive experiment: two compact axes, physical detents, and a low-risk way to test port and starboard. <span class="source-credit">Official Thrustmaster product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-use.png" alt="Real user using the Thrustmaster TCA Quadrant in an installed simulator" loading="lazy"><figcaption>Real-use scale matters. The levers are close together and aircraft-styled, but the paired motion translates well to twin-engine testing. <span class="source-credit">Official Thrustmaster use media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Official Honeycomb Bravo six-axis throttle quadrant product photo" loading="lazy"><figcaption>Bravo provides six lever axes plus trim, autopilot controls, switches, and annunciators. A lot of bridge can hide inside an aircraft box. <span class="source-credit">Official Honeycomb product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Official Leo Bodnar BU0836X USB joystick controller board product photo" loading="lazy"><figcaption>BU0836X is the electrical shortcut: eight analog axes and abundant button inputs without writing a custom USB firmware stack. <span class="source-credit">Official Leo Bodnar product media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-inputs.jpg" alt="Official installed wiring example for Leo Bodnar BU0836X inputs" loading="lazy"><figcaption>Screw terminals make prototyping friendly, but every wire still needs strain relief, labels, and a service path. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-dual-pots.png" alt="Official Leo Bodnar diagram for wiring dual potentiometers as analog axes" loading="lazy"><figcaption>The electrical diagram is simple. Building two smooth, durable lever mechanisms is the actual project. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-joystick-map.png" alt="Official Bridge Command joystick and throttle mapping screen" loading="lazy"><figcaption>Software proof before fabrication: Bridge Command documents joystick mapping and axis assignment. <span class="source-credit">Official Bridge Command documentation</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-control-room.jpg" alt="Real Bridge Command simulator control room with installed bridge controls" loading="lazy"><figcaption>The end state is functional rather than glamorous: displays, labels, levers, and a station another person can understand. <span class="source-credit">Official Bridge Command media</span></figcaption></figure>
-  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-tug.png" alt="Official Bridge Command tug simulation gameplay screenshot" loading="lazy"><figcaption>Slow-speed tug work is exactly where independent engine control becomes more than decoration. <span class="source-credit">Official Bridge Command screenshot</span></figcaption></figure>
-</div>
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Official Thrustmaster TCA Quadrant Airbus Edition product photo" loading="lazy"><figcaption>TCA is the inexpensive experiment: two compact axes, physical detents, and a low-risk way to test port and starboard. <span class="source-credit">Official Thrustmaster product media</span></figcaption></figure>
+
 
 ![Marine twin-engine throttle axis map](/images/infographics/marine/marine-twin-engine-axis-map-2026.svg)
 
 ## Is the TCA Quadrant enough?
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-use.png" alt="Real user using the Thrustmaster TCA Quadrant in an installed simulator" loading="lazy"><figcaption>Real-use scale matters. The levers are close together and aircraft-styled, but the paired motion translates well to twin-engine testing. <span class="source-credit">Official Thrustmaster use media</span></figcaption></figure>
 
 **TCA is enough to answer the first question: does independent twin-engine control improve this simulator?** The Airbus Edition gives two main axes, physical detents, and reverse-style movement in a compact case. It is designed for aircraft, so marine use is repurposing, not plug-and-play support.
 
@@ -76,6 +69,8 @@ The weakness is the same as the price: short, closely spaced aircraft levers do 
 
 ## Why is Honeycomb Bravo the best ready-made bridge control?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Official Honeycomb Bravo six-axis throttle quadrant product photo" loading="lazy"><figcaption>Bravo provides six lever axes plus trim, autopilot controls, switches, and annunciators. A lot of bridge can hide inside an aircraft box. <span class="source-credit">Official Honeycomb product media</span></figcaption></figure>
+
 **Bravo wins flexibility.** Six lever axes can represent two engines, bow and stern thrusters, controllable-pitch propellers, or other vessel-specific controls. The trim wheel can test helm or auxiliary behavior. The switches and autopilot panel can become lights, horn, camera, radar range, view, or navigation functions where the simulator permits.
 
 The physical unit is broad and bulky. That is a drawback on a cramped desk and an advantage on a shared station because the controls are easier to separate and label. Replaceable lever handles help distinguish roles. A bright label strip can turn aviation vocabulary into port, starboard, thruster, and clutch logic without pretending the original panel is marine hardware.
@@ -84,6 +79,14 @@ Do not buy Bravo because every switch must be used. Buy it when the six axes sol
 
 ## When should you build the BU0836X DIY throttle?
 
+Bridge Command’s own documentation supports physical joystick and throttle mapping, including fixed points that translate lever position to engine revolutions. That makes a DIY controller technically credible, but the software is the easy half. The real project is two durable mechanical levers with repeatable neutral, reverse travel, strain relief, service access, and independent calibration. Borrow the logic of real dual-function marine controls, not their electrical protocol: each hand needs to understand ahead, neutral, and astern without looking.
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/gus-marine-plywood-prototype.webp" alt="Gus proves lever spacing, throw, and neutral with a plywood prototype before spending money on a finished helm" loading="lazy"><figcaption><b>Gus proves lever spacing, throw, and neutral with a plywood prototype before spending money on a finished helm.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Gus's bench note</div><p>Build the ugly lever first. The hand will tell you where neutral, reverse, and separation belong.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Official Leo Bodnar BU0836X USB joystick controller board product photo" loading="lazy"><figcaption>BU0836X is the electrical shortcut: eight analog axes and abundant button inputs without writing a custom USB firmware stack. <span class="source-credit">Official Leo Bodnar product media</span></figcaption></figure>
+
 **Build DIY when geometry is now the limitation, not software certainty.** The BU0836X exposes analog axes and button inputs as a USB controller. It is an excellent heart for paired levers, rudder/helm sensors, toggles, encoders, and labeled bridge panels.
 
 The material list extends beyond the board: two quality potentiometers or Hall sensors, shafts or linkages, bearings or bushings, hard stops, center detents, lever handles, enclosure, wire, ferrules, terminals, USB strain relief, fasteners, labels, and access panels. The mechanism must hold neutral without jitter and must not over-rotate the sensor.
@@ -91,6 +94,14 @@ The material list extends beyond the board: two quality potentiometers or Hall s
 Bridge Command's own DIY throttle documentation demonstrates the honest appeal of this approach. The simulator community expects adaptation. But a successful one-off mechanism is not automatically durable. Build a cardboard or plywood prototype, run docking sessions, then translate the proven geometry into the final material.
 
 ## How should ahead, neutral, and astern be mapped?
+
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/gus-bridge-command-wiring-calibration.webp" alt="Gus calibrates port and starboard wiring beside the twin levers before the bridge panel is closed" loading="lazy"><figcaption><b>Gus calibrates port and starboard wiring beside the twin levers before the bridge panel is closed.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Gus's bench note</div><p>A beautiful twin lever with crossed axes is a sculpture. Calibrate each engine independently, then test asymmetric thrust.</p></div>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-dual-pots.png" alt="Official Leo Bodnar diagram for wiring dual potentiometers as analog axes" loading="lazy"><figcaption>The electrical diagram is simple. Building two smooth, durable lever mechanisms is the actual project. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
+
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-joystick-map.png" alt="Official Bridge Command joystick and throttle mapping screen" loading="lazy"><figcaption>Software proof before fabrication: Bridge Command documents joystick mapping and axis assignment. <span class="source-credit">Official Bridge Command documentation</span></figcaption></figure>
 
 First inspect the simulator. There are three common patterns.
 
@@ -106,6 +117,8 @@ Calibrate both engines separately. Check that equal physical lever positions pro
 
 ## What does a reliable DIY build require?
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-inputs.jpg" alt="Official installed wiring example for Leo Bodnar BU0836X inputs" loading="lazy"><figcaption>Screw terminals make prototyping friendly, but every wire still needs strain relief, labels, and a service path. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
+
 Use a serviceable design. The bottom should open without dismantling the lever shafts. Wires need labels at both ends. Sensor connectors should be removable. The USB cable needs strain relief. Moving metal needs hard stops that protect the sensor. The neutral detent should be replaceable.
 
 Use a powered or direct USB plan appropriate to the station. Save calibration screenshots and the mapping profile. Write the vessel and simulator version on the file. If the sim supports several vessels, establish one reference tug or twin-screw ship before creating specialized curves.
@@ -114,11 +127,19 @@ Use a powered or direct USB plan appropriate to the station. Save calibration sc
 
 ## What do builders love?
 
+<figure class="proof-wide curator-proof"><img src="/images/curator-scenes/july15-reset/gus-marine-bridge-run.webp" alt="Gus operates a bright bridge trainer and keeps his eyes outside while his hands find both levers by feel" loading="lazy"><figcaption><b>Gus operates a bright bridge trainer and keeps his eyes outside while his hands find both levers by feel.</b><span>AI-assisted editorial scene; no retail product or game interface is being represented.</span></figcaption></figure>
+
+<div class="callout tip"><div class="ct">// Gus's bench note</div><p>Marine immersion comes from unambiguous neutral and independent engines, not from the lever looking nautical in a photograph.</p></div>
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-control-room.jpg" alt="Real Bridge Command simulator control room with installed bridge controls" loading="lazy"><figcaption>The end state is functional rather than glamorous: displays, labels, levers, and a station another person can understand. <span class="source-credit">Official Bridge Command media</span></figcaption></figure>
+
 Independent engines transform docking. Pivoting, backing, ferry approaches, tug work, and slow-speed control stop feeling like a keyboard abstraction. The station also becomes understandable to guests: two levers tell a story immediately.
 
 DIY builders love choosing lever throw and spacing. A longer throw makes fine control easier. A deliberate neutral detent reduces visual checking. Physical labels make the bridge shareable. The result can feel more authentic than repurposed hardware without costing professional-simulator money.
 
 ## What causes regret?
+
+<figure class="proof-wide use-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-tug.png" alt="Official Bridge Command tug simulation gameplay screenshot" loading="lazy"><figcaption>Slow-speed tug work is exactly where independent engine control becomes more than decoration. <span class="source-credit">Official Bridge Command screenshot</span></figcaption></figure>
 
 The largest regret is building a mechanism before proving software support. Next is weak neutral behavior: cheap sensors, flexible linkages, no hard stops, and noisy wiring. Another is making the enclosure beautiful but impossible to service.
 
