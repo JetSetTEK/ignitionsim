@@ -106,6 +106,37 @@
         "image": "/images/curator-scenes/truck-controls-2026/duke-truck-cable-routing.webp",
         "alt": "AI editorial scene of Duke Alvarez labeling USB and power cables beneath a truck simulator desk",
         "task": "Routing the truck desk so firmware night stays boring"
+      },
+      {
+        "image": "/images/curator-scenes/farming-controls-2026/duke-clamp-clearance-workshop.webp",
+        "alt": "AI editorial scene of Duke Alvarez measuring simulator desk clamp clearance with calipers and a full-size cardboard template",
+        "task": "Measuring the crossbar before a farming control clamp loses the argument",
+        "guideId": "racing/best-farming-simulator-25-controls-2026",
+        "quote": "The desk does not care how good the joystick is. If the clamp meets a crossbar at midnight, the crossbar wins.",
+        "note": "Duke treats the underside of the desk as part of the control system, because that is where expensive farm-cab plans most often become return labels.",
+        "steps": [
+          "Measure the clear tabletop thickness and the depth before the first crossbar.",
+          "Dry-fit the wheel and joystick reach with full-size cardboard footprints.",
+          "Check knees, pedals, cable exits, and chair travel before opening the hardware."
+        ]
+      },
+      {
+        "image": "/images/curator-scenes/farming-controls-2026/duke-tractor-cab-loader.webp",
+        "alt": "AI editorial scene of Duke Alvarez operating a tractor-cab simulator with one hand on the wheel and one on a loader stick",
+        "task": "Testing whether steering and loader work can happen without conscious translation",
+        "guideId": "racing/best-farming-simulator-25-controls-2026"
+      },
+      {
+        "image": "/images/curator-scenes/farming-controls-2026/duke-usb-calibration-bench.webp",
+        "alt": "AI editorial scene of Duke Alvarez labeling USB cables and checking simulator control connections at a red workbench",
+        "task": "Separating connection trouble from duplicate FS25 bindings",
+        "guideId": "racing/best-farming-simulator-25-controls-2026"
+      },
+      {
+        "image": "/images/curator-scenes/farming-controls-2026/duke-farming-layout-templates.webp",
+        "alt": "AI editorial scene of Duke Alvarez and a fellow builder comparing full-size farming-control layout templates",
+        "task": "Dry-fitting two farming-control layouts before buying either one",
+        "guideId": "racing/best-farming-simulator-25-controls-2026"
       }
     ],
     "nina-brooks": [

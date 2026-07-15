@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1810" viewBox="0 0 900 1810" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile farming controls installation map</title>
+  <desc id="desc">Mobile setup order and wiring cautions for Thrustmaster, HORI, and Logitech farm simulator controls.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbf9"/><stop offset="1" stop-color="#e5efe9"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#10232b" flood-opacity=".16"/></filter><style>.k{font:800 24px ui-monospace,monospace;fill:#e9531d}.h{font:900 52px system-ui,sans-serif;fill:#10232b}.n{font:900 36px system-ui,sans-serif;fill:#10232b}.b{font:600 28px system-ui,sans-serif;fill:#435861}.m{font:800 22px ui-monospace,monospace;fill:#fff}.w{fill:#fff}</style></defs>
+  <rect width="900" height="1810" rx="40" fill="url(#bg)"/>
+  <text x="50" y="70" class="k">IGNITIONSIM / FIRST-NIGHT MAP</text>
+  <text x="50" y="134" class="h">Install before you farm.</text>
+
+  <rect x="50" y="190" width="800" height="295" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="120" cy="260" r="38" fill="#efb83f"/><text x="120" y="274" text-anchor="middle" class="n">1</text>
+  <text x="185" y="256" class="n">Measure the desk</text>
+  <text x="90" y="326" class="b">T128 kit: 15-50 mm tabletop.</text>
+  <text x="90" y="371" class="b">HORI: 6-45 mm plus 13 cm depth.</text>
+  <text x="90" y="416" class="b">Check underside crossbars and two zones.</text>
+
+  <rect x="50" y="525" width="800" height="295" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="120" cy="595" r="38" fill="#ff6a2a"/><text x="120" y="609" text-anchor="middle" class="n w">2</text>
+  <text x="185" y="591" class="n">Update outside the game</text>
+  <text x="90" y="661" class="b">Install current support and firmware.</text>
+  <text x="90" y="706" class="b">Test every axis in Windows Controllers.</text>
+  <text x="90" y="751" class="b">Only then clear duplicate FS25 binds.</text>
+
+  <rect x="50" y="860" width="800" height="295" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="120" cy="930" r="38" fill="#3c9b73"/><text x="120" y="944" text-anchor="middle" class="n w">3</text>
+  <text x="185" y="926" class="n">Test jobs in order</text>
+  <text x="90" y="996" class="b">Tractor first. Loader second.</text>
+  <text x="90" y="1041" class="b">Forestry rotation and crane layers last.</text>
+  <text x="90" y="1086" class="b">Back up the binding file when it works.</text>
+
+  <rect x="50" y="1195" width="800" height="475" rx="30" fill="#15342f" filter="url(#shadow)"/>
+  <text x="90" y="1260" class="n w">Three wiring rules</text>
+  <rect x="90" y="1310" width="720" height="95" rx="18" fill="#fff"/>
+  <text x="120" y="1352" class="n">THRUSTMASTER</text>
+  <text x="120" y="1387" class="b">Keep FarmStick centered while connecting.</text>
+  <rect x="90" y="1430" width="720" height="95" rx="18" fill="#fff"/>
+  <text x="120" y="1472" class="n">HORI</text>
+  <text x="120" y="1507" class="b">Use direct USB; the manual warns on hubs.</text>
+  <rect x="90" y="1550" width="720" height="95" rx="18" fill="#fff"/>
+  <text x="120" y="1592" class="n">LOGITECH</text>
+  <text x="120" y="1627" class="b">Two USB paths. Do not overtighten clamps.</text>
+
+  <text x="450" y="1745" text-anchor="middle" class="k">A BINDING BACKUP IS PART OF THE HARDWARE.</text>
+</svg>

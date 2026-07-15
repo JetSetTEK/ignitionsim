@@ -123,7 +123,8 @@ const fieldProof = fieldProofProduct ? {
 const articleHeroImage = d.heroImage || heroProofImage || worldHero?.image;
 const articleHeroAlt = d.heroAlt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : worldHero?.alt || d.title);
 const isWorldHero = Boolean(worldHero && articleHeroImage === worldHero.image);
-const socialImage = d.heroImage || articleHeroImage || `/og/${d.bay}/${slug}.png`;
+const isEditorialComposite = Boolean(articleHeroImage?.includes('/images/generated/article-covers/'));
+const socialImage = d.socialImage || d.heroImage || articleHeroImage || `/og/${d.bay}/${slug}.png`;
 
 const schema: Record<string, any>[] = [
   {
@@ -141,7 +142,9 @@ const schema: Record<string, any>[] = [
     keywords: d.primaryKeyword,
     about: [
       { '@type': 'Thing', name: `${bay.name} sim hardware` },
-      ...articleProducts.slice(0, 4).map((p: any) => ({ '@type': 'Product', name: `${p.brand} ${p.model}` })),
+      ...(d.products.length
+        ? d.products.slice(0, 6).map((name: string) => ({ '@type': 'Product', name }))
+        : linkedProducts.slice(0, 4).map((p: any) => ({ '@type': 'Product', name: `${p.brand} ${p.model}` }))),
     ],
   },
   {
@@ -169,7 +172,9 @@ if (d.faqs.length) {
     <header class="article-topper" data-bay={d.bay} style={`--world-bg: url('${world.image}')`}>
       {articleHeroImage && <img src={articleHeroImage} alt={articleHeroAlt} loading="eager" decoding="async" />}
       <div class="article-topper-scrim"></div>
-      {isWorldHero && <span class="ai-scene-badge">AI world scene</span>}
+      {(isWorldHero || isEditorialComposite) && (
+        <span class="ai-scene-badge">{isEditorialComposite ? 'AI-assisted editorial composite' : 'AI world scene'}</span>
+      )}
       <div class="article-topper-copy">
         <div class="crumbs article-crumbs"><a href="/">Home</a><span>/</span><a href={`/${d.bay}`}>{bay.name}</a><span>/</span>{typeLabel}</div>
         <span class="lbl lbl-accent">{typeLabel}</span>

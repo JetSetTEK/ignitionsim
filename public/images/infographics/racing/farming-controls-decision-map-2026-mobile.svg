@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1760" viewBox="0 0 900 1760" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile Farming Simulator 25 controls buyer map</title>
+  <desc id="desc">Four large mobile buyer paths for Farming Simulator controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102a32"/><stop offset=".55" stop-color="#275344"/><stop offset="1" stop-color="#8a4d21"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="11" stdDeviation="10" flood-color="#061114" flood-opacity=".32"/></filter>
+    <style>.k{font:800 25px ui-monospace,monospace;fill:#ffba56}.h{font:900 55px system-ui,sans-serif;fill:#fff}.n{font:900 37px system-ui,sans-serif;fill:#10232b}.b{font:600 29px system-ui,sans-serif;fill:#405762}.w{fill:#fff}.m{font:800 23px ui-monospace,monospace;fill:#fff}</style>
+  </defs>
+  <rect width="900" height="1760" rx="42" fill="url(#bg)"/>
+  <text x="52" y="70" class="k">IGNITIONSIM / DUKE'S BUYER MAP</text>
+  <text x="52" y="136" class="h">Which farm controls?</text>
+  <text x="52" y="184" class="m">START WITH THE JOB, NOT THE BIGGEST BOX.</text>
+
+  <rect x="52" y="235" width="796" height="315" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="125" cy="310" r="38" fill="#efb83f"/><text x="125" y="324" text-anchor="middle" class="n">1</text>
+  <text x="188" y="306" class="n">Own a good wheel?</text>
+  <text x="92" y="376" class="b">Keep it. Add a standalone FarmStick</text>
+  <text x="92" y="421" class="b">for loaders, cranes, telehandlers,</text>
+  <text x="92" y="466" class="b">excavators, and forestry equipment.</text>
+  <rect x="92" y="492" width="716" height="70" rx="18" fill="#efb83f"/><text x="450" y="538" text-anchor="middle" class="n">BEST VALUE</text>
+
+  <rect x="52" y="590" width="796" height="315" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="125" cy="665" r="38" fill="#3e9e6b"/><text x="125" y="679" text-anchor="middle" class="n w">2</text>
+  <text x="188" y="661" class="n">Starting from zero?</text>
+  <text x="92" y="731" class="b">T128 SimTask Farming Pack gives you</text>
+  <text x="92" y="776" class="b">force feedback, two pedals, the flat</text>
+  <text x="92" y="821" class="b">mount, and the excellent FarmStick.</text>
+  <rect x="92" y="847" width="716" height="70" rx="18" fill="#3e9e6b"/><text x="450" y="893" text-anchor="middle" class="n w">BEST NEW MODULAR BUY</text>
+
+  <rect x="52" y="945" width="796" height="315" rx="30" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="125" cy="1020" r="38" fill="#ff6a2a"/><text x="125" y="1034" text-anchor="middle" class="n w">3</text>
+  <text x="188" y="1016" class="n">Want one PC appliance?</text>
+  <text x="92" y="1086" class="b">HORI gives you the larger wheel, three</text>
+  <text x="92" y="1131" class="b">pedals, throttle, joystick, spinner, and</text>
+  <text x="92" y="1176" class="b">76 controls. Update firmware first.</text>
+  <rect x="92" y="1202" width="716" height="70" rx="18" fill="#ff6a2a"/><text x="450" y="1248" text-anchor="middle" class="n w">BEST COMPLETE PC CAB</text>
+
+  <rect x="52" y="1300" width="796" height="315" rx="30" fill="#f2f5f3" filter="url(#shadow)"/>
+  <circle cx="125" cy="1375" r="38" fill="#6e7d82"/><text x="125" y="1389" text-anchor="middle" class="n w">4</text>
+  <text x="188" y="1371" class="n">Considering Logitech?</text>
+  <text x="92" y="1441" class="b">Buy only at a real discount or used.</text>
+  <text x="92" y="1486" class="b">The side panel remains useful; the</text>
+  <text x="92" y="1531" class="b">wheel and pedals are the compromise.</text>
+  <rect x="92" y="1557" width="716" height="70" rx="18" fill="#6e7d82"/><text x="450" y="1603" text-anchor="middle" class="n w">BUDGET FALLBACK</text>
+
+  <text x="450" y="1690" text-anchor="middle" class="m">PLAYSTATION 5: USE THE EXACT T128 PS PACK.</text>
+  <text x="450" y="1728" text-anchor="middle" class="m">HORI + LOGITECH ARE PC-ONLY.</text>
+</svg>

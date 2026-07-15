@@ -305,6 +305,22 @@
     "officialUrl": "https://eurotrucksimulator2.com/"
   },
   {
+    "slug": "farming-simulator-25",
+    "name": "Farming Simulator 25",
+    "bay": "racing",
+    "type": "farming and heavy-equipment simulator",
+    "signal": "The work-control simulator hiding inside a driving game.",
+    "bestFor": "Players who enjoy field work, loaders, telehandlers, forestry, excavators, and building a calm working cab instead of another race cockpit.",
+    "hardwareThatMatters": "A reliable 900-degree wheel, stable pedals, a proportional work stick for machinery, enough clamp clearance, and clean USB mapping.",
+    "watchTheTrap": "Do not replace a good wheel to fix awkward loader controls. Add the missing work stick first, then upgrade steering only if steering is the actual problem.",
+    "guideIds": [
+      "racing/best-farming-simulator-25-controls-2026",
+      "racing/button-box-vs-stream-deck-2026",
+      "racing/cockpit-rigidity-wheel-stand-vs-8020-2026"
+    ],
+    "officialUrl": "https://www.farming-simulator.com/"
+  },
+  {
     "slug": "evercade",
     "name": "Evercade",
     "bay": "racing",

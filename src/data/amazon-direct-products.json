@@ -2072,6 +2072,42 @@
       "candidates": ["B0DHHJ3R7S"],
       "resolvedAt": "2026-07-15T00:00:00.000Z"
     },
+    "thrustmaster t128 simtask farming pack": {
+      "query": "Thrustmaster T128 SimTask Farming Pack",
+      "asin": "B0GJ17RTYH",
+      "title": "Thrustmaster T128 SimTask Farming Pack",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0GJ17RTYH"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "hori farming vehicle control system": {
+      "query": "HORI Farming Vehicle Control System",
+      "asin": "B0CFFYBBCV",
+      "title": "HORI Farming Vehicle Control System for Windows PC",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0CFFYBBCV"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "logitech g heavy equipment bundle": {
+      "query": "Logitech G Heavy Equipment Bundle",
+      "asin": "B07MBXWX1C",
+      "title": "Logitech G Heavy Equipment Bundle for Farming Simulator",
+      "status": 200,
+      "error": "",
+      "candidates": ["B07MBXWX1C"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
+    "thrustmaster simtask farmstick": {
+      "query": "Thrustmaster SimTask FarmStick",
+      "asin": "B0CGKMD4ZY",
+      "title": "Thrustmaster SimTask FarmStick",
+      "status": 200,
+      "error": "",
+      "candidates": ["B0CGKMD4ZY"],
+      "resolvedAt": "2026-07-15T00:00:00.000Z"
+    },
     "thrustmaster sol r 4 hotas": {
       "query": "Thrustmaster SOL-R 4 HOTAS",
       "asin": "",

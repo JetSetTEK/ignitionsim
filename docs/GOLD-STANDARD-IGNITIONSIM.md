@@ -14,6 +14,43 @@ Companion benchmarks:
 Before any homepage, hub, card, article, or curator work is published, use all
 three as the "does this have soul, evidence, and surfacing discipline?" gate.
 
+## Locked Cornerstone Benchmark (2026-07-15)
+
+`/racing/hori-truck-control-system-vs-moza-tsw-2026/` is the minimum visual,
+research, and buying-decision benchmark for new Tier A work. The Farming
+Simulator 25 control comparison extends that benchmark with package proof,
+manual pages, clamp geometry, first-night setup order, current owner patterns,
+and a game-universe entry. Future cornerstone work must meet or improve this
+complete stack:
+
+- One current, demonstrated buyer question with a dated demand dossier.
+- A blunt answer near the top, plus buy paths for new, existing, budget, and
+  serious builders where those paths differ.
+- Twelve or more useful visuals led by real product, package, manual,
+  installation, and in-use proof. White-background catalog shots support the
+  evidence; they do not become the whole visual language.
+- At least four distinct curator action scenes. The curator must measure,
+  install, diagnose, map, operate, compare, or teach in the correct simulator
+  world. Repeated standing portraits and pasted-on heads fail.
+- At least two practical graphics when the buying problem has both a product
+  decision and an installation/setup decision. Each gets a dedicated mobile
+  composition with readable type.
+- Current official specifications and support/manual evidence, credible review
+  context, multiple owner discussions, and a clear distinction between an
+  isolated complaint, a repeated pattern, and a confirmed limitation.
+- Exact direct Amazon product pages only, using verified ASINs and
+  `tag=ignitionsim-20`. Platform variants and seller/return-window cautions are
+  named where they materially affect the buy.
+- A wide product-first editorial cover, deliberate homepage discovery, bay,
+  guide index, Sim Stream, curator page, related guides, and a game/universe
+  hub entry whenever the article serves a particular game.
+- Quality, commerce, surface, build, desktop, mobile, live route, sitemap/feed,
+  Netlify deployment, and IndexNow verification before publishing is complete.
+
+This is the floor, not a reusable template. Every article still needs a visual
+rhythm, curator behavior, color story, diagrams, and evidence stack designed
+for its own product and simulator world.
+
 ## Audience
 - Primary reader: Gen X and older millennial builders with engineering brains, gaming nostalgia, and limited patience for hype.
 - They want real products, real photos, wiring/mounting reality, clear tradeoffs, and a fast buy/no-buy answer.

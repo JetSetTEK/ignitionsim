@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Farming simulator controls desk fit and first-night setup map</title>
+  <desc id="desc">Desk measurements, cable routes, firmware order, and first tests for Thrustmaster, HORI, and Logitech farming simulator controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7faf8"/><stop offset="1" stop-color="#e7f0eb"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#13282d" flood-opacity=".15"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#ff6a2a"/></marker>
+    <style>.k{font:800 22px ui-monospace,monospace;fill:#e9531d}.h{font:900 49px system-ui,sans-serif;fill:#10232b}.sh{font:900 28px system-ui,sans-serif;fill:#10232b}.b{font:600 22px system-ui,sans-serif;fill:#435861}.sm{font:800 17px ui-monospace,monospace;fill:#61757d}.w{fill:#fff}.wire{stroke:#ff6a2a;stroke-width:6;fill:none;marker-end:url(#arrow)}.wire2{stroke:#209672;stroke-width:6;fill:none;marker-end:url(#arrow)}</style>
+  </defs>
+  <rect width="1600" height="1120" rx="48" fill="url(#bg)"/>
+  <text x="78" y="80" class="k">IGNITIONSIM / THE FIRST-NIGHT ANTI-HEADACHE MAP</text>
+  <text x="78" y="142" class="h">Measure. Update. Test. Then open FS25.</text>
+
+  <rect x="65" y="190" width="470" height="350" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="102" y="240" class="sh">1. Measure two clamp zones</text>
+  <rect x="115" y="295" width="370" height="62" rx="12" fill="#253c43"/>
+  <rect x="170" y="357" width="95" height="82" rx="12" fill="#efb83f"/>
+  <rect x="345" y="357" width="95" height="82" rx="12" fill="#36a27d"/>
+  <path d="M120 462H480" stroke="#ff6a2a" stroke-width="5" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="102" y="485" class="b">T128 kit: 15-50 mm tabletop.</text>
+  <text x="102" y="517" class="b">HORI: 6-45 mm, plus 13 cm clamp depth.</text>
+
+  <rect x="565" y="190" width="470" height="350" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="602" y="240" class="sh">2. Update before remapping</text>
+  <circle cx="650" cy="345" r="54" fill="#ff6a2a"/><text x="650" y="357" text-anchor="middle" class="sh w">FW</text>
+  <path d="M710 345H835" class="wire"/>
+  <rect x="835" y="300" width="140" height="90" rx="16" fill="#10232b"/>
+  <text x="905" y="354" text-anchor="middle" class="sm w">WINDOWS TEST</text>
+  <text x="602" y="445" class="b">Install current HORI / Thrustmaster support.</text>
+  <text x="602" y="477" class="b">Confirm center and every axis outside FS25.</text>
+  <text x="602" y="509" class="b">Then clear duplicate in-game bindings.</text>
+
+  <rect x="1065" y="190" width="470" height="350" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="1102" y="240" class="sh">3. Test the jobs in order</text>
+  <rect x="1110" y="295" width="118" height="78" rx="14" fill="#3a9b73"/><text x="1169" y="343" text-anchor="middle" class="sm w">TRACTOR</text>
+  <path d="M1228 334H1268" class="wire2"/>
+  <rect x="1268" y="295" width="118" height="78" rx="14" fill="#eab33d"/><text x="1327" y="343" text-anchor="middle" class="sm">LOADER</text>
+  <path d="M1386 334H1426" class="wire2"/>
+  <rect x="1426" y="295" width="72" height="78" rx="14" fill="#ff6a2a"/><text x="1462" y="343" text-anchor="middle" class="sm w">LOG</text>
+  <text x="1102" y="445" class="b">Wheel and pedals first. Loader axes second.</text>
+  <text x="1102" y="477" class="b">Forestry rotation and crane layers last.</text>
+  <text x="1102" y="509" class="b">Back up the binding file when it finally works.</text>
+
+  <rect x="65" y="600" width="470" height="420" rx="28" fill="#16342f" filter="url(#shadow)"/>
+  <text x="102" y="652" class="sh w">THRUSTMASTER</text>
+  <rect x="102" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="167" y="751" text-anchor="middle" class="sm">T128</text>
+  <rect x="356" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="421" y="751" text-anchor="middle" class="sm">PC / PS5</text>
+  <rect x="102" y="870" width="130" height="76" rx="14" fill="#efb83f"/><text x="167" y="916" text-anchor="middle" class="sm">PEDALS</text>
+  <rect x="356" y="870" width="130" height="76" rx="14" fill="#efb83f"/><text x="421" y="916" text-anchor="middle" class="sm">FARMSTICK</text>
+  <path d="M232 743H356" class="wire2"/><path d="M167 870V781" class="wire2"/><path d="M421 870V781" class="wire2"/>
+  <text x="102" y="980" class="sm w">KEEP THE FARMSTICK CENTERED WHILE CONNECTING</text>
+
+  <rect x="565" y="600" width="470" height="420" rx="28" fill="#4b2b22" filter="url(#shadow)"/>
+  <text x="602" y="652" class="sh w">HORI</text>
+  <rect x="602" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="667" y="751" text-anchor="middle" class="sm">WHEEL</text>
+  <rect x="856" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="921" y="751" text-anchor="middle" class="sm">PC USB</text>
+  <rect x="602" y="870" width="130" height="76" rx="14" fill="#ff6a2a"/><text x="667" y="916" text-anchor="middle" class="sm w">PEDALS</text>
+  <rect x="856" y="870" width="130" height="76" rx="14" fill="#ff6a2a"/><text x="921" y="916" text-anchor="middle" class="sm w">PANEL</text>
+  <path d="M732 743H856" class="wire"/><path d="M667 870V781" class="wire"/><path d="M921 870V781" class="wire"/>
+  <text x="602" y="980" class="sm w">DIRECT USB: OFFICIAL MANUAL WARNS AGAINST HUBS</text>
+
+  <rect x="1065" y="600" width="470" height="420" rx="28" fill="#243a46" filter="url(#shadow)"/>
+  <text x="1102" y="652" class="sh w">LOGITECH</text>
+  <rect x="1102" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="1167" y="751" text-anchor="middle" class="sm">WHEEL</text>
+  <rect x="1356" y="705" width="130" height="76" rx="14" fill="#fff"/><text x="1421" y="751" text-anchor="middle" class="sm">PC USB</text>
+  <rect x="1102" y="870" width="130" height="76" rx="14" fill="#8ba1ad"/><text x="1167" y="916" text-anchor="middle" class="sm w">PEDALS</text>
+  <rect x="1356" y="870" width="130" height="76" rx="14" fill="#8ba1ad"/><text x="1421" y="916" text-anchor="middle" class="sm w">SIDE PANEL</text>
+  <path d="M1232 743H1356" class="wire2"/><path d="M1167 870V781" class="wire2"/><path d="M1421 870V781" class="wire2"/>
+  <text x="1102" y="980" class="sm w">TWO USB PATHS. DO NOT OVERTIGHTEN THE CLAMPS.</text>
+
+  <text x="800" y="1080" text-anchor="middle" class="sm">DUKE'S RULE: A GOOD BINDING BACKUP IS PART OF THE HARDWARE.</text>
+</svg>

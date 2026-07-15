@@ -14,11 +14,13 @@ const articles = defineCollection({
       'ecosystem-upgrade-path', 'diy',
     ]),
     primaryKeyword: z.string().optional(),
+    products: z.array(z.string()).default([]),    // exact products discussed for Article schema
     author: z.string().default('Robert Pruitt'),
     publishDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),             // /images/... path
     heroAlt: z.string().optional(),
+    socialImage: z.string().optional(),           // 1200x630 share / Open Graph image
     excerpt: z.string().optional(),               // card teaser
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
