@@ -31,7 +31,9 @@ const takeDiverse = (items: any[], limit: number, used = new Set<string>()) => {
 };
 
 const editorialLeaders = sortByEditorialStrength(all.filter((entry) => clearsHomepageGate(entry.id)));
-const discoveryPool = sortByEditorialStrength(all.filter((entry) => clearsDiscoveryGate(entry.id)));
+// Keep the authority lead score-driven, then let the Stream preview surface the
+// newest qualifying work while it is still timely.
+const discoveryPool = all.filter((entry) => clearsDiscoveryGate(entry.id));
 const promotedIds = new Set<string>();
 const investigations = takeDiverse(editorialLeaders, 3, promotedIds).map((entry) => ({
   entry,
@@ -41,7 +43,7 @@ const investigations = takeDiverse(editorialLeaders, 3, promotedIds).map((entry)
   quality: qualityFor(entry.id),
   evidence: evidenceLabels(entry.id),
 }));
-const streamPreview = takeDiverse(discoveryPool, 5, promotedIds).map((entry) => ({
+const streamPreview = takeDiverse(discoveryPool, 10, promotedIds).map((entry) => ({
   entry,
   href: articleHref(entry),
   art: getArticleCardArt(articleHref(entry)),
@@ -223,7 +225,7 @@ const schema = [{
   <section class="stream-preview-band">
     <div class="wrap">
       <div class="section-intro">
-        <div><span class="lbl lbl-accent">Sim Stream</span><h2>Five more routes from the information river.</h2></div>
+        <div><span class="lbl lbl-accent">Sim Stream</span><h2>The latest ten routes from the information river.</h2></div>
         <a class="text-link" href="/build-stream">Open the full Sim Stream</a>
       </div>
       <div class="stream-preview-list">

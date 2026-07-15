@@ -1920,6 +1920,146 @@ Panels + community reads (paraphrased in our voice): [WinWing affordable A320/73
 
 ---
 
+### FlightSimBuilder G1000 vs RealSimGear G1000 vs MOZA MGX1000: Best Glass Cockpit Hardware in 2026
+flight · comparison · by Val Chen · 2026-07-15 · https://ignitionsim.com/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026
+FlightSimBuilder G1000 vs RealSimGear G1000 vs new MOZA MGX1000 comparison: aircraft compatibility, touchscreen, DisplayLink, software, footprint, ports, training fit, and 2026 verdict.
+
+**Verdict first: buy FlightSimBuilder G1000 TNxi when touchscreen flexibility and current value matter; buy RealSimGear when you want the mature premium suite and can afford the full trainer; wait on MOZA MGX1000 until shipping owners prove the aircraft integrations you need. The biggest trap is not choosing the wrong brand. It is buying perfect G1000-shaped hardware for an aircraft that uses G3000, Perspective, or a different physical layout.**
+
+MOZA's July 8 announcement changes the conversation. A true-size 10.4-inch panel at $449 per unit, with DisplayLink rather than a GPU video output, is aggressive. It also arrived days before this article was researched. There is no meaningful long-term owner record yet. That makes MGX1000 interesting and unproven at the same time.
+
+FlightSimBuilder and RealSimGear are easier to judge because people can already buy, install, map, and complain about them. FlightSimBuilder pushes touchscreen flexibility and value. RealSimGear sells a more mature, tightly integrated training suite at a higher system price. None of them escapes the aircraft-compatibility question.
+
+![Val Chen measuring two glass-cockpit panels and tracing their USB path in an instrument training classroom](/images/curator-scenes/july15/val-g1000-fit-lab.webp)
+
+*AI-assisted editorial scene, not a Garmin interface or product test. The screens are deliberately generic; the useful action is measuring the station and tracing the cable architecture.*
+
+<div class="callout tip"><div class="ct">// Val's field briefing</div><p>Before buying a bezel, write down the exact aircraft, exact avionics variant, exact simulator, and exact procedure you want to practice. “It has glass screens” is not a compatibility plan.</p></div>
+
+## What does each G1000 system actually look like?
+
+<div class="shotgrid">
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-pfd.webp" alt="Official FlightSimBuilder G1000 TNxi PFD hardware product photo" loading="lazy"><figcaption>FlightSimBuilder PFD: physical bezel, knobs, softkeys, and optional touch behavior in a value-focused system. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-mfd.webp" alt="Official FlightSimBuilder G1000 TNxi MFD hardware product photo" loading="lazy"><figcaption>The MFD is not merely a second monitor. The physical controls and aircraft profile must agree with its role. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/fsb-g1000-installed.jpg" alt="Official FlightSimBuilder G1000 box and shipped hardware scale proof" loading="lazy"><figcaption>Box proof matters to a trainer buyer: measure the station before two large avionics units and their mounts arrive. <span class="source-credit">Official FlightSimBuilder product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-suite.jpg" alt="Official RealSimGear G1000 PFD MFD and audio panel suite product photo" loading="lazy"><figcaption>RealSimGear's buy case is the suite: PFD, MFD, audio panel, stand, and a known procedure-training shape. <span class="source-credit">Official RealSimGear product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/rsg-g1000-use.jpg" alt="Real person using the installed RealSimGear G1000 PFD and MFD suite" loading="lazy"><figcaption>The real-use view exposes the width and hand travel. Two panels consume a serious part of a desk. <span class="source-credit">Official RealSimGear use media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-front.png" alt="Official MOZA MGX1000 10.4 inch glass cockpit panel front product photo" loading="lazy"><figcaption>MGX1000 arrives with excellent paper value: true-size 10.4-inch IPS, physical controls, and a $449 announced price. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-rear.png" alt="Official rear view of MOZA MGX1000 showing VESA mount and cable connections" loading="lazy"><figcaption>The rear tells the engineering story: VESA mounting, USB/DisplayLink architecture, power, and service clearance. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
+</div>
+
+![G1000 hardware decision map for FlightSimBuilder, RealSimGear and MOZA](/images/infographics/flight/g1000-hardware-decision-map-2026.svg)
+
+## Why is FlightSimBuilder the value recommendation?
+
+**FlightSimBuilder makes the strongest current case for a flexible enthusiast trainer.** Its current G1000 TNxi product offers touchscreen and non-touch variants and is supported by FlightSimBuilder Hub software. The touchscreen option is valuable when the aircraft or workflow needs interaction beyond the traditional G1000 bezel, and the system is priced well below a full RealSimGear suite.
+
+The manufacturer publishes installation material, a FAQ, and its own comparison against MOZA and RealSimGear. Treat the comparisons as a specification source, not an independent verdict. The useful facts are the supported simulators and aircraft paths, screen behavior, Hub requirements, dimensions, mounting, and what the box includes.
+
+FlightSimBuilder is the best buy for a technically comfortable user who can handle pop-out windows, connector software, profiles, and the occasional mismatch. It is also appealing to someone who wants one panel now and a fuller trainer later.
+
+The caveat is consistency. Verify whether the exact aircraft needs touch, whether the physical bezel matches the simulated avionics, whether the connector supports the needed softkeys and knobs, and whether a second unit or audio panel is required for the intended procedure.
+
+## Why does RealSimGear cost more?
+
+**RealSimGear charges for maturity, suite cohesion, and a training-first product.** The current G1000 suite packages PFD, MFD, and audio-panel hardware and offers documented setup for MSFS 2020/2024 alongside other simulator paths. The physical stand and published cutout dimensions make panel integration more predictable.
+
+This is the lower-regret premium choice for a buyer building a conventional G1000/G1000 NXi procedure station. The controls, bezels, and dual-screen layout are already a known system rather than a collection of clever panels.
+
+The cost is not just money. The published suite stand width is roughly 677 mm, and each main unit is around 306 by 200 mm. The station needs desk depth, hand clearance, power, display or USB paths, connector software, and a PC capable of driving the simulator plus external instruments. A compact desk can turn a premium suite into an ergonomic wall.
+
+RealSimGear is the best choice when the exact aircraft fit is known and the buyer values a mature trainer more than touchscreen experimentation or minimum price.
+
+## Is MOZA MGX1000 the new value king?
+
+**On paper, yes. In July 2026, the correct verdict is still wait for owner proof.** MOZA lists a $449 price per unit, a 10.4-inch 1024 by 768 IPS display, 500-nit brightness, 304 by 201 by 66.8 mm dimensions, 1.17 kg weight, 75 by 75 VESA mounting, PC support, and early-August dispatch timing.
+
+The unusual decision is DisplayLink. MGX1000 is not described as consuming a conventional HDMI or DisplayPort output from the GPU. That can simplify GPU output limits and physical cabling, but it transfers risk into USB bandwidth, drivers, MOZA Cockpit integration, latency, and multi-unit behavior. Those are not automatic failures. They are exactly what shipping reviews must test.
+
+The hardware appears ambitious and sensibly priced. MOZA has also demonstrated an ability to bring simulator categories down-market. But an avionics trainer is only as valuable as the exact aircraft integration. We want to see PFD/MFD role assignment, knob and softkey mapping, multiple-unit stability, pop-out behavior, CPU/GPU overhead, sleep/reconnect recovery, and current aircraft compatibility before recommending it over established options.
+
+Buy MGX1000 early only if testing new hardware is part of the fun and the return route is clear. Do not buy it as the foundation for a deadline-bound training station before those answers exist.
+
+## Which avionics variants are not interchangeable?
+
+G1000, G1000 NXi, G3000, and Cirrus Perspective share visual DNA but not identical physical control layouts or workflows. Even within G1000 families, aircraft makers and simulator developers can implement pages, softkeys, audio controls, autopilot functions, and touchscreen behavior differently.
+
+A popped-out screen may fit the panel while the knobs and buttons call the wrong events. A G1000 bezel may display a G3000 screen while providing none of the touchscreen or controller logic expected by that aircraft. A Cirrus user may need different controls around the display.
+
+Build an aircraft matrix before purchase:
+
+| Aircraft | Avionics variant | Simulator/add-on | PFD controls verified? | MFD controls verified? | Audio/autopilot path |
+| --- | --- | --- | --- | --- | --- |
+| Your primary trainer | Exact model | Exact version | Manufacturer proof | Manufacturer proof | Named hardware/software |
+| Secondary aircraft | Exact model | Exact version | Owner proof | Owner proof | Caveat noted |
+| Aspirational aircraft | Unknown | Unknown | Do not assume | Do not assume | Wait |
+
+## How hard is the USB and display setup?
+
+Treat two avionics panels as a small system, not “two monitors.” There is screen output, button/knob input, vendor connector software, simulator pop-outs, aircraft profiles, power, mounting, and Windows device recovery.
+
+![G1000 USB, display, software, and control architecture](/images/infographics/flight/g1000-usb-display-architecture-2026.svg)
+
+Count the computer's native display outputs, USB controllers, powered ports, and existing cockpit devices. Confirm whether the vendor approves hubs. Label PFD and MFD cables. Use a stable Windows monitor arrangement. Save connector and aircraft profiles. Test cold boot, simulator restart, sleep/wake, and reconnect behavior before routing cables permanently.
+
+For DisplayLink, verify the approved driver, USB version, and multi-panel behavior. For conventional display output, verify GPU output count and adapter behavior. Do not combine a new GPU driver, new avionics driver, Windows update, and cockpit rewire into one troubleshooting event.
+
+## What do owners love?
+
+Physical knobs and softkeys turn procedure rehearsal into hand memory. Flight plans, direct-to, course changes, approach selection, map range, and page navigation stop being mouse work. A dual-panel station also keeps the simulator view clean instead of covering it with floating instruments.
+
+Training-minded owners value repeatable flows. The panel can be excellent for practicing a procedure already taught correctly, rehearsing a flight, and reducing cockpit unfamiliarity. RealSimGear earns praise for tactile fidelity and a mature suite; FlightSimBuilder earns attention for value and flexibility.
+
+## What causes returns or disappointment?
+
+The biggest source of disappointment is aircraft mismatch. The next is setup overhead: pop-outs, connector software, Windows display behavior, and more cables than the product photo suggests. Desk width and monitor placement surprise buyers. Touch expectations can also be wrong: not every panel or aircraft uses touch in the same way.
+
+Another problem is confusing simulation with certified training. A home panel can build useful familiarity and bad habits with equal efficiency. Use it to rehearse procedures under appropriate instruction, not to invent them.
+
+<div class="callout warning"><div class="ct">// Do not buy this yet</div><p>If you cannot name the avionics variant in your primary aircraft or show that the physical keys map correctly, keep using pop-out screens. The bezel is not the compatibility proof.</p></div>
+
+## Beginner, intermediate, and advanced build paths
+
+**Beginner:** pop out the PFD/MFD to a second normal display and learn the workflow. This reveals whether a physical panel will solve a real problem.
+
+**Intermediate:** buy one FlightSimBuilder unit or another verified panel for the most-used role. Document connector software and aircraft profiles before adding the second.
+
+**Advanced:** build dual PFD/MFD plus audio/autopilot controls, a mounted panel, documented USB/display architecture, profile backups, and aircraft-specific checklists. RealSimGear becomes attractive here because suite cohesion saves integration work.
+
+## What should you buy?
+
+| Buyer | Recommendation | Honest verdict | Purchase route |
+| --- | --- | --- | --- |
+| Flexible enthusiast / touchscreen user | FlightSimBuilder G1000 TNxi | **Buy with compatibility check** | [Configure the current TNxi](https://flightsimbuilder.com/products/flightsimbuilder-g1000){:target="_blank" rel="nofollow noopener"} |
+| Premium procedure trainer | RealSimGear G1000 Suite | **Buy when aircraft match is proven** | [See the current RealSimGear suite](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx){:target="_blank" rel="nofollow noopener"} |
+| Price-sensitive early adopter | MOZA MGX1000 | **Wait for shipping reviews, or buy as a tester** | [Check MGX1000 launch and availability](https://mozaracing.com/products/mgx1000){:target="_blank" rel="nofollow noopener"} |
+
+These are specialist products without a verified exact Amazon offer we can recommend. We link directly to the manufacturers instead of substituting an affiliate search result.
+
+<details class="bench-secret"><summary>Val's four-line compatibility contract</summary><p>Write this before checkout: <strong>aircraft, avionics variant, simulator version, connector version.</strong> Under it, write the one procedure the panel must improve. If the seller cannot confirm that chain, the correct status is “wait,” no matter how good the launch video looks.</p></details>
+
+## Sources and research shelf
+
+- [MOZA MGX1000 official product page](https://mozaracing.com/products/mgx1000)
+- [MOZA next-generation flight hardware announcement, July 2026](https://mozaracing.com/blogs/news/new-gen-flight-series-products)
+- [FlightSimBuilder G1000 TNxi current product page](https://flightsimbuilder.com/products/flightsimbuilder-g1000)
+- [FlightSimBuilder instructions](https://flightsimbuilder.com/pages/flightsimbuilder-instructions)
+- [FlightSimBuilder FAQ](https://flightsimbuilder.com/pages/flightsimbuilder-faq-1)
+- [FlightSimBuilder's MGX1000 comparison page](https://flightsimbuilder.com/pages/mgx1000-vs-flightsimbuilder-g1000)
+- [RealSimGear G1000 Suite official product page](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx)
+- [RealSimGear MSFS 2020 and 2024 setup guide](https://help.realsimgear.com/g1000-setup-guide-for-microsoft-flight-simulator-2020-and-2024-realsimgear-help-center)
+- [RealSimGear dimensions and panel cutouts](https://help.realsimgear.com/panel-cutouts-dimensions-realsimgear-help-center)
+- [Current RealSimGear G1000 owner discussion](https://www.reddit.com/r/flightsim/comments/1ttjdek/realsimgear_g1000/)
+- [Current instrument-training simulator discussion](https://www.reddit.com/r/flightsim/comments/1u1qolj/instrument_training_sim/)
+- [Current MOZA MGX1000 launch discussion](https://www.reddit.com/r/flightsim/comments/1uli47c/way_to_go_moza/)
+- [MOZA flight hardware teaser discussion](https://www.reddit.com/r/flightsim/comments/1unjqpt/moza_teases_new_videos_of_their_new_flight_sim/)
+
+## Bottom line
+
+FlightSimBuilder is the value/flexibility choice, RealSimGear is the mature premium trainer, and MGX1000 is the exciting newcomer that still needs shipping evidence. The purchase starts with the aircraft, not the screen. Get that match right, and physical avionics can turn mouse work into procedure. Get it wrong, and you have built an expensive frame around the wrong cockpit.
+
+---
+
 ### TrackIR 5 vs Tobii Eye Tracker 5 for MSFS in 2026: The Honest Head-Tracking Verdict
 flight · comparison · by Mac Donovan · 2026-06-13 · https://ignitionsim.com/flight/head-tracking-trackir-vs-tobii-msfs
 TrackIR 5 vs Tobii Eye Tracker 5 for MSFS head tracking in 2026: how reflector/IR beats clip-free eye tracking, prices, precision, glasses and lighting, and which to buy.
@@ -2428,6 +2568,138 @@ VR is incredible for presence, but many builders should stabilize controls, perf
 
 ---
 
+### MOZA AY210 vs Brunner CLS-E MK II vs FliteSim CLS-60: Which Force-Feedback Yoke Is Worth It in 2026?
+flight · comparison · by Val Chen · 2026-07-15 · https://ignitionsim.com/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026
+MOZA AY210 vs Brunner CLS-E MK II vs FliteSim CLS-60 force-feedback yoke comparison: trim feel, force, mounting, software, compatibility, setup tax, and the honest 2026 verdict.
+
+**Verdict first: buy the MOZA AY210 when you want the best enthusiast-value route into believable trim and control loading; buy Brunner CLS-E MK II when mature training integration matters more than price; buy FliteSim CLS-60 when long pitch travel, modular upgrades, and instructor features are the point. Buy none until your mount, seat, USB plan, and patience can support a motorized flight control.**
+
+The useful thing about force feedback is not turbulence making the yoke jiggle. It is pressure. In a real light aircraft, trim reduces the force you are holding; it does not merely move a marker on the screen while a spring keeps dragging the yoke to center. The first time a well-configured yoke unloads your hand after a trim change, the category makes sense.
+
+The dangerous thing about force feedback is that the shopping page sells force while ownership is mostly software, mounting, aircraft profiles, power, and recovery after an update. A 210-newton pitch claim does not tell you whether your favorite add-on aircraft talks cleanly to the control-loading software. It also does not tell you whether the yoke handle is included.
+
+![Val Chen measuring the force and travel of a motorized home flight simulator yoke](/images/curator-scenes/july15/val-ffb-yoke-force-test.webp)
+
+*AI-assisted editorial scene, not product proof. Val's first move is measuring load and travel before comparing motor numbers.*
+
+<div class="callout tip"><div class="ct">// Val's field briefing</div><p>Force feedback should make the airplane easier to read, not the setup harder to trust. Start with one default Cessna, one plain profile, and one question: does trimming actually remove the pressure from my hand?</p></div>
+
+## What are you really buying with a force-feedback yoke?
+
+You are buying a closed loop between the simulator, an aircraft model, vendor software, a motorized mechanism, and your hands. If any link is weak, the yoke can still function as a USB axis, but the expensive part of the experience becomes generic or wrong.
+
+<div class="shotgrid">
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-installed.jpg" alt="Official MOZA AY210 force-feedback yoke base installed on a simulator desk" loading="lazy"><figcaption>MOZA's base is deep and substantial. The yoke handle, mounting choice, pitch clearance, and power brick belong in the budget. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-base.png" alt="Official close product view of the MOZA AY210 force-feedback base" loading="lazy"><figcaption>The control head and shaft make the service envelope visible. This is not a shallow spring yoke. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/moza-ay210-use.jpg" alt="Official installed MOZA AY210 yoke base showing pitch shaft and controls" loading="lazy"><figcaption>Front controls are useful only if the final panel and handle leave them reachable. <span class="source-credit">Official MOZA product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-mk2.png" alt="Official Brunner CLS-E MK II force-feedback yoke product photo" loading="lazy"><figcaption>Brunner is the control-loading incumbent: less mass-market sparkle, more training-system lineage. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-rear.png" alt="Official rear and side view of the Brunner CLS-E force-feedback yoke" loading="lazy"><figcaption>Rear depth, cable exits, and chassis mass matter to a panel builder more than a beauty angle. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-underdesk.jpg" alt="Real FliteSim CLS-60 force-feedback yoke installed beneath a desk" loading="lazy"><figcaption>Under-desk mounting is not cosmetic. It can put the shaft at a believable height and reclaim chart space. <span class="source-credit">Official FliteSim installation media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/flitesim-cls60-dimensions.jpg" alt="Official FliteSim CLS-60 mounting dimensions diagram" loading="lazy"><figcaption>The drawing to print before checkout: 165 mm of pitch travel needs room in both directions. <span class="source-credit">Official FliteSim documentation</span></figcaption></figure>
+</div>
+
+## Which yoke wins for most enthusiasts?
+
+**MOZA AY210 wins the broad enthusiast recommendation, with one large asterisk: price the complete system.** MOZA specifies 9 Nm sustained roll torque, 210 N pitch force, 150 mm of pitch travel, plus or minus 90 degrees of roll, a 15-bit magnetic encoder, and a 1000 Hz response rate. The base is 243 by 403 by 216 mm and weighs 8 kg. It is a PC product drawing up to 216 W, not something to hang from a thin particleboard lip.
+
+MOZA's current support material describes native telemetry force feedback for MSFS 2020/2024, X-Plane 12, and DCS without a separate third-party plugin. That lowers friction. It does not eliminate profiles, aircraft quirks, or calibration. The most common shopping mistake is comparing the base price against a complete rival while forgetting that the compatible yoke handle and mounting hardware may be separate.
+
+For someone building a serious but still recreational cockpit, AY210 is the cleanest intersection of force, modern software, ecosystem momentum, and price. It is also the unit most likely to tempt a spring-yoke owner into moving before the desk is ready. Resist that sequence.
+
+## When is Brunner worth the premium?
+
+**Buy Brunner when the simulator is a procedure and control-loading instrument first, entertainment second.** The CLS-E MK II sits in a mature ecosystem built around control loading, trim, autopilot behavior, networking, and professional-adjacent use. That maturity is why training-minded pilots keep it on the shortlist even as less expensive hardware arrives with louder specifications.
+
+The premium buys lineage and integration, not immunity from configuration. Brunner's software and simulator connection path require study. Panel builders need to account for the mechanism, clearances, mounting, and cable service. The home enthusiast who wants a dramatic upgrade for weekend bush flights can spend less. The instrument pilot building a repeatable station for known aircraft may value Brunner's conservatism.
+
+This is the caveat product in the good sense: expensive enough that you should document the exact aircraft, simulator, connector software, and mounting plan before speaking to the vendor. If those questions feel excessive, Brunner is probably not your lane.
+
+## Why would you choose FliteSim CLS-60 or CLS-120?
+
+**Choose FliteSim when pitch travel, modular training hardware, and shared instruction are higher priorities than slick mass-market integration.** The CLS-60 publishes 60 N maximum pitch force, 165 mm pitch travel, and plus or minus 90 degrees of roll. The chassis is all metal, weighs about 9.2 kg, and can be configured for on-desk or under-desk mounting with removable tabs. An upgrade path to the 120 N CLS-120 is part of the appeal.
+
+FliteSim's FFBTools V3 emphasizes auto-loading aircraft profiles, autopilot movement, custom aircraft integration, RemoteSync between controls, and ReplaySync for reviewing a flight. Those are not party tricks for an instructor or student. Feeling another pilot's input or replaying control movement changes the device from immersion hardware into a teaching instrument.
+
+The ownership warnings are equally concrete. FliteSim's April 2026 setup guide tells users to connect the yoke directly to the computer, not through a USB hub, and recommends beginning with a default Cessna 172. The store lists lead-time and shipping realities. Community discussion often praises the travel and training idea while noting that software polish and documentation can demand more effort than the MOZA path.
+
+![Force-feedback yoke decision map for MOZA, Brunner and FliteSim](/images/infographics/flight/ffb-yoke-decision-map-2026.svg)
+
+## What will installation actually consume?
+
+Plan the installation in five layers.
+
+**Structure:** the desk or profile frame must resist pitch push/pull and roll force without walking, flexing, or rotating. A motorized yoke makes weak furniture visible immediately. Measure the edge thickness, underside obstructions, shaft height, seat relationship, monitor clearance, and full 150-165 mm pitch envelope.
+
+**Safety:** the emergency stop or power cutoff needs to be reachable without diving under the desk. The cable route needs strain relief and enough service loop for full movement. Keep power bricks ventilated and keep fingers, sleeves, and loose cables away from the mechanism.
+
+**USB and power:** begin with the vendor-recommended direct path. Do not hide a troubleshooting problem behind an unpowered hub, five-meter mystery cable, or overloaded extension. Label the port and preserve the Windows device order before adding more panels.
+
+**Software:** install one vendor stack, update deliberately, calibrate raw axes, and create a neutral profile. Confirm that the simulator is not applying a second centering spring or conflicting trim behavior. Only then add ground roll, turbulence, stall, engine vibration, or other effects.
+
+**Aircraft validation:** start with a documented default aircraft. Check pitch and roll direction, trim unloading, autopilot movement, disconnect behavior, and force recovery. Then move to the add-on aircraft you actually care about.
+
+![Force-feedback yoke commissioning sequence](/images/infographics/flight/ffb-yoke-commissioning-sequence-2026.svg)
+
+<div class="callout warning"><div class="ct">// Do not buy this yet</div><p>If your seat rolls, your desk flexes, your monitor occupies the yoke's travel, or you cannot name the aircraft you want to validate, spend the weekend fixing the station. A force-feedback yoke magnifies the system around it.</p></div>
+
+## What do owners love after the honeymoon?
+
+The repeated positive is **trim becoming physical**. Pilots stop trimming by watching a number and start trimming to relieve pressure. Autopilot movement can stop feeling like invisible software. Slow-flight, flare, turbulence, stall onset, and heavy-control aircraft become easier to distinguish when profiles are credible.
+
+The second love is repeatability. A known aircraft profile can return the yoke to a familiar force curve without changing springs or elastic bands. Instructors and shared-cockpit users gain even more from synchronization and replay functions.
+
+The third is restraint. Experienced users tend to lower the fireworks after the first week. Engine vibration and runway texture can be useful, but authentic control loading and trim are the meal. If every event rattles the yoke, the information turns into noise.
+
+## What makes people regret or return one?
+
+The returns begin with physical surprise: weight, depth, handle cost, mount cost, under-desk interference, and the amount of pitch travel. The software surprises are next: profiles, firmware, aircraft-specific behavior, duplicate bindings, and the occasional evening lost to a configuration that worked yesterday.
+
+Another source of disappointment is buying for peak force. Most general-aviation flying does not need a strength contest. A high-force mechanism can be run gently; that does not mean the extra money solves the reader's actual problem. Travel, smoothness, trim behavior, deadband, software recovery, and the exact aircraft integration are usually more important.
+
+Finally, force feedback cannot make a poor flight model accurate. It can faithfully deliver whatever the simulator and profile tell it. Verify the aircraft stack, not just the hardware logo.
+
+## Beginner, intermediate, and advanced setup advice
+
+**Beginner:** keep force modest and the profile plain. Learn what proper trim unloading feels like in a C172. Do not add six effects because the checkboxes exist.
+
+**Intermediate:** create separate profiles for light GA, turboprop, and transport aircraft only after you can explain the differences. Keep notes on force, damping, friction, trim integration, and autopilot behavior.
+
+**Advanced:** document software and firmware versions, export profiles, test failure recovery, and use replay or synchronized controls for debriefing. Build a direct USB and power diagram. If the cockpit is enclosed, design service access before mounting the yoke permanently.
+
+## What should you buy?
+
+| Buyer | Best path | Why | Purchase route |
+| --- | --- | --- | --- |
+| Serious home enthusiast | MOZA AY210 complete bundle | Strong value, modern native telemetry path, substantial force and travel | [Check the complete AY210 system at MOZA](https://us.mozaracing.com/pages/ay210-yoke-base){:target="_blank" rel="nofollow noopener"} |
+| Training-first or professional-adjacent builder | Brunner CLS-E MK II | Mature control-loading and integration lineage | [Configure the CLS-E MK II at Brunner](https://shop.brunner-simulation.ch/product/cls-e-mk-ii-yoke/){:target="_blank" rel="nofollow noopener"} |
+| Modular instructor or long-travel builder | FliteSim CLS-60 / CLS-120 | 165 mm travel, upgrade path, RemoteSync and ReplaySync | [See current CLS-60 options](https://www.flitesim.com/shop/p/cls-60){:target="_blank" rel="nofollow noopener"} |
+| First-time flight simmer | Good passive yoke or stick first | Stabilize the room and habits before buying motor complexity | [Read the full 2026 yoke map](/flight/tca-sky-yoke-vs-honeycomb-alpha-xpc-vs-velocityone-vs-moza-ay210-2026) |
+
+There is no verified exact Amazon listing for these three specialist force-feedback systems that we can responsibly recommend. The purchase links above go to the manufacturers, not an Amazon search page pretending to be useful.
+
+<details class="bench-secret"><summary>Field log 07-15: Val's boring-profile pact</summary><p>Name one profile <strong>BASELINE - DO NOT IMPROVE</strong>. No vibration, no clever curve, no experimental aircraft. When a firmware update makes the yoke feel haunted, that profile is the control group that saves the evening.</p></details>
+
+## Sources and research shelf
+
+- [MOZA AY210 product page and current specifications](https://us.mozaracing.com/pages/ay210-yoke-base)
+- [MOZA AY210 support and compatibility](https://support.mozaracing.com/en/support/solutions/articles/70000679586-moza-ay210-yoke-base-support)
+- [MOZA AY210 user manual](https://back.mozaracing.com/wordpress/wp-content/uploads/2025/manual/AY210-FFB-Yoke-Base-Manual-EN.pdf)
+- [Brunner CLS-E MK II fact sheet](https://shop.brunner-simulation.ch/wp-content/uploads/2023/05/20211213_Brunner_FactSheet_CLSE-MK2-Yoke.pdf)
+- [Brunner CLS-E MK II quick installation guide](https://shop.brunner-simulation.ch/wp-content/uploads/2023/05/BRUNNER_QuickInstallGuide_CLS-EMKYoke2-1.pdf)
+- [FliteSim CLS-60 current product and specifications](https://www.flitesim.com/shop/p/cls-60)
+- [FliteSim MSFS 2020/2024 setup guide, updated April 2026](https://help.flitesim.com/en/articles/9962919-how-to-setup-cls-60-120-in-microsoft-flight-simulator-2020-2024)
+- [FliteSim FFBTools V3 documentation, updated May 2026](https://help.flitesim.com/en/articles/10054598-ffbtools-v3-software-documentation-updated-on-31-may-2026)
+- [Current community discussion: TCA yoke vs MOZA AY210](https://www.reddit.com/r/flightsim/comments/1uvw58q/thrustmaster_tca_yoke_vs_moza_ay210/)
+- [Community upgrade discussion: Honeycomb to force feedback](https://www.reddit.com/r/flightsim/comments/1uvogsv/is_it_worth_while_to_upgrade_from_a_homeycomb/)
+- [Real-pilot community review discussion of the AY210](https://www.reddit.com/r/flightsim/comments/1momtcu/real_pilot_review_moza_ay210_force_feedback_yoke/)
+- [Long-form owner discussion: is force feedback worth it?](https://www.reddit.com/r/flightsim/comments/1lpumbi/force_feedback_worth_it/)
+
+## Bottom line
+
+MOZA is the best enthusiast bet, Brunner is the premium training decision, and FliteSim is the most interesting modular teaching system. The winning purchase is the one whose aircraft integration, mounting, service access, and recovery plan already make sense on paper. Force feedback is brilliant when it communicates the airplane. It is exhausting when it communicates only that the software changed.
+
+---
+
 ### MSFS Home Cockpit Buyer Map 2026: Yoke, Throttle, Rudders, Panels, Head Tracking, and USB Sanity
 flight · buying-guide · by Val Chen · 2026-07-01 · https://ignitionsim.com/flight/msfs-home-cockpit-buyer-map-2026
 A practical Microsoft Flight Simulator hardware buyer map for 2026: Honeycomb, Logitech, Turtle Beach, rudders, TrackIR, Tobii, panels, mounts, and powered USB hubs.
@@ -2751,6 +3023,151 @@ Specifications, prices, availability, and community demand were rechecked July 1
 ---
 
 *Prices and availability change quickly. IgnitionSim uses affiliate links where an exact product can be verified; a qualifying purchase may earn the site a commission without changing your price or the verdict.*
+
+---
+
+### VKB STECS Mk II vs Virpil VMAX Prime vs WINCTRL Orion2 F-15EX: Best Premium HOTAS Throttle in 2026
+flight · comparison · by Val Chen · 2026-07-15 · https://ignitionsim.com/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026
+VKB STECS Mk II vs Virpil VMAX Prime vs WINCTRL Orion2 F-15EX premium throttle comparison: detents, ergonomics, mounting, software, support, and the honest 2026 verdict.
+
+**Verdict first: buy VKB STECS Mk II Standard for the broadest capability with the least regret; buy Virpil VMAX Prime for a premium mounted cockpit where compact control density and finish matter; buy WINCTRL Orion2 F-15EX when an aircraft-specific DCS layout is worth accepting more support and software caveats. Buy none before you print the footprint and test your wrist position.**
+
+Premium throttles are unusually easy to buy with your eyes. Metal toggles. backlit buttons. twin levers. hats everywhere. The ownership decision happens lower down: whether the grip is comfortable at idle and full military power, whether the ministick lands under the correct finger, whether the detent matches the aircraft, and whether you can recover the profile after an update.
+
+![Val Chen fitting throttle detent hardware and checking control reach at an aerospace bench](/images/curator-scenes/july15/val-throttle-detent-bench.webp)
+
+*AI-assisted editorial scene, not product proof. Val is doing the useful work: setting geometry before binding fifty inputs.*
+
+<div class="callout tip"><div class="ct">// Val's field briefing</div><p>The throttle you admire in a product render can become the throttle you avoid using because the slew control is one knuckle too far away. Ergonomics beats switch count after the second hour.</p></div>
+
+## What does each throttle do best?
+
+<div class="shotgrid">
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-main.jpg" alt="Official VKB STECS Mk II Standard premium throttle product photo" loading="lazy"><figcaption>STECS Standard is the system thinker: base, grips, detent frames, and modules form a configurable whole. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-side.jpg" alt="Official side view of VKB STECS Mk II throttle showing grip reach and lever travel" loading="lazy"><figcaption>The side view reveals the important question: where the wrist and fingers land across full travel. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/vkb-stecs-modules.jpg" alt="Official VKB STECS modular button and detent components" loading="lazy"><figcaption>Modularity is not decoration. It lets one throttle serve civil, combat, and space profiles without pretending they share one ideal detent. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-prime.png" alt="Official Virpil VMAX Prime premium metal throttle product photo" loading="lazy"><figcaption>VMAX Prime concentrates seven axes and 49 physical button inputs into a polished, compact premium unit. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/virpil-vmax-detents.png" alt="Official Virpil VMAX Prime detent plate options diagram" loading="lazy"><figcaption>Classic Plus, Warthog, Aerobatic, and CosmoSim detents are included; placement still needs calibration. <span class="source-credit">Official Virpil product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-hero.jpg" alt="Official WINCTRL Orion2 throttle base and F-15EX grip product media" loading="lazy"><figcaption>Orion2 sells aircraft identity: dense metal controls and a grip layout that makes most sense inside DCS. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-control.jpg" alt="Official close view of WINCTRL Orion2 F-15EX throttle controls" loading="lazy"><figcaption>Control density can reduce keyboard work, but only if the physical labels and software profile agree. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-installed.jpg" alt="Real pilot using an installed WINCTRL Orion2 throttle in a simulator cockpit" loading="lazy"><figcaption>Mounted near elbow height, the unit stops being a desk object and begins behaving like a cockpit control. <span class="source-credit">Official WINCTRL use media</span></figcaption></figure>
+</div>
+
+![Premium throttle fit map for VKB STECS, Virpil VMAX Prime and WINCTRL Orion2](/images/infographics/flight/premium-throttle-fit-map-2026.svg)
+
+## Why is VKB STECS the least-regret choice?
+
+**STECS wins when the buyer flies more than one kind of machine.** The Mk II Standard bundle combines twin throttle axes, modular detent frames, swappable controls, front-panel inputs, and VKB's deep configuration software. It is unusually good at becoming a different throttle instead of forcing every aircraft into one physical story.
+
+The clever part is the detent ecosystem. You can build idle/cutoff and afterburner behavior for military jets, a center detent for spaceflight, or a relatively clean civil profile. The less glamorous advantage is support culture: the VKB community has years of configuration notes, diagrams, and owner troubleshooting.
+
+The tradeoff is that modularity creates choices. First-time users can spend too long changing buttons, frames, curves, and modes before flying. The unit also occupies real desk or mount space. A Standard system that looks tidy in a product photo becomes a layered control surface once cables, mounts, and neighboring panels arrive.
+
+Choose STECS if you fly DCS today, Elite or Star Citizen tomorrow, and MSFS on Sunday. It is the throttle least likely to punish that indecision.
+
+## Who should buy Virpil VMAX Prime?
+
+**VMAX Prime is for the builder who wants a compact premium throttle and already accepts a mounted cockpit.** Virpil lists seven total axes and 49 physical button inputs, with metal handles, rubber grip pads, adjustable tension, swappable input modules, and included Classic Plus, Warthog, Aerobatic, and CosmoSim detent options.
+
+The ergonomic redesign is the buy case. Virpil moved away from simply cramming inputs onto the older shape and emphasizes natural hand position and reduced crowding. The contactless ministick, twin axes, encoders, toggles, and mode dial make it capable across fixed-wing, rotary, and space use.
+
+The caveats are premium-hardware caveats: stock and lead time can vary, a mount may be effectively mandatory, configuration software rewards patience, and the correct grip fit remains personal. Current store material showed backorder status during this review. Do not build a deadline-sensitive cockpit around an optimistic dispatch assumption.
+
+VMAX Prime is the emotional pick that still has an engineering case. It feels like a deliberate cockpit control. Buy it when the physical fit has been tested on paper and the price does not force you to delay rudders or mounts.
+
+## When is WINCTRL Orion2 F-15EX the better buy?
+
+**Orion2 is the value winner for a pilot who wants specific combat-aircraft controls, especially for DCS.** The metal base and F-15EX-style grip deliver a dense layout at a price that often undercuts boutique European hardware. The appeal is immediate: switches and levers that look like they belong to a combat jet rather than a universal peripheral.
+
+The risk is equally consistent in owner discussions. Happy users praise hardware value and aircraft feel. Unhappy users describe uneven support, shipping, quality-control, or software experiences. That does not make every Orion2 a gamble; it does make the return route and regional storefront part of the product.
+
+SimApp Pro is not optional background. It handles configuration, profiles, and device behavior. Install it before the return window becomes theoretical. Test every axis, detent, switch, backlight, and grip input. Export a known-good profile. Photograph the serial number and packaging before the box leaves the room.
+
+Orion2 is the correct buy when you can say, “I want this F-15EX control language for DCS,” not merely, “It has the most metal for the money.”
+
+## Which one fits a desk, mount, and human arm?
+
+The fit test takes fifteen minutes and prevents a year of micro-annoyance.
+
+1. Print or tape the published footprint onto cardboard.
+2. Sit in the chair at normal height with shoulder relaxed.
+3. Place the throttle so the forearm is roughly level and the elbow remains near the torso.
+4. Mark idle, mid-travel, military power, and full travel.
+5. Reach every critical hat and ministick without lifting the shoulder or rotating the wrist hard.
+6. Add the height of the mount plate and clearance beneath the desk.
+7. Check the cable exit and service loop at both ends of travel.
+
+A desktop throttle often sits too high. This produces shoulder elevation and wrist extension that feels fine for ten minutes and tiring after a mission. A mount also stops the base from moving when you cross a firm detent. The cheapest premium-throttle upgrade is frequently lowering the hardware.
+
+![Premium throttle detent and calibration sequence](/images/infographics/flight/throttle-detent-setup-sequence-2026.svg)
+
+## How should detents be commissioned?
+
+**Choose the aircraft behavior before fitting the plastic or metal.** Idle cutoff, ground idle, flight idle, military power, afterburner, reverse, and center detent are different jobs. Write the profile's intended aircraft at the top of the page.
+
+Fit the detent and set lever tension. Calibrate the raw physical axis through its entire travel. Record the percentage where the simulator recognizes each gate. Only then apply curves or saturation. Test a cold start, taxi/idle behavior, full military power, afterburner or reverse, and shutdown.
+
+Do not solve a wrong physical detent with a heroic software curve if moving the plate is the honest fix. Save one profile per aircraft family and name it with the simulator, aircraft, detent set, and date.
+
+## How should one throttle serve DCS, MSFS, and space sims?
+
+Do not make one universal profile carry three incompatible ideas of power. Build three shallow layers with the same emergency logic.
+
+**Combat flight:** reserve the physical gates for cutoff, idle, military power, and afterburner where the aircraft supports them. Keep speed brake, boat switch or sensor control, countermeasures, and a modifier under fingers that can reach them without releasing the grip. Map the controls your aircraft actually exposes, not every label printed on a generic diagram.
+
+**Civil flight:** remove or bypass an afterburner gate that has no meaning. Split levers for twin-engine work when appropriate. Give reverse, propeller, mixture, condition, or speed-brake logic a deliberate home. A premium combat throttle can fly airliners and turboprops, but the physical story should stop shouting “fighter” at every movement.
+
+**Spaceflight:** a center or soft detent can separate forward and reverse thrust, while a ministick or auxiliary axis handles translation. Keep boost, speed limiter, cruise, landing mode, and countermeasures consistent. Space sims have enough controls to make a five-layer profile technically possible and practically forgotten; visible labels or a companion deck are better than modifier archaeology.
+
+<figure class="wide-shot"><img src="/images/source-backgrounds/flight/pilot-flight-simulator.webp" alt="Real pilot using installed flight simulator throttle and cockpit controls" loading="lazy"><figcaption>A real seated cockpit makes the ergonomic requirement obvious: the throttle should meet a relaxed arm, not force the shoulder to climb toward the desk. <span class="source-credit">Licensed real-use context</span></figcaption></figure>
+
+Use the same red-line actions in every profile: pause or escape, view reset, push-to-talk, and whatever control safely returns the simulator to a neutral state. Consistency at the edges makes variety in the middle usable.
+
+<div class="callout warning"><div class="ct">// The weekend killer</div><p>Installing all three vendor suites, changing USB ports, fitting new detents, updating firmware, and binding a full aircraft in one night destroys your ability to diagnose anything. Change one layer, fly, save, then continue.</p></div>
+
+## What do owners love?
+
+STECS owners repeatedly value adaptability, detent options, and the fact that controls can be rearranged around actual use. Virpil owners value the dense premium feel, compact shape, and a grip that feels purpose-designed. Orion2 owners value aircraft-specific hardware and the amount of metal, switching, and axis control they receive for the money.
+
+Across all three, the biggest upgrade is not immersion language. It is reducing keyboard reach. Engine starts, radar work, sensors, countermeasures, speed brakes, flaps, and mode changes become physical habits. That makes a complex simulator calmer.
+
+## What causes regret?
+
+The first regret is buying before mounting. The second is discovering the ministick or hats do not suit the buyer's hand. The third is assuming one detent profile will feel correct in every aircraft. The fourth is support friction after a damaged shipment or failed input.
+
+Another common mistake is mapping every switch immediately. A throttle with 49 inputs does not require 49 decisions on night one. Start with engine, power, flaps/speed brake, trim if appropriate, sensors, and the controls that currently force the hand onto the keyboard. Add layers after muscle memory exists.
+
+## What should you buy now?
+
+| Pilot | Recommendation | Why | Buy / verify |
+| --- | --- | --- | --- |
+| Mixed DCS, MSFS, Elite, and Star Citizen pilot | VKB STECS Mk II Standard | Best modularity and least ecosystem regret | [See the current STECS Mk II Standard](https://vkb-sim.com.au/collections/all/products/stecs-throttle-system-mk-ii-standard){:target="_blank" rel="nofollow noopener"} |
+| Premium mounted cockpit builder | Virpil VMAX Prime | Refined compact metal control with excellent density | [Check VMAX Prime stock and configuration](https://virpil-controls.co.uk/vpc-vmax-prime-throttle.html){:target="_blank" rel="nofollow noopener"} |
+| DCS aircraft-specific value buyer | WINCTRL Orion2 F-15EX | Strong hardware value and recognizable combat layout | [Verify the exact Orion2 bundle at WINCTRL](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/){:target="_blank" rel="nofollow noopener"} |
+| Unmounted desk pilot | Mount first | Ergonomics and stability unlock the expensive control | [Read the flight-control mounting guide](/flight/how-to-mount-flight-sim-hardware) |
+
+These premium models are commonly sold direct. We found no exact, consistently verifiable Amazon listing for these configurations, so we are not sending readers to a vague Amazon search result.
+
+<details class="bench-secret"><summary>Bench easter egg: the fifteen-minute cardboard throttle</summary><p>Cut the footprint from a cereal box. Tape a marker upright where the grip will be. Move it through the full arc while flying one mission with your current throttle. Where the marker hits your wrist or monitor stand is where the expensive version will annoy you too.</p></details>
+
+## Sources and research shelf
+
+- [VKB STECS Mk II Standard official product page](https://vkb-sim.com.au/collections/all/products/stecs-throttle-system-mk-ii-standard)
+- [VKB STECS Standard mechanical drawing](https://shop.vkb-sim.pro/wp-content/uploads/2024/02/stecs-standard.pdf)
+- [Long-term STECS review and ownership notes](https://stormbirds.blog/2025/05/12/long-term-review-of-vkbs-stecs-throttle-system/)
+- [Virpil VMAX Prime official product page](https://virpil-controls.co.uk/vpc-vmax-prime-throttle.html)
+- [Virpil user manuals and support portal](https://support.virpil.com/en/support/solutions/folders/47000780141)
+- [Virpil custom detent documentation and files](https://virpil-controls.co.uk/blog/3d-print-your-own-throttle-detents.html)
+- [WINCTRL Orion2 official product overview](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/)
+- [WINCTRL SimApp Pro manual](https://winctrl.com/static/assets/files/en/SIMAPP%20Pro%201.9.11-User%20Manual%20EN%20V1.2.pdf)
+- [Current HOTAS community comparison: STECS vs VMAX](https://www.reddit.com/r/hotas/comments/1s1nrcl/should_i_choose_the_vkb_stecs_the_virpil_vmax/)
+- [Current community comparison: STECS vs Orion2](https://www.reddit.com/r/hotas/comments/1shm7c3/vkb_stecs_or_winwing_orion_2_strikeace_ex/)
+- [Long-term upgrade discussion: WinWing vs Virpil vs VKB](https://www.reddit.com/r/hotas/comments/1s2ef41/hotas_upgrade_after_78_years_winwing_vs_virpil_vs/)
+- [Current owner discussion: VKB vs Virpil](https://www.reddit.com/r/hotas/comments/1uiqhyk/vkb_vs_virpil_info_pls/)
+
+## Bottom line
+
+STECS is the rational winner, VMAX Prime is the premium ergonomic winner, and Orion2 is the aircraft-specific value winner with the largest support caveat. The right throttle is not the one with the most controls. It is the one whose controls remain reachable, memorable, recoverable, and useful after the screenshots stop being exciting.
 
 ---
 
@@ -9496,6 +9913,137 @@ DIY + free-sim references: [Bridge Command (free, open source)](https://www.brid
 Upcoming title: [Professional Ship Simulator on Steam (ex-Nautic XP)](https://store.steampowered.com/search/?term=professional+ship+simulator).
 
 Community + mapping tools (paraphrased in our voice): the recurring Bridge Command builders'-forum friction trick, plus the standard glue-software stack — [vJoy](https://sourceforge.net/projects/vjoystick/), [JoyToKey](https://joytokey.net/en/), and [Xpadder](https://www.xpadder.com/).
+
+---
+
+### Best Twin-Engine Marine Sim Throttle Controls 2026: Honeycomb Bravo vs TCA vs Leo Bodnar DIY
+marine · comparison · by Gus Calder · 2026-07-15 · https://ignitionsim.com/marine/marine-sim-twin-engine-throttle-controls-2026
+Honeycomb Bravo vs Thrustmaster TCA Quadrant vs Leo Bodnar BU0836X for twin-engine marine simulators: axes, neutral detents, ahead and astern mapping, DIY build tax, and buyer verdicts.
+
+**Verdict first: buy the Thrustmaster TCA Quadrant to prove the idea cheaply; buy Honeycomb Bravo when six flexible axes and extra switches make a useful shared bridge desk; build around a Leo Bodnar BU0836X only after the simulator has proven it can preserve port, starboard, neutral, ahead, and astern exactly the way you need.**
+
+Marine simulation has an unusual hardware problem: the professional version exists, but the consumer ecosystem barely does. Full bridge simulators have twin-engine levers, helm, radar, ECDIS, conning displays, and instructor stations. Home users have flight quadrants, racing wheels, button boxes, interface boards, and stubbornness.
+
+That is not a weakness if you sequence the project correctly. A $100-class quadrant can prove whether the software maps two engines. A $300-class Bravo can create a flexible station. A $60-class interface board can become an excellent custom throttle after several weekends of mechanical work. The board is not the hard part. The trustworthy neutral detent is.
+
+![Gus Calder measuring neutral spacing on a twin-engine marine simulator control prototype](/images/curator-scenes/july15/gus-twin-engine-detent-check.webp)
+
+*AI-assisted editorial scene, not product proof. Gus is measuring the lever mechanism because “roughly neutral” is not a docking control.*
+
+<div class="callout tip"><div class="ct">// Gus's field briefing</div><p>Before you mill aluminum, map two spare axes and dock the same vessel ten times. If the simulator forgets one engine after restart, your problem is not the lever handle.</p></div>
+
+## What real hardware can a home marine builder use?
+
+<div class="shotgrid">
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Official Thrustmaster TCA Quadrant Airbus Edition product photo" loading="lazy"><figcaption>TCA is the inexpensive experiment: two compact axes, physical detents, and a low-risk way to test port and starboard. <span class="source-credit">Official Thrustmaster product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-use.png" alt="Real user using the Thrustmaster TCA Quadrant in an installed simulator" loading="lazy"><figcaption>Real-use scale matters. The levers are close together and aircraft-styled, but the paired motion translates well to twin-engine testing. <span class="source-credit">Official Thrustmaster use media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Official Honeycomb Bravo six-axis throttle quadrant product photo" loading="lazy"><figcaption>Bravo provides six lever axes plus trim, autopilot controls, switches, and annunciators. A lot of bridge can hide inside an aircraft box. <span class="source-credit">Official Honeycomb product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Official Leo Bodnar BU0836X USB joystick controller board product photo" loading="lazy"><figcaption>BU0836X is the electrical shortcut: eight analog axes and abundant button inputs without writing a custom USB firmware stack. <span class="source-credit">Official Leo Bodnar product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-inputs.jpg" alt="Official installed wiring example for Leo Bodnar BU0836X inputs" loading="lazy"><figcaption>Screw terminals make prototyping friendly, but every wire still needs strain relief, labels, and a service path. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-dual-pots.png" alt="Official Leo Bodnar diagram for wiring dual potentiometers as analog axes" loading="lazy"><figcaption>The electrical diagram is simple. Building two smooth, durable lever mechanisms is the actual project. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-joystick-map.png" alt="Official Bridge Command joystick and throttle mapping screen" loading="lazy"><figcaption>Software proof before fabrication: Bridge Command documents joystick mapping and axis assignment. <span class="source-credit">Official Bridge Command documentation</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-control-room.jpg" alt="Real Bridge Command simulator control room with installed bridge controls" loading="lazy"><figcaption>The end state is functional rather than glamorous: displays, labels, levers, and a station another person can understand. <span class="source-credit">Official Bridge Command media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bridge-command-tug.png" alt="Official Bridge Command tug simulation gameplay screenshot" loading="lazy"><figcaption>Slow-speed tug work is exactly where independent engine control becomes more than decoration. <span class="source-credit">Official Bridge Command screenshot</span></figcaption></figure>
+</div>
+
+![Marine twin-engine throttle axis map](/images/infographics/marine/marine-twin-engine-axis-map-2026.svg)
+
+## Is the TCA Quadrant enough?
+
+**TCA is enough to answer the first question: does independent twin-engine control improve this simulator?** The Airbus Edition gives two main axes, physical detents, and reverse-style movement in a compact case. It is designed for aircraft, so marine use is repurposing, not plug-and-play support.
+
+Map left to port and right to starboard. Calibrate full travel and inspect the raw input. Determine whether the simulator expects zero-to-full thrust, a centered negative/positive axis, separate ahead/astern commands, or buttons for reverse. If the detents land in the wrong place, adjust deadzones or remove/ignore the physical gate where possible.
+
+TCA's advantage is emotional restraint. If the software cannot save the two axes, handles reverse badly, or combines both engines after restart, you have learned that before building a mahogany pedestal. If the test succeeds, the quadrant can remain a perfectly useful small bridge control.
+
+The weakness is the same as the price: short, closely spaced aircraft levers do not feel like a ship's engine order telegraph. That matters less during proof and more during long-term immersion.
+
+## Why is Honeycomb Bravo the best ready-made bridge control?
+
+**Bravo wins flexibility.** Six lever axes can represent two engines, bow and stern thrusters, controllable-pitch propellers, or other vessel-specific controls. The trim wheel can test helm or auxiliary behavior. The switches and autopilot panel can become lights, horn, camera, radar range, view, or navigation functions where the simulator permits.
+
+The physical unit is broad and bulky. That is a drawback on a cramped desk and an advantage on a shared station because the controls are easier to separate and label. Replaceable lever handles help distinguish roles. A bright label strip can turn aviation vocabulary into port, starboard, thruster, and clutch logic without pretending the original panel is marine hardware.
+
+Do not buy Bravo because every switch must be used. Buy it when the six axes solve several bridge functions and the station has room. A row of unbound annunciators is harmless; a lever you cannot reach while looking at the harbor is not.
+
+## When should you build the BU0836X DIY throttle?
+
+**Build DIY when geometry is now the limitation, not software certainty.** The BU0836X exposes analog axes and button inputs as a USB controller. It is an excellent heart for paired levers, rudder/helm sensors, toggles, encoders, and labeled bridge panels.
+
+The material list extends beyond the board: two quality potentiometers or Hall sensors, shafts or linkages, bearings or bushings, hard stops, center detents, lever handles, enclosure, wire, ferrules, terminals, USB strain relief, fasteners, labels, and access panels. The mechanism must hold neutral without jitter and must not over-rotate the sensor.
+
+Bridge Command's own DIY throttle documentation demonstrates the honest appeal of this approach. The simulator community expects adaptation. But a successful one-off mechanism is not automatically durable. Build a cardboard or plywood prototype, run docking sessions, then translate the proven geometry into the final material.
+
+## How should ahead, neutral, and astern be mapped?
+
+First inspect the simulator. There are three common patterns.
+
+**Centered axis:** the middle represents neutral, one direction is ahead, the other astern. Create a small neutral deadzone large enough to stop jitter but not so large that the lever feels vague.
+
+**Zero-to-full axis plus reverse command:** the axis controls magnitude and a separate button or detent changes direction. This works with aircraft quadrants but feels less like a marine lever.
+
+**Separate ahead and astern inputs:** a mapping layer or custom logic may combine two ranges. This is the most flexible and the easiest to make confusing. Document the transformation.
+
+Calibrate both engines separately. Check that equal physical lever positions produce equal thrust indications. If one side drifts, correct the sensor or calibration rather than compensating with your hand forever.
+
+![Marine simulator throttle build sequence](/images/infographics/marine/marine-throttle-build-sequence-2026.svg)
+
+## What does a reliable DIY build require?
+
+Use a serviceable design. The bottom should open without dismantling the lever shafts. Wires need labels at both ends. Sensor connectors should be removable. The USB cable needs strain relief. Moving metal needs hard stops that protect the sensor. The neutral detent should be replaceable.
+
+Use a powered or direct USB plan appropriate to the station. Save calibration screenshots and the mapping profile. Write the vessel and simulator version on the file. If the sim supports several vessels, establish one reference tug or twin-screw ship before creating specialized curves.
+
+<div class="callout warning"><div class="ct">// Gus's stop-work test</div><p>If port and starboard do not return to the same neutral value ten times in a row, stop decorating the panel. Fix the sensors, linkage, or deadzone. Brass labels cannot rescue a wandering axis.</p></div>
+
+## What do builders love?
+
+Independent engines transform docking. Pivoting, backing, ferry approaches, tug work, and slow-speed control stop feeling like a keyboard abstraction. The station also becomes understandable to guests: two levers tell a story immediately.
+
+DIY builders love choosing lever throw and spacing. A longer throw makes fine control easier. A deliberate neutral detent reduces visual checking. Physical labels make the bridge shareable. The result can feel more authentic than repurposed hardware without costing professional-simulator money.
+
+## What causes regret?
+
+The largest regret is building a mechanism before proving software support. Next is weak neutral behavior: cheap sensors, flexible linkages, no hard stops, and noisy wiring. Another is making the enclosure beautiful but impossible to service.
+
+Ready-made quadrants have their own friction. Aircraft detents may land at useless marine positions. Reverse logic can be awkward. Software may expose only one combined throttle. Some games do not support the axes expected by serious builders. This niche rewards testing, not assumptions.
+
+## Beginner, intermediate, and advanced paths
+
+**Beginner:** map two axes on TCA or any spare quadrant. Prove port, starboard, ahead, and astern in one vessel.
+
+**Intermediate:** use Bravo, label the six levers, add helm and a small button box, and save a documented profile.
+
+**Advanced:** build BU0836X hardware with Hall sensors, replaceable detents, hard stops, service access, and a calibration sheet. Add displays only after the controls survive repeated docking sessions.
+
+## What should you buy?
+
+<div class="buygrid">
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition exact model" loading="lazy"><h3>Thrustmaster TCA Quadrant</h3><p>The low-risk twin-axis proof. Buy this before commissioning a custom pedestal.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B086J6KWTZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Honeycomb Bravo Throttle Quadrant exact model" loading="lazy"><h3>Honeycomb Bravo</h3><p>Six flexible axes and enough controls for a capable shared bridge desk.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Leo Bodnar BU0836X exact controller board" loading="lazy"><h3>Leo Bodnar BU0836X</h3><p>The electrical core for a real custom lever. The mechanical project remains yours.</p><a class="btn" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Buy direct from Leo Bodnar</a></article>
+</div>
+
+<details class="bench-secret"><summary>Gus's dock-before-varnish challenge</summary><p>Build the first lever from scrap plywood, clamp it to the desk, and dock at three different berths. Mark every place your hand wanted more throw, a stronger detent, or a different spacing. The final enclosure gets built from those marks, not from a glamorous bridge photograph.</p></details>
+
+## Sources and research shelf
+
+- [Bridge Command DIY throttle documentation](https://www.bridgecommand.co.uk/Doc/4.2/makethrottle.php)
+- [Bridge Command joystick configuration guide](https://www.bridgecommand.co.uk/Doc/joystick.php)
+- [Bridge Command simulator project](https://www.bridgecommand.co.uk/)
+- [Honeycomb Bravo official product page](https://flyhoneycomb.com/products/bravo-throttle-quadrant)
+- [Thrustmaster TCA Quadrant Airbus Edition official product page](https://www.thrustmaster.com/products/tca-quadrant-airbus-edition/)
+- [Leo Bodnar BU0836X official product page](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180)
+- [Marine Institute of Technology and Graduate Studies 2026 simulation guide](https://www.mitags.org/wp-content/uploads/2026/01/Simulation-Guide-2026-Final-Version.pdf)
+- [MarineVerse simulator ecosystem](https://www.marineverse.com/)
+- [eSail sailing simulator](https://www.esailyachtsimulator.com/)
+- [Sailaway sailing simulator](https://sailaway.world/home)
+- [IgnitionSim research synthesis: marine hardware reality](/marine/marine-sim-hardware-reality)
+- [IgnitionSim DIY Bridge Command throttle guide](/marine/diy-bridge-command-throttle)
+
+## Bottom line
+
+TCA is the test, Bravo is the flexible appliance, and BU0836X is the path to a bridge control that feels like yours. The order matters. Prove the software, prove the axes, prove the neutral, then earn the beautiful lever.
 
 ---
 
@@ -16649,6 +17197,137 @@ You can, but we would still solve mounts and binds early. Virpil is excellent pr
 Right-hand VKB Gladiator, left-hand VKB Omni-Throttle or second Gladiator, and a plan for mounts. If you cannot reach that budget, price dual WinWing Ursa Minors and accept the support/reliability tradeoff.
 
 Useful source shelf: [VKB Gladiator NXT EVO official](https://vkbsimcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand-us), [VIRPIL Constellation Alpha announcement](https://virpil.com/en/blog/174-introducing-the-vpc-constellation-alpha-grip), [VIRPIL Alpha Prime official](https://virpil-controls.us.com/vpc-constellation-alpha-prime-r.html), [WinWing Ursa Minor official](https://winctrl.com/view/goods-details.html?id=558), [Skyward Flight Media Ursa Minor review](https://www.skywardfm.com/post/winwing-ursa-minor-fighter-short-honest-review), [r/hotas 2026 X56 discussion](https://www.reddit.com/r/hotas/comments/1swnf8e/first_hotas_for_star_citizen_is_the_x56_still/), [r/starcitizen current HOSAS recommendations](https://www.reddit.com/r/starcitizen/comments/1r3rj9z/what_hostas_to_get_are_these_good_or_star_citizen/), [r/starcitizen Virpil vs VKB upgrade discussion](https://www.reddit.com/r/starcitizen/comments/1u3lvs5/hosas_upgrade_virpil_vs_vkb/).
+
+---
+
+### Star Citizen Mining and Salvage Control Deck 2026: Stream Deck, Real Axes, and Patch-Safe Bindings
+space · how-to · by Val Chen · 2026-07-15 · https://ignitionsim.com/space/star-citizen-mining-salvage-control-deck-2026
+Build a Star Citizen mining and salvage control deck with Stream Deck Plus or XL, real analog axes, VKB modules, mode pages, binding backups, and a practical 2026 setup map.
+
+**Verdict first: build the deck around one career loop, not every possible keybind. Use Stream Deck Plus or XL for visible mode pages and commands; keep mining laser power on a real analog axis; export the profile before you decorate the buttons. The right control deck makes work calmer. The wrong one gives you forty beautiful icons and no precise way to fracture a rock.**
+
+Mining and salvage are ideal simulator-builder jobs because the fantasy and the interface agree. You are already operating equipment, changing modes, managing power, watching a process window, and moving cargo. A small physical deck can make that loop feel like a station instead of a keyboard exam.
+
+The trick is separating **memory controls** from **precision controls**. A labeled key is excellent for “enter mining mode.” A button page is excellent for changing from fracture to extraction. Laser power is continuous. It wants a lever, slider, throttle axis, or genuine analog input that your fingers can adjust without looking away.
+
+![Val Chen mapping mining, fracture, extraction, and salvage controls in an editorial spacecraft operator cabin](/images/curator-scenes/july15/val-salvage-control-mapping.webp)
+
+*AI-assisted editorial scene, not a Star Citizen screenshot or product photo. Val is mapping a career loop, not pretending the fictional console is retail hardware.*
+
+<div class="callout tip"><div class="ct">// Val's field briefing</div><p>If a control changes a mode, label it. If it changes a quantity, put it on an axis. If a patch can erase it, back it up before you admire it.</p></div>
+
+## What does real mining gameplay ask your hands to do?
+
+RSI's updated mining guide breaks the loop into scanning, fracturing, and extraction. Scanning finds candidates and reveals composition, resistance, and instability. Fracturing asks the operator to raise energy into a useful window without pushing into overcharge. Extraction switches the beam's purpose and collects valuable material.
+
+That sequence is the control architecture. It needs a scan action, a mode entry, target or aim control, beam activation, precise power control, fracture/extraction switching, and situational flight. Salvage adds its own beam modes, head or tool selection, tractor/cargo actions, and movement around the hull.
+
+<div class="shotgrid">
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-action.jpg" alt="Official Star Citizen mining gameplay screenshot with a real in-game pilot using a mining laser" loading="lazy"><figcaption>The career fantasy: position, scan, control energy, and extract without playing keyboard hide-and-seek. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-1.png" alt="Official Star Citizen mining HUD screenshot showing the first mining interface state" loading="lazy"><figcaption>The HUD is already a checklist. The physical deck should mirror its sequence rather than inventing a different one. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-2.png" alt="Official Star Citizen fracture gameplay interface screenshot" loading="lazy"><figcaption>Fracture is where continuous control matters. A reachable axis is more useful than another page of buttons. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/star-citizen-mining-ui-3.png" alt="Official Star Citizen extraction gameplay interface screenshot" loading="lazy"><figcaption>Extraction needs an obvious mode state. Color and page change can stop expensive operator confusion. <span class="source-credit">Official RSI support media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Official Elgato Stream Deck Plus product photo with keys, touch strip, and dials" loading="lazy"><figcaption>Plus combines visible keys with four dials, but dial-to-game behavior still depends on the mapping path. <span class="source-credit">Official Elgato product media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-desk.png" alt="Official installed Stream Deck Plus on a real desktop" loading="lazy"><figcaption>Place it where the non-flight hand can reach without crossing the sticks. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus-use.jpg" alt="Real user using Elgato Stream Deck Plus dials and keys at a desk" loading="lazy"><figcaption>The useful proof is scale: four dials and eight keys are compact enough to sit beside HOSAS without consuming the cockpit. <span class="source-credit">Official Elgato use media</span></figcaption></figure>
+  <figure><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="Official VKB GNX Side Extension Module with real switches and analog axes" loading="lazy"><figcaption>GNX modules provide genuine joystick inputs, toggles, and axes when tactile control matters more than changing labels. <span class="source-credit">Official VKB product media</span></figcaption></figure>
+</div>
+
+![Star Citizen mining and salvage career control map](/images/infographics/space/star-citizen-career-control-map-2026.svg)
+
+## Stream Deck Plus, XL, or physical modules?
+
+**Choose Stream Deck Plus when four dials and a compact footprint fit the station.** It is excellent for visible mode changes, laser/beam toggles, cargo actions, power presets, and page switching. The touch strip can provide state and navigation. The warning is specific: a Stream Deck dial is not automatically the same thing as a DirectInput joystick axis. Plugins and mapping layers may translate turns into repeated keys or other actions. Verify whether the result is smooth enough for the exact mining power control you expect.
+
+**Choose Stream Deck XL when visibility and page reduction matter more than rotary controls.** Thirty-two visible keys can keep flight survival, mining, salvage, cargo, and recovery actions on fewer layers. XL is especially useful for a shared rig or a pilot who hates remembering modified layers. It still needs a separate analog solution.
+
+**Choose VKB GNX SEM/THQ or another physical module when you want native axes and tactile switches.** A lever can become laser power. Toggle behavior can feel like equipment. The cost is footprint, configuration software, and labels that do not change automatically between careers.
+
+**Choose a hybrid if the career loop is the point.** A Plus or XL for memory and mode state, plus one analog axis from a throttle, GNX module, spare quadrant, or purpose-built box, is the highest-confidence build.
+
+## What should be on the first mining page?
+
+Do not begin with icons. Begin with a successful loop.
+
+1. Scan or ping.
+2. Enter and leave mining mode.
+3. Activate or deactivate the laser.
+4. Adjust laser power on a physical axis.
+5. Switch fracture and extraction modes.
+6. Select or activate mining modules if used.
+7. Toggle gimbal or head behavior where relevant.
+8. Keep landing/VTOL, lights, and emergency flight actions reachable.
+
+Use one color family for mode, another for danger, and another for cargo. A page change should make the current career state obvious from peripheral vision. Avoid eight nearly identical orange rock icons.
+
+## How should salvage differ?
+
+Salvage should be a separate page because the operator's questions change. Which beam or head is active? Is the tool in the intended mode? Where are tractor, cargo, fracture/disintegration, and ship-position controls? Which action can damage or waste material?
+
+Preserve common safety controls in the same positions across pages: exit mode, beam off, landing/VTOL, lights, and a return to flight page. Consistency matters more than filling every key.
+
+The community pattern is to double-bind some functions by operator or master mode rather than creating a giant universal layer. That can work well, but document it. Clever layers disappear from memory faster than physical labels suggest.
+
+## How do you keep the deck working after a patch?
+
+Star Citizen's binding system is part of the hobby. RSI provides export/import guidance, and community maintainers publish profiles, but copied maps remain starting points. Device IDs, left/right joystick order, firmware, and personal control philosophy vary.
+
+![Star Citizen binding backup and recovery flow](/images/infographics/space/star-citizen-binding-recovery-flow-2026.svg)
+
+Create a survival profile first. Export it with a name that includes the date and current patch. Copy the relevant profile/actionmaps files to a separate folder. Screenshot the in-game device mapping and photograph the physical deck. Export Stream Deck or plugin profiles separately. Write down USB port order for both sticks and modules.
+
+After an update, test in this order: pitch/roll/yaw, translation, throttle/speed limiter, fire and targeting, landing, mining axis, mining mode, then salvage. Do not discover a reversed axis while carrying a valuable load near a station.
+
+<div class="callout warning"><div class="ct">// Patch-day trap</div><p>Importing a famous community profile can save time, but it can also hide assumptions about left/right devices, modifiers, inversion, and play style. Read the map before trusting it under pressure.</p></div>
+
+## What do builders love?
+
+Visible labels remove a surprising amount of cognitive load. Mining becomes a process instead of a recall test. Salvage feels like operating a tool. Page changes reinforce modes. A real lever makes laser power steadier and keeps eyes on the charge window.
+
+The deeper satisfaction is that a career deck can be modest. It does not need to imitate a fictional cockpit. One device and one axis can produce more functional immersion than a wall of decorative toggles.
+
+## What makes the setup annoying?
+
+Plugins can break or change. Icons drift out of date. A dial may send repeated keypresses rather than a smooth axis. Device order can change. A profile copied from another pilot can conflict with HOSAS philosophy. Pages can become too deep, and important actions disappear behind a folder exactly when they are needed.
+
+USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, audio, and charging devices can overwhelm a casual hub. Keep high-draw or timing-sensitive hardware on an appropriate powered path and document ports.
+
+## Beginner, intermediate, and advanced builds
+
+**Beginner:** use the current stick or throttle axis for laser power and create one eight-key mining page. Prove the loop before buying hardware.
+
+**Intermediate:** add Stream Deck Plus or XL, separate mining and salvage pages, consistent safety keys, and exported profiles. Keep one real analog axis.
+
+**Advanced:** add a physical module with dedicated axis, mode-aware profiles, backup automation, labeled USB topology, and a printed recovery sheet. Consider operator-specific stations only after one seat works perfectly.
+
+## What should you buy?
+
+<div class="buygrid">
+  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Elgato Stream Deck Plus exact product" loading="lazy"><h3>Elgato Stream Deck Plus</h3><p>Best compact visible-command deck with four useful dials. Verify the analog mapping behavior you need.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B0BJL8SJ59?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
+  <article><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL exact product" loading="lazy"><h3>Elgato Stream Deck XL</h3><p>Best for thirty-two visible actions and fewer page layers. Pair it with a real analog axis.</p><a class="btn" href="https://www.elgato.com/us/en/p/stream-deck-xl" target="_blank" rel="nofollow noopener">Check Stream Deck XL at Elgato</a></article>
+  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="VKB GNX Side Extension Module" loading="lazy"><h3>VKB GNX modules</h3><p>Best when native axes, toggles, and tactile controls matter more than dynamic labels.</p><a class="btn" href="https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem" target="_blank" rel="nofollow noopener">See the GNX SEM</a></article>
+</div>
+
+<details class="bench-secret"><summary>Open Val's salvage-shift checklist</summary><p><strong>Before launch:</strong> test beam off, mode exit, analog range, landing controls, and profile export. <strong>Before cargo:</strong> photograph the page and label the backup. <strong>After patch:</strong> restore flight first, career second, cosmetics last.</p></details>
+
+## Sources and research shelf
+
+- [RSI Mining Basics, updated June 8, 2026](https://support.robertsspaceindustries.com/hc/en-us/articles/360007611573-Mining-Basics)
+- [RSI controls and keybindings support](https://www.starcitizen.support/controls-keybindings)
+- [RSI custom profile export and import guide](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)
+- [Elgato Stream Deck Plus official product page](https://www.elgato.com/us/en/p/stream-deck-plus-black)
+- [Star Citizen Stream Deck plugin documentation](https://robdk97.github.io/SCStreamDeck/install/)
+- [VKB GNX Side Extension Module](https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem)
+- [Current community mining and salvage HOSAS binding discussion](https://www.reddit.com/r/starcitizen/comments/1t4vwgh/salvagingmining_binds_with_hosas/)
+- [Current community discussion: what is worth binding](https://www.reddit.com/r/starcitizen/comments/1snisl1/whats_even_worth_binding/)
+- [Current HOSAS setup discussion](https://www.reddit.com/r/starcitizen/comments/1u80rmo/hosas_setups/)
+- [Updated community bindings for Star Citizen 4.8](https://www.reddit.com/r/starcitizen/comments/1swpyvm/buzzzkillers_downloadable_joystick_bindings/)
+- [Current Stream Deck value discussion](https://www.reddit.com/r/starcitizen/comments/1ufaqey/really_wanna_get_a_stream_deck_for_this_game/)
+- [Current important-keybind planning discussion](https://www.reddit.com/r/starcitizen/comments/1rrh0ur/looking_for_list_of_important_keybinds_to_set_up/)
+
+## Bottom line
+
+The best Star Citizen career deck is not the biggest. It is the one that keeps mode state visible, precision on a real axis, emergency actions consistent, and profiles recoverable. Build the first mining loop, fly it, back it up, and only then make it beautiful.
 
 ---
 

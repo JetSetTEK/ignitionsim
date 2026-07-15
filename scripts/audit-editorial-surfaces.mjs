@@ -18,7 +18,7 @@ const contextualProofTypes = new Set(['installed', 'use', 'official-lifestyle'])
 const homepageLeaders = report.articles.filter((row) => row.status === 'certified' && row.score >= 85);
 if (homepageLeaders.length < 3) failures.push(`Only ${homepageLeaders.length} certified guides clear the 85-point homepage gate.`);
 
-for (const marker of ['promotedIds', 'clearsHomepageGate', 'takeDiverse(editorialLeaders, 3', 'takeDiverse(discoveryPool, 5']) {
+for (const marker of ['promotedIds', 'clearsHomepageGate', 'const discoveryPool = all.filter', 'takeDiverse(editorialLeaders, 3', 'takeDiverse(discoveryPool, 10']) {
   if (!home.includes(marker)) failures.push(`Homepage is missing its no-duplicate editorial gate: ${marker}`);
 }
 for (const forbidden of ['Certified maps', 'Lust objects', 'feature-guide-grid', 'latestBriefing']) {

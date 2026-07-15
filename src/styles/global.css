@@ -461,8 +461,8 @@ nav.primary a[aria-current] { color: var(--accent); }
   }
 }
 
-/* in-article image gallery strip (2-3 substantial shots side by side) */
-.shotgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; margin: 2em 0; }
+/* Product proof stays large enough to inspect: two-up on desktop, one-up on mobile. */
+.shotgrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin: 2em 0; }
 .shotgrid figure {
   margin: 0;
   overflow: hidden;
@@ -488,6 +488,9 @@ nav.primary a[aria-current] { color: var(--accent); }
   text-align: left;
   border-top: 1px solid rgba(16, 24, 32, .08);
   background: rgba(255,255,255,.72);
+}
+@media (max-width: 720px) {
+  .shotgrid { grid-template-columns: 1fr; }
 }
 .proof-wide {
   width: min(100%, 1040px);

@@ -168,6 +168,9 @@
     "watchTheTrap": "Panels are fun but not first. A weak USB chain or missing rudders will annoy you more than a missing radio stack.",
     "guideIds": [
       "flight/microsoft-flight-simulator-2024-review-2026",
+      "flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026",
+      "flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026",
+      "flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026",
       "flight/msfs-home-cockpit-buyer-map-2026",
       "flight/yoke-throttle-rudder-head-tracking-order-2026"
     ],
@@ -183,6 +186,9 @@
     "hardwareThatMatters": "Accurate primary controls, rudder pedals, trim workflow, and head tracking for cockpit scanning.",
     "watchTheTrap": "Do not build a panel farm until the physical control loop feels natural.",
     "guideIds": [
+      "flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026",
+      "flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026",
+      "flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026",
       "flight/msfs-home-cockpit-buyer-map-2026",
       "flight/yoke-throttle-rudder-head-tracking-order-2026"
     ],
@@ -198,6 +204,7 @@
     "hardwareThatMatters": "Quality HOTAS, rudder pedals, mounts, head tracking or VR, and enough buttons to stop touching the keyboard.",
     "watchTheTrap": "DCS can make cheap controls feel cheap fast. Buy fewer pieces, but buy the ones your aircraft actually needs.",
     "guideIds": [
+      "flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026",
       "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
       "flight/yoke-throttle-rudder-head-tracking-order-2026",
       "flight/msfs-home-cockpit-buyer-map-2026"
@@ -215,6 +222,7 @@
     "watchTheTrap": "A gorgeous dual-stick setup without mounts and bindings becomes expensive desk clutter.",
     "guideIds": [
       "space/star-citizen-review-2026",
+      "space/star-citizen-mining-salvage-control-deck-2026",
       "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
       "space/star-citizen-hosas-buyer-map-2026",
       "space/star-citizen-hosas-upgrade-path-2026"
@@ -259,7 +267,8 @@
     "hardwareThatMatters": "Repurposed throttles, button boxes, DIY USB boards, labels, and patience.",
     "watchTheTrap": "There is no mass-market consumer ship helm. Marine control builds are repurposing and DIY by default.",
     "guideIds": [
-      "marine/bridge-command-review-2026"
+      "marine/bridge-command-review-2026",
+      "marine/marine-sim-twin-engine-throttle-controls-2026"
     ],
     "officialUrl": "https://www.bridgecommand.co.uk/"
   },

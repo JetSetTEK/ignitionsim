@@ -119,7 +119,8 @@ Every article follows four verbs:
   correct.
 - The guide appears in its bay, `/guides`, Sim Stream, curator profile, related
   routes, sitemap, RSS, and the relevant game/software hub. Homepage promotion
-  remains quality-gated.
+  remains quality-gated; every new guide that clears the discovery gate enters
+  the homepage's newest-ten Sim Stream rail until newer certified work replaces it.
 - Desktop and 390px mobile QA pass with no overflow, crop, blank image,
   unreadable infographic, intrusive overlay, or broken transformed image.
 - Gold, public-surface, curator-system, editorial-surface, quality, commerce,
@@ -344,6 +345,8 @@ Then perform browser QA at approximately 1440x1000 and 390x844:
 - confirm no horizontal overflow;
 - verify the thumbnail in homepage, Sim Stream, bay, curator, guide shelf, and
   related cards;
+- verify every newly certified discovery-grade article appears in the homepage
+  newest-ten rail and is not silently displaced by score-only sorting;
 - verify product images are exact, uncropped, and not repeated as false variety;
 - test the curator field briefing and page-aware chat;
 - click every retail CTA and confirm the exact product;

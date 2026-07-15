@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131b"/><stop offset="1" stop-color="#18313c"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern></defs>
+    <rect width="1400" height="820" fill="url(#bg)"/><rect width="1400" height="820" fill="url(#grid)"/>
+    <rect x="75" y="54" width="12" height="205" fill="#20b8d8"/>
+    <text x="115" y="94" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#20b8d8">THE FIRST EVENING</text>
+    <text x="115" y="154" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#f5f7f6">One aircraft. One neutral profile. Then add</text><text x="115" y="203.92000000000002" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#f5f7f6">feel.</text>
+    <g>
+      <rect x="75" y="300" width="390" height="350" rx="18" fill="#ffffff" fill-opacity="0.96" stroke="#20b8d8" stroke-width="4"/>
+      <rect x="75" y="300" width="390" height="74" rx="18" fill="#20b8d8"/>
+      <text x="101" y="348" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#0b1720">1 · MOUNT</text>
+      <circle cx="107" cy="411" r="6" fill="#20b8d8"/><text x="127" y="420" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Bolt or clamp the base</text><circle cx="107" cy="466" r="6" fill="#20b8d8"/><text x="127" y="475" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Check pitch clearance</text><circle cx="107" cy="521" r="6" fill="#20b8d8"/><text x="127" y="530" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Route power + data</text><circle cx="107" cy="576" r="6" fill="#20b8d8"/><text x="127" y="585" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Keep the stop switch</text><text x="127" y="612.84" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">reachable</text>
+    </g><g>
+      <rect x="495" y="300" width="390" height="350" rx="18" fill="#ffffff" fill-opacity="0.96" stroke="#20b8d8" stroke-width="4"/>
+      <rect x="495" y="300" width="390" height="74" rx="18" fill="#20b8d8"/>
+      <text x="521" y="348" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#0b1720">2 · PROVE</text>
+      <circle cx="527" cy="411" r="6" fill="#20b8d8"/><text x="547" y="420" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Direct USB first</text><circle cx="527" cy="466" r="6" fill="#20b8d8"/><text x="547" y="475" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Calibrate plain axes</text><circle cx="527" cy="521" r="6" fill="#20b8d8"/><text x="547" y="530" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Fly a default C172</text><circle cx="527" cy="576" r="6" fill="#20b8d8"/><text x="547" y="585" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Confirm trim unloads force</text>
+    </g><g>
+      <rect x="915" y="300" width="390" height="350" rx="18" fill="#ffffff" fill-opacity="0.96" stroke="#20b8d8" stroke-width="4"/>
+      <rect x="915" y="300" width="390" height="74" rx="18" fill="#20b8d8"/>
+      <text x="941" y="348" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#0b1720">3 · TUNE</text>
+      <circle cx="947" cy="411" r="6" fill="#20b8d8"/><text x="967" y="420" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Add one effect</text><circle cx="947" cy="466" r="6" fill="#20b8d8"/><text x="967" y="475" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Save a known-good profile</text><circle cx="947" cy="521" r="6" fill="#20b8d8"/><text x="967" y="530" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Export before updates</text><circle cx="947" cy="576" r="6" fill="#20b8d8"/><text x="967" y="585" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#1d2a34">Test autopilot behavior</text>
+    </g>
+    <rect x="75" y="690" width="1230" height="74" rx="12" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="108" y="735" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#dbe7ea">If the yoke feels wrong, return to the boring baseline before changing five settings</text><text x="108" y="762.84" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="650" fill="#dbe7ea">at once.</text>
+    <text x="1285" y="790" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#20b8d8">IGNITIONSIM · FIELD MAP</text>
+  </svg>
