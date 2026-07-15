@@ -64,7 +64,7 @@ This is not a throwaway tier. The honest truth running through the whole marine 
     <span class="gp-price">Free</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/Download" target="_blank" rel="noopener">Download free ↗</a>
+      <a href="https://www.bridgecommand.co.uk/Download" target="_blank" rel="nofollow noopener">Official free download</a>
     </span>
   </div>
 </aside>
@@ -99,7 +99,7 @@ The board the classic guide points at is the solder-it-yourself **Leo Bodnar BU0
     <span class="gp-price">~$77 (solder-it BU0836A ~$42)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -164,7 +164,7 @@ If you're going fully DIY and want a solderless way to wire a real panel of brid
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -213,7 +213,7 @@ A budget note on the horizon, and one VR sidestep — neither is a required purc
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/search/?term=professional+ship+simulator" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>

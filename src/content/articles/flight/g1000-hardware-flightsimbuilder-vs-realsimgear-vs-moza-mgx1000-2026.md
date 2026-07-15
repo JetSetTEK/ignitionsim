@@ -123,11 +123,28 @@ Build an aircraft matrix before purchase:
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-front.png" alt="Official MOZA MGX1000 10.4 inch glass cockpit panel front product photo" loading="lazy"><figcaption>MGX1000 arrives with excellent paper value: true-size 10.4-inch IPS, physical controls, and a $449 announced price. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/mgx1000-manual-install.jpg" alt="Official MOZA MGX1000 manual pages showing panel dimensions, rear ports, stand, VESA mount, power, and cable installation" loading="lazy"><figcaption>The manual turns the render into an installation: dimensions, rear-port access, stand or VESA mounting, USB, display, and power all need a home. <span class="source-credit">Official MOZA MGX1000 user manual; pages combined for legibility</span></figcaption></figure>
+
 Treat two avionics panels as a small system, not “two monitors.” There is screen output, button/knob input, vendor connector software, simulator pop-outs, aircraft profiles, power, mounting, and Windows device recovery.
 
 ![G1000 USB, display, software, and control architecture](/images/infographics/flight/g1000-usb-display-architecture-2026.svg)
 
 Count the computer's native display outputs, USB controllers, powered ports, and existing cockpit devices. Confirm whether the vendor approves hubs. Label PFD and MFD cables. Use a stable Windows monitor arrangement. Save connector and aircraft profiles. Test cold boot, simulator restart, sleep/wake, and reconnect behavior before routing cables permanently.
+
+FlightSimBuilder's current instructions make the cable tax explicit: each panel needs USB, display, and power. A July 2026 owner trying to commission a large suite reported the predictable consequence: the panels can consume a surprising number of ports and display paths before the yoke, throttle, pedals, audio panel, camera, or headset arrives. That is an owner pattern to design around, not permission to attach everything to the first bargain hub.
+
+### Parts to have before the avionics arrive
+
+| Part | Why it belongs in the plan | Watchout |
+| --- | --- | --- |
+| Short labeled USB and display cables | Makes PFD/MFD identity and service recovery obvious | Use the cable type and maximum length the vendor documents |
+| Native GPU outputs or an approved display adapter | Two panels are two real display paths | DisplayLink is not interchangeable with a passive adapter |
+| Power strip with headroom | Panels and adapters add separate power bricks | Keep bricks ventilated and reachable |
+| Stand, VESA plate, or panel cutout | Holds the bezel at a usable height and angle | Print the current dimension sheet before drilling |
+| Cable labels and a port map | Preserves the known-good topology after Windows moves a display | Photograph both ends before closing the panel |
+| Powered USB hub only when vendor-approved | Can solve port count, not controller bandwidth | Put timing-sensitive controls on direct ports first |
+
+The [StarTech USB32HDPRO direct-display adapter](https://www.amazon.com/dp/B00O6G5ZGI?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"} is an exact Amazon option for a DisplayLink expansion path, not a universal prescription. Confirm that the chosen panel vendor supports that architecture before buying it.
 
 For DisplayLink, verify the approved driver, USB version, and multi-panel behavior. For conventional display output, verify GPU output count and adapter behavior. Do not combine a new GPU driver, new avionics driver, Windows update, and cockpit rewire into one troubleshooting event.
 
@@ -159,13 +176,13 @@ Another problem is confusing simulation with certified training. A home panel ca
 
 ## What should you buy?
 
-| Buyer | Recommendation | Honest verdict | Purchase route |
+| Buyer | Recommendation | Honest verdict | Verification route |
 | --- | --- | --- | --- |
 | Flexible enthusiast / touchscreen user | FlightSimBuilder G1000 TNxi | **Buy with compatibility check** | [Configure the current TNxi](https://flightsimbuilder.com/products/flightsimbuilder-g1000){:target="_blank" rel="nofollow noopener"} |
 | Premium procedure trainer | RealSimGear G1000 Suite | **Buy when aircraft match is proven** | [See the current RealSimGear suite](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx){:target="_blank" rel="nofollow noopener"} |
 | Price-sensitive early adopter | MOZA MGX1000 | **Wait for shipping reviews, or buy as a tester** | [Check MGX1000 launch and availability](https://mozaracing.com/products/mgx1000){:target="_blank" rel="nofollow noopener"} |
 
-These are specialist products without a verified exact Amazon offer we can recommend. We link directly to the manufacturers instead of substituting an affiliate search result.
+These specialist panels do not have verified exact Amazon offers we can responsibly recommend. The manufacturer links above are specification and compatibility evidence, not affiliate or retail CTAs.
 
 <details class="bench-secret"><summary>Val's four-line compatibility contract</summary><p>Write this before checkout: <strong>aircraft, avionics variant, simulator version, connector version.</strong> Under it, write the one procedure the panel must improve. If the seller cannot confirm that chain, the correct status is “wait,” no matter how good the launch video looks.</p></details>
 
@@ -174,7 +191,7 @@ These are specialist products without a verified exact Amazon offer we can recom
 - [MOZA MGX1000 official product page](https://mozaracing.com/products/mgx1000)
 - [MOZA next-generation flight hardware announcement, July 2026](https://mozaracing.com/blogs/news/new-gen-flight-series-products)
 - [FlightSimBuilder G1000 TNxi current product page](https://flightsimbuilder.com/products/flightsimbuilder-g1000)
-- [FlightSimBuilder instructions](https://flightsimbuilder.com/pages/flightsimbuilder-instructions)
+- [FlightSimBuilder G1000 instructions](https://flightsimbuilder.com/pages/flightsimbuilder-g1000-instructions)
 - [FlightSimBuilder FAQ](https://flightsimbuilder.com/pages/flightsimbuilder-faq-1)
 - [FlightSimBuilder's MGX1000 comparison page](https://flightsimbuilder.com/pages/mgx1000-vs-flightsimbuilder-g1000)
 - [RealSimGear G1000 Suite official product page](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx)
@@ -182,6 +199,7 @@ These are specialist products without a verified exact Amazon offer we can recom
 - [RealSimGear dimensions and panel cutouts](https://help.realsimgear.com/panel-cutouts-dimensions-realsimgear-help-center)
 - [Current RealSimGear G1000 owner discussion](https://www.reddit.com/r/flightsim/comments/1ttjdek/realsimgear_g1000/)
 - [Current instrument-training simulator discussion](https://www.reddit.com/r/flightsim/comments/1u1qolj/instrument_training_sim/)
+- [Current owner discussion: solving the USB and display-port count](https://www.reddit.com/r/flightsim/comments/1uvhc4g/suggestions_for_solving_the_needs_for_numerous/)
 - [Current MOZA MGX1000 launch discussion](https://www.reddit.com/r/flightsim/comments/1uli47c/way_to_go_moza/)
 - [MOZA flight hardware teaser discussion](https://www.reddit.com/r/flightsim/comments/1unjqpt/moza_teases_new_videos_of_their_new_flight_sim/)
 

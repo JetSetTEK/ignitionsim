@@ -128,7 +128,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Starter HOSAS</p>
       <h3>VKB Gladiator NXT EVO Space Combat Edition</h3>
       <p>The practical serious start for many Star Citizen pilots before boutique spending.</p>
-      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -137,7 +137,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Left-hand control</p>
       <h3>VKB Omni Throttle</h3>
       <p>A clever bridge for players who want throttle-ish comfort with space-sim movement.</p>
-      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -146,7 +146,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Mounting</p>
       <h3>Monstertech Table Mount</h3>
       <p>Not glamorous. Absolutely cockpit-changing.</p>
-      <a data-buy-link="true" href="https://www.mtsim.com/product/joystick-hotas-table-mount/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.mtsim.com/product/joystick-hotas-table-mount/" rel="nofollow noopener" target="_blank">Inspect the official mount dimensions</a>
     </div>
   </article>
 </div>

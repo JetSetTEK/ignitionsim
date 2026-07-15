@@ -110,7 +110,10 @@ Every cornerstone article should include:
 - If a product has credible low-star patterns, name the risk in plain English and link readers to live reviews or a sourced discussion.
 - If a product is good but annoying, say so: "buy it, but know this will take an extra Saturday."
 - If the best advice is to wait for a revision, say that even if the affiliate link would convert today.
-- Amazon CTAs must use verified direct product pages only: `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`. Never publish Amazon search-result links (`/s?k=`, `/s?keywords=`, or generic "Check Amazon" destinations). If the exact ASIN cannot be verified, use an official/vendor/specialty-retailer link or omit the Amazon CTA until verified.
+- Amazon CTAs must use verified direct product pages only: `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`. Never publish Amazon search-result links (`/s?k=`, `/s?keywords=`, or generic "Check Amazon" destinations). If the exact ASIN cannot be verified, omit the retail CTA. Official, manual, forum, and specialist links remain clearly labeled research citations and never carry buy styling, `data-buy-link`, or `rel=sponsored`.
+- Every major product is researched through its current manual/support path plus multiple owner discussions. Certified work names the setup order, installation watchouts, extra parts/tools/cables/mounts likely to be needed, and the difference between an isolated complaint and a repeated owner pattern.
+- Official box/packaging and manual/setup proof are required when attributable media exists. If it cannot be found, document that absence and use verified contents lists or manual diagrams instead. Never invent packaging, manual pages, or in-box accessories.
+- Certified articles use the standard Pinterest-first save/share dock and track the network through `share_click`.
 
 ## Game And Software Review Standard
 - Treat game/software reviews as hardware-buying pages, not generic game criticism. The core question is: is this sim worth building a room, rig, bay, cockpit, desk, or control stack around?
@@ -176,6 +179,7 @@ Manual surfaces that must be decided and updated before publish:
 Before publishing or pushing a major update:
 - Confirm the frontmatter includes `goldStatus: "certified"` only after the checks below pass.
 - Run `npm run gold-audit`; it must pass before build, deploy, or push. The build now runs this automatically, but run it directly while editing so failures are caught early.
+- Run `npm run audit:commerce`; every static buy or sponsored link must be an exact Amazon `/dp/ASIN?tag=ignitionsim-20` URL.
 - Run `npm run audit:surfaces` after any discovery, hub, curator, or contextual-image change. Homepage duplication, catalog-cutout regression, and missing curator-action scenes are release blockers.
 - Run `npm run audit:quality`; new Tier A work must meet the 85-point gate and the report must show no missing real-use proof, curator action, practical diagram, or non-direct Amazon link.
 - Check that the article has a buyer verdict, warnings, product bench, source shelf, FAQ, internal links, and affiliate links that land on the intended exact product. Amazon links must be direct `/dp/ASIN` URLs with `tag=ignitionsim-20`; no search-result URLs ship.

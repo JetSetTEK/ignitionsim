@@ -119,11 +119,26 @@ A desktop throttle often sits too high. This produces shoulder elevation and wri
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-hero.jpg" alt="Official WINCTRL Orion2 throttle base and F-15EX grip product media" loading="lazy"><figcaption>Orion2 sells aircraft identity: dense metal controls and a grip layout that makes most sense inside DCS. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/orion2-manual-packing.jpg" alt="Official WINCTRL Orion2 F-15EX manual pages showing package contents, physical parameters, connectors, and controls" loading="lazy"><figcaption>The official packing list is the honest bundle check: base, selected grip, cables, fasteners, and documentation must match the configuration in the cart. <span class="source-credit">Official WINCTRL Orion2 F-15EX user manual; pages combined for legibility</span></figcaption></figure>
+
 **Choose the aircraft behavior before fitting the plastic or metal.** Idle cutoff, ground idle, flight idle, military power, afterburner, reverse, and center detent are different jobs. Write the profile's intended aircraft at the top of the page.
 
 Fit the detent and set lever tension. Calibrate the raw physical axis through its entire travel. Record the percentage where the simulator recognizes each gate. Only then apply curves or saturation. Test a cold start, taxi/idle behavior, full military power, afterburner or reverse, and shutdown.
 
 Do not solve a wrong physical detent with a heroic software curve if moving the plate is the honest fix. Save one profile per aircraft family and name it with the simulator, aircraft, detent set, and date.
+
+### What must be ready before the throttle is commissioned?
+
+| Bench item | Why it matters | Failure it prevents |
+| --- | --- | --- |
+| Correct desk mount or profile plate | Keeps the base still across a firm detent | Sliding hardware and raised shoulder posture |
+| Driver/configuration package saved locally | Lets you recover after an update | Rebuilding a known profile from memory |
+| Small parts tray and labeled detent bags | Keeps cams, frames, and fasteners with the matching profile | A mystery screw and the wrong gate six months later |
+| Direct USB test path | Separates device behavior from hub behavior | Diagnosing the wrong layer |
+| Cable service loop through full travel | Prevents the grip or lever from tugging the connector | Intermittent disconnects at maximum power |
+| Printed first-aircraft binding sheet | Limits the first session to controls that matter | Forty-nine mapped inputs and no muscle memory |
+
+VIRPIL's official VMAX package list includes the throttle, cable, modules, fasteners, detent parts, covers, stickers, and manual. VKB and WINCTRL bundles vary by configuration. Open the exact contents tab or manual before paying; “shown in the photo” is not a packing list.
 
 ## How should one throttle serve DCS, MSFS, and space sims?
 
@@ -165,14 +180,14 @@ Another common mistake is mapping every switch immediately. A throttle with 49 i
 
 ## What should you buy now?
 
-| Pilot | Recommendation | Why | Buy / verify |
+| Pilot | Recommendation | Why | Official verification route |
 | --- | --- | --- | --- |
-| Mixed DCS, MSFS, Elite, and Star Citizen pilot | VKB STECS Mk II Standard | Best modularity and least ecosystem regret | [See the current STECS Mk II Standard](https://vkb-sim.com.au/collections/all/products/stecs-throttle-system-mk-ii-standard){:target="_blank" rel="nofollow noopener"} |
-| Premium mounted cockpit builder | Virpil VMAX Prime | Refined compact metal control with excellent density | [Check VMAX Prime stock and configuration](https://virpil-controls.co.uk/vpc-vmax-prime-throttle.html){:target="_blank" rel="nofollow noopener"} |
-| DCS aircraft-specific value buyer | WINCTRL Orion2 F-15EX | Strong hardware value and recognizable combat layout | [Verify the exact Orion2 bundle at WINCTRL](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/){:target="_blank" rel="nofollow noopener"} |
+| Mixed DCS, MSFS, Elite, and Star Citizen pilot | VKB STECS Mk II Standard | Best modularity and least ecosystem regret | [Read the current STECS Mk II specifications](https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard-us){:target="_blank" rel="nofollow noopener"} |
+| Premium mounted cockpit builder | Virpil VMAX Prime | Refined compact metal control with excellent density | [Verify VMAX Prime contents and dimensions](https://virpil-controls.us.com/vpc-vmax-prime-throttle.html){:target="_blank" rel="nofollow noopener"} |
+| DCS aircraft-specific value buyer | WINCTRL Orion2 F-15EX | Strong hardware value and recognizable combat layout | [Verify the exact Orion2 specification](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/){:target="_blank" rel="nofollow noopener"} |
 | Unmounted desk pilot | Mount first | Ergonomics and stability unlock the expensive control | [Read the flight-control mounting guide](/flight/how-to-mount-flight-sim-hardware) |
 
-These premium models are commonly sold direct. We found no exact, consistently verifiable Amazon listing for these configurations, so we are not sending readers to a vague Amazon search result.
+These premium models are commonly sold direct. We found no exact, consistently verifiable Amazon listing for these configurations, so the links above are documentation routes and no retail CTA is shown.
 
 <details class="bench-secret"><summary>Bench easter egg: the fifteen-minute cardboard throttle</summary><p>Cut the footprint from a cereal box. Tape a marker upright where the grip will be. Move it through the full arc while flying one mission with your current throttle. Where the marker hits your wrist or monitor stand is where the expensive version will annoy you too.</p></details>
 
@@ -186,10 +201,12 @@ These premium models are commonly sold direct. We found no exact, consistently v
 - [Virpil custom detent documentation and files](https://virpil-controls.co.uk/blog/3d-print-your-own-throttle-detents.html)
 - [WINCTRL Orion2 official product overview](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/)
 - [WINCTRL SimApp Pro manual](https://winctrl.com/static/assets/files/en/SIMAPP%20Pro%201.9.11-User%20Manual%20EN%20V1.2.pdf)
+- [WINCTRL Orion2 F-15EX throttle user manual](https://us.winwingsim.com/static/assets/files/en/THROTTLE%20HANDLE%20OF%2015E_15EX%20H.O.T.A.S-User%20Manual%20EN%20V1.1.pdf)
 - [Current HOTAS community comparison: STECS vs VMAX](https://www.reddit.com/r/hotas/comments/1s1nrcl/should_i_choose_the_vkb_stecs_the_virpil_vmax/)
 - [Current community comparison: STECS vs Orion2](https://www.reddit.com/r/hotas/comments/1shm7c3/vkb_stecs_or_winwing_orion_2_strikeace_ex/)
 - [Long-term upgrade discussion: WinWing vs Virpil vs VKB](https://www.reddit.com/r/hotas/comments/1s2ef41/hotas_upgrade_after_78_years_winwing_vs_virpil_vs/)
 - [Current owner discussion: VKB vs Virpil](https://www.reddit.com/r/hotas/comments/1uiqhyk/vkb_vs_virpil_info_pls/)
+- [Current installed-control discussion and owner setup notes](https://www.reddit.com/r/hotas/comments/1uaefwf/my_current_setup/)
 
 ## Bottom line
 

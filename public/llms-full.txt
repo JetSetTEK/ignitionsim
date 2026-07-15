@@ -2011,11 +2011,28 @@ Build an aircraft matrix before purchase:
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/moza-mgx1000-front.png" alt="Official MOZA MGX1000 10.4 inch glass cockpit panel front product photo" loading="lazy"><figcaption>MGX1000 arrives with excellent paper value: true-size 10.4-inch IPS, physical controls, and a $449 announced price. <span class="source-credit">Official MOZA launch media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/g1000-hardware-flightsimbuilder-vs-realsimgear-vs-moza-mgx1000-2026/mgx1000-manual-install.jpg" alt="Official MOZA MGX1000 manual pages showing panel dimensions, rear ports, stand, VESA mount, power, and cable installation" loading="lazy"><figcaption>The manual turns the render into an installation: dimensions, rear-port access, stand or VESA mounting, USB, display, and power all need a home. <span class="source-credit">Official MOZA MGX1000 user manual; pages combined for legibility</span></figcaption></figure>
+
 Treat two avionics panels as a small system, not “two monitors.” There is screen output, button/knob input, vendor connector software, simulator pop-outs, aircraft profiles, power, mounting, and Windows device recovery.
 
 ![G1000 USB, display, software, and control architecture](/images/infographics/flight/g1000-usb-display-architecture-2026.svg)
 
 Count the computer's native display outputs, USB controllers, powered ports, and existing cockpit devices. Confirm whether the vendor approves hubs. Label PFD and MFD cables. Use a stable Windows monitor arrangement. Save connector and aircraft profiles. Test cold boot, simulator restart, sleep/wake, and reconnect behavior before routing cables permanently.
+
+FlightSimBuilder's current instructions make the cable tax explicit: each panel needs USB, display, and power. A July 2026 owner trying to commission a large suite reported the predictable consequence: the panels can consume a surprising number of ports and display paths before the yoke, throttle, pedals, audio panel, camera, or headset arrives. That is an owner pattern to design around, not permission to attach everything to the first bargain hub.
+
+### Parts to have before the avionics arrive
+
+| Part | Why it belongs in the plan | Watchout |
+| --- | --- | --- |
+| Short labeled USB and display cables | Makes PFD/MFD identity and service recovery obvious | Use the cable type and maximum length the vendor documents |
+| Native GPU outputs or an approved display adapter | Two panels are two real display paths | DisplayLink is not interchangeable with a passive adapter |
+| Power strip with headroom | Panels and adapters add separate power bricks | Keep bricks ventilated and reachable |
+| Stand, VESA plate, or panel cutout | Holds the bezel at a usable height and angle | Print the current dimension sheet before drilling |
+| Cable labels and a port map | Preserves the known-good topology after Windows moves a display | Photograph both ends before closing the panel |
+| Powered USB hub only when vendor-approved | Can solve port count, not controller bandwidth | Put timing-sensitive controls on direct ports first |
+
+The [StarTech USB32HDPRO direct-display adapter](https://www.amazon.com/dp/B00O6G5ZGI?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener"} is an exact Amazon option for a DisplayLink expansion path, not a universal prescription. Confirm that the chosen panel vendor supports that architecture before buying it.
 
 For DisplayLink, verify the approved driver, USB version, and multi-panel behavior. For conventional display output, verify GPU output count and adapter behavior. Do not combine a new GPU driver, new avionics driver, Windows update, and cockpit rewire into one troubleshooting event.
 
@@ -2047,13 +2064,13 @@ Another problem is confusing simulation with certified training. A home panel ca
 
 ## What should you buy?
 
-| Buyer | Recommendation | Honest verdict | Purchase route |
+| Buyer | Recommendation | Honest verdict | Verification route |
 | --- | --- | --- | --- |
 | Flexible enthusiast / touchscreen user | FlightSimBuilder G1000 TNxi | **Buy with compatibility check** | [Configure the current TNxi](https://flightsimbuilder.com/products/flightsimbuilder-g1000){:target="_blank" rel="nofollow noopener"} |
 | Premium procedure trainer | RealSimGear G1000 Suite | **Buy when aircraft match is proven** | [See the current RealSimGear suite](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx){:target="_blank" rel="nofollow noopener"} |
 | Price-sensitive early adopter | MOZA MGX1000 | **Wait for shipping reviews, or buy as a tester** | [Check MGX1000 launch and availability](https://mozaracing.com/products/mgx1000){:target="_blank" rel="nofollow noopener"} |
 
-These are specialist products without a verified exact Amazon offer we can recommend. We link directly to the manufacturers instead of substituting an affiliate search result.
+These specialist panels do not have verified exact Amazon offers we can responsibly recommend. The manufacturer links above are specification and compatibility evidence, not affiliate or retail CTAs.
 
 <details class="bench-secret"><summary>Val's four-line compatibility contract</summary><p>Write this before checkout: <strong>aircraft, avionics variant, simulator version, connector version.</strong> Under it, write the one procedure the panel must improve. If the seller cannot confirm that chain, the correct status is “wait,” no matter how good the launch video looks.</p></details>
 
@@ -2062,7 +2079,7 @@ These are specialist products without a verified exact Amazon offer we can recom
 - [MOZA MGX1000 official product page](https://mozaracing.com/products/mgx1000)
 - [MOZA next-generation flight hardware announcement, July 2026](https://mozaracing.com/blogs/news/new-gen-flight-series-products)
 - [FlightSimBuilder G1000 TNxi current product page](https://flightsimbuilder.com/products/flightsimbuilder-g1000)
-- [FlightSimBuilder instructions](https://flightsimbuilder.com/pages/flightsimbuilder-instructions)
+- [FlightSimBuilder G1000 instructions](https://flightsimbuilder.com/pages/flightsimbuilder-g1000-instructions)
 - [FlightSimBuilder FAQ](https://flightsimbuilder.com/pages/flightsimbuilder-faq-1)
 - [FlightSimBuilder's MGX1000 comparison page](https://flightsimbuilder.com/pages/mgx1000-vs-flightsimbuilder-g1000)
 - [RealSimGear G1000 Suite official product page](https://realsimgear.com/collections/gps-units/products/realsimgear-g1000-suite-for-x-plane-p3d-and-fsx)
@@ -2070,6 +2087,7 @@ These are specialist products without a verified exact Amazon offer we can recom
 - [RealSimGear dimensions and panel cutouts](https://help.realsimgear.com/panel-cutouts-dimensions-realsimgear-help-center)
 - [Current RealSimGear G1000 owner discussion](https://www.reddit.com/r/flightsim/comments/1ttjdek/realsimgear_g1000/)
 - [Current instrument-training simulator discussion](https://www.reddit.com/r/flightsim/comments/1u1qolj/instrument_training_sim/)
+- [Current owner discussion: solving the USB and display-port count](https://www.reddit.com/r/flightsim/comments/1uvhc4g/suggestions_for_solving_the_needs_for_numerous/)
 - [Current MOZA MGX1000 launch discussion](https://www.reddit.com/r/flightsim/comments/1uli47c/way_to_go_moza/)
 - [MOZA flight hardware teaser discussion](https://www.reddit.com/r/flightsim/comments/1unjqpt/moza_teases_new_videos_of_their_new_flight_sim/)
 
@@ -2537,7 +2555,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Yoke</p>
       <h3>Honeycomb Alpha</h3>
       <p>A strong first yoke for builders who want GA and airliner control without immediate panel sprawl.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/alpha-flight-controls-xpc" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://flyhoneycomb.com/products/alpha-flight-controls-xpc" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -2546,7 +2564,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Throttle</p>
       <h3>Honeycomb Bravo</h3>
       <p>Still one of the easiest ways to make MSFS feel like a cockpit instead of a keyboard shortcut exam.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/bravo-throttle-quadrant" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a data-buy-link="true" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy the exact Bravo on Amazon</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -2555,7 +2573,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Rudders</p>
       <h3>Honeycomb Charlie</h3>
       <p>Expensive, serious, and worth considering when landings matter more than panel glitter.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/charlie-rudder-pedals" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://flyhoneycomb.com/products/charlie-rudder-pedals" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
 </div>
@@ -2654,6 +2672,8 @@ The ownership warnings are equally concrete. FliteSim's April 2026 setup guide t
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-rear.png" alt="Official rear and side view of the Brunner CLS-E force-feedback yoke" loading="lazy"><figcaption>Rear depth, cable exits, and chassis mass matter to a panel builder more than a beauty angle. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/ay210-manual-mounting.jpg" alt="Official MOZA AY210 manual pages showing dimensions, ports, base mounting, yoke attachment, and cable access" loading="lazy"><figcaption>The AY210 manual shows the work the launch photo hides: base depth, shaft travel, desk or profile mounting, handle attachment, power, USB, and service clearance. <span class="source-credit">Official MOZA AY210 user manual; pages combined for legibility</span></figcaption></figure>
+
 Plan the installation in five layers.
 
 **Structure:** the desk or profile frame must resist pitch push/pull and roll force without walking, flexing, or rotating. A motorized yoke makes weak furniture visible immediately. Measure the edge thickness, underside obstructions, shaft height, seat relationship, monitor clearance, and full 150-165 mm pitch envelope.
@@ -2665,6 +2685,14 @@ Plan the installation in five layers.
 **Software:** install one vendor stack, update deliberately, calibrate raw axes, and create a neutral profile. Confirm that the simulator is not applying a second centering spring or conflicting trim behavior. Only then add ground roll, turbulence, stall, engine vibration, or other effects.
 
 **Aircraft validation:** start with a documented default aircraft. Check pitch and roll direction, trim unloading, autopilot movement, disconnect behavior, and force recovery. Then move to the add-on aircraft you actually care about.
+
+### The parts and bench space the box does not solve
+
+MOZA's official support list verifies the base, MFY yoke, toolkit, manual, and warranty materials in the complete bundle. The desk clamp is optional, so a buyer using furniture rather than profile extrusion must add the correct clamp or mounting plate. Brunner and FliteSim configurations vary by handle and mount; verify the selected bundle rather than assuming the hero photo is the shipped cart.
+
+Before install, have the final mount hardware, a reachable power cutoff, a direct motherboard USB port, cable strain relief, a non-rolling seat solution, and enough clear depth for full pitch travel. Keep the packaging until the baseline profile survives several cold boots and one simulator update.
+
+If MOZA Cockpit freezes, do not start with a blind Windows reinstall. A current owner traced the failure to another USB device. Power down, disconnect nonessential USB hardware, connect the yoke directly, launch the vendor software, validate the default aircraft, then reconnect one device at a time. That isolates a conflict; it does not prove the yoke is defective.
 
 ![Force-feedback yoke commissioning sequence](/images/infographics/flight/ffb-yoke-commissioning-sequence-2026.svg)
 
@@ -2706,14 +2734,14 @@ Finally, force feedback cannot make a poor flight model accurate. It can faithfu
 
 ## What should you buy?
 
-| Buyer | Best path | Why | Purchase route |
+| Buyer | Best path | Why | Official verification route |
 | --- | --- | --- | --- |
-| Serious home enthusiast | MOZA AY210 complete bundle | Strong value, modern native telemetry path, substantial force and travel | [Check the complete AY210 system at MOZA](https://us.mozaracing.com/pages/ay210-yoke-base){:target="_blank" rel="nofollow noopener"} |
-| Training-first or professional-adjacent builder | Brunner CLS-E MK II | Mature control-loading and integration lineage | [Configure the CLS-E MK II at Brunner](https://shop.brunner-simulation.ch/product/cls-e-mk-ii-yoke/){:target="_blank" rel="nofollow noopener"} |
-| Modular instructor or long-travel builder | FliteSim CLS-60 / CLS-120 | 165 mm travel, upgrade path, RemoteSync and ReplaySync | [See current CLS-60 options](https://www.flitesim.com/shop/p/cls-60){:target="_blank" rel="nofollow noopener"} |
+| Serious home enthusiast | MOZA AY210 complete bundle | Strong value, modern native telemetry path, substantial force and travel | [Verify the complete AY210 system at MOZA](https://us.mozaracing.com/pages/ay210-yoke-base){:target="_blank" rel="nofollow noopener"} |
+| Training-first or professional-adjacent builder | Brunner CLS-E MK II | Mature control-loading and integration lineage | [Read the CLS-E MK II specification at Brunner](https://shop.brunner-simulation.ch/product/cls-e-mk-ii-yoke/){:target="_blank" rel="nofollow noopener"} |
+| Modular instructor or long-travel builder | FliteSim CLS-60 / CLS-120 | 165 mm travel, upgrade path, RemoteSync and ReplaySync | [Verify current CLS-60 specifications](https://www.flitesim.com/shop/p/cls-60){:target="_blank" rel="nofollow noopener"} |
 | First-time flight simmer | Good passive yoke or stick first | Stabilize the room and habits before buying motor complexity | [Read the full 2026 yoke map](/flight/tca-sky-yoke-vs-honeycomb-alpha-xpc-vs-velocityone-vs-moza-ay210-2026) |
 
-There is no verified exact Amazon listing for these three specialist force-feedback systems that we can responsibly recommend. The purchase links above go to the manufacturers, not an Amazon search page pretending to be useful.
+There is no verified exact Amazon listing for these three specialist force-feedback systems that we can responsibly recommend. The links above are official evidence only; retail CTAs are deliberately omitted.
 
 <details class="bench-secret"><summary>Field log 07-15: Val's boring-profile pact</summary><p>Name one profile <strong>BASELINE - DO NOT IMPROVE</strong>. No vibration, no clever curve, no experimental aircraft. When a firmware update makes the yoke feel haunted, that profile is the control group that saves the evening.</p></details>
 
@@ -2730,6 +2758,8 @@ There is no verified exact Amazon listing for these three specialist force-feedb
 - [Current community discussion: TCA yoke vs MOZA AY210](https://www.reddit.com/r/flightsim/comments/1uvw58q/thrustmaster_tca_yoke_vs_moza_ay210/)
 - [Community upgrade discussion: Honeycomb to force feedback](https://www.reddit.com/r/flightsim/comments/1uvogsv/is_it_worth_while_to_upgrade_from_a_homeycomb/)
 - [Real-pilot community review discussion of the AY210](https://www.reddit.com/r/flightsim/comments/1momtcu/real_pilot_review_moza_ay210_force_feedback_yoke/)
+- [Current owner troubleshooting: AY210 and MOZA Cockpit USB conflict](https://www.reddit.com/r/moza/comments/1rl50a0/moza_cockpit_freezes_with_ay210_connected/)
+- [Current FliteSim CLS-60 ordering and support discussion](https://www.reddit.com/r/flightsim/comments/1tvty9z/cls60_order_from_flitesimcom/)
 - [Long-form owner discussion: is force feedback worth it?](https://www.reddit.com/r/flightsim/comments/1lpumbi/force_feedback_worth_it/)
 
 ## Bottom line
@@ -2945,11 +2975,26 @@ A desktop throttle often sits too high. This produces shoulder elevation and wri
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/winctrl-orion2-hero.jpg" alt="Official WINCTRL Orion2 throttle base and F-15EX grip product media" loading="lazy"><figcaption>Orion2 sells aircraft identity: dense metal controls and a grip layout that makes most sense inside DCS. <span class="source-credit">Official WINCTRL product media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/vkb-stecs-vs-virpil-vmax-vs-winctrl-orion2-throttle-2026/orion2-manual-packing.jpg" alt="Official WINCTRL Orion2 F-15EX manual pages showing package contents, physical parameters, connectors, and controls" loading="lazy"><figcaption>The official packing list is the honest bundle check: base, selected grip, cables, fasteners, and documentation must match the configuration in the cart. <span class="source-credit">Official WINCTRL Orion2 F-15EX user manual; pages combined for legibility</span></figcaption></figure>
+
 **Choose the aircraft behavior before fitting the plastic or metal.** Idle cutoff, ground idle, flight idle, military power, afterburner, reverse, and center detent are different jobs. Write the profile's intended aircraft at the top of the page.
 
 Fit the detent and set lever tension. Calibrate the raw physical axis through its entire travel. Record the percentage where the simulator recognizes each gate. Only then apply curves or saturation. Test a cold start, taxi/idle behavior, full military power, afterburner or reverse, and shutdown.
 
 Do not solve a wrong physical detent with a heroic software curve if moving the plate is the honest fix. Save one profile per aircraft family and name it with the simulator, aircraft, detent set, and date.
+
+### What must be ready before the throttle is commissioned?
+
+| Bench item | Why it matters | Failure it prevents |
+| --- | --- | --- |
+| Correct desk mount or profile plate | Keeps the base still across a firm detent | Sliding hardware and raised shoulder posture |
+| Driver/configuration package saved locally | Lets you recover after an update | Rebuilding a known profile from memory |
+| Small parts tray and labeled detent bags | Keeps cams, frames, and fasteners with the matching profile | A mystery screw and the wrong gate six months later |
+| Direct USB test path | Separates device behavior from hub behavior | Diagnosing the wrong layer |
+| Cable service loop through full travel | Prevents the grip or lever from tugging the connector | Intermittent disconnects at maximum power |
+| Printed first-aircraft binding sheet | Limits the first session to controls that matter | Forty-nine mapped inputs and no muscle memory |
+
+VIRPIL's official VMAX package list includes the throttle, cable, modules, fasteners, detent parts, covers, stickers, and manual. VKB and WINCTRL bundles vary by configuration. Open the exact contents tab or manual before paying; “shown in the photo” is not a packing list.
 
 ## How should one throttle serve DCS, MSFS, and space sims?
 
@@ -2991,14 +3036,14 @@ Another common mistake is mapping every switch immediately. A throttle with 49 i
 
 ## What should you buy now?
 
-| Pilot | Recommendation | Why | Buy / verify |
+| Pilot | Recommendation | Why | Official verification route |
 | --- | --- | --- | --- |
-| Mixed DCS, MSFS, Elite, and Star Citizen pilot | VKB STECS Mk II Standard | Best modularity and least ecosystem regret | [See the current STECS Mk II Standard](https://vkb-sim.com.au/collections/all/products/stecs-throttle-system-mk-ii-standard){:target="_blank" rel="nofollow noopener"} |
-| Premium mounted cockpit builder | Virpil VMAX Prime | Refined compact metal control with excellent density | [Check VMAX Prime stock and configuration](https://virpil-controls.co.uk/vpc-vmax-prime-throttle.html){:target="_blank" rel="nofollow noopener"} |
-| DCS aircraft-specific value buyer | WINCTRL Orion2 F-15EX | Strong hardware value and recognizable combat layout | [Verify the exact Orion2 bundle at WINCTRL](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/){:target="_blank" rel="nofollow noopener"} |
+| Mixed DCS, MSFS, Elite, and Star Citizen pilot | VKB STECS Mk II Standard | Best modularity and least ecosystem regret | [Read the current STECS Mk II specifications](https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard-us){:target="_blank" rel="nofollow noopener"} |
+| Premium mounted cockpit builder | Virpil VMAX Prime | Refined compact metal control with excellent density | [Verify VMAX Prime contents and dimensions](https://virpil-controls.us.com/vpc-vmax-prime-throttle.html){:target="_blank" rel="nofollow noopener"} |
+| DCS aircraft-specific value buyer | WINCTRL Orion2 F-15EX | Strong hardware value and recognizable combat layout | [Verify the exact Orion2 specification](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/){:target="_blank" rel="nofollow noopener"} |
 | Unmounted desk pilot | Mount first | Ergonomics and stability unlock the expensive control | [Read the flight-control mounting guide](/flight/how-to-mount-flight-sim-hardware) |
 
-These premium models are commonly sold direct. We found no exact, consistently verifiable Amazon listing for these configurations, so we are not sending readers to a vague Amazon search result.
+These premium models are commonly sold direct. We found no exact, consistently verifiable Amazon listing for these configurations, so the links above are documentation routes and no retail CTA is shown.
 
 <details class="bench-secret"><summary>Bench easter egg: the fifteen-minute cardboard throttle</summary><p>Cut the footprint from a cereal box. Tape a marker upright where the grip will be. Move it through the full arc while flying one mission with your current throttle. Where the marker hits your wrist or monitor stand is where the expensive version will annoy you too.</p></details>
 
@@ -3012,10 +3057,12 @@ These premium models are commonly sold direct. We found no exact, consistently v
 - [Virpil custom detent documentation and files](https://virpil-controls.co.uk/blog/3d-print-your-own-throttle-detents.html)
 - [WINCTRL Orion2 official product overview](https://au.winctrl.com/h5/Orion2_Throttle_Base/m-en/)
 - [WINCTRL SimApp Pro manual](https://winctrl.com/static/assets/files/en/SIMAPP%20Pro%201.9.11-User%20Manual%20EN%20V1.2.pdf)
+- [WINCTRL Orion2 F-15EX throttle user manual](https://us.winwingsim.com/static/assets/files/en/THROTTLE%20HANDLE%20OF%2015E_15EX%20H.O.T.A.S-User%20Manual%20EN%20V1.1.pdf)
 - [Current HOTAS community comparison: STECS vs VMAX](https://www.reddit.com/r/hotas/comments/1s1nrcl/should_i_choose_the_vkb_stecs_the_virpil_vmax/)
 - [Current community comparison: STECS vs Orion2](https://www.reddit.com/r/hotas/comments/1shm7c3/vkb_stecs_or_winwing_orion_2_strikeace_ex/)
 - [Long-term upgrade discussion: WinWing vs Virpil vs VKB](https://www.reddit.com/r/hotas/comments/1s2ef41/hotas_upgrade_after_78_years_winwing_vs_virpil_vs/)
 - [Current owner discussion: VKB vs Virpil](https://www.reddit.com/r/hotas/comments/1uiqhyk/vkb_vs_virpil_info_pls/)
+- [Current installed-control discussion and owner setup notes](https://www.reddit.com/r/hotas/comments/1uaefwf/my_current_setup/)
 
 ## Bottom line
 
@@ -6485,7 +6532,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Launch monitor</p>
       <h3>Garmin Approach R50</h3>
       <p>A premium all-in-one monitor to research if you want screen-forward convenience. Confirm GSPro workflow before buying.</p>
-      <a data-buy-link="true" href="https://www.garmin.com/en-US/p/736810/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.garmin.com/en-US/p/736810/" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -6503,7 +6550,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Projector</p>
       <h3>BenQ AK700ST</h3>
       <p>Short-throw golf projection is room geometry, not decoration. Verify throw and mount position.</p>
-      <a data-buy-link="true" href="https://www.benq.com/en-us/projector/golf/ak700st/spec.html" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.benq.com/en-us/projector/golf/ak700st/spec.html" rel="nofollow noopener" target="_blank">Check room-fit specifications</a>
     </div>
   </article>
 </div>
@@ -8738,7 +8785,7 @@ The classic guide points at the solder-it-yourself **BU0836A** (~$42, if you're 
     <span class="gp-price">~$77</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -8754,7 +8801,7 @@ For the switch side of a bridge console — nav lights, horn, autopilot, anchor,
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -8847,7 +8894,7 @@ You can start this hobby for nothing. **Bridge Command** is a free, open-source,
     <span class="gp-price">Free</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Download free ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -8865,7 +8912,7 @@ The most important consumer signal in years is **Professional Ship Simulator** (
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>
@@ -9025,7 +9072,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">DIY board</p>
       <h3>Leo Bodnar BBI-32</h3>
       <p>A practical button-interface path for labeled marine controls.</p>
-      <a data-buy-link="true" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" rel="nofollow noopener" target="_blank">Read the interface documentation</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -9034,7 +9081,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Repurposed control</p>
       <h3>RailDriver-style console</h3>
       <p>Worth studying as a repurposed lever/button station if you enjoy tinkering.</p>
-      <a data-buy-link="true" href="https://raildriver.com/products/raildriver-desktop-train-cab-controller" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://raildriver.com/products/raildriver-desktop-train-cab-controller" rel="nofollow noopener" target="_blank">Inspect the official control layout</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -9043,7 +9090,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Labels and wiring</p>
       <h3>Panel labels, USB hub, cable kit</h3>
       <p>The boring kit that makes weird DIY controls usable by other humans.</p>
-      <a data-buy-link="true" href="https://sabrent.com/products/hb-bu10" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://sabrent.com/products/hb-bu10" rel="nofollow noopener" target="_blank">Read the official hub specifications</a>
     </div>
   </article>
 </div>
@@ -9123,7 +9170,7 @@ A few things jump out of that table, and they are the whole point.
     <span class="gp-price">Free</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Download at Bridge Command ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -9143,7 +9190,7 @@ A few things jump out of that table, and they are the whole point.
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>
@@ -9234,7 +9281,7 @@ If you're building rather than buying, the digital-only **Leo Bodnar BBI-32** is
     <span class="gp-price">~$53 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9252,7 +9299,7 @@ The cleanest way to guarantee a title reads your gear is to make your hardware *
     <span class="gp-price">~$77 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9309,7 +9356,7 @@ If the compatibility table is more hassle than your title is worth, two verified
     <span class="gp-price">~$220 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-      <a class="gp-buy" href="https://raildriver.com/" target="_blank" rel="noopener">Buy at RailDriver ↗</a>
+      <a href="https://raildriver.com/" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9470,7 +9517,7 @@ The classic Bridge Command guide points at the solder-it-yourself **BU0836A**. I
     <span class="gp-price">~$77</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9486,7 +9533,7 @@ For the switch side of a bridge console — nav lights, horn, autopilot, anchor,
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9564,7 +9611,7 @@ The most important consumer signal in years is **Professional Ship Simulator** (
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/search/?term=professional+ship+simulator" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>
@@ -9688,9 +9735,19 @@ Calibrate both engines separately. Check that equal physical lever positions pro
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-inputs.jpg" alt="Official installed wiring example for Leo Bodnar BU0836X inputs" loading="lazy"><figcaption>Screw terminals make prototyping friendly, but every wire still needs strain relief, labels, and a service path. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-manual-install.jpg" alt="Official Thrustmaster TCA Quadrant manual pages showing controls, connectors, engine selector, USB installation, and driver setup" loading="lazy"><figcaption>The TCA manual exposes the cheap test's real sequence: correct selector position, direct USB, current driver, Windows control-panel test, then simulator mapping. <span class="source-credit">Official Thrustmaster TCA Quadrant user manual; pages combined for legibility</span></figcaption></figure>
+
 Use a serviceable design. The bottom should open without dismantling the lever shafts. Wires need labels at both ends. Sensor connectors should be removable. The USB cable needs strain relief. Moving metal needs hard stops that protect the sensor. The neutral detent should be replaceable.
 
 Use a powered or direct USB plan appropriate to the station. Save calibration screenshots and the mapping profile. Write the vessel and simulator version on the file. If the sim supports several vessels, establish one reference tug or twin-screw ship before creating specialized curves.
+
+### Parts to stage before the first docking session
+
+For TCA, use the supplied cable, connect directly while commissioning, and confirm the engine selector and both axes in the Windows control panel before opening the simulator. Thrustmaster's current support guidance specifically warns against beginning with a hub or extension. For Bravo, duplicate a clean profile, bind the axes explicitly, and verify that aircraft detents do not masquerade as useful marine neutral points.
+
+For a BU0836X build, stage two matched sensors, mechanical hard stops, replaceable neutral detents, lever bearings or bushings, an enclosure, strain relief, labeled wire, removable sensor connectors, fasteners, and a serviceable USB exit. The board solves USB input. It does not solve smooth lever geometry or safe mechanical travel.
+
+Official contents are also part of the decision. Honeycomb lists the Bravo, dual mounting solution, GA and commercial lever sets, USB cable, and quick-start material. The TCA package includes the quadrant and its documented connection hardware. For DIY, the packing list is whatever you forgot to order, so prototype the mechanism before finishing the enclosure.
 
 <div class="callout warning"><div class="ct">// Gus's stop-work test</div><p>If port and starboard do not return to the same neutral value ten times in a row, stop decorating the panel. Fix the sensors, linkage, or deadzone. Brass labels cannot rescue a wandering axis.</p></div>
 
@@ -9725,9 +9782,9 @@ Ready-made quadrants have their own friction. Aircraft detents may land at usele
 ## What should you buy?
 
 <div class="buygrid">
-  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition exact model" loading="lazy"><h3>Thrustmaster TCA Quadrant</h3><p>The low-risk twin-axis proof. Buy this before commissioning a custom pedestal.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B086J6KWTZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition exact model" loading="lazy"><h3>Thrustmaster TCA Quadrant</h3><p>The low-risk twin-axis proof. Buy this before commissioning a custom pedestal.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
   <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Honeycomb Bravo Throttle Quadrant exact model" loading="lazy"><h3>Honeycomb Bravo</h3><p>Six flexible axes and enough controls for a capable shared bridge desk.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
-  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Leo Bodnar BU0836X exact controller board" loading="lazy"><h3>Leo Bodnar BU0836X</h3><p>The electrical core for a real custom lever. The mechanical project remains yours.</p><a class="btn" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Buy direct from Leo Bodnar</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Leo Bodnar BU0836X exact controller board" loading="lazy"><h3>Leo Bodnar BU0836X</h3><p>The electrical core for a real custom lever. The mechanical project remains yours.</p><a class="btn" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official wiring specifications</a></article>
 </div>
 
 <details class="bench-secret"><summary>Gus's dock-before-varnish challenge</summary><p>Build the first lever from scrap plywood, clamp it to the desk, and dock at three different berths. Mark every place your hand wanted more throw, a stronger detent, or a different spacing. The final enclosure gets built from those marks, not from a glamorous bridge photograph.</p></details>
@@ -9739,6 +9796,8 @@ Ready-made quadrants have their own friction. Aircraft detents may land at usele
 - [Bridge Command simulator project](https://www.bridgecommand.co.uk/)
 - [Honeycomb Bravo official product page](https://flyhoneycomb.com/products/bravo-throttle-quadrant)
 - [Thrustmaster TCA Quadrant Airbus Edition official product page](https://www.thrustmaster.com/products/tca-quadrant-airbus-edition/)
+- [Thrustmaster TCA Quadrant official user manual](https://ts.thrustmaster.com/download/accessories/Manuals/TCA_Quadrant/TCA_Quadrant_Airbus_Edition_user_manual.pdf)
+- [Thrustmaster direct-USB and driver troubleshooting guidance](https://support.thrustmaster.com/en/kb/1765-en/)
 - [Leo Bodnar BU0836X official product page](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180)
 - [Marine Institute of Technology and Graduate Studies 2026 simulation guide](https://www.mitags.org/wp-content/uploads/2026/01/Simulation-Guide-2026-Final-Version.pdf)
 - [MarineVerse simulator ecosystem](https://www.marineverse.com/)
@@ -9862,7 +9921,7 @@ Here's the twist that makes marine sim different from every other bay: its most 
     <span class="gp-price">Free / open source</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Get Bridge Command ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -9878,7 +9937,7 @@ The solderless workhorse for the axes is the **Leo Bodnar BU0836X** — eight an
     <span class="gp-price">~$77</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -9894,7 +9953,7 @@ For the switch side of a bridge console — nav lights, horn, autopilot, anchor,
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -12469,8 +12528,8 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
       <p class="eyebrow">Storage</p>
       <h3>Cartridge storage</h3>
       <p>The whole point is the shelf. Make the shelf clean, and buy collections you actually want to play.</p>
-      Shop Evercade cartridges on Amazon
-      <a data-buy-link="true" href="https://evercade.co.uk/cartridges/" rel="nofollow noopener" target="_blank">Browse official cartridge list</a>
+      Identify the exact collection before shopping; cartridge names and revisions matter.
+      <a href="https://evercade.co.uk/cartridges/" rel="nofollow noopener" target="_blank">Browse the official cartridge catalog</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -16838,6 +16897,21 @@ The community pattern is to double-bind some functions by operator or master mod
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Official Elgato Stream Deck Plus product photo with keys, touch strip, and dials" loading="lazy"><figcaption>Plus combines visible keys with four dials, but dial-to-game behavior still depends on the mapping path. <span class="source-credit">Official Elgato product media</span></figcaption></figure>
 
+Elgato's official documentation verifies a compact box: Stream Deck Plus and a USB-C to USB-C cable. That means the builder still owns placement, a reachable USB-C path or correctly specified adapter, profile backup, icon/profile maintenance, and the control layer between a key or dial and Star Citizen. We found no attributable packaging photograph strong enough to publish, so the verified contents and official use photos carry that job instead of a generated box.
+
+### What to stage before building the first career page
+
+| Part or file | Purpose | Watchout |
+| --- | --- | --- |
+| Stream Deck profile export | Restores pages and icons | Keep it outside the live profile folder |
+| Star Citizen binding export | Restores device mappings | Name it with patch and left/right device order |
+| Photograph of USB port order | Preserves HOSAS identity | Windows may reorder devices after a move |
+| Printed one-page survival map | Keeps landing and safety controls visible | Do not bury mode exit in a folder |
+| One proven analog axis | Handles mining power or another continuous job | A Stream Deck dial may emit commands, not a native game axis |
+| Powered USB plan with headroom | Supports HOSAS, tracking, audio, and deck | Test timing-sensitive controls directly first |
+
+Current owner discussion is consistent on the most important limitation: Stream Deck dials do not automatically become analog mining axes inside Star Citizen. They can be excellent for visible commands, repeated inputs, plugins, and system audio, but a real joystick/throttle/module axis remains the reliable precision path unless the exact mapping chain is proven on the current patch.
+
 Star Citizen's binding system is part of the hobby. RSI provides export/import guidance, and community maintainers publish profiles, but copied maps remain starting points. Device IDs, left/right joystick order, firmware, and personal control philosophy vary.
 
 ![Star Citizen binding backup and recovery flow](/images/infographics/space/star-citizen-binding-recovery-flow-2026.svg)
@@ -16880,8 +16954,8 @@ USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, a
 
 <div class="buygrid">
   <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Elgato Stream Deck Plus exact product" loading="lazy"><h3>Elgato Stream Deck Plus</h3><p>Best compact visible-command deck with four useful dials. Verify the analog mapping behavior you need.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B0BJL8SJ59?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
-  <article><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL exact product" loading="lazy"><h3>Elgato Stream Deck XL</h3><p>Best for thirty-two visible actions and fewer page layers. Pair it with a real analog axis.</p><a class="btn" href="https://www.elgato.com/us/en/p/stream-deck-xl" target="_blank" rel="nofollow noopener">Check Stream Deck XL at Elgato</a></article>
-  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="VKB GNX Side Extension Module" loading="lazy"><h3>VKB GNX modules</h3><p>Best when native axes, toggles, and tactile controls matter more than dynamic labels.</p><a class="btn" href="https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem" target="_blank" rel="nofollow noopener">See the GNX SEM</a></article>
+  <article><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL exact product" loading="lazy"><h3>Elgato Stream Deck XL</h3><p>Best for thirty-two visible actions and fewer page layers. Pair it with a real analog axis.</p><a class="btn" href="https://www.elgato.com/us/en/p/stream-deck-xl" target="_blank" rel="nofollow noopener">Read official specifications</a></article>
+  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="VKB GNX Side Extension Module" loading="lazy"><h3>VKB GNX modules</h3><p>Best when native axes, toggles, and tactile controls matter more than dynamic labels.</p><a class="btn" href="https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem" target="_blank" rel="nofollow noopener">Read official specifications</a></article>
 </div>
 
 <details class="bench-secret"><summary>Open Val's salvage-shift checklist</summary><p><strong>Before launch:</strong> test beam off, mode exit, analog range, landing controls, and profile export. <strong>Before cargo:</strong> photograph the page and label the backup. <strong>After patch:</strong> restore flight first, career second, cosmetics last.</p></details>
@@ -16892,6 +16966,9 @@ USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, a
 - [RSI controls and keybindings support](https://www.starcitizen.support/controls-keybindings)
 - [RSI custom profile export and import guide](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)
 - [Elgato Stream Deck Plus official product page](https://www.elgato.com/us/en/p/stream-deck-plus-black)
+- [Elgato Stream Deck Plus official technical specifications and box contents](https://help.elgato.com/hc/en-us/articles/10567379685901-Elgato-Stream-Deck-Technical-Specifications)
+- [RSI industrial gameplay guide](https://robertsspaceindustries.com/en/comm-link/transmission/20050-Industrial-Gameplay-Guide)
+- [RSI peripheral keybinding setup](https://support.robertsspaceindustries.com/hc/en-us/articles/360000134267-Set-up-keybindings-for-your-peripherals)
 - [Star Citizen Stream Deck plugin documentation](https://robdk97.github.io/SCStreamDeck/install/)
 - [VKB GNX Side Extension Module](https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem)
 - [Current community mining and salvage HOSAS binding discussion](https://www.reddit.com/r/starcitizen/comments/1t4vwgh/salvagingmining_binds_with_hosas/)
@@ -17007,7 +17084,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Starter HOSAS</p>
       <h3>VKB Gladiator NXT EVO Space Combat Edition</h3>
       <p>The practical serious start for many Star Citizen pilots before boutique spending.</p>
-      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -17016,7 +17093,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Left-hand control</p>
       <h3>VKB Omni Throttle</h3>
       <p>A clever bridge for players who want throttle-ish comfort with space-sim movement.</p>
-      <a data-buy-link="true" href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -17025,7 +17102,7 @@ Budget sticks can develop twist-yaw wear. Boutique sticks can become overkill if
       <p class="eyebrow">Mounting</p>
       <h3>Monstertech Table Mount</h3>
       <p>Not glamorous. Absolutely cockpit-changing.</p>
-      <a data-buy-link="true" href="https://www.mtsim.com/product/joystick-hotas-table-mount/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.mtsim.com/product/joystick-hotas-table-mount/" rel="nofollow noopener" target="_blank">Inspect the official mount dimensions</a>
     </div>
   </article>
 </div>

@@ -78,7 +78,7 @@ If you'd rather not touch a soldering iron at all, the **BU0836X** below is the 
     <span class="gp-price">~$77 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>

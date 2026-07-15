@@ -99,6 +99,8 @@ The ownership warnings are equally concrete. FliteSim's April 2026 setup guide t
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/brunner-clse-rear.png" alt="Official rear and side view of the Brunner CLS-E force-feedback yoke" loading="lazy"><figcaption>Rear depth, cable exits, and chassis mass matter to a panel builder more than a beauty angle. <span class="source-credit">Official Brunner product media</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/flight/moza-ay210-vs-brunner-cls-e-vs-flitesim-cls-60-ffb-yokes-2026/ay210-manual-mounting.jpg" alt="Official MOZA AY210 manual pages showing dimensions, ports, base mounting, yoke attachment, and cable access" loading="lazy"><figcaption>The AY210 manual shows the work the launch photo hides: base depth, shaft travel, desk or profile mounting, handle attachment, power, USB, and service clearance. <span class="source-credit">Official MOZA AY210 user manual; pages combined for legibility</span></figcaption></figure>
+
 Plan the installation in five layers.
 
 **Structure:** the desk or profile frame must resist pitch push/pull and roll force without walking, flexing, or rotating. A motorized yoke makes weak furniture visible immediately. Measure the edge thickness, underside obstructions, shaft height, seat relationship, monitor clearance, and full 150-165 mm pitch envelope.
@@ -110,6 +112,14 @@ Plan the installation in five layers.
 **Software:** install one vendor stack, update deliberately, calibrate raw axes, and create a neutral profile. Confirm that the simulator is not applying a second centering spring or conflicting trim behavior. Only then add ground roll, turbulence, stall, engine vibration, or other effects.
 
 **Aircraft validation:** start with a documented default aircraft. Check pitch and roll direction, trim unloading, autopilot movement, disconnect behavior, and force recovery. Then move to the add-on aircraft you actually care about.
+
+### The parts and bench space the box does not solve
+
+MOZA's official support list verifies the base, MFY yoke, toolkit, manual, and warranty materials in the complete bundle. The desk clamp is optional, so a buyer using furniture rather than profile extrusion must add the correct clamp or mounting plate. Brunner and FliteSim configurations vary by handle and mount; verify the selected bundle rather than assuming the hero photo is the shipped cart.
+
+Before install, have the final mount hardware, a reachable power cutoff, a direct motherboard USB port, cable strain relief, a non-rolling seat solution, and enough clear depth for full pitch travel. Keep the packaging until the baseline profile survives several cold boots and one simulator update.
+
+If MOZA Cockpit freezes, do not start with a blind Windows reinstall. A current owner traced the failure to another USB device. Power down, disconnect nonessential USB hardware, connect the yoke directly, launch the vendor software, validate the default aircraft, then reconnect one device at a time. That isolates a conflict; it does not prove the yoke is defective.
 
 ![Force-feedback yoke commissioning sequence](/images/infographics/flight/ffb-yoke-commissioning-sequence-2026.svg)
 
@@ -151,14 +161,14 @@ Finally, force feedback cannot make a poor flight model accurate. It can faithfu
 
 ## What should you buy?
 
-| Buyer | Best path | Why | Purchase route |
+| Buyer | Best path | Why | Official verification route |
 | --- | --- | --- | --- |
-| Serious home enthusiast | MOZA AY210 complete bundle | Strong value, modern native telemetry path, substantial force and travel | [Check the complete AY210 system at MOZA](https://us.mozaracing.com/pages/ay210-yoke-base){:target="_blank" rel="nofollow noopener"} |
-| Training-first or professional-adjacent builder | Brunner CLS-E MK II | Mature control-loading and integration lineage | [Configure the CLS-E MK II at Brunner](https://shop.brunner-simulation.ch/product/cls-e-mk-ii-yoke/){:target="_blank" rel="nofollow noopener"} |
-| Modular instructor or long-travel builder | FliteSim CLS-60 / CLS-120 | 165 mm travel, upgrade path, RemoteSync and ReplaySync | [See current CLS-60 options](https://www.flitesim.com/shop/p/cls-60){:target="_blank" rel="nofollow noopener"} |
+| Serious home enthusiast | MOZA AY210 complete bundle | Strong value, modern native telemetry path, substantial force and travel | [Verify the complete AY210 system at MOZA](https://us.mozaracing.com/pages/ay210-yoke-base){:target="_blank" rel="nofollow noopener"} |
+| Training-first or professional-adjacent builder | Brunner CLS-E MK II | Mature control-loading and integration lineage | [Read the CLS-E MK II specification at Brunner](https://shop.brunner-simulation.ch/product/cls-e-mk-ii-yoke/){:target="_blank" rel="nofollow noopener"} |
+| Modular instructor or long-travel builder | FliteSim CLS-60 / CLS-120 | 165 mm travel, upgrade path, RemoteSync and ReplaySync | [Verify current CLS-60 specifications](https://www.flitesim.com/shop/p/cls-60){:target="_blank" rel="nofollow noopener"} |
 | First-time flight simmer | Good passive yoke or stick first | Stabilize the room and habits before buying motor complexity | [Read the full 2026 yoke map](/flight/tca-sky-yoke-vs-honeycomb-alpha-xpc-vs-velocityone-vs-moza-ay210-2026) |
 
-There is no verified exact Amazon listing for these three specialist force-feedback systems that we can responsibly recommend. The purchase links above go to the manufacturers, not an Amazon search page pretending to be useful.
+There is no verified exact Amazon listing for these three specialist force-feedback systems that we can responsibly recommend. The links above are official evidence only; retail CTAs are deliberately omitted.
 
 <details class="bench-secret"><summary>Field log 07-15: Val's boring-profile pact</summary><p>Name one profile <strong>BASELINE - DO NOT IMPROVE</strong>. No vibration, no clever curve, no experimental aircraft. When a firmware update makes the yoke feel haunted, that profile is the control group that saves the evening.</p></details>
 
@@ -175,6 +185,8 @@ There is no verified exact Amazon listing for these three specialist force-feedb
 - [Current community discussion: TCA yoke vs MOZA AY210](https://www.reddit.com/r/flightsim/comments/1uvw58q/thrustmaster_tca_yoke_vs_moza_ay210/)
 - [Community upgrade discussion: Honeycomb to force feedback](https://www.reddit.com/r/flightsim/comments/1uvogsv/is_it_worth_while_to_upgrade_from_a_homeycomb/)
 - [Real-pilot community review discussion of the AY210](https://www.reddit.com/r/flightsim/comments/1momtcu/real_pilot_review_moza_ay210_force_feedback_yoke/)
+- [Current owner troubleshooting: AY210 and MOZA Cockpit USB conflict](https://www.reddit.com/r/moza/comments/1rl50a0/moza_cockpit_freezes_with_ay210_connected/)
+- [Current FliteSim CLS-60 ordering and support discussion](https://www.reddit.com/r/flightsim/comments/1tvty9z/cls60_order_from_flitesimcom/)
 - [Long-form owner discussion: is force feedback worth it?](https://www.reddit.com/r/flightsim/comments/1lpumbi/force_feedback_worth_it/)
 
 ## Bottom line

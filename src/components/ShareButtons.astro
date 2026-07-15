@@ -1,43 +1,122 @@
 ---
 interface Props { label?: string; }
-const { label = 'Share' } = Astro.props;
+const { label = 'Save / Share' } = Astro.props;
 ---
-<div class="share" data-share>
-  <span class="lbl">{label}</span>
-  <a class="sh x" rel="noopener" aria-label="Share on X" data-event="share_click" data-event-network="x">X</a>
-  <a class="sh reddit" rel="noopener" aria-label="Share on Reddit" data-event="share_click" data-event-network="reddit">Reddit</a>
-  <a class="sh pin" rel="noopener" aria-label="Pin on Pinterest" data-event="share_click" data-event-network="pinterest">Pin</a>
-  <button class="sh copy" type="button" aria-label="Copy link" data-event="share_click" data-event-network="copy">Copy</button>
-  <button class="sh native" type="button" aria-label="Share with another app" data-event="share_click" data-event-network="native" hidden>Share</button>
-</div>
+<aside class="share-dock" data-share aria-label="Save or share this guide">
+  <div class="share-dock__label">
+    <span class="share-dock__eyebrow">Field note</span>
+    <strong>{label}</strong>
+  </div>
+  <div class="share-dock__actions">
+    <a class="share-action share-action--pin" rel="noopener" aria-label="Save on Pinterest" title="Save on Pinterest" data-event="share_click" data-event-network="pinterest">
+      <span aria-hidden="true">P</span><b>Save</b>
+    </a>
+    <button class="share-action share-action--native" type="button" aria-label="Share with another app" title="Share" data-event="share_click" data-event-network="native" hidden>
+      <span aria-hidden="true">+</span><b>Share</b>
+    </button>
+    <a class="share-action" rel="noopener" aria-label="Share on Reddit" title="Share on Reddit" data-event="share_click" data-event-network="reddit">
+      <span aria-hidden="true">r/</span>
+    </a>
+    <a class="share-action" rel="noopener" aria-label="Share on X" title="Share on X" data-event="share_click" data-event-network="x">
+      <span aria-hidden="true">X</span>
+    </a>
+    <button class="share-action share-action--copy" type="button" aria-label="Copy link" title="Copy link" data-event="share_click" data-event-network="copy">
+      <span aria-hidden="true">//</span>
+    </button>
+  </div>
+  <span class="share-status" aria-live="polite"></span>
+</aside>
 
 <style>
-  .share { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .share .lbl { margin-right: 2px; }
-  .sh { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .72rem; color: var(--txt); border: 1px solid var(--line2); border-radius: 8px; padding: 8px 12px; cursor: pointer; background: var(--panel); transition: all .15s; }
-  .sh:hover { border-color: var(--accent); color: var(--accent); }
+  .share-dock {
+    --share-ink: #101820;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    width: min(100%, 780px);
+    margin: 28px auto;
+    padding: 14px 16px 14px 18px;
+    color: var(--share-ink);
+    background: #f7fbfd;
+    border: 2px solid var(--share-ink);
+    border-left: 8px solid var(--accent);
+    border-radius: 8px;
+    box-shadow: 0 8px 0 rgba(16, 24, 32, .12);
+  }
+  .share-dock__label { display: grid; gap: 2px; min-width: max-content; }
+  .share-dock__label strong { font-size: .92rem; letter-spacing: 0; }
+  .share-dock__eyebrow {
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-size: .56rem;
+    font-weight: 900;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .share-dock__actions { display: flex; align-items: center; justify-content: flex-end; gap: 8px; }
+  .share-action {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    color: var(--share-ink);
+    background: #fff;
+    border: 1px solid rgba(16, 24, 32, .28);
+    border-radius: 6px;
+    font-family: var(--font-mono);
+    font-size: .72rem;
+    font-weight: 900;
+    line-height: 1;
+    cursor: pointer;
+    transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+  }
+  .share-action:hover { transform: translateY(-2px); border-color: var(--share-ink); box-shadow: 0 4px 0 rgba(16, 24, 32, .14); }
+  .share-action--pin { width: auto; padding: 0 14px; color: #fff; background: #bd081c; border-color: #8d0615; }
+  .share-action--native { width: auto; padding: 0 13px; color: var(--share-ink); background: color-mix(in srgb, var(--accent) 24%, #fff); }
+  .share-action b { font-size: .68rem; }
+  .share-status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  @media (max-width: 640px) {
+    .share-dock { align-items: flex-start; flex-direction: column; gap: 10px; padding: 14px; }
+    .share-dock__actions { width: 100%; justify-content: flex-start; overflow-x: auto; padding-bottom: 2px; }
+  }
+  @media (prefers-reduced-motion: reduce) { .share-action { transition: none; } }
 </style>
 
 <script>
-  document.querySelectorAll<HTMLElement>('[data-share]').forEach((s) => {
-    const url = encodeURIComponent(location.href);
+  document.querySelectorAll<HTMLElement>('[data-share]').forEach((dock) => {
+    const pageUrl = location.href;
+    const url = encodeURIComponent(pageUrl);
     const title = encodeURIComponent(document.title);
-    const img = encodeURIComponent((document.querySelector('meta[property="og:image"]') as HTMLMetaElement)?.content || '');
-    const x = s.querySelector('.x') as HTMLAnchorElement;
-    const reddit = s.querySelector('.reddit') as HTMLAnchorElement;
-    const pin = s.querySelector('.pin') as HTMLAnchorElement;
+    const image = encodeURIComponent((document.querySelector('meta[property="og:image"]') as HTMLMetaElement)?.content || '');
+    const x = dock.querySelector('[data-event-network="x"]') as HTMLAnchorElement | null;
+    const reddit = dock.querySelector('[data-event-network="reddit"]') as HTMLAnchorElement | null;
+    const pin = dock.querySelector('[data-event-network="pinterest"]') as HTMLAnchorElement | null;
+    const status = dock.querySelector('.share-status') as HTMLElement | null;
+
     if (x) { x.href = `https://twitter.com/intent/tweet?text=${title}&url=${url}`; x.target = '_blank'; }
     if (reddit) { reddit.href = `https://www.reddit.com/submit?url=${url}&title=${title}`; reddit.target = '_blank'; }
-    if (pin) { pin.href = `https://www.pinterest.com/pin/create/button/?url=${url}&media=${img}&description=${title}`; pin.target = '_blank'; }
-    s.querySelector('.copy')?.addEventListener('click', async () => {
-      try { await navigator.clipboard.writeText(location.href); (window as any).toast?.('Link copied'); }
-      catch { (window as any).toast?.('Copy failed'); }
+    if (pin) { pin.href = `https://www.pinterest.com/pin/create/button/?url=${url}&media=${image}&description=${title}`; pin.target = '_blank'; }
+
+    dock.querySelector('.share-action--copy')?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(pageUrl);
+        if (status) status.textContent = 'Link copied';
+        (window as any).toast?.('Link copied');
+      } catch {
+        if (status) status.textContent = 'Copy failed';
+        (window as any).toast?.('Copy failed');
+      }
     });
-    const native = s.querySelector('.native') as HTMLButtonElement | null;
+
+    const native = dock.querySelector('.share-action--native') as HTMLButtonElement | null;
     if (native && navigator.share) {
       native.hidden = false;
       native.addEventListener('click', async () => {
-        try { await navigator.share({ title: document.title, url: location.href }); } catch {}
+        try { await navigator.share({ title: document.title, url: pageUrl }); } catch {}
       });
     }
   });

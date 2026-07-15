@@ -1,11 +1,11 @@
 # IgnitionSim World-Class Quality Scoreboard
 
-Generated: 2026-07-15T07:01:53.990Z
+Generated: 2026-07-15T09:46:50.876Z
 
 - Certified articles: 85
-- Certified average: 65.9/100
-- Average editorial words: 2331.5
-- Average source URLs: 9.8
+- Certified average: 66.1/100
+- Average editorial words: 2346
+- Average source URLs: 9.9
 - Average unique images: 8.3
 - Average real-use/install images: 1.2
 - Average curator-action scenes: 0.5

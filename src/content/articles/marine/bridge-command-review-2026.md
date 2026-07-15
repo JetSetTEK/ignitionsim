@@ -123,7 +123,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">DIY board</p>
       <h3>Leo Bodnar BBI-32</h3>
       <p>A practical button-interface path for labeled marine controls.</p>
-      <a data-buy-link="true" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" rel="nofollow noopener" target="_blank">Read the interface documentation</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -132,7 +132,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Repurposed control</p>
       <h3>RailDriver-style console</h3>
       <p>Worth studying as a repurposed lever/button station if you enjoy tinkering.</p>
-      <a data-buy-link="true" href="https://raildriver.com/products/raildriver-desktop-train-cab-controller" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://raildriver.com/products/raildriver-desktop-train-cab-controller" rel="nofollow noopener" target="_blank">Inspect the official control layout</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -141,7 +141,7 @@ The hardware path is not standardized. You will research, wire, map, test, and r
       <p class="eyebrow">Labels and wiring</p>
       <h3>Panel labels, USB hub, cable kit</h3>
       <p>The boring kit that makes weird DIY controls usable by other humans.</p>
-      <a data-buy-link="true" href="https://sabrent.com/products/hb-bu10" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://sabrent.com/products/hb-bu10" rel="nofollow noopener" target="_blank">Read the official hub specifications</a>
     </div>
   </article>
 </div>

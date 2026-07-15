@@ -150,8 +150,8 @@ The other warning is availability churn. Evercade cartridges can move in waves, 
       <p class="eyebrow">Storage</p>
       <h3>Cartridge storage</h3>
       <p>The whole point is the shelf. Make the shelf clean, and buy collections you actually want to play.</p>
-      Shop Evercade cartridges on Amazon
-      <a data-buy-link="true" href="https://evercade.co.uk/cartridges/" rel="nofollow noopener" target="_blank">Browse official cartridge list</a>
+      Identify the exact collection before shopping; cartridge names and revisions matter.
+      <a href="https://evercade.co.uk/cartridges/" rel="nofollow noopener" target="_blank">Browse the official cartridge catalog</a>
     </div>
   </article>
   <article class="gear-pick">

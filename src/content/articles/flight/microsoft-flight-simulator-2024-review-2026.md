@@ -128,7 +128,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Yoke</p>
       <h3>Honeycomb Alpha</h3>
       <p>A strong first yoke for builders who want GA and airliner control without immediate panel sprawl.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/alpha-flight-controls-xpc" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://flyhoneycomb.com/products/alpha-flight-controls-xpc" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -137,7 +137,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Throttle</p>
       <h3>Honeycomb Bravo</h3>
       <p>Still one of the easiest ways to make MSFS feel like a cockpit instead of a keyboard shortcut exam.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/bravo-throttle-quadrant" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a data-buy-link="true" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" rel="nofollow sponsored noopener" target="_blank">Buy the exact Bravo on Amazon</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -146,7 +146,7 @@ Val's habit: every time a cockpit behaves, export the profile and write the date
       <p class="eyebrow">Rudders</p>
       <h3>Honeycomb Charlie</h3>
       <p>Expensive, serious, and worth considering when landings matter more than panel glitter.</p>
-      <a data-buy-link="true" href="https://flyhoneycomb.com/products/charlie-rudder-pedals" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://flyhoneycomb.com/products/charlie-rudder-pedals" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
 </div>

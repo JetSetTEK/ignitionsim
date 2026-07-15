@@ -76,7 +76,7 @@ A few things jump out of that table, and they are the whole point.
     <span class="gp-price">Free</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Download at Bridge Command ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -96,7 +96,7 @@ A few things jump out of that table, and they are the whole point.
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>
@@ -187,7 +187,7 @@ If you're building rather than buying, the digital-only **Leo Bodnar BBI-32** is
     <span class="gp-price">~$53 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -205,7 +205,7 @@ The cleanest way to guarantee a title reads your gear is to make your hardware *
     <span class="gp-price">~$77 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -262,7 +262,7 @@ If the compatibility table is more hassle than your title is worth, two verified
     <span class="gp-price">~$220 (check current)</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-      <a class="gp-buy" href="https://raildriver.com/" target="_blank" rel="noopener">Buy at RailDriver ↗</a>
+      <a href="https://raildriver.com/" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>

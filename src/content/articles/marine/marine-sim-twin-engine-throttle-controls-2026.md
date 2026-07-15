@@ -119,9 +119,19 @@ Calibrate both engines separately. Check that equal physical lever positions pro
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-inputs.jpg" alt="Official installed wiring example for Leo Bodnar BU0836X inputs" loading="lazy"><figcaption>Screw terminals make prototyping friendly, but every wire still needs strain relief, labels, and a service path. <span class="source-credit">Official Leo Bodnar documentation</span></figcaption></figure>
 
+<figure class="proof-wide product-proof"><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-manual-install.jpg" alt="Official Thrustmaster TCA Quadrant manual pages showing controls, connectors, engine selector, USB installation, and driver setup" loading="lazy"><figcaption>The TCA manual exposes the cheap test's real sequence: correct selector position, direct USB, current driver, Windows control-panel test, then simulator mapping. <span class="source-credit">Official Thrustmaster TCA Quadrant user manual; pages combined for legibility</span></figcaption></figure>
+
 Use a serviceable design. The bottom should open without dismantling the lever shafts. Wires need labels at both ends. Sensor connectors should be removable. The USB cable needs strain relief. Moving metal needs hard stops that protect the sensor. The neutral detent should be replaceable.
 
 Use a powered or direct USB plan appropriate to the station. Save calibration screenshots and the mapping profile. Write the vessel and simulator version on the file. If the sim supports several vessels, establish one reference tug or twin-screw ship before creating specialized curves.
+
+### Parts to stage before the first docking session
+
+For TCA, use the supplied cable, connect directly while commissioning, and confirm the engine selector and both axes in the Windows control panel before opening the simulator. Thrustmaster's current support guidance specifically warns against beginning with a hub or extension. For Bravo, duplicate a clean profile, bind the axes explicitly, and verify that aircraft detents do not masquerade as useful marine neutral points.
+
+For a BU0836X build, stage two matched sensors, mechanical hard stops, replaceable neutral detents, lever bearings or bushings, an enclosure, strain relief, labeled wire, removable sensor connectors, fasteners, and a serviceable USB exit. The board solves USB input. It does not solve smooth lever geometry or safe mechanical travel.
+
+Official contents are also part of the decision. Honeycomb lists the Bravo, dual mounting solution, GA and commercial lever sets, USB cable, and quick-start material. The TCA package includes the quadrant and its documented connection hardware. For DIY, the packing list is whatever you forgot to order, so prototype the mechanism before finishing the enclosure.
 
 <div class="callout warning"><div class="ct">// Gus's stop-work test</div><p>If port and starboard do not return to the same neutral value ten times in a row, stop decorating the panel. Fix the sensors, linkage, or deadzone. Brass labels cannot rescue a wandering axis.</p></div>
 
@@ -156,9 +166,9 @@ Ready-made quadrants have their own friction. Aircraft detents may land at usele
 ## What should you buy?
 
 <div class="buygrid">
-  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition exact model" loading="lazy"><h3>Thrustmaster TCA Quadrant</h3><p>The low-risk twin-axis proof. Buy this before commissioning a custom pedestal.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B086J6KWTZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/tca-quadrant-main.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition exact model" loading="lazy"><h3>Thrustmaster TCA Quadrant</h3><p>The low-risk twin-axis proof. Buy this before commissioning a custom pedestal.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
   <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/honeycomb-bravo-main.jpg" alt="Honeycomb Bravo Throttle Quadrant exact model" loading="lazy"><h3>Honeycomb Bravo</h3><p>Six flexible axes and enough controls for a capable shared bridge desk.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
-  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Leo Bodnar BU0836X exact controller board" loading="lazy"><h3>Leo Bodnar BU0836X</h3><p>The electrical core for a real custom lever. The mechanical project remains yours.</p><a class="btn" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Buy direct from Leo Bodnar</a></article>
+  <article><img src="/images/article-proofs/marine/marine-sim-twin-engine-throttle-controls-2026/bu0836x-main.jpg" alt="Leo Bodnar BU0836X exact controller board" loading="lazy"><h3>Leo Bodnar BU0836X</h3><p>The electrical core for a real custom lever. The mechanical project remains yours.</p><a class="btn" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official wiring specifications</a></article>
 </div>
 
 <details class="bench-secret"><summary>Gus's dock-before-varnish challenge</summary><p>Build the first lever from scrap plywood, clamp it to the desk, and dock at three different berths. Mark every place your hand wanted more throw, a stronger detent, or a different spacing. The final enclosure gets built from those marks, not from a glamorous bridge photograph.</p></details>
@@ -170,6 +180,8 @@ Ready-made quadrants have their own friction. Aircraft detents may land at usele
 - [Bridge Command simulator project](https://www.bridgecommand.co.uk/)
 - [Honeycomb Bravo official product page](https://flyhoneycomb.com/products/bravo-throttle-quadrant)
 - [Thrustmaster TCA Quadrant Airbus Edition official product page](https://www.thrustmaster.com/products/tca-quadrant-airbus-edition/)
+- [Thrustmaster TCA Quadrant official user manual](https://ts.thrustmaster.com/download/accessories/Manuals/TCA_Quadrant/TCA_Quadrant_Airbus_Edition_user_manual.pdf)
+- [Thrustmaster direct-USB and driver troubleshooting guidance](https://support.thrustmaster.com/en/kb/1765-en/)
 - [Leo Bodnar BU0836X official product page](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180)
 - [Marine Institute of Technology and Graduate Studies 2026 simulation guide](https://www.mitags.org/wp-content/uploads/2026/01/Simulation-Guide-2026-Final-Version.pdf)
 - [MarineVerse simulator ecosystem](https://www.marineverse.com/)

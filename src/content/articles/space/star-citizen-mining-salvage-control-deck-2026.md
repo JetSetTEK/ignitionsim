@@ -114,6 +114,21 @@ The community pattern is to double-bind some functions by operator or master mod
 
 <figure class="proof-wide product-proof"><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Official Elgato Stream Deck Plus product photo with keys, touch strip, and dials" loading="lazy"><figcaption>Plus combines visible keys with four dials, but dial-to-game behavior still depends on the mapping path. <span class="source-credit">Official Elgato product media</span></figcaption></figure>
 
+Elgato's official documentation verifies a compact box: Stream Deck Plus and a USB-C to USB-C cable. That means the builder still owns placement, a reachable USB-C path or correctly specified adapter, profile backup, icon/profile maintenance, and the control layer between a key or dial and Star Citizen. We found no attributable packaging photograph strong enough to publish, so the verified contents and official use photos carry that job instead of a generated box.
+
+### What to stage before building the first career page
+
+| Part or file | Purpose | Watchout |
+| --- | --- | --- |
+| Stream Deck profile export | Restores pages and icons | Keep it outside the live profile folder |
+| Star Citizen binding export | Restores device mappings | Name it with patch and left/right device order |
+| Photograph of USB port order | Preserves HOSAS identity | Windows may reorder devices after a move |
+| Printed one-page survival map | Keeps landing and safety controls visible | Do not bury mode exit in a folder |
+| One proven analog axis | Handles mining power or another continuous job | A Stream Deck dial may emit commands, not a native game axis |
+| Powered USB plan with headroom | Supports HOSAS, tracking, audio, and deck | Test timing-sensitive controls directly first |
+
+Current owner discussion is consistent on the most important limitation: Stream Deck dials do not automatically become analog mining axes inside Star Citizen. They can be excellent for visible commands, repeated inputs, plugins, and system audio, but a real joystick/throttle/module axis remains the reliable precision path unless the exact mapping chain is proven on the current patch.
+
 Star Citizen's binding system is part of the hobby. RSI provides export/import guidance, and community maintainers publish profiles, but copied maps remain starting points. Device IDs, left/right joystick order, firmware, and personal control philosophy vary.
 
 ![Star Citizen binding backup and recovery flow](/images/infographics/space/star-citizen-binding-recovery-flow-2026.svg)
@@ -156,8 +171,8 @@ USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, a
 
 <div class="buygrid">
   <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/stream-deck-plus.jpg" alt="Elgato Stream Deck Plus exact product" loading="lazy"><h3>Elgato Stream Deck Plus</h3><p>Best compact visible-command deck with four useful dials. Verify the analog mapping behavior you need.</p><a class="btn btn-primary" href="https://www.amazon.com/dp/B0BJL8SJ59?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></article>
-  <article><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL exact product" loading="lazy"><h3>Elgato Stream Deck XL</h3><p>Best for thirty-two visible actions and fewer page layers. Pair it with a real analog axis.</p><a class="btn" href="https://www.elgato.com/us/en/p/stream-deck-xl" target="_blank" rel="nofollow noopener">Check Stream Deck XL at Elgato</a></article>
-  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="VKB GNX Side Extension Module" loading="lazy"><h3>VKB GNX modules</h3><p>Best when native axes, toggles, and tactile controls matter more than dynamic labels.</p><a class="btn" href="https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem" target="_blank" rel="nofollow noopener">See the GNX SEM</a></article>
+  <article><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL exact product" loading="lazy"><h3>Elgato Stream Deck XL</h3><p>Best for thirty-two visible actions and fewer page layers. Pair it with a real analog axis.</p><a class="btn" href="https://www.elgato.com/us/en/p/stream-deck-xl" target="_blank" rel="nofollow noopener">Read official specifications</a></article>
+  <article><img src="/images/article-proofs/space/star-citizen-mining-salvage-control-deck-2026/vkb-gnx-sem.jpg" alt="VKB GNX Side Extension Module" loading="lazy"><h3>VKB GNX modules</h3><p>Best when native axes, toggles, and tactile controls matter more than dynamic labels.</p><a class="btn" href="https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem" target="_blank" rel="nofollow noopener">Read official specifications</a></article>
 </div>
 
 <details class="bench-secret"><summary>Open Val's salvage-shift checklist</summary><p><strong>Before launch:</strong> test beam off, mode exit, analog range, landing controls, and profile export. <strong>Before cargo:</strong> photograph the page and label the backup. <strong>After patch:</strong> restore flight first, career second, cosmetics last.</p></details>
@@ -168,6 +183,9 @@ USB clutter is another tax. HOSAS, pedals, head tracking, Stream Deck, panels, a
 - [RSI controls and keybindings support](https://www.starcitizen.support/controls-keybindings)
 - [RSI custom profile export and import guide](https://support.robertsspaceindustries.com/hc/en-us/articles/360000183328-Create-export-and-import-custom-profiles)
 - [Elgato Stream Deck Plus official product page](https://www.elgato.com/us/en/p/stream-deck-plus-black)
+- [Elgato Stream Deck Plus official technical specifications and box contents](https://help.elgato.com/hc/en-us/articles/10567379685901-Elgato-Stream-Deck-Technical-Specifications)
+- [RSI industrial gameplay guide](https://robertsspaceindustries.com/en/comm-link/transmission/20050-Industrial-Gameplay-Guide)
+- [RSI peripheral keybinding setup](https://support.robertsspaceindustries.com/hc/en-us/articles/360000134267-Set-up-keybindings-for-your-peripherals)
 - [Star Citizen Stream Deck plugin documentation](https://robdk97.github.io/SCStreamDeck/install/)
 - [VKB GNX Side Extension Module](https://vkb-sim.com.au/products/gnx-side-extension-module-gnx-sem)
 - [Current community mining and salvage HOSAS binding discussion](https://www.reddit.com/r/starcitizen/comments/1t4vwgh/salvagingmining_binds_with_hosas/)

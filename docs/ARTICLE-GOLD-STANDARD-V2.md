@@ -69,6 +69,12 @@ Every article follows four verbs:
 - At least eight sources for a Tier A cornerstone, including official product
   evidence, official manuals/support where available, expert review evidence,
   and more than one community or owner signal.
+- A reviewed official manual or setup document for every major product when one
+  is publicly available. Pull out the ports, mount sequence, calibration order,
+  included cable/fastener list, and the warning most likely to cost a weekend.
+- A clearly labeled `parts to have before installation` checklist and a
+  `commissioning order` assembled from official documentation plus repeated
+  owner patterns. Never turn one forum failure into a universal defect.
 - No fabricated quote, star rating, review count, test result, ownership claim,
   firmware behavior, price, compatibility statement, or firsthand experience.
 
@@ -82,6 +88,11 @@ Every article follows four verbs:
 - At least six real evidence visuals: exact product, installed product, person
   using/installing it, part closeup, official UI/screenshot, or manual/support
   proof.
+- Show official box/packaging and a legible manual/setup page for each lead
+  product when attributable media can be found. If either is genuinely absent,
+  record the search in the research dossier and state what official
+  contents/documentation was verified instead. Never generate a substitute box
+  or manual.
 - At least two practical diagrams for a Tier A cornerstone. Good examples:
   room geometry, load path, USB/power tree, display angle, throw ratio, mounting
   points, control map, upgrade ladder, or installation timeline.
@@ -112,8 +123,11 @@ Every article follows four verbs:
 - Amazon CTAs use the exact product URL:
   `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`.
 - A source link is labeled as evidence. It is not disguised as a buy button.
-- If the exact affiliate product cannot be verified, use an approved specialty
-  retailer or omit the CTA. Never use an Amazon search page.
+- If the exact Amazon product cannot be verified, omit the retail CTA. Link the
+  manufacturer, manual, or specialist source only as research evidence. No
+  affiliate or buy-style CTA may lead to another store.
+- Include the standard save/share dock with exact-page Pinterest media, native
+  share when supported, Reddit, X, copy-link, and `share_click` analytics.
 - Frontmatter dates, `goldStatus`, certification date, source review date,
   revenue tier, cluster, author, FAQ, related guides, and image fields are
   correct.
@@ -158,6 +172,8 @@ compatibility chart, firmware notes, and installation PDF:
 - dimensions, weight, mounting pattern, power, ports, platform support, and
   software requirements;
 - setup/calibration sequence and required service clearance;
+- exact included contents, plus the tools, cables, adapters, fasteners, mounts,
+  hubs, power capacity, and replacement parts the buyer may still need;
 - supported games/platforms and documented exclusions;
 - warranty and return constraints when officially published;
 - current MSRP only when explicitly sourced and labeled as MSRP.
@@ -172,6 +188,9 @@ Look for repeated patterns across several credible voices:
 - how much the part changes control feel or immersion;
 - whether a cheaper product solves the same job;
 - what owners wish they had measured or purchased first.
+- which install steps fail first, which USB or firmware conflicts recur, which
+  optional parts become effectively mandatory, and which troubleshooting order
+  prevents blind driver reinstalls or unnecessary returns.
 
 Label working notes as `official fact`, `expert observation`, `owner pattern`,
 or `editorial inference`. Community evidence can reveal a pattern, but it does
@@ -186,7 +205,9 @@ Use `docs/SOURCE-LEXICON-IGNITIONSIM.md` and `docs/REAL-PHOTOS.md`.
 ### Pass E: commerce verification
 
 Open every CTA. Confirm model, edition/generation, platform, bundle, region,
-and ASIN. Null stale prices unless an approved live feed supplies them.
+and ASIN. Null stale prices unless an approved live feed supplies them. Run
+`npm run audit:commerce`; a monetized link to a manufacturer or specialty store
+is a release failure, not a harmless fallback.
 
 ## 5. Writing process: verdict, system, friction, experience
 
@@ -254,6 +275,11 @@ Source order:
 6. Existing verified IgnitionSim assets.
 7. Amazon images remain hotlink-only and linked to the product under Amazon's
    terms. Do not download and rehost them as editorial proof.
+
+For every lead product, the image ledger records `box found`, `manual found`,
+`installed/use found`, and `parts/ports found`. A missing role needs a written
+search note and the best honest substitute from official documentation; it does
+not receive generated evidence.
 
 ## 7. Generated imagery and hybrid composites
 

@@ -129,7 +129,7 @@ The classic guide points at the solder-it-yourself **BU0836A** (~$42, if you're 
     <span class="gp-price">~$77</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -145,7 +145,7 @@ For the switch side of a bridge console — nav lights, horn, autopilot, anchor,
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -238,7 +238,7 @@ You can start this hobby for nothing. **Bridge Command** is a free, open-source,
     <span class="gp-price">Free</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Download free ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -256,7 +256,7 @@ The most important consumer signal in years is **Professional Ship Simulator** (
     <span class="gp-price">Price TBD · wishlist on Steam</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a class="gp-buy" href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="noopener">Find on Steam ↗</a>
+      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
     </span>
   </div>
 </aside>

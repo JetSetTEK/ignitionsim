@@ -142,7 +142,7 @@ Here's the twist that makes marine sim different from every other bay: its most 
     <span class="gp-price">Free / open source</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a class="gp-buy" href="https://www.bridgecommand.co.uk/" target="_blank" rel="noopener">Get Bridge Command ↗</a>
+      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
     </span>
   </div>
 </aside>
@@ -158,7 +158,7 @@ The solderless workhorse for the axes is the **Leo Bodnar BU0836X** — eight an
     <span class="gp-price">~$77</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>
@@ -174,7 +174,7 @@ For the switch side of a bridge console — nav lights, horn, autopilot, anchor,
     <span class="gp-price">~$53</span>
     <span class="gp-actions">
       <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a class="gp-buy" href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="noopener">Buy at Leo Bodnar ↗</a>
+      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
     </span>
   </div>
 </aside>

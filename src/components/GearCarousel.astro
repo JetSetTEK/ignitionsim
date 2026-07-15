@@ -6,10 +6,16 @@
 interface Item { href: string; image?: string; brand: string; model: string; price?: number; priceNote?: string; type?: string; buyUrl?: string; tag?: string; whoFor?: string; summary?: string; }
 interface Props { items: Item[]; id?: string; }
 import verifiedImages from '../data/verified-product-images.json';
+import { canonicalAmazonProductUrl } from '../lib/amazon';
 const { items, id = 'gearrail' } = Astro.props;
 const fmt = (n?: number) => (typeof n === 'number' ? '$' + n.toLocaleString('en-US') : '');
 const verified = new Set(verifiedImages as string[]);
-const visibleItems = items.filter((p) => Boolean(p.image && verified.has(p.image)));
+const visibleItems = items
+  .filter((p) => Boolean(p.image && verified.has(p.image)))
+  .map((p) => ({
+    ...p,
+    amazonUrl: canonicalAmazonProductUrl({ affiliateUrl: p.buyUrl }),
+  }));
 ---
 <div class="grail" id={id}>
   <div class="grail-track">
@@ -26,7 +32,7 @@ const visibleItems = items.filter((p) => Boolean(p.image && verified.has(p.image
           {(p.whoFor || p.summary) && <p class="grail-note">{p.whoFor || p.summary}</p>}
           <div class="grail-actions">
             <a class="grail-review" href={p.href}>Inspect</a>
-            {p.buyUrl && <a class="grail-buy" href={p.buyUrl} target="_blank" rel="sponsored nofollow noopener" data-event="gearrail_amazon">Amazon ↗</a>}
+            {p.amazonUrl && <a class="grail-buy" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="gearrail_amazon">Amazon</a>}
           </div>
         </div>
       </div>

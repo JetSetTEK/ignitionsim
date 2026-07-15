@@ -142,7 +142,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Launch monitor</p>
       <h3>Garmin Approach R50</h3>
       <p>A premium all-in-one monitor to research if you want screen-forward convenience. Confirm GSPro workflow before buying.</p>
-      <a data-buy-link="true" href="https://www.garmin.com/en-US/p/736810/" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.garmin.com/en-US/p/736810/" rel="nofollow noopener" target="_blank">Read official specifications</a>
     </div>
   </article>
   <article class="gear-pick">
@@ -160,7 +160,7 @@ Nina's rule: if a product requires a forum thread to explain the connection path
       <p class="eyebrow">Projector</p>
       <h3>BenQ AK700ST</h3>
       <p>Short-throw golf projection is room geometry, not decoration. Verify throw and mount position.</p>
-      <a data-buy-link="true" href="https://www.benq.com/en-us/projector/golf/ak700st/spec.html" rel="nofollow sponsored noopener" target="_blank">Open product page</a>
+      <a href="https://www.benq.com/en-us/projector/golf/ak700st/spec.html" rel="nofollow noopener" target="_blank">Check room-fit specifications</a>
     </div>
   </article>
 </div>
