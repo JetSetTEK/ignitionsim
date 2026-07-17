@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+    <title id="title">The four-part creator trust filter</title>
+    <desc id="desc">Influence is not evidence. Use this before a beautiful rig tour turns into a four-figure impulse purchase.</desc>
+    <rect width="1200" height="900" fill="#edf4f8"/>
+    <path d="M0 0h1200v18H0z" fill="#101820"/>
+    <path d="M0 18h720v8H0z" fill="#7b2cbf"/>
+    <text x="72" y="90" fill="#7b2cbf" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="4">IGNITIONSIM FIELD SYSTEM</text>
+    <text x="72" y="154" fill="#101820" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900">The four-part creator trust filter</text>
+    <text x="72" y="205" fill="#435363" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600"><tspan x="72" dy="0">Influence is not evidence. Use this before a beautiful rig tour turns into a</tspan><tspan x="72" dy="34">four-figure impulse purchase.</tspan></text>
+
+      <g>
+        <rect x="72" y="315" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="72" y="315" width="12" height="230" rx="6" fill="#7b2cbf"/>
+        <text x="108" y="367" fill="#7b2cbf" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">DISCLOSURE</text>
+        <text x="108" y="417" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="108" dy="0">Is the product supplied, sponsored,</tspan><tspan x="108" dy="34">affiliated, borrowed, or personally</tspan><tspan x="108" dy="34">purchased? Context changes weight.</tspan></text>
+      </g>
+      <g>
+        <rect x="618" y="315" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="618" y="315" width="12" height="230" rx="6" fill="#24c7c9"/>
+        <text x="654" y="367" fill="#7b2cbf" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">MEASUREMENT</text>
+        <text x="654" y="417" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="654" dy="0">Look for dimensions, settings, latency,</tspan><tspan x="654" dy="34">force, temperature, failures, or repeatable</tspan><tspan x="654" dy="34">comparisons.</tspan></text>
+      </g>
+      <g>
+        <rect x="72" y="579" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="72" y="579" width="12" height="230" rx="6" fill="#7b2cbf"/>
+        <text x="108" y="631" fill="#7b2cbf" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">TRANSFER</text>
+        <text x="108" y="681" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="108" dy="0">Ask whether the lesson survives a different</tspan><tspan x="108" dy="34">body, room, platform, game, budget, or noise</tspan><tspan x="108" dy="34">limit.</tspan></text>
+      </g>
+      <g>
+        <rect x="618" y="579" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="618" y="579" width="12" height="230" rx="6" fill="#24c7c9"/>
+        <text x="654" y="631" fill="#7b2cbf" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">COMMUNITY</text>
+        <text x="654" y="681" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="654" dy="0">Cross-check recurring owner problems on</tspan><tspan x="654" dy="34">forums and Reddit before treating one clean</tspan><tspan x="654" dy="34">sample as universal.</tspan></text>
+      </g>
+    <text x="72" y="854" fill="#435363" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">WATCH SEVERAL CREATORS · VERIFY EXACT MODELS · BUY FOR YOUR ROOM</text>
+  </svg>

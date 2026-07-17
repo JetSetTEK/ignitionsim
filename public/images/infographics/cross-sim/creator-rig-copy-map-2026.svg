@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+    <title id="title">Copy the system, not the shopping cart</title>
+    <desc id="desc">The four pieces of a creator rig that transfer to an ordinary room better than its most expensive component.</desc>
+    <rect width="1200" height="900" fill="#edf4f8"/>
+    <path d="M0 0h1200v18H0z" fill="#101820"/>
+    <path d="M0 18h720v8H0z" fill="#ff5e1a"/>
+    <text x="72" y="90" fill="#ff5e1a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="4">IGNITIONSIM FIELD SYSTEM</text>
+    <text x="72" y="154" fill="#101820" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900">Copy the system, not the shopping cart</text>
+    <text x="72" y="205" fill="#435363" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600"><tspan x="72" dy="0">The four pieces of a creator rig that transfer to an ordinary room better</tspan><tspan x="72" dy="34">than its most expensive component.</tspan></text>
+
+      <g>
+        <rect x="72" y="315" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="72" y="315" width="12" height="230" rx="6" fill="#ff5e1a"/>
+        <text x="108" y="367" fill="#ff5e1a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">LOAD PATH</text>
+        <text x="108" y="417" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="108" dy="0">Follow force from hands and feet through</tspan><tspan x="108" dy="34">mounts, frame, seat, and floor. Flex</tspan><tspan x="108" dy="34">anywhere changes the control.</tspan></text>
+      </g>
+      <g>
+        <rect x="618" y="315" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="618" y="315" width="12" height="230" rx="6" fill="#24c7c9"/>
+        <text x="654" y="367" fill="#ff5e1a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">SIGHT LINE</text>
+        <text x="654" y="417" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="654" dy="0">Copy eye height, display distance, field of</tspan><tspan x="654" dy="34">view, and head movement before copying</tspan><tspan x="654" dy="34">screen count or size.</tspan></text>
+      </g>
+      <g>
+        <rect x="72" y="579" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="72" y="579" width="12" height="230" rx="6" fill="#ff5e1a"/>
+        <text x="108" y="631" fill="#ff5e1a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">SERVICE PATH</text>
+        <text x="108" y="681" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="108" dy="0">Power, USB, cooling, labels, backups, and</tspan><tspan x="108" dy="34">access decide whether the rig survives its</tspan><tspan x="108" dy="34">next update.</tspan></text>
+      </g>
+      <g>
+        <rect x="618" y="579" width="510" height="230" rx="14" fill="#ffffff" stroke="#101820" stroke-width="3"/>
+        <rect x="618" y="579" width="12" height="230" rx="6" fill="#24c7c9"/>
+        <text x="654" y="631" fill="#ff5e1a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" letter-spacing="3">ROOM FIT</text>
+        <text x="654" y="681" fill="#273746" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="650"><tspan x="654" dy="0">Noise, swing clearance, chair travel,</tspan><tspan x="654" dy="34">ventilation, and family traffic are part of</tspan><tspan x="654" dy="34">the simulator.</tspan></text>
+      </g>
+    <text x="72" y="854" fill="#435363" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">FIT FIRST · SIGNAL SECOND · HARDWARE THIRD</text>
+  </svg>

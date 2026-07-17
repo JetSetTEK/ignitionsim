@@ -1,24 +1,24 @@
 {
   "summary": {
-    "generated": "2026-07-17T12:52:31.904Z",
+    "generated": "2026-07-17T20:22:48.612Z",
     "totals": {
-      "all": 122,
-      "certified": 90
+      "all": 123,
+      "certified": 91
     },
     "certified": {
-      "averageScore": 70.3,
-      "averageWords": 2315.4,
+      "averageScore": 70.5,
+      "averageWords": 2324.4,
       "averageSourceUrls": 10.5,
-      "averageUniqueImages": 8.5,
+      "averageUniqueImages": 8.6,
       "averageHumanUseImages": 1.3,
-      "averageCuratorScenes": 0.8,
+      "averageCuratorScenes": 0.9,
       "averageDiagrams": 1.6,
       "gradeCounts": {
         "D": 49,
         "C": 19,
         "B": 2,
         "A": 2,
-        "A+": 18
+        "A+": 19
       },
       "revenueATriage": [
         "golf/home-golf-simulator-build-sheet-2026",
@@ -4372,6 +4372,40 @@
         "four distinct curator actions",
         "clumped marketplace image grid"
       ]
+    },
+    {
+      "id": "racing/top-simulator-creators-rigs-2026",
+      "title": "Top 10 Simulator Creators and Their Rigs in 2026: What Is Actually Worth Copying?",
+      "bay": "racing",
+      "author": "Mac Donovan",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 92,
+      "grade": "A+",
+      "words": 3131,
+      "sourceUrls": 13,
+      "imagePlacements": 18,
+      "uniqueImages": 13,
+      "imageUniqueness": 0.72,
+      "productImages": 6,
+      "humanUseImages": 1,
+      "curatorScenes": 10,
+      "diagrams": 5,
+      "amazonLinks": 6,
+      "directAmazonLinks": 6,
+      "dimensions": {
+        "decisionDepth": 15,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 7.2,
+        "productProof": 10,
+        "humanUseProof": 5,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": []
     },
     {
       "id": "flight/tca-sky-yoke-vs-honeycomb-alpha-xpc-vs-velocityone-vs-moza-ay210-2026",

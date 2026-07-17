@@ -88,6 +88,19 @@
   "curatorActions": {
     "duke-alvarez": [
       {
+        "image": "/images/curator-scenes/influencer-rigs-2026/duke-rig-flex-audit.webp",
+        "alt": "AI editorial scene of Duke Alvarez measuring flex under real brake load on an aluminum-profile racing cockpit",
+        "task": "Testing the creator rig under real brake load",
+        "guideId": "racing/top-simulator-creators-rigs-2026",
+        "quote": "Measure the rig while a person is using it. Empty-frame stiffness is brochure theater.",
+        "note": "Duke follows the load path from hands and feet through every mount before he approves another high-torque component.",
+        "steps": [
+          "Load the brake and wheel while a second person watches each joint.",
+          "Mark the first moving interface instead of blaming the most expensive component.",
+          "Fix the structure before adding torque, pedal force, or motion."
+        ]
+      },
+      {
         "image": "/images/curator-scenes/duke-wheelbase-rigidity-dial-test-v2.webp",
         "alt": "AI editorial scene of Duke Alvarez measuring flex on an aluminum-profile racing cockpit",
         "task": "Measuring cockpit flex before approving more torque"
@@ -141,6 +154,19 @@
     ],
     "nina-brooks": [
       {
+        "image": "/images/curator-scenes/influencer-rigs-2026/nina-room-geometry-audit.webp",
+        "alt": "AI editorial scene of Nina Brooks measuring projector throw swing clearance and launch monitor placement around a moving golfer",
+        "task": "Measuring the creator room around the moving golfer",
+        "guideId": "racing/top-simulator-creators-rigs-2026",
+        "quote": "The room is an active component. Give the body, ball, light, and worst miss somewhere safe to go.",
+        "note": "Nina translates beautiful golf-room tours into the clearances, shadows, sensor depth, and protection a real owner must solve.",
+        "steps": [
+          "Measure the full swing with the intended golfer in motion.",
+          "Map the projector beam, sensor window, ball flight, and miss zones together.",
+          "Choose the launch monitor only after the room passes."
+        ]
+      },
+      {
         "image": "/images/curator-scenes/nina-golf-bay-commissioning-laser-v2.webp",
         "alt": "AI editorial scene of Nina Brooks laser-measuring a bright home golf simulator bay",
         "task": "Measuring the room before the shopping cart gets a vote"
@@ -152,6 +178,19 @@
       }
     ],
     "val-chen": [
+      {
+        "image": "/images/curator-scenes/influencer-rigs-2026/val-hosas-usb-recovery.webp",
+        "alt": "AI editorial scene of Val Chen flying a dual-stick space simulator while restoring labeled USB devices and a binding profile",
+        "task": "Making the creator cockpit recoverable after patch night",
+        "guideId": "racing/top-simulator-creators-rigs-2026",
+        "quote": "A control map you cannot restore is a temporary art installation.",
+        "note": "Val studies the layer that polished HOSAS tours hide: device order, profile backups, labeled USB paths, and the minimum bindings needed to land.",
+        "steps": [
+          "Label left and right devices at both ends of the cable.",
+          "Save bindings with the game version and device order.",
+          "Restore flight, landing, safety, and one career loop before cosmetics."
+        ]
+      },
       {
         "image": "/images/curator-scenes/val-msfs-usb-hub-floor-triage.webp",
         "alt": "AI editorial scene of Val Chen tracing powered USB connections beneath a flight simulator cockpit",
@@ -165,6 +204,19 @@
     ],
     "mac-donovan": [
       {
+        "image": "/images/curator-scenes/influencer-rigs-2026/mac-creator-studio-power-audit.webp",
+        "alt": "AI editorial scene of Mac Donovan auditing power USB cooling and service access beside a complete creator rig",
+        "task": "Auditing the unglamorous side of a creator studio",
+        "guideId": "racing/top-simulator-creators-rigs-2026",
+        "quote": "Write down the boring version number while the rig works. Future you is already tired.",
+        "note": "Mac treats power, USB, heat, access, and documentation as parts of the simulator rather than cleanup after the interesting work.",
+        "steps": [
+          "Map power draw, USB topology, and airflow before adding another device.",
+          "Photograph known-good wiring and record firmware versions.",
+          "Leave access for the repair that will happen after the launch video."
+        ]
+      },
+      {
         "image": "/images/curator-scenes/mac-diy-button-board-test.webp",
         "alt": "AI editorial scene of Mac Donovan testing a DIY simulator button board on an electronics bench",
         "task": "Probing the home-built controller before it reaches a rig"
@@ -176,6 +228,19 @@
       }
     ],
     "gus-calder": [
+      {
+        "image": "/images/curator-scenes/influencer-rigs-2026/gus-bridge-service-panel.webp",
+        "alt": "AI editorial scene of Gus Calder opening a marine bridge simulator service panel while checking a labeled wiring diagram",
+        "task": "Applying full-cockpit restoration lessons to the bridge",
+        "guideId": "racing/top-simulator-creators-rigs-2026",
+        "quote": "Leave room for the hands that will fix it after the launch video is over.",
+        "note": "Gus sees the same truth in a restored 747 and a home ship bridge: role-based controls are only useful when the service path remains open.",
+        "steps": [
+          "Group controls by operator role and real maneuver sequence.",
+          "Document every interface between old hardware and current software.",
+          "Keep panels removable without dismantling the whole station."
+        ]
+      },
       {
         "image": "/images/curator-scenes/gus-bridge-command-wiring-calibration.webp",
         "alt": "AI editorial scene of Gus Calder calibrating a DIY twin-throttle marine simulator bridge",

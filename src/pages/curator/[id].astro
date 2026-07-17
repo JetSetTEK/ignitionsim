@@ -17,12 +17,17 @@ export function getStaticPaths() {
 const { id } = Astro.params;
 const person = (getCrewBySlug(id || '') || allCrew[0]) as any;
 const first = String(person.name).split(' ')[0];
+const actionScenes = ((editorialSurfaces as any).curatorActions?.[crewSlug(person)] || []) as any[];
+const contributedGuideIds = new Set(actionScenes.map((scene) => scene.guideId).filter(Boolean));
 const articles = await getCollection('articles', ({ data }) => isCertifiedArticle(data));
 const ownedArticles = sortByEditorialStrength(articles.filter((entry) => {
+  if (contributedGuideIds.has(entry.id)) return true;
   const curator = getCrewForBay(entry.data.bay);
   if (crewSlug(curator) === crewSlug(person)) return true;
   return crewSlug(person) === 'mac-donovan' && ['diy', 'gear-explainer'].includes(entry.data.type);
-}).filter((entry) => clearsDiscoveryGate(entry.id))).slice(0, 6);
+}).filter((entry) => clearsDiscoveryGate(entry.id)))
+  .sort((a, b) => Number(contributedGuideIds.has(b.id)) - Number(contributedGuideIds.has(a.id)))
+  .slice(0, 6);
 const primaryBay = person.name === 'Nina Brooks' ? 'golf'
   : person.name === 'Gus Calder' ? 'marine'
   : person.name === 'Val Chen' ? 'space'
@@ -33,7 +38,6 @@ const crest = `/images/crew/crest-${crewSlug(person)}.svg`;
 const takes = (person.signatureTakes || []) as { q: string; a: string }[];
 const hills = (person.hillsToDieOn || []) as string[];
 const expertise = (person.expertise || []) as string[];
-const actionScenes = ((editorialSurfaces as any).curatorActions?.[crewSlug(person)] || []) as any[];
 const conversation = (conversations as any)[crewSlug(person)] || {};
 
 const schema: Record<string, any>[] = [

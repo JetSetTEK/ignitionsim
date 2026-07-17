@@ -1,6 +1,7 @@
 {
   "notes": "Highest-ROI surfaces for the $10k/month build. Certified articles only. Update this before publishing a flagship guide.",
   "cornerstoneArticleIds": [
+    "racing/top-simulator-creators-rigs-2026",
     "golf/gspro-review-2026",
     "flight/microsoft-flight-simulator-2024-review-2026",
     "space/star-citizen-review-2026",
@@ -29,6 +30,7 @@
     "flight/msfs-home-cockpit-buyer-map-2026"
   ],
   "streamLeadArticleIds": [
+    "racing/top-simulator-creators-rigs-2026",
     "golf/gspro-review-2026",
     "flight/microsoft-flight-simulator-2024-review-2026",
     "space/star-citizen-review-2026",
@@ -77,6 +79,7 @@
       "home-golf-simulator-under-10000-2026"
     ],
     "racing": [
+      "top-simulator-creators-rigs-2026",
       "evercade-physical-cartridge-sim-room-2026",
       "simucube-activepedal-pro-vs-moza-mbooster-2026",
       "flagship-direct-drive-wheelbase-buyer-map-2026",

@@ -1,14 +1,14 @@
 # IgnitionSim World-Class Quality Scoreboard
 
-Generated: 2026-07-17T12:52:31.904Z
+Generated: 2026-07-17T20:22:48.612Z
 
-- Certified articles: 90
-- Certified average: 70.3/100
-- Average editorial words: 2315.4
+- Certified articles: 91
+- Certified average: 70.5/100
+- Average editorial words: 2324.4
 - Average source URLs: 10.5
-- Average unique images: 8.5
+- Average unique images: 8.6
 - Average real-use/install images: 1.3
-- Average curator-action scenes: 0.8
+- Average curator-action scenes: 0.9
 - Average practical diagrams: 1.6
 
 ## Revenue-Weighted Rescue Queue

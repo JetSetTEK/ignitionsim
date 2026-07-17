@@ -6,6 +6,7 @@ import bays from '../data/bays.json';
 import signals from '../data/research-signals.json';
 import crew from '../data/crew.json';
 import editorialSurfaces from '../data/editorial-surfaces.json';
+import growthPriorities from '../data/growth-priorities.json';
 import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../lib/content';
 import { getArticleCardArt } from '../lib/articleArt';
 import { crewSlug } from '../lib/crew';
@@ -30,7 +31,18 @@ const takeDiverse = (items: any[], limit: number, used = new Set<string>()) => {
   return picked;
 };
 
-const editorialLeaders = sortByEditorialStrength(all.filter((entry) => clearsHomepageGate(entry.id)));
+const cornerstoneOrder = new Map(
+  (growthPriorities.cornerstoneArticleIds as string[]).map((articleId, index) => [articleId, index]),
+);
+const editorialLeaders = sortByEditorialStrength(all.filter((entry) => clearsHomepageGate(entry.id)))
+  .sort((a, b) => {
+    const aPriority = cornerstoneOrder.get(a.id);
+    const bPriority = cornerstoneOrder.get(b.id);
+    if (aPriority !== undefined || bPriority !== undefined) {
+      return (aPriority ?? Number.MAX_SAFE_INTEGER) - (bPriority ?? Number.MAX_SAFE_INTEGER);
+    }
+    return 0;
+  });
 // Keep the authority lead score-driven, then let the Stream preview surface the
 // newest qualifying work while it is still timely.
 const discoveryPool = all.filter((entry) => clearsDiscoveryGate(entry.id));
@@ -342,9 +354,11 @@ const schema = [{
   .investigation-band { padding:76px 0 86px; background:#edf4f8; }
   .investigation-grid { display:grid; grid-template-columns:1.15fr .85fr; gap:20px; }
   .investigation-card { display:grid; grid-template-rows:auto 1fr; overflow:hidden; color:#101820; border:2px solid rgba(16,24,32,.16); background:#fff; box-shadow:0 10px 0 rgba(16,24,32,.1); }
-  .investigation-card.lead { grid-row:span 2; }
+  .investigation-card.lead { grid-column:1 / -1; grid-template-columns:minmax(0,1.15fr) minmax(340px,.85fr); grid-template-rows:1fr; min-height:460px; background:linear-gradient(90deg,#101820 0 57.3%,#fff 57.3%); }
   .investigation-card:not(.lead) { grid-template-columns:42% 1fr; grid-template-rows:1fr; min-height:330px; }
   .investigation-image { position:relative; aspect-ratio:16/9; overflow:hidden; background:#101820; }
+  .investigation-card.lead .investigation-image { align-self:center; aspect-ratio:16/9; min-height:0; }
+  .investigation-card.lead .investigation-image img { object-fit:contain; }
   .investigation-card:not(.lead) .investigation-image { aspect-ratio:auto; }
   .investigation-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s ease; }
   .investigation-card:hover .investigation-image img { transform:scale(1.03); }
@@ -410,7 +424,8 @@ const schema = [{
     .weekend-brief img { height:100%; aspect-ratio:auto; }
     .world-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
     .investigation-grid { grid-template-columns:1fr; }
-    .investigation-card.lead { grid-row:auto; }
+    .investigation-card.lead { grid-column:auto; grid-template-columns:1fr; grid-template-rows:minmax(300px,48vw) auto; min-height:0; background:#fff; }
+    .investigation-card.lead .investigation-image { min-height:0; }
     .desire-grid { grid-template-columns:1fr 1fr; }
     .desire-card.wide { grid-column:span 2; }
   }
