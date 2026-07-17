@@ -1,0 +1,170 @@
+---
+import site from '../data/site.json';
+import { canonicalAmazonProductUrl } from '../lib/amazon';
+import { displayProductImage } from '../lib/productMedia';
+
+interface Props {
+  products: any[];
+}
+
+const { products = [] } = Astro.props;
+const amazonTag = (site as any).affiliate?.amazonTag || 'ignitionsim-20';
+const items = products
+  .map((product) => ({
+    ...product,
+    amazonUrl: canonicalAmazonProductUrl(product, amazonTag),
+    image: displayProductImage(product),
+  }))
+  .filter((product) => product.amazonUrl && product.image)
+  .slice(0, 6);
+---
+{items.length > 0 && (
+  <section class="article-amazon-bench" data-amazon-bench>
+    <div class="amazon-bench-head">
+      <div>
+        <span class="lbl lbl-accent">Exact-model buying bench</span>
+        <h2>Buy the hardware discussed in this guide</h2>
+      </div>
+      <p>Every button opens the exact product detail page on Amazon, with our affiliate tag. No search pages and no substitute models.</p>
+    </div>
+    <div class="amazon-bench-grid">
+      {items.map((product) => (
+        <article class="amazon-bench-card">
+          <a class="amazon-product-image" href={product.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={product.id}>
+            <img src={product.image} alt={`${product.brand} ${product.model}`} loading="lazy" decoding="async" />
+          </a>
+          <div class="amazon-product-copy">
+            <span>{product.brand}</span>
+            <h3>{product.model}</h3>
+            {product.cons?.[0] && <p><b>Know first:</b> {product.cons[0]}</p>}
+            <a class="amazon-product-buy" href={product.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={product.id}>
+              View exact product on Amazon
+            </a>
+          </div>
+        </article>
+      ))}
+    </div>
+    <p class="amazon-bench-note">As an Amazon Associate, IgnitionSim earns from qualifying purchases. Prices and availability can change.</p>
+  </section>
+)}
+
+<style>
+  .article-amazon-bench {
+    max-width: 1120px;
+    margin: 36px auto;
+    padding: 24px;
+    border: 2px solid color-mix(in srgb, var(--accent) 34%, #101820);
+    border-radius: 20px;
+    background:
+      linear-gradient(135deg, color-mix(in srgb, var(--accent) 10%, #fff), #fff 52%),
+      #fff;
+    box-shadow: 0 10px 0 rgba(16,24,32,.09), 0 28px 60px rgba(16,24,32,.1);
+  }
+  .amazon-bench-head {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(260px, .8fr);
+    gap: 22px;
+    align-items: end;
+    margin-bottom: 18px;
+  }
+  .amazon-bench-head h2 {
+    margin: 6px 0 0;
+    max-width: 760px;
+    font-size: clamp(1.45rem, 3vw, 2.25rem);
+    letter-spacing: 0;
+  }
+  .amazon-bench-head > p {
+    color: #475569;
+    line-height: 1.55;
+    font-size: .9rem;
+  }
+  .amazon-bench-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .amazon-bench-card {
+    display: grid;
+    grid-template-columns: minmax(150px, .78fr) minmax(0, 1.22fr);
+    min-height: 210px;
+    overflow: hidden;
+    border: 1px solid rgba(16,24,32,.15);
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 8px 22px rgba(16,24,32,.08);
+  }
+  .amazon-product-image {
+    display: grid;
+    place-items: center;
+    min-width: 0;
+    padding: 16px;
+    background: #f7f9fb;
+    border-right: 1px solid rgba(16,24,32,.1);
+  }
+  .amazon-product-image img {
+    display: block;
+    width: 100%;
+    height: 170px;
+    object-fit: contain;
+  }
+  .amazon-product-copy {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 0;
+    padding: 18px;
+  }
+  .amazon-product-copy > span {
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-size: .58rem;
+    font-weight: 900;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+  }
+  .amazon-product-copy h3 {
+    margin: 5px 0 8px;
+    font-size: 1.05rem;
+    line-height: 1.18;
+    letter-spacing: 0;
+  }
+  .amazon-product-copy p {
+    margin: 0 0 14px;
+    color: #475569;
+    font-size: .78rem;
+    line-height: 1.48;
+  }
+  .amazon-product-buy {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 42px;
+    margin-top: auto;
+    padding: 10px 14px;
+    border: 2px solid #101820;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #101820;
+    font-family: var(--font-mono);
+    font-size: .62rem;
+    font-weight: 900;
+    letter-spacing: .06em;
+    line-height: 1.25;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-shadow: 0 4px 0 #101820;
+  }
+  .amazon-product-buy:hover { transform: translateY(-1px); box-shadow: 0 5px 0 #101820; }
+  .amazon-bench-note { margin: 16px 0 0; color: #64748b; font-size: .72rem; line-height: 1.45; }
+  @media (max-width: 820px) {
+    .amazon-bench-head,
+    .amazon-bench-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 520px) {
+    .article-amazon-bench { padding: 16px; border-radius: 14px; }
+    .amazon-bench-card { grid-template-columns: 1fr; }
+    .amazon-product-image { border-right: 0; border-bottom: 1px solid rgba(16,24,32,.1); }
+    .amazon-product-image img { height: 190px; }
+  }
+</style>

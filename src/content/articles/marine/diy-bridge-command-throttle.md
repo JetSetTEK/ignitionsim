@@ -65,7 +65,7 @@ The whole build runs roughly **$30–$60** in parts. Prices on the board and pot
 
 The **BU0836** is the heart of it. It's a small board that presents your potentiometers to the PC as analog axes on a standard USB game controller — 8 analog inputs at 12-bit resolution, no firmware, no coding. You wire a pot, Windows sees an axis. That's the whole magic, and it's why the BU0836 is the documented choice over a code-it-yourself board.
 
-The classic guide names the **BU0836A** (pin-header version, ~£33 / ~$42), which you solder your pots and switches to. I don't have a verified photo of that exact board, so it's a link rather than a picture here — check current pricing and buy direct from [Leo Bodnar](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204) (US makers can also source it through Ricmotech), or verify marketplace availability for the Leo Bodnar BU0836A.
+The classic guide names the **BU0836A** (pin-header version, ~£33 / ~$42), which you solder your pots and switches to. I don't have a verified photo or exact Amazon listing for that board, so it stays editorial text with no purchase CTA. Leo Bodnar's technical documentation remains in the research receipts.
 
 If you'd rather not touch a soldering iron at all, the **BU0836X** below is the same Leo Bodnar interface with solderless push-in terminals — press the tab, push the wire in, done. It's the friendlier version of the identical recipe (same 8 axes, same 12-bit resolution, 32 buttons), and it's the one board in this build I can show you a verified photo of. It costs more (~£59.99 / ~$77) for the convenience.
 
@@ -156,8 +156,7 @@ Be honest with yourself about the ceiling. This is a hobbyist DIY rig, not a [pr
 
 This is the build I point people to when they ask what's *genuinely* native to marine sim. For roughly **$30–$60** — a **BU0836** board, **three 10k linear pots**, an enclosure, and a length of string — you get a working ship's helm and twin throttles feeding the free, open-source sim that documented the build in the first place. Solder-averse? Spend the extra on the BU0836X. Want custom logic? Drop to an Arduino. Whichever board you pick, don't skip the string-friction step: it's the cheap, five-minute detail that turns three flopping potentiometers into engine controls that hold their setting like the real thing. Prices drift, so check current on the board and pots before you order — but the recipe itself hasn't changed, and it's still the best value in the entire bay.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. This build is verified against the official Bridge Command DIY documentation and each board against its manufacturer's current product page — rather than repeating third-hand parts lists.
 
 Build guide + free sim: [Bridge Command — Make your own throttles and wheel](https://www.bridgecommand.co.uk/Doc/makethrottle.php) (the source for the three-10k-linear-pot recipe, the horn-button wiring, and the string-friction trick), [Bridge Command — Using external controls](https://www.bridgecommand.co.uk/Doc/joystick.php), and the [Bridge Command home page](https://www.bridgecommand.co.uk/) (free, open source).

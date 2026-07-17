@@ -192,8 +192,7 @@ If you only sail — eSail, Sailaway III, MarineVerse — a button box is overki
 
 A marine button box is the most satisfying DIY in the bay because it's the least uncertain — the sim-racing world already solved every hard part, and you're just relabeling the switches for the bridge. Build it on a **$4–$8 Arduino Pro Micro** if you want maximum value and don't mind a sketch, or on a **Leo Bodnar board** (£33 BU0836A soldered, or the ~$77 BU0836X / ~$53 BBI-32 solderless) if you want zero code. Sixteen buttons, six toggles, two encoders, two evenings, under $50 — and your rig stops being a desk with a wheel on it and starts being a bridge. The only thing that changes your parts list is the latching-switch decision, so make that call first.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Prices and specs verified against manufacturer pages and the open-source projects these builds are designed around; where a figure moves with sales or a store listing, it's flagged *check current* in the text rather than quoted as fixed.
 
 Board + library references: [Leo Bodnar BU0836A joystick interface](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204) (£33.00, 8 axes / 32 button / 16 encoder inputs, no drivers), [Leo Bodnar BU0836X (solderless)](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180) (£59.99), [Leo Bodnar BBI-32 button box interface](https://www.leobodnar.com/shop/index.php?main_page=index&cPath=94), [ArduinoJoystickLibrary (MHeironimus, LGPL-3.0)](https://github.com/MHeironimus/ArduinoJoystickLibrary), [ArduinoJoystickFirmware for Pro Micro (BrunoBBS)](https://github.com/BrunoBBS/ArduinoJoystickFirmware).

@@ -177,8 +177,7 @@ Tactile feedback is the most under-bought, high-return upgrade in sim racing. Fo
 
 ![Which SimHub effects to turn on first](/images/infographics/racing/bass-shakers-tactile-feedback-simhub-2026-simhub-effect-order.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Every figure here is a documented spec or a widely-repeated community range, attributed below — tactile feel is per-rig, per-mount and per-driver, so treat power and price numbers as starting points, not absolutes.
 
 Manufacturer + product specs: [ButtKicker Gamer PRO (official)](https://thebuttkicker.com/products/buttkicker-gamer-pro), [ButtKicker Haptics (models overview)](https://thebuttkicker.com/), [Dayton Audio SAB-1060 / ShakeIt Bass Shaker SimHub guide (PDF)](https://www.daytonaudio.com/images/resources/325-510--SAB-1060-SimHub-ShakeIt-Bass-Shaker-Guide.pdf), [Dayton Audio at SIMLINE](https://simline.eu/en/brand/dayton-audio).

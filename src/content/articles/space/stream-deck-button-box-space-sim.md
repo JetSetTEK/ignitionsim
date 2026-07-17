@@ -149,7 +149,7 @@ A Stream Deck's keys are flat LCDs — no toggle switches, no covered missile-gu
   </div>
 </aside>
 
-The **Leo Bodnar BBI-32** interface board is the standard heart of a wired box — credit-card-sized, solderless push-in terminals, 32 buttons and 16 encoders, recognized instantly as a USB controller. We don't have a verified in-house product photo of it, so it's text-only here; buy it direct from Leo Bodnar Electronics rather than a marketplace, and confirm you're getting the connector version (Model 1) unless you plan to solder. Check the official [Leo Bodnar BBI-32 page](https://www.leobodnar.com/products/BBI-32/) for current price and stock, or verify marketplace availability — availability varies.
+The **Leo Bodnar BBI-32** interface board is the standard heart of a wired box — credit-card-sized, solderless push-in terminals, 32 buttons and 16 encoders, recognized instantly as a USB controller. We don't have a verified in-house product photo or an exact Amazon listing for it, so it stays text-only with no purchase CTA. Confirm that you need the connector version (Model 1) unless you plan to solder; the official technical page is retained in the research receipts.
 
 For a **full DIY build**, the parts are cheap and the software is free: an Arduino Pro Micro or Leonardo board, arcade buttons and toggles, and open Arduino joystick firmware. The [Arduino forum](https://forum.arduino.cc/) and Star Citizen community hub have step-by-step button-box guides. It's the most work and the most personal — and the only route that gets you exactly the switches, guards, and rotaries you want.
 
@@ -199,7 +199,7 @@ Buying the box is the easy part. Two things trip up new button-box pilots more t
   </div>
 </aside>
 
-For the switch-and-rotary crowd, the **Leo Bodnar BBI-32** wired interface (buy direct from [Leo Bodnar Electronics](https://www.leobodnar.com/products/BBI-32/)) or a **DIY Arduino build** are the physical routes — both text-only here until we have verified in-house photos, both linked above.
+For the switch-and-rotary crowd, the **Leo Bodnar BBI-32** wired interface or a **DIY Arduino build** are the physical routes. The BBI-32 has no exact verified Amazon listing, so it receives no purchase CTA; its official technical page remains in the research receipts.
 
 ## Verdict
 
@@ -207,8 +207,7 @@ For the vast majority of Star Citizen and Elite Dangerous pilots, the button box
 
 If your immersion depends on the *feel* of real switches, add a physical box — a cheap Thrustmaster MFD Cougar for tactile buttons, or a Leo Bodnar wired box or Arduino DIY build for toggles, guards, and rotaries. But start with the Stream Deck: it solves the binding problem that defeats every flight stick on the market, and it does it labeled, reactive, and reconfigurable in seconds.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community tooling rather than repeating box specs, and we quote street prices as approximate because retail pricing swings week to week.
 
 Official pages: [Elgato Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl) (list $249.99, 32 keys), [Elgato Stream Deck + XL](https://www.elgato.com/us/en/p/stream-deck-plus-xl) (new 2026, 36 keys / 6 dials, $350), [Elgato Stream Deck +](https://www.elgato.com/us/en/p/stream-deck-plus) ($179.99, 8 keys / 4 dials), [Elgato Stream Deck MK.2](https://www.elgato.com/us/en/p/stream-deck-mk2-black) ($149.99, 15 keys), [Thrustmaster MFD Cougar Pack](https://www.thrustmaster.com/products/mfd-cougar-pack/), [Leo Bodnar BBI-32 interface](https://www.leobodnar.com/products/BBI-32/).

@@ -34,7 +34,7 @@ related:
   - "force-feedback-yoke-worth-it"
 ---
 
-Verdict first: **for a civil MSFS 2024 simmer who wants a stick, buy a [VKB Gladiator NXT EVO](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks) (around $109-149) and add a separate throttle quadrant.** Contactless sensors, real build quality, and clean binding once you map it by hand — it does everything a yoke does poorly, for less than a yoke costs. If DCS is in your future, the [Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog) is the metal benchmark. If you're on Xbox, the [Turtle Beach VelocityOne Flight Stick](/flight/gear/turtle-beach-velocityone-flight-stick) (~$110) flies solo. Everything else on this page is a matter of matching the tool to the mission.
+Verdict first: **for a civil MSFS 2024 simmer who wants a stick, buy a VKB Gladiator NXT EVO (around $109-149) and add a separate throttle quadrant.** Contactless sensors, real build quality, and clean binding once you map it by hand — it does everything a yoke does poorly, for less than a yoke costs. If DCS is in your future, the [Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog) is the metal benchmark. If you're on Xbox, the [Turtle Beach VelocityOne Flight Stick](/flight/gear/turtle-beach-velocityone-flight-stick) (~$110) flies solo. Everything else on this page is a matter of matching the tool to the mission.
 
 The yoke crowd will tell you a HOTAS is for space games. They're half right. If you fly nothing but a 172 and a 737, a yoke is the better tool. But MSFS 2024 shipped with a deeper roster of fighters, warbirds and aerobatic aircraft than 2020 ever had — and the moment you point a Spitfire at the deck, a yoke feels like steering a bus through a chicane. A stick-and-throttle is the right answer there, and it's usually the cheaper way into the sim at all. Here's the honest 2026 ladder: what each tier buys you, which units bind cleanly, and where the money stops being worth it.
 
@@ -75,15 +75,15 @@ The **Thrustmaster T.Flight HOTAS One** is the floor. It's plastic, the throttle
 
 This tier has no verified studio photo on file, so it's text-and-link only here:
 
-- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110. No exact Amazon listing has passed our model check yet, so we show no purchase CTA.
 
 ### Budget precision — the smart-money pick
 
-The **[VKB Gladiator NXT EVO](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks)** (around $109-149 depending on grip edition) is where I send most people who fly civil. It uses VKB's contactless sensors, so it holds its center far longer than any pot-based stick, and the build quality embarrasses sticks twice the price. It doesn't include a throttle — pair it with the **[Thrustmaster TCA Quadrant](/flight/gear/thrustmaster-tca-quadrant-airbus)** (~$100) or a Bravo you already own. Binding is clean but you map it by hand, which is the right way anyway. For the trim and curve work that follows, see [how to set up control curves](/flight/flight-sim-control-curves-calibration).
+The **VKB Gladiator NXT EVO** (around $109-149 depending on grip edition) is where I send most people who fly civil. It uses VKB's contactless sensors, so it holds its center far longer than any pot-based stick, and the build quality embarrasses sticks twice the price. It doesn't include a throttle — pair it with the **[Thrustmaster TCA Quadrant](/flight/gear/thrustmaster-tca-quadrant-airbus)** (~$100) or a Bravo you already own. Binding is clean but you map it by hand, which is the right way anyway. For the trim and curve work that follows, see [how to set up control curves](/flight/flight-sim-control-curves-calibration).
 
 VKB sells direct rather than through a verified studio photo on our side, so the Gladiator is text-and-link only:
 
-- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149, [buy direct from VKB](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149. It has no exact verified Amazon listing, so we show no purchase CTA; VKB specifications remain in the research receipts.
 
 <aside class="gearpick">
 
@@ -149,8 +149,8 @@ The **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** is
 
 The **WinWing Orion 2** is the modular answer: a Hall-effect base (joystick base from ~$390; full F-16-style HOTAS sets climb past $1,100) with swappable grips, so one base can serve a fighter today and a different airframe tomorrow, configured through WinWing's SimApp Pro. Both the Warthog and the Orion 2 are cockpit-builder territory, not first buys — and neither has a verified studio photo on file, so both are text-and-link only:
 
-- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets), [buy from WinWing/WinCTRL](https://winctrl.com/){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current). [View the exact HOTAS Warthog on Amazon](https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
+- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets). It has no exact verified Amazon listing, so we show no purchase CTA.
 
 ## What the community says
 
@@ -244,8 +244,7 @@ Skip a HOTAS entirely if you fly **only GA and airliners** — your money is bet
 
 For a civil MSFS 2024 simmer who wants a stick, the **VKB Gladiator NXT EVO** is the pick: contactless sensors, real build quality, clean binding, and roughly $120. Add a throttle quadrant and you have a HOTAS that does everything a yoke does poorly, for less than a yoke costs. Buy the **Warthog** only if DCS is in your future (and check its current street price — it's crept up), the **VelocityOne Flight Stick** if you're on Xbox, the **TCA Sidestick** if you fly the Airbus, and the **~$110 T.Flight** only as a deliberate "try before I commit." The hardware is the easy part — budget your patience for the binding menu, not the stick.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or had moved off its long-standing figure, we flagged "check current."
 
 Official pages: [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Thrustmaster T.Flight HOTAS One](https://www.thrustmaster.com/en-us/products/t-flight-hotas-one/), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-quadrant-airbus-edition/), [VKB Gladiator NXT EVO joysticks (VKB US store)](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks), [Turtle Beach VelocityOne Flight Stick](https://www.turtlebeach.com/products/velocity-one-flight-stick), [Turtle Beach VelocityOne Flightdeck](https://www.turtlebeach.com/products/velocity-one-flight-deck), [WinWing / WinCTRL store](https://winctrl.com/).

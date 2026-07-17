@@ -265,8 +265,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official pages for Garmin R50, BenQ LK936ST, Optoma GT2100HDR, Carl's Place enclosure categories, GSPro subscription references, Tom's Guide's real under-$10K build, r/Golfsimulator projector/enclosure discussions, and Golf Simulator Forum projector/enclosure setup notes.
 
 Useful source shelf: [Tom's Guide under-$10K build](https://www.tomsguide.com/wellness/fitness/i-built-the-ultimate-golf-simulator-in-my-home-for-under-usd10k-heres-the-products-i-used), [Carl's Place enclosures](https://www.carlofet.com/), [BenQ LK936ST official](https://www.benq.com/en-us/projector/golf/lk936st.html), [Optoma GT2100HDR official](https://www.optomausa.com/product/gt2100hdr), [Foresight GSPro subscription listing](https://www.foresightsports.com/products/gspro-1-year-subscription), [r/Golfsimulator projector discussion](https://www.reddit.com/r/Golfsimulator/comments/1gf3dyd/optoma_gt2100hdr_or_benq_ah700st/), [Golf Simulator Forum enclosure review](https://golfsimulatorforum.com/forum/golf-simulator-forum/golf-simulators/404686-review-carl-s-place-diy-golf-enclosure-vs-custom-pro-golf-enclosure).

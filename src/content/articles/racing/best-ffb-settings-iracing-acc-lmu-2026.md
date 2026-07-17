@@ -68,7 +68,7 @@ That's it. Everything below is the right starting numbers so step 4 takes three 
 
 ## Starting values by torque tier
 
-These are conservative starting points — the highest gain where most cars stay clean. Always verify against the meter; a heavy LMP or a no-power-steering classic will clip lower than a GT3. Every number here is a *documented starting range*, attributed in the [sources below](#sources-checked), not a magic answer.
+These are conservative starting points — the highest gain where most cars stay clean. Always verify against the meter; a heavy LMP or a no-power-steering classic will clip lower than a GT3. Every number here is a *documented starting range*, attributed in the [research receipts below](#research-receipts-evidence-not-shopping-links), not a magic answer.
 
 | Sim | 5-10Nm base (e.g. MOZA R5/R9, CSL DD) | 10-18Nm base (e.g. R12, ClubSport DD+, Alpha Evo Pro) |
 |-----|---------------------------------------|-----------------------------------------------|
@@ -203,8 +203,7 @@ There is no magic settings sheet, and anyone selling you one for your exact base
 
 ![Set the ceiling to your real Nm](/images/infographics/racing/best-ffb-settings-iracing-acc-lmu-2026-per-sim-ceiling-map.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Every number in this guide is a documented **starting range** from the sources below, verified against the in-game force meter — not an authoritative "correct" setting. Force feedback is per-base, per-car, per-rig and per-driver.
 
 Manufacturer + sim official: [MOZA official iRacing settings (R5-R21)](https://us.mozaracing.com/blogs/blog/moza-ffb-settings-for-iracing-r5-r9-r12-r16-and-r21), [MOZA Pit House FFB guide](https://mozaracing.com/blogs/blog/moza-pit-house-force-feedback-settings-guide), [iRacing controller setup & calibration](https://support.iracing.com/support/solutions/articles/31000133335-controller-setup-and-calibration), [MOZA iRacing support](https://support.mozaracing.com/en/support/solutions/articles/70000628472-iracing).

@@ -164,8 +164,7 @@ You need a Windows PC with a dedicated NVIDIA GPU, and a roughly $1,100 build wi
 
 ![Where to stop spending on a sim PC](/images/infographics/golf/do-you-need-a-gaming-pc-golf-simulator-where-to-stop-spending.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and specialist references for GSPro, E6 Connect, and FSX Play PC requirements (GPU/CPU/RAM/storage by resolution), the FSX Play AMD-GPU exclusion and AMD-CPU caution, the laptop-vs-desktop GPU performance gap, GSPro's ~1 GB-per-course storage note and its lack of DLSS/frame-generation support, and the Garmin Approach R50 and R10 no-PC / on-device simulator capabilities. Prices and firmware-dependent specs move through the year — verify current numbers on the manufacturer pages before buying parts.
 
 Useful source shelf: [Home Performance Lab — GSPro system requirements](https://homeperformancelab.com/gspro-system-requirements/), [Home Performance Lab — golf simulator PC requirements by software](https://homeperformancelab.com/golf-simulator-pc-requirements/), [Foresight FSX Play download & installation (official requirements)](https://support.foresightsports.com/fsx-play-download-and-installation), [E6 Connect PC/iOS minimum spec (TruGolf)](https://trugolf.zohodesk.com/portal/en/kb/articles/e6-connect-pc-and-ios-required-minimum-spec-21-9-2022), [Garmin — Home Tee Hero upgrades (R50 & R10)](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-elevates-the-golf-simulator-experience-with-home-tee-hero-upgrades/), [PlayBetter — Garmin R50 vs R10 comparison](https://www.playbetter.com/blogs/golf-simulator-comparisons/garmin-approach-r50-vs-r10-comparison).

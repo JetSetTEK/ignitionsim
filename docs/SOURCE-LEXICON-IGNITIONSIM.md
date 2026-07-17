@@ -109,4 +109,6 @@ Useful search patterns:
 - Local image is not a logo, icon, placeholder, tracking pixel, or tiny thumbnail.
 - Product is centered, recognizable, and not aggressively cropped.
 - If the image is an AI scene, label it as editorial/AI and keep real product proof nearby.
-- If the product is unavailable, direct-only, or cannot be matched to an exact ASIN, use official/vendor links instead of forcing a bad Amazon CTA.
+- Manufacturer, manual, reviewer, forum, and community links are evidence only. Label them as such and never style them as shopping actions.
+- Until the owner explicitly enables another affiliate program, every shopping action must use an exact Amazon.com detail page in the form `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`.
+- If a product is direct-only, unavailable, or cannot be matched to an exact Amazon ASIN, keep it as plain editorial text with evidence citations and render no purchase CTA. Never substitute a search page, adjacent model, accessory, bundle, or non-Amazon retailer.

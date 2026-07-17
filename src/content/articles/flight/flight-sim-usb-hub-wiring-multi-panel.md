@@ -149,8 +149,7 @@ A multi-panel flight sim cockpit is an electrical project disguised as a flying 
 
 ![Powered vs bus-powered — the one that matters](/images/infographics/flight/flight-sim-usb-hub-wiring-multi-panel-hub-decision.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, USB power specifications, and current cockpit-builder forum threads rather than repeating box copy. Wattage and port figures are quoted from the manufacturers; setup patterns are paraphrased from builder reports in our own voice.
 
 Official + spec: [Honeycomb Flight Sim USB Hub (6-port, 30W)](https://flyhoneycomb.com/products/flight-sim-usb-hub), [Honeycomb 6-Port USB Hub on Amazon](https://www.amazon.com/dp/B0F63QL7K3?tag=ignitionsim-20), [Desktop Pilot 10-Port USB Hub](https://www.desktoppilot.com/product/desktop-pilot-10-port-usb-hub/), [USB port power/data figures (Cadence)](https://resources.pcb.cadence.com/blog/2020-what-are-the-maximum-power-output-and-data-transfer-rates-for-the-usb-standards).

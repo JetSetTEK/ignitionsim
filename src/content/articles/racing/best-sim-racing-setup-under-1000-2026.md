@@ -217,8 +217,7 @@ Here's the honest breakdown of a $1,000 that a lot of new racers get exactly bac
 
 In 2026, the best sim racing setup under $1,000 is a **balanced direct-drive build**, not the strongest one part you can afford: a [MOZA R12](/racing/gear/moza-r12) 12Nm base (~$399), a [MOZA CRP2](/racing/gear/moza-crp2) load-cell brake (~$369) and a rigid folding stand (~$199), landing around **$967** complete. On PlayStation, a [Thrustmaster T598](/racing/gear/thrustmaster-t598) bundle takes the base slot. Spend on feel and consistency, protect it with rigidity, and skip the parts that don't change lap times. Lean on [pedals over power](/racing/pedals-over-power) whenever the temptation to over-spend on torque hits, verify the current prices, and you'll build a rig you race for years — not one you replace next season.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail/sale pricing rather than repeating box specs. Prices move often — confirm current pricing before buying.
 
 Official pages: [MOZA R12 V2](https://mozaracing.com/products/r12-wheelbase), [MOZA R9 V3](https://mozaracing.com/wheel-base-r9), [MOZA CRP2 load-cell pedals](https://mozaracing.com/products/crp2-pedals), [MOZA SR-P pedals](https://mozaracing.com/products/srp-pedals), [Fanatec CSL Pedals LC bundle ($199.99)](https://www.fanatec.com/us/en/p/pedals/csl_p_lc/csl_pedals_lc), [Fanatec Gran Turismo DD Pro bundle](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_gt_dd_pvgt_8nm_us/gran-turismo-dd-pro-ready2race-vision-gt-bundle-8-nm-us), [Thrustmaster T598 (PlayStation/PC)](https://eshop.thrustmaster.com/en_us/t598-us-playstation-pc.html), [Next Level Racing Wheel Stand 2.0](https://nextlevelracing.com/products/racing-wheel-stand-2-0/).

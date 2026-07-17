@@ -167,8 +167,7 @@ This is a settings guide, not a shopping list — the right numbers make a humbl
 
 Hardware still sets the ceiling — a clean 9Nm base with perfect settings out-informs a mis-tuned 21Nm one, but it can't manufacture detail the motor never delivered. If you're still deciding what to run ACC on, [the wheelbase comparison](/racing/best-sim-racing-wheelbases-2026) lays out the tiers, or build a full kit in [the Rig Configurator](/racing/configurator) and dial it in with the numbers above.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current per-base ACC settings guides and official rotation/frequency behavior rather than repeating a single legacy table, and reconciled the disagreements in our own voice.
 
 Per-base settings + Road Effects / Min Force on direct drive: [SimRacingCockpit ACC wheel settings 2026](https://simracingcockpit.gg/acc-wheel-settings/), [SimRacingSetup ACC MOZA FFB settings (R5/R9/R16/R21)](https://simracingsetup.com/product-guides/acc-moza-force-feedback-settings/), [Trophi.ai ACC FFB setup guide](https://www.trophi.ai/post/assetto-corsa-competizione-ffb-setup-guide), [Coach Dave Academy — ACC force feedback](https://coachdaveacademy.com/tutorials/how-to-set-up-force-feedback-for-acc/).

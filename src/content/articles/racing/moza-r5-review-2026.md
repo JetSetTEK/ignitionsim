@@ -207,8 +207,7 @@ Skip it if you race on **console** (PC-only kills it — the R3 is your MOZA pat
 
 The MOZA R5 is still a **legitimately good 2026 buy** for the PC racer who wants real direct drive without flagship spend, in a small cockpit or on a tight budget. Its 5.5Nm is more than enough for GT and formula racing, its NexGen feel punches above the number, it's silent and stable, and the bundle arrives complete with a clamp most brands charge extra for. But the ground shifted under it: **MOZA's own R9 got cheaper**, so unless budget or size pins you to the R5, the R9 is the wiser single purchase — barely more money for the force-feedback sweet spot, wireless wheel comms and real headroom. Either way, spend your next dollar on a [load-cell brake](/racing/pedals-over-power), not more torque; map your build in [the Rig Configurator](/racing/configurator); and plan how far you'll climb with the [smart upgrade path](/racing/smart-upgrade-path). Buy the rung that matches your honest plan — and in 2026, check the R5-versus-R9 price gap before you do.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/spec notes rather than repeating box specs. Prices are moving during MOZA's Mid-Year Sale (roughly June 16 – July 15, 2026) — confirm current figures before buying.
 
 Official pages: [MOZA R5 Racing Bundle](https://mozaracing.com/products/r5-racing-bundle), [MOZA racing series pricing](https://mozaracing.com/collections/racing-series), [MOZA R9 V3 wheel base (US)](https://us.mozaracing.com/products/r9-wheelbase), [MOZA R3 Xbox bundle (US)](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA DD wheels & wheelbases buyer's guide](https://mozaracing.com/blogs/blog/dd-wheels-and-wheelbases-buyers-guide).

@@ -274,8 +274,7 @@ The launch monitor and projector get the attention, but the physical bay is what
 
 Measure before you spend. Ceiling height is the constraint you cannot engineer around — it decides whether overhead is even on the table. Depth is the one that secretly kills radar in shallow rooms. Width decides immersion and whether a lefty and a righty can share the bay. Get those three numbers — aim for **10 ft ceiling, 14–15 ft width, 15–17 ft depth** if you have the space — match them to the technology in the [radar vs photometric breakdown](/golf/radar-vs-photometric-launch-monitor), and only *then* look at price. When your numbers are in hand, drop them into [the Rig Configurator](/racing/configurator) to see what builds your room supports.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current 2026 room-dimension guidance and projector throw math against these pages, plus the official product spec sheets referenced in the launch-monitor and projector sections.
 
 Useful source shelf: [Home Performance Lab — Golf Simulator Space Requirements (2026)](https://homeperformancelab.com/golf-simulator-space-requirements/), [Home Performance Lab — Projector Placement Guide (2026)](https://homeperformancelab.com/golf-simulator-projector-placement/), [TrackMan — How much room do you need for a golf simulator](https://www.trackman.com/blog/golf/how-much-room-for-a-golf-simulator), [Shop Indoor Golf — space requirements](https://shopindoorgolf.com/pages/how-much-space-do-you-need-for-a-golf-simulator-setup), [Carl's Place — measuring your space](https://www.carlofet.com/blog/measuring-your-space-for-an-indoor-golf-simulator), [Carl's Place — choosing a projector](https://www.carlofet.com/blog/choosing-a-projector-for-a-golf-simulator-setup), [Top Shelf Golf — short vs ultra-short throw placement](https://topshelfgolf.com/blogs/golf/short-throw-vs-ultra-short-throw-projector-placement-guide).

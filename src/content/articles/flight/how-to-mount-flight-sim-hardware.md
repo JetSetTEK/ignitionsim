@@ -115,7 +115,7 @@ The rule is firm. The moment you pass three or four devices, buy a **powered** U
 
 No verified studio photo is on file for a dedicated sim USB hub yet, so it's text-and-link only here — a 7-to-10-port powered hub with its own adapter is about $60 and it's the cheapest reliability you'll ever buy:
 
-- **Powered 10-port USB hub (sim-cockpit style)** — dedicated wall adapter, per-port switches, USB 2.0/3.x support, ~$60, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Good general alternatives include the TP-Link UH720 and Sabrent powered hubs.
+- **Powered 10-port USB hub (sim-cockpit style)** — dedicated wall adapter, per-port switches, USB 3.0 support. [View the exact Sabrent HB-BU10 on Amazon](https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 <div class="callout forum">
 
@@ -160,7 +160,7 @@ At that point you graduate to a wheel-stand-style frame or a dedicated **8020 al
 
 The FFB yoke that triggers all of this is text-and-link only below, because no verified studio photo is on file for it yet:
 
-- **MOZA AY210 Force Feedback Yoke** — dual-servo FFB, ~9 Nm roll / 210 N pitch, official MOZA clamp for desks or a rigid rig for cockpits, ~$699 base (~$848 with the required MFY handle), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA AY210 Force Feedback Yoke** — dual-servo FFB, ~9 Nm roll / 210 N pitch, official MOZA clamp for desks or a rigid rig for cockpits, ~$699 base (~$848 with the required MFY handle). [View the exact AY210 base on Amazon](https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 ## The setup tax nobody quotes you
 
@@ -181,8 +181,7 @@ If you fly a couple of times a week on a single clamped yoke, you do not need al
 4. **Rung 4 — cockpit frame.** Only once pedals, multiple panels, or an FFB yoke enter the picture: a prebuilt frame (~$499) or a DIY 8020 rig (~$325+ in parts).
 5. Sketch the mounting and port budget alongside the gear in [the Rig Configurator](/racing/configurator) before you buy, and stage it the way you'd stage [a Honeycomb flight deck](/flight/honeycomb-flight-deck-upgrade-path).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or had moved off its long-standing figure, we flagged "check current."
 
 Official + retail pages: [Honeycomb Alpha Flight Controls (Sporty's — mounting hardware + price)](https://www.sportys.com/honeycomb-alpha-flight-simulator-yoke.html), [Monstertech Joystick / HOTAS Table Mount (official)](https://www.monster.tech/en/product/joystick-hotas-table-mount/), [MOZA AY210 Yoke Bundle (MOZA Racing)](https://us.mozaracing.com/products/ay210-ffb-yoke-bundle), [Trak Racer TR80 / 8020 rig guide (SimRacingSetup)](https://simracingsetup.com/product-guides/best-aluminium-profile-sim-rigs/).

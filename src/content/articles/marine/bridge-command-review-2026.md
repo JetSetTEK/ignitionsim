@@ -4,6 +4,8 @@ description: "A Bridge Command review for marine sim builders: what it does, har
 bay: marine
 type: buying-guide
 primaryKeyword: "Bridge Command review 2026"
+products:
+  - "Sabrent 10-Port 60W Powered USB 3.0 Hub (HB-BU10)"
 author: "Gus Calder"
 publishDate: 2026-07-08
 updatedDate: 2026-07-08

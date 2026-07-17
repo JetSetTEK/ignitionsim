@@ -258,8 +258,7 @@ All three are excellent 12-15Nm bases. The R12 wins on ladder depth and Pit Hous
 
 Frame it as a five-year decision and the answer falls out cleanly. Your platform, your budget, and how much you hate re-buying rims — those three inputs pick your tribe. Everything else is noise.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/firmware notes rather than repeating box specs.
 
 Official pages: [MOZA R5 Racing Bundle](https://mozaracing.com/products/r5-racing-bundle), [MOZA R3 Racing Bundle for Xbox](https://mozaracing.com/products/r3-racing-bundle-xbox), [MOZA wheel bases (US)](https://us.mozaracing.com/collections/wheel-bases), [Fanatec ClubSport DD (US)](https://www.fanatec.com/us/en/p/wheel-bases/cs_dd_us/clubsport-dd-us), [Fanatec ClubSport DD+ (US)](https://www.fanatec.com/us/en/p/wheel-bases/cs_dd+_us/clubsport-dd-plus-us), [Fanatec "More Torque, Same Hardware"](https://www.fanatec.com/us/en/explorer/products/racing-wheels-wheel-bases/more-torque-same-hardware/), [Fanatec Gran Turismo DD Pro bundle](https://www.fanatec.com/us/en/p/sim-racing-bundles/crd-9020007-us/gran-turismo-dd-pro-5nm-qr2l-us), [Simagic Alpha EVO wheel bases](https://simagic.com/pages/alpha-evo), [Simagic Alpha EVO Ultra 28Nm](https://simagic.com/products/simagic-alpha-evo-ultra-28nm-direct-drive-wheel-base).

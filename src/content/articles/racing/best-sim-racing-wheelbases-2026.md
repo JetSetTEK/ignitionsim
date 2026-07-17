@@ -236,8 +236,7 @@ If you race exclusively on **PlayStation**, the MOZA R12 isn't an option — go 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/firmware notes rather than repeating box specs.
 
 Official pages: [MOZA R12](https://mozaracing.com/products/r12-wheelbase), [Fanatec ClubSport DD+](https://www.fanatec.com/us/en/p/wheel-bases/cs_dd+_us/clubsport-dd-plus-us), [Simagic Alpha EVO series](https://simagic.com/pages/alpha-evo), [Fanatec Gran Turismo DD Pro](https://www.fanatec.com/us/en/p/wheel-bases/crd-9020006-us/gran-turismo-dd-pro-wheel-base-qr2-us), [Gran Turismo DD Pro (Polyphony)](https://www.gran-turismo.com/us/products/peripherals/ddpro/), [Asetek Invicta 27Nm](https://www.asetek.com/simsports/product/invicta-direct-drive-wheelbase-27nm/).

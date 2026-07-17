@@ -152,8 +152,7 @@ Do not tune force feedback around flex. Fix the flex. Otherwise you are just tea
 
 Wheel stand if space rules the room. Fixed cockpit if you want a complete, stable package. 8020 if this is no longer a phase and you need the last frame first.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official cockpit product pages, gear-database notes, and current r/simracing buyer discussions around wheel stands, load-cell brakes, and 8020 profile upgrades.
 
 Community reads: [r/simracing wheel stand advice](https://www.reddit.com/r/simracing/comments/1dnpcxu/is_it_worth_getting_a_wheelstand/), [r/simracing 8020 upgrade discussion](https://www.reddit.com/r/simracing/comments/1lqtrqb/new_to_sim_racing_should_i_go_straight_to_8020/), and [r/simracing 8020 explanation](https://www.reddit.com/r/simracing/comments/fnu2rz/why_an_8020_rig_is_the_way_to_go/).

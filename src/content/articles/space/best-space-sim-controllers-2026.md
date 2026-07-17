@@ -393,8 +393,7 @@ For 2026, build a HOSAS, and build it from the [VKB Gladiator NXT EVO Space Comb
 
 Then mount it properly and tame the binds — sliding sticks and a 200-key keyboard both ruin combat. Plan the whole rig, mounts and macro panel included, in the [space configurator](/space/configurator) before you buy.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. We checked official product pages, support guides, exact Amazon ASINs, and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO 'Space Combat Edition' (US store)](https://vkbsimcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand-us) (confirmed ~$139), [VKB Gladiator NXT EVO joysticks](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs/), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Turtle Beach VelocityOne Flightstick](https://www.turtlebeach.com/products/velocity-one-flight-stick) (confirmed ~$129.99), [WinWing US store](https://winwingsim.com/), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html) (page blocked automated fetch — price left approximate, verify live), [Virpil VPC Constellation ALPHA](https://virpil-controls.us.com/vpc-constellation-alpha-r.html), [Elgato Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl) (seen ~$225 on sale mid-2026).

@@ -167,8 +167,7 @@ The picture you want in MSFS 2024 comes from three moves: **diagnose CPU-vs-GPU 
 
 ![Stop the stutter: 4 frame-pacing fixes](/images/infographics/flight/msfs-2024-best-graphics-settings-fps-frame-pacing-stutter-fix.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Every FPS figure in this guide is a documented **community/benchmark range** from the sources below, not a lab-authoritative "correct" number. MSFS performance is per-rig, per-resolution, per-aircraft, and shifts with every Sim Update — verify on your own hardware and re-benchmark after major patches.
 
 Settings + performance guides (paraphrased in our voice): [SimTuts — Best MSFS 2024 Graphics Settings (2026)](https://simtuts.com/guides/msfs-2024-graphics-settings-guide), [Flightsim.to — Complete MSFS 2024 Performance Optimization Guide](https://flightsim.to/guides/the-complete-msfs-2024-performance-optimization-guide-more-fps-less-stutter-better-flights), [MSFS Addons — best visuals and FPS graphics guide](https://msfsaddons.com/2024/11/29/unlock-the-best-visuals-and-fps-in-msfs-2024-with-this-guide/), [PC Optimized Settings — MSFS 2024 optimization](https://pcoptimizedsettings.com/microsoft-flight-simulator-2024-optimization-best-graphics-settings-for-msfs-2024/).

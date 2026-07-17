@@ -156,8 +156,7 @@ If you're on a gear or belt wheel, you essentially can't clip the same way — t
 
 Clipping is the most expensive-feeling problem in sim racing and the cheapest to fix: turn on the meter, walk the gain down 5% at a time until the peaks breathe, keep all your tuning in-game, and handle outlier cars with per-car multipliers instead of global cuts. Do that and your current base — whatever it is — will hand you back the detail you paid for. Then sanity-check the rest of the chain (pedals, mount, rim) in [the Rig Configurator](/racing/configurator), and if you want the full per-sim numbers, the [FFB settings guide](/racing/best-ffb-settings-iracing-acc-lmu-2026) has every starting value laid out. Don't buy torque to fix a tuning problem — fix the tuning first, and you'll be amazed how alive your base already is.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current sim FFB guidance and official tool pages rather than repeating stale settings; we did not fabricate any specific gain numbers, and per-car "check current" values depend on your base and firmware.
 
 Meters + tools (free / official): [iRacing Meter Box ("F" key) — iRacing support](https://support.iracing.com/support/solutions/articles/31000133494-meter-box-f-key-in-game-), [iRacing Controller Setup & Calibration — iRacing support](https://support.iracing.com/support/solutions/articles/31000133335-controller-setup-and-calibration), [SimHub (simhubdash.com)](https://www.simhubdash.com/), [irFFB2026 (GitHub, June 2026)](https://github.com/thogue95/irFFB2026).

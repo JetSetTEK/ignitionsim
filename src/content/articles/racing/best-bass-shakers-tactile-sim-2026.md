@@ -296,8 +296,7 @@ If you rent, race late at night, or simply don't want to wire anything, **skip t
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product/spec pages and current retail pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages and image media: [Dayton Audio BST-1 (50W)](https://www.daytonaudio.com/product/1245/bst-1-high-power-pro-tactile-bass-shaker-50-watts), [Dayton BST-1 at Parts Express](https://www.parts-express.com/Dayton-Audio-BST-1-High-Power-Pro-Tactile-Bass-Shaker-50-Watts-295-244), [Fosi Audio HT4S](https://fosiaudio.com/products/fosi-audio-ht4s-bluetooth-amplifier), [Next Level Racing HF8](https://nextlevelracing.com/products/hf8-haptic-gaming-pad/), [ButtKicker Gamer Plus](https://thebuttkicker.com/products/buttkicker-gamer-plus), [ButtKicker Gamer Pro](https://thebuttkicker.com/products/buttkicker-gamer-pro). Official gallery/product images from Next Level Racing, ButtKicker, and Fosi are used above as product proof; the real driver-at-rig context photo is by [Matheus Bertelli on Pexels](https://www.pexels.com/photo/realistic-vr-racing-simulator-experience-28993071/). Community/reviewer install photos are linked and paraphrased unless explicitly licensed.

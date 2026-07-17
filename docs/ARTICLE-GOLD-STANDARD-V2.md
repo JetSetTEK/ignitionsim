@@ -123,9 +123,12 @@ Every article follows four verbs:
 - Amazon CTAs use the exact product URL:
   `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`.
 - A source link is labeled as evidence. It is not disguised as a buy button.
-- If the exact Amazon product cannot be verified, omit the retail CTA. Link the
-  manufacturer, manual, or specialist source only as research evidence. No
-  affiliate or buy-style CTA may lead to another store.
+- If the exact Amazon product cannot be verified, omit the retail CTA and leave
+  the product name as editorial text. Manufacturer, manual, forum, reviewer, or
+  specialist sources may appear only as explicitly labeled research evidence.
+  Until Robert approves another affiliate relationship, no purchase path,
+  clickable product-name shopping link, affiliate link, or buy-style CTA may
+  lead anywhere except an exact Amazon product page.
 - Include the standard save/share dock with exact-page Pinterest media, native
   share when supported, Reddit, X, copy-link, and `share_click` analytics.
 - Frontmatter dates, `goldStatus`, certification date, source review date,

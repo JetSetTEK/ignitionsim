@@ -1,0 +1,520 @@
+{
+  "arduino-leonardo-diy-hid": {
+    "asin": "B0786LJQ8K",
+    "title": "Arduino Leonardo with Headers",
+    "url": "https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "asetek-forte": {
+    "asin": "B0C2C7TJK7",
+    "title": "ASETEK Forte Direct Drive Wheelbase 18Nm | Powerful Sim Racing Wheel base with Precise Force Feedback and Advanced Technology for Realistic Driving | Sim Racing Steering System for PC",
+    "url": "https://www.amazon.com/dp/B0C2C7TJK7?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "asetek-invicta": {
+    "asin": "B0C283KH2Z",
+    "title": "ASETEK Invicta Direct Drive Wheel base 27Nm | Powerful Sim Racing Wheel base with Precise Force Feedback and Advanced Technology for Realistic Driving | Sim Racing Steering System for PC",
+    "url": "https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "asetek-invicta-pedals": {
+    "asin": "B0F4DD9CX5",
+    "title": "ASETEK SimSports Hydraulic Invicta S-Series T.H.O.R.P. II Sim Racing Pedals | Premium Pedals for Sim Racing | Adjustable and Customizable Pedal Arms for a Perfect Fit in Your Setup | PC Compatible",
+    "url": "https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "benq-ah700st": {
+    "asin": "B0GNZ6NS78",
+    "title": "BenQ AH700ST Full HD Short-Throw Laser Golf Simulator Projector",
+    "url": "https://www.amazon.com/dp/B0GNZ6NS78?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "benq-lk936st": {
+    "asin": "B0BRBQ3ZHH",
+    "title": "BenQ LK936ST 4K Ultra HD Short-Throw Laser DLP Projector",
+    "url": "https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "bushnell-launch-pro": {
+    "asin": "B0FYR5FMFF",
+    "title": "Bushnell Launch Pro i Circle B Edition",
+    "url": "https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "cammus-c5": {
+    "asin": "B0CSGD9T7L",
+    "title": "CAMMUS C5 direct-drive wheel and pedal bundle",
+    "url": "https://www.amazon.com/dp/B0CSGD9T7L?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "country-club-elite-mat": {
+    "asin": "B0048GIWDO",
+    "title": "The Original Country Club Elite by Real Feel Golf Mats 4' X 5' Simulator Size Golf Mat | Heavy Duty Commercial Practice Mat | Accepts A Real Tee | Swing Down and Through | Indoor/Outdoor",
+    "url": "https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "cube-gt": {
+    "asin": "B07RTSBGYN",
+    "title": "Cube Controls - GT Pro Sparco sim racing wheel",
+    "url": "https://www.amazon.com/dp/B07RTSBGYN?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "dayton-bst-1": {
+    "asin": "B01CDDPJTI",
+    "title": "Dayton Audio BST-1 High Power Pro Tactile Bass Shaker",
+    "url": "https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "dof-reality-h3": {
+    "asin": "B07KRJC2SV",
+    "title": "DOF Reality Motion Simulator Platform H3 (3 Movements Axis) Flight, Racing car Plane Cockpit",
+    "url": "https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "elgato-stream-deck-mk2": {
+    "asin": "B09738CV2G",
+    "title": "Elgato Stream Deck MK.2",
+    "url": "https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "elgato-stream-deck-xl": {
+    "asin": "B07RL8H55Z",
+    "title": "Elgato Stream Deck XL",
+    "url": "https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "evercade-vs-r-exp-r": {
+    "asin": "B0D1VYPWLH",
+    "title": "Evercade VS-R",
+    "url": "https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "fanatec-csl-dd": {
+    "asin": "B0FBGZHFN3",
+    "title": "Fanatec CSL DD QR2 wheelbase 5 Nm",
+    "url": "https://www.amazon.com/dp/B0FBGZHFN3?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "fanatec-mclaren": {
+    "asin": "B0F4XSJ8PH",
+    "title": "Fanatec CSL Elite Officially Licensed McLaren GT3 v2 Sim Racing Steering Wheel – Analog Paddles, Magnetic Shifters, Multi-Position Switches, OLED Display for PC, Xbox Series X|S, Xbox One",
+    "url": "https://www.amazon.com/dp/B0F4XSJ8PH?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "garmin-approach-r10": {
+    "asin": "B095QX1FSR",
+    "title": "Garmin Approach R10 Portable Golf Launch Monitor",
+    "url": "https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "garmin-approach-r50": {
+    "asin": "B0DM6NYRYN",
+    "title": "Garmin Approach R50 Premium Golf Launch Monitor and Simulator",
+    "url": "https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "govee-rgbic-bars": {
+    "asin": "B0B6CQ2LQ2",
+    "title": "Govee RGBIC Gaming Light Bars H6047",
+    "url": "https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "honeycomb-alpha-yoke": {
+    "asin": "B07SH2SFLW",
+    "title": "Honeycomb Aeronautical Alpha Flight Controls Yoke and Switch Panel | 180 Degree Rotation, Steel Shaft with Ball Bearings, 5-Pos Ignition, USB-C Pc and Mac",
+    "url": "https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "honeycomb-bravo-throttle": {
+    "asin": "B07SK43CJ6",
+    "title": "Honeycomb Bravo Throttle Quadrant",
+    "url": "https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "logitech-g-pro": {
+    "asin": "B08W27XX75",
+    "title": "Logitech G PRO Racing Wheel for PlayStation/PC",
+    "url": "https://www.amazon.com/dp/B08W27XX75?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "logitech-g-pro-flight-yoke-system": {
+    "asin": "B01M00OQBE",
+    "title": "Logitech G PRO Flight Yoke System",
+    "url": "https://www.amazon.com/dp/B01M00OQBE?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "logitech-g29-helm": {
+    "asin": "B00Z0UWWYC",
+    "title": "Logitech G29 Driving Force wheel and pedals",
+    "url": "https://www.amazon.com/dp/B00Z0UWWYC?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "logitech-g923-helm": {
+    "asin": "B07PGGDJSG",
+    "title": "Logitech G923 TRUEFORCE wheel and pedals",
+    "url": "https://www.amazon.com/dp/B07PGGDJSG?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "logitech-saitek-throttle-quadrant-telegraph": {
+    "asin": "B01M00UHE3",
+    "title": "Logitech G Saitek Pro Flight Throttle Quadrant",
+    "url": "https://www.amazon.com/dp/B01M00UHE3?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "meta-quest-3": {
+    "asin": "B0DDWH41HB",
+    "title": "Meta Quest 3 512GB",
+    "url": "https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "meta-quest-3-marineverse-vr": {
+    "asin": "B0DDWH41HB",
+    "title": "Meta Quest 3 512GB",
+    "url": "https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-ay210-ffb-yoke": {
+    "asin": "B0GHMWSDHT",
+    "title": "MOZA AY210 Force Feedback YOKE Base",
+    "url": "https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-crp2": {
+    "asin": "B0FRMQ3VH7",
+    "title": "MOZA CRP2 Load Cell Pedals",
+    "url": "https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-hbp-handbrake": {
+    "asin": "B0BVLNVVVC",
+    "title": "MOZA HBP Handbrake With 16 Bit High Precision Position Sensor,Dual Mode and Multi-Angle Adjustable Racing Handbrake Simulator, Connection To PC Wheelbase Directly",
+    "url": "https://www.amazon.com/dp/B0BVLNVVVC?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-mbooster-active-pedal": {
+    "asin": "B0FZJXSJ3Y",
+    "title": "MOZA Racing mBooster Active Pedal Racing Simulator",
+    "url": "https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-mtq-throttle-quadrant": {
+    "asin": "B0G4924P9P",
+    "title": "MOZA Flight MTQ Throttle Quadrant Simulator",
+    "url": "https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-r12": {
+    "asin": "B0DHHJD97L",
+    "title": "MOZA R12 Direct Drive Sim Racing Wheelbase Servo Base, 12Nm Direct Drive Torque, Real Force Feedback, standalone Wheel Base Simulator for PC Video Game",
+    "url": "https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-r21": {
+    "asin": "B0G8G544Q2",
+    "title": "MOZA R21 Ultra Direct Drive Wheel Base Racing Simulator",
+    "url": "https://www.amazon.com/dp/B0G8G544Q2?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-r3-xbox-bundle": {
+    "asin": "B0D93L5CB1",
+    "title": "MOZA R3 Racing Wheel and Pedals Bundle for Xbox & PC,3.9Nm DD Servo Motor With Aviation-Grade Aluminum Construction,Durable ISF PU Grips 11-inch Racing Wheel,SR-P Lite Dual Pedals",
+    "url": "https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-r5": {
+    "asin": "B0DL51ZY3T",
+    "title": "MOZA R5 Bundle Kit Racing Simulator 5.5Nm Direct Drive Wheelbase,Unbeatable Rigid & Durable 11-Inch ES Racing Wheel SR-P Lite Dual Pedal and Desk Clamp All-in-One",
+    "url": "https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-r9": {
+    "asin": "B0CYM7PNNN",
+    "title": "MOZA R9 V2 Direct Drive Servo Motor Sim Racing Wheel Base, 9Nm FFB Force Feedback Steering Wheel Base, Customizable Standalone Wheel Base Simulator for PC Racing Game, APP Cloud Control",
+    "url": "https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "moza-rs-v2": {
+    "asin": "B0G2XSZN5C",
+    "title": "MOZA RS V2 Steering Wheel",
+    "url": "https://www.amazon.com/dp/B0G2XSZN5C?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "naturalpoint-trackir-5": {
+    "asin": "B00KQPETHO",
+    "title": "TrackIR 5 with TrackClip PRO bundle",
+    "url": "https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "nlr-gt-track": {
+    "asin": "B07KFY7TKC",
+    "title": "Next Level Racing GTTrack Simulator Cockpit",
+    "url": "https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "nlr-hf8": {
+    "asin": "B0F6MW4RZH",
+    "title": "Next Level Racing® HF8 Pro Haptic Feedback Gaming Pad (NLR-G006)",
+    "url": "https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "nlr-motion-v3": {
+    "asin": "B01N7OI0OX",
+    "title": "Next Level Racing Motion Platform v3 (NLR-M001V3)",
+    "url": "https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "optoma-gt2100hdr": {
+    "asin": "B0C4KWSFBW",
+    "title": "Optoma GT2100HDR Short Throw Laser Projector",
+    "url": "https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "pimax-crystal-light": {
+    "asin": "B0G6YYW3PB",
+    "title": "Pimax Crystal Light",
+    "url": "https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "pxn-cb1-button-box": {
+    "asin": "B0DKNW88FN",
+    "title": "PXN CB1 Sim Racing Button Box for PC, 19 Controls (9 Input Types) | Up to 30 Programmable Functions, RGB Backlit Simulator Control Panel for Racing, Truck & Farming Simulators",
+    "url": "https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "sabrent-powered-usb-hub": {
+    "asin": "B0797NZFYP",
+    "title": "Sabrent HB-BU10 10-Port 60W Powered USB 3.0 Hub",
+    "url": "https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "samsung-odyssey-neo-g9-57": {
+    "asin": "B0CDQM55C9",
+    "title": "Samsung 57-inch Odyssey Neo G9 G95NC Dual 4K Gaming Monitor",
+    "url": "https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "samsung-odyssey-oled-g9-49": {
+    "asin": "B0DQD7548D",
+    "title": "Samsung Odyssey G9 OLED 49-inch Curved 240Hz Gaming Monitor",
+    "url": "https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "simucube-activepedal-pro": {
+    "asin": "B0FDQV4H38",
+    "title": "Simucube ActivePedal Pro – SimXPro",
+    "url": "https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "skytrak-plus": {
+    "asin": "B0GJDT5L16",
+    "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+    "url": "https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "steelseries-arctis-nova-7": {
+    "asin": "B0B15QM5LL",
+    "title": "SteelSeries Arctis Nova 7 Wireless Gaming Headset",
+    "url": "https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-hotas-warthog": {
+    "asin": "B00371R8P4",
+    "title": "Thrustmaster HOTAS Warthog",
+    "url": "https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-mfd-cougar-pack": {
+    "asin": "B002HH9TRY",
+    "title": "Thrustmaster MFD Cougar Flight Sim Multi-Function Display Set",
+    "url": "https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-sol-r2-hosas": {
+    "asin": "B0DMSTP1YG",
+    "title": "Thrustmaster SOLR2FLTSTPC Sol-R 2 HOSAS Space Sim Duo - PC",
+    "url": "https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-sol-r4-hotas": {
+    "asin": "B0FWS2QKK3",
+    "title": "Thrustmaster Sol-R4 HOTAS Space Combat Flight Stick & Throttle - PC | 58 programable buttons, 21 on grip, 2 triggers, 2 hats, ministick, thumbwheel, Hall-Effect, RGB LEDs, adjustable detent",
+    "url": "https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-t16000m-fcs": {
+    "asin": "B01MQEDEEW",
+    "title": "Thrustmaster T.16000M FCS stick",
+    "url": "https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-t16000m-fcs-hotas": {
+    "asin": "B01N2PE8CZ",
+    "title": "Thrustmaster T.16000M FCS HOTAS",
+    "url": "https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-t16000m-rudder": {
+    "asin": "B01MQEDEEW",
+    "title": "Thrustmaster T.16000M FCS stick",
+    "url": "https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-t16000m-space-duo": {
+    "asin": "B076XKZML8",
+    "title": "Thrustmaster T.16000M FCS Space Sim Duo",
+    "url": "https://www.amazon.com/dp/B076XKZML8?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-t818": {
+    "asin": "B0GJ13679W",
+    "title": "Thrustmaster T818 Black Servo Direct Drive Racing Wheel (compatible with PC)",
+    "url": "https://www.amazon.com/dp/B0GJ13679W?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-tca-quadrant-airbus": {
+    "asin": "B086J7D78J",
+    "title": "Thrustmaster TCA Quadrant Airbus Edition",
+    "url": "https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-tca-yoke-boeing": {
+    "asin": "B09DPYHM55",
+    "title": "Thrustmaster TCA Yoke & Quadrant Boeing Edition Flight Pack - XBOX & PC | 787 Dreamliner replica, pendular motion, throttle unit with autopilot, metal build, 35 action buttons, 2 extra axes, for MSFS",
+    "url": "https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-th8a": {
+    "asin": "B005L0Z2BQ",
+    "title": "Thrustmaster TH8A shifter",
+    "url": "https://www.amazon.com/dp/B005L0Z2BQ?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "thrustmaster-tpr-rudder": {
+    "asin": "B07DQY8LVC",
+    "title": "Thrustmaster TPR Pendular Rudder Pedals",
+    "url": "https://www.amazon.com/dp/B07DQY8LVC?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "tobii-eye-tracker-5": {
+    "asin": "B0897GCBWW",
+    "title": "Tobii Eye Tracker 5",
+    "url": "https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "trak-racer-tr80": {
+    "asin": "B0BGJ55MFZ",
+    "title": "Trak Racer - TR80 Racing Simulator MK5 TR ONE - Fanatec DD",
+    "url": "https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "turtle-beach-velocityone-flight": {
+    "asin": "B09JM8SX8G",
+    "title": "Turtle Beach VelocityOne Flight Universal Control System",
+    "url": "https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "turtle-beach-velocityone-flight-stick": {
+    "asin": "B0BHTPP71M",
+    "title": "Turtle Beach VelocityOne Flightstick",
+    "url": "https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "turtle-beach-velocityone-flightdeck": {
+    "asin": "B0CPQ7RF6Z",
+    "title": "Turtle Beach VelocityOne Flightdeck Universal HOTAS Simulation System - PC | Windows 10 & 11 PCs,Joystick & Throttle for Air & Space Combat Simulation, Touch Display, 139 Mappable Controls, Black",
+    "url": "https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20",
+    "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "turtle-beach-velocityone-flightstick": {
+    "asin": "B0BHTPP71M",
+    "title": "Turtle Beach VelocityOne Flightstick",
+    "url": "https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "turtle-beach-velocityone-rudder-pedals": {
+    "asin": "B0B7NTLKF2",
+    "title": "Turtle Beach VelocityOne Universal Rudder pedals",
+    "url": "https://www.amazon.com/dp/B0B7NTLKF2?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "uneekor-eye-mini-core": {
+    "asin": "B0FPHVNCQ7",
+    "title": "Uneekor EYE MINI CORE",
+    "url": "https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20",
+    "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  }
+}

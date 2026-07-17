@@ -147,9 +147,9 @@ The **MOZA AB9** is the flagship base at around **$499 (base only), ~$549-649 wi
 
 MOZA advertises native force-feedback telemetry for MSFS 2024/2020, X-Plane 12 and DCS with no plugins, though the turbulence-and-trim software is still maturing, and the servos genuinely demand a rigid desk mount or cockpit frame rather than a light clamp. No verified studio photo is on file for the MOZA flight bases yet, so they're text-and-link only here — but the MOZA MTQ throttle quadrant below is the verified, FFB-adjacent piece that pairs with them.
 
-- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick), [MOZA official](https://mozaracing.com/products/ab9-base) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Verify current USD pricing before buying.
-- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399, [MOZA official](https://us.mozaracing.com/collections/flight-series) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base, [MOZA official](https://mozaracing.com/products/ay210-ffb-yoke-bundle) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick). No exact verified Amazon listing, so no purchase CTA; [MOZA's AB9 specifications](https://mozaracing.com/products/ab9-base) remain evidence only.
+- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399. No exact verified Amazon listing, so no purchase CTA; [MOZA's flight-series specifications](https://us.mozaracing.com/collections/flight-series) remain evidence only.
+- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base. [View the exact AY210 base on Amazon](https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}; [MOZA's bundle specifications](https://mozaracing.com/products/ay210-ffb-yoke-bundle) remain evidence only.
 
 <aside class="gearpick">
 
@@ -180,13 +180,13 @@ For DCS and military sims, Thrustmaster refreshed its benchmark HOTAS. The **HOT
 
 That framing matters for your wallet. If you already own a healthy original Warthog, there is no urgent reason to pay $599.99 for the refresh. If you're buying your first metal HOTAS in 2026, buy the MKII rather than aging old stock — the grip cross-compatibility and durability tweaks are worth it on a fresh purchase. No verified studio photo of the MKII is on file yet, so it's text-and-link only here.
 
-- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026, [Thrustmaster press release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Check current retail pricing before buying.
+- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026. It is not yet an exact verified Amazon product, so no purchase CTA; the [Thrustmaster launch release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) remains evidence only.
 
 ## Space sim: the OMNI Extension
 
 The quietest reveal is a $44.99 accessory. The **OMNI Extension** (released mid-2026) is a small connector arm that repositions a modular left-hand sidestick to roughly a **50-55 degree angle** for a more natural wrist position, aimed primarily at space-sim pilots running twin-stick setups. It is not a control and it does nothing on its own — it's an ergonomics fix for people who already own a modular sidestick and want the left hand angled instead of flat. If that's you, it's cheap. If it isn't, skip it. No verified photo is on file, so it's text-and-link only.
 
-- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99, [Thrustmaster OMNI Extension](https://eshop.thrustmaster.com/omni-extension.html) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99. No exact verified Amazon listing, so no purchase CTA; [Thrustmaster's specifications](https://eshop.thrustmaster.com/omni-extension.html) remain evidence only.
 
 ## The Airbus path: sidestick first, panels second
 
@@ -199,9 +199,9 @@ If you live in the Fenix A320 or the iniBuilds Airbus fleet, a general yoke is t
 
 The WinWing FCU/EFIS and MCDU panels are the next rung — they move the Airbus workflow off the mouse so you twist altitude, heading, baro and range on real knobs and punch the MCDU like a human instead of clicking a virtual keypad on descent. They're PC-only, aircraft-specific and confirmed for the Fenix A320, and no verified photo is on file, so they're text-and-link only.
 
-- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Confirm your exact aircraft is supported before buying.
+- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier. No exact verified Amazon listing, so no purchase CTA.
+- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130. No exact verified Amazon listing, so no purchase CTA.
+- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch. No exact verified Amazon listing, so no purchase CTA; confirm your exact aircraft is supported before buying.
 
 ## The Xbox-friendly first stick
 
@@ -231,7 +231,7 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 **Rule 3: Force feedback needs a rigid mount.** The MOZA AB9 and AB6 servos want a 4-bolt mount or cockpit frame, not a light desk clamp — otherwise the force feedback fights your desk instead of your hands.
 
-**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: a 7-to-10-port sim hub is about $60, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: [view the exact Sabrent HB-BU10 on Amazon](https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 **Rule 5: Buy aircraft-first.** GA, Airbus, Boeing, DCS and helicopters want different controls. A generic "best flight sim setup" is how you buy three wrong things and one correct cable.
 
@@ -295,8 +295,7 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 5. **Head tracking** — TrackIR 5 (value) or Tobii Eye Tracker 5 (no clip).
 6. **Force feedback is a later leap, not a first buy** — MOZA AB9 for airliner feel once the basics are covered.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, the FlightSimExpo 2026 reveal coverage and current pricing/availability rather than repeating box specs; where a price was announced-but-unshipped or had drifted, we flagged "check current."
 
 Reveal coverage + official: [Thrustmaster FlightSimExpo 2026 press release (mynewsdesk)](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035), [Thrustmaster FSExpo lineup (FSElite)](https://fselite.net/content/thrustmaster-fsexpo-2026/), [Thrustmaster OMNI Extension (official store)](https://eshop.thrustmaster.com/omni-extension.html), [Thrustmaster FSExpo 2026 (Windows Central)](https://www.windowscentral.com/gaming/microsoft-flight-simulator-new-flight-stick-and-yoke-options-from-thrustmaster).

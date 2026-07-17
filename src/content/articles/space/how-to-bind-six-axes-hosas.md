@@ -180,8 +180,7 @@ This guide is about binding, but a few hardware choices make the binding vastly 
 
 The layout is not a mystery: **right stick rotates, left stick translates, and you disable twist on the aiming hand** so wrist wobble never becomes accidental yaw. Set it up once, sanity-check it in a station or Arena Commander, and it becomes muscle memory that carries across every ship you fly. Elite makes it easy and auto-detects two devices; Star Citizen makes you work through an advanced menu but rewards the analog off-hand strafe more, especially in SCM combat. Build the binds first, build the curves in your stick's software second so they survive patches, and clear every default before you blame your hardware. If your sticks are sliding around while you test all this, that's a mounting problem worth fixing before you touch your binds — and you can price a complete two-stick rig, mounts included, in [the Rig Configurator](/racing/configurator). For the hardware behind the binds, start with [the best beginner HOSAS under $300](/space/best-beginner-hosas-under-300) or the full [VKB vs Virpil vs WinWing breakdown](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. This is a how-to, so we checked current community binding consensus and official game/hardware documentation rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Game + tooling references: [Star Citizen Master Modes explained](https://citizen-history.com/article/starcitizen-mastermodes-explained) (SCM vs NAV, introduced in Alpha 3.23), the [EDRefCard binds-reference generator](https://edrefcard.info/) and its [source repository](https://github.com/richardbuckle/EDRefCard), and the VKB community threads on [response curves and deadzones in VKBDevCfg](http://forum.vkb-sim.pro/viewtopic.php?t=4377).

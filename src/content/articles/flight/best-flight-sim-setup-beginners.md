@@ -64,7 +64,7 @@ At this tier you do not buy pedals. Every device here has a twist or rocker rudd
 
 The Logitech G PRO Flight Yoke System is text-and-link only below because we haven't verified an exact studio photo for it; we are withholding marketplace links until the exact listing is verified.
 
-- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**. [View the exact yoke system on Amazon](https://www.amazon.com/dp/B01M00OQBE?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 <aside class="gearpick">
 
@@ -190,7 +190,7 @@ The moment to buy pedals is specific: when you start flying crosswind landings, 
 
 The Logitech G Flight Rudder Pedals are text-and-link only here because we haven't verified an exact studio photo:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**. We do not have an exact verified Amazon listing for the standalone pedals, so this guide deliberately shows no purchase CTA.
 
 <aside class="gearpick">
 
@@ -290,8 +290,7 @@ And don't buy the obvious top pick against your own airplane. Don't buy the Hone
 
 For nearly every new MSFS 2024 pilot, the answer is a staircase, not a leap. Start free on the gamepad for a week and let it name your airplane. Then buy rung one, matched to that airplane: a ~$180 Logitech yoke or ~$300 Honeycomb Alpha for GA, the ~$80 TCA Sidestick for Airbus, the ~$130 VelocityOne on Xbox, or the ~$500 TCA Yoke Pack for a committed Boeing flyer. Graduate to the Alpha + Bravo pairing once you know flight sim has its hooks in you, and add pedals only when a specific maneuver demands them. If you want help mapping a full build to your budget before you spend, run it through [the flight configurator](/flight/configurator) — then buy the next single piece, fly it until you've outgrown it, and let the cockpit grow under you.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or the product is not yet shipping, we flagged "check current" or "announced."
 
 Official pages: [Logitech G PRO Flight Yoke System ($179.99)](https://www.logitechg.com/en-us/shop/p/flight-simulator-yoke-system), [Logitech G Flight Simulator Rudder Pedals ($179.99)](https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals), [Honeycomb Alpha Flight Controls ($299.99)](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Thrustmaster TCA Sidestick Airbus](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Quadrant Airbus](https://www.thrustmaster.com/products/tca-quadrant-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/), [Turtle Beach VelocityOne Flightstick ($129.99)](https://www.turtlebeach.com/products/velocity-one-flight-stick).

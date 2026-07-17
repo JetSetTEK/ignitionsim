@@ -227,8 +227,7 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product/store pages and current 2026 pricing rather than repeating launch-day specs, and paraphrased community consensus in our own words.
 
 Official pages: [Pimax Crystal Super](https://pimax.com/products/pimax-crystal-super), [Pimax Crystal Light](https://pimax.com/products/pimax-crystal-light), [Bigscreen Beyond 2](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Meta Quest compare (Quest 3 vs 3S)](https://www.meta.com/quest/compare/), [Meta Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/).

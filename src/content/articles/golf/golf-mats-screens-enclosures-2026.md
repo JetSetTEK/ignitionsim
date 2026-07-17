@@ -233,8 +233,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked Carl's Place impact-screen bounceback and foam-insert guidance, Carl's hitting mat guide, Golf Simulator Forum enclosure and mat threads, r/Golfsimulator bounceback/padding discussions, GolfWRX mat joint-pain discussions, MyGolfSpy's SIGPRO Softy review, and recent Golf Monthly enclosure coverage.
 
 Useful source shelf: [Carl's Place bounceback tips](https://www.carlofet.com/blog/impact-screen-bounce-back-troubleshooting-tips), [Carl's Place top simulator questions](https://www.carlofet.com/blog/top-golf-simulator-questions), [Carl's Place hitting mat guide](https://www.carlofet.com/blog/best-golf-hitting-mats), [Golf Simulator Forum enclosure review](https://golfsimulatorforum.com/forum/golf-simulator-forum/golf-simulators/404686-review-carl-s-place-diy-golf-enclosure-vs-custom-pro-golf-enclosure), [r/Golfsimulator recent mat priorities](https://www.reddit.com/r/Golfsimulator/comments/1tr0w3o/best_golf_mat/), [r/Golfsimulator Country Club Elite vs joint comfort thread](https://www.reddit.com/r/Golfsimulator/comments/1ueqy6e/torn_between_these_two/), [GolfWRX Country Club Elite discussion](https://forums.golfwrx.com/topic/1980318-is-country-club-elite-that-bad/), [MyGolfSpy SIGPRO Softy review](https://mygolfspy.com/we-tried-it/sigpro-softy-golf-hitting-mat-review/).

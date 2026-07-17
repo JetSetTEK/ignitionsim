@@ -185,8 +185,7 @@ Do not buy a technology, buy a *fit*. If your room is shallow, photometric wins,
 
 Match the sensor to your dimensions using the [room-size reality check](/golf/golf-simulator-room-size), then narrow the budget tier with the [best sub-$1,000 launch monitors](/golf/best-golf-launch-monitor-under-1000) and the [launch monitors under $5,000](/golf/golf-launch-monitors-under-5000-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and independent-testing pages covering how radar and photometric technologies measure, room-depth and lighting requirements, indoor vs outdoor accuracy, and which 2026 units use which sensor. Specs for named units were cross-checked against the IgnitionSim gear pages (Garmin R10, SkyTrak+, Bushnell Launch Pro, Rapsodo MLM2PRO, FlightScope Mevo Gen 2, Uneekor EYE XO2, Foresight Falcon, Garmin R50).
 
 Useful source shelf: [PlayBetter camera-vs-radar comparison](https://www.playbetter.com/blogs/golf-simulator-comparisons/photometric-vs-radar-golf-launch-monitor), [PlayBetter 2026 launch monitor buyer's guide](https://www.playbetter.com/blogs/golf-simulator-comparisons/golf-launch-monitor-buying-guide), [Uneekor photometric vs Doppler explainer](https://uneekor.com/blogs/blog/photometric-vs.-doppler:-which-launch-monitor-technology-delivers-the-most-accurate-golf-data), [GolfBays radar vs photometric indoors](https://golfbays.de/en/blogs/news/radar-vs-photometric-launch-monitors-indoors), [Home Performance Lab SkyTrak+ vs Launch Pro vs GC3](https://homeperformancelab.com/skytrak-plus-vs-bushnell-launch-pro-vs-foresight-gc3/), [FlightScope Mevo Gen2 comparison](https://flightscope.com/blogs/blogs/best-golf-launch-monitor-comparison-2026), [Breaking Eighty FlightScope vs Rapsodo](https://breakingeighty.com/flightscope-vs-rapsodo).

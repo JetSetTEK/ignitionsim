@@ -221,8 +221,7 @@ For **rally and drift**, buy a **handbrake first** and a **sequential shifter se
 
 Not sure where a shifter or handbrake fits in your overall plan? Map it against the rest of your gear in [the Rig Configurator](/racing/configurator) before you spend.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retailer/community pricing rather than repeating box specs. Several figures move often and are flagged "check current" in the text.
 
 Official pages: [MOZA HBP Handbrake](https://us.mozaracing.com/products/hbp-handbrake), [MOZA SGP Sequential Shifter](https://us.mozaracing.com/products/sgp-shifter), [Fanatec ClubSport Handbrake V2](https://www.fanatec.com/us/en/p/add-ons/cs_hb_v2/clubsport-handbrake-v2), [Thrustmaster TH8A](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/), [Sim-Lab XB1 Load-Cell Handbrake](https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing).

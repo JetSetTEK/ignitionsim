@@ -119,8 +119,7 @@ Honest-broker note: if you're buying a complete bundle and you have zero intenti
 
 Your base is the most replaceable, least sticky purchase you'll make. The quick-release and the rims you hang on it are what actually decide your future — and your wallet. Pick the ecosystem first, favor an open QR if you value freedom, learn to read "70mm PCD" on a spec sheet, keep your pedals and shifters brand-agnostic, and never buy an expensive rim until you're certain it fits the base you'll keep. Do that and the quick-release stops being a trap and becomes what it was always meant to be: the thing that lets you swap wheels in two seconds without re-buying your whole setup.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product and support pages and current sim-racing guides for quick-release behavior, adapter pricing and PCD standards rather than repeating box specs. Prices move — confirm current pricing before you buy.
 
 Official + support pages: [Fanatec QR2](https://www.fanatec.com/us/en/s/qr2), [Fanatec Wheel Hub (Podium Hub)](https://www.fanatec.com/us/en/p/sim-racing-accessories/crd-9020024-ww/fanatec-wheel-hub), [Simagic QR-A](https://simagic.com/products/simagic-qr-a), [Logitech G RS QR Adapter](https://www.logitechg.com/en-us/shop/p/rs-qr-adapter), [MOZA 70mm Quick Release Adapter](https://mozaracing.com/products/moza-qr).

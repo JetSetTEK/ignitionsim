@@ -223,8 +223,7 @@ Three honest questions decide it — the same branch points from the tree above,
 
 The gamepad is not a compromise — it's the correct first controller for most Star Citizen pilots, and a gamepad-plus-Stream-Deck combo handles the game's real pain point (the 200-plus binds) for less than the cost of a stick. Buy a HOTAS when you fly aircraft sims too, or when the throttle feel is the reason you sim. And if precise spaceflight is the goal, don't buy a single stick at all — buy two, because the ship you're flying strafes and the controller should too.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community consensus rather than repeating box specs, and we quote street prices as approximate because stock and pricing swing week to week — confirm current price and layout before you buy.
 
 Official pages: [Logitech G X56 H.O.T.A.S.](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) (189 programmable controls, twin throttles, six degrees of freedom, $249.99 listed), [Thrustmaster T.16000M FCS HOTAS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/) (T.16000M stick + TWCS throttle, 4 stick axes incl. twist, 30 buttons), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/en-us/products/hotas-warthog/), and the [Star Citizen controller support overview](https://www.rewasd.com/community/games/star-citizen-controller-support).

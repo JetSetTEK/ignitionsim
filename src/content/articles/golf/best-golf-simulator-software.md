@@ -177,8 +177,7 @@ Pick the software first, then buy hardware that speaks its language. For the bro
 
 ![3-year software cost, stacked](/images/infographics/golf/best-golf-simulator-software-three-year-cost-stack.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official/retailer pages for GSPro subscription pricing, PC requirements, and launch-monitor compatibility; E6 Connect and E6 Apex subscription tiers; TGC 2019 compatibility and course count; FSX Play platform and Foresight GC3/GC3S/Bushnell Gold licensing; Awesome Golf pricing, platforms, and compatibility; plus 2026 golf-simulator-software comparison guides and PGA Show software news. Prices and compatibility change often — confirm the current figure and your exact launch-monitor model at checkout.
 
 Useful source shelf: [GSPro 1-Year Subscription (Foresight)](https://www.foresightsports.com/products/gspro-1-year-subscription), [What Golf Simulators Work with GSPro? (PlayBetter)](https://www.playbetter.com/blogs/golf-simulator-software/what-golf-simulators-work-with-gspro), [E6 Connect subscriptions (E6 Golf portal)](https://portal.e6golf.com/shop/subscriptions), [E6 Apex software (Shop Indoor Golf)](https://shopindoorgolf.com/products/e6-apex-golf-simulation-software), [The Golf Club 2019 (Shop Indoor Golf)](https://shopindoorgolf.com/products/the-golf-club-2019), [FSX Play support (Foresight)](https://support.foresightsports.com/support/software/fsx-play), [Awesome Golf launch-monitor compatibility](https://insights.awesome-golf.com/docs/reference/compatibility/launch-monitor/list), [8 Best Golf Simulator Software Titles of 2026 (Golfstead)](https://golfstead.com/best-golf-simulator-software), [Software upgrades from the 2026 PGA Show (PlayBetter)](https://www.playbetter.com/blogs/golf-tech-news/software-upgrades-from-2026-pga-show).

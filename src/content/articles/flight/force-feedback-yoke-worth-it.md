@@ -95,9 +95,9 @@ Force feedback is no longer one product, and pretending it is would do you a dis
 
 The FFB options above are text-and-link only because we haven't verified an exact studio photo for any of them; the searches show current listings:
 
-- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9 Nm roll / 210 N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with the MFY handle), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **Brunner CLS-E NG / MK II** — flight-school-grade FFB, premium build, roughly double a MOZA setup, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **VPForce Rhino** — DIY/community FFB base, ~9 Nm, deeply configurable for tinkerers, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[MOZA AY210 Force Feedback Yoke](/flight/gear/moza-ay210-ffb-yoke)** — dual-servo FFB, 9 Nm roll / 210 N pitch, native MSFS 2024 / X-Plane 12 / DCS, ~$699 base (~$848 with the MFY handle). [View the exact AY210 base on Amazon](https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
+- **Brunner CLS-E NG / MK II** — flight-school-grade FFB, premium build, roughly double a MOZA setup. No exact verified Amazon listing, so no purchase CTA.
+- **VPForce Rhino** — DIY/community FFB base, ~9 Nm, deeply configurable for tinkerers. No exact verified Amazon listing, so no purchase CTA.
 
 ## Where it falls short in 2026
 
@@ -151,8 +151,7 @@ Force feedback in 2026 is real, it's finally near sane money, and the field runs
 
 ![FFB yoke vs spring yoke — who buys which](/images/infographics/flight/force-feedback-yoke-worth-it-ffb-vs-spring-decision.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, current pricing, and hands-on reviews rather than repeating box specs; where a price was retailer-dependent, we quoted the direct MOZA figures and flagged that retail runs higher.
 
 Official + product pages: [MOZA AY210 Yoke Base](https://mozaracing.com/products/ay210-yoke-base), [MOZA AY210 FFB Yoke Bundle](https://us.mozaracing.com/products/ay210-ffb-yoke-bundle), [Brunner CLS-E NG Yoke](https://shop.brunner-simulation.ch/product/cls-e-ng-yoke/), [VPForce Controls](https://vpforce.eu/), [Honeycomb Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls).

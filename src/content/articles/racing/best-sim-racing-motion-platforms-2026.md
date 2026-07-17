@@ -186,8 +186,7 @@ Motion is not a plug-and-play seat pad. Budget for the whole picture before you 
 
 If your tactile isn't finished, **skip motion** — a $250 tactile top-up will out-immerse a mis-timed motion purchase every time. If you race in a **shared house or apartment** and can't tolerate the noise or the ceiling clearance, skip it. If you're chasing **lap time**, skip it — the data is clear that motion doesn't deliver pace, and the money is better spent on a [wheelbase](/racing/gear/nlr-motion-v3), pedals, or practice. Motion is a luxury for people who've already built a great rig and want the chassis to move. That's a completely legitimate want — just make sure it's the layer you're actually missing before you write the biggest cheque in the hobby.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked manufacturer product pages and current 2026 pricing/review notes rather than repeating spec-sheet claims, and paraphrased community consensus in our own words.
 
 Official pages: [Next Level Racing Motion Platform V3](https://nextlevelracing.com/products/next-level-racing-motion-platform-v3/), [DOF Reality H3 3-Axis (Racing)](https://dofreality.com/product/racing/motion-racing-rig-3-axis-hero-h3/), [DOF Reality model comparison](https://dofreality.com/compare-motion-simulators/).

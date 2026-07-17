@@ -217,8 +217,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages: [SteelSeries Arctis Nova 7 Gen 2](https://steelseries.com/gaming-headsets/arctis-nova-7-gen-2), [Govee RGBIC Wi-Fi Gaming Light Bars (H6047)](https://us.govee.com/products/govee-rgbic-wi-fi-gaming-light-bars-with-smart-controller), [Sabrent 10-Port USB 3.0 Powered Hub (HB-BU10)](https://sabrent.com/products/hb-bu10), [ButtKicker Gamer PRO](https://thebuttkicker.com/products/buttkicker-gamer-pro).

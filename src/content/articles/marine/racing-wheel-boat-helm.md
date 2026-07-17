@@ -160,8 +160,7 @@ If you want a shopping order instead of a catalog, here's how the pieces layer u
 
 A racing wheel makes a perfectly good boat helm — *in the sims that read it as a proportional analog axis*. Buy the **G29**, not the G923, because force feedback is wasted on water and the price gap buys nothing. Then, before you commit to a title, confirm it actually reads the wheel's axis rather than flattening it to a center-deadzone stick; if it doesn't, budget a weekend for x360ce or vJoy and treat the glue software as part of the kit — or build a DIY helm the sim reads as true axes. Done right, a ~$180 wheel you may already own becomes a genuine helm. Done blind, it becomes a $349.99 way to spin a thumbstick.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Because this article turns on how specific sims read a wheel — not on box specs — we verified each compatibility claim against the sim's own community/support material and each price against the manufacturer or a current retail listing, rather than repeating marketing copy.
 
 Wheel prices + specs: [Logitech G29 Driving Force (official)](https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html), [Logitech G923 TrueForce (official, $349.99 list)](https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel), [G29 current sale pricing (~$180–$200, 9to5Toys)](https://9to5toys.com/2026/05/28/logitech-g29-force-racing-kit-wheel-pedals-and-shifter-for-208/).

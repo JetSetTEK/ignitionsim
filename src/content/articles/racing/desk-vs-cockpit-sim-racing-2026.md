@@ -234,8 +234,7 @@ If you're on a gamepad, a belt wheel, or a sub-5Nm entry bundle, **do not** rush
 
 Match the mount to the torque, and treat rigidity as the performance feature it is. **Under 8Nm:** a solid desk or a quality folding stand is genuinely fine. **8–12Nm:** a stand at minimum, a steel-tube cockpit if you want consistency. **15Nm and up:** 8020 aluminum, full stop — 40/80mm profile for mid-flagship, 120/160mm for pro-grade — anything less is paying for force you'll never feel. Plan the mount alongside the base, not after it: run your build through [the Rig Configurator](/racing/configurator), go deeper on the stand-vs-8020 question in [cockpit rigidity: wheel stand vs 8020](/racing/cockpit-rigidity-wheel-stand-vs-8020-2026), line it up against the [2026 wheelbase ranking](/racing/best-sim-racing-wheelbases-2026), and if you're still deciding whether direct drive is even your move, start with [do you actually need direct drive](/racing/direct-drive-2026-do-you-need-it). The flashiest base on a flexing desk is a fast car with flat tires.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, current rig buyer's guides and manufacturer specs rather than repeating box claims.
 
 Official pages: [Next Level Racing Wheel Stand 2.0 (~$279, folding, Logitech/Thrustmaster/Fanatec)](https://nextlevelracing.com/products/racing-wheel-stand-2-0/), [Next Level Racing GT Track cockpit](https://nextlevelracing.com/products/gttrack-cockpit/), [Sim-Lab P1-X Pro](https://sim-lab.eu/product/p1-x-sim-racing-cockpit/), [Trak Racer TR80](https://www.trakracer.com/products/tr80-mach-5-black-80-20-aluminium-cockpit), [GT Omega Apex](https://www.gtomega.com/products/apex-racing-cockpit).

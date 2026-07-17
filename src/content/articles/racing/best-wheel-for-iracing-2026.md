@@ -221,8 +221,7 @@ If you're on a recent belt wheel and racing the lower splits casually, you don't
 
 For 2026, the best wheel for iRacing for the overwhelming majority of drivers is the **[MOZA R12](/racing/gear/moza-r12) (~$429, 12Nm)** paired with a round GT-style rim that has rotary encoders — practical-ceiling torque, the best software around, and an upgrade ladder you won't outgrow for years. Want to spend less? The **[R9](/racing/gear/moza-r9) (~$429)** or a **Simagic Alpha Evo Sport (~$399)** give up almost nothing for iRacing. Also game on console? The **[Fanatec GT DD Pro](/racing/gear/fanatec-gt-dd-pro)** is your lane. Whichever you choose, don't chase 21Nm — iRacing never asks for it, and your lap times never will either. Buy the sweet spot, buy the right rim, run native 360Hz FFB, and spend the difference on a brake. Curious how the brands stack as a long-term commitment? Our [2026 wheelbase ranking](/racing/best-sim-racing-wheelbases-2026) frames it as the five-year decision it really is.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, current iRacing FFB documentation, and community/review reads rather than repeating box specs.
 
 Official + technical: [MOZA R12](https://mozaracing.com/products/r12-wheelbase), [MOZA FFB settings for iRacing (R5-R21)](https://mozaracing.com/blogs/blog/moza-ffb-settings-for-iracing-r5-r9-r12-r16-and-r21), [MOZA iRacing support](https://support.mozaracing.com/en/support/solutions/articles/70000628472-iracing), [irFFB (GitHub)](https://github.com/nlp80/irFFB).

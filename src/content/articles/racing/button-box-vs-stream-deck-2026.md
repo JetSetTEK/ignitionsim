@@ -163,8 +163,7 @@ Sprint-only GT and formula drivers whose wheel still has spare inputs. VR driver
 
 ![Button box vs Stream Deck: the decision](/images/infographics/racing/button-box-vs-stream-deck-2026-vr-fork-decision.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current model lineups, prices and integration notes rather than repeating older box specs; button-box prices in this tier are small-shop and move often, so treat them as approximate and verify at purchase.
 
 Stream Deck lineup + sim-racing use: [SimRacingCockpit — Stream Deck for sim racing](https://simracingcockpit.gg/stream-deck-for-simracers/), [Apex Sim Racing — turn a Stream Deck into a Race Deck](https://www.apexsimracing.com/blogs/sim-racing-blog/turn-stream-deck-race-deck), [Engadget — Stream Deck + XL announcement](https://www.engadget.com/computing/elgatos-stream-deck--xl-adds-a-touch-strip-and-dials-to-an-already-massive-array-of-buttons-195200129.html).

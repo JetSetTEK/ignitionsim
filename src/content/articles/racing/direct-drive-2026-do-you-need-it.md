@@ -302,8 +302,7 @@ For everyone else — anyone who races leagues, chases consistency, or just want
 
 In 2026 the question is no longer *whether* to go direct drive — belt and gear wheels have collapsed into sub-$300 toy territory and the entry to real DD starts around $300, in the same band as a good belt wheel. The question is *how much torque*, and the honest answer is less than the box wants you to buy. Start at 5-8Nm if money is tight, land at 9-15Nm if you can, and treat anything above that as a luxury you're choosing, not a need you're filling. Spend the torque you saved on pedals and a rig that doesn't flex. That's the setup you won't be itching to replace in twelve months.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail pricing rather than repeating box specs. Prices move with sales — treat figures as street-price ballparks and confirm current pricing before buying.
 
 Official pages: [MOZA R12 V2 (12Nm, 21-bit, NexGen 4.0)](https://mozaracing.com/products/r12-wheelbase), [MOZA R5 bundle (5.5Nm)](https://us.mozaracing.com/products/r5-racing-bundle), [MOZA R3 Xbox bundle (3.9Nm)](https://us.mozaracing.com/products/r3-racing-bundle-pc), [Cammus C5 (integrated 5Nm)](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/).

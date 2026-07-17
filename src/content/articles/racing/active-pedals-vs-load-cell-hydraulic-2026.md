@@ -229,8 +229,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked Simucube ActivePedal Pro specifications, MOZA mBooster official specs and pricing, Boosted Media active-pedal reviews, Heusinkveld Sprint official specs, MOZA CRP2 manual/spec references, Asetek Invicta manual details, Simagic P2000 official/retailer specs, Sim Racing Cockpit pedal coverage, and current r/simracing owner discussions about active pedals, hydraulics, and load cells.
 
 Useful source shelf: [Simucube ActivePedal Pro specs](https://docs.simucube.com/ActivePedalPro/Specifications.html), [Simucube ActivePedal store](https://simucube.com/en-us/simucubeactivepedal/), [MOZA mBooster official](https://us.mozaracing.com/products/mbooster-active-pedal), [Boosted Media mBooster review](https://boostedmedia.net/sim-racing/hardware-reviews/moza/moza-racing-mbooster-active-pedal-detailed-review/), [Boosted Media Simucube ActivePedal review](https://boostedmedia.net/sim-racing/hardware-reviews/simucube-activepedal-detailed-review/), [Heusinkveld Sprint official](https://heusinkveld.com/shop/sprint-pedals/sprint-3-pedal-set/), [Sim Racing Cockpit pedal guide](https://simracingcockpit.gg/sim-racing-pedals/), [r/simracing active pedal discussion](https://www.reddit.com/r/simracing/comments/1sfgj10/are_active_pedals_worth_it_or_is_it_beter_to_go/), [r/simracing hydraulic discussion](https://www.reddit.com/r/simracing/comments/1rw8bpr/are_hydraulic_load_cell_pedals_worth_it/).

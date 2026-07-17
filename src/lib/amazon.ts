@@ -1,5 +1,8 @@
+import amazonProducts from '../data/amazon-products.json';
+
 const ASIN_RE = /\/(?:dp|gp\/product)\/([A-Z0-9]{10})(?:[/?#]|$)/i;
 const PLAIN_ASIN_RE = /^[A-Z0-9]{10}$/i;
+const registry = amazonProducts as Record<string, { asin: string }>;
 
 export function extractAmazonAsin(value?: string | null) {
   if (!value) return '';
@@ -10,10 +13,17 @@ export function extractAmazonAsin(value?: string | null) {
 }
 
 export function canonicalAmazonProductUrl(
-  product: { amazonAsin?: string; affiliateUrl?: string },
+  product: { id?: string; amazonAsin?: string; affiliateUrl?: string; buyUrl?: string },
   tag = 'ignitionsim-20',
 ) {
-  const asin = extractAmazonAsin(product.amazonAsin) || extractAmazonAsin(product.affiliateUrl);
+  const asin = extractAmazonAsin(product.amazonAsin)
+    || extractAmazonAsin(product.affiliateUrl)
+    || extractAmazonAsin(product.buyUrl)
+    || (product.id ? registry[product.id]?.asin : '');
   const host = 'https://' + 'www.amazon.com';
   return asin ? `${host}/dp/${asin}?tag=${tag}` : '';
+}
+
+export function hasVerifiedAmazonProduct(product: { id?: string; amazonAsin?: string; affiliateUrl?: string; buyUrl?: string }) {
+  return Boolean(canonicalAmazonProductUrl(product));
 }

@@ -235,8 +235,7 @@ Honest-broker note: if you're a casual GT cruiser who races occasionally and doe
 
 If you take one thing from this bay, take this: when you have a dollar to spend on going faster, spend it on the brake before the base. A load-cell pedal set under $300 will do more for your consistency than jumping from 8Nm to 16Nm ever will, and it carries across every future base you own. Set it up to pressure, not travel, bolt it down hard, calibrate the 100% point to a force you can actually repeat, and give your leg time to relearn. Save hydraulic and active pedals for the day you've genuinely run out of more impactful upgrades — for almost everyone, that day never comes. Power is loud. Pedals are fast.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail pricing rather than repeating box specs.
 
 Official pages: [MOZA CRP2 pedals](https://mozaracing.com/products/crp2-pedals), [MOZA SR-P pedals](https://mozaracing.com/products/srp-pedals), [Fanatec CSL Pedals Load Cell Kit](https://www.fanatec.com/us/en/p/sim-racing-accessories/csl_p_lck/csl-pedals-load-cell-kit), [Simagic P2000-R](https://simagic.com/products/p2000-r), [Asetek Invicta pedals](https://www.asetek.com/simsports/us/product/invicta-s-series-thorp-2/), [Simucube ActivePedal Pro](https://simucube.com/en-us/activepedal-pro/).

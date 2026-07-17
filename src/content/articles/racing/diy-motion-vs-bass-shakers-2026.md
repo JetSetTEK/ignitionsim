@@ -4,6 +4,9 @@ description: "A practical comparison of tactile feedback, pedal haptics, seat sh
 bay: "racing"
 type: "diy"
 primaryKeyword: "bass shakers vs motion sim rig"
+products:
+  - "Dayton Audio BST-1 High Power Pro Tactile Bass Shaker (50W)"
+  - "Next Level Racing Motion Platform V3"
 author: "Duke Alvarez"
 publishDate: 2026-07-01
 heroImage: "/images/gear/racing/buttkicker-gamer-pro.jpg"

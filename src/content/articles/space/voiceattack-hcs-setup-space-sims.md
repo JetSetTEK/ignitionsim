@@ -137,8 +137,7 @@ If you have a small, comfortable bind list — you fly a gamepad, a single stick
 
 **VoiceAttack is the cheapest meaningful upgrade in the space-sim hobby** — about $10 for an input pool that never runs out, ideal for the housekeeping commands that clog your stick. Buy it, train the recognizer, start with five commands, and use a real mic; on an NVIDIA GPU, WhisperAttack is the accuracy fix if Windows recognition still stumbles. The **HCS voice packs** (~£10-23) are a lovely optional layer if you want the talking-copilot fantasy, but they're flavor, not function. And if fiddling with config isn't your idea of fun, a [labeled hardware panel](/space/gear/elgato-stream-deck-xl) solves the same bind-overflow problem with none of the mic drama. For anyone drowning in Star Citizen 4.x's bind list, your voice is the last free button — and it's a big one.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community consensus rather than repeating box copy, and we quote prices as approximate because HCS runs frequent sales and GBP-to-USD conversion swings week to week.
 
 Official pages: [VoiceAttack](https://voiceattack.com/), [VoiceAttack purchase / v2 pricing](https://voiceattack.com/purchase.aspx), [HCS Voice Packs — Star Citizen collection](https://www.hcsvoicepacks.com/collections/star-citizen), [HCS ASTRA 2 Remastered (Star Citizen)](https://www.hcsvoicepacks.com/products/astra-2-remastered-star-citizen), [Elgato Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl).

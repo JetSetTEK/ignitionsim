@@ -4,6 +4,9 @@ description: "The best sim racing monitors of 2026 — triple screens vs super-u
 bay: "racing"
 type: "buying-guide"
 primaryKeyword: "best sim racing monitors 2026"
+products:
+  - "Samsung Odyssey OLED G9 49"
+  - "Samsung Odyssey Neo G9 57"
 author: "Duke Alvarez"
 publishDate: 2026-07-03
 updatedDate: 2026-07-03
@@ -217,8 +220,7 @@ If you race **endurance or organized league events** where knowing exactly where
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs.
 
 Official pages: [Samsung Odyssey OLED G9 49" (G95SC)](https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-oled-g9-g95sc-dqhd-240hz-03ms-g-sync-sku-ls49cg954snxza/), [Samsung Odyssey Neo G9 57" (G95NC)](https://www.samsung.com/us/monitors/gaming/57-inch-odyssey-neo-g9-dual-4k-uhd-quantum-mini-led-240hz-1ms-hdr-1000-curved-gaming-monitor-sku-ls57cg952nnxza/), [Next Level Racing Free Standing Triple Monitor Stand](https://nextlevelracing.com/products/next-level-racing-free-standing-triple-monitor-stand/), [ASUS TUF Gaming VG27AQ tech specs](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq/techspec/).

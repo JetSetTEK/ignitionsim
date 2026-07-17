@@ -105,7 +105,7 @@ The rock-bottom entry point, and the answer for a console flyer who wants brakes
 
 No verified studio photo is on file for the TFRP, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox. [View the exact TFRP on Amazon](https://www.amazon.com/dp/B015PII6YI?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 ## Low-profile, no brakes — VKB T-Rudder Mk.V (~$199)
 
@@ -153,7 +153,7 @@ The long-standing enthusiast standard for pilots who want top-tier feel without 
 
 No verified studio photo is on file for the Crosswind V3, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper, sold direct from [mfg-sim.com](https://mfg-sim.com/rudders/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper. It has no exact verified Amazon listing, so we show no purchase CTA; [MFG's official specifications](https://mfg-sim.com/rudders/) remain evidence only.
 
 <div class="callout forum">
 
@@ -168,7 +168,7 @@ New for 2026 and aimed squarely at airliner simmers. The **WinCTRL Orion 32** (f
 
 No verified studio photo is on file for the Orion 32, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper), sold direct from [winctrl.com](https://winctrl.com/view/goods-details.html?id=1845), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper). It has no exact verified Amazon listing, so we show no purchase CTA; [WinCTRL's technical page](https://winctrl.com/view/goods-details.html?id=1845) remains evidence only.
 
 ## Console — Turtle Beach VelocityOne Rudder Pedals (~$300)
 
@@ -196,7 +196,7 @@ The aspirational set. The **Thrustmaster TPR** uses the exclusive PENDUL_R suspe
 
 No verified studio photo is on file for the TPR, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official. [View the exact TPR on Amazon](https://www.amazon.com/dp/B07DQY8LVC?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 ## Incoming, now shipping — WinCTRL force-feedback pedals (~$500-800)
 
@@ -204,7 +204,7 @@ The big change since our last update: **force-feedback rudder pedals moved from 
 
 No verified studio photo is on file for the WinCTRL FFB pedals, and they have no gear page in our catalog yet, so they are text-and-link only:
 
-- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026, sold direct from [winctrl.com](https://winctrl.com/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026. There is no exact verified Amazon listing, so we show no purchase CTA; WinCTRL availability is documented in the research receipts.
 
 ## The 2026 rudder-pedal shortlist
 
@@ -214,9 +214,9 @@ No verified studio photo is on file for the WinCTRL FFB pedals, and they have no
 | [Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals) | ~$180 | Sliding | Yes | **Best budget all-rounder** |
 | [VKB T-Rudder Mk.V](/flight/gear/vkb-t-rudder-mk4) | ~$199 | Low-profile heel-pivot | No | **Durable, no-brake** · combat/warbird |
 | [Honeycomb Charlie](/flight/gear/honeycomb-charlie-pedals) | ~$270-350 | Aluminum belt-drive | Yes (Hall-effect) | **Best matched GA deck** |
-| [WinCTRL Orion 32](https://winctrl.com/view/goods-details.html?id=1845) | ~$300-373 | Heel-pivot metal | Yes (Hall-effect) | Best airliner heel-pivot |
+| WinCTRL Orion 32 | ~$300-373 | Heel-pivot metal | Yes (Hall-effect) | Best airliner heel-pivot |
 | [Turtle Beach VelocityOne](/flight/gear/turtle-beach-velocityone-rudder-pedals) | ~$300 | Pendular | Yes | **Best Xbox + PC** · check current |
-| [MFG Crosswind V3](https://mfg-sim.com/rudders/) | ~$335 | Modular Hall-effect | Yes | Enthusiast precision standard |
+| MFG Crosswind V3 | ~$335 | Modular Hall-effect | Yes | Enthusiast precision standard |
 | Thrustmaster TPR | ~$600 | Pendular | Yes | **Best pendular feel** |
 | [WinCTRL EB195 FFB](https://winctrl.com/) | ~$500 | Force feedback | Check current | Active yaw feel, entry FFB |
 | [WinCTRL EB590 FFB](https://winctrl.com/) | ~$800 | Force feedback | Check current | Force-feedback flagship |
@@ -278,8 +278,7 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
 
 Pick your pedals by mechanism and timing, not by brand prestige. For most pilots making their first pedal purchase, the **Logitech G Flight Rudder Pedals** at around $180 with toe brakes are the right call — they cover the flying that actually pushed you to buy pedals. Step up to the **Honeycomb Charlie** if you are building a matched GA deck, the **MFG Crosswind V3** if you want the enthusiast Hall-effect standard, or the pendular **Thrustmaster TPR** if feel is everything and budget is no object. Combat and warbird flyers should take the no-brake **VKB T-Rudder Mk.V**; Xbox flyers take the **Turtle Beach VelocityOne**. And keep one eye on the **WinCTRL** force-feedback pedals now shipping in 2026 before you splurge on a passive premium set. Most of all: do not buy any of them until a crosswind, a taildragger, or a sloppy flare tells you it is time. To slot pedals into a complete build at the right stage, see [the full flight hardware buy order](/flight/best-flight-sim-hardware-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent, region-dependent, or newly shifted, we flagged "check current."
 
 Official pages: [Logitech G Flight Simulator Rudder Pedals](https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals) ($179.99, toe brakes, self-centering, adjustable damping), [Thrustmaster TFRP T.Flight Rudder Pedals](https://www.thrustmaster.com/en-us/products/t-flight-rudder-pedals/) ($129.99, S.M.A.R.T. sliding rails, differential brakes, PC/PS4/Xbox), [Thrustmaster TPR Pendular Rudder](https://www.thrustmaster.com/en-us/products/tpr-thrustmaster-pendular-rudder/) ($599.99, PENDUL_R, H.E.A.R.T 16-bit, metal toe brakes, PC), [VKB T-Rudders Mk.V (US)](https://vkbsimcontrollers.com/products/t-rudders-mk-v-rudder-pedals-us) ($199, all-metal, contactless MaRS sensor, no toe brakes), [MFG Crosswind V3](https://mfg-sim.com/rudders/mfg-crosswind-v3-combat-rudder-pedals.html) (Hall sensors, swappable footrests, base ~€260, optional damper ~€45.60), [WinCTRL Orion 32 Rudder Pedals Metal (with damper)](https://winctrl.com/view/goods-details.html?id=1845) (heel-pivot, all-Hall-effect, toe brakes, 3 modes).

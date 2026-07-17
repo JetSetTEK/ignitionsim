@@ -4,6 +4,8 @@ description: "Premium overhead golf launch monitor guide for 2026: Foresight Fal
 bay: "golf"
 type: "comparison"
 primaryKeyword: "best overhead golf launch monitor 2026"
+products:
+  - "Uneekor EYE MINI CORE"
 author: "Nina Brooks"
 publishDate: "2026-07-08"
 updatedDate: "2026-07-08"

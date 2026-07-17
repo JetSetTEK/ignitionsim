@@ -158,8 +158,7 @@ If your controls already feel natural — the airplane goes where you point it w
 
 A twitchy flight sim is a **software problem you fix with a curve, not a hardware fault you fix with your credit card.** The recipe is short: **soften the Sensitivity curve on pitch and roll** (start around -15% and go softer for nervous aircraft; ~-30% is Fenix's A320 number), **keep dead zones near zero** unless an axis drifts at rest, **calibrate the physical range first**, and **save per-aircraft profiles** so your twitchy aircraft and your stable airliners each get the curve they want. Because MSFS 2024 reworked the old Reactivity slider, tune the sliders your build actually shows rather than trusting a fixed name. Do that and the yoke you were about to return will fly like the one in the reviews. The only genuine hardware culprit is drift on worn potentiometers — and even then, the curve is where you start.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current MSFS 2024 controller guidance, aircraft-developer recommendations, and community threads rather than repeating one fixed setting name; where a slider name or number was build- or aircraft-dependent, we flagged "check current."
 
 Settings + how-to reads: [MSFS 2024 controls feel too sensitive (Flight Simulation Showcase)](https://flightsimulationshowcase.com/msfs-2024-controls/), [How to configure your controllers in MSFS 2024 (MSFS Addons)](https://msfsaddons.com/2024/11/27/how-to-configure-your-controllers-in-microsoft-flight-simulator-2024/), [Adjusting sensitivity & dead zone in MSFS (Yawman Flight docs)](https://yawmanflight.com/a/docs/getting-started/adjusting-sensitivity-dead-zone-in-msfs), [Axis curves and sensitivity MSFS 2024 (MSFS Forums)](https://forums.flightsimulator.com/t/axis-curves-and-sensitivity-msfs-2024/668062).

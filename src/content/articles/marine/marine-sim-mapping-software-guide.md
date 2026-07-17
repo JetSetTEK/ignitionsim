@@ -119,10 +119,9 @@ If you play a sim with real native axis support, or you are happy on keyboard an
 
 Mapping software is the unglamorous, essential layer that makes the entire repurposed-hardware niche viable. **Start free with AntiMicroX**, always set a deadzone, turn the game's controller setting off, and only escalate to the vJoy decoy when multiple devices collide. Spend on reWASD only if the free tools frustrate you — and go in knowing it is a €35+ purchase in 2026, not the bargain it once was. It will never be true analog on a game that does not support it. But it turns a dead throttle lever into a working engine telegraph, and on a market this thin, that is the whole difference between a rig you use and a rig that gathers dust.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Prices and licensing models change fast for these tools, so each figure below was verified against the tool's own page or store this week rather than repeated from older guides.
 
-Tool pages + pricing: [AntiMicroX (GitHub, GPL open source)](https://github.com/AntiMicroX/antimicrox), [JoyToKey purchase page ($7.50, free trial)](https://joytokey.net/en/purchase), [reWASD 2026 licensing / Lifetime plans](https://www.rewasd.com/blog/post/membership-upgrade), [vJoy (SourceForge)](https://sourceforge.net/projects/vjoystick/).
+Tool pages + licensing evidence: [AntiMicroX (GitHub, GPL open source)](https://github.com/AntiMicroX/antimicrox), [JoyToKey licensing terms ($7.50, free trial)](https://joytokey.net/en/purchase), [reWASD 2026 licensing / Lifetime plans](https://www.rewasd.com/blog/post/membership-upgrade), [vJoy (SourceForge)](https://sourceforge.net/projects/vjoystick/).
 
 Sim controller-support references (community-reported, paraphrased in our voice): [eSail — how to map controller axis (Steam)](https://steamcommunity.com/app/794860/discussions/0/1769259642858804643/), [eSail hardware tips guide (Steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=1410493788), [Ships At Sea — wheel and joystick support thread (Steam)](https://steamcommunity.com/app/1266540/discussions/0/4337609541991526037/), [Seafarer — steering wheel / joystick support thread (Steam)](https://steamcommunity.com/app/2582140/discussions/0/599665349675389035/).

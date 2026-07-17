@@ -234,8 +234,7 @@ The hardware differences are smaller than the software differences. Here is how 
 
 For the typical serious home player, the **SkyTrak+ (or ST MAX)** is the right buy in this tier: strong ball data, an included range, and — decisively — no annual subscription quietly compounding for years. Just confirm the third-party connector situation before you count on GSPro or E6 on a brand-new unit. Choose the **Bushnell Launch Pro** if you want the Foresight sensor's ball-data pedigree and you have made peace with the subscription stack or the one-time club-data unlock. Choose the **Foresight GC3** only if club-fitting-grade data is a real need — and if it is, the lifetime-software, no-recurring-fee structure makes the ~$6,999 easier to swallow than it looks. The technology is the easy part; the *ownership cost over three years* is the decision. Run your build through the [full cost breakdown](/golf/golf-simulator-cost) before you spend.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked hands-on reviews and official/retailer subscription documentation for all three units. Prices move constantly in this category, so treat every figure as "verify current at checkout."
 
 - SkyTrak ST MAX vs SkyTrak+ pricing and feature differences — [PlayBetter ST MAX vs SkyTrak+](https://www.playbetter.com/blogs/golf-simulator-comparisons/skytrak-plus-vs-skytrak-st-max), [PlayBetter ST MAX review](https://www.playbetter.com/blogs/golf-simulator-reviews/skytrak-st-max-review), [Shop Indoor Golf ST MAX review](https://shopindoorgolf.com/blogs/helpful-articles-videos/skytrak-st-max-review-whats-actually-new)

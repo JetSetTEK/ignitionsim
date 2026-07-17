@@ -4,6 +4,9 @@ description: "VKB STECS Mk II vs Virpil VMAX Prime vs WINCTRL Orion2 F-15EX prem
 bay: "flight"
 type: "comparison"
 primaryKeyword: "VKB STECS vs Virpil VMAX Prime vs WINCTRL Orion2"
+products:
+  - "Honeycomb Aeronautical Bravo Throttle Quadrant"
+  - "Thrustmaster HOTAS Warthog"
 author: "Val Chen"
 publishDate: "2026-07-15"
 updatedDate: "2026-07-15"

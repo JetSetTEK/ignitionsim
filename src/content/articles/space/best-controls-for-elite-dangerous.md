@@ -258,8 +258,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
 
 The **best controls for Elite Dangerous in 2026** depend on your loop, and Elite is the rare space sim where that answer really flips. Fight or fly FA-off and you want **HOSAS** — twin T.16000M to start at ~$120, a VKB Gladiator pair to commit. Explore or trade and a **HOTAS** with a real throttle is more comfortable for the long haul, and Elite's flight model rewards the lever. On **Xbox**, take the licensed VelocityOne and don't overthink it. And whatever you fly, the **Operations** update means you should keep a **gamepad on the desk** for the on-foot fights — on its own control profile. Match the tool to the mission, mount your sticks, tame the binds, and Elite rewards you for it.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, Frontier's Operations coverage, and current community consensus rather than repeating box specs, and we quote street prices as approximate because stock and pricing swing week to week. Where a source conflicted or stock was uncertain, we flagged it in-text as "check current" rather than guessing.
 
 Official + game sources: [Elite Dangerous — Operations](https://www.elitedangerous.com/news/update-operations), [Operations (Elite Dangerous Wiki)](https://elite-dangerous.fandom.com/wiki/Operations), [Elite Dangerous: Operations update details (Simulation Daily)](https://simulationdaily.com/news/elite-dangerous-operations-update/), [Massively OP — Operations "raid-like" instances](https://massivelyop.com/2026/01/11/elite-dangerous-drops-preliminary-details-about-its-raid-like-multiplayer-operations-instances/).

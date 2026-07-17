@@ -402,8 +402,7 @@ We only attach an Amazon button when the ASIN resolves to the exact product. Sky
 
 For a lower-cost enclosure path, the [GoSports Golf Simulator Enclosure](https://www.amazon.com/dp/B0FT4WC37N?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-product="GoSports Golf Simulator Enclosure"} was also verified to an exact product page. Measure the selected size, full swing, side-net reach, and projector geometry before ordering; the enclosure does not solve room fit by itself.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. We checked official pages, setup instructions, exact Amazon ASINs, current 2026 pricing and specs, and cross-referenced community build-cost and installation patterns.
 
 - [Garmin Approach R10 official](https://www.garmin.com/en-US/p/695391/) — R10 spec and current pricing (~$500).

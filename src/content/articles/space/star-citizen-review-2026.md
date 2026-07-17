@@ -4,6 +4,9 @@ description: "A Star Citizen 2026 sim-builder review focused on HOSAS, HOTAS, de
 bay: space
 type: buying-guide
 primaryKeyword: "Star Citizen review 2026 HOSAS"
+products:
+  - "Thrustmaster SOL-R 2 HOSAS Space Sim Duo"
+  - "Elgato Stream Deck XL"
 author: "Val Chen"
 publishDate: 2026-07-08
 updatedDate: 2026-07-08

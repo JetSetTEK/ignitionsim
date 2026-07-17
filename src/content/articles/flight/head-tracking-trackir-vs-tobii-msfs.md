@@ -170,8 +170,7 @@ Whichever you pick, head tracking is the rare upgrade that costs less than a goo
 
 ![Which head tracker: the buy order](/images/infographics/flight/head-tracking-trackir-vs-tobii-msfs-clip-vs-clipfree-decision.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current 2026 pricing rather than repeating box specs, and paraphrased community reports in our own voice.
 
 Official + retail pages: [NaturalPoint TrackIR 5](https://www.naturalpoint.com/trackir/trackir5/), [TrackIR 5 with TrackClip PRO (Amazon)](https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20), [Tobii Eye Tracker 5 official](https://gaming.tobii.com/product/eye-tracker-5/), [Tobii Eye Tracker 5 (Amazon)](https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20), [Tobii + MSFS 2024 support](https://gaming.tobii.com/games/microsoft-flight-simulator-2024/).

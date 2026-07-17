@@ -37,7 +37,7 @@ related:
 
 Verdict first: **GSPro is worth the $250 a year if you own a Windows gaming PC and a launch monitor on its compatibility list — and getting it running is one subscription, one connection path, and one wireless-link decision, not the weekend most people fear.** GSPro connects to a wider range of launch monitors than any rival, its community has scanned 2,500-plus real and fantasy courses that download for free, and the visuals punch well above the price. It is also where more first-time builds stall than anywhere else, because "connect your launch monitor to GSPro" hides three different connection paths, a subscription you might not have budgeted, and a Bluetooth reliability problem that masquerades as a software bug.
 
-So here is what you actually need and the setup that works, in order. Every number below is attributed to GSPro's own published requirements or a named source in the [Sources Checked](#sources-checked) shelf — where 2026 details are still moving (community connectors especially), I flag it.
+So here is what you actually need and the setup that works, in order. Every number below is attributed to GSPro's own published requirements or a named source in the [research receipts](#research-receipts-evidence-not-shopping-links) shelf — where 2026 details are still moving (community connectors especially), I flag it.
 
 ## What you need before you subscribe
 
@@ -211,8 +211,7 @@ GSPro is the right default for the broadest set of launch monitors and the deepe
 
 ![GSPro: cost, PC bar, and the dropout fix](/images/infographics/golf/gspro-setup-guide-courses-connectors-gspro-requirements-and-fixes.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked GSPro's official system-requirements and pricing pages, its supported-device (Connect/OpenAPI) list and course-server documentation, retailer subscription listings, PlayBetter's GSPro compatibility guide, a 2026 SkyTrak-to-GSPro OpenSkyPlus 2 walkthrough, and Garmin R10/R50 GSPro connector coverage. Every price, spec, and compatibility claim is attributed below; community connectors (OpenSkyPlus 2, MLM2PRO connector) are third-party projects whose status can change, so verify current builds before relying on them.
 
 Official + pricing: [GSPro official site (system requirements, subscription, supported devices, course server)](https://gsprogolf.com/), [GSPro change log](https://gsprogolf.com/change-log.html), [Foresight Sports GSPro 1-year subscription](https://www.foresightsports.com/products/gspro-1-year-subscription), [Shop Indoor Golf GSPro subscription](https://shopindoorgolf.com/products/gspro-software), [Carl's Place GSPro software](https://shop.carlofet.com/gspro-golf-simulator-software).

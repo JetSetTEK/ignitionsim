@@ -218,8 +218,7 @@ Match the config to your game and your hands, not to dogma. If you fly **Star Ci
 
 Whichever way you lean, start cheap: twin [T.16000Ms](/space/gear/thrustmaster-t16000m-fcs) for a first HOSAS, learn the left-hand thrusters, mount both sticks, and only chase boutique gimbals once you know you want them. Once you've picked your layout, the next job is wiring six axes across the grips without running out of inputs — which is exactly what [binding all six axes across a HOSAS setup](/space/how-to-bind-six-axes-hosas) is for.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community consensus rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO Space Combat Edition](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [VKB Gladiator NXT EVO Omni-Throttle](https://www.vkbcontrollers.com/), [VKB Gunfighter Mk.IV base](https://www.vkbcontrollers.com/), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/products/t-16000m-fcs/), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Turtle Beach VelocityOne Flightstick](https://www.turtlebeach.com/products/velocityone-flightstick), [WinWing US store](https://winwingsim.com/).

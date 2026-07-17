@@ -143,8 +143,7 @@ For 2026, the best sailing sim setup is **eSail V3 to learn, Sailaway III to roa
 
 ![Which sailing sim?](/images/infographics/marine/best-sailing-sim-setup-2026-sailing-sim-picker.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official store and developer pages and current pricing/feature notes rather than repeating older box specs. Prices are approximate and move with sales.
 
 Official titles: [eSail Sailing Simulator (Steam)](https://store.steampowered.com/app/794860/eSail_Sailing_Simulator/), [eSail V3 launch notes (Virtual Sailing)](https://www.esailyachtsimulator.com/esail-sailing-simulator-v3-launched/), [Sailaway III (Steam)](https://store.steampowered.com/app/2631870/Sailaway_III/), [MarineVerse Sailing Club (Meta Store)](https://www.meta.com/experiences/marineverse-sailing-club/2465388190184288/), [MarineVerse Sailing Club overview](https://www.marineverse.com/marineverse-cup).

@@ -42,6 +42,7 @@ Read these before public content, curator, homepage, hub, card, image, or publis
 - **Never fabricate** price, stock, specs or compatibility. Prices are approximate and dated; mark "around $X" when unsure; render without missing fields. Catalog/research data only.
 - **Never scrape-and-republish** Reddit/forum content. Trend/inspiration signal only → original writing. (Research lives in `pipeline/research/<bay>.json`.)
 - FTC + affiliate-network disclosure on every page with product links (`/disclosure`, site-wide footer line in `src/data/site.json`).
+- Commerce is Amazon-only until Robert explicitly approves another affiliate relationship. Every purchase CTA and clickable product-name shopping link must be `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`. Never use Amazon search results, generic retailer pages, manufacturer stores, or specialist stores as shopping fallbacks. When an exact ASIN is unavailable, omit the purchase link; official/manual/forum/reviewer links may remain only as clearly labeled editorial evidence.
 - Accessibility: visible focus, `prefers-reduced-motion` honored (sliders/animations gated), alt text in site voice.
 
 ## Content model

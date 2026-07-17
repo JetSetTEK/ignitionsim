@@ -4,6 +4,10 @@ description: "The best golf simulator projectors for 2026, with throw-ratio math
 bay: "golf"
 type: "buying-guide"
 primaryKeyword: "best golf simulator projector 2026"
+products:
+  - "BenQ LK936ST"
+  - "BenQ AH700ST"
+  - "Optoma GT2100HDR"
 author: "Nina Brooks"
 publishDate: 2026-07-02
 updatedDate: 2026-07-02

@@ -223,8 +223,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and spec references for Samsung Odyssey G9/OLED G9, ASUS VG27AQ, Meta Quest 3 and Pimax Crystal Light, plus Sim Racing Cockpit/FOV resources, current r/simracing display threads, and VR/triple-monitor owner discussions focused on comfort, GPU load, and endurance use.
 
 Useful source shelf: [Samsung Odyssey OLED G9](https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-oled-g9-g95sd-dual-qhd-240hz-03ms-g-sync-sku-ls49dg956snxgo/), [ASUS VG27AQ official](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq/), [Meta Quest 3 official](https://www.meta.com/quest/quest-3/), [Pimax Crystal Light official](https://pimax.com/products/pimax-crystal-light), [r/simracing triples vs ultrawide](https://www.reddit.com/r/simracing/comments/1q3tdp5/triple_monitors_or_just_one_ultrawide/), [r/simracing VR or triples owner thread](https://www.reddit.com/r/simracing/comments/1qb52v8/vr_or_triple_monitor_setup_asking_those_who_tried/), [r/simracing triples vs 48:9](https://www.reddit.com/r/simracing/comments/1txg988/would_you_rather_have_triples_or_a_489_monitor/), [Sim Racing Cockpit FOV guide](https://simracingcockpit.gg/fov/).

@@ -247,8 +247,7 @@ Honest-broker note: if you're a casual player who races a few hours a month, **s
 
 The smart upgrade path is almost the reverse of most people's instinct. Buy the cheapest real DD bundle to get on track, pick your ecosystem deliberately, then upgrade in this order: **pedals, rig, base, taste.** Resist the urge to chase torque first, it's the one move that costs the most and helps the least, and two-thirds of the community will tell you the same thing. Map your own staged budget in [the Rig Configurator](/racing/configurator), and you'll arrive at a forever rig having bought each piece exactly once.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing rather than repeating box specs; where a live sale price was moving, we say "check current" instead of quoting a hard figure.
 
 Official pages: [MOZA R12 V2](https://us.mozaracing.com/products/r12-wheelbase), [MOZA R3 Xbox bundle](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA CRP2 pedals](https://mozaracing.com/products/crp2-pedals), [Trak Racer TR80S](https://trakracer.com/products/tr80s-racing-simulator), [Sim-Lab P1-X Pro](https://sim-lab.us/products/p1x-pro-simracing-cockpit), [ButtKicker Gamer PRO](https://thebuttkicker.com/products/buttkicker-gamer-pro), [Cammus C5](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/).

@@ -119,7 +119,7 @@ If helicopters are your *main* sim, dedicated gear exists. Makers like **Komodo 
 
 The dedicated collective is text-and-link only below — we don't have a verified studio photo of the exact Komodo unit, and its price and lead time move because each is hand-built to order. Komodo publicly dropped prices on its cyclic grips and collectives (a roughly £200 reduction), so confirm the current figure on their store before you buy.
 
-- **[Komodo Simulations Helicopter Collective](/flight/gear/komodo-simulations-collective)** — hand-built UK weighted lever with twist-grip throttle, Bell 206-style, plug-and-play USB, **check current price** (approx. £350+ after the price drop), [official store](https://komodosimulations.co.uk/){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Komodo Simulations Helicopter Collective](/flight/gear/komodo-simulations-collective)** — hand-built UK weighted lever with twist-grip throttle, Bell 206-style, plug-and-play USB, **check current price** (approx. £350+ after the price drop). No exact verified Amazon listing, so no purchase CTA; the official technical material remains in the research receipts.
 
 ## The collective, up close: two verified options
 
@@ -170,9 +170,9 @@ Your feet never stop working in a helicopter, so pedals matter more here than an
 
 The budget and specialist pedals below are text-and-link only because we haven't verified their exact product photos:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry with differential toe brakes and an adjustable damping dial, ~$180, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **Thrustmaster TFRP Rudder** — the cheapest way to free your twist axis and get real pedals under your feet, **check current**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **[Thrustmaster TPR Pendular Rudder](/flight/best-flight-sim-rudder-pedals)** — pendular PENDUL_R motion, Hall-effect sensors, differential toe brakes, five pedal angles; the dedicated-tier choice, ~$599.99, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — budget entry with differential toe brakes and an adjustable damping dial, ~$180. No exact verified standalone Amazon listing, so no purchase CTA.
+- **Thrustmaster TFRP Rudder** — the cheapest way to free your twist axis and get real pedals under your feet. [View the exact TFRP on Amazon](https://www.amazon.com/dp/B015PII6YI?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
+- **[Thrustmaster TPR Pendular Rudder](/flight/best-flight-sim-rudder-pedals)** — pendular PENDUL_R motion, Hall-effect sensors, differential toe brakes, five pedal angles; the dedicated-tier choice, ~$599.99. [View the exact TPR on Amazon](https://www.amazon.com/dp/B07DQY8LVC?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 <div class="callout tip">
 
@@ -252,8 +252,7 @@ Skip dedicated helicopter hardware if you fly **mostly fixed-wing** and just wan
 
 For the vast majority of MSFS 2024 simmers who want to fly helicopters seriously, the budget-proper setup wins: a **Hall-effect stick** as the cyclic, a **throttle-quadrant lever** as the collective, and **dedicated rudder pedals**, for roughly $300-400. It flies the entire default MSFS 2024 helicopter roster — the Cabri G2, R66, Bell 407, H125 and more — correctly, and the pedals carry over to your fixed-wing flying too. Repurpose a HOTAS like the X56 if you want one tidy box, and reach for dedicated Komodo gear only when rotary flying is the whole point of your sim. Whatever you buy, do not cheap out on the pedals — in a helicopter, your feet never stop. If you're still deciding between stick types generally, the [best HOTAS breakdown](/flight/best-hotas-msfs-2024) covers the sticks that double as good cyclics.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing rather than repeating box specs; where a price was sale-dependent, hand-built to order, or not shown, we flagged "check current."
 
 Official pages and pricing reads: [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs/) (listed $79.99), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/products/tca-quadrant-add-on-airbus-edition/), [Thrustmaster TCA Sidestick Airbus](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TPR Pendular Rudder](https://eshop.thrustmaster.com/en_us/tpr-thrustmaster-pendular-rudder.html) (listed $599.99), [Logitech G X56 HOTAS](https://www.logitechg.com/en-us/shop/p/x56-space-flight-vr-simulator-controller) (listed $249.99), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [MOZA MTQ Throttle Quadrant](https://us.mozaracing.com/), [Turtle Beach VelocityOne Flight Stick](https://www.turtlebeach.com/), [Komodo Simulations](https://komodosimulations.co.uk/).

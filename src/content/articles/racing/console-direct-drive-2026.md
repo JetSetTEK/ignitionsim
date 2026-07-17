@@ -241,8 +241,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official pages for Logitech RS50, Logitech G PRO, Thrustmaster T598, MOZA R3 Xbox, Fanatec GT DD Pro, Fanatec ClubSport DD+, and Fanatec Xbox compatibility guidance, plus 2026 buyer coverage from PC Gamer, Traxion, The Verge, and current console compatibility forum discussions.
 
 Useful source shelf: [Logitech RS50 official](https://www.logitechg.com/en-us/shop/p/rs50-system), [Logitech G PRO official](https://www.logitechg.com/en-us/shop/p/pro-racing-wheel), [Thrustmaster T598 official](https://www.thrustmaster.com/en-us/products/t598/), [MOZA R3 Xbox official](https://mozaracing.com/products/r3-racing-bundle-xbox), [Fanatec GT DD Pro official](https://www.fanatec.com/us/en/p/sim-racing-bundles/crd-9020007-us/gran-turismo-dd-pro-5nm-qr2l-us), [Fanatec ClubSport DD+ official](https://www.fanatec.com/us/en/p/wheel-bases/cs_dd%2B_us/clubsport-dd-plus-us), [Fanatec Xbox compatibility](https://www.fanatec.com/us/en/explorer/products/racing-wheels-wheel-bases/understanding-fanatec-xbox-compatibility/), [PC Gamer RS50 coverage](https://www.pcgamer.com/hardware/steering-wheels/logitech-has-announced-an-affordable-8-nm-direct-drive-racing-wheel-setup-with-full-trueforce-support-along-with-some-fancy-trick-pedals-i-want-to-try-for-myself/), [The Verge T598 coverage](https://www.theverge.com/2024/10/11/24267818/thrustmaster-racing-sim-wheel-t598-sony-playstation-direct-axial-drive), [Traxion RS50 compatibility](https://traxion.gg/logitech-rs50-confirmed-as-8nm-direct-drive-pc-and-console-racing-wheel/).

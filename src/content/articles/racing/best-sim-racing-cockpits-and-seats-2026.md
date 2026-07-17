@@ -276,8 +276,7 @@ The rule of thumb: if you want comfort, long sessions and a friendlier price, a 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages: [Trak Racer TR160 V5](https://trakracer.com/products/tr160-v5), [Trak Racer TR80S](https://trakracer.com/products/tr80s-racing-simulator), [Next Level Racing GT Track](https://nextlevelracing.com/products/next-level-racing-gttrack/), [Next Level Racing GTLite](https://nextlevelracing.com/products/gt-lite/), [Next Level Racing Elite ES1 Seat](https://nextlevelracing.com/products/elite-es1-sim-racing-seat/), [GT Omega Apex Wheel Stand](https://www.gtomega.com/products/apex-steering-wheel-stand), [Sim-Lab P1X Pro](https://sim-lab.us/products/p1x-pro-simracing-cockpit).

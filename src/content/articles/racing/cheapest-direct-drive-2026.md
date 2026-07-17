@@ -210,8 +210,7 @@ If you're genuinely **testing whether sim racing sticks**, buy the floor, a Camm
 
 If you want the cheapest real direct drive that exists, buy the **Cammus C5** at ~$249-299 and enjoy 5Nm of genuine DD feel for less than a belt wheel cost in 2022. If you race on **Xbox** or want a clear upgrade ladder, the **MOZA R3** bundle is worth the slightly lower torque for the ecosystem it opens. On **PS5**, start with the **GT DD Pro** or **Thrustmaster T598**. But if you're on PC and you already suspect you're hooked, the smartest budget decision isn't the floor at all, it's stretching about $100 to the **MOZA R12** and never shopping for a base again. Whatever rung you pick, put your next ~$200 into load-cell pedals before a stronger base. That's the upgrade that makes you faster.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail/bundle pricing rather than repeating box specs. Bundle prices at the bottom of the market move with frequent sales, so treat figures as current-at-review and confirm before buying.
 
 Official pages: [MOZA R3 Xbox bundle](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA R5 bundle](https://mozaracing.com/products/r5-racing-bundle), [MOZA R12 V2](https://mozaracing.com/products/r12-wheelbase), [MOZA R9 V3](https://mozaracing.com/products/r9-wheelbase), [Cammus C5](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/), [Fanatec CSL DD QR2 (8 Nm)](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_us/csl-dd-qr2-ready2race-bundle-pc-8-nm-us), [Fanatec GT DD Pro (8 Nm) bundle](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_gt_dd_pvgt_8nm_us/gran-turismo-dd-pro-ready2race-vision-gt-bundle-8-nm-us), [Thrustmaster T598 (PlayStation / PC)](https://eshop.thrustmaster.com/en_us/t598-us-playstation-pc.html).

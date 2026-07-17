@@ -161,8 +161,7 @@ Stick with a physical or DIY rig if your interest is **ship handling** — trawl
 
 MarineVerse on Quest is not a *replacement* for a helm rig so much as a different sport played in the same bay. For sailing — the tiller, the sheet, the heel of the boat, and genuine NauticEd-backed training — VR is the most immersive and the least hardware-fussy option in the entire niche, and the headset cost is reusable across everything else you'd do in VR. The one hardware decision that matters is *which* headset: the Quest 3's clarity earns its price on the water, but the 3S sails fine for less. For ship handling, with its engine levers and charting screens, a physical or DIY rig still wins. Decide which sailor you are first; the right answer follows from that, not from the price tag.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Prices and specs were verified against manufacturer and store pages on that date; the MarineVerse app base price and Sailing Pass move with Quest-store promotions, so we flag those as "check current" rather than quoting a frozen figure.
 
 Headset pricing + specs: [Meta — An Update on Meta Quest Pricing (April 2026)](https://www.meta.com/blog/update-meta-quest-pricing/), [Meta Quest 3 vs. Quest 3S comparison](https://www.meta.com/quest/compare/), [Road to VR — Quest 3S vs Quest 3 specs compared](https://roadtovr.com/quest-3s-quest-3-quest-2-specs-compared/).

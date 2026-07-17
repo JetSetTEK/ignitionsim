@@ -223,8 +223,7 @@ Buy the **WinWing Ursa Minor Space** pair if you want the best feel-and-feedback
 
 Either way you're getting a legitimate magnetic-sensor HOSAS for well under $300 a pair, which a few years ago would have been impossible. For the full three-brand boutique breakdown including Virpil, see [VKB vs Virpil vs WinWing for space sims](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026), and price your exact pair-plus-mounts build in [the Rig Configurator](/racing/configurator) before you commit.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because near-boutique stock and pricing swing week to week. Confirm current price and handedness at checkout.
 
 Official pages: [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [VKB Gladiator NXT EVO Space Combat Edition — spec/pricing (FSC Europe)](https://flightsimcontrols.com/product/gladiator-evo-space-combat-edition/), [WinWing US store](https://winwingsim.com/), [WinWing URSA MINOR Space/Fighter HOSAS product page](https://winctrl.com/view/goods-details.html?id=725&sku_id=281).

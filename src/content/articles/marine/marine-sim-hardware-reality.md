@@ -266,8 +266,7 @@ Because marine gear is borrowed from racing and flight, the smartest way to plan
 
 Stop looking for the boat wheel. It does not exist, and chasing it is how people waste money in this bay. The honest setup is a repurposed racing wheel as a helm, a flight throttle quadrant as engine levers, and a folder of free mapping software to force unwilling sims to listen. For under $60 in parts you can do better still with a DIY build around a Leo Bodnar board — which, uniquely in this bay, is the closest thing to "native" marine hardware there is. The only thing you must do *before* spending a dollar is confirm your chosen sim reads analog axes, because in marine, the cheapest hardware that actually works beats the most expensive hardware the game refuses to read.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Because this bay has almost no marine-specific products, we verified each repurposed item against its manufacturer page and the DIY builds against the open-source sim they're designed for — rather than repeating box specs.
 
 Official product + maker pages: [Logitech G29 Driving Force](https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html), [Logitech G Saitek Pro Flight Throttle Quadrant](https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html), [Thrustmaster TWCS Throttle](https://www.thrustmaster.com/products/twcs-throttle/), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/products/t-16000m-fcs/), [RailDriver (P.I. Engineering)](https://raildriver.com/), [Meta Quest 3](https://www.meta.com/quest/quest-3/).

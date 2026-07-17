@@ -242,8 +242,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO joysticks](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html), [Virpil VPC Constellation ALPHA](https://virpil-controls.us.com/vpc-constellation-alpha-r.html), [WinWing US store](https://winwingsim.com/).

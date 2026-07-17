@@ -266,7 +266,7 @@ Also price the supporting room:
 - [SkyTrak ST MAX official product page](https://skytrakgolf.com/products/skytrak-st-max-launch-monitor)
 - [Breaking Eighty SkyTrak ST MAX review](https://breakingeighty.com/skytrak-st-max)
 - [Bushnell Launch Pro official product page](https://www.bushnellgolf.com/products/launch-monitors/launch-pro/)
-- [Bushnell Launch Pro software purchase page](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages)
+- [Bushnell Launch Pro software-package documentation](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages)
 - [Bushnell Launch Pro support and subscription FAQ](https://www.bushnellgolf.com/support/launch-pro-lpi)
 - [r/Golfsimulator premium launch monitor discussion](https://www.reddit.com/r/Golfsimulator/comments/1u4etwj/best_launch_monitor_under_5k/)
 

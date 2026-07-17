@@ -590,8 +590,7 @@ These links open the exact product page, not a search result. Match the platform
 
 The honest-broker note: **don't buy the Honeycomb Alpha if you mainly fly the A320.** A yoke is the wrong control for a side-stick airliner — the ~$80 TCA Sidestick will serve you better and cost a quarter as much. Likewise, don't buy the Warthog because it looks the most serious; if you fly civil GA, that metal A-10C HOTAS will sit there with no twist rudder while a $300 yoke does the actual job. Hold off on the MOZA FFB yoke if you're brand new — its software maturity, price and mounting demands make it an upgrade, not a starting point. And don't spend on rung five before rung one: head tracking on top of weak primary controls is money in the wrong place. Match the tool to the mission, and climb the ladder in order.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. We checked official product pages, manuals, support downloads, exact Amazon ASINs, current pricing, and 2026 community discussions rather than repeating box specs; where a price was sale-dependent or had moved off its long-standing figure, we flagged "check current."
 
 Official pages: [Honeycomb Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Thrustmaster TCA Sidestick Airbus](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/), [MOZA AY210 Yoke Bundle](https://us.mozaracing.com/products/ay210-ffb-yoke-bundle), [Tobii Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/), [WinWing PAP 3 (WinCTRL store)](https://winctrl.com/view/goods-details.html?id=945), [Logitech G PRO Flight Yoke System](https://www.logitechg.com/en-us/shop/p/flight-simulator-yoke-system).
@@ -676,7 +675,7 @@ The rock-bottom entry point, and the answer for a console flyer who wants brakes
 
 No verified studio photo is on file for the TFRP, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TFRP T.Flight Rudder Pedals** — sliding aluminum rails, differential brakes, ~$130 official, PC/PS4/Xbox. [View the exact TFRP on Amazon](https://www.amazon.com/dp/B015PII6YI?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 ## Low-profile, no brakes — VKB T-Rudder Mk.V (~$199)
 
@@ -724,7 +723,7 @@ The long-standing enthusiast standard for pilots who want top-tier feel without 
 
 No verified studio photo is on file for the Crosswind V3, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper, sold direct from [mfg-sim.com](https://mfg-sim.com/rudders/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MFG Crosswind V3** — hand-built Hall-effect pedals with swappable footrests and toe brakes, ~$335 with footrest (base ~€260), optional hydraulic damper. It has no exact verified Amazon listing, so we show no purchase CTA; [MFG's official specifications](https://mfg-sim.com/rudders/) remain evidence only.
 
 <div class="callout forum">
 
@@ -739,7 +738,7 @@ New for 2026 and aimed squarely at airliner simmers. The **WinCTRL Orion 32** (f
 
 No verified studio photo is on file for the Orion 32, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper), sold direct from [winctrl.com](https://winctrl.com/view/goods-details.html?id=1845), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL Orion 32 Rudder Pedals (Metal)** — heel-pivot airliner design, all-Hall-effect, toe brakes, 3 modes, ~$298.55 (metal) / ~$372.75 (with damper). It has no exact verified Amazon listing, so we show no purchase CTA; [WinCTRL's technical page](https://winctrl.com/view/goods-details.html?id=1845) remains evidence only.
 
 ## Console — Turtle Beach VelocityOne Rudder Pedals (~$300)
 
@@ -767,7 +766,7 @@ The aspirational set. The **Thrustmaster TPR** uses the exclusive PENDUL_R suspe
 
 No verified studio photo is on file for the TPR, and it has no gear page in our catalog yet, so it is text-and-link only:
 
-- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster TPR Pendular Rudder Pedals** — PENDUL_R pendular, H.E.A.R.T 16-bit Hall-effect, metal differential toe brakes, adjustable spring, PC only, ~$599.99 official. [View the exact TPR on Amazon](https://www.amazon.com/dp/B07DQY8LVC?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 ## Incoming, now shipping — WinCTRL force-feedback pedals (~$500-800)
 
@@ -775,7 +774,7 @@ The big change since our last update: **force-feedback rudder pedals moved from 
 
 No verified studio photo is on file for the WinCTRL FFB pedals, and they have no gear page in our catalog yet, so they are text-and-link only:
 
-- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026, sold direct from [winctrl.com](https://winctrl.com/), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **WinCTRL CyberTaurus FFB Rudder Pedals (EB195 / EB590)** — force-feedback yaw + rudder trim, ~140 N / ~590 N, ~$499.95 / ~$799.95, shipping 2026. There is no exact verified Amazon listing, so we show no purchase CTA; WinCTRL availability is documented in the research receipts.
 
 ## The 2026 rudder-pedal shortlist
 
@@ -785,9 +784,9 @@ No verified studio photo is on file for the WinCTRL FFB pedals, and they have no
 | [Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals) | ~$180 | Sliding | Yes | **Best budget all-rounder** |
 | [VKB T-Rudder Mk.V](/flight/gear/vkb-t-rudder-mk4) | ~$199 | Low-profile heel-pivot | No | **Durable, no-brake** · combat/warbird |
 | [Honeycomb Charlie](/flight/gear/honeycomb-charlie-pedals) | ~$270-350 | Aluminum belt-drive | Yes (Hall-effect) | **Best matched GA deck** |
-| [WinCTRL Orion 32](https://winctrl.com/view/goods-details.html?id=1845) | ~$300-373 | Heel-pivot metal | Yes (Hall-effect) | Best airliner heel-pivot |
+| WinCTRL Orion 32 | ~$300-373 | Heel-pivot metal | Yes (Hall-effect) | Best airliner heel-pivot |
 | [Turtle Beach VelocityOne](/flight/gear/turtle-beach-velocityone-rudder-pedals) | ~$300 | Pendular | Yes | **Best Xbox + PC** · check current |
-| [MFG Crosswind V3](https://mfg-sim.com/rudders/) | ~$335 | Modular Hall-effect | Yes | Enthusiast precision standard |
+| MFG Crosswind V3 | ~$335 | Modular Hall-effect | Yes | Enthusiast precision standard |
 | Thrustmaster TPR | ~$600 | Pendular | Yes | **Best pendular feel** |
 | [WinCTRL EB195 FFB](https://winctrl.com/) | ~$500 | Force feedback | Check current | Active yaw feel, entry FFB |
 | [WinCTRL EB590 FFB](https://winctrl.com/) | ~$800 | Force feedback | Check current | Force-feedback flagship |
@@ -849,8 +848,7 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
 
 Pick your pedals by mechanism and timing, not by brand prestige. For most pilots making their first pedal purchase, the **Logitech G Flight Rudder Pedals** at around $180 with toe brakes are the right call — they cover the flying that actually pushed you to buy pedals. Step up to the **Honeycomb Charlie** if you are building a matched GA deck, the **MFG Crosswind V3** if you want the enthusiast Hall-effect standard, or the pendular **Thrustmaster TPR** if feel is everything and budget is no object. Combat and warbird flyers should take the no-brake **VKB T-Rudder Mk.V**; Xbox flyers take the **Turtle Beach VelocityOne**. And keep one eye on the **WinCTRL** force-feedback pedals now shipping in 2026 before you splurge on a passive premium set. Most of all: do not buy any of them until a crosswind, a taildragger, or a sloppy flare tells you it is time. To slot pedals into a complete build at the right stage, see [the full flight hardware buy order](/flight/best-flight-sim-hardware-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent, region-dependent, or newly shifted, we flagged "check current."
 
 Official pages: [Logitech G Flight Simulator Rudder Pedals](https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals) ($179.99, toe brakes, self-centering, adjustable damping), [Thrustmaster TFRP T.Flight Rudder Pedals](https://www.thrustmaster.com/en-us/products/t-flight-rudder-pedals/) ($129.99, S.M.A.R.T. sliding rails, differential brakes, PC/PS4/Xbox), [Thrustmaster TPR Pendular Rudder](https://www.thrustmaster.com/en-us/products/tpr-thrustmaster-pendular-rudder/) ($599.99, PENDUL_R, H.E.A.R.T 16-bit, metal toe brakes, PC), [VKB T-Rudders Mk.V (US)](https://vkbsimcontrollers.com/products/t-rudders-mk-v-rudder-pedals-us) ($199, all-metal, contactless MaRS sensor, no toe brakes), [MFG Crosswind V3](https://mfg-sim.com/rudders/mfg-crosswind-v3-combat-rudder-pedals.html) (Hall sensors, swappable footrests, base ~€260, optional damper ~€45.60), [WinCTRL Orion 32 Rudder Pedals Metal (with damper)](https://winctrl.com/view/goods-details.html?id=1845) (heel-pivot, all-Hall-effect, toe brakes, 3 modes).
@@ -896,7 +894,7 @@ At this tier you do not buy pedals. Every device here has a twist or rocker rudd
 
 The Logitech G PRO Flight Yoke System is text-and-link only below because we haven't verified an exact studio photo for it; we are withholding marketplace links until the exact listing is verified.
 
-- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G PRO Flight Yoke System](/flight/gear/logitech-g-pro-flight-yoke-system)** — yoke + three-lever throttle in one box, 75 programmable controls, PC/Mac, **$179.99 official**. [View the exact yoke system on Amazon](https://www.amazon.com/dp/B01M00OQBE?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 <aside class="gearpick">
 
@@ -1022,7 +1020,7 @@ The moment to buy pedals is specific: when you start flying crosswind landings, 
 
 The Logitech G Flight Rudder Pedals are text-and-link only here because we haven't verified an exact studio photo:
 
-- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals)** — self-centering, differential toe brakes, adjustable damping, PC/Mac, **$179.99 official**. We do not have an exact verified Amazon listing for the standalone pedals, so this guide deliberately shows no purchase CTA.
 
 <aside class="gearpick">
 
@@ -1122,8 +1120,7 @@ And don't buy the obvious top pick against your own airplane. Don't buy the Hone
 
 For nearly every new MSFS 2024 pilot, the answer is a staircase, not a leap. Start free on the gamepad for a week and let it name your airplane. Then buy rung one, matched to that airplane: a ~$180 Logitech yoke or ~$300 Honeycomb Alpha for GA, the ~$80 TCA Sidestick for Airbus, the ~$130 VelocityOne on Xbox, or the ~$500 TCA Yoke Pack for a committed Boeing flyer. Graduate to the Alpha + Bravo pairing once you know flight sim has its hooks in you, and add pedals only when a specific maneuver demands them. If you want help mapping a full build to your budget before you spend, run it through [the flight configurator](/flight/configurator) — then buy the next single piece, fly it until you've outgrown it, and let the cockpit grow under you.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or the product is not yet shipping, we flagged "check current" or "announced."
 
 Official pages: [Logitech G PRO Flight Yoke System ($179.99)](https://www.logitechg.com/en-us/shop/p/flight-simulator-yoke-system), [Logitech G Flight Simulator Rudder Pedals ($179.99)](https://www.logitechg.com/en-us/shop/p/flight-simulator-rudder-pedals), [Honeycomb Alpha Flight Controls ($299.99)](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Thrustmaster TCA Sidestick Airbus](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Quadrant Airbus](https://www.thrustmaster.com/products/tca-quadrant-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/), [Turtle Beach VelocityOne Flightstick ($129.99)](https://www.turtlebeach.com/products/velocity-one-flight-stick).
@@ -1289,8 +1286,7 @@ If you race and never touch flight sim, the 5090 is money burned — even triple
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages, current pricing trackers and community MSFS 2024 testing rather than repeating box specs. Prices move weekly in 2026 — treat the figures as a snapshot, not a quote.
 
 Official + specs: [NVIDIA GeForce RTX 5080](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/), [Pimax Crystal Super (per-eye resolution + recommended GPU)](https://pimax.com/products/pimax-crystal-super).
@@ -1307,7 +1303,7 @@ VR clarity + GPU pairing (paraphrased in our voice): [SimRacingCockpit — VR he
 flight · buying-guide · by Mac Donovan · 2026-06-12 · https://ignitionsim.com/flight/best-hotas-msfs-2024
 The best HOTAS for MSFS 2024 in 2026, ranked by budget and what you fly: Thrustmaster, VKB, WinWing, Turtle Beach. Verdict-first, with the binding fix reviewers skip.
 
-Verdict first: **for a civil MSFS 2024 simmer who wants a stick, buy a [VKB Gladiator NXT EVO](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks) (around $109-149) and add a separate throttle quadrant.** Contactless sensors, real build quality, and clean binding once you map it by hand — it does everything a yoke does poorly, for less than a yoke costs. If DCS is in your future, the [Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog) is the metal benchmark. If you're on Xbox, the [Turtle Beach VelocityOne Flight Stick](/flight/gear/turtle-beach-velocityone-flight-stick) (~$110) flies solo. Everything else on this page is a matter of matching the tool to the mission.
+Verdict first: **for a civil MSFS 2024 simmer who wants a stick, buy a VKB Gladiator NXT EVO (around $109-149) and add a separate throttle quadrant.** Contactless sensors, real build quality, and clean binding once you map it by hand — it does everything a yoke does poorly, for less than a yoke costs. If DCS is in your future, the [Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog) is the metal benchmark. If you're on Xbox, the [Turtle Beach VelocityOne Flight Stick](/flight/gear/turtle-beach-velocityone-flight-stick) (~$110) flies solo. Everything else on this page is a matter of matching the tool to the mission.
 
 The yoke crowd will tell you a HOTAS is for space games. They're half right. If you fly nothing but a 172 and a 737, a yoke is the better tool. But MSFS 2024 shipped with a deeper roster of fighters, warbirds and aerobatic aircraft than 2020 ever had — and the moment you point a Spitfire at the deck, a yoke feels like steering a bus through a chicane. A stick-and-throttle is the right answer there, and it's usually the cheaper way into the sim at all. Here's the honest 2026 ladder: what each tier buys you, which units bind cleanly, and where the money stops being worth it.
 
@@ -1348,15 +1344,15 @@ The **Thrustmaster T.Flight HOTAS One** is the floor. It's plastic, the throttle
 
 This tier has no verified studio photo on file, so it's text-and-link only here:
 
-- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster T.Flight HOTAS One (MSFS Edition)** — cheapest reliable entry, Xbox + PC, ~$110. No exact Amazon listing has passed our model check yet, so we show no purchase CTA.
 
 ### Budget precision — the smart-money pick
 
-The **[VKB Gladiator NXT EVO](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks)** (around $109-149 depending on grip edition) is where I send most people who fly civil. It uses VKB's contactless sensors, so it holds its center far longer than any pot-based stick, and the build quality embarrasses sticks twice the price. It doesn't include a throttle — pair it with the **[Thrustmaster TCA Quadrant](/flight/gear/thrustmaster-tca-quadrant-airbus)** (~$100) or a Bravo you already own. Binding is clean but you map it by hand, which is the right way anyway. For the trim and curve work that follows, see [how to set up control curves](/flight/flight-sim-control-curves-calibration).
+The **VKB Gladiator NXT EVO** (around $109-149 depending on grip edition) is where I send most people who fly civil. It uses VKB's contactless sensors, so it holds its center far longer than any pot-based stick, and the build quality embarrasses sticks twice the price. It doesn't include a throttle — pair it with the **[Thrustmaster TCA Quadrant](/flight/gear/thrustmaster-tca-quadrant-airbus)** (~$100) or a Bravo you already own. Binding is clean but you map it by hand, which is the right way anyway. For the trim and curve work that follows, see [how to set up control curves](/flight/flight-sim-control-curves-calibration).
 
 VKB sells direct rather than through a verified studio photo on our side, so the Gladiator is text-and-link only:
 
-- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149, [buy direct from VKB](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **VKB Gladiator NXT EVO** — contactless-sensor budget stick, ~$109-149. It has no exact verified Amazon listing, so we show no purchase CTA; VKB specifications remain in the research receipts.
 
 <aside class="gearpick">
 
@@ -1422,8 +1418,8 @@ The **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** is
 
 The **WinWing Orion 2** is the modular answer: a Hall-effect base (joystick base from ~$390; full F-16-style HOTAS sets climb past $1,100) with swappable grips, so one base can serve a fighter today and a different airframe tomorrow, configured through WinWing's SimApp Pro. Both the Warthog and the Orion 2 are cockpit-builder territory, not first buys — and neither has a verified studio photo on file, so both are text-and-link only:
 
-- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets), [buy from WinWing/WinCTRL](https://winctrl.com/){:target="_blank" rel="nofollow noopener"} or check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **[Thrustmaster HOTAS Warthog](/flight/gear/thrustmaster-hotas-warthog)** — all-metal A-10C stick + dual throttle, ~$500 official (retail near $580, check current). [View the exact HOTAS Warthog on Amazon](https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
+- **WinWing Orion 2** — modular Hall-effect base + swappable grips, from ~$390 (base) into four figures (full sets). It has no exact verified Amazon listing, so we show no purchase CTA.
 
 ## What the community says
 
@@ -1517,8 +1513,7 @@ Skip a HOTAS entirely if you fly **only GA and airliners** — your money is bet
 
 For a civil MSFS 2024 simmer who wants a stick, the **VKB Gladiator NXT EVO** is the pick: contactless sensors, real build quality, clean binding, and roughly $120. Add a throttle quadrant and you have a HOTAS that does everything a yoke does poorly, for less than a yoke costs. Buy the **Warthog** only if DCS is in your future (and check its current street price — it's crept up), the **VelocityOne Flight Stick** if you're on Xbox, the **TCA Sidestick** if you fly the Airbus, and the **~$110 T.Flight** only as a deliberate "try before I commit." The hardware is the easy part — budget your patience for the binding menu, not the stick.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or had moved off its long-standing figure, we flagged "check current."
 
 Official pages: [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Thrustmaster T.Flight HOTAS One](https://www.thrustmaster.com/en-us/products/t-flight-hotas-one/), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-quadrant-airbus-edition/), [VKB Gladiator NXT EVO joysticks (VKB US store)](https://vkbsimcontrollers.com/collections/gladiator-nxt-joysticks), [Turtle Beach VelocityOne Flight Stick](https://www.turtlebeach.com/products/velocity-one-flight-stick), [Turtle Beach VelocityOne Flightdeck](https://www.turtlebeach.com/products/velocity-one-flight-deck), [WinWing / WinCTRL store](https://winctrl.com/).
@@ -1728,8 +1723,7 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product/store pages and current 2026 pricing rather than repeating launch-day specs, and paraphrased community consensus in our own words.
 
 Official pages: [Pimax Crystal Super](https://pimax.com/products/pimax-crystal-super), [Pimax Crystal Light](https://pimax.com/products/pimax-crystal-light), [Bigscreen Beyond 2](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Meta Quest compare (Quest 3 vs 3S)](https://www.meta.com/quest/compare/), [Meta Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/).
@@ -1856,9 +1850,9 @@ The **MOZA AB9** is the flagship base at around **$499 (base only), ~$549-649 wi
 
 MOZA advertises native force-feedback telemetry for MSFS 2024/2020, X-Plane 12 and DCS with no plugins, though the turbulence-and-trim software is still maturing, and the servos genuinely demand a rigid desk mount or cockpit frame rather than a light clamp. No verified studio photo is on file for the MOZA flight bases yet, so they're text-and-link only here — but the MOZA MTQ throttle quadrant below is the verified, FFB-adjacent piece that pairs with them.
 
-- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick), [MOZA official](https://mozaracing.com/products/ab9-base) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Verify current USD pricing before buying.
-- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399, [MOZA official](https://us.mozaracing.com/collections/flight-series) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base, [MOZA official](https://mozaracing.com/products/ay210-ffb-yoke-bundle) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **MOZA AB9 Flight FFB Base** — ~12Nm peak, MCLS direct-drive control loading, native MSFS 2024 / X-Plane 12 / DCS, ~$499 base (~$549-649 with stick). No exact verified Amazon listing, so no purchase CTA; [MOZA's AB9 specifications](https://mozaracing.com/products/ab9-base) remain evidence only.
+- **MOZA AB6 Flight FFB Bundle** — ~6Nm peak / ~4.4Nm continuous, base + MHG grip + clamp, best for combat/first FFB, ~$399. No exact verified Amazon listing, so no purchase CTA; [MOZA's flight-series specifications](https://us.mozaracing.com/collections/flight-series) remain evidence only.
+- **MOZA MFY Yoke (on AY210 base)** — airliner-focused yoke, autopilot trim moves the yoke, ~$149 handle + ~$699 AY210 base. [View the exact AY210 base on Amazon](https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}; [MOZA's bundle specifications](https://mozaracing.com/products/ay210-ffb-yoke-bundle) remain evidence only.
 
 <aside class="gearpick">
 
@@ -1889,13 +1883,13 @@ For DCS and military sims, Thrustmaster refreshed its benchmark HOTAS. The **HOT
 
 That framing matters for your wallet. If you already own a healthy original Warthog, there is no urgent reason to pay $599.99 for the refresh. If you're buying your first metal HOTAS in 2026, buy the MKII rather than aging old stock — the grip cross-compatibility and durability tweaks are worth it on a fresh purchase. No verified studio photo of the MKII is on file yet, so it's text-and-link only here.
 
-- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026, [Thrustmaster press release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Check current retail pricing before buying.
+- **Thrustmaster HOTAS Warthog MKII** — all-metal A-10C stick + dual throttle, refreshed electronics and mechanisms, $599.99, September 2026. It is not yet an exact verified Amazon product, so no purchase CTA; the [Thrustmaster launch release](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035) remains evidence only.
 
 ## Space sim: the OMNI Extension
 
 The quietest reveal is a $44.99 accessory. The **OMNI Extension** (released mid-2026) is a small connector arm that repositions a modular left-hand sidestick to roughly a **50-55 degree angle** for a more natural wrist position, aimed primarily at space-sim pilots running twin-stick setups. It is not a control and it does nothing on its own — it's an ergonomics fix for people who already own a modular sidestick and want the left hand angled instead of flat. If that's you, it's cheap. If it isn't, skip it. No verified photo is on file, so it's text-and-link only.
 
-- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99, [Thrustmaster OMNI Extension](https://eshop.thrustmaster.com/omni-extension.html) · check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Thrustmaster OMNI Extension** — sidestick repositioning arm (~50-55° angle), space-sim ergonomics accessory, $44.99. No exact verified Amazon listing, so no purchase CTA; [Thrustmaster's specifications](https://eshop.thrustmaster.com/omni-extension.html) remain evidence only.
 
 ## The Airbus path: sidestick first, panels second
 
@@ -1908,9 +1902,9 @@ If you live in the Fenix A320 or the iniBuilds Airbus fleet, a general yoke is t
 
 The WinWing FCU/EFIS and MCDU panels are the next rung — they move the Airbus workflow off the mouse so you twist altitude, heading, baro and range on real knobs and punch the MCDU like a human instead of clicking a virtual keypad on descent. They're PC-only, aircraft-specific and confirmed for the Fenix A320, and no verified photo is on file, so they're text-and-link only.
 
-- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
-- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}. Confirm your exact aircraft is supported before buying.
+- **WinWing A320 FCU + EFIS-L/R combo** — 1:1 backlit Airbus glareshield autopilot + EFIS panels, single USB, Fenix A320, panel-stack tier. No exact verified Amazon listing, so no purchase CTA.
+- **WinWing MCDU (A320)** — full-scale backlit Airbus MCDU, single USB, from ~$130. No exact verified Amazon listing, so no purchase CTA.
+- **WinWing PAP 3 (737 MCP)** — 1:1 Boeing Mode Control Panel for PMDG builders, ~$200 with mag switch. No exact verified Amazon listing, so no purchase CTA; confirm your exact aircraft is supported before buying.
 
 ## The Xbox-friendly first stick
 
@@ -1940,7 +1934,7 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 **Rule 3: Force feedback needs a rigid mount.** The MOZA AB9 and AB6 servos want a 4-bolt mount or cockpit frame, not a light desk clamp — otherwise the force feedback fights your desk instead of your hands.
 
-**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: a 7-to-10-port sim hub is about $60, check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+**Rule 4: Panels need power.** Once you stack yoke, throttle, pedals, MCDU, FCU, EFIS and head tracking, a PC can't feed them all and devices drop mid-approach. Buy a powered USB hub before you troubleshoot ghosts: [view the exact Sabrent HB-BU10 on Amazon](https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click"}.
 
 **Rule 5: Buy aircraft-first.** GA, Airbus, Boeing, DCS and helicopters want different controls. A generic "best flight sim setup" is how you buy three wrong things and one correct cable.
 
@@ -2004,8 +1998,7 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 5. **Head tracking** — TrackIR 5 (value) or Tobii Eye Tracker 5 (no clip).
 6. **Force feedback is a later leap, not a first buy** — MOZA AB9 for airliner feel once the basics are covered.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, the FlightSimExpo 2026 reveal coverage and current pricing/availability rather than repeating box specs; where a price was announced-but-unshipped or had drifted, we flagged "check current."
 
 Reveal coverage + official: [Thrustmaster FlightSimExpo 2026 press release (mynewsdesk)](https://www.mynewsdesk.com/uk/swipe-right/pressreleases/thrustmaster-unveils-full-lineup-of-2026-flight-sim-products-at-flightsimexpo-2026-3454035), [Thrustmaster FSExpo lineup (FSElite)](https://fselite.net/content/thrustmaster-fsexpo-2026/), [Thrustmaster OMNI Extension (official store)](https://eshop.thrustmaster.com/omni-extension.html), [Thrustmaster FSExpo 2026 (Windows Central)](https://www.windowscentral.com/gaming/microsoft-flight-simulator-new-flight-stick-and-yoke-options-from-thrustmaster).
@@ -2333,8 +2326,7 @@ Whichever you pick, head tracking is the rare upgrade that costs less than a goo
 
 ![Which head tracker: the buy order](/images/infographics/flight/head-tracking-trackir-vs-tobii-msfs-clip-vs-clipfree-decision.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current 2026 pricing rather than repeating box specs, and paraphrased community reports in our own voice.
 
 Official + retail pages: [NaturalPoint TrackIR 5](https://www.naturalpoint.com/trackir/trackir5/), [TrackIR 5 with TrackClip PRO (Amazon)](https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20), [Tobii Eye Tracker 5 official](https://gaming.tobii.com/product/eye-tracker-5/), [Tobii Eye Tracker 5 (Amazon)](https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20), [Tobii + MSFS 2024 support](https://gaming.tobii.com/games/microsoft-flight-simulator-2024/).
@@ -2539,8 +2531,7 @@ This comparison resolves the moment you name your airplane. If you fly **general
 
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or split between official MSRP and street, we flagged "check current" or gave a range.
 
 Official pages: [Honeycomb Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Honeycomb Captain's Bundle (Alpha/Bravo/Charlie)](https://flyhoneycomb.com/products/captains-bundle), [Thrustmaster TCA Sidestick Airbus Edition](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-quadrant-airbus-edition/), [Thrustmaster TCA Captain Pack X Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-captain-pack-x-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing Edition](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/).
@@ -3265,7 +3256,7 @@ A few honest notes:
 
 The Bigscreen Beyond 2 is text-and-link only below because we haven't verified an exact product photo; we are withholding marketplace links until the exact listing is verified.
 
-- **[Bigscreen Beyond 2 / Beyond 2e](https://store.bigscreenvr.com/products/bigscreen-beyond-2)** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Bigscreen Beyond 2 / Beyond 2e** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking). No exact verified Amazon listing, so no purchase CTA.
 
 ## The GPU reality nobody quotes you
 
@@ -3349,8 +3340,7 @@ Stay on a monitor if any of these is true: your GPU is below an RTX 3070; you mo
 
 VR is worth it **if immersion is your priority and your hardware can pay the tax.** Start with a **Quest 3** (now $599.99 for the 512GB, or the Quest 3S from $349.99) to find out whether the magic lands; graduate to a **Pimax Crystal Light** (~$899) only if it does and you have an RTX 5080-class GPU to feed it; consider the **Bigscreen Beyond 2** ($1,019+) if headset weight is your dealbreaker and you don't mind buying base stations. But go in clear-eyed: you're trading roughly half your frame rate and a chunk of convenience for a sense of *being there* that nothing else delivers. For sightseeing, bush flying, and judging the flare, that trade is a steal. For hours of crisp-text IFR work, the monitor still wins — and a **$170 TrackIR** is the quiet third answer that beats both for a lot of pilots.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product/store pages and current pricing and specs rather than repeating old box numbers; where a price was configuration- or sale-dependent, or had recently moved, we flagged "check current."
 
 Headsets and specs: [Pimax Crystal Light (official store)](https://pimax.com/products/pimax-crystal-light), [Pimax Crystal Light full-payment version (Amazon)](https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20), [Meta Quest 3 (official)](https://www.meta.com/quest/quest-3/), [Meta blog — Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/), [Meta Quest 3 price guide, June 2026 (NexraGear)](https://nexragear.com/meta-quest-3-price-guide-2026/), [Bigscreen Beyond 2 (official store)](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Bigscreen Beyond 2 review (VR.org)](https://vr.org/articles/bigscreen-beyond-2-review-107g-pcvr).
@@ -3698,8 +3688,7 @@ And if photometric accuracy is the real goal, the next serious jump is the SkyTr
 
 Whichever you pick, remember the sensor is only half the build — match it to your room's geometry per the [radar vs photometric guide](/golf/radar-vs-photometric-launch-monitor), choose your [simulator software](/golf/best-golf-simulator-software) deliberately, and if a full room is the goal, size the whole thing with the [under-$10K build guide](/golf/home-golf-simulator-under-10000-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and retailer pages for current pricing and specs, and cross-referenced 2026 buyer's guides and community discussion. Prices move fast in this category — always confirm live retailer pricing and subscription terms before buying.
 
 Useful source shelf: [Rapsodo MLM2PRO official](https://rapsodo.com/products/mlm2pro-mobile-launch-monitor-golf-simulator), [Rapsodo MLM2PRO + GSPro integration](https://rapsodo.com/blogs/golf/rapsodo-mlm2pro-now-integrates-with-gspro), [Rapsodo MLM2PRO Premium membership](https://rapsodo.com/pages/rapsodo-golf-mlm2pro-premium-membership), [Garmin Approach R10 official](https://www.garmin.com/en-US/p/695391/), [PlayBetter Garmin R10 2026 review](https://www.playbetter.com/blogs/golf-simulator-reviews/garmin-approach-r10-review-golf-launch-monitor-under-1000), [PlayBetter "best launch monitor under $1,000"](https://www.playbetter.com/blogs/golf-simulator-comparisons/what-is-the-best-golf-launch-monitor-under-1000), [Square Golf launch monitor (Shop Indoor Golf)](https://shopindoorgolf.com/products/square-golf-launch-monitor), [FlightScope Mevo Gen 2 official](https://flightscope.com/products/mevo-gen2), [FlightScope 2026 launch-monitor comparison](https://flightscope.com/blogs/blogs/best-golf-launch-monitor-comparison-2026), [Bushnell Launch Pro official](https://www.bushnellgolf.com/products/launch-monitors/launch-pro/), [PlayBetter SkyTrak+ vs ST MAX](https://www.playbetter.com/blogs/golf-simulator-comparisons/skytrak-plus-vs-the-original-skytrak-full-launch-monitor-simulator-comparison), [Breaking Eighty best launch monitors 2026](https://breakingeighty.com/best-golf-launch-monitors).
@@ -3942,8 +3931,7 @@ If you are hitting **only short irons and wedges, occasionally, on carpet over a
 
 The mat is the cheapest part of the build that does the most work, and it is the one nobody budgets correctly. **Buy a premium real-tee mat: Fiberbuilt or the SIGPRO Softy if your wrists and elbows are the priority, Country Club Elite if you want the most realistic swing-through feel for around $479 to $600.** Go platform on bare concrete, strip if you have a forgiving floor underfoot, and add landing turf to keep your stance level. Whatever you do, measure the mat's height against your ceiling and launch monitor before you buy, and stop spending sensor money on the mat afterthought — it is the component that decides whether you will still be swinging pain-free in two years, and whether the expensive sensor you bought is reading a real golf swing or a foam-deadened approximation of one.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and independent reviews for the Fiberbuilt Player Preferred / Studio series, the SIGPRO Softy 4×7 (price, thickness, replaceable strip, compression-slot cushioning), the Real Feel Country Club Elite (construction, pricing, sizes), Carl's HotShot strip system, and TrueStrike's gel divot mats, plus launch-monitor mounting/ceiling-height guidance and community joint-health discussion.
 
 Useful source shelf: [Fiberbuilt Player Preferred series](https://fiberbuiltgolf.com/collections/player-preferred-series), [Fiberbuilt Player Preferred review (Friendly Golfer)](https://friendlygolfer.com/fiberbuilt-player-preferred-review/), [SIGPRO Softy 4×7 (Shop Indoor Golf)](https://shopindoorgolf.com/products/sigpro-4-x-7-golf-mat), [SIGPRO Softy review (MyGolfSpy)](https://mygolfspy.com/we-tried-it/sigpro-softy-golf-hitting-mat-review/), [Country Club Elite (Rain or Shine Golf)](https://rainorshinegolf.com/products/country-club-elite-real-feel-golf-mat), [Country Club Elite official (Real Feel)](https://www.realfeelgolfmats.com/product/country-club-elite-real-feel-golf-mat/), [Carl's HotShot mat system](https://shop.carlofet.com/carls-hotshot-golf-mat-system), [TrueStrike review (Plugged In Golf)](https://pluggedingolf.com/truestrike-golf-mat-review/), [Uneekor overhead mounting/ceiling guidance](https://uneekor.com/golf-launch-monitors/eye-xo2), [GolfWRX SIGPRO Softy vs Fiberbuilt owner thread](https://forums.golfwrx.com/topic/2011029-who-has-used-both-the-sigpro-softy-and-the-fiberbuilt-hitting-mat/).
@@ -4314,8 +4302,7 @@ We only attach an Amazon button when the ASIN resolves to the exact product. Sky
 
 For a lower-cost enclosure path, the [GoSports Golf Simulator Enclosure](https://www.amazon.com/dp/B0FT4WC37N?tag=ignitionsim-20){:target="_blank" rel="sponsored nofollow noopener" data-buy-product="GoSports Golf Simulator Enclosure"} was also verified to an exact product page. Measure the selected size, full swing, side-net reach, and projector geometry before ordering; the enclosure does not solve room fit by itself.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. We checked official pages, setup instructions, exact Amazon ASINs, current 2026 pricing and specs, and cross-referenced community build-cost and installation patterns.
 
 - [Garmin Approach R10 official](https://www.garmin.com/en-US/p/695391/) — R10 spec and current pricing (~$500).
@@ -5034,8 +5021,7 @@ If your garage ceiling tops out under **8.5 feet to the lowest obstruction** and
 
 A garage is a great home for a simulator precisely because it is usually deep and you do not mind a ball strike near concrete the way you would in a finished basement. Measure to the lowest obstruction first, let the room's depth pick the sensor, spend your safety budget on the screen and side nets, your comfort budget on the mat, and solve the slope and the cold before the software. Do it in that order and a $3,000-to-$5,000 build will feel like a room you want to live in — not a January regret with turf.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and retailer pages for the Garmin Approach R10 (placement, room-length, and operating-temperature specs), the SkyTrak+, the Optoma GT2100HDR, Carl's Place DIY enclosures, and SIGPRO netting, plus 2026 garage-ceiling-height guides, garage-floor-slope and leveling threads, and cold-garage climate-control discussions on r/Golfsimulator and the Golf Simulator Forum.
 
 Useful source shelf: [Garmin Approach R10 owner's manual — specifications](https://www8.garmin.com/manuals/webhelp/GUID-E2BBF6BE-4276-436F-B697-59ABEFD61933/EN-US/GUID-557E8DE5-2AD5-4529-A718-6C74ED9CFAE0.html), [Garmin — indoor/outdoor R10 placement tips](https://support.garmin.com/en-US/?faq=b16KkS9ljZ1BRQGvWB6bX7), [PlayBetter — garage golf simulator ceiling height](https://www.playbetter.com/blogs/golf-simulator-space/ceiling-height-for-a-garage-golf-simulator-what-you-need-to-know-before-buying), [My Garage Golf — proper ceiling height for golf simulators](https://mygaragegolf.com/blogs/garage-golf-blog/golf-heaven-or-headache-proper-ceiling-height-for-golf-simulators), [Golf Simulator Forum — level platform for a sloped garage floor](https://golfsimulatorforum.com/forum/build-your-own/mats-turf-and-flooring/309881-inexpensive-level-platform-for-garage-floor), [Golf Simulator Forum — winter garage users, projector/PC in and out](https://golfsimulatorforum.com/forum/golf-simulator-forum/simulator-builds/303186-winter-garage-users-do-you-take-your-computer-projector-in-and-out-for-each-session), [Optoma GT2100HDR official](https://www.optomausa.com/product/gt2100hdr).
@@ -5357,8 +5343,7 @@ The caveat is not small: this is still a room project. The R50 can reduce softwa
 
 If the room measures well and the no-PC workflow is what you actually want, buy the R50 with confidence. If you are only chasing the "best" launch monitor because expensive feels safe, pause and build the room plan first.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 6, 2026. We checked Garmin's official R50 product and launch materials, PlayBetter's 2026 R50 review, Home Performance Lab's R50 vs Uneekor Eye Mini comparison, Indoor Golf Outlet's R50 vs SkyTrak+ comparison, existing IgnitionSim product data, and current community discussion patterns around R50 setup, software, stickers, room fit, and total ownership.
 
 Useful source shelf: [Garmin R50 official product page](https://www.garmin.com/en-US/p/736810/), [Garmin R50 launch announcement](https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-the-garmin-approach-r50-the-only-portable-golf-launch-monitor-with-a-built-in-simulator/), [PlayBetter Garmin R50 review](https://www.playbetter.com/blogs/golf-simulator-reviews/garmin-approach-r50-review), [Home Performance Lab R50 vs Uneekor Eye Mini](https://homeperformancelab.com/garmin-r50-vs-uneekor-eye-mini/), [Indoor Golf Outlet R50 vs SkyTrak+](https://indoorgolfoutlet.com/blogs/main/garmin-approach-r50-vs-skytrak-plus), [r/Golfsimulator R50 discussion](https://www.reddit.com/r/Golfsimulator/comments/1ncrm6k/another_launch_monitor_rabbit_hole_garmin_r50/), [Golf Simulator Forum build discussion](https://golfsimulatorforum.com/forum/golf-simulator-forum/simulator-builds/409887-first-sim-size-and-launchmonitor-dilemma).
@@ -5558,8 +5543,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official Garmin R50 product data and launch materials, Uneekor Eye Mini Lite specs, Bushnell/Foresight Launch Pro subscription documentation, Breaking Eighty reviews, Golf Monthly simulator coverage, r/Golfsimulator buyer threads, and Golf Simulator Forum setup discussions. Prices and software plans change quickly in this category, so verify the checkout page and subscription page on the day you buy.
 
 Useful source shelf: [Garmin R50 official](https://www.garmin.com/en-US/p/736810/), [Garmin R50 newsroom](https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-the-garmin-approach-r50-the-only-portable-golf-launch-monitor-with-a-built-in-simulator/), [Uneekor Eye Mini Lite official](https://uneekor.com/golf-launch-monitors/eye-mini-lite), [Bushnell Launch Pro software packages](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages), [Foresight Launch Pro subscriptions](https://help.foresightsports.com/hc/en-us/articles/47000332550291-Launch-Pro-Subscriptions), [Breaking Eighty indoor launch monitors](https://breakingeighty.com/best-indoor-golf-launch-monitors), [SkyTrak ST MAX review](https://breakingeighty.com/skytrak-st-max), [r/Golfsimulator under $5K discussion](https://www.reddit.com/r/Golfsimulator/comments/1u4etwj/best_launch_monitor_under_5k/).
@@ -5770,8 +5754,7 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked Carl's Place impact-screen bounceback and foam-insert guidance, Carl's hitting mat guide, Golf Simulator Forum enclosure and mat threads, r/Golfsimulator bounceback/padding discussions, GolfWRX mat joint-pain discussions, MyGolfSpy's SIGPRO Softy review, and recent Golf Monthly enclosure coverage.
 
 Useful source shelf: [Carl's Place bounceback tips](https://www.carlofet.com/blog/impact-screen-bounce-back-troubleshooting-tips), [Carl's Place top simulator questions](https://www.carlofet.com/blog/top-golf-simulator-questions), [Carl's Place hitting mat guide](https://www.carlofet.com/blog/best-golf-hitting-mats), [Golf Simulator Forum enclosure review](https://golfsimulatorforum.com/forum/golf-simulator-forum/golf-simulators/404686-review-carl-s-place-diy-golf-enclosure-vs-custom-pro-golf-enclosure), [r/Golfsimulator recent mat priorities](https://www.reddit.com/r/Golfsimulator/comments/1tr0w3o/best_golf_mat/), [r/Golfsimulator Country Club Elite vs joint comfort thread](https://www.reddit.com/r/Golfsimulator/comments/1ueqy6e/torn_between_these_two/), [GolfWRX Country Club Elite discussion](https://forums.golfwrx.com/topic/1980318-is-country-club-elite-that-bad/), [MyGolfSpy SIGPRO Softy review](https://mygolfspy.com/we-tried-it/sigpro-softy-golf-hitting-mat-review/).
@@ -6100,8 +6083,7 @@ This is the category that turns a "$7,000 build" into a $7,900 build. Community 
 
 The single most common mistake is spending 80% of the budget on the sensor and treating the mat, screen, projector, and netting as afterthoughts. Flip that instinct. Decide your tier honestly, protect the safety lines first, confirm your ceiling and depth can support the tech you want — and if you're aiming for that mid-tier sweet spot, the [full under-$10K build walkthrough](/golf/home-golf-simulator-under-10000-2026) shows exactly how the parts fit together.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official/retailer pricing and specs for the Garmin R10 and R50, Rapsodo MLM2PRO, Square Golf, SkyTrak+ and ST MAX, Bushnell Launch Pro, Foresight GC3, Uneekor EYE XO2, Carl's Place and SIG10 enclosures, SIGPRO screens and netting, Optoma GT2100HDR and BenQ LK936ST projectors, plus 2026 tier-cost breakdowns, GSPro subscription pricing, hidden-cost checklists, and GSPro gaming-PC spec guides.
 
 Useful source shelf: [GSPro subscription (Foresight)](https://www.foresightsports.com/products/gspro-1-year-subscription), [2026 golf simulator cost breakdown (Treasure Valley Solutions)](https://treasurevalleysolutions.com/blog/golf-simulator-cost), [GolfSimulatorSource cost of ownership guide](https://golfsimulatorsource.com/golf-simulator-cost-guide/), [ProSimHQ budget/mid/premium picks](https://prosimhq.com/blogs/buyers-guide/top-golf-simulators-for-home-in-2026-budget-mid-range-premium-picks-5k-10k-20k), [GolferHive hidden fees 2026](https://golferhive.com/how-much-for-golf-simulator/), [Rain or Shine Golf cost by setup type](https://rainorshinegolf.com/pages/golf-simulator-cost), [Home Performance Lab GSPro PC requirements](https://homeperformancelab.com/gspro-system-requirements/), [Golf Simulator Forum GSPro PC spec thread](https://golfsimulatorforum.com/forum/golf-simulator-brands-and-types/gspro/396937-gspro-pc-spec).
@@ -6375,8 +6357,7 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
 
 The impact screen is safety gear that happens to be a movie screen. **For most builders, a Carl's Place DIY enclosure with a mid-premium screen — hung with give, an air gap behind it, a weighted bottom, releasable ties, and full side and ceiling baffling — is the right call, and it leaves money for the launch monitor.** Step up to a premium all-in-one like the SIG10 when you have a dedicated ~11-foot-wide room and want the frame, padding, and zero-border screen fill engineered for you. Buy the SIGPRO Premium screen specifically when image quality is the priority — it's the reference at the top of the home market. And match the aspect ratio to your projector's throw before you drill anything. Get those right and a driver shot drops dead three feet in front of you while a sharp, bright fairway fills the wall. Get the install wrong and no screen on the market will save you.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and retailer pages plus independent testing for the Carl's Place DIY enclosure and screen tiers, the SIGPRO Premium impact screen (sizes/pricing/material), the SIG10 all-in-one enclosure (dimensions/impact rating/screen), SIGPRO side barrier netting, and aspect-ratio/projector-throw guidance. Pricing moves with promotions and screen tier, so verify current numbers at checkout.
 
 Useful source shelf: [Carl's Place DIY enclosure kit](https://shop.carlofet.com/diy-golf-simulator-enclosure-kit-with-impact-screen), [Carl's Place DIY kit at PlayBetter](https://www.playbetter.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-impact-screen), [SIGPRO Premium impact screen (Shop Indoor Golf)](https://shopindoorgolf.com/products/golf-simulator-screen-premium), [MyGolfSpy: SIGPRO Premium best screen](https://mygolfspy.com/news-opinion/new-best-hitting-net-sigpro-premium/), [SIG10 enclosure (Shop Indoor Golf)](https://shopindoorgolf.com/products/sig10-golf-simulator-enclosure), [BenQ screen size and distance](https://www.benq.com/en-us/golf-simulator-projector/knowledge/measure-screen-size-and-distance.html), [BenQ 16:9 vs 4:3 aspect ratio](https://www.benq.com/en-us/golf-simulator-projector/knowledge/aspect-ratio.html), [Shop Indoor Golf aspect ratio guide](https://shopindoorgolf.com/pages/aspect-ratio-golf-simulator-guide), [Home Performance Lab impact screen guide](https://homeperformancelab.com/best-golf-simulator-impact-screen/).
@@ -6889,8 +6870,7 @@ The launch monitor and projector get the attention, but the physical bay is what
 
 Measure before you spend. Ceiling height is the constraint you cannot engineer around — it decides whether overhead is even on the table. Depth is the one that secretly kills radar in shallow rooms. Width decides immersion and whether a lefty and a righty can share the bay. Get those three numbers — aim for **10 ft ceiling, 14–15 ft width, 15–17 ft depth** if you have the space — match them to the technology in the [radar vs photometric breakdown](/golf/radar-vs-photometric-launch-monitor), and only *then* look at price. When your numbers are in hand, drop them into [the Rig Configurator](/racing/configurator) to see what builds your room supports.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked current 2026 room-dimension guidance and projector throw math against these pages, plus the official product spec sheets referenced in the launch-monitor and projector sections.
 
 Useful source shelf: [Home Performance Lab — Golf Simulator Space Requirements (2026)](https://homeperformancelab.com/golf-simulator-space-requirements/), [Home Performance Lab — Projector Placement Guide (2026)](https://homeperformancelab.com/golf-simulator-projector-placement/), [TrackMan — How much room do you need for a golf simulator](https://www.trackman.com/blog/golf/how-much-room-for-a-golf-simulator), [Shop Indoor Golf — space requirements](https://shopindoorgolf.com/pages/how-much-space-do-you-need-for-a-golf-simulator-setup), [Carl's Place — measuring your space](https://www.carlofet.com/blog/measuring-your-space-for-an-indoor-golf-simulator), [Carl's Place — choosing a projector](https://www.carlofet.com/blog/choosing-a-projector-for-a-golf-simulator-setup), [Top Shelf Golf — short vs ultra-short throw placement](https://topshelfgolf.com/blogs/golf/short-throw-vs-ultra-short-throw-projector-placement-guide).
@@ -7067,7 +7047,7 @@ How to actually get GSPro running in 2026: the $250/yr subscription, which launc
 
 Verdict first: **GSPro is worth the $250 a year if you own a Windows gaming PC and a launch monitor on its compatibility list — and getting it running is one subscription, one connection path, and one wireless-link decision, not the weekend most people fear.** GSPro connects to a wider range of launch monitors than any rival, its community has scanned 2,500-plus real and fantasy courses that download for free, and the visuals punch well above the price. It is also where more first-time builds stall than anywhere else, because "connect your launch monitor to GSPro" hides three different connection paths, a subscription you might not have budgeted, and a Bluetooth reliability problem that masquerades as a software bug.
 
-So here is what you actually need and the setup that works, in order. Every number below is attributed to GSPro's own published requirements or a named source in the [Sources Checked](#sources-checked) shelf — where 2026 details are still moving (community connectors especially), I flag it.
+So here is what you actually need and the setup that works, in order. Every number below is attributed to GSPro's own published requirements or a named source in the [research receipts](#research-receipts-evidence-not-shopping-links) shelf — where 2026 details are still moving (community connectors especially), I flag it.
 
 ## What you need before you subscribe
 
@@ -7241,8 +7221,7 @@ GSPro is the right default for the broadest set of launch monitors and the deepe
 
 ![GSPro: cost, PC bar, and the dropout fix](/images/infographics/golf/gspro-setup-guide-courses-connectors-gspro-requirements-and-fixes.png)
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked GSPro's official system-requirements and pricing pages, its supported-device (Connect/OpenAPI) list and course-server documentation, retailer subscription listings, PlayBetter's GSPro compatibility guide, a 2026 SkyTrak-to-GSPro OpenSkyPlus 2 walkthrough, and Garmin R10/R50 GSPro connector coverage. Every price, spec, and compatibility claim is attributed below; community connectors (OpenSkyPlus 2, MLM2PRO connector) are third-party projects whose status can change, so verify current builds before relying on them.
 
 Official + pricing: [GSPro official site (system requirements, subscription, supported devices, course server)](https://gsprogolf.com/), [GSPro change log](https://gsprogolf.com/change-log.html), [Foresight Sports GSPro 1-year subscription](https://www.foresightsports.com/products/gspro-1-year-subscription), [Shop Indoor Golf GSPro subscription](https://shopindoorgolf.com/products/gspro-software), [Carl's Place GSPro software](https://shop.carlofet.com/gspro-golf-simulator-software).
@@ -7602,8 +7581,7 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official pages for Garmin R50, BenQ LK936ST, Optoma GT2100HDR, Carl's Place enclosure categories, GSPro subscription references, Tom's Guide's real under-$10K build, r/Golfsimulator projector/enclosure discussions, and Golf Simulator Forum projector/enclosure setup notes.
 
 Useful source shelf: [Tom's Guide under-$10K build](https://www.tomsguide.com/wellness/fitness/i-built-the-ultimate-golf-simulator-in-my-home-for-under-usd10k-heres-the-products-i-used), [Carl's Place enclosures](https://www.carlofet.com/), [BenQ LK936ST official](https://www.benq.com/en-us/projector/golf/lk936st.html), [Optoma GT2100HDR official](https://www.optomausa.com/product/gt2100hdr), [Foresight GSPro subscription listing](https://www.foresightsports.com/products/gspro-1-year-subscription), [r/Golfsimulator projector discussion](https://www.reddit.com/r/Golfsimulator/comments/1gf3dyd/optoma_gt2100hdr_or_benq_ah700st/), [Golf Simulator Forum enclosure review](https://golfsimulatorforum.com/forum/golf-simulator-forum/golf-simulators/404686-review-carl-s-place-diy-golf-enclosure-vs-custom-pro-golf-enclosure).
@@ -7982,8 +7960,7 @@ If your driver test fails badly under 8 feet **and** you're unwilling to run an 
 
 The 8.5-foot basement is buildable — it's just a constraint-first build. **Run the driver test before buying anything, choose a side-of-ball photometric launch monitor like the SkyTrak+ or Bushnell Launch Pro (never an overhead camera unit), mount a short-throw projector ahead of your swing or an ultra-short-throw on a floor shield, and offset your hitting position to steal back clearance.** Accept that you may choke down on driver or lean iron-heavy, and the room becomes a genuine, accurate, daily-use simulator. The spec sheets describe the ideal; this is how you build the real one in the room you actually have.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked ceiling-height and low-room build guidance, overhead-unit clearance requirements, side-of-ball placement specs, and short-throw vs ultra-short-throw projector geometry for low ceilings, plus current retailer pricing on the launch monitors and projectors featured above. Prices and specs shift constantly — verify live before buying, and treat the Uneekor EYE XO2 pricing as "check current" because retailer listings varied widely.
 
 Useful source shelf: [Garage Golf ceiling-height guide](https://mygaragegolf.com/blogs/garage-golf-blog/golf-heaven-or-headache-proper-ceiling-height-for-golf-simulators), [Home Performance Lab best basement simulator 2026](https://homeperformancelab.com/best-golf-simulator-for-basement/), [Uneekor EYE XO2 space/ceiling requirements (Top Shelf Golf)](https://topshelfgolf.com/products/uneekor-eye-xo-2-launch-monitor-golf-simulator), [Top Shelf Golf short-throw vs ultra-short-throw placement guide](https://topshelfgolf.com/blogs/golf/short-throw-vs-ultra-short-throw-projector-placement-guide), [Home Performance Lab SkyTrak+ vs Launch Pro vs GC3](https://homeperformancelab.com/skytrak-plus-vs-bushnell-launch-pro-vs-foresight-gc3/), [PlayBetter Bushnell Launch Pro Circle B review (pricing + Silver plan)](https://www.playbetter.com/blogs/golf-simulator-reviews/bushnell-launch-pro-circle-b-edition-review), [PlayBetter Garmin Approach R50 review (placement + price)](https://www.playbetter.com/blogs/golf-simulator-reviews/garmin-approach-r50-review), [Garmin Approach R50 official page](https://www.garmin.com/en-US/p/736810/).
@@ -8416,7 +8393,7 @@ Also price the supporting room:
 - [SkyTrak ST MAX official product page](https://skytrakgolf.com/products/skytrak-st-max-launch-monitor)
 - [Breaking Eighty SkyTrak ST MAX review](https://breakingeighty.com/skytrak-st-max)
 - [Bushnell Launch Pro official product page](https://www.bushnellgolf.com/products/launch-monitors/launch-pro/)
-- [Bushnell Launch Pro software purchase page](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages)
+- [Bushnell Launch Pro software-package documentation](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages)
 - [Bushnell Launch Pro support and subscription FAQ](https://www.bushnellgolf.com/support/launch-pro-lpi)
 - [r/Golfsimulator premium launch monitor discussion](https://www.reddit.com/r/Golfsimulator/comments/1u4etwj/best_launch_monitor_under_5k/)
 
@@ -8678,8 +8655,7 @@ Do not buy a technology, buy a *fit*. If your room is shallow, photometric wins,
 
 Match the sensor to your dimensions using the [room-size reality check](/golf/golf-simulator-room-size), then narrow the budget tier with the [best sub-$1,000 launch monitors](/golf/best-golf-launch-monitor-under-1000) and the [launch monitors under $5,000](/golf/golf-launch-monitors-under-5000-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official and independent-testing pages covering how radar and photometric technologies measure, room-depth and lighting requirements, indoor vs outdoor accuracy, and which 2026 units use which sensor. Specs for named units were cross-checked against the IgnitionSim gear pages (Garmin R10, SkyTrak+, Bushnell Launch Pro, Rapsodo MLM2PRO, FlightScope Mevo Gen 2, Uneekor EYE XO2, Foresight Falcon, Garmin R50).
 
 Useful source shelf: [PlayBetter camera-vs-radar comparison](https://www.playbetter.com/blogs/golf-simulator-comparisons/photometric-vs-radar-golf-launch-monitor), [PlayBetter 2026 launch monitor buyer's guide](https://www.playbetter.com/blogs/golf-simulator-comparisons/golf-launch-monitor-buying-guide), [Uneekor photometric vs Doppler explainer](https://uneekor.com/blogs/blog/photometric-vs.-doppler:-which-launch-monitor-technology-delivers-the-most-accurate-golf-data), [GolfBays radar vs photometric indoors](https://golfbays.de/en/blogs/news/radar-vs-photometric-launch-monitors-indoors), [Home Performance Lab SkyTrak+ vs Launch Pro vs GC3](https://homeperformancelab.com/skytrak-plus-vs-bushnell-launch-pro-vs-foresight-gc3/), [FlightScope Mevo Gen2 comparison](https://flightscope.com/blogs/blogs/best-golf-launch-monitor-comparison-2026), [Breaking Eighty FlightScope vs Rapsodo](https://breakingeighty.com/flightscope-vs-rapsodo).
@@ -8947,8 +8923,7 @@ If your room has 9–10 feet of ceiling and you want to build once at the top of
 
 The SkyTrak+ still reads the honest ball flight that earned its following, and at a closeout price near $1,795–$1,995 the *hardware* is a genuine deal. But 2026 changed the story in two ways older reviews miss: the unit is **discontinued**, and SkyTrak has **pulled official third-party software support for new buyers** in favor of a paid Course Play platform. So the recommendation splits. If you want the current, supported, warrantied SkyTrak, buy the **ST MAX** and know you're paying for support and extras, not an accuracy leap. If you want the same numbers for less and you've settled your software plan, the **closeout SkyTrak+** is a smart buy — with your eyes open. Either way, verify the software connection you need *before* you check out, and budget the membership you'll actually use. To see how a SkyTrak (or a rival) drops into your exact room, screen, and PC plan before you commit, run the whole stack through [the Rig Configurator](/racing/configurator).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked SkyTrak's official product page (discontinuation and closeout pricing), SkyTrak/PlayBetter/Shop Indoor Golf ST MAX and SkyTrak+ reviews (accuracy, shot delay, hitting zone, dual USB-C, speed training), SkyTrak's 2026 membership tiers (Basic/Essential/Core/Elite pricing), and multiple retailer and forum sources on the dropped third-party software support and the unofficial community connectors. Prices and the exact software-connection policy for new buyers can shift — confirm current status with the retailer before purchase.
 
 Useful source shelf: [SkyTrak+ official product page](https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor), [PlayBetter SkyTrak+ vs ST MAX comparison](https://www.playbetter.com/blogs/golf-simulator-comparisons/skytrak-plus-vs-skytrak-st-max), [Shop Indoor Golf ST MAX review](https://shopindoorgolf.com/blogs/helpful-articles-videos/skytrak-st-max-review-whats-actually-new), [Breaking Eighty SkyTrak+ review](https://breakingeighty.com/skytrak-plus-review), [golfsimulatorvideos SkyTrak membership plans](https://golfsimulatorvideos.com/skytrak-membership-plans/), [Golf Simulator Forum third-party integration thread](https://golfsimulatorforum.com/forum/skytrak/415602-skytrak-integrations-with-3rd-party-simulator-software), [golfsimulatoradvisor ST MAX vs SkyTrak+](https://golfsimulatoradvisor.com/skytrak-st-max-vs-skytrak-plus/).
@@ -9157,8 +9132,7 @@ The hardware differences are smaller than the software differences. Here is how 
 
 For the typical serious home player, the **SkyTrak+ (or ST MAX)** is the right buy in this tier: strong ball data, an included range, and — decisively — no annual subscription quietly compounding for years. Just confirm the third-party connector situation before you count on GSPro or E6 on a brand-new unit. Choose the **Bushnell Launch Pro** if you want the Foresight sensor's ball-data pedigree and you have made peace with the subscription stack or the one-time club-data unlock. Choose the **Foresight GC3** only if club-fitting-grade data is a real need — and if it is, the lifetime-software, no-recurring-fee structure makes the ~$6,999 easier to swallow than it looks. The technology is the easy part; the *ownership cost over three years* is the decision. Run your build through the [full cost breakdown](/golf/golf-simulator-cost) before you spend.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked hands-on reviews and official/retailer subscription documentation for all three units. Prices move constantly in this category, so treat every figure as "verify current at checkout."
 
 - SkyTrak ST MAX vs SkyTrak+ pricing and feature differences — [PlayBetter ST MAX vs SkyTrak+](https://www.playbetter.com/blogs/golf-simulator-comparisons/skytrak-plus-vs-skytrak-st-max), [PlayBetter ST MAX review](https://www.playbetter.com/blogs/golf-simulator-reviews/skytrak-st-max-review), [Shop Indoor Golf ST MAX review](https://shopindoorgolf.com/blogs/helpful-articles-videos/skytrak-st-max-review-whats-actually-new)
@@ -9538,8 +9512,7 @@ The honest-broker reality for this bay is bigger than usual. **Don't buy a racin
 
 For 2026, the marine bay rewards honesty over hype. Stop looking for the boat wheel — it does not exist, and chasing it is how people waste money here. If you want the highest immersion-per-dollar, a flight throttle quadrant (~$60) plus a Thrustmaster T.16000M rudder (~$80) is the value core — just confirm your sim reads analog input first. If you want a rig that feels exactly right and you enjoy the build, a Leo Bodnar BU0836X with [Bridge Command](/marine/gear/bridge-command-free-sim) is the most satisfying path in the whole bay, and uniquely the closest thing to "native" marine hardware there is. And if you only want to sail, the [Meta Quest 3](/marine/gear/meta-quest-3-marineverse-vr) skips the hardware problem entirely. Keep an eye on [Professional Ship Simulator](/marine/gear/professional-ship-simulator-context) — its hardware-friendly input model is the best bet yet to finally read your repurposed gear as the analog inputs it is.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. Because this bay has almost no marine-specific products, we verified each repurposed item against its manufacturer, manual, or exact Amazon ASIN and the DIY builds against the open-source sim they're designed for, rather than repeating box specs. Prices are approximate 2026 street prices and move constantly — treat every figure as "check current."
 
 Official product + maker pages: [Logitech G29 / Driving Force](https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html), [Thrustmaster TWCS Throttle](https://www.thrustmaster.com/products/twcs-throttle/), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs/), [Leo Bodnar BU0836X interface](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180) (£59.99 at review), [Leo Bodnar BU0836A interface](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204), [RailDriver (P.I. Engineering)](https://piengineering.com/products/raildriver), [PXN CB1 button box](https://us.e-pxn.com/products/pxn-cb1-racing-button-box-for-american-truck-simulator-farm-simulation) (~$99.99 sale at review), [Meta Quest MarineVerse Sailing Club](https://www.meta.com/experiences/marineverse-sailing-club/2465388190184288/).
@@ -9964,8 +9937,7 @@ If you're still deciding on a full setup rather than a single title, the [marine
 
 The compatibility gate, not the gear, is what decides whether you're happy. Buy the sim first, check its current-build row, and only then buy hardware the title will read. Lean toward **Bridge Command** for a documented, native build today, **Sailaway** for the friendliest commercial option, and keep an eye on **Professional Ship Simulator** for tomorrow — while verifying its final input spec at launch. Start any rig with a **button box**, because digital inputs dodge the analog gate. For everything in between, treat **vJoy**, **JoyToKey**, **AntiMicro**, and **x360ce** as required parts of the kit — and never, ever pay extra for force feedback in a bay that has none.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Because marine sim controller support shifts with patches and Early Access updates, we verified each title against its store page, developer statements, or community threads current as of this date — and flagged anything we could not re-confirm as "check current" in the body rather than asserting it.
 
 Sim compatibility + developer statements: [eSail Sailing Simulator on Steam](https://store.steampowered.com/app/794860/eSail_Sailing_Simulator/), [eSail hardware tips (developer guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=1410493788), [eSail official support](https://www.esailyachtsimulator.com/support/), [Sailaway controller-support update (developer)](https://www.sailawaysimulator.com/2017/11/23/sailaway-update-v-0-9-027-hot-keys-plus-controller-support/), [Seafarer: The Ship Sim — steering-wheel thread](https://steamcommunity.com/app/2582140/discussions/0/599665891567905955/), [Ships At Sea — wheel & joystick support thread](https://steamcommunity.com/app/1266540/discussions/0/4337609541991526037/), [Fishing: Barents Sea — controller thread](https://steamcommunity.com/app/501080/discussions/0/1736588252397611126/).
@@ -10214,8 +10186,7 @@ Because marine gear is borrowed from racing and flight, the smartest way to plan
 
 Stop looking for the boat wheel. It does not exist, and chasing it is how people waste money in this bay. The honest setup is a repurposed racing wheel as a helm, a flight throttle quadrant as engine levers, and a folder of free mapping software to force unwilling sims to listen. For under $60 in parts you can do better still with a DIY build around a Leo Bodnar board — which, uniquely in this bay, is the closest thing to "native" marine hardware there is. The only thing you must do *before* spending a dollar is confirm your chosen sim reads analog axes, because in marine, the cheapest hardware that actually works beats the most expensive hardware the game refuses to read.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Because this bay has almost no marine-specific products, we verified each repurposed item against its manufacturer page and the DIY builds against the open-source sim they're designed for — rather than repeating box specs.
 
 Official product + maker pages: [Logitech G29 Driving Force](https://www.logitechg.com/en-us/products/driving/g29-driving-force-racing-wheel.html), [Logitech G Saitek Pro Flight Throttle Quadrant](https://www.logitechg.com/en-us/products/flight/pro-flight-throttle-quadrant.html), [Thrustmaster TWCS Throttle](https://www.thrustmaster.com/products/twcs-throttle/), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/products/t-16000m-fcs/), [RailDriver (P.I. Engineering)](https://raildriver.com/), [Meta Quest 3](https://www.meta.com/quest/quest-3/).
@@ -10618,8 +10589,7 @@ Because marine gear is borrowed from racing and flight, the smartest way to plan
 
 Professional Ship Simulator is the first consumer marine sim that rewards a planned hardware build instead of merely tolerating a repurposed one. But the smart play is restraint: the fully clickable cockpit means you owe the game nothing on day one. Start with a gamepad and a throttle quadrant, let the input menu settle through Early Access, then add a button box and a conning stick if the engine-room workflow grabs you. Spend roughly **$120-220** and you'll have a bridge that feels like a bridge — on gear that works across every other sim you own. And if you'd rather not wait for Early Access to mature, **NAUTIS Home** is the shipping, subscription-based alternative that runs on the exact same hardware. Either way, that's the rare marine setup where the honest answer and the satisfying one are the same thing.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. Because this bay has almost no marine-specific products, we verified the sim's input claims against its official pages and each repurposed item against our own catalog rather than repeating box specs. Where two official sources disagreed (button/axis counts), we flagged the discrepancy instead of picking a number.
 
 Official sim pages: [Professional Ship Simulator on Steam](https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/) (developer SWE Systems, publisher Aerosoft; Early Access 2026, completion targeted mid-2027; radar with AIS/CPA, sonar, radio; modding not at launch), [Nautic XP official site](https://nauticxp.com/) (legacy name; "over 50 buttons, 9 axes, triple-layer keyboard," fully clickable cockpit, joystick-to-gamepad per ship, NMEA/GPX support), [Professional Ship Simulator announcement coverage](https://simulationdaily.com/news/professional-ship-simulator-announced/) ("over 100 mappable buttons in the fully-interactive cockpit, along with several control axes"; ex-Nautic XP; EA 2026; modding on roadmap).
@@ -10832,8 +10802,7 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked Simucube ActivePedal Pro specifications, MOZA mBooster official specs and pricing, Boosted Media active-pedal reviews, Heusinkveld Sprint official specs, MOZA CRP2 manual/spec references, Asetek Invicta manual details, Simagic P2000 official/retailer specs, Sim Racing Cockpit pedal coverage, and current r/simracing owner discussions about active pedals, hydraulics, and load cells.
 
 Useful source shelf: [Simucube ActivePedal Pro specs](https://docs.simucube.com/ActivePedalPro/Specifications.html), [Simucube ActivePedal store](https://simucube.com/en-us/simucubeactivepedal/), [MOZA mBooster official](https://us.mozaracing.com/products/mbooster-active-pedal), [Boosted Media mBooster review](https://boostedmedia.net/sim-racing/hardware-reviews/moza/moza-racing-mbooster-active-pedal-detailed-review/), [Boosted Media Simucube ActivePedal review](https://boostedmedia.net/sim-racing/hardware-reviews/simucube-activepedal-detailed-review/), [Heusinkveld Sprint official](https://heusinkveld.com/shop/sprint-pedals/sprint-3-pedal-set/), [Sim Racing Cockpit pedal guide](https://simracingcockpit.gg/sim-racing-pedals/), [r/simracing active pedal discussion](https://www.reddit.com/r/simracing/comments/1sfgj10/are_active_pedals_worth_it_or_is_it_beter_to_go/), [r/simracing hydraulic discussion](https://www.reddit.com/r/simracing/comments/1rw8bpr/are_hydraulic_load_cell_pedals_worth_it/).
@@ -11106,8 +11075,7 @@ If you rent, race late at night, or simply don't want to wire anything, **skip t
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product/spec pages and current retail pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages and image media: [Dayton Audio BST-1 (50W)](https://www.daytonaudio.com/product/1245/bst-1-high-power-pro-tactile-bass-shaker-50-watts), [Dayton BST-1 at Parts Express](https://www.parts-express.com/Dayton-Audio-BST-1-High-Power-Pro-Tactile-Bass-Shaker-50-Watts-295-244), [Fosi Audio HT4S](https://fosiaudio.com/products/fosi-audio-ht4s-bluetooth-amplifier), [Next Level Racing HF8](https://nextlevelracing.com/products/hf8-haptic-gaming-pad/), [ButtKicker Gamer Plus](https://thebuttkicker.com/products/buttkicker-gamer-plus), [ButtKicker Gamer Pro](https://thebuttkicker.com/products/buttkicker-gamer-pro). Official gallery/product images from Next Level Racing, ButtKicker, and Fosi are used above as product proof; the real driver-at-rig context photo is by [Matheus Bertelli on Pexels](https://www.pexels.com/photo/realistic-vr-racing-simulator-experience-28993071/). Community/reviewer install photos are linked and paraphrased unless explicitly licensed.
@@ -11721,8 +11689,7 @@ The rule of thumb: if you want comfort, long sessions and a friendlier price, a 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages: [Trak Racer TR160 V5](https://trakracer.com/products/tr160-v5), [Trak Racer TR80S](https://trakracer.com/products/tr80s-racing-simulator), [Next Level Racing GT Track](https://nextlevelracing.com/products/next-level-racing-gttrack/), [Next Level Racing GTLite](https://nextlevelracing.com/products/gt-lite/), [Next Level Racing Elite ES1 Seat](https://nextlevelracing.com/products/elite-es1-sim-racing-seat/), [GT Omega Apex Wheel Stand](https://www.gtomega.com/products/apex-steering-wheel-stand), [Sim-Lab P1X Pro](https://sim-lab.us/products/p1x-pro-simracing-cockpit).
@@ -11918,8 +11885,7 @@ If you race **endurance or organized league events** where knowing exactly where
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs.
 
 Official pages: [Samsung Odyssey OLED G9 49" (G95SC)](https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-oled-g9-g95sc-dqhd-240hz-03ms-g-sync-sku-ls49cg954snxza/), [Samsung Odyssey Neo G9 57" (G95NC)](https://www.samsung.com/us/monitors/gaming/57-inch-odyssey-neo-g9-dual-4k-uhd-quantum-mini-led-240hz-1ms-hdr-1000-curved-gaming-monitor-sku-ls57cg952nnxza/), [Next Level Racing Free Standing Triple Monitor Stand](https://nextlevelracing.com/products/next-level-racing-free-standing-triple-monitor-stand/), [ASUS TUF Gaming VG27AQ tech specs](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq/techspec/).
@@ -12086,8 +12052,7 @@ Motion is not a plug-and-play seat pad. Budget for the whole picture before you 
 
 If your tactile isn't finished, **skip motion** — a $250 tactile top-up will out-immerse a mis-timed motion purchase every time. If you race in a **shared house or apartment** and can't tolerate the noise or the ceiling clearance, skip it. If you're chasing **lap time**, skip it — the data is clear that motion doesn't deliver pace, and the money is better spent on a [wheelbase](/racing/gear/nlr-motion-v3), pedals, or practice. Motion is a luxury for people who've already built a great rig and want the chassis to move. That's a completely legitimate want — just make sure it's the layer you're actually missing before you write the biggest cheque in the hobby.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked manufacturer product pages and current 2026 pricing/review notes rather than repeating spec-sheet claims, and paraphrased community consensus in our own words.
 
 Official pages: [Next Level Racing Motion Platform V3](https://nextlevelracing.com/products/next-level-racing-motion-platform-v3/), [DOF Reality H3 3-Axis (Racing)](https://dofreality.com/product/racing/motion-racing-rig-3-axis-hero-h3/), [DOF Reality model comparison](https://dofreality.com/compare-motion-simulators/).
@@ -12287,8 +12252,7 @@ Here's the honest breakdown of a $1,000 that a lot of new racers get exactly bac
 
 In 2026, the best sim racing setup under $1,000 is a **balanced direct-drive build**, not the strongest one part you can afford: a [MOZA R12](/racing/gear/moza-r12) 12Nm base (~$399), a [MOZA CRP2](/racing/gear/moza-crp2) load-cell brake (~$369) and a rigid folding stand (~$199), landing around **$967** complete. On PlayStation, a [Thrustmaster T598](/racing/gear/thrustmaster-t598) bundle takes the base slot. Spend on feel and consistency, protect it with rigidity, and skip the parts that don't change lap times. Lean on [pedals over power](/racing/pedals-over-power) whenever the temptation to over-spend on torque hits, verify the current prices, and you'll build a rig you race for years — not one you replace next season.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail/sale pricing rather than repeating box specs. Prices move often — confirm current pricing before buying.
 
 Official pages: [MOZA R12 V2](https://mozaracing.com/products/r12-wheelbase), [MOZA R9 V3](https://mozaracing.com/wheel-base-r9), [MOZA CRP2 load-cell pedals](https://mozaracing.com/products/crp2-pedals), [MOZA SR-P pedals](https://mozaracing.com/products/srp-pedals), [Fanatec CSL Pedals LC bundle ($199.99)](https://www.fanatec.com/us/en/p/pedals/csl_p_lc/csl_pedals_lc), [Fanatec Gran Turismo DD Pro bundle](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_gt_dd_pvgt_8nm_us/gran-turismo-dd-pro-ready2race-vision-gt-bundle-8-nm-us), [Thrustmaster T598 (PlayStation/PC)](https://eshop.thrustmaster.com/en_us/t598-us-playstation-pc.html), [Next Level Racing Wheel Stand 2.0](https://nextlevelracing.com/products/racing-wheel-stand-2-0/).
@@ -12746,8 +12710,7 @@ If you're genuinely **testing whether sim racing sticks**, buy the floor, a Camm
 
 If you want the cheapest real direct drive that exists, buy the **Cammus C5** at ~$249-299 and enjoy 5Nm of genuine DD feel for less than a belt wheel cost in 2022. If you race on **Xbox** or want a clear upgrade ladder, the **MOZA R3** bundle is worth the slightly lower torque for the ecosystem it opens. On **PS5**, start with the **GT DD Pro** or **Thrustmaster T598**. But if you're on PC and you already suspect you're hooked, the smartest budget decision isn't the floor at all, it's stretching about $100 to the **MOZA R12** and never shopping for a base again. Whatever rung you pick, put your next ~$200 into load-cell pedals before a stronger base. That's the upgrade that makes you faster.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail/bundle pricing rather than repeating box specs. Bundle prices at the bottom of the market move with frequent sales, so treat figures as current-at-review and confirm before buying.
 
 Official pages: [MOZA R3 Xbox bundle](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA R5 bundle](https://mozaracing.com/products/r5-racing-bundle), [MOZA R12 V2](https://mozaracing.com/products/r12-wheelbase), [MOZA R9 V3](https://mozaracing.com/products/r9-wheelbase), [Cammus C5](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/), [Fanatec CSL DD QR2 (8 Nm)](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_csl_dd_qr2_8nm_us/csl-dd-qr2-ready2race-bundle-pc-8-nm-us), [Fanatec GT DD Pro (8 Nm) bundle](https://www.fanatec.com/us/en/p/sim-racing-bundles/r2r_gt_dd_pvgt_8nm_us/gran-turismo-dd-pro-ready2race-vision-gt-bundle-8-nm-us), [Thrustmaster T598 (PlayStation / PC)](https://eshop.thrustmaster.com/en_us/t598-us-playstation-pc.html).
@@ -12883,8 +12846,7 @@ Do not tune force feedback around flex. Fix the flex. Otherwise you are just tea
 
 Wheel stand if space rules the room. Fixed cockpit if you want a complete, stable package. 8020 if this is no longer a phase and you need the last frame first.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official cockpit product pages, gear-database notes, and current r/simracing buyer discussions around wheel stands, load-cell brakes, and 8020 profile upgrades.
 
 Community reads: [r/simracing wheel stand advice](https://www.reddit.com/r/simracing/comments/1dnpcxu/is_it_worth_getting_a_wheelstand/), [r/simracing 8020 upgrade discussion](https://www.reddit.com/r/simracing/comments/1lqtrqb/new_to_sim_racing_should_i_go_straight_to_8020/), and [r/simracing 8020 explanation](https://www.reddit.com/r/simracing/comments/fnu2rz/why_an_8020_rig_is_the_way_to_go/).
@@ -13103,8 +13065,7 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official pages for Logitech RS50, Logitech G PRO, Thrustmaster T598, MOZA R3 Xbox, Fanatec GT DD Pro, Fanatec ClubSport DD+, and Fanatec Xbox compatibility guidance, plus 2026 buyer coverage from PC Gamer, Traxion, The Verge, and current console compatibility forum discussions.
 
 Useful source shelf: [Logitech RS50 official](https://www.logitechg.com/en-us/shop/p/rs50-system), [Logitech G PRO official](https://www.logitechg.com/en-us/shop/p/pro-racing-wheel), [Thrustmaster T598 official](https://www.thrustmaster.com/en-us/products/t598/), [MOZA R3 Xbox official](https://mozaracing.com/products/r3-racing-bundle-xbox), [Fanatec GT DD Pro official](https://www.fanatec.com/us/en/p/sim-racing-bundles/crd-9020007-us/gran-turismo-dd-pro-5nm-qr2l-us), [Fanatec ClubSport DD+ official](https://www.fanatec.com/us/en/p/wheel-bases/cs_dd%2B_us/clubsport-dd-plus-us), [Fanatec Xbox compatibility](https://www.fanatec.com/us/en/explorer/products/racing-wheels-wheel-bases/understanding-fanatec-xbox-compatibility/), [PC Gamer RS50 coverage](https://www.pcgamer.com/hardware/steering-wheels/logitech-has-announced-an-affordable-8-nm-direct-drive-racing-wheel-setup-with-full-trueforce-support-along-with-some-fancy-trick-pedals-i-want-to-try-for-myself/), [The Verge T598 coverage](https://www.theverge.com/2024/10/11/24267818/thrustmaster-racing-sim-wheel-t598-sony-playstation-direct-axial-drive), [Traxion RS50 compatibility](https://traxion.gg/logitech-rs50-confirmed-as-8nm-direct-drive-pc-and-console-racing-wheel/).
@@ -13383,8 +13344,7 @@ For everyone else — anyone who races leagues, chases consistency, or just want
 
 In 2026 the question is no longer *whether* to go direct drive — belt and gear wheels have collapsed into sub-$300 toy territory and the entry to real DD starts around $300, in the same band as a good belt wheel. The question is *how much torque*, and the honest answer is less than the box wants you to buy. Start at 5-8Nm if money is tight, land at 9-15Nm if you can, and treat anything above that as a luxury you're choosing, not a need you're filling. Spend the torque you saved on pedals and a rig that doesn't flex. That's the setup you won't be itching to replace in twelve months.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail pricing rather than repeating box specs. Prices move with sales — treat figures as street-price ballparks and confirm current pricing before buying.
 
 Official pages: [MOZA R12 V2 (12Nm, 21-bit, NexGen 4.0)](https://mozaracing.com/products/r12-wheelbase), [MOZA R5 bundle (5.5Nm)](https://us.mozaracing.com/products/r5-racing-bundle), [MOZA R3 Xbox bundle (3.9Nm)](https://us.mozaracing.com/products/r3-racing-bundle-pc), [Cammus C5 (integrated 5Nm)](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/).
@@ -14882,8 +14842,7 @@ Skip it if you race on **console** (PC-only kills it — the R3 is your MOZA pat
 
 The MOZA R5 is still a **legitimately good 2026 buy** for the PC racer who wants real direct drive without flagship spend, in a small cockpit or on a tight budget. Its 5.5Nm is more than enough for GT and formula racing, its NexGen feel punches above the number, it's silent and stable, and the bundle arrives complete with a clamp most brands charge extra for. But the ground shifted under it: **MOZA's own R9 got cheaper**, so unless budget or size pins you to the R5, the R9 is the wiser single purchase — barely more money for the force-feedback sweet spot, wireless wheel comms and real headroom. Either way, spend your next dollar on a [load-cell brake](/racing/pedals-over-power), not more torque; map your build in [the Rig Configurator](/racing/configurator); and plan how far you'll climb with the [smart upgrade path](/racing/smart-upgrade-path). Buy the rung that matches your honest plan — and in 2026, check the R5-versus-R9 price gap before you do.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/spec notes rather than repeating box specs. Prices are moving during MOZA's Mid-Year Sale (roughly June 16 – July 15, 2026) — confirm current figures before buying.
 
 Official pages: [MOZA R5 Racing Bundle](https://mozaracing.com/products/r5-racing-bundle), [MOZA racing series pricing](https://mozaracing.com/collections/racing-series), [MOZA R9 V3 wheel base (US)](https://us.mozaracing.com/products/r9-wheelbase), [MOZA R3 Xbox bundle (US)](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA DD wheels & wheelbases buyer's guide](https://mozaracing.com/blogs/blog/dd-wheels-and-wheelbases-buyers-guide).
@@ -15099,8 +15058,7 @@ Honest-broker note: if you're a casual GT cruiser who races occasionally and doe
 
 If you take one thing from this bay, take this: when you have a dollar to spend on going faster, spend it on the brake before the base. A load-cell pedal set under $300 will do more for your consistency than jumping from 8Nm to 16Nm ever will, and it carries across every future base you own. Set it up to pressure, not travel, bolt it down hard, calibrate the 100% point to a force you can actually repeat, and give your leg time to relearn. Save hydraulic and active pedals for the day you've genuinely run out of more impactful upgrades — for almost everyone, that day never comes. Power is loud. Pedals are fast.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retail pricing rather than repeating box specs.
 
 Official pages: [MOZA CRP2 pedals](https://mozaracing.com/products/crp2-pedals), [MOZA SR-P pedals](https://mozaracing.com/products/srp-pedals), [Fanatec CSL Pedals Load Cell Kit](https://www.fanatec.com/us/en/p/sim-racing-accessories/csl_p_lck/csl-pedals-load-cell-kit), [Simagic P2000-R](https://simagic.com/products/p2000-r), [Asetek Invicta pedals](https://www.asetek.com/simsports/us/product/invicta-s-series-thorp-2/), [Simucube ActivePedal Pro](https://simucube.com/en-us/activepedal-pro/).
@@ -15302,8 +15260,7 @@ For **rally and drift**, buy a **handbrake first** and a **sequential shifter se
 
 Not sure where a shifter or handbrake fits in your overall plan? Map it against the rest of your gear in [the Rig Configurator](/racing/configurator) before you spend.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current retailer/community pricing rather than repeating box specs. Several figures move often and are flagged "check current" in the text.
 
 Official pages: [MOZA HBP Handbrake](https://us.mozaracing.com/products/hbp-handbrake), [MOZA SGP Sequential Shifter](https://us.mozaracing.com/products/sgp-shifter), [Fanatec ClubSport Handbrake V2](https://www.fanatec.com/us/en/p/add-ons/cs_hb_v2/clubsport-handbrake-v2), [Thrustmaster TH8A](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/), [Sim-Lab XB1 Load-Cell Handbrake](https://sim-lab.us/products/handbrake-xb1-loadcell-sim-racing).
@@ -15501,8 +15458,7 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs, and paraphrased community consensus in our own words.
 
 Official pages: [SteelSeries Arctis Nova 7 Gen 2](https://steelseries.com/gaming-headsets/arctis-nova-7-gen-2), [Govee RGBIC Wi-Fi Gaming Light Bars (H6047)](https://us.govee.com/products/govee-rgbic-wi-fi-gaming-light-bars-with-smart-controller), [Sabrent 10-Port USB 3.0 Powered Hub (HB-BU10)](https://sabrent.com/products/hb-bu10), [ButtKicker Gamer PRO](https://thebuttkicker.com/products/buttkicker-gamer-pro).
@@ -16181,8 +16137,7 @@ Honest-broker note: if you're a casual player who races a few hours a month, **s
 
 The smart upgrade path is almost the reverse of most people's instinct. Buy the cheapest real DD bundle to get on track, pick your ecosystem deliberately, then upgrade in this order: **pedals, rig, base, taste.** Resist the urge to chase torque first, it's the one move that costs the most and helps the least, and two-thirds of the community will tell you the same thing. Map your own staged budget in [the Rig Configurator](/racing/configurator), and you'll arrive at a forever rig having bought each piece exactly once.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing rather than repeating box specs; where a live sale price was moving, we say "check current" instead of quoting a hard figure.
 
 Official pages: [MOZA R12 V2](https://us.mozaracing.com/products/r12-wheelbase), [MOZA R3 Xbox bundle](https://us.mozaracing.com/products/r3-racing-bundle-xbox), [MOZA CRP2 pedals](https://mozaracing.com/products/crp2-pedals), [Trak Racer TR80S](https://trakracer.com/products/tr80s-racing-simulator), [Sim-Lab P1-X Pro](https://sim-lab.us/products/p1x-pro-simracing-cockpit), [ButtKicker Gamer PRO](https://thebuttkicker.com/products/buttkicker-gamer-pro), [Cammus C5](https://cammusracing.com/product/global-first-cammus-c5-direct-drive-steering-wheel/).
@@ -16385,8 +16340,7 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and spec references for Samsung Odyssey G9/OLED G9, ASUS VG27AQ, Meta Quest 3 and Pimax Crystal Light, plus Sim Racing Cockpit/FOV resources, current r/simracing display threads, and VR/triple-monitor owner discussions focused on comfort, GPU load, and endurance use.
 
 Useful source shelf: [Samsung Odyssey OLED G9](https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-oled-g9-g95sd-dual-qhd-240hz-03ms-g-sync-sku-ls49dg956snxgo/), [ASUS VG27AQ official](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq/), [Meta Quest 3 official](https://www.meta.com/quest/quest-3/), [Pimax Crystal Light official](https://pimax.com/products/pimax-crystal-light), [r/simracing triples vs ultrawide](https://www.reddit.com/r/simracing/comments/1q3tdp5/triple_monitors_or_just_one_ultrawide/), [r/simracing VR or triples owner thread](https://www.reddit.com/r/simracing/comments/1qb52v8/vr_or_triple_monitor_setup_asking_those_who_tried/), [r/simracing triples vs 48:9](https://www.reddit.com/r/simracing/comments/1txg988/would_you_rather_have_triples_or_a_489_monitor/), [Sim Racing Cockpit FOV guide](https://simracingcockpit.gg/fov/).
@@ -16599,8 +16553,7 @@ Buying the sticks is the easy part. Four things trip up new HOSAS pilots more th
 
 For most new pilots the **WinWing Ursa Minor pair** at ~$220-260 is the sweet spot: magnetic sensors, real feel, in-stick vibration, and an ecosystem to grow into, all under $300. Buy **twin T.16000Ms** (~$150-160) if you're not yet sure you'll stick with two-stick flying — the Hall-effect sensors mean it won't drift while you learn — and buy the **VKB Gladiator pair** (~$240-300) if you already know you want to climb to a Gunfighter someday. Skip the Logitech X52/X56 for a HOSAS: they're one-box HOTAS units that can't be mirrored onto an off hand. There is no wrong answer in this list — only the question of how committed you already are. When you're ready to settle the closest call in the lineup, I put the two budget magnetic sticks head-to-head in [Ursa Minor vs Gladiator NXT EVO](/space/winwing-ursa-minor-vs-vkb-gladiator-nxt-evo), and I map all three boutique brands in [VKB vs Virpil vs WinWing](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because budget and boutique stock and pricing swing week to week. We never fabricate a hard price — where a bundle or pair price moves, we give a range and tell you to confirm at checkout.
 
 Official pages: [VKB Gladiator NXT EVO joysticks](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [WinWing US store](https://winwingsim.com/), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/en-us/products/t16000m-fcs/), [Logitech G space & flight controllers](https://www.logitechg.com/en-us/products/space/).
@@ -16838,8 +16791,7 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
 
 The **best controls for Elite Dangerous in 2026** depend on your loop, and Elite is the rare space sim where that answer really flips. Fight or fly FA-off and you want **HOSAS** — twin T.16000M to start at ~$120, a VKB Gladiator pair to commit. Explore or trade and a **HOTAS** with a real throttle is more comfortable for the long haul, and Elite's flight model rewards the lever. On **Xbox**, take the licensed VelocityOne and don't overthink it. And whatever you fly, the **Operations** update means you should keep a **gamepad on the desk** for the on-foot fights — on its own control profile. Match the tool to the mission, mount your sticks, tame the binds, and Elite rewards you for it.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, Frontier's Operations coverage, and current community consensus rather than repeating box specs, and we quote street prices as approximate because stock and pricing swing week to week. Where a source conflicted or stock was uncertain, we flagged it in-text as "check current" rather than guessing.
 
 Official + game sources: [Elite Dangerous — Operations](https://www.elitedangerous.com/news/update-operations), [Operations (Elite Dangerous Wiki)](https://elite-dangerous.fandom.com/wiki/Operations), [Elite Dangerous: Operations update details (Simulation Daily)](https://simulationdaily.com/news/elite-dangerous-operations-update/), [Massively OP — Operations "raid-like" instances](https://massivelyop.com/2026/01/11/elite-dangerous-drops-preliminary-details-about-its-raid-like-multiplayer-operations-instances/).
@@ -17103,8 +17055,7 @@ Here's the decisive part most buying guides duck. Read our full [HOSAS vs HOTAS 
 
 For the **best HOTAS for Star Citizen in 2026**, build a metal all-VKB rig — a Gladiator or Gunfighter stick paired with the **VKB STECS Mk.II throttle** — if you want a space-native throttle with a real detent for SCM-speed control and no software seams. Buy the **Thrustmaster T.16000M FCS HOTAS** if you're testing the waters at ~$170. Buy the **Logitech G X56** if you live in cargo and mining and want maximum buttons around $250 (stock permitting). Reach for the **WinWing/WINCTRL Orion 2** if you also fly DCS and want a fighter-shaped metal set — just vet your throttle SKU for stiction. And if you want the finest standalone throttle ever made, chase a **Virpil MongoosT-50CM3** before the final 2026 batch sells out. Just remember: Star Citizen will eat every button you give it, so plan your bind real estate — and a Stream Deck — before you check out.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique throttle stock and pricing swing week to week.
 
 Official pages and specs: [Thrustmaster T.16000M FCS HOTAS](https://www.thrustmaster.com/products/t-16000m-fcs-hotas/) (MSRP $149.99; 5 axes / 30 buttons / TWCS 80mm rail throttle), [VKB STECS Throttle System Mk.II Standard](https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard-us) ($289; dual levers, MaRS sensors, 5 detent frames), [VKB STECS Space Throttle STG spec detail](https://vkb-sim.com.au/products/stecs-space-throttle-stg-system-mk-ii-standard) (6-DOF thruster control, contactless MaRS, steel baseplate), [Logitech G X56 H.O.T.A.S.](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) ($249.99; 189 programmable controls, twin throttles, thumb ministicks), [Virpil MongoosT-50CM3 introduction](https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle) (CosmoSim space detent, dual axes; final batch due 2026).
@@ -17351,8 +17302,7 @@ Before you buy, model the throttle against your stick, desk, and any panels you'
 
 For a first DCS setup, buy the **Thrustmaster T.16000M FCS HOTAS** at ~$170 and accept the stiff spring — nothing else gets you flying for less. When the throttle itself is the priority, the **Virpil MongoosT-50CM3** (~$380, check current) is the finest standalone lever, with the **VKB STECS Mk.II Standard** (~$289, check current) the value alternative that reaches the same felt afterburner gate for less, and the **Thrustmaster Warthog Dual Throttle** ($349.99) the A-10 immersion pick. For a complete metal stick-and-throttle in one box, the **WinWing Orion 2** (~$460-500, check current) is the bang-for-buck HOTAS. Who should skip the flagship throttle tier entirely: single-airframe casual pilots — a good budget HOTAS reaches the one afterburner gate you actually fly, and the flagship money is better spent on a mount and a labeled panel.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate — because boutique throttle stock and pricing swing week to week — except the Thrustmaster Warthog Dual Throttle, quoted at $349.99 from Thrustmaster's own US store on the review date.
 
 Official pages: [Thrustmaster HOTAS Warthog Dual Throttle](https://www.thrustmaster.com/en-us/products/hotas-warthog-dual-throttle/) ($349.99; disengageable afterburner detent, Hall sensors, slew ministick), [Thrustmaster T.16000M FCS HOTAS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/) (30 buttons, two 8-way hats, TWCS linear-rail throttle), [VirPil MongoosT-50CM3 introduction](https://virpil.com/en/blog/177-introducing-the-vpc-mongoost-50cm3-throttle) (dual duralumin levers, five detent profiles: Classic, Classic Plus, Warthog-Type, Aerobatic, CosmoSim), [Virpil MongoosT-50CM3 support page](https://support.virpil.com/en/support/solutions/articles/47001251002-vpc-mongoost-50cm3-throttle) (adjustable detent plates, control count), [VKB STECS Throttle System Mk.II Standard](https://www.vkbcontrollers.com/products/stecs-throttle-system-mk-ii-standard) (dual levers, five detent frames, L/V/W inserts), [WinWing US store](https://winwingsim.com/) (Orion 2 grips and price).
@@ -17716,8 +17666,7 @@ For 2026, build a HOSAS, and build it from the [VKB Gladiator NXT EVO Space Comb
 
 Then mount it properly and tame the binds — sliding sticks and a 200-key keyboard both ruin combat. Plan the whole rig, mounts and macro panel included, in the [space configurator](/space/configurator) before you buy.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 17, 2026. We checked official product pages, support guides, exact Amazon ASINs, and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO 'Space Combat Edition' (US store)](https://vkbsimcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand-us) (confirmed ~$139), [VKB Gladiator NXT EVO joysticks](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs/), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Turtle Beach VelocityOne Flightstick](https://www.turtlebeach.com/products/velocity-one-flight-stick) (confirmed ~$129.99), [WinWing US store](https://winwingsim.com/), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html) (page blocked automated fetch — price left approximate, verify live), [Virpil VPC Constellation ALPHA](https://virpil-controls.us.com/vpc-constellation-alpha-r.html), [Elgato Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl) (seen ~$225 on sale mid-2026).
@@ -17923,8 +17872,7 @@ Three honest questions decide it — the same branch points from the tree above,
 
 The gamepad is not a compromise — it's the correct first controller for most Star Citizen pilots, and a gamepad-plus-Stream-Deck combo handles the game's real pain point (the 200-plus binds) for less than the cost of a stick. Buy a HOTAS when you fly aircraft sims too, or when the throttle feel is the reason you sim. And if precise spaceflight is the goal, don't buy a single stick at all — buy two, because the ship you're flying strafes and the controller should too.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community consensus rather than repeating box specs, and we quote street prices as approximate because stock and pricing swing week to week — confirm current price and layout before you buy.
 
 Official pages: [Logitech G X56 H.O.T.A.S.](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) (189 programmable controls, twin throttles, six degrees of freedom, $249.99 listed), [Thrustmaster T.16000M FCS HOTAS](https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/) (T.16000M stick + TWCS throttle, 4 stick axes incl. twist, 30 buttons), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/en-us/products/hotas-warthog/), and the [Star Citizen controller support overview](https://www.rewasd.com/community/games/star-citizen-controller-support).
@@ -18103,8 +18051,7 @@ For most pilots on a monitor, the whole "look around" question is answered by on
 
 In 2026, **head tracking is the smarter pick for the vast majority of Star Citizen pilots**, and **[TrackIR 5](/flight/gear/naturalpoint-trackir-5)** is the one to buy — it costs around $150, adds zero performance overhead, never makes you sick, and lets you keep one foot in the real world where your stick and keyboard live. If you refuse to wear a clip, the clip-free [Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5) is the officially-supported alternative at a higher price. VR is the more jaw-dropping experience now that 4.5 and 4.6 made it real, and if you have the PC for it, a [Quest 3](/racing/gear/meta-quest-3) is a cheap way in — but it's still experimental, still leans on DLSS, still has no motion controllers, and is still a lot to live with for daily play. If you do fly in a headset, make sure your inputs all live on your [HOTAS or HOSAS](/space/best-hotas-for-star-citizen) first — and if you mount that rig, lock it down properly, because reaching blind for a sliding stick in VR is its own special misery (our [Monstertech mounting guide](/space/mounting-your-hosas-monstertech) has the fix).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages, Star Citizen patch coverage, and current community reads rather than repeating box specs, and we quote street prices as approximate because tracker and headset pricing swings week to week — verify the current figure before you buy.
 
 Star Citizen VR: [Road to VR — Star Citizen VR in 4.6](https://roadtovr.com/star-citizen-vr-support-4-6-update-release/), [Star Citizen Wiki — Virtual reality](https://starcitizen.tools/Virtual_reality), [Star Citizen Wiki — DLSS](https://starcitizen.tools/DLSS), and [MMOPixel — Experimental VR in 4.5](https://www.mmopixel.com/news/experimental-vr-support-in-star-citizen-4-5-features-limitations-and-setup).
@@ -18305,8 +18252,7 @@ Match the config to your game and your hands, not to dogma. If you fly **Star Ci
 
 Whichever way you lean, start cheap: twin [T.16000Ms](/space/gear/thrustmaster-t16000m-fcs) for a first HOSAS, learn the left-hand thrusters, mount both sticks, and only chase boutique gimbals once you know you want them. Once you've picked your layout, the next job is wiring six axes across the grips without running out of inputs — which is exactly what [binding all six axes across a HOSAS setup](/space/how-to-bind-six-axes-hosas) is for.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community consensus rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO Space Combat Edition](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [VKB Gladiator NXT EVO Omni-Throttle](https://www.vkbcontrollers.com/), [VKB Gunfighter Mk.IV base](https://www.vkbcontrollers.com/), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html), [Thrustmaster T.16000M FCS](https://www.thrustmaster.com/products/t-16000m-fcs/), [Thrustmaster HOTAS Warthog](https://www.thrustmaster.com/products/hotas-warthog/), [Turtle Beach VelocityOne Flightstick](https://www.turtlebeach.com/products/velocityone-flightstick), [WinWing US store](https://winwingsim.com/).
@@ -18516,8 +18462,7 @@ Flying atmospheric sims too? The same mounting logic applies to a HOTAS — a he
 
 Mounting isn't an upgrade you earn later — it's part of a HOSAS rig the same way the second stick is. Baseplates slide because lateral combat forces beat friction, and the only real fix is clamping each stick to rigid furniture so the force has somewhere to go. **Buy Monstertech if you want the proven universal standard, Foxx Mount if you want to save money on a US-made modular kit, and Virpil's VPC Desk Mount V4 if you're already all-Virpil.** Choose chair mounts if your armrests take them and desk clamps if they don't, mount the sticks *low* and *canted inward* to your wrists, and don't kid yourself that a budget rig is exempt — light sticks slide the most. Get this right and you remove a whole category of "why is my aim drifting" frustration that has nothing to do with your binds or your curves. For the binding and tuning side of steady aim, see [how to bind all six axes across a HOSAS setup](/space/how-to-bind-six-axes-hosas); for the sticks themselves, [the three-brand boutique breakdown](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026).
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [Monstertech Joystick/HOTAS Desk Mount (MTSIM US)](https://www.mtsim.com/product/joystick-hotas-table-mount/), [Monstertech desk-mount category with current pricing](https://www.mtsim.com/product-category/table-mounts/), [Monstertech Chair Mount](https://www.monster.tech/en/product/joystick-hotas-chair-mount/), [Foxx Mount store](https://foxxmount.com/), [Virpil VPC Desk Mount V4-L](https://virpil-controls.us.com/vpc-desk-mount-v4-l.html), and [Virpil's official space-sim HOSAS cockpit setup guide](https://support.virpil.com/en/support/solutions/articles/47001266942-space-simulation-cockpit-setup-guide-virpil-controls).
@@ -19686,8 +19631,7 @@ The hardware ladder has a shadow: two things that aren't in the SKU list but are
 
 Buy the **Gladiator NXT EVO pair**, mount both sticks, add a Stream Deck for the binds, and treat everything above that as optional. The reason to choose VKB over a dead-end budget stick isn't that you'll definitely climb the ladder — it's that the *option* costs you nothing, because the ecosystem, your profiles and your muscle memory all come with you. Add the **Omni-Throttle** when cruise control nags, step to a **Gunfighter Mk.IV base** when you can name what you dislike about the Gladiator's cam feel, and reach for the **MCG Pro** only when "the best VKB makes" is a thing you actively want. Still torn between starting cheap and starting boutique? [HOSAS vs HOTAS](/space/hosas-vs-hotas) will settle whether two sticks is even your layout, and the [Star Citizen HOSAS upgrade path](/space/star-citizen-hosas-upgrade-path-2026) maps the same climb against a specific game.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official VKB product pages and current community consensus rather than repeating box specs, and we quote street prices as approximate because VKB sells in production waves and pricing swings week to week — several of these SKUs were on back-in-stock notify at the time of writing.
 
 Official pages: [VKB Gladiator NXT EVO joysticks collection](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [VKB Gladiator NXT EVO Omni-Throttle](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-omni-throttle), [VKB Gunfighter IV Base Only](https://www.vkbcontrollers.com/products/gunfighter-iv-base-only), [VKB MCG Pro Add-On Grip for Gunfighter IV](https://www.vkbcontrollers.com/products/mcg-pro-add-on-grip-for-gunfighter-iv). EU pricing cross-checks (incl VAT, for direction only): [Gladiator Space Combat Edition €161-201](https://flightsimcontrols.com/product/gladiator-evo-space-combat-edition/), [Omni-Throttle €209](https://flightsimcontrols.com/product/gladiator-nxt-evo-omni-throttle/), [MCG Pro Rev.C €161-199](https://flightsimcontrols.com/product/modern-combat-grip-mcg-socket-rev-b/).
@@ -19910,8 +19854,7 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because boutique stock and pricing swing week to week.
 
 Official pages: [VKB Gladiator NXT EVO joysticks](https://www.vkbcontrollers.com/collections/gladiator-nxt-joysticks), [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [Virpil VPC WarBRD-D base](https://virpil-controls.us.com/vpc-warbrd-d-base.html), [Virpil VPC Constellation ALPHA](https://virpil-controls.us.com/vpc-constellation-alpha-r.html), [WinWing US store](https://winwingsim.com/).
@@ -20112,8 +20055,7 @@ Buy the **WinWing Ursa Minor Space** pair if you want the best feel-and-feedback
 
 Either way you're getting a legitimate magnetic-sensor HOSAS for well under $300 a pair, which a few years ago would have been impossible. For the full three-brand boutique breakdown including Virpil, see [VKB vs Virpil vs WinWing for space sims](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026), and price your exact pair-plus-mounts build in [the Rig Configurator](/racing/configurator) before you commit.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current community reviews rather than repeating box specs, and we quote street prices as approximate because near-boutique stock and pricing swing week to week. Confirm current price and handedness at checkout.
 
 Official pages: [VKB Gladiator NXT EVO Space Combat Edition (right hand)](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand), [VKB Gladiator NXT EVO Space Combat Edition — spec/pricing (FSC Europe)](https://flightsimcontrols.com/product/gladiator-evo-space-combat-edition/), [WinWing US store](https://winwingsim.com/), [WinWing URSA MINOR Space/Fighter HOSAS product page](https://winctrl.com/view/goods-details.html?id=725&sku_id=281).

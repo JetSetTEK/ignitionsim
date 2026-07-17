@@ -225,8 +225,7 @@ This comparison resolves the moment you name your airplane. If you fly **general
 
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product pages and current pricing/availability rather than repeating box specs; where a price was sale-dependent or split between official MSRP and street, we flagged "check current" or gave a range.
 
 Official pages: [Honeycomb Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls), [Honeycomb Bravo Throttle Quadrant](https://flyhoneycomb.com/products/bravo-throttle-quadrant), [Honeycomb Charlie Rudder Pedals](https://flyhoneycomb.com/products/charlie-rudder-pedals), [Honeycomb Captain's Bundle (Alpha/Bravo/Charlie)](https://flyhoneycomb.com/products/captains-bundle), [Thrustmaster TCA Sidestick Airbus Edition](https://www.thrustmaster.com/products/tca-sidestick-airbus-edition/), [Thrustmaster TCA Quadrant Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-quadrant-airbus-edition/), [Thrustmaster TCA Captain Pack X Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-captain-pack-x-airbus-edition/), [Thrustmaster TCA Yoke Pack Boeing Edition](https://www.thrustmaster.com/products/tca-yoke-pack-boeing-edition/).

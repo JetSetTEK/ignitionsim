@@ -351,8 +351,7 @@ The caveat is not small: this is still a room project. The R50 can reduce softwa
 
 If the room measures well and the no-PC workflow is what you actually want, buy the R50 with confidence. If you are only chasing the "best" launch monitor because expensive feels safe, pause and build the room plan first.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 6, 2026. We checked Garmin's official R50 product and launch materials, PlayBetter's 2026 R50 review, Home Performance Lab's R50 vs Uneekor Eye Mini comparison, Indoor Golf Outlet's R50 vs SkyTrak+ comparison, existing IgnitionSim product data, and current community discussion patterns around R50 setup, software, stickers, room fit, and total ownership.
 
 Useful source shelf: [Garmin R50 official product page](https://www.garmin.com/en-US/p/736810/), [Garmin R50 launch announcement](https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-the-garmin-approach-r50-the-only-portable-golf-launch-monitor-with-a-built-in-simulator/), [PlayBetter Garmin R50 review](https://www.playbetter.com/blogs/golf-simulator-reviews/garmin-approach-r50-review), [Home Performance Lab R50 vs Uneekor Eye Mini](https://homeperformancelab.com/garmin-r50-vs-uneekor-eye-mini/), [Indoor Golf Outlet R50 vs SkyTrak+](https://indoorgolfoutlet.com/blogs/main/garmin-approach-r50-vs-skytrak-plus), [r/Golfsimulator R50 discussion](https://www.reddit.com/r/Golfsimulator/comments/1ncrm6k/another_launch_monitor_rabbit_hole_garmin_r50/), [Golf Simulator Forum build discussion](https://golfsimulatorforum.com/forum/golf-simulator-forum/simulator-builds/409887-first-sim-size-and-launchmonitor-dilemma).

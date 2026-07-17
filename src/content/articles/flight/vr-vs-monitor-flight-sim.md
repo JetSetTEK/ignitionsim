@@ -129,7 +129,7 @@ A few honest notes:
 
 The Bigscreen Beyond 2 is text-and-link only below because we haven't verified an exact product photo; we are withholding marketplace links until the exact listing is verified.
 
-- **[Bigscreen Beyond 2 / Beyond 2e](https://store.bigscreenvr.com/products/bigscreen-beyond-2)** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking), check Amazon{:target="_blank" rel="sponsored nofollow noopener"}.
+- **Bigscreen Beyond 2 / Beyond 2e** — 107 g micro-OLED, 2560 x 2560 per eye, 116° FOV, Lighthouse tracking (base stations sold separately). $1,019 (Beyond 2) / $1,219 (Beyond 2e with eye tracking). No exact verified Amazon listing, so no purchase CTA.
 
 ## The GPU reality nobody quotes you
 
@@ -213,8 +213,7 @@ Stay on a monitor if any of these is true: your GPU is below an RTX 3070; you mo
 
 VR is worth it **if immersion is your priority and your hardware can pay the tax.** Start with a **Quest 3** (now $599.99 for the 512GB, or the Quest 3S from $349.99) to find out whether the magic lands; graduate to a **Pimax Crystal Light** (~$899) only if it does and you have an RTX 5080-class GPU to feed it; consider the **Bigscreen Beyond 2** ($1,019+) if headset weight is your dealbreaker and you don't mind buying base stations. But go in clear-eyed: you're trading roughly half your frame rate and a chunk of convenience for a sense of *being there* that nothing else delivers. For sightseeing, bush flying, and judging the flare, that trade is a steal. For hours of crisp-text IFR work, the monitor still wins — and a **$170 TrackIR** is the quiet third answer that beats both for a lot of pilots.
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked official product/store pages and current pricing and specs rather than repeating old box numbers; where a price was configuration- or sale-dependent, or had recently moved, we flagged "check current."
 
 Headsets and specs: [Pimax Crystal Light (official store)](https://pimax.com/products/pimax-crystal-light), [Pimax Crystal Light full-payment version (Amazon)](https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20), [Meta Quest 3 (official)](https://www.meta.com/quest/quest-3/), [Meta blog — Quest pricing update](https://www.meta.com/blog/update-meta-quest-pricing/), [Meta Quest 3 price guide, June 2026 (NexraGear)](https://nexragear.com/meta-quest-3-price-guide-2026/), [Bigscreen Beyond 2 (official store)](https://store.bigscreenvr.com/products/bigscreen-beyond-2), [Bigscreen Beyond 2 review (VR.org)](https://vr.org/articles/bigscreen-beyond-2-review-107g-pcvr).

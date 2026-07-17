@@ -222,8 +222,7 @@ That is the part spec sheets cannot decide for you. A launch monitor is only "be
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official Garmin R50 product data and launch materials, Uneekor Eye Mini Lite specs, Bushnell/Foresight Launch Pro subscription documentation, Breaking Eighty reviews, Golf Monthly simulator coverage, r/Golfsimulator buyer threads, and Golf Simulator Forum setup discussions. Prices and software plans change quickly in this category, so verify the checkout page and subscription page on the day you buy.
 
 Useful source shelf: [Garmin R50 official](https://www.garmin.com/en-US/p/736810/), [Garmin R50 newsroom](https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-the-garmin-approach-r50-the-only-portable-golf-launch-monitor-with-a-built-in-simulator/), [Uneekor Eye Mini Lite official](https://uneekor.com/golf-launch-monitors/eye-mini-lite), [Bushnell Launch Pro software packages](https://www.bushnellgolf.com/launch-pro/how-to-purchase-software-packages), [Foresight Launch Pro subscriptions](https://help.foresightsports.com/hc/en-us/articles/47000332550291-Launch-Pro-Subscriptions), [Breaking Eighty indoor launch monitors](https://breakingeighty.com/best-indoor-golf-launch-monitors), [SkyTrak ST MAX review](https://breakingeighty.com/skytrak-st-max), [r/Golfsimulator under $5K discussion](https://www.reddit.com/r/Golfsimulator/comments/1u4etwj/best_launch_monitor_under_5k/).

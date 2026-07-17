@@ -185,8 +185,7 @@ If you race and never touch flight sim, the 5090 is money burned — even triple
   </div>
 </aside>
 
-## Sources Checked
-
+## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages, current pricing trackers and community MSFS 2024 testing rather than repeating box specs. Prices move weekly in 2026 — treat the figures as a snapshot, not a quote.
 
 Official + specs: [NVIDIA GeForce RTX 5080](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/), [Pimax Crystal Super (per-eye resolution + recommended GPU)](https://pimax.com/products/pimax-crystal-super).

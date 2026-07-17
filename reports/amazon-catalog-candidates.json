@@ -1,0 +1,5050 @@
+{
+  "generatedAt": "2026-07-17T11:37:38.836Z",
+  "tag": "ignitionsim-20",
+  "accepted": {
+    "nlr-hf8": {
+      "asin": "B0F6MW4RZH",
+      "title": "Next Level Racing® HF8 Pro Haptic Feedback Gaming Pad (NLR-G006)",
+      "url": "https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "nlr-motion-v3": {
+      "asin": "B01N7OI0OX",
+      "title": "Next Level Racing Motion Platform v3 (NLR-M001V3)",
+      "url": "https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "dof-reality-h3": {
+      "asin": "B07KRJC2SV",
+      "title": "DOF Reality Motion Simulator Platform H3 (3 Movements Axis) Flight, Racing car Plane Cockpit",
+      "url": "https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "steelseries-arctis-nova-7": {
+      "asin": "B0FRPH94LH",
+      "title": "SteelSeries Arctis Nova 7X Wireless Gen 2 Gaming Headset - Real-Time App Control, 50+ HR Play, Neodymium Drivers, Mix 2.4GHz/Bluetooth, Xbox, PC, PS5/PS4, Switch 1/2, Mobile - Black",
+      "url": "https://www.amazon.com/dp/B0FRPH94LH?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "meta-quest-3s": {
+      "asin": "B0D3TGPT5F",
+      "title": "K4 Head Strap, VR Headset Accessories for Meta Oculus Quest 3/3S, Non-Battery & Enhanced Support & Adjustable & Comfort Strap Gift for Kids and Adults",
+      "url": "https://www.amazon.com/dp/B0D3TGPT5F?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "nvidia-rtx-5090": {
+      "asin": "B0DS2WQZ2M",
+      "title": "ROG Astral NVIDIA GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDMI/DP 2.1, 3.8-Slot, 4-Fan Design, Axial-tech Fans, Patented Vapor Chamber), 3 Year Warranty",
+      "url": "https://www.amazon.com/dp/B0DS2WQZ2M?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "nvidia-rtx-5080": {
+      "asin": "B0DQSD7YQC",
+      "title": "ROG Astral NVIDIA GeForce RTX™ 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe® 5.0, HDMI®/DP 2.1, 3.8-Slot, 4-Fan Design, Axial-tech Fans, Patented Vapor Chamber), 3 Year Warranty",
+      "url": "https://www.amazon.com/dp/B0DQSD7YQC?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "naturalpoint-trackir-5": {
+      "asin": "B00KQPETHO",
+      "title": "TrackIR 5 with TrackClip PRO bundle",
+      "url": "https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "tobii-eye-tracker-5": {
+      "asin": "B0897GCBWW",
+      "title": "Tobii Eye Tracker 5",
+      "url": "https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "honeycomb-alpha-yoke": {
+      "asin": "B07SH2SFLW",
+      "title": "Honeycomb Aeronautical Alpha Flight Controls Yoke and Switch Panel | 180 Degree Rotation, Steel Shaft with Ball Bearings, 5-Pos Ignition, USB-C Pc and Mac",
+      "url": "https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "honeycomb-bravo-throttle": {
+      "asin": "B07SK43CJ6",
+      "title": "Honeycomb Bravo Throttle Quadrant",
+      "url": "https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-tca-sidestick-airbus": {
+      "asin": "B0BG3DQLDD",
+      "title": "Thrustmaster TCA Captain Pack X Airbus Sidestick & Throttle - XBOX & PC | A320 1:1 replica, 14 remappable buttons, thrust reverser, twist rudder, 31 mappable quadrant buttons, 4 axes, for MSFS",
+      "url": "https://www.amazon.com/dp/B0BG3DQLDD?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-tca-quadrant-airbus": {
+      "asin": "B0BG3DQLDD",
+      "title": "Thrustmaster TCA Captain Pack X Airbus Sidestick & Throttle - XBOX & PC | A320 1:1 replica, 14 remappable buttons, thrust reverser, twist rudder, 31 mappable quadrant buttons, 4 axes, for MSFS",
+      "url": "https://www.amazon.com/dp/B0BG3DQLDD?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-tca-yoke-boeing": {
+      "asin": "B09DPYHM55",
+      "title": "Thrustmaster TCA Yoke & Quadrant Boeing Edition Flight Pack - XBOX & PC | 787 Dreamliner replica, pendular motion, throttle unit with autopilot, metal build, 35 action buttons, 2 extra axes, for MSFS",
+      "url": "https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-hotas-warthog": {
+      "asin": "B00371R8P4",
+      "title": "Thrustmaster HOTAS Warthog",
+      "url": "https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-g-flight-rudder-pedals": {
+      "asin": "B09HS4Z4NW",
+      "title": "Logitech Pro Flight Rudder Pedals & Flight Throttle Quadrant",
+      "url": "https://www.amazon.com/dp/B09HS4Z4NW?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-pro-flight-radio-panel": {
+      "asin": "B0BMTS3VJ1",
+      "title": "Logitech G X52 Pro Flight Control System + Pro Flight Radio Panel Bundle",
+      "url": "https://www.amazon.com/dp/B0BMTS3VJ1?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-ay210-ffb-yoke": {
+      "asin": "B0GHMWSDHT",
+      "title": "MOZA AY210 Force Feedback YOKE Base",
+      "url": "https://www.amazon.com/dp/B0GHMWSDHT?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-mtq-throttle-quadrant": {
+      "asin": "B0G4924P9P",
+      "title": "MOZA Flight MTQ Throttle Quadrant Simulator",
+      "url": "https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "honeycomb-alpha-xpc": {
+      "asin": "B0BTJBVJKV",
+      "title": "Honeycomb Aeronautical Alpha Flight Controls XPC (Xbox Series/PC) Bundle Xbox Hub (Series X/S compatible) (2 Items)",
+      "url": "https://www.amazon.com/dp/B0BTJBVJKV?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "turtle-beach-velocityone-flight": {
+      "asin": "B09JM8SX8G",
+      "title": "Turtle Beach VelocityOne Flight Universal Control System",
+      "url": "https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "turtle-beach-velocityone-flight-stick": {
+      "asin": "B0BHTPP71M",
+      "title": "Turtle Beach VelocityOne Flightstick",
+      "url": "https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "turtle-beach-velocityone-rudder-pedals": {
+      "asin": "B0B7NTLKF2",
+      "title": "Turtle Beach VelocityOne Universal Rudder pedals",
+      "url": "https://www.amazon.com/dp/B0B7NTLKF2?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "skytrak-plus": {
+      "asin": "B0GJDT5L16",
+      "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+      "url": "https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "uneekor-eye-mini-core": {
+      "asin": "B0FPHVNCQ7",
+      "title": "Uneekor EYE MINI CORE",
+      "url": "https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "rapsodo-mlm2pro": {
+      "asin": "B0DK17W7C8",
+      "title": "Golf Ball Marker Template for Rapsodo MLM2PRO Mobile Launch Monitor",
+      "url": "https://www.amazon.com/dp/B0DK17W7C8?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "country-club-elite-mat": {
+      "asin": "B0048GIWDO",
+      "title": "The Original Country Club Elite by Real Feel Golf Mats 4' X 5' Simulator Size Golf Mat | Heavy Duty Commercial Practice Mat | Accepts A Real Tee | Swing Down and Through | Indoor/Outdoor",
+      "url": "https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "pxn-cb1-button-box": {
+      "asin": "B0DKNW88FN",
+      "title": "PXN CB1 Sim Racing Button Box for PC, 19 Controls (9 Input Types) | Up to 30 Programmable Functions, RGB Backlit Simulator Control Panel for Racing, Truck & Farming Simulators",
+      "url": "https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-g923-helm": {
+      "asin": "B07PGGDJSG",
+      "title": "Logitech G923 TRUEFORCE wheel and pedals",
+      "url": "https://www.amazon.com/dp/B07PGGDJSG?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-g29-helm": {
+      "asin": "B00Z0UWWYC",
+      "title": "Logitech G29 Driving Force wheel and pedals",
+      "url": "https://www.amazon.com/dp/B00Z0UWWYC?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-saitek-throttle-quadrant-telegraph": {
+      "asin": "B01M00UHE3",
+      "title": "Logitech G Saitek Pro Flight Throttle Quadrant",
+      "url": "https://www.amazon.com/dp/B01M00UHE3?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-t16000m-rudder": {
+      "asin": "B01MQEDEEW",
+      "title": "Thrustmaster T.16000M FCS stick",
+      "url": "https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "arduino-leonardo-diy-hid": {
+      "asin": "B0786LJQ8K",
+      "title": "Arduino Leonardo with Headers",
+      "url": "https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "meta-quest-3-marineverse-vr": {
+      "asin": "B09Z7KGTVW",
+      "title": "Meta Quest Pro",
+      "url": "https://www.amazon.com/dp/B09Z7KGTVW?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "bridge-command-free-sim": {
+      "asin": "B0BC58GHCD",
+      "title": "The Command Bridge",
+      "url": "https://www.amazon.com/dp/B0BC58GHCD?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-th8a": {
+      "asin": "B005L0Z2BQ",
+      "title": "Thrustmaster TH8A shifter",
+      "url": "https://www.amazon.com/dp/B005L0Z2BQ?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-hbp-handbrake": {
+      "asin": "B0BVLNVVVC",
+      "title": "MOZA HBP Handbrake With 16 Bit High Precision Position Sensor,Dual Mode and Multi-Angle Adjustable Racing Handbrake Simulator, Connection To PC Wheelbase Directly",
+      "url": "https://www.amazon.com/dp/B0BVLNVVVC?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "simucube-activepedal-pro": {
+      "asin": "B0FDQV4H38",
+      "title": "Simucube ActivePedal Pro – SimXPro",
+      "url": "https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-mbooster-active-pedal": {
+      "asin": "B0FZJXSJ3Y",
+      "title": "MOZA Racing mBooster Active Pedal Racing Simulator",
+      "url": "https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-rs50-system": {
+      "asin": "B0FV8242H5",
+      "title": "Obokidlyamor F1 Formula Real Carbon Fiber For Logitech RS50 System Racing Wheel; Replace lightweight Suede/Leather Compatible with Logitech G RS TRUEFORCE Force Feedback Hub (13 inch-Full Leather)",
+      "url": "https://www.amazon.com/dp/B0FV8242H5?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-t598": {
+      "asin": "B0GHRDLC9Y",
+      "title": "【国内正規品】Thrustmaster T598 Xbox Series X|S/Xbox One/PC対応 Direct Axial Driveフォースフィードバック ステアリングコントローラー 金属製ペダルセット同梱 Microsoft公式ライセンス製品",
+      "url": "https://www.amazon.com/dp/B0GHRDLC9Y?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-r3-xbox-bundle": {
+      "asin": "B0D93L5CB1",
+      "title": "MOZA R3 Racing Wheel and Pedals Bundle for Xbox & PC,3.9Nm DD Servo Motor With Aviation-Grade Aluminum Construction,Durable ISF PU Grips 11-inch Racing Wheel,SR-P Lite Dual Pedals",
+      "url": "https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "meta-quest-3": {
+      "asin": "B09Z7KGTVW",
+      "title": "Meta Quest Pro",
+      "url": "https://www.amazon.com/dp/B09Z7KGTVW?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "pimax-crystal-light": {
+      "asin": "B0G6YYW3PB",
+      "title": "Pimax Crystal Light",
+      "url": "https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "evercade-vs-r-exp-r": {
+      "asin": "B0D1VYPWLH",
+      "title": "Evercade VS-R",
+      "url": "https://www.amazon.com/dp/B0D1VYPWLH?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "cammus-c5": {
+      "asin": "B0CSGD9T7L",
+      "title": "CAMMUS C5 direct-drive wheel and pedal bundle",
+      "url": "https://www.amazon.com/dp/B0CSGD9T7L?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-r5": {
+      "asin": "B0DL51ZY3T",
+      "title": "MOZA R5 Bundle Kit Racing Simulator 5.5Nm Direct Drive Wheelbase,Unbeatable Rigid & Durable 11-Inch ES Racing Wheel SR-P Lite Dual Pedal and Desk Clamp All-in-One",
+      "url": "https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "fanatec-csl-dd": {
+      "asin": "B0FBGZHFN3",
+      "title": "Fanatec CSL DD QR2 wheelbase 5 Nm",
+      "url": "https://www.amazon.com/dp/B0FBGZHFN3?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-r9": {
+      "asin": "B0CYM7PNNN",
+      "title": "MOZA R9 V2 Direct Drive Servo Motor Sim Racing Wheel Base, 9Nm FFB Force Feedback Steering Wheel Base, Customizable Standalone Wheel Base Simulator for PC Racing Game, APP Cloud Control",
+      "url": "https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-t818": {
+      "asin": "B0GJ13679W",
+      "title": "Thrustmaster T818 Black Servo Direct Drive Racing Wheel (compatible with PC)",
+      "url": "https://www.amazon.com/dp/B0GJ13679W?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-g-pro": {
+      "asin": "B08W27XX75",
+      "title": "Logitech G PRO Racing Wheel for PlayStation/PC",
+      "url": "https://www.amazon.com/dp/B08W27XX75?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-r12": {
+      "asin": "B0DHHJD97L",
+      "title": "MOZA R12 Direct Drive Sim Racing Wheelbase Servo Base, 12Nm Direct Drive Torque, Real Force Feedback, standalone Wheel Base Simulator for PC Video Game",
+      "url": "https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "asetek-forte": {
+      "asin": "B0C2C7TJK7",
+      "title": "ASETEK Forte Direct Drive Wheelbase 18Nm | Powerful Sim Racing Wheel base with Precise Force Feedback and Advanced Technology for Realistic Driving | Sim Racing Steering System for PC",
+      "url": "https://www.amazon.com/dp/B0C2C7TJK7?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-r21": {
+      "asin": "B0G8G544Q2",
+      "title": "MOZA R21 Ultra Direct Drive Wheel Base Racing Simulator",
+      "url": "https://www.amazon.com/dp/B0G8G544Q2?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "asetek-invicta": {
+      "asin": "B0C283KH2Z",
+      "title": "ASETEK Invicta Direct Drive Wheel base 27Nm | Powerful Sim Racing Wheel base with Precise Force Feedback and Advanced Technology for Realistic Driving | Sim Racing Steering System for PC",
+      "url": "https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-es": {
+      "asin": "B0CDFX4JQ5",
+      "title": "MOZA Racing 12-inch Round Wheel Mod for ESX & ES Steering Wheel",
+      "url": "https://www.amazon.com/dp/B0CDFX4JQ5?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-rs-v2": {
+      "asin": "B0G2XSZN5C",
+      "title": "MOZA RS V2 Steering Wheel",
+      "url": "https://www.amazon.com/dp/B0G2XSZN5C?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-ks-gt": {
+      "asin": "B0DM54YZ7J",
+      "title": "MOZA 300mm KS Steering Wheel Butterfly Style GT Racing Wheel bundle R12 Direct Drive Sim Racing Base, 12Nm Direct Drive Torque",
+      "url": "https://www.amazon.com/dp/B0DM54YZ7J?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "fanatec-mclaren": {
+      "asin": "B0F4XSJ8PH",
+      "title": "Fanatec CSL Elite Officially Licensed McLaren GT3 v2 Sim Racing Steering Wheel – Analog Paddles, Magnetic Shifters, Multi-Position Switches, OLED Display for PC, Xbox Series X|S, Xbox One",
+      "url": "https://www.amazon.com/dp/B0F4XSJ8PH?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "logitech-rs-wheel": {
+      "asin": "B0FLD2XLSK",
+      "title": "F1 Formula Real Carbon Fiber Wheel Mod For Logitech G PRO SIM Racing Wheel ; Replace Supper lightweight Compatible with Logitech G RS RS50 System Hub Shifter With Suede Grip",
+      "url": "https://www.amazon.com/dp/B0FLD2XLSK?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "cube-gt": {
+      "asin": "B07RTSBGYN",
+      "title": "Cube Controls - GT Pro Sparco sim racing wheel",
+      "url": "https://www.amazon.com/dp/B07RTSBGYN?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "ascher-formula": {
+      "asin": "B0DD3VJH8L",
+      "title": "Ascher Racing F28-SC V2 Lenkrad",
+      "url": "https://www.amazon.com/dp/B0DD3VJH8L?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-srp-lite": {
+      "asin": "B0DD387VG4",
+      "title": "MOZA SR-P Lite Clutch Pedal Racing Game Clutch Pedal Add-On for R3 & R5 Bundle",
+      "url": "https://www.amazon.com/dp/B0DD387VG4?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "moza-crp2": {
+      "asin": "B0FRMQ3VH7",
+      "title": "MOZA CRP2 Load Cell Pedals",
+      "url": "https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "asetek-invicta-pedals": {
+      "asin": "B0F4DD9CX5",
+      "title": "ASETEK SimSports Hydraulic Invicta S-Series T.H.O.R.P. II Sim Racing Pedals | Premium Pedals for Sim Racing | Adjustable and Customizable Pedal Arms for a Perfect Fit in Your Setup | PC Compatible",
+      "url": "https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "trak-racer-tr80": {
+      "asin": "B0BGJ55MFZ",
+      "title": "Trak Racer - TR80 Racing Simulator MK5 TR ONE - Fanatec DD",
+      "url": "https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "elgato-stream-deck-xl": {
+      "asin": "B07RL8H55Z",
+      "title": "Elgato Stream Deck XL",
+      "url": "https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-sol-r2-hosas": {
+      "asin": "B0DMSTP1YG",
+      "title": "Thrustmaster SOLR2FLTSTPC Sol-R 2 HOSAS Space Sim Duo - PC",
+      "url": "https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-sol-r4-hotas": {
+      "asin": "B0FWS2QKK3",
+      "title": "Thrustmaster Sol-R4 HOTAS Space Combat Flight Stick & Throttle - PC | 58 programable buttons, 21 on grip, 2 triggers, 2 hats, ministick, thumbwheel, Hall-Effect, RGB LEDs, adjustable detent",
+      "url": "https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "turtle-beach-velocityone-flightdeck": {
+      "asin": "B0CPQ7RF6Z",
+      "title": "Turtle Beach VelocityOne Flightdeck Universal HOTAS Simulation System - PC | Windows 10 & 11 PCs,Joystick & Throttle for Air & Space Combat Simulation, Touch Display, 139 Mappable Controls, Black",
+      "url": "https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20",
+      "verification": "exact brand and model token match in Amazon product results",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-t16000m-fcs": {
+      "asin": "B01MQEDEEW",
+      "title": "Thrustmaster T.16000M FCS stick",
+      "url": "https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "thrustmaster-t16000m-fcs-hotas": {
+      "asin": "B01N2PE8CZ",
+      "title": "Thrustmaster T.16000M FCS HOTAS",
+      "url": "https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    },
+    "turtle-beach-velocityone-flightstick": {
+      "asin": "B0BHTPP71M",
+      "title": "Turtle Beach VelocityOne Flightstick",
+      "url": "https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20",
+      "verification": "existing exact-product evidence in repository",
+      "verifiedAt": "2026-07-17"
+    }
+  },
+  "review": {
+    "dayton-bst-1": {
+      "product": "Dayton Audio BST-1 High Power Pro Tactile Bass Shaker (50W)",
+      "query": "Dayton Audio BST-1 High Power Pro Tactile Bass Shaker",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B01CDDPJTI",
+          "title": "BST-1 High Power Pro Tactile Bass Shaker 50 Watts RMS, 4 Ohms Impedance - Turn Any Surface into a Speaker System - Generates Subwoofer Lows",
+          "score": 0.958,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8QTM4MD",
+          "title": "BS-1 Bass Shaker: 50W High Power Tactile Transducer - Subwoofer Lows for Home Theater, Car Audio & Gaming Chair Vibration Immersion​ (1 PC)",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "bst",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8QVFLWY",
+          "title": "BS-1 Bass Shaker: 50W High Power Tactile Transducer - Subwoofer Lows for Home Theater, Car Audio & Gaming Chair Vibration Immersion​ (1 Pair)",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "bst",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0C86M68WR",
+          "title": "BST-300EX, 300 Watts RMS,Tactile Bass Shaker, 4 Ohms Impedance - Turn Any Surface into a Speaker System - Generates Subwoofer Lows",
+          "score": 0.444,
+          "brandMatches": false,
+          "missingModel": [
+            "high",
+            "power",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B08NN5V62G",
+          "title": "BST-2 Tactile Bass Shaker 35 Watt",
+          "score": 0.444,
+          "brandMatches": false,
+          "missingModel": [
+            "high",
+            "power",
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "buttkicker-gamer-plus": {
+      "product": "ButtKicker Gamer Plus (Haptic Transducer + Power Amplifier)",
+      "query": "ButtKicker Gamer Plus",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B00BERG9FI",
+          "title": "ButtKicker Gamer2 Playseat Edition",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "gamer",
+            "plus"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8QTM4MD",
+          "title": "BS-1 Bass Shaker: 50W High Power Tactile Transducer - Subwoofer Lows for Home Theater, Car Audio & Gaming Chair Vibration Immersion​ (1 PC)",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "plus"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0052AXFKK",
+          "title": "Mini LFE Subwoofer for Home Theater",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "plus"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8QVFLWY",
+          "title": "BS-1 Bass Shaker: 50W High Power Tactile Transducer - Subwoofer Lows for Home Theater, Car Audio & Gaming Chair Vibration Immersion​ (1 Pair)",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "plus"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DTNX7VLW",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "plus"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fosi-ht4s": {
+      "product": "Fosi Audio HT4S 4.1/5.0-Channel Bluetooth Power Amplifier",
+      "query": "Fosi Audio HT4S 4.1/5.0-Channel Bluetooth Power Amplifier",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0875WY9TX",
+          "title": "4 Channel Bluetooth Amplifier, 50W x 4 Audio Power Amp, Hi-Fi Home Stereo Speaker Receiver [Douk Audio M4]",
+          "score": 0.714,
+          "brandMatches": false,
+          "missingModel": [
+            "ht4s"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07JVFY27T",
+          "title": "BT20A Pro Bluetooth 5.0 Amplifier, 300W x2 Wireless Amp, TPA3255 2 Channel Mini Class D Integrated Home Audio Outdoor Stereo Receiver with Bass Treble Control for Passive Speakers",
+          "score": 0.571,
+          "brandMatches": false,
+          "missingModel": [
+            "ht4s",
+            "power"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0C5J7FHWB",
+          "title": "HiFi 5.1 Channel Bluetooth Amplifier Stereo Home Theater Power Amp Subwoofer Amp",
+          "score": 0.571,
+          "brandMatches": false,
+          "missingModel": [
+            "ht4s"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09YNBHR73",
+          "title": "Bluetooth Subwoofer Amplifier 2.1, BT30D Pro Subwoofer Amp with TPA3255 Chips 165W x2+350W & Bass Treble Control, 2.1 Channel Sub Amplifier for Desktop/Outdoor/Bookshelf Speakers",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "ht4s",
+            "power"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BX4NZCQV",
+          "title": "Bluetooth 5.1 Channel Home Entertainment Amplifier - Subwoofer Out - Easy Karaoke with Dual Mic Inputs w/ Echo, USB-A / SD Reader with MP3 Player, RCA In and Line out - PDA8BU",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "ht4s",
+            "power"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "nlr-elite-es1": {
+      "product": "Next Level Racing Elite ES1 Sim Racing Seat (NLR-E011)",
+      "query": "Next Level Racing Elite ES1 Sim Racing Seat",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0C5NN8QJV",
+          "title": "Next Level Racing Elite ES1 Seat Scuderia Ferrari Edition (NLR-E047)",
+          "score": 1.035,
+          "brandMatches": true,
+          "missingModel": [
+            "sim"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DJJJG49J",
+          "title": "Next Level Racing ERS3 Elite Series Reclining Seat - Fabric & SIMAERO Mesh Edition (NLR-E052)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "es1",
+            "sim"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DT3SKPK8",
+          "title": "Next Level Racing ERS4 Elite Reclining Seat - PU Leather & Suede Edition (NLR-E053)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "es1",
+            "sim"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GTMR7YVV",
+          "title": "EFS Elite Formula Sim Racing Seat (NLR-E061)",
+          "score": 0.625,
+          "brandMatches": false,
+          "missingModel": [
+            "es1"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09MKT7PRZ",
+          "title": "Challenge Racing Simulator Cockpit | Foldable & Adjustable | for High Performance Sim Racing | Compact & Flexible | Supports All Steering Wheels & Pedals | for PC and Console",
+          "score": 0.375,
+          "brandMatches": false,
+          "missingModel": [
+            "elite",
+            "es1",
+            "seat"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "trak-racer-trx": {
+      "product": "Trak Racer TR160 V5 Aluminium Racing Simulator Cockpit",
+      "query": "Trak Racer TR160 V5 Aluminium Racing Simulator Cockpit",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DYDDHWXM",
+          "title": "RACGTING Racing Simulator Cockpit for G29/G920/G923, Foldable & Adjustable Racing Seat for Thrustmaster T300RS/248/T-GT II, Fanatec CSL DD/GT DD Pro/ClubSport DD/DD+, MOZA R5, SIMAGIC Alpha Mini",
+          "score": 0.375,
+          "brandMatches": false,
+          "missingModel": [
+            "tr160",
+            "v5",
+            "aluminium"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BRGZXMQW",
+          "title": "RACGTING Racing Simulator Cockpit for G920 G29 G923, Foldable Racing Simulator for Thrustmaster T248X T248 T300 T150 458 TX PS5 PS4 PC (Black)",
+          "score": 0.375,
+          "brandMatches": false,
+          "missingModel": [
+            "tr160",
+            "v5",
+            "aluminium"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GTL3DNHK",
+          "title": "RACGTING Racing Simulator Cockpit - Adjustable Sim Racing Cockpit with Seat Compatible with Logitech G920 G29 G923, Thrustmaster T248 T300 T150 TX, for Xbox PS5 PS4 PC, Fits Fanatec DD1/DD2",
+          "score": 0.375,
+          "brandMatches": false,
+          "missingModel": [
+            "tr160",
+            "v5",
+            "aluminium"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CN6T9BLP",
+          "title": "RACGTING Racing Simulator Cockpit with TV Monitor Stand for G PRO Racing Wheel/G29/G920/G923, for Thrustamster T300RS/TS-PC/TS-XW Racer, for FANATEC CSL DD/GT DD Pro/ClubSport DD/DD+",
+          "score": -0.15,
+          "brandMatches": false,
+          "missingModel": [
+            "tr160",
+            "v5",
+            "aluminium"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0FJXYNB6Z",
+          "title": "RACGTING Aluminum Racing Simulator Cockpit with TV Mount, Foldable Sim Racing Cockpit with Leather Seat, Ultra-Stable 180kg Load, Fits Logitech, Thrustmaster, Fanatec & MOZA Wheels",
+          "score": -0.275,
+          "brandMatches": false,
+          "missingModel": [
+            "tr160",
+            "v5",
+            "aluminium"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "nlr-gtlite": {
+      "product": "Next Level Racing GTLite Foldable Cockpit",
+      "query": "Next Level Racing GTLite Foldable Cockpit",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B083JW5YKM",
+          "title": "Next Level Racing F-GT Lite Formula and GT Foldable Simulator Cockpit (NLR-S015)",
+          "score": 0.993,
+          "brandMatches": true,
+          "missingModel": [
+            "gtlite"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DN1N15JQ",
+          "title": "Next Level Racing GTLite Junior Simulator Cockpit",
+          "score": 0.993,
+          "brandMatches": true,
+          "missingModel": [
+            "foldable"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D8B4Y4DG",
+          "title": "Next Level Racing Formula Lite Pro Foldable Cockpit (NLR-S038)",
+          "score": 0.993,
+          "brandMatches": true,
+          "missingModel": [
+            "gtlite"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BRGZXMQW",
+          "title": "RACGTING Racing Simulator Cockpit for G920 G29 G923, Foldable Racing Simulator for Thrustmaster T248X T248 T300 T150 458 TX PS5 PS4 PC (Black)",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "gtlite"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09MKT7PRZ",
+          "title": "Challenge Racing Simulator Cockpit | Foldable & Adjustable | for High Performance Sim Racing | Compact & Flexible | Supports All Steering Wheels & Pedals | for PC and Console",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "gtlite"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "govee-rgbic-bars": {
+      "product": "Govee RGBIC Gaming Light Bars (H6047)",
+      "query": "Govee RGBIC Gaming Light Bars",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0B6CQ2LQ2",
+          "title": "RGBIC Gaming Light Bars H6047 with Smart Controller, Wi-Fi Smart LED Gaming Lights with Music Modes and 60+ Scene Modes Built, Works with Alexa & Google Assistant, Game Room Lights Decor | Gaming Lights with Music Modes and 60+ Scene Modes Built, Works with Alexa & Google Assistant, New Year Lights Decor",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DYNX1WYG",
+          "title": "Gaming Light Bars Pro,16-Inch Smart RGBIC Wi-Fi LED Game Lights | Upgraded,RGBICIllumination,Triple-Sided,Music Sync & 60+ Scene Modes, Works with Alexa & Google Home, Gaming Room Decor",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B09H5VSKTZ",
+          "title": "Glide Wall Lights, RGBIC LED Light, Smart Gaming Light Compatible with SmartThings, RGB Lights Bar, LED Wall Lights for Bedroom, 2 Panels Set (3 Sections/Panel), Not Flexible",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "bars"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B096WZXKZP",
+          "title": "Smart Light Bar, RGBICWW TV Lights for Living Room, Gaming, Black | Compatible with SmartThings, Matter, Alexa, LED Light Bar with Scene and Music Modes for Living Room, Gaming, PC, App Control",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "rgbic",
+            "bars"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G7G17YTQ",
+          "title": "Smart Light Bar, RGBICWW TV Lights for Living Room, Gaming, Silver | Compatible with SmartThings, Matter, Alexa, LED Light Bar with Scene and Music Modes for Living Room, Gaming, PC, App Control",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "rgbic",
+            "bars"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sabrent-powered-usb-hub": {
+      "product": "Sabrent 10-Port 60W Powered USB 3.0 Hub (HB-BU10)",
+      "query": "Sabrent 10-Port 60W Powered USB 3.0 Hub",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CXZ448XL",
+          "title": "7-Port USB-C Hub with Power Switches, 5Gbps USB 3.2, 48W Powered Hub with 3 USB-A + 4 USB-C Ports, 20W PD, LED Status, Aluminum Body – for Mac, PC, Steam Deck, ROG Ally (HB-3A4C)",
+          "score": 0.571,
+          "brandMatches": false,
+          "missingModel": [
+            "10",
+            "60w"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B00OJ79UK6",
+          "title": "60 Watt (12 Amp) 10-Port [UL Certified] Family-Sized Desktop USB Rapid Charger. Smart USB Ports with Auto Detect Technology [Black] (AX-TPCS)",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "60w",
+            "powered",
+            "hub"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07KHRLSTT",
+          "title": "16-Port USB 3.0 Data Hub and Charger with Individual Power Switches, 90W High-Power Output (HB-PU16)",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "10",
+            "60w",
+            "powered"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B00JX1ZS5O",
+          "title": "4-Port USB 3.0 Hub with Individual LED Power Switches - Slim, Portable Design - 2 Ft Cable - Fast Data Transfer - Compatible with Mac & PC (HB-UM43)",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "10",
+            "60w",
+            "powered"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0797NZFYP",
+          "title": "10-Port 60W USB 3.0 Hub with Individual Power Switches and LEDs, Includes 60W 12V/5A Power Adapter (HB-BU10)",
+          "score": 0.064,
+          "brandMatches": false,
+          "missingModel": [
+            "powered"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "pimax-crystal-super": {
+      "product": "Pimax Crystal Super",
+      "query": "Pimax Crystal Super",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GQYT4CGH",
+          "title": "Crystal Super VR Headset & VR Glasses with Micro-OLED, 53 PPD, 3840x3552 Per Eye, 116° Field of View, Eye Tracking – Ultimate Clarity for Flight & Racing Simulations & Gaming",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GHVWYBC8",
+          "title": "Crystal Super VR Headset,57PPD & 3840x3840 Resolution per Eye,Ultra-Sharp Image,106° Wide Field of View, Ideal for Flight simulators & VR Games",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0H6XG6F4X",
+          "title": "Crystal Super VR Headset,57PPD & 3840x3840 Resolution per Eye,106° Wide Field of View,with Studioform VR Face Pad Kit",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DY174XM5",
+          "title": "Crystal Super VR Headset Partial Payment Version –50 PPD & 3840x3840 per Eye, Ultra-Sharp Image, 127° Wide Field of View, Ideal for Flight/Racing sim & VR Games, Connected with PC by Wire.",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0D7V7GXQ4",
+          "title": "Pimax Crystal Comfort Strap Studioform VR",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "super"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "bigscreen-beyond-2": {
+      "product": "Bigscreen Beyond 2",
+      "query": "Bigscreen Beyond 2",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DM2SBTKK",
+          "title": "Meta Quest Pro Headset with Virtual Reality Field Trips 1-Month Subscription",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "beyond"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DDRLX7V4",
+          "title": "HTC Vive Focus Vision — Mixed Reality and PC VR Headset + Controllers — Consumer Edition | Standalone Plus Pc VR, 2448×2448 per Eye, 120 Degree FOV, 12GB RAM, Hot-Swap Battery, Eye and Hand Tracking",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "beyond"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GF6BTC1S",
+          "title": "RayNeo Air 4 Pro × Batman Limited Edition (Justice Edition) AR/XR Glasses, Collector-Grade with Special Lens Shade, HDR10, Audio by Bang & Olufsen, 201'' Video Display - 4 Pro",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "beyond"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F2GYMC8H",
+          "title": "in Standalone Virtual Reality Accessories",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "beyond"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FJRXSNWK",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "beyond"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "samsung-odyssey-neo-g9-57": {
+      "product": "Samsung Odyssey Neo G9 57\" (G95NC / LS57CG952NNXZA)",
+      "query": "Samsung Odyssey Neo G9 57\"",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CDQM55C9",
+          "title": "57\" Odyssey Neo G9 (G95NC) Series Dual 4K UHD 1000R Curved Gaming Monitor, 240Hz, 1ms with DisplayPort 2.1, Quantum Mini-LED, DisplayHDR 1000, AMD FreeSync Premium Pro, LS57CG952NNXZA | 9, Quantum Mini-LED, Dp 2.1 and HDMI 2.1, HDR1000, Freesync Premium Pro",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0D3F8M1J4",
+          "title": "57\" Odyssey Neo G9 Dual 4K UHD Quantum Mini-LED Curved Gaming Monitor Bundle with Tech Smart USA Elite Suite 18 Standard Editing Software Bundle + 2 Year CPS Enhanced Protection Pack",
+          "score": 0.76,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DHJBWY52",
+          "title": "49\" Odyssey G9 (G95C) Series DQHD 1000R Curved Gaming Monitor, 240Hz, 1ms(GtG), DisplayHDR 1000, AMD FreeSync Premium Pro, Eye Saver Mode, Auto Source Switch+, LS49CG950ENXZA, 2024",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "neo",
+            "57"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D3FBTJNG",
+          "title": "49\" Odyssey G9 G95C DQHD 240Hz DisplayHDR 1000 Curved Gaming Monitor Bundle with Tech Smart USA Elite Suite 18 Standard Editing Software Bundle + 1 Year CPS Enhanced Protection Pack",
+          "score": 0.18,
+          "brandMatches": false,
+          "missingModel": [
+            "neo",
+            "57"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CQSWWGL2",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "odyssey",
+            "neo",
+            "g9",
+            "57"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "nlr-triple-monitor-stand": {
+      "product": "Next Level Racing Free Standing Triple Monitor Stand (NLR-A010)",
+      "query": "Next Level Racing Free Standing Triple Monitor Stand",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BWXMC7SJ",
+          "title": "Next Level Racing Elite Free Standing Triple Monitor Add-On - Black Edition (NLR-E039)",
+          "score": 1.035,
+          "brandMatches": true,
+          "missingModel": [
+            "stand"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BZ5R2D6G",
+          "title": "Next Level Racing Elite Free Standing Quad Monitor Stand - Black Edition (NLR-E037)",
+          "score": 1.035,
+          "brandMatches": true,
+          "missingModel": [
+            "triple"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B00FPRFWOM",
+          "title": "Triple LCD LED Computer Monitor Desk Stand, Free Standing Heavy Duty Fully Adjustable Mount for 3 Screens up to 30 inches STAND-V003E",
+          "score": 0.805,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GGXBPVZ6",
+          "title": "Next Level Racing Round Tube Freestanding Single Monitor Stand (NLR-R010)",
+          "score": 0.785,
+          "brandMatches": true,
+          "missingModel": [
+            "free",
+            "standing",
+            "triple"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07FYB385J",
+          "title": "Next Level Racing F-GT Monitor Stand - Matte Black (NLR-A006)",
+          "score": 0.785,
+          "brandMatches": true,
+          "missingModel": [
+            "free",
+            "standing",
+            "triple"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "winwing-fcu-efis-combo-a320": {
+      "product": "WinWing / WinCTRL A320 FCU + EFIS-L/R Combo",
+      "query": "WinWing / WinCTRL A320 FCU + EFIS-L/R Combo",
+      "status": 200,
+      "candidates": []
+    },
+    "komodo-simulations-collective": {
+      "product": "Komodo Simulations Helicopter Collective",
+      "query": "Komodo Simulations Helicopter Collective",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0178WRTLU",
+          "title": "Cheerwing S107/S107G Phantom 3CH 3.5 Channel Mini RC Helicopter with Gyro Blue",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "collective"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B088M1C3LL",
+          "title": "Cheerwing S107/S107G Phantom 3CH 3.5 Channel Mini RC Helicopter with Gyro Crimson",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "collective"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BTX1B4T1",
+          "title": "OANMYJJO Helicopters for Boys AH-64 Longbow Apache Helicopter Model Airplanes,Diecast Military Attack Helicopter, Model Airplane with Light and Sound, Suitable for Military Lovers to Collect and Gift",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "collective"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BMVDXYK4",
+          "title": "SYMA RC Helicopters, S51H Remote Control Helicopter 2.4GHz Military Army Toys for Boys Girls Kids with Altitude Hold, One Key Take Off/Landing, LED Light, Low Battery Reminder",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "collective"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D2W53VZT",
+          "title": "Helicopter Toy with Lights and Sound,Simulative Rescue Helicopter Toddler Kids Toys for Kids Aged 3 4 5 6 Pull-Back Propeller Army Toys Toddler Kids Boys Gifts (Fire Fighting Helicopter)",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "collective"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "thrustmaster-tca-sky-yoke": {
+      "product": "Thrustmaster TCA Sky Yoke",
+      "query": "Thrustmaster TCA Sky Yoke",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B09DPYHM55",
+          "title": "Thrustmaster TCA Yoke & Quadrant Boeing Edition Flight Pack - XBOX & PC | 787 Dreamliner replica, pendular motion, throttle unit with autopilot, metal build, 35 action buttons, 2 extra axes, for MSFS",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "sky"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BG3DQLDD",
+          "title": "Thrustmaster TCA Captain Pack X Airbus Sidestick & Throttle - XBOX & PC | A320 1:1 replica, 14 remappable buttons, thrust reverser, twist rudder, 31 mappable quadrant buttons, 4 axes, for MSFS",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "sky",
+            "yoke"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B087DHMT8B",
+          "title": "Thrustmaster TCA Quadrant Airbus Edition Flight Sim Throttle - PC | Detents, switches, thrust reversers, 2 axes, 16 buttons, Hall-Effect sensors, linear mode, for realistic cockpit control",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "sky",
+            "yoke"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DSXYP28B",
+          "title": "Thrustmaster Sol-R1 Hall-Effect Space Combat Flight Sim Joystick - PC | 44 programable actions buttons, detachable ambidextrous grip, central throttle, 2 triggers, ministick, backlit design",
+          "score": 0.41,
+          "brandMatches": true,
+          "missingModel": [
+            "tca",
+            "sky",
+            "yoke"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B015PII6YI",
+          "title": "Thrustmaster TFRP Precision Flight Sim Rudder Pedals - PS5, XBOX & PC | self-centering axis, long travel, aluminum rails, differential breaking, for all types of flight, adjustable resistance",
+          "score": 0.41,
+          "brandMatches": true,
+          "missingModel": [
+            "tca",
+            "sky",
+            "yoke"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "desktop-pilot-10-port-usb-hub": {
+      "product": "Desktop Pilot 10-Port Powered USB Hub",
+      "query": "Desktop Pilot 10-Port Powered USB Hub",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B09XJXMPH5",
+          "title": "Powered USB Hub 10Gbps, intpw USB Port Hub with 10 Port USB 3.1 Data, 36W Power Adapter, 3.3FT USB-A & USB-C Cables, Aluminum USB Hub for PC, Laptop, Mac, Desktop",
+          "score": 0.387,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0C84G7YJY",
+          "title": "Powered USB Hub 3.2, LEINSIS 10-Port USB 3.2/USB C Hub (10Gbps USB-A 3.2 +2 USB-C 3.2 +7 USB 3.0 Ports) with Individual On/Off Switches and 12V Power Adapter, Aluminum USB Hub Powered for Laptop PC",
+          "score": 0.244,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0D4MBHMM9",
+          "title": "ONFINIO Powered USB Hub 3.0, 10-Port USB Splitter Hub | Individual On/Off Switches and 12V/2A Power Adapter USB Extension",
+          "score": 0.244,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0797NWDCB",
+          "title": "SABRENT 10-Port USB 3.0 Hub, Individual Power Switches and LEDs, 3 Smart Charging Ports, 60W Power Adapter, for PC, Mac, Xbox, PS5, Laptop, Desktop, USB Devices (HB-B7C3)",
+          "score": 0.064,
+          "brandMatches": false,
+          "missingModel": [
+            "powered"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0797NZFYP",
+          "title": "SABRENT 10-Port 60W USB 3.0 Hub with Individual Power Switches and LEDs, Includes 60W 12V/5A Power Adapter (HB-BU10)",
+          "score": -0.079,
+          "brandMatches": false,
+          "missingModel": [
+            "powered"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "honeycomb-charlie-pedals": {
+      "product": "Honeycomb Aeronautical Charlie Rudder Pedals",
+      "query": "Honeycomb Aeronautical Charlie Rudder Pedals",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B07SH2SFLW",
+          "title": "Honeycomb Aeronautical Alpha Flight Controls Yoke and Switch Panel | 180 Degree Rotation, Steel Shaft with Ball Bearings, 5-Pos Ignition, USB-C Pc and Mac",
+          "score": 0.56,
+          "brandMatches": true,
+          "missingModel": [
+            "charlie",
+            "rudder",
+            "pedals"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B015PII6YI",
+          "title": "Thrustmaster TFRP Precision Flight Sim Rudder Pedals - PS5, XBOX & PC | self-centering axis, long travel, aluminum rails, differential breaking, for all types of flight, adjustable resistance",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "charlie"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07DQY8LVC",
+          "title": "Thrustmaster TPR Rudder Pedals, Flight Simulator Rudder Control - PC | Pendular suspended mechanism, H.E.A.R.T magnetic sensors, adjustable spring resistance, frictionless, precise yaw response",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "charlie"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0B7NTLKF2",
+          "title": "Turtle Beach VelocityOne Universal Rudder Pedals for Windows 10 & 11 PCs, Xbox Series X, Xbox Series S, and Xbox One Featuring Smooth Rudder Axis, Adjustable Brakes and Pedal Width – Black | Windows PC, Xbox Series X|S, Xbox One, Hall-Effect Axes, Swappable Springs, Adjustable Brakes & Pedals, Non-Slip Base, Black",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "charlie"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09HS4Z4NW",
+          "title": "Logitech Pro Flight Rudder Pedals & Flight Throttle Quadrant",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "charlie"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "logitech-g-pro-flight-yoke-system": {
+      "product": "Logitech G (Saitek) G PRO Flight Yoke System",
+      "query": "Logitech G G PRO Flight Yoke System",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B09HRZZWR7",
+          "title": "Pro Flight Yoke System + Pro Flight Rudder Pedals Bundle",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B07CK73HGC",
+          "title": "Logitech G Saitek PRO USB Flight Yoke System (Renewed)",
+          "score": 0.84,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B08LZJKLTK",
+          "title": "Logitech G PRO Flight Yoke System, Professional Simulation Yoke and Throttle Quadrant, 3 Modes, 75 Programmable Controls, Configurable Throttle Knobs, Steel Shaft, USB, PC - Black (Renewed)",
+          "score": 0.84,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0CBF4CK24",
+          "title": "AC Adapter Compatible with Logitech G Saitek PRO Flight Yoke System DC Power Supply Charger Cord Cable",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B07QXPQRYX",
+          "title": "X52 Pro USB Flight Control System - HOTAS Joystick and Throttle for Flight Simulators - LCD Display, 3D Twist Rudder, Programmable Commands, USB 2.0 - Compatible with Windows PC",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "yoke"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "logitech-pro-flight-multi-panel": {
+      "product": "Logitech G (Saitek) Pro Flight Multi Panel",
+      "query": "Logitech G Pro Flight Multi Panel",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B01LWRNBI0",
+          "title": "USB G Pro Flight Multi Panel",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B091C4XK5N",
+          "title": "USB Pro Flight Multi Panel and Switch Panel Bundle",
+          "score": 0.76,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GWTXTV6Q",
+          "title": "Flight Control Panel by Logitech G",
+          "score": 0.76,
+          "brandMatches": true,
+          "missingModel": [
+            "pro",
+            "multi"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01M1BNTZN",
+          "title": "Pro Flight Switch Panel",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "multi"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01M1BNQAF",
+          "title": "USB G Pro Flight Radio Panel",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "multi"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "winwing-mcdu-a320": {
+      "product": "WinWing / WinCTRL MIP-Series MCDU (A320)",
+      "query": "WinWing / WinCTRL MIP-Series MCDU",
+      "status": 200,
+      "candidates": []
+    },
+    "winwing-pfp-3n-boeing-fmc": {
+      "product": "WinWing / WinCTRL PFP 3N (Boeing 737 FMC/CDU)",
+      "query": "WinWing / WinCTRL PFP 3N",
+      "status": 200,
+      "candidates": []
+    },
+    "winwing-pap-3-mcp": {
+      "product": "WinWing / WinCTRL PAP 3 (Boeing 737 MCP)",
+      "query": "WinWing / WinCTRL PAP 3",
+      "status": 200,
+      "candidates": []
+    },
+    "vkb-t-rudder-mk4": {
+      "product": "VKB T-Rudder Mk.IV",
+      "query": "VKB T-Rudder Mk.IV",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B01G6GT4A8",
+          "title": "T-Rudder Mk.IV Flight Simulator Pedals - PC Mac Linux",
+          "score": 0.93,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        }
+      ]
+    },
+    "benq-lk936st": {
+      "product": "BenQ LK936ST",
+      "query": "BenQ LK936ST",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BRBQ3ZHH",
+          "title": "LK936ST 4K Ultra HD Short-Throw Laser DLP Projector",
+          "score": 0.68,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DW21S16M",
+          "title": "LK936ST 4K Ultra HD Short-Throw Laser DLP Projector, Bundle with HA Ce",
+          "score": 0.46,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0D486MJN9",
+          "title": "TK710STi 4K HDR Laser 3200 Lumens Movie and Gaming Short Throw Projector with 4ms Response Time | 240Hz Refresh Rate | HDR10 & HLG | Android TV with Netflix Chromecast & AirPlay | 3D Keystone",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "lk936st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09CJGQ9MJ",
+          "title": "TK700 | 4K Gaming Projector w/ HDMI 2.0 | 16ms lag time @ 4K w/ Enhanced Black Details | 3200 Lumens | Dolby Atmos 5W Chamber Speaker | Auto Keystone correction 3D | PS5 Xbox Series X",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "lk936st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GNKNP98D",
+          "title": "LK970 | 4K Installation Laser Projector with 5000lm",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "lk936st"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "benq-ak700st": {
+      "product": "BenQ AK700ST",
+      "query": "BenQ AK700ST",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B07RV653WJ",
+          "title": "Hard Shell Projector Travel Case Compatible with BenQ TK710, AK700ST, TK700, AH30ST, AW30ST, LH600ST+, LW600ST+ and More With Customizable Foam Fits 14.5 x 10.5 x 4.5 Maximum",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0D486MJN9",
+          "title": "TK710STi 4K HDR Laser 3200 Lumens Movie and Gaming Short Throw Projector with 4ms Response Time | 240Hz Refresh Rate | HDR10 & HLG | Android TV with Netflix Chromecast & AirPlay | 3D Keystone",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ak700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GNZ6NS78",
+          "title": "AH700ST 4000-Lumen Full HD Short-Throw Laser DLP Golf Simulator Projec",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ak700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BRBQ3ZHH",
+          "title": "LK936ST 4K Ultra HD Short-Throw Laser DLP Projector",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ak700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09CJGQ9MJ",
+          "title": "TK700 | 4K Gaming Projector w/ HDMI 2.0 | 16ms lag time @ 4K w/ Enhanced Black Details | 3200 Lumens | Dolby Atmos 5W Chamber Speaker | Auto Keystone correction 3D | PS5 Xbox Series X",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ak700st"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "benq-ah700st": {
+      "product": "BenQ AH700ST",
+      "query": "BenQ AH700ST",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GNZ6NS78",
+          "title": "AH700ST 4000-Lumen Full HD Short-Throw Laser DLP Golf Simulator Projec",
+          "score": 0.68,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DF491FRC",
+          "title": "GW2790Q 27” 2K QHD 100Hz IPS Eye-Care Monitor, HDMI, DisplayPort, 2560×1440, Ultra Slim Bezel, Eyesafe, VESA MediaSync, Brightness Intelligence Tech., B. I. Gen2, Low Blue Light Plus | Brightness Intelligence GEN2, Eyesafe Low Blue Light, HDMI and Displayport, Vesa 100×100",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ah700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B076MHKTFH",
+          "title": "TH671ST | 1080p Short Throw Gaming Projector |Mode for Intense Low Input Lag Action | 3000 Lumens | Auto Vertical Keystone | Universal Connectivity | Built in Speaker",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ah700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D486MJN9",
+          "title": "TK710STi 4K HDR Laser 3200 Lumens Movie and Gaming Short Throw Projector with 4ms Response Time | 240Hz Refresh Rate | HDR10 & HLG | Android TV with Netflix Chromecast & AirPlay | 3D Keystone",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ah700st"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09CJGQ9MJ",
+          "title": "TK700 | 4K Gaming Projector w/ HDMI 2.0 | 16ms lag time @ 4K w/ Enhanced Black Details | 3200 Lumens | Dolby Atmos 5W Chamber Speaker | Auto Keystone correction 3D | PS5 Xbox Series X",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ah700st"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "optoma-gt2100hdr": {
+      "product": "Optoma GT2100HDR",
+      "query": "Optoma GT2100HDR",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0C4KWSFBW",
+          "title": "GT2100HDR Compact Short Throw Laser Home Theater and Gaming Projector, 1080p HD with 4K HDR Input, Bright 4,200 Lumens for Day and Night Viewing White",
+          "score": 0.68,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0C5BBCXRK",
+          "title": "GT2000HDR Ultra-Compact Short Throw Full HD Home Laser Projector",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gt2100hdr"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GSHRN6TV",
+          "title": "GT2400HDR - Full HD 1080p, 4,200 Lumens, Short Throw, Laser, Low Input Lag Gaming, Golf Simulation Ready Projector",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gt2100hdr"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D3W9F8MG",
+          "title": "GT3500HDR 1080p Full HD Home Laser Projector",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gt2100hdr"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BDTPC3QG",
+          "title": "GT1080HDRx Short Throw Gaming Projector | Enhanced Gaming Mode for 1080p 120Hz Gameplay at 8.4ms | 1080p and HDR support with 4K UHD input | Bright 3,800 Lumens for Day and Night| White",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gt2100hdr"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sig10-enclosure": {
+      "product": "Shop Indoor Golf SIG10 Golf Simulator Enclosure",
+      "query": "Shop Indoor Golf SIG10 Golf Simulator Enclosure",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FZH6L2LW",
+          "title": "Golf Simulator Enclosure for Home 10x8 ft Cage with HD Impact Sim Screen Two Shank Nets and Corner Foam Padding for Practice at Indoor Garage",
+          "score": 0.714,
+          "brandMatches": false,
+          "missingModel": [
+            "sig10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GL2GL8TR",
+          "title": "Golf Simulator Enclosure 10.7x8x5Ft & 8.5x8.5x5Ft | Light-Proof HD/4K Silent Impact Screen, Indoor/Outdoor Golf Simulators for Home Includes Mat, Foam-Padded Iron Poles, Shank Net, Sandbag & Bonus kit",
+          "score": 0.714,
+          "brandMatches": false,
+          "missingModel": [
+            "sig10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FY36PBBG",
+          "title": "Golf Simulator Enclosure Kit with Premium HD Impact Screen, Full Safety Padding &Blackout Curtain, Home Golf Sim Setup Launch Monitors Compatible, Indoor Cage Net Golfing Accessories",
+          "score": 0.714,
+          "brandMatches": false,
+          "missingModel": [
+            "sig10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GQLYY6K1",
+          "title": "Golf Simulator Impact Screen Enclosure with Net & Target (Projector not Included) - Golf Practice Cage with 270° Protection, Easy Setup to Use for Indoor Outdoor Home Garage Basement",
+          "score": 0.714,
+          "brandMatches": false,
+          "missingModel": [
+            "sig10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D8JZK93Z",
+          "title": "Complete Golf Simulator Enclosure Package – 4K-Ready Impact Screen with Blackout Cage, Projector Mount, Frame Poles, Side Shank Nets | Indoor & Garage Practice | Easy Setup | 12-Month Warranty",
+          "score": 0.064,
+          "brandMatches": false,
+          "missingModel": [
+            "sig10"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "sigpro-side-barrier-netting": {
+      "product": "Shop Indoor Golf SIGPRO Side Barrier Netting",
+      "query": "Shop Indoor Golf SIGPRO Side Barrier Netting",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DQ1BPTKT",
+          "title": "Golf Practice Net, 12X12ft /12X15ft/12X20ft Golf Hitting Hanging Kit, Sports Practice Barrier Net for Backyard and Garage, Indoor/Outdoor DIY Sports Netting for Baseball, Hockey, Soccer",
+          "score": 0.571,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro",
+            "side"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CZ6ZBS1W",
+          "title": "Golf Net for Hitting Practice, 10Ft to 50Ft Golf Ball Netting with 33Ft Hanging Nylon Rope,Also Use as Baseball, Hockey, Soccer, LAX Sport Net,Indoor and Outdoor.",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro",
+            "side",
+            "barrier"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G5P8W9HH",
+          "title": "Golf Net - 10x8ft Golf Practice Hitting Net with Triple-Layer HD Screen, Golf Simulators Hitting Net with Impact Screen, Target Cloth, Side Barriers for Indoor Garage, Backyard & Outdoor",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro",
+            "barrier",
+            "netting"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D9P2KY7L",
+          "title": "Golf Hitting Nets Attachment, 7 * 10/7 * 7FT Heavy Duty Side Net Barrier Net for Golf, Baseball, Hockey with Sandbag",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro",
+            "netting"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GPWFBTHD",
+          "title": "Golf Hitting Nets Attachment, 7 * 10/7 * 7FT Heavy Duty Side Net Barrier Net for Golf, Baseball, Hockey with Sandbag",
+          "score": 0.429,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro",
+            "netting"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sig-landing-pad-turf": {
+      "product": "Shop Indoor Golf Landing Pad Turf and Putting Green",
+      "query": "Shop Indoor Golf Landing Pad Turf and Putting Green",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B086X1KYCD",
+          "title": "Golf Putting Green - Artificial Grass Turf 5FT X 10FT, Indoor/Outdoor Training Mat, Synthetic Fake Grass for Baseball, Football, Gym Sports",
+          "score": 0.625,
+          "brandMatches": false,
+          "missingModel": [
+            "landing",
+            "pad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07SRZKM54",
+          "title": "Pro Putting Green Golf Artificial Grass Turf - Indoor Outdoor Golf Training Mat, Synthetic Fake Grass for Baseball Football Gym Sports",
+          "score": 0.625,
+          "brandMatches": false,
+          "missingModel": [
+            "landing",
+            "pad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09BCHCRS1",
+          "title": "Golf Putting Green, Practice Putting Green Mat, Large Professional Golfing Training Mat for Indoor Outdoor…",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "landing",
+            "pad",
+            "turf"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G7TSFZB6",
+          "title": "Bearwill Golf Putting Green,5ft x 10ft Golf Practice Putting Mat,Professional Large Golf Training Mat for Indoor Outdoor Garage Backyard",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "landing",
+            "pad",
+            "turf"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0C4L2NTMV",
+          "title": "Golf Putting Green/Mat-Golf Training Mat- Professional Golf Practice Mat- Green Long Challenging Putter for Indoor/Outdoor",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "landing",
+            "pad",
+            "turf"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sigpro-4x7-mat": {
+      "product": "Shop Indoor Golf SIGPRO 4' x 7' Golf Mat",
+      "query": "Shop Indoor Golf SIGPRO 4' x 7' Golf Mat",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CDQX3G66",
+          "title": "SIGPRO Softy Golf Mat - Professional-Grade Practice Mat - Realistic Fairway Feel - Real Tee Capable, Replaceable Hitting Strip, Thick Cushioning & Joint-Friendly Design",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0CDQXK7QK",
+          "title": "SIGPRO Softy Golf Mat - Professional-Grade Practice Mat - Realistic Fairway Feel - Real Tee Capable, Replaceable Hitting Strip, Thick Cushioning & Joint-Friendly Design",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0D94XZ7CL",
+          "title": "SIGPRO Softy LITE Golf Mat - Lightweight, Space-Saving, Professional-Grade Practice Mat, Realistic Fairway Feel - Replaceable Hitting Strip, Responsive Cushioning & Joint-Friendly",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0D94YSX5Y",
+          "title": "SIGPRO Hitting Strips - Professional-Grade, Replaceable Golf Hitting Mat - Realistic Hitting Surface - Replaceable with SIGPRO - Joint-Friendly",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FXWCM89K",
+          "title": "Elite Dual-Turf Golf Mat, 5x4ft/6x4ft Golf Hitting Mat | High-Density Artificial Turf Mat for Hitting Chipping Driving Swinging, Indoor/Outdoor Use, All-in-one Gift for Men Dad",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "trackman-io": {
+      "product": "TrackMan iO",
+      "query": "TrackMan iO",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FRNBB321",
+          "title": "Protective Case for Trackman iO Golf Simulator",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GS38DYWC",
+          "title": "in Golf Course GPS Units",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "io"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FSXWP9ZH",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "io"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "garmin-approach-r10": {
+      "product": "Garmin Approach R10",
+      "query": "Garmin Approach R10",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B07C3FBNQ4",
+          "title": "Approach CT10, Full Set, Automatic Club Tracking System, 14 Sensors, White, 010-01994-00 | Automatic Club Tracking, Pairs with Compatible Garmin Golf Devices, CR2032 Batteries",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "r10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B095QX1FSR",
+          "title": "Approach R10, Portable Golf Launch Monitor, Take Your Game Home, Indoors or to The Driving Range, Up to 10 Hours Battery Life - 010-02356-00 | Portable Radar Golf Launch Monitor, Pairs with Garmin Golf App, Up to 10 Hr Battery, Includes Tripod, Phone Mount, Case",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0BLSNZ4QS",
+          "title": "Garmin Approach R10 Golf Launch Monitor & Simulator Stand Bundle | Home, Outdoor & Indoor Use, Swing Analysis, 10HR Battery Life & Projector Compatible | Includes PlayBetter Alignment Stand",
+          "score": 0.47,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0DM6NYRYN",
+          "title": "Approach® R50, Premium Golf Launch Monitor and Simulator, 10\" Built-in Color Touchscreen Display | 3 High-Speed Cameras, 15 Plus Metrics Incl Spin and Axis, 43K Plus Courses, Up to 4 Hr Battery",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r10"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B08X1L2CDK",
+          "title": "Approach S12, Easy-to-Use GPS Golf Watch, 42k+ Preloaded Courses, Black, 010-02472-00",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r10"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "square-golf-launch-monitor": {
+      "product": "Square Golf Launch Monitor",
+      "query": "Square Golf Launch Monitor",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DM6NYRYN",
+          "title": "Garmin Approach® R50, Premium Golf Launch Monitor and Simulator, 10\" Built-in Color Touchscreen Display | 3 High-Speed Cameras, 15 Plus Metrics Incl Spin and Axis, 43K Plus Courses, Up to 4 Hr Battery",
+          "score": 0.93,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FYR5FMFF",
+          "title": "Bushnell Golf Launch Pro i Circle B Edition - Launch Monitor with Tour-Level Accuracy, Camera-Based Measurement, Indoor Use",
+          "score": 0.93,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FSXWP9ZH",
+          "title": "Golf Launch Monitor & Simulator: Portable Swing Analyzer with 13 Metrics, 3D Driving Range, 3D Trajectory & Video Record for iOS/Android",
+          "score": 0.93,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FVXQL4ZC",
+          "title": "Leveling Stand with Protective Shield for Square Golf Launch Monitor | Heat-Resistant & All-in-One Simulator Case (Indoor/Outdoor Use)",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GP22ZYY5",
+          "title": "Shot Scope LM1 Portable Mini Launch Monitor",
+          "score": 0.68,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        }
+      ]
+    },
+    "skytrak-og-launch-monitor": {
+      "product": "SkyTrak OG Launch Monitor",
+      "query": "SkyTrak OG Launch Monitor",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GJDT5L16",
+          "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [
+            "og"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GJF8DNPM",
+          "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [
+            "og"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FSXWP9ZH",
+          "title": "Golf Launch Monitor & Simulator: Portable Swing Analyzer with 13 Metrics, 3D Driving Range, 3D Trajectory & Video Record for iOS/Android",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "og"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0914JC67B",
+          "title": "Portable Golf Launch Monitor and Swing Analyzer with Real-Time Shot Data Tracking | Ideal Golf Swing Trainer/Training Equipment for Indoor & Outdoor | Up to 20 Hours Battery Life",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "og"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FJ4D5T7T",
+          "title": "Golf Swami Launch Master Pro Golf Launch Monitor",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "og"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "garmin-approach-r50": {
+      "product": "Garmin Approach R50",
+      "query": "Garmin Approach R50",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DM6NYRYN",
+          "title": "Approach® R50, Premium Golf Launch Monitor and Simulator, 10\" Built-in Color Touchscreen Display | 3 High-Speed Cameras, 15 Plus Metrics Incl Spin and Axis, 43K Plus Courses, Up to 4 Hr Battery",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DRZ1QFY5",
+          "title": "Approach® S50, Advanced Golf GPS Smartwatch, AMOLED Display, On-Course Features, Wrist-Based Heart Rate, Slate Aluminum Bezel with Black ComfortFit Nylon Band | Amoled Display, GPS Golf Features, Touch Targeting, Autoshot, Pinpointer, Wrist Hr and SPO2, Up to 10-Day Battery",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r50"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B08X1L2CDK",
+          "title": "Approach S12, Easy-to-Use GPS Golf Watch, 42k+ Preloaded Courses, Black, 010-02472-00",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r50"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DRZ2P69L",
+          "title": "Approach® S44, Essential Golf GPS Smartwatch, AMOLED Display, On-Course Features, Silver Aluminum Bezel with Twilight Silicone Band | 43, 000 Plus Preloaded Courses, Pinpointer and Green View, 43mm Aluminum Bezel, Twilight Silicone Band",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r50"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GHSG7S6T",
+          "title": "Approach® G82, Portable Golf Launch Monitor, Premium GPS Handheld, Large Color Touchscreen | 5-Inch Color Touchscreen, Built-in Radar Launch Monitor, 43, 000 Plus Preloaded Courses, Up to 25 Hr GPS Battery, IPX7",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "r50"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "skytrak-st-max": {
+      "product": "SkyTrak ST MAX",
+      "query": "SkyTrak ST MAX",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GJDT5L16",
+          "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+          "score": 0.607,
+          "brandMatches": true,
+          "missingModel": [
+            "max"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GJF8DNPM",
+          "title": "SkyTrak ST+ Plus Golf Launch Monitor & Simulator Bundle - Indoor/Outdoor, Shot & Club Data, Simulation Ready with Free 14-Day Trial Membership + Software & Driving Range",
+          "score": 0.607,
+          "brandMatches": true,
+          "missingModel": [
+            "max"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FMX3CBJQ",
+          "title": "Learn more about Global Recycled Standard",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "st",
+            "max"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F37XC5TR",
+          "title": "Learn more about Recycled Claim Standard Blended",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "st",
+            "max"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CSXS16P5",
+          "title": "Protective Shield Stand for SkyTrak+ Golf Simulator Launch Monitor - Professionally Molded",
+          "score": -0.157,
+          "brandMatches": true,
+          "missingModel": [
+            "st",
+            "max"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "bushnell-launch-pro": {
+      "product": "Bushnell Launch Pro",
+      "query": "Bushnell Launch Pro",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FYR5FMFF",
+          "title": "Golf Launch Pro i Circle B Edition - Launch Monitor with Tour-Level Accuracy, Camera-Based Measurement, Indoor Use",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GCDSR2YT",
+          "title": "Portable Metal Protective Case for Bushnell Launch Pro Golf Launch Monitor Simulator, Visual Golf Launch Monitor Shield for Foresight GC3, Suitable for Indoor and Outdoor Use",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0CKS12921",
+          "title": "Alignment Leveling Stand for Bushnell Launch Pro and Foresight GC3",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FRN6XDMM",
+          "title": "Protective Metal Case for Foresight GC3 / Bushnell Launch Pro Golf Launch Monitor Simulator",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GKQJP29N",
+          "title": "GC3/S Golf Launch Monitor",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "uneekor-eye-xo2": {
+      "product": "Uneekor EYE XO2",
+      "query": "Uneekor EYE XO2",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0F382DTJQ",
+          "title": "Learn more about Recycled Claim Standard Blended",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "eye",
+            "xo2"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BVFP6KXC",
+          "title": "in Golf Rangefinders",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "eye",
+            "xo2"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DJWV6LKS",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "eye",
+            "xo2"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "uneekor-eye-mini": {
+      "product": "Uneekor EYE MINI",
+      "query": "Uneekor EYE MINI",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DM6NYRYN",
+          "title": "Approach® R50, Premium Golf Launch Monitor and Simulator, 10\" Built-in Color Touchscreen Display | 3 High-Speed Cameras, 15 Plus Metrics Incl Spin and Axis, 43K Plus Courses, Up to 4 Hr Battery",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "eye",
+            "mini"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "foresight-gc3": {
+      "product": "Foresight Sports GC3",
+      "query": "Foresight Sports GC3",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GKQJP29N",
+          "title": "GC3/S Golf Launch Monitor",
+          "score": 0.513,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FJ825W92",
+          "title": "AC DC Adapter Charger Compatible with Foresight GC3 Golf Launch Monitor Power Supply Cord",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GCDSR2YT",
+          "title": "Portable Metal Protective Case for Bushnell Launch Pro Golf Launch Monitor Simulator, Visual Golf Launch Monitor Shield for Foresight GC3, Suitable for Indoor and Outdoor Use",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FRN6XDMM",
+          "title": "Protective Metal Case for Foresight GC3 / Bushnell Launch Pro Golf Launch Monitor Simulator",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0F632K33D",
+          "title": "Back to certifications for this product",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gc3"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "foresight-gcquad": {
+      "product": "Foresight Sports GCQuad",
+      "query": "Foresight Sports GCQuad",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DM6NYRYN",
+          "title": "Approach® R50, Premium Golf Launch Monitor and Simulator, 10\" Built-in Color Touchscreen Display | 3 High-Speed Cameras, 15 Plus Metrics Incl Spin and Axis, 43K Plus Courses, Up to 4 Hr Battery",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gcquad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FYR5FMFF",
+          "title": "Golf Launch Pro i Circle B Edition - Launch Monitor with Tour-Level Accuracy, Camera-Based Measurement, Indoor Use",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gcquad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GKQJP29N",
+          "title": "GC3/S Golf Launch Monitor",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gcquad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F6CQJPQ5",
+          "title": "Golf Rangefinder with Slope & Magnet, 1000Y Range Finder Golf, 6X Zoom, HD LCD, Flag Lock & Vibration, Rechargeable, Golf Accessories for Men",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gcquad"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F2GRDGCC",
+          "title": "Golf LPi Personal Launch Monitor – Tour-Level Ball & Club Data Accuracy for Indoor Golf Simulation",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gcquad"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "foresight-falcon": {
+      "product": "Foresight Sports Falcon",
+      "query": "Foresight Sports Falcon",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CF7QSZQ4",
+          "title": "NFL Autograph Football - Official Size White Panel Souvenir Football for Autographs + Signatures - NFL Team Fan Shop Memorabilia",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "falcon"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F382DTJQ",
+          "title": "Learn more about Recycled Claim Standard Blended",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "falcon"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GS38DYWC",
+          "title": "in Golf Course GPS Units",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "falcon"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FMX3CBJQ",
+          "title": "Learn more about Global Recycled Standard",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "falcon"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BVFP6KXC",
+          "title": "in Golf Rangefinders",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "falcon"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "flightscope-mevo-gen2": {
+      "product": "FlightScope Mevo Gen 2",
+      "query": "FlightScope Mevo Gen 2",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GFSKKLQT",
+          "title": "Adjustable Alignment & Leveling Stand for Flightscope Mevo Gen2 - Golf Training Equipment with Bubble Level, Height Adjustable 2.5 Inch, Stable Support for Mevo Gen 2",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0G6NYRWL4",
+          "title": "Protective & Leveling Stand for FlightScope Mevo Gen 2 Golf Launch Monitor, Adjustable Alignment Base with Bubble Level",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FK8M3VLB",
+          "title": "Mevo Gen2 Portable Golf Launch Monitor and Simulator with 18 Swing Data Parameters, Front Facing Camera, 8 E6 Simulation Courses with GPS Overview and Shot Tracer | Indoor and Outdoor",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "gen"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G1ZLFDJP",
+          "title": "Mevo Gen2 Portable Golf Launch Monitor and Simulator with Face Impact Software | 18 Swing Data Parameters, Built-in Camera, 8 E6 Simulation Courses with GPS Overview and Shot Tracer",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "gen"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FQHYCRFM",
+          "title": "Leveling Stand Compatible with Mevo Gen 2 Launch Monitor – Precision Adjustable Base, Oversized Bubble Level, ASA Heat & UV Resistant, Made in USA",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        }
+      ]
+    },
+    "full-swing-kit": {
+      "product": "Full Swing KIT",
+      "query": "Full Swing KIT",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0G21D5G4T",
+          "title": "Solid Wood Tree Swing - 500 lbs Capacity Heavy Duty Adult-Sized Swing Seat with 118\" Adjustable Hemp Rope & Complete Hanging Kit for Porch, Garden, Backyard & Studio",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FGS7483G",
+          "title": "SkyStand Outdoor Hanging Tree Swing Set Attachments Support Kit - Heavy Duty Platform, Kids Outdoor Play Equipment - Build a Backyard Playground, No Branch Required, Up to 500 lbs - Green",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B07546QD8D",
+          "title": "Tree Swing Hanging Straps Kit Holds 2200 lbs,5ft Extra Long Straps Strap with Safer Lock Snap Carabiner Hooks Perfect for Tree Swing & Hammocks, Carry Pouch Easy Fast Installation (5 ft)",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0F28Y5HGN",
+          "title": "HeyZoo Tree Swing, 60 inch Larger Saucer Swing for Whole Family, 900lbs Weight Capacity, with Adjustable Hanging Straps, for Outdoor Backyard, Gifts for Kids, Black",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "kit"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07QD4S17V",
+          "title": "WINNER SPIRIT Real Swing 300 Golf Swing & Hitting Trainer, True Impact, Checking Path After Swing Practice Mat Groover Training Aid, Height Adjustable",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "kit"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "carls-place-diy-enclosure": {
+      "product": "Carl's Place DIY Golf Simulator Enclosure Kit with Impact Screen",
+      "query": "Carl's Place DIY Golf Simulator Enclosure Kit with Impact Screen",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FY36PBBG",
+          "title": "Golf Simulator Enclosure Kit with Premium HD Impact Screen, Full Safety Padding &Blackout Curtain, Home Golf Sim Setup Launch Monitors Compatible, Indoor Cage Net Golfing Accessories",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "diy"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D9HTNS3P",
+          "title": "Golf Simulator Enclosure Nets - Complete Set with Frame and HD Impact Screen Kit - Indoor At Home Golf Training Equipment - Choose 10x8 ft, 12x9 ft, or 14x8 ft",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "diy"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FP5L5ZHP",
+          "title": "10x8x6 ft Golf Simulator Enclosure Net with HD Impact Screen & Frame Kit | Indoor Home Golf Training Cage Simulator Accessories | Gift for Golfers Men Women",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "diy"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FZH6L2LW",
+          "title": "Golf Simulator Enclosure for Home 10x8 ft Cage with HD Impact Sim Screen Two Shank Nets and Corner Foam Padding for Practice at Indoor Garage",
+          "score": 0.556,
+          "brandMatches": false,
+          "missingModel": [
+            "diy",
+            "kit"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GDXMWPRV",
+          "title": "Golf Practice Hitting Net with HD Simulator Screen and Target Cloth, 10x8 FT Golf Driving Net for Indoor, Outdoor, Backyard and Garage with Impact Resistance and Ball Return",
+          "score": 0.444,
+          "brandMatches": false,
+          "missingModel": [
+            "diy",
+            "enclosure",
+            "kit"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sigpro-premium-impact-screen": {
+      "product": "Carl's Place SIGPRO Premium Impact Screen",
+      "query": "Carl's Place SIGPRO Premium Impact Screen",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BZ473PDK",
+          "title": "Golf Simulator Impact Screen, Premium Triple Layer Launch Monitor Projector Screen with HD Visuals, Indoor Practice Screen for Enclosure and Net, Hitting Screen with Grommets & Bungee Cords",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sigpro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fiberbuilt-studio-mat": {
+      "product": "Fiberbuilt Studio Hitting Mat",
+      "query": "Fiberbuilt Studio Hitting Mat",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GRV7CGPZ",
+          "title": "Golf Mat & Hitting Mat: 5.2 x 4ft, 6 x 4ft Practice Outdoor/Indoor 21 to 50mm Turf Mats with Ball Tray – All-in-One Hitting Mats for Golf Practice, Perfect for Garage/Backyard",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "studio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8HQX5FX",
+          "title": "5×4 Premium Golf Hitting Mat — 40mm Cushioned Turf for Joint-Friendly Practice — Trusted by PGA Tour Pro Jim Herman, Indoor & Outdoor, Includes Training Kit - USA Owned Brand",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "studio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G12SNVPP",
+          "title": "Pro Golf Hitting Mat 4'X5' | 2\" Thick Heavy Duty Nylon & Premium NBR Foam | Durable & Withstand 500,000 Shots | Accept Real Tee | Superb Cushioning | No Residual | Indoor/Outdoor/Simulater",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "studio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GDFYY4WN",
+          "title": "Dual-Mode Golf Hitting & Putting Mat Indoor Outdoor Training Turf | Dual function golf practice turf for garage backyard simulator, shock-absorbing non-slip EVA base, wear-resistant grass",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "studio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D5B5RRFL",
+          "title": "2024 Upgraded Version Baseball Hitting Mat with Antislip Rubber Backing, 12' x 6' Batting Cage Mat with Home Plate, Batters Box Turf Mat Baseball for Indoor and Outdoor",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "studio"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "square-golf-omni": {
+      "product": "Square Golf Omni",
+      "query": "Square Golf Omni",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CHB2V5WB",
+          "title": "in Golf Hitting Mats",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "omni"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BG3W2CXC",
+          "title": "Oversized Golf Hitting Mat, Practice All Clubs, Built-in Ball Tray, Dual Turf, Work with Simulators, Golf Mats Practice Outdoor&Indoor, Golf Turf Mat, Driving Chipping Putting",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "omni"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F9FMG493",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "omni"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0B1LH72B8",
+          "title": "in Men's Hiking Shorts",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "omni"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F9FPDMMT",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "omni"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "golfjoy-spica-3": {
+      "product": "GOLFJOY Spica 3",
+      "query": "GOLFJOY Spica 3",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FWQH9QDC",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "spica"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "openlaunch-nova": {
+      "product": "OpenLaunch Nova",
+      "query": "OpenLaunch Nova",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GV458SK5",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "nova"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GZKF5SGL",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "nova"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "leobodnar-bbi-32-button-box-interface": {
+      "product": "Leo Bodnar Electronics BBI-32 Button Box Interface (with connectors)",
+      "query": "Leo Bodnar Electronics BBI-32 Button Box Interface",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0F8NFFH29",
+          "title": "Learn more about Global Recycled Standard",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "bbi",
+            "32",
+            "button",
+            "box",
+            "interface"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DKNW88FN",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "bbi",
+            "32",
+            "button",
+            "box",
+            "interface"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "leobodnar-bu0836x-diy-board": {
+      "product": "Leo Bodnar Electronics BU0836X Joystick Interface (push-in connectors)",
+      "query": "Leo Bodnar Electronics BU0836X Joystick Interface",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GY2SZL9F",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "bu0836x",
+            "joystick",
+            "interface"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "logitech-saitek-pro-flight-switch-panel": {
+      "product": "Logitech G Saitek Pro Flight Switch Panel (as bridge panel)",
+      "query": "Logitech G Saitek Pro Flight Switch Panel",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B00EO73JPS",
+          "title": "Saitek Pro Flight Switch Panel",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B001EYU1WS",
+          "title": "Saitek PRO Flight Switch Panel (PZ55)",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0B4MK3VKP",
+          "title": "Logitech Pro Flight Rudder Pedals & Pro Flight Switch Panel, WHITE",
+          "score": 0.993,
+          "brandMatches": true,
+          "missingModel": [
+            "saitek"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B08D8L644G",
+          "title": "Meza - Cockpit Simulator Panel Kit, Pre-Cut Flight Sim Mounting Set Compatible with Logitech Yoke, Throttle Quadrants, Honeycomb Yoke and Logitech Flight Panels, LED Light Bar, 30 x 20 x 4 Inch",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "saitek",
+            "pro",
+            "switch"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GWTXTV6Q",
+          "title": "Flight Control Panel by Logitech G",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "saitek",
+            "pro",
+            "switch"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "logitech-saitek-radio-panel-rotary": {
+      "product": "Logitech G Saitek Pro Flight Radio Panel (as rotary/encoder panel)",
+      "query": "Logitech G Saitek Pro Flight Radio Panel",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B074TGHD7Q",
+          "title": "Logitech G Saitek Pro Flight Radio Panel Controller for PC - 945-000029 (Renewed)",
+          "score": 0.84,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B01M1BNQAF",
+          "title": "USB G Pro Flight Radio Panel",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "saitek"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01LWRNBI0",
+          "title": "USB G Pro Flight Multi Panel",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "saitek",
+            "radio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01M1BNTZN",
+          "title": "Pro Flight Switch Panel",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "saitek",
+            "radio"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01LYE4J1C",
+          "title": "Pro Flight Instrument Panel",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "saitek",
+            "radio"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "thrustmaster-twcs-throttle-engine-lever": {
+      "product": "Thrustmaster TWCS Throttle (as engine lever)",
+      "query": "Thrustmaster TWCS Throttle",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FHRTMLHB",
+          "title": "Thrustmaster Sol-R6 Space Flight Throttle, S.M.A.R.T Slide Rails - PC | 14 assignable actions, 3.1-in travel, 4 detent positions, built-in 15-degree rudder, auto re-centering, smooth glide",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "twcs"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CRR1Z2DQ",
+          "title": "THRUSTMASTER Viper TQS Mission Pack: Metal Throttle Quadrant System & Flying Clamp (Xbox Series X/S, PC)",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "twcs"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B001CXYMFS",
+          "title": "Thrustmaster T-Flight Hotas X USB Flight Sim Stick & Throttle - PC | Detachable design, adjustable resistance, 12 programmable buttons, 5 axes, dual rudder control, preset memory, ergonomic",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "twcs"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BG3DQLDD",
+          "title": "Thrustmaster TCA Captain Pack X Airbus Sidestick & Throttle - XBOX & PC | A320 1:1 replica, 14 remappable buttons, thrust reverser, twist rudder, 31 mappable quadrant buttons, 4 axes, for MSFS",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "twcs"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09FQR945K",
+          "title": "Thrustmaster TCA Quadrant Boeing Edition Throttle Add-On - XBOX & PC | Dual-engine levers, adjustable resistance, Hall-Effect sensors, 17 controls, autopilot functions, for flight sim cockpits",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "twcs"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "leobodnar-bu0836a-diy-board": {
+      "product": "Leo Bodnar Electronics BU0836A USB Joystick Interface",
+      "query": "Leo Bodnar Electronics BU0836A USB Joystick Interface",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0002EAA36",
+          "title": "Thrustmaster USB Joystick (Windows)",
+          "score": 0.286,
+          "brandMatches": false,
+          "missingModel": [
+            "bu0836a",
+            "interface"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FFLXM9KL",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "bu0836a",
+            "usb",
+            "joystick",
+            "interface"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "raildriver-ship-throttle": {
+      "product": "P.I. Engineering RailDriver Desktop Train Cab Controller (as ship throttle)",
+      "query": "P.I. Engineering RailDriver Desktop Train Cab Controller",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0002APWXS",
+          "title": "RailDriver USB Desktop Train Cab Controller, Drive your Train with realistic throttle, brake, reverser, and switch controls. (Windows PC)",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B07KCK6F2F",
+          "title": "RailDriver USB Desktop Train Cab Controller with Trainz Railroad Simulator 2019 (RailDriver, Train Simulation)",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0933GSXK5",
+          "title": "RailDriver USB Desktop Train Cab Controller with Train Sim World 2 Download…",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0CP66RCDF",
+          "title": "RailDriver Cab Controller & Train Sim World 4",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "desktop"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DB1JNBBC",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "raildriver",
+            "desktop",
+            "train",
+            "cab",
+            "controller"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "professional-ship-simulator-context": {
+      "product": "Professional Ship Simulator Professional Ship Simulator (ex-Nautic XP)",
+      "query": "Professional Ship Simulator Professional Ship Simulator",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FDFG69ZG",
+          "title": "Cruise Ship Fluid Drift Bottle,Fluid Cruise Ship Simulator of Love and Eternity - Interactive Liquid Wave Model Boat in a Bottle for Desk Game, Home Decor, Birthday Titanic Gifts and Paperweight.",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "professional"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CRJJR1HZ",
+          "title": "ZEshops Unsinkable Titanic Cruise Simulator - Wavey Boat in a Box Liquid Wave Cruise Fluid Ship Decoration - Ornament for Car, Desk, and Gifts (Titanic Cruise)",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "professional"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CC6DW3ZT",
+          "title": "Honsheng Unsinkable Titanic Simulator Toy Wavey Boat in a Box Liquid Wave Cruise Fluid Ship Decoration Ornament for Car Decoration Paperweight Desk Toy Gifts",
+          "score": 0.667,
+          "brandMatches": false,
+          "missingModel": [
+            "professional"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0B2KKC373",
+          "title": "Pet Simulator - Mystery Pet Minifigures 4-Pack (Four Mystery Eggs & Figures w/Accessories & Stands, Series 2) [Includes DLC]",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "professional",
+            "ship"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B083JW5YKM",
+          "title": "Next Level Racing F-GT Lite Formula and GT Foldable Simulator Cockpit (NLR-S015)",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "professional",
+            "ship"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-clubsport-shifter-sq-v15": {
+      "product": "Fanatec ClubSport Shifter SQ V1.5",
+      "query": "Fanatec ClubSport Shifter SQ V1.5",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B076KFXV6P",
+          "title": "Fanatec ClubSport Shifter SQ V1.5 Stand-alone",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.36,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport",
+            "shifter",
+            "sq",
+            "v1"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F4XSJ8PH",
+          "title": "Fanatec CSL Elite Officially Licensed McLaren GT3 v2 Sim Racing Steering Wheel – Analog Paddles, Magnetic Shifters, Multi-Position Switches, OLED Display for PC, Xbox Series X|S, Xbox One",
+          "score": 0.36,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport",
+            "shifter",
+            "sq",
+            "v1"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DZN61TCK",
+          "title": "Simube 5mm Thick Aluminum Alloy Shifter Adapter Plate - CNC Precision Machined, Anodized Finish, Compatible with ClubSport Shifter SQ V1.5",
+          "score": 0.33,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GKV3C7V1",
+          "title": "PXN SF SH Sim Racing Shifter, H-Pattern & Sequential Dual Mode | Hall Effect Sensor, Aluminum Alloy Body, 6+2+R Gears, Adjustable Resistance, Compatible with PC & PXN Racing Wheel Base",
+          "score": 0.2,
+          "brandMatches": false,
+          "missingModel": [
+            "clubsport",
+            "sq",
+            "v1"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "moza-sgp-shifter": {
+      "product": "MOZA SGP Sequential Shifter",
+      "query": "MOZA SGP Sequential Shifter",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CRCY1VVD",
+          "title": "YESHMA USB Sequential Shifter For PC Windows Sequential Shifter Sim Racing Compatible With Logitech G25 G27 G29 G920 T300 T500 Sim Racing Wheel",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sgp"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FN6RRMSB",
+          "title": "Winch SGP SHIFTER",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sequential"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GKV3C7V1",
+          "title": "PXN SF SH Sim Racing Shifter, H-Pattern & Sequential Dual Mode | Hall Effect Sensor, Aluminum Alloy Body, 6+2+R Gears, Adjustable Resistance, Compatible with PC & PXN Racing Wheel Base",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sgp"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G4QXQCZN",
+          "title": "Nitho USB Shifter for PC Sim Racing, 6-Speed H-Pattern Gear Shifter with Reverse, Interchangeable H-Pattern & Sequential Plates, Racing Wheel Shifter for Windows PC Driving Simulators",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sgp"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B099NDHTJB",
+          "title": "meakeize USB Sequential Shifter for PC Windows Win10 Win7 xp compatible for Logitech G27 G29 G923 G920 PXN TMX Racing Wheel fit for Horizon WRC Dirt LFS Corsa Assetto ETS Forza Sim Racing Game",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "sgp"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-clubsport-handbrake-v15": {
+      "product": "Fanatec ClubSport Handbrake V1.5",
+      "query": "Fanatec ClubSport Handbrake V1.5",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0H5XG1MPZ",
+          "title": "Fanatec ClubSport Handbrake V2 with USB Adapter – PC, PS5/PS4, Xbox | Metal Design, Load Cell Sensor, Highly Adjustable, RJ12 Connection",
+          "score": 0.26,
+          "brandMatches": true,
+          "missingModel": [
+            "v1"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0GX5SCT6L",
+          "title": "Desk Mount for Racing Sim Handbrake Compatible with Thrustmaster TSS, Fanatec ClubSport, Moza HBP, Simagic TB-1/TB-RS/Q1s, 64Bit PC USB Handbrake - Height Adjustable, With Bag/Headphone Holder, Black",
+          "score": 0.26,
+          "brandMatches": true,
+          "missingModel": [
+            "v1"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0CMWM3NGV",
+          "title": "PXN HB S PC Handbrake for Sim Racing (Windows 7/8/10/11) | 16-Bit Hall Sensor, Alloy Construction, Adjustable Force, Stroke & Orientation, Replaceable Spring & Damping, Desk Clamp",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "clubsport",
+            "v1"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07V79MXF2",
+          "title": "aikeec 64Bit PC USB Handbrake, Upgrade SIM Racing Games Handbrake for LO GITECH G25 G27 G29 T500 T300 THRUST MASTER FANATECOSW DIRT RALLY, 2M Nylon Cable/Reinforced Spring/Black+Clamp",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "clubsport",
+            "v1"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FZSF4VB8",
+          "title": "PXN HB S USB Handbrake for Sim Racing, PC Racing Handbrake | Alloy Build, 16-Bit Linear Sensor, Adjustable Force & Stroke, Spring & Damping, Desk Clamp – for Windows PC",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "clubsport",
+            "v1"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "buttkicker-gamer-pro": {
+      "product": "ButtKicker Gamer PRO (BK-GR-PRO)",
+      "query": "ButtKicker Gamer PRO",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B00BERG9FI",
+          "title": "ButtKicker Gamer2 Playseat Edition",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "gamer",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0C86M68WR",
+          "title": "BST-300EX, 300 Watts RMS,Tactile Bass Shaker, 4 Ohms Impedance - Turn Any Surface into a Speaker System - Generates Subwoofer Lows",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0052AXFKK",
+          "title": "Mini LFE Subwoofer for Home Theater",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8QTM4MD",
+          "title": "BS-1 Bass Shaker: 50W High Power Tactile Transducer - Subwoofer Lows for Home Theater, Car Audio & Gaming Chair Vibration Immersion​ (1 PC)",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F8M7CRLX",
+          "title": "Subwoofer Tactile Bass Shaker- 20 Watts RMS 8 Ohm Imepedance - Audio Transducer - Turn Any Surface into a Speaker System - for Large and Rigid Surfaces. (20W)",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gamer",
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "samsung-odyssey-oled-g9-49": {
+      "product": "Samsung Odyssey OLED G9 49",
+      "query": "Samsung Odyssey OLED G9 49",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DQD7548D",
+          "title": "Odyssey G9 OLED 49\" Curved 240Hz Gaming Screen DQHD, LS49DG954SUXEN",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FLKKN6FN",
+          "title": "49\" Odyssey G9 Dual QD-OLED G91SD Curved Ultrawide Gaming Monitor Bundle with Tech Smart USA Elite Suite 18, 2X 4K HDMI Cable & Deco Gear CPS 26 Month Protection Pack (BEACH-CPS-26M1500)",
+          "score": 0.76,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0DHJBWY52",
+          "title": "49\" Odyssey G9 (G95C) Series DQHD 1000R Curved Gaming Monitor, 240Hz, 1ms(GtG), DisplayHDR 1000, AMD FreeSync Premium Pro, Eye Saver Mode, Auto Source Switch+, LS49CG950ENXZA, 2024",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "oled"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CDQM55C9",
+          "title": "57\" Odyssey Neo G9 (G95NC) Series Dual 4K UHD 1000R Curved Gaming Monitor, 240Hz, 1ms with DisplayPort 2.1, Quantum Mini-LED, DisplayHDR 1000, AMD FreeSync Premium Pro, LS57CG952NNXZA | 9, Quantum Mini-LED, Dp 2.1 and HDMI 2.1, HDR1000, Freesync Premium Pro",
+          "score": 0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "oled",
+            "49"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D3FBTJNG",
+          "title": "49\" Odyssey G9 G95C DQHD 240Hz DisplayHDR 1000 Curved Gaming Monitor Bundle with Tech Smart USA Elite Suite 18 Standard Editing Software Bundle + 1 Year CPS Enhanced Protection Pack",
+          "score": 0.38,
+          "brandMatches": false,
+          "missingModel": [
+            "oled"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-clubsport-dd-plus": {
+      "product": "Fanatec ClubSport DD+",
+      "query": "Fanatec ClubSport DD+",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GX3HRR53",
+          "title": "BrainExploder Screen for Fanatec ClubSport Steering Wheel Formula V2.5",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FT3MW2YN",
+          "title": "Corsair FANATEC Sim Racing QR2 Wheel-Side – Motorsport-Derived Quick Release, Aluminum Body, Spring-Loaded Mechanism, Quick and Easy Removal and Attachment – PC",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport",
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FLDYSWH8",
+          "title": "Sim Racing ClubSport Steering Wheel F1 Esports V2 – PC | Officially Licensed Formula 1™ Product, Alcantara Grips, LED Display, Magnetic Paddles, Integrated Vibration Motors",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "dd"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "asus-tuf-vg27aq": {
+      "product": "ASUS TUF Gaming VG27AQ",
+      "query": "ASUS TUF Gaming VG27AQ",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BZR9TMBJ",
+          "title": "TUF Gaming 27” 1440P HDR Monitor (VG27AQ3A) – QHD (2560 x 1440), 180Hz, 1ms, Fast IPS, 130% sRGB, Extreme Low Motion Blur Sync, Speakers, Freesync Premium, G-SYNC Compatible, HDMI, DisplayPort",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "vg27aq"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CV2H4179",
+          "title": "TUF Gaming 27” 1080P Curved Monitor (VG27VQ3B) – Full HD, 180Hz, 1ms, Extreme Low Motion Blur Sync, FreeSync, 1500R Curvature, Eye Care, 90% DCI-P3, DisplayWidget, 3 yr Warranty",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "vg27aq"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F233D6W1",
+          "title": "TUF Gaming 27” 1440P Monitor (VG27AQM5A) - QHD (2560x1440), 300Hz, Fast IPS, Extreme Low Motion Blur Sync, 0.3ms, Speaker, 95% DCI-P3, Shadow Boost, DisplayWidget Center, 3 yr Warranty",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "vg27aq"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BHKCQBMN",
+          "title": "TUF Gaming 27” 1440P Monitor (VG27AQA1A) - QHD (2560 x 1440), 170Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, Freesync Premium, Eye Care, HDMI, DisplayPort, Shadow Boost, Speakers, HDR",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "vg27aq"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09GP7NVHK",
+          "title": "TUF Gaming 27 Inch Gaming Monitor - Full HD, 1080P, 165Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, FreeSync Premium, Shadow Boost, Eye Care, HDMI, DisplayPort, Tilt Adjustable - VG277Q1A",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "vg27aq"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-gt-dd-pro": {
+      "product": "Fanatec GT DD Pro",
+      "query": "Fanatec GT DD Pro",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09PX62ZMH",
+          "title": "Fanatec Gran Turismo DD Pro Express Version",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "gt",
+            "pro"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B077TJSF3G",
+          "title": "Fanatec CSL Elite Pro Kit for PS4",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "gt",
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FT3MW2YN",
+          "title": "Corsair FANATEC Sim Racing QR2 Wheel-Side – Motorsport-Derived Quick Release, Aluminum Body, Spring-Loaded Mechanism, Quick and Easy Removal and Attachment – PC",
+          "score": 0.41,
+          "brandMatches": true,
+          "missingModel": [
+            "gt",
+            "dd",
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simagic-evo-sport": {
+      "product": "Simagic Alpha Evo Sport",
+      "query": "Simagic Alpha Evo Sport",
+      "status": 200,
+      "candidates": []
+    },
+    "simagic-evo": {
+      "product": "Simagic Alpha Evo",
+      "query": "Simagic Alpha Evo",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GCPZ4K9S",
+          "title": "Simagic Alpha Evo Power Supply Mount Bracket Set, Power Brick Holder for Sim Rig Cable Management, Fits 4040 and 1515 Aluminum Profile, Hardware Included, Made in USA",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FJ62W9LV",
+          "title": "2 Psc Power Brick Holder for Simagic Alpha EVO Pro | Rig-Compatible Sim Racing Accessories",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FSLYBNXB",
+          "title": "Echo Smartwatch for Men, Tactical Square Smart Watch, 2.13 Inch AMOLED Big Face Display, 480mAh, Built-in Flashlight, Compass, Bluetooth Calling, IP68 Water Resistant",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "alpha",
+            "evo"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B009ZELZG0",
+          "title": "Evolution Sim Racing Cockpit | Comfortable Racing Simulator Cockpit | Compatible with All Steering Wheels & Pedals on the Market | Supports PC & Console | Actifit Edition",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "alpha",
+            "evo"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FJFT29SF",
+          "title": "2026 Smart Watch for Men, Standalone GPS & Offline Maps, 5ATM Waterproof, 1.43\" AMOLED, 4GB RAM, 178 Sports Modes, Compass, Heart Rate/SpO2/Stress/All-Day Sleep Monitor, Compatible Android iOS Black",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "alpha",
+            "evo"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-clubsport-dd": {
+      "product": "Fanatec ClubSport DD",
+      "query": "Fanatec ClubSport DD",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GX3HRR53",
+          "title": "BrainExploder Screen for Fanatec ClubSport Steering Wheel Formula V2.5",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FT3MW2YN",
+          "title": "Corsair FANATEC Sim Racing QR2 Wheel-Side – Motorsport-Derived Quick Release, Aluminum Body, Spring-Loaded Mechanism, Quick and Easy Removal and Attachment – PC",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "clubsport",
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FLDYSWH8",
+          "title": "Sim Racing ClubSport Steering Wheel F1 Esports V2 – PC | Officially Licensed Formula 1™ Product, Alcantara Grips, LED Display, Magnetic Paddles, Integrated Vibration Motors",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "dd"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "moza-r16": {
+      "product": "MOZA R16 V2",
+      "query": "MOZA R16 V2",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0B28K6Y18",
+          "title": "MOZA R16 Direct Drive Wheelbase (16 nm)",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "v2"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0G2XSZN5C",
+          "title": "MOZA RS V2 Steering Wheel",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "r16"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DW3ZK3TT",
+          "title": "MOZA R16 Sim Racing Wheel Base 16 Nm Direct Drive All-Aluminum Alloy Body and A Sleek Supercar-Inspired Design Racing Base",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "v2"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BVLNVVVC",
+          "title": "MOZA HBP Handbrake With 16 Bit High Precision Position Sensor,Dual Mode and Multi-Angle Adjustable Racing Handbrake Simulator, Connection To PC Wheelbase Directly",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "r16",
+            "v2"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DRNW1M6T",
+          "title": "MOZA AB9 FFB Base Provides Exceptionally Accurate and Immersive Flight Experience",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "r16",
+            "v2"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simucube-2-sport": {
+      "product": "Simucube Simucube 2 Sport",
+      "query": "Simucube Simucube 2 Sport",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DG5TJCZ8",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "simucube",
+            "sport"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DFMJF4WY",
+          "title": "Qirptey 3 in 1 Hover Soccer Ball Toddler Hockey Set with LED Lights Indoor Toys for Kids Soccer Gift for Boys 6-8 8-12 Kids Sports Soccer Games 3 4 5 6 7 8 Year Old Boy Age 4-8 Birthday Gift",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "simucube",
+            "sport"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simagic-evo-pro": {
+      "product": "Simagic Alpha Evo Pro",
+      "query": "Simagic Alpha Evo Pro",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FJ62W9LV",
+          "title": "2 Psc Power Brick Holder for Simagic Alpha EVO Pro | Rig-Compatible Sim Racing Accessories",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GCPZ4K9S",
+          "title": "Simagic Alpha Evo Power Supply Mount Bracket Set, Power Brick Holder for Sim Rig Cable Management, Fits 4040 and 1515 Aluminum Profile, Hardware Included, Made in USA",
+          "score": 0.26,
+          "brandMatches": true,
+          "missingModel": [
+            "pro"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0FR42M9TC",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "alpha",
+            "evo",
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-podium-dd": {
+      "product": "Fanatec Podium DD",
+      "query": "Fanatec Podium DD",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "podium"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "podium"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FT3MW2YN",
+          "title": "Corsair FANATEC Sim Racing QR2 Wheel-Side – Motorsport-Derived Quick Release, Aluminum Body, Spring-Loaded Mechanism, Quick and Easy Removal and Attachment – PC",
+          "score": 0.493,
+          "brandMatches": true,
+          "missingModel": [
+            "podium",
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FLQKKR6D",
+          "title": "Sim Racing CSL Steering Wheel P1 V2 (QR2 LITE) – PC | Rubberised Grip, RevStripe, LED Display, Metal Shifter Paddles, QR2 LITE Wheel-Side Preinstalled",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "podium",
+            "dd"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D4QZ6ZS8",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "podium",
+            "dd"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simagic-evo-ultra": {
+      "product": "Simagic Alpha Evo Ultra",
+      "query": "Simagic Alpha Evo Ultra",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DZGPC6NW",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "alpha",
+            "evo",
+            "ultra"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "fanatec-gt-wheel": {
+      "product": "Fanatec GT Wheel",
+      "query": "Fanatec GT Wheel",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0GMFR1C45",
+          "title": "PXN GT ONE Sim Racing Wheel for PC, 11.8-inch GT Steering Wheel | 78 Programmable Inputs, RGB Light, Carbon Fiber Paddle Shifters, Quick Release, for PXN VD Series & Third-Party Bases",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F94DFP9P",
+          "title": "FANATEC Sim Racing CSL Steering Wheel BMW – Rubberized Grip, LED Display, RevStripe, Metal Shifter Paddles – PC, PS5, PS4",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FT3MW2YN",
+          "title": "Corsair FANATEC Sim Racing QR2 Wheel-Side – Motorsport-Derived Quick Release, Aluminum Body, Spring-Loaded Mechanism, Quick and Easy Removal and Attachment – PC",
+          "score": 0.827,
+          "brandMatches": true,
+          "missingModel": [
+            "gt"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simagic-gt1": {
+      "product": "Simagic GT1-D",
+      "query": "Simagic GT1-D",
+      "status": 200,
+      "candidates": []
+    },
+    "fanatec-csl-lc": {
+      "product": "Fanatec CSL Pedals LC",
+      "query": "Fanatec CSL Pedals LC",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0F94F27XV",
+          "title": "Fanatec Sim Racing CSL Elite Pedals V2 – PC, PS5, PS4 | 3-Pedal Set (Clutch, Brake, Throttle), Dual-Stage Load Cell Brake System, Hall-Effect Sensors",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "lc"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGYPD49",
+          "title": "Fanatec Officially Licensed Gran Turismo DD Pro PlayStation Sim Racing Steering Wheel, Base and Pedals – Polyphony Digital Wheel, 5 Nm FluxBarrier Direct Drive, 2-Pedal Set for PC, PS5, PS4",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "csl",
+            "lc"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FBGZHFN3",
+          "title": "FANATEC Sim Racing CSL DD QR2 Wheel Base – 5 Nm Direct Drive Base, Dynamic Force Feedback, QR2 Motorsport-Derived Quick-Release System – PC",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "pedals",
+            "lc"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F94DFP9P",
+          "title": "FANATEC Sim Racing CSL Steering Wheel BMW – Rubberized Grip, LED Display, RevStripe, Metal Shifter Paddles – PC, PS5, PS4",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "pedals",
+            "lc"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F4XSJ8PH",
+          "title": "Fanatec CSL Elite Officially Licensed McLaren GT3 v2 Sim Racing Steering Wheel – Analog Paddles, Magnetic Shifters, Multi-Position Switches, OLED Display for PC, Xbox Series X|S, Xbox One",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "pedals",
+            "lc"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "simagic-p2000": {
+      "product": "Simagic P2000",
+      "query": "Simagic P2000",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FC6LDPXX",
+          "title": "24V AC/DC Adapter Compatible with SiMagic P1000 P2000 P1000i P500 P1000-F P1000-FRS P1000-RS P1000i-RS Modular Pedal 2-Pedal 3-Pedals Replacement for GM53-240220-D Power Supply Cord Charger",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0FH4WDQGF",
+          "title": "Marg 24V AC/DC Adapter for SiMagic P1000 P2000 P1000i P500 P1000-F P1000-FRS P1000-RS P1000i-RS Modular Pedal 2-Pedal 3-Pedals Replacement for GM53-240220-D Power Supply Cord Charger",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GZNYDHKP",
+          "title": "24V AC/DC Adapter for SiMagic P1000 P2000 P1000i P500 P1000-F P1000-FRS P1000-RS P1000i-RS Modular Pedal 2-Pedal 3-Pedals Replacement for GM53-240220-D Power Supply Cord Charger",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GKNXPG29",
+          "title": "24V AC/DC Adapter Compatible for SiMagic P1000 P2000 P1000i P500 P1000-F P1000-FRS P1000-RS P1000i-RS Modular Pedal 2-Pedal 3-Pedals Replacement for GM53-240220-D Power Supply Cord",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0GDCC69RN",
+          "title": "24V AC/DC Adapter for SiMagic P1000 P2000 P1000i P500 P1000-F P1000-FRS P1000-RS P1000i-RS Modular Pedal 2-Pedal 3-Pedals Replacement for GM53-240220-D Power Supply Cord Charger",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        }
+      ]
+    },
+    "heusinkveld-sprint": {
+      "product": "Heusinkveld Sprint",
+      "query": "Heusinkveld Sprint",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CPD3PLRJ",
+          "title": "Sim Pedals Sprint Baseplate - Schwarz",
+          "score": 0.68,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        }
+      ]
+    },
+    "desk-clamp": {
+      "product": "Generic Desk Clamp",
+      "query": "Generic Desk Clamp",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BVZKKH9C",
+          "title": "2 Pack Heavy Duty C Clamp & Desk Clamp | Wide Jaw Metal Woodworking Clamps, Adjustable Shelf Clamps for Desk Extension/Panel Work (Sturdy Multi-Purpose Clamping Tool)",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0BVZJ8SWN",
+          "title": "4 Pack Heavy Duty C Clamp & Desk Clamp | Wide Jaw Metal Woodworking Clamps, Adjustable Shelf Clamps for Desk Extension/Panel Work (Sturdy Multi-Purpose Clamping Tool)",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0CR2NRHJY",
+          "title": "3 inch C-Clamp with Four Small Holes in the back, 2-Pack Adjustable Desk C Clamps for Range 0.35\"~3.37\", Versatile Clamp for Brake, Parts Assembly, Fastening, Welding, Woodwork, Metal Work",
+          "score": 0.847,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GM65NR26",
+          "title": "2 Pcs Adjustable Extended Desk Clamp, Heavy Duty Metal Pegboard Mounting Bracket for Desktop Fixing Mount Clamp for Home Office,Universal Clamp On Bracket Desktop Accessory Holder,Easy Install (Black)",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B093H4C1BW",
+          "title": "Metal Desk Clamp For Microphone Suspension Boom Scissor Arm Stand Holder with Adjustable Screw by SUNMON",
+          "score": 0.197,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": true
+        }
+      ]
+    },
+    "gt-omega-apex": {
+      "product": "GT Omega Apex Cockpit",
+      "query": "GT Omega Apex Cockpit",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B083JW5YKM",
+          "title": "Next Level Racing F-GT Lite Formula and GT Foldable Simulator Cockpit (NLR-S015)",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "apex"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07HM6DR81",
+          "title": "GT OMEGA Apex Racing Wheel Stand - Compatible with Logitech G29 and G920, Fanatec ClubSport, and Thrustmaster TX, T500, & T300, Foldable, Tilt-Adjustable for Racing Control",
+          "score": 0.26,
+          "brandMatches": true,
+          "missingModel": [
+            "cockpit"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0BRGZXMQW",
+          "title": "RACGTING Racing Simulator Cockpit for G920 G29 G923, Foldable Racing Simulator for Thrustmaster T248X T248 T300 T150 458 TX PS5 PS4 PC (Black)",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "apex"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0GTL3DNHK",
+          "title": "RACGTING Racing Simulator Cockpit - Adjustable Sim Racing Cockpit with Seat Compatible with Logitech G920 G29 G923, Thrustmaster T248 T300 T150 TX, for Xbox PS5 PS4 PC, Fits Fanatec DD1/DD2",
+          "score": 0.25,
+          "brandMatches": false,
+          "missingModel": [
+            "apex"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0FX15ZJX1",
+          "title": "VEVOR Racing Wheel Stand, Heavy-Duty Integrated Simulator Cockpit Steering Stand, Fit Logitech G25,G27,G29,G920,G923, Thrustmaster T300RS,TX F458,T500RS,T3PA-PRO (F1/GT) and CSR Pedals, Black",
+          "score": -0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "apex"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "nlr-gt-track": {
+      "product": "Next Level GT Track",
+      "query": "Next Level GT Track",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CH3XMT9V",
+          "title": "NEXT LEVEL RACING F-GT ELITE (NLR-E042)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "track"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B083JW5YKM",
+          "title": "Next Level Racing F-GT Lite Formula and GT Foldable Simulator Cockpit (NLR-S015)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "track"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0F3NLNBT9",
+          "title": "Next Level Racing F-GT Pro Formula and GT Racing Simulator Cockpit - Black Edition (NLR-R003)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "track"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0C5NQK35R",
+          "title": "Next Level Racing F-GT Elite 160 Wheel Plate Edition (NLR-E025)",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "track"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07KFY7TKC",
+          "title": "Next Level Racing GTTrack Simulator Cockpit (NLR-S009)",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "gt",
+            "track"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "sim-lab-p1x": {
+      "product": "Sim-Lab P1-X Pro",
+      "query": "Sim-Lab P1-X Pro",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0BZM7WGXV",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "p1",
+            "pro"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "vkb-stecs-standard-mk2-throttle": {
+      "product": "VKB STECS Throttle System Mk.II - Standard",
+      "query": "VKB STECS Throttle System Mk.II - Standard",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0FSQBZ35Y",
+          "title": "FT76X Ebike Half Twist Throttle, Half-Twist Handle with Waterproof Plug, Ebike Thumb Throttle, Fit for 12V-72V Speed Accelerator Ebike MTB",
+          "score": 0.143,
+          "brandMatches": false,
+          "missingModel": [
+            "stecs",
+            "system",
+            "mk",
+            "ii",
+            "standard"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0D9NQG5M5",
+          "title": "Electric Bicycle Half Twist Throttle,Wuxing 76X Left Hand,for E-Bike",
+          "score": 0.143,
+          "brandMatches": false,
+          "missingModel": [
+            "stecs",
+            "system",
+            "mk",
+            "ii",
+            "standard"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CR7W541Z",
+          "title": "Electric Throttle 300X Thumb Throttle for 7/8inch 22mm Left and Right Handlebars 12v 24v 36v 48v 60v 72v Electric E-Bikes (M8 Waterproof Plug)",
+          "score": 0.143,
+          "brandMatches": false,
+          "missingModel": [
+            "stecs",
+            "system",
+            "mk",
+            "ii",
+            "standard"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DK1JGN9G",
+          "title": "Ebike Half Twist Throttle, FT76X Electric Bicycle Right Handle, Half Throttle Handle with Waterproof Plug, Ebike Modified Thumb Throttle Part for Ebike MTB Conversion Kit Parts",
+          "score": 0.143,
+          "brandMatches": false,
+          "missingModel": [
+            "stecs",
+            "system",
+            "mk",
+            "ii",
+            "standard"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CNHCW1L2",
+          "title": "Electric Bicycle 192X Full Twist Throttle Electric Bicycle Accessories for BAFANG BBS01 BBS02 Mid Drive Motor",
+          "score": 0.143,
+          "brandMatches": false,
+          "missingModel": [
+            "stecs",
+            "system",
+            "mk",
+            "ii",
+            "standard"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "thrustmaster-mfd-cougar-pack": {
+      "product": "Thrustmaster MFD Cougar Pack (2 panels)",
+      "query": "Thrustmaster MFD Cougar Pack",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B002HH9TRY",
+          "title": "Thrustmaster MFD Cougar Flight Sim Multi-Function Display Set - PC | 2 panels, 48 programmable controls, 20 buttons & 4 switches each, weighted non-slip bases, MSFS preset layouts, 2 LEDs each",
+          "score": 0.91,
+          "brandMatches": true,
+          "missingModel": [
+            "pack"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B087M8SYRB",
+          "title": "Thrustmaster MFD Cougar Pack for PC (Renewed)",
+          "score": 0.84,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0873QXDQS",
+          "title": "Thrustmaster TCA Officer Pack Airbus Edition for Flight Simulation (Compatible with PC)",
+          "score": 0.66,
+          "brandMatches": true,
+          "missingModel": [
+            "mfd",
+            "cougar"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0DSY6YZHS",
+          "title": "Thrustmaster Sol-R2 HOSAS Dual Space Combat Flight Joystick Set - PC | 88 programable actions buttons, 2 detachable grips, 2 throttles, zero drift, interchangeable rests, backlit sci-fi design",
+          "score": 0.41,
+          "brandMatches": true,
+          "missingModel": [
+            "mfd",
+            "cougar",
+            "pack"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B015PII6YI",
+          "title": "Thrustmaster TFRP Precision Flight Sim Rudder Pedals - PS5, XBOX & PC | self-centering axis, long travel, aluminum rails, differential breaking, for all types of flight, adjustable resistance",
+          "score": 0.41,
+          "brandMatches": true,
+          "missingModel": [
+            "mfd",
+            "cougar",
+            "pack"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "logitech-x52-pro-hotas": {
+      "product": "Logitech G X52 Pro Flight Control System",
+      "query": "Logitech G X52 Pro Flight Control System",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B07QXPQRYX",
+          "title": "X52 Pro USB Flight Control System - HOTAS Joystick and Throttle for Flight Simulators - LCD Display, 3D Twist Rudder, Programmable Commands, USB 2.0 - Compatible with Windows PC",
+          "score": 1.013,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B09HRZZWR7",
+          "title": "Pro Flight Yoke System + Pro Flight Rudder Pedals Bundle",
+          "score": 0.5,
+          "brandMatches": false,
+          "missingModel": [
+            "x52",
+            "control"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B001CXYMFS",
+          "title": "Thrustmaster T-Flight Hotas X USB Flight Sim Stick & Throttle - PC | Detachable design, adjustable resistance, 12 programmable buttons, 5 axes, dual rudder control, preset memory, ergonomic",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "x52",
+            "pro",
+            "system"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B01M00UHE3",
+          "title": "Saitek PRO Flight Throttle Quadrant, Professional Simulation Axis Levers, LCD Display, 3x Two-Way Rocker Switches, Adjustable Bracket, USB, PC - Black",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "x52",
+            "control",
+            "system"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07CK73HGC",
+          "title": "Logitech G Saitek PRO USB Flight Yoke System (Renewed)",
+          "score": 0.327,
+          "brandMatches": true,
+          "missingModel": [
+            "x52",
+            "control"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "winwing-ursa-minor-combat-throttle-metal": {
+      "product": "WinWing URSA Minor Combat Throttle (Metal)",
+      "query": "WinWing URSA Minor Combat Throttle",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B01LY285ZH",
+          "title": "X52 Flight Control System - Standard Packaging",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ursa",
+            "minor",
+            "combat",
+            "throttle"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "vkb-gladiator-nxt-evo-space-combat-edition": {
+      "product": "VKB Gladiator NXT EVO 'Space Combat Edition'",
+      "query": "VKB Gladiator NXT EVO 'Space Combat Edition'",
+      "status": 200,
+      "candidates": []
+    },
+    "vkb-gladiator-nxt-evo-omni-throttle": {
+      "product": "VKB Gladiator NXT EVO Omni-Throttle",
+      "query": "VKB Gladiator NXT EVO Omni-Throttle",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0CXPL851H",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gladiator",
+            "nxt",
+            "evo",
+            "omni",
+            "throttle"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "vkb-gunfighter-mk4-base": {
+      "product": "VKB Gunfighter Mk.IV (Base Only)",
+      "query": "VKB Gunfighter Mk.IV",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0C4GWKVB7",
+          "title": "Fosiya SIM Fighting Joystick Center Chair Mount Flight Stick Chair Mount Use for T-Flight Hotas 4 & Warthog Flight Stick & T16000M FCS & TCA Sidestick Airbus Edition & VKB Gunfighyrt pro MK 3 Stick",
+          "score": 0.01,
+          "brandMatches": true,
+          "missingModel": [
+            "gunfighter",
+            "iv"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0C2H8C6Y1",
+          "title": "Currently unavailable.",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gunfighter",
+            "mk",
+            "iv"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09WR894Q9",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "gunfighter",
+            "mk",
+            "iv"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "vkb-mcg-pro-grip": {
+      "product": "VKB MCG Pro (Modern Combat Grip) Add-On",
+      "query": "VKB MCG Pro Add-On",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DBZK6RYQ",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "mcg",
+            "pro",
+            "on"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "virpil-constellation-alpha-grip": {
+      "product": "Virpil VPC Constellation ALPHA Grip",
+      "query": "Virpil VPC Constellation ALPHA Grip",
+      "status": 200,
+      "candidates": []
+    },
+    "virpil-warbrd-d-base": {
+      "product": "Virpil VPC WarBRD-D Base",
+      "query": "Virpil VPC WarBRD-D Base",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B08QRCW6SN",
+          "title": "Skywin VR Tripod Stand for HTC Vive Base Station - 2 Adjustable Stands | Stable Tracking, Compatible with HTC Vive, Sensor Stand & Base Station Mount for Vive Sensors or Oculus Rift Constellation",
+          "score": -0.4,
+          "brandMatches": false,
+          "missingModel": [
+            "vpc",
+            "warbrd"
+          ],
+          "rejected": true
+        }
+      ]
+    },
+    "virpil-mongoost-50cm3-throttle": {
+      "product": "Virpil VPC MongoosT-50CM3 Throttle",
+      "query": "Virpil VPC MongoosT-50CM3 Throttle",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B09F9XGT7M",
+          "title": "VPC MongoosT-50CM3 Throttle",
+          "score": 0.98,
+          "brandMatches": false,
+          "missingModel": [],
+          "rejected": false
+        },
+        {
+          "asin": "B0GL21H9GL",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "vpc",
+            "mongoost",
+            "50cm3",
+            "throttle"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "winwing-ursa-minor-space": {
+      "product": "WinWing Ursa Minor Space Joystick",
+      "query": "WinWing Ursa Minor Space Joystick",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B0DTF86GP2",
+          "title": "Quick Release Desk Mount: Compatible with WINWING URSA MINOR Space/Airline Joystick, Thrustmaster SimTask FarmStick/T.Flight HOTAS ONE, Compatible with Logitech G Extreme 3D Pro Joystick, Turtle Beach VelocityOne Flightstick",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0D41MJ7H5",
+          "title": "Desk Mount for SimTask Farmstick,WINWING URSA Minor Airline,URSA Minor Space Joystick,Compatible with Logitech G Extreme 3D Pro,Turtle Beach VelocityOne Flightstick,Thrustmaster T.Flight HOTAS One",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0DTDZ4HYW",
+          "title": "wuutyty Desk mount compatible with Thrustmaster T.Flight Hotas One/Hotas 4/Stick X,SimTask Farmstick,VelocityOne Flightstick,G Extreme 3D Pro USB Joystick,WINWING URSA MINOR Fighter/Airline Joystick",
+          "score": 0.31,
+          "brandMatches": true,
+          "missingModel": [
+            "space"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B0CJJQ7WV7",
+          "title": "colors available",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "ursa",
+            "minor",
+            "space",
+            "joystick"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "winwing-orion-2-base": {
+      "product": "WinWing Orion 2 Joystick Base (MFSSB)",
+      "query": "WinWing Orion 2 Joystick Base",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B08QRCW6SN",
+          "title": "HOTAS Desk Mount Set of 2, Adjustable Flight Sim Joystick and Throttle Mounts, Compatible with Thrustmaster Warthog/WinWing Orion 2 / VPC WarBRD-D Base/VPC MongoosT-50CM 2/3 Base",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0C9ZV461X",
+          "title": "Srolli Set of 2 Heavy Duty Hotas Desk Mounts,Compatible with Thrustmaster Warthog/WinWing Orion 2 with Installation Bolts ＆ Install Manual,Hotas Desk Mount for The Flight Sim Game Joystick",
+          "score": 0.26,
+          "brandMatches": true,
+          "missingModel": [
+            "base"
+          ],
+          "rejected": true
+        },
+        {
+          "asin": "B07KJCC4Q7",
+          "title": "Brands related to your search",
+          "score": 0,
+          "brandMatches": false,
+          "missingModel": [
+            "orion",
+            "joystick",
+            "base"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "winwing-orion-2-hotas-f16ex": {
+      "product": "WinWing Orion 2 HOTAS (F-16EX combo)",
+      "query": "WinWing Orion 2 HOTAS",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B08QRCW6SN",
+          "title": "HOTAS Desk Mount Set of 2, Adjustable Flight Sim Joystick and Throttle Mounts, Compatible with Thrustmaster Warthog/WinWing Orion 2 / VPC WarBRD-D Base/VPC MongoosT-50CM 2/3 Base",
+          "score": 0.69,
+          "brandMatches": true,
+          "missingModel": [],
+          "rejected": true
+        },
+        {
+          "asin": "B0CPQ7RF6Z",
+          "title": "Turtle Beach VelocityOne Flightdeck Universal HOTAS Simulation System - PC | Windows 10 & 11 PCs,Joystick & Throttle for Air & Space Combat Simulation, Touch Display, 139 Mappable Controls, Black",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "orion"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B09DH7MXYW",
+          "title": "Thrustmaster T-Flight Full Kit HOTAS with Rudder Pedals - XBOX & PC | Hall-Effect joystick, 5 axes, 14 mappable buttons, detachable throttle, hat switch, adjustable resistance, for flight sims",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "orion"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B001CXYMFS",
+          "title": "Thrustmaster T-Flight Hotas X USB Flight Sim Stick & Throttle - PC | Detachable design, adjustable resistance, 12 programmable buttons, 5 axes, dual rudder control, preset memory, ergonomic",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "orion"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07ZPNMYGW",
+          "title": "Thrustmaster F-16C Viper HOTAS Add-On Fighter Flight Stick Grip - PC | 1:1 replica, 100% metal, 19 action buttons, 8-way hat, fits HOTAS Warthog, Cougar & Magnetic Base, native DCS support",
+          "score": 0.333,
+          "brandMatches": false,
+          "missingModel": [
+            "orion"
+          ],
+          "rejected": false
+        }
+      ]
+    },
+    "monstertech-table-mount": {
+      "product": "Monstertech Joystick / HOTAS Table Mount",
+      "query": "Monstertech Joystick / HOTAS Table Mount",
+      "status": 200,
+      "candidates": [
+        {
+          "asin": "B093BWS3VB",
+          "title": "Hikig 2 Set Desk Mount for Flight Sim Game Joystick, Throttle and HOTAS Systems - Compatible With Logitech X56, X52, X52 Pro, Thrustmaster T-Flight HOTAS, T.16000M, TCA",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "table"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B07KJCC4Q7",
+          "title": "J-PEIN Flight Simulator Desk Mount (2-Pack), Heavy Duty Steel Stand for HOTAS Joystick and Throttle Systems",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "table"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0CXPL851H",
+          "title": "Reashy Hotas Mount, Joystick Mount, Aluminum Flight Stick Desk Mount for Logitech X56, X52, X52 Pro, Thrustmaster T.1600M, TCA, T.Flight Hotas One, 4, X, Airbus, VKB Gladiator Nxt",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "table"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B08QRCW6SN",
+          "title": "Meza Mount-HOTAS Desk Mount Set of 2, Adjustable Flight Sim Joystick and Throttle Mounts, Compatible with Thrustmaster Warthog/WinWing Orion 2 / VPC WarBRD-D Base/VPC MongoosT-50CM 2/3 Base",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "table"
+          ],
+          "rejected": false
+        },
+        {
+          "asin": "B0BB25LH22",
+          "title": "RACGTING Hotas Mount for Logitech X56,X52,X52 Pro, Throttle and Hotas Systems for Thrustmaster T Flight/T.16000M/ TCA,Hotas Desk Mount for The Flight Sim Game Joystick",
+          "score": 0.6,
+          "brandMatches": false,
+          "missingModel": [
+            "table"
+          ],
+          "rejected": false
+        }
+      ]
+    }
+  }
+}
