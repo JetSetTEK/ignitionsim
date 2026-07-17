@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131b"/><stop offset="1" stop-color="#193440"/></linearGradient>
+      <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+    </defs>
+    <rect width="900" height="1200" fill="url(#bg)"/><rect width="900" height="1200" fill="url(#grid)"/>
+    <rect x="42" y="42" width="11" height="250" fill="#ff5e1a"/>
+    <text x="78" y="84" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#ff5e1a">THREE HONEST CARTS</text>
+    <text x="78" y="148" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">Spend where the next upgrade</text><text x="78" y="192.1" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">will not replace it.</text>
+    <g>
+      <rect x="42" y="350" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#ff5e1a" stroke-width="4"/>
+      <rect x="42" y="350" width="250" height="158" rx="16" fill="#ff5e1a"/>
+      <text x="66" y="404" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">$700-$1,000</text>
+      <circle cx="326" cy="393" r="5" fill="#ff5e1a"/><text x="344" y="401" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">G923 or entry DD</text><circle cx="326" cy="435" r="5" fill="#ff5e1a"/><text x="344" y="443" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Wheel stand / used seat</text><circle cx="326" cy="477" r="5" fill="#ff5e1a"/><text x="344" y="485" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Brake upgrade first</text>
+    </g><g>
+      <rect x="42" y="534" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#ff5e1a" stroke-width="4"/>
+      <rect x="42" y="534" width="250" height="158" rx="16" fill="#ff5e1a"/>
+      <text x="66" y="588" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">$1,500-$2,500</text>
+      <circle cx="326" cy="577" r="5" fill="#ff5e1a"/><text x="344" y="585" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">MOZA R5-class DD</text><circle cx="326" cy="619" r="5" fill="#ff5e1a"/><text x="344" y="627" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Victory / Trophy cockpit</text><circle cx="326" cy="661" r="5" fill="#ff5e1a"/><text x="344" y="669" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Load-cell pedals</text>
+    </g><g>
+      <rect x="42" y="718" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#ff5e1a" stroke-width="4"/>
+      <rect x="42" y="718" width="250" height="158" rx="16" fill="#ff5e1a"/>
+      <text x="66" y="772" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">$3,500-$6,000</text>
+      <circle cx="326" cy="761" r="5" fill="#ff5e1a"/><text x="344" y="769" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">9-12 Nm ecosystem</text><circle cx="326" cy="803" r="5" fill="#ff5e1a"/><text x="344" y="811" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Aluminum profile rig</text><circle cx="326" cy="845" r="5" fill="#ff5e1a"/><text x="344" y="853" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Triples / 32:9 + tactile</text>
+    </g><g>
+      <rect x="42" y="902" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#ff5e1a" stroke-width="4"/>
+      <rect x="42" y="902" width="250" height="158" rx="16" fill="#ff5e1a"/>
+      <text x="66" y="956" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">SKIP FOR NOW</text>
+      <circle cx="326" cy="945" r="5" fill="#ff5e1a"/><text x="344" y="953" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">20+ Nm bragging rights</text><circle cx="326" cy="987" r="5" fill="#ff5e1a"/><text x="344" y="995" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Full motion</text><circle cx="326" cy="1029" r="5" fill="#ff5e1a"/><text x="344" y="1037" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Decorative dashboards</text>
+    </g>
+    <rect x="42" y="1090" width="816" height="76" rx="12" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-opacity=".16"/>
+    <text x="66" y="1127" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="650" fill="#e5eef0">Buy once on the frame, brake, and monitor mount. Those are the parts that</text><text x="66" y="1148.85" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="650" fill="#e5eef0">make the next wheelbase better.</text>
+  </svg>

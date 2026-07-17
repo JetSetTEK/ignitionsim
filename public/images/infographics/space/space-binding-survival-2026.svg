@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131b"/><stop offset="1" stop-color="#193440"/></linearGradient>
+      <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+    </defs>
+    <rect width="1400" height="820" fill="url(#bg)"/><rect width="1400" height="820" fill="url(#grid)"/>
+    <rect x="54" y="54" width="12" height="198" fill="#d946ef"/>
+    <text x="92" y="92" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900" fill="#d946ef">PATCH-DAY INSURANCE</text>
+    <text x="92" y="154" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#fff">A control map is only good if you can recover it.</text>
+    <g>
+      <rect x="54" y="300" width="306" height="360" rx="16" fill="#f8fbfc" stroke="#d946ef" stroke-width="4"/>
+      <rect x="54" y="300" width="306" height="72" rx="16" fill="#d946ef"/>
+      <text x="76" y="345" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#07131b">MAP</text>
+      <circle cx="80" cy="416" r="6" fill="#d946ef"/><text x="98" y="424" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Flight and landing</text><text x="98" y="449.3" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">first</text><circle cx="80" cy="480" r="6" fill="#d946ef"/><text x="98" y="488" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Combat / career second</text><circle cx="80" cy="544" r="6" fill="#d946ef"/><text x="98" y="552" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Modifiers stay visible</text>
+    </g><g>
+      <rect x="386" y="300" width="306" height="360" rx="16" fill="#f8fbfc" stroke="#d946ef" stroke-width="4"/>
+      <rect x="386" y="300" width="306" height="72" rx="16" fill="#d946ef"/>
+      <text x="408" y="345" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#07131b">MOUNT</text>
+      <circle cx="412" cy="416" r="6" fill="#d946ef"/><text x="430" y="424" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Match elbow height</text><circle cx="412" cy="480" r="6" fill="#d946ef"/><text x="430" y="488" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Test full deflection</text><circle cx="412" cy="544" r="6" fill="#d946ef"/><text x="430" y="552" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Route one service loop</text>
+    </g><g>
+      <rect x="718" y="300" width="306" height="360" rx="16" fill="#f8fbfc" stroke="#d946ef" stroke-width="4"/>
+      <rect x="718" y="300" width="306" height="72" rx="16" fill="#d946ef"/>
+      <text x="740" y="345" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#07131b">EXPORT</text>
+      <circle cx="744" cy="416" r="6" fill="#d946ef"/><text x="762" y="424" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Save profiles and</text><text x="762" y="449.3" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">device order</text><circle cx="744" cy="480" r="6" fill="#d946ef"/><text x="762" y="488" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Photograph labels</text><circle cx="744" cy="544" r="6" fill="#d946ef"/><text x="762" y="552" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Date the backup</text>
+    </g><g>
+      <rect x="1050" y="300" width="306" height="360" rx="16" fill="#f8fbfc" stroke="#d946ef" stroke-width="4"/>
+      <rect x="1050" y="300" width="306" height="72" rx="16" fill="#d946ef"/>
+      <text x="1072" y="345" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#07131b">RESTORE</text>
+      <circle cx="1076" cy="416" r="6" fill="#d946ef"/><text x="1094" y="424" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Verify USB identity</text><circle cx="1076" cy="480" r="6" fill="#d946ef"/><text x="1094" y="488" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Test six axes</text><circle cx="1076" cy="544" r="6" fill="#d946ef"/><text x="1094" y="552" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1d2a34">Add macros last</text>
+    </g>
+    <rect x="54" y="704" width="1290" height="66" rx="12" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-opacity=".16"/>
+    <text x="84" y="745" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="650" fill="#e5eef0">Bind for stress, route for sleep, and never rebuild eighty controls from memory.</text>
+    <text x="1338" y="798" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#d946ef">IGNITIONSIM · 2026 FIELD MAP</text>
+  </svg>

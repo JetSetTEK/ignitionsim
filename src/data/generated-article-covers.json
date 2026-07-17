@@ -41,22 +41,22 @@
     "label": "Control map",
     "wide": true
   },
-  "best-ffb-settings-iracing-acc-lmu-2026": {
-    "image": "/images/generated/article-covers/best-ffb-settings-iracing-acc-lmu-2026.webp",
-    "alt": "Best FFB Settings 2026: iRacing, ACC and Le Mans Ultimate Dialed In cover with MOZA R12 direct-drive wheelbase — the kind of base these FFB settings target and Duke Alvarez",
-    "label": "Product proof",
-    "wide": true
-  },
   "best-farming-simulator-25-controls-2026": {
     "image": "/images/generated/article-covers/best-farming-simulator-25-controls-2026.webp",
     "alt": "Duke Alvarez diagnosing a simulator control bench with a real Thrustmaster T128 SimTask Farming Pack integrated at full scale",
     "label": "FS25 control verdict",
     "wide": true
   },
+  "best-ffb-settings-iracing-acc-lmu-2026": {
+    "image": "/images/generated/article-covers/best-ffb-settings-iracing-acc-lmu-2026.webp",
+    "alt": "Best FFB Settings 2026: iRacing, ACC and Le Mans Ultimate Dialed In cover with MOZA R12 direct-drive wheelbase — the kind of base these FFB settings target and Duke Alvarez",
+    "label": "Product proof",
+    "wide": true
+  },
   "best-flight-sim-hardware-2026": {
     "image": "/images/generated/article-covers/best-flight-sim-hardware-2026.webp",
-    "alt": "Best MSFS Flight Sim Hardware of 2026: Yokes, Throttles, Pedals, Panels and Head Tracking Ranked cover with Honeycomb Aeronautical Alpha Flight Controls yoke — the best first GA buy of 2026 and Mac Donovan",
-    "label": "Product proof",
+    "alt": "Val Chen instructing a pilot during a bright general-aviation simulator approach with yoke, throttle quadrant, pedals, checklist, and powered USB",
+    "label": "Flight controls ranked",
     "wide": true
   },
   "best-flight-sim-rudder-pedals": {
@@ -91,8 +91,8 @@
   },
   "best-golf-simulators-2026": {
     "image": "/images/generated/article-covers/best-golf-simulators-2026.webp",
-    "alt": "Best Home Golf Simulators of 2026: Complete Builds by Budget cover with SkyTrak ST MAX launch monitor, the anchor of the best-value 2026 home golf simulator build and Nina Brooks",
-    "label": "Product proof",
+    "alt": "Nina Brooks laser-measuring a bright golf simulator room while a player checks swing clearance and a radar monitor sits at correct depth",
+    "label": "Complete room builds",
     "wide": true
   },
   "best-gpu-for-sim-racing-flight-2026": {
@@ -121,8 +121,8 @@
   },
   "best-marine-sim-gear-2026": {
     "image": "/images/generated/article-covers/best-marine-sim-gear-2026.webp",
-    "alt": "Best Marine Sim Gear of 2026: The Honest, Practical Control Stack cover with Thrustmaster TWCS throttle repurposed as a ship's engine lever — the practical heart of a marine sim control stack and Gus Calder",
-    "label": "Product proof",
+    "alt": "Gus Calder calibrating a realistic DIY twin-engine throttle and wheel with a builder in a bright marine simulator bridge",
+    "label": "Marine control reality",
     "wide": true
   },
   "best-sailing-sim-setup-2026": {
@@ -161,10 +161,16 @@
     "label": "Product proof",
     "wide": true
   },
+  "best-sim-room-components-2026": {
+    "image": "/images/generated/article-covers/best-sim-room-components-2026.webp",
+    "alt": "Mac Donovan commissioning a bright multi-simulator room with a super-ultrawide display, VR headset, macro controls, and a labeled USB power plan",
+    "label": "Cross-sim foundation",
+    "wide": true
+  },
   "best-space-sim-controllers-2026": {
     "image": "/images/generated/article-covers/best-space-sim-controllers-2026.webp",
-    "alt": "Best Space Sim Controllers of 2026: HOSAS, HOTAS and Sticks Ranked cover with VKB Gladiator NXT EVO Space Combat Edition joystick — the building block of the best 2026 HOSAS space rig and Val Chen",
-    "label": "Control map",
+    "alt": "Val Chen installing two correctly scaled HOSAS controls on metal desk mounts in a bright spacecraft-inspired workshop",
+    "label": "Space control language",
     "wide": true
   },
   "best-vr-headset-for-sim-2026": {
@@ -413,6 +419,12 @@
     "label": "Product proof",
     "wide": true
   },
+  "hori-truck-control-system-vs-moza-tsw-2026": {
+    "image": "/images/generated/article-covers/hori-truck-control-system-vs-moza-tsw-2026.webp",
+    "alt": "Duke Alvarez measuring a truck simulator workbench with real HORI Truck Control System and MOZA TSW R5 product images staged at full scale",
+    "label": "Truck control verdict",
+    "wide": true
+  },
   "hosas-vs-hotas": {
     "image": "/images/generated/article-covers/hosas-vs-hotas.webp",
     "alt": "HOSAS vs HOTAS for Space Sims in 2026: Two Sticks or Stick-and-Throttle? cover with VKB Gladiator NXT EVO Space Combat Edition stick — the building block of a HOSAS space rig and Val Chen",
@@ -583,8 +595,8 @@
   },
   "sim-rig-buyer-map-2026": {
     "image": "/images/generated/article-covers/sim-rig-buyer-map-2026.webp",
-    "alt": "Sim Racing Rig Buyer Map 2026: What to Buy First, What to Skip, and Where the Money Actually Matters cover with Trak Racer TR80 sim racing cockpit and Duke Alvarez",
-    "label": "Rig buyer map",
+    "alt": "Duke Alvarez torque-checking a sim racing pedal deck while a driver loads the brake and a dial indicator measures cockpit flex",
+    "label": "Racing build order",
     "wide": true
   },
   "simucube-activepedal-pro-vs-moza-mbooster-2026": {
@@ -639,12 +651,6 @@
     "image": "/images/generated/article-covers/stream-deck-button-box-space-sim.webp",
     "alt": "Stream Deck vs Button Box for Star Citizen & Elite Dangerous (2026): Taming 200+ Binds cover with Elgato Stream Deck XL — the 32-key labeled macro panel that tames a space sim's 200-plus bindings and Val Chen",
     "label": "Product proof",
-    "wide": true
-  },
-  "hori-truck-control-system-vs-moza-tsw-2026": {
-    "image": "/images/generated/article-covers/hori-truck-control-system-vs-moza-tsw-2026.webp",
-    "alt": "Duke Alvarez measuring a truck simulator workbench with real HORI Truck Control System and MOZA TSW R5 product images staged at full scale",
-    "label": "Truck control verdict",
     "wide": true
   },
   "thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026": {

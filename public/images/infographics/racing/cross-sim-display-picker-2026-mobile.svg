@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131b"/><stop offset="1" stop-color="#193440"/></linearGradient>
+      <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+    </defs>
+    <rect width="900" height="1200" fill="url(#bg)"/><rect width="900" height="1200" fill="url(#grid)"/>
+    <rect x="42" y="42" width="11" height="250" fill="#22d3ee"/>
+    <text x="78" y="84" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#22d3ee">MONITOR, VR, OR BOTH?</text>
+    <text x="78" y="148" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">Choose the compromise you</text><text x="78" y="192.1" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">will still tolerate after two</text><text x="78" y="236.2" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">hours.</text>
+    <g>
+      <rect x="42" y="350" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#22d3ee" stroke-width="4"/>
+      <rect x="42" y="350" width="250" height="158" rx="16" fill="#22d3ee"/>
+      <text x="66" y="404" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">32:9 DISPLAY</text>
+      <circle cx="326" cy="393" r="5" fill="#22d3ee"/><text x="344" y="401" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Instant entry and crisp text</text><circle cx="326" cy="435" r="5" fill="#22d3ee"/><text x="344" y="443" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Shared room friendly</text><circle cx="326" cy="477" r="5" fill="#22d3ee"/><text x="344" y="485" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Needs width and GPU</text>
+    </g><g>
+      <rect x="42" y="534" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#22d3ee" stroke-width="4"/>
+      <rect x="42" y="534" width="250" height="158" rx="16" fill="#22d3ee"/>
+      <text x="66" y="588" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">VR HEADSET</text>
+      <circle cx="326" cy="577" r="5" fill="#22d3ee"/><text x="344" y="585" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Best presence and depth</text><circle cx="326" cy="619" r="5" fill="#22d3ee"/><text x="344" y="627" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Small physical footprint</text><circle cx="326" cy="661" r="5" fill="#22d3ee"/><text x="344" y="669" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Heat, comfort, clarity tax</text>
+    </g><g>
+      <rect x="42" y="718" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#22d3ee" stroke-width="4"/>
+      <rect x="42" y="718" width="250" height="158" rx="16" fill="#22d3ee"/>
+      <text x="66" y="772" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">HEAD TRACKING</text>
+      <circle cx="326" cy="761" r="5" fill="#22d3ee"/><text x="344" y="769" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Low-cost cockpit freedom</text><circle cx="326" cy="803" r="5" fill="#22d3ee"/><text x="344" y="811" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Keeps real controls visible</text><circle cx="326" cy="845" r="5" fill="#22d3ee"/><text x="344" y="853" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Not true stereoscopic depth</text>
+    </g><g>
+      <rect x="42" y="902" width="816" height="158" rx="16" fill="#f8fbfc" stroke="#22d3ee" stroke-width="4"/>
+      <rect x="42" y="902" width="250" height="158" rx="16" fill="#22d3ee"/>
+      <text x="66" y="956" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#07131b">HYBRID ROOM</text>
+      <circle cx="326" cy="945" r="5" fill="#22d3ee"/><text x="344" y="953" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">One display plus optional VR</text><circle cx="326" cy="987" r="5" fill="#22d3ee"/><text x="344" y="995" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Best long-term flexibility</text><circle cx="326" cy="1029" r="5" fill="#22d3ee"/><text x="344" y="1037" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1d2a34">Highest total spend</text>
+    </g>
+    <rect x="42" y="1090" width="816" height="76" rx="12" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-opacity=".16"/>
+    <text x="66" y="1127" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="650" fill="#e5eef0">Racing, flight, space, marine, and golf do not reward the same display</text><text x="66" y="1148.85" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="650" fill="#e5eef0">choice. Start with the game you play weekly.</text>
+  </svg>

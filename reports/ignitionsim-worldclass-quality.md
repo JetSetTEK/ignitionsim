@@ -1,15 +1,15 @@
 # IgnitionSim World-Class Quality Scoreboard
 
-Generated: 2026-07-15T16:37:46.129Z
+Generated: 2026-07-17T08:29:46.024Z
 
-- Certified articles: 87
-- Certified average: 66.8/100
-- Average editorial words: 2370.9
-- Average source URLs: 10.1
-- Average unique images: 8.6
-- Average real-use/install images: 1.2
-- Average curator-action scenes: 0.5
-- Average practical diagrams: 1.4
+- Certified articles: 90
+- Certified average: 69.1/100
+- Average editorial words: 2433.2
+- Average source URLs: 10.5
+- Average unique images: 9.3
+- Average real-use/install images: 1.4
+- Average curator-action scenes: 0.8
+- Average practical diagrams: 1.6
 
 ## Revenue-Weighted Rescue Queue
 
@@ -25,7 +25,6 @@ Generated: 2026-07-15T16:37:46.129Z
 | A | 52 | Best Golf Launch Monitors Under $5,000 in 2026: Garmin R50 vs SkyTrak ST MAX vs Uneekor Eye Mini Lite vs Bushnell Launch Pro | decision depth, unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 52 | Golf Simulator Mats, Screens, and Enclosures in 2026: The Stuff You Should Not Cheap Out On | decision depth, unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 54 | Best Home Golf Simulator Under $10,000 in 2026: The Parts That Matter, The Traps That Blow The Budget | decision depth, source evidence, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
-| A | 54 | Sim Racing Rig Buyer Map 2026: What to Buy First, What to Skip, and Where the Money Actually Matters | decision depth, source evidence, unique images, four distinct curator actions, clumped marketplace image grid |
 | A | 55 | Garage Golf Simulator Build Guide 2026: Ceiling, Depth, Cold, and the Buy Order That Works | source evidence, unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 55 | SkyTrak+ Review in 2026: The Closeout Buy, and Why New Buyers Should Look at ST MAX | source evidence, unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 57 | WinWing Ursa Minor vs VKB Gladiator NXT EVO in 2026: The Sub-$120 Space Stick, Decided | unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
@@ -46,9 +45,10 @@ Generated: 2026-07-15T16:37:46.129Z
 | A | 61 | Your First Flight Sim Setup: What to Buy First for MSFS 2024 | unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 61 | Honeycomb vs Thrustmaster TCA (2026): Which Flight Sim Ecosystem to Buy | unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 62 | What a Home Golf Simulator Actually Costs in 2026: Real All-In Budgets by Tier | repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
-| A | 63 | Best MSFS Flight Sim Hardware of 2026: Yokes, Throttles, Pedals, Panels and Head Tracking Ranked | unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 63 | The Best HOTAS for Star Citizen in 2026 (Stick + Throttle Buying Guide) | unique images, repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 63 | Best HOTAS Throttle for DCS World in 2026: Warthog, Virpil, VKB STECS, and WinWing Compared | unique images, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
 | A | 64 | Evercade in 2026: Is the Physical Cartridge Ecosystem Worth Adding to a Sim Room? | decision depth, source evidence, real use/install proof, four distinct curator actions |
+| A | 66 | FlightSimExpo 2026 Hardware Buyer Map: What to Buy Now, What to Watch, What to Skip | repeated image monotony, real use/install proof, four distinct curator actions, clumped marketplace image grid, practical diagram |
+| A | 66 | GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around? | decision depth, source evidence, real use/install proof, four distinct curator actions |
 
 This score prioritizes visual and buying evidence. It never overrides factual accuracy, image rights, exact product identity, or editorial judgment.
