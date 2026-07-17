@@ -1,6 +1,6 @@
 # IgnitionSim World-Class Quality Scoreboard
 
-Generated: 2026-07-17T20:24:15.746Z
+Generated: 2026-07-17T20:25:43.352Z
 
 - Certified articles: 91
 - Certified average: 70.5/100
