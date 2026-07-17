@@ -39,9 +39,9 @@ Verdict first: **in 2026, yes — buy direct drive, and buy less torque than the
 The first time a real direct-drive base loads up under your hands, something rewires. The wheel stops being a controller and becomes a sensor. You feel the front tires bite, then the exact moment they let go — not a vibration pretending to be grip, but the grip itself, transmitted straight from a motor to your palms with no belt, no gears, nothing in between. That is the whole pitch for direct drive. And in 2026, the pitch has finally outrun its price tag.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — cheapest Xbox DD (3.9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — cheapest Xbox DD (3.9Nm)</figcaption></figure>
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive base" loading="lazy"></a><figcaption>Thrustmaster T598 — PS5 entry DD (5Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the sweet spot (12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the sweet spot (12Nm)</figcaption></figure>
   <figure><a href="/racing/gear/simucube-2-sport"><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport wheelbase" loading="lazy"></a><figcaption>Simucube 2 Sport — the frontier (17Nm)</figcaption></figure>
 </div>
 
@@ -60,32 +60,17 @@ For years the honest advice was "start on belt, it's cheaper." That advice is de
 The floor is genuinely low now. The **Cammus C5** hides its 5Nm motor inside the wheel itself and sells as a complete bundle — base, wheel, pedals, clamp — for around $299-328. The **MOZA R3** Xbox bundle brings real direct drive to consoles for roughly $319-399 on sale, wheel and pedals included. On PlayStation, the **Thrustmaster T598** puts a 5Nm axial DD motor, wheel and pedals on your desk in one box. None of these is a torque monster — and none needs to be to make the point.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Cheapest Xbox DD</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Cheapest Xbox DD</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Entry DD bundle · 3.9Nm · Xbox + PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Racing Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Racing Bundle</a></span>
     <p class="gp-why">The cheapest credible way onto real direct drive for Xbox: a 3.9Nm DD servo, licensed ES wheel, SR-P Lite pedals and a table clamp in one box. Modest torque, but it out-resolves any gear wheel you're leaving behind — and it opens the MOZA upgrade ladder.</p>
     <span class="gp-price">~$319-399 (sale-dependent) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">PS5 entry DD</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Entry DD bundle · 5Nm · PS5 / PS4 / PC</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">A Direct Axial Drive motor with 5Nm constant torque, overshoot effects, a detachable rim and Raceline pedals — a complete PlayStation direct-drive bundle that undercuts the case for any belt wheel on console. Five newton-metres is plenty to feel everything the car is doing.</p>
-    <span class="gp-price">~$499 bundle · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -109,30 +94,24 @@ Torque does three jobs. It sets the *ceiling* on how hard the wheel can push bac
 Read that table once and the marketing arms race dissolves. The reason brands sell 21Nm and 28Nm flagships isn't that you need them — it's that "more Nm" is the easiest spec to print on a box.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r9"><span class="gp-tag">9Nm confidence</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><span class="gp-tag">9Nm confidence</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 9Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9 V2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">MOZA R9 V2</a></span>
     <p class="gp-why">Nine newton-metres sits at the bottom of the enthusiast band — plenty of bite for GT and formula with no obvious ceiling for most drivers. Wireless V2 wheel comms and the deep MOZA ladder behind it. Many buyers cross-shop the R12 at a near-identical price, which tells you where the real sweet spot lands.</p>
     <span class="gp-price">~$429 (9Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r9">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">The sweet spot</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">The sweet spot</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm · 21-bit encoder</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">Where the "how much torque" answer lands for most people: 12Nm of real headroom, run at ~70%, with detail that comes from the NexGen 4.0 algorithm and a 21-bit encoder rather than a bigger Nm number. The base you stop at, not the one you replace. PC-only and wants a 4-bolt mount.</p>
     <span class="gp-price">~$399-429 (12Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -143,32 +122,17 @@ Console buyers don't get the open PC field, but 2026 is the first year they don'
 The step-up PlayStation base is the **Fanatec ClubSport DD+** (15Nm sustained), which brings genuine mid-tier torque and FullForce to PS5/PS4/PC for buyers building a serious rig. It's overkill for a first console DD, but it's the one to grow into if you know you want more headroom than the GT DD Pro's 8Nm.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PS5 direct-drive bundle · 8Nm</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The established PS5 answer: officially licensed for Gran Turismo, ships complete with wheel and pedals, and plugs straight into the whole Fanatec ecosystem. Eight newton-metres is plenty to feel the car — the license and bundle matter more than the number here. Watch for Fanatec's frequent bundle sales.</p>
     <span class="gp-price">8Nm bundle · check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">PS5 step-up</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Premium console DD · 15Nm sustained</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
-    <p class="gp-why">The strongest mainstream PlayStation base: 15Nm sustained, FullForce, QR2 and the full Fanatec ecosystem, with PS5/PS4/PC support. Real mid-tier torque on console — the one to grow into, not to start on. Xbox support is wheel-dependent, so check your rim.</p>
-    <span class="gp-price">~$999 base · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fanatec-clubsport-dd-plus. -->
 
 ## The diminishing-returns wall
 
@@ -176,19 +140,7 @@ I keep a simple rule when someone asks me to spec their first real base: **buy t
 
 The detail you feel — the texture of the asphalt, the tiny corrections as the rear steps out — comes from the motor's smoothness and the encoder's resolution, not its peak force. This is why **Simagic's Alpha Evo** line earned its reputation: its low-inertia servos and 21-bit encoders feel more *detailed* than rivals at the same Nm, which is the spec that actually matters once you're past 8Nm or so. Its 18Nm Alpha Evo Pro puts frontier torque on your desk for around $699 — but you'll run it well below max, which is exactly the point.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">Detail over torque</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Direct-drive base · 18Nm · low-inertia servo</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
-    <p class="gp-why">Proof that value and detail beat raw torque: 18Nm for around $699, with a low-inertia servo and 21-bit encoder that keep the force feeling clean rather than gritty. You'll run it at 60-70% and still never miss the extra Nm of pricier bases. The open QR-A runs third-party rims, too.</p>
-    <span class="gp-price">~$699 (18Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-pro. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -199,31 +151,16 @@ The detail you feel — the texture of the asphalt, the tiny corrections as the 
 
 Past the sweet spot, you're not buying grip — you're buying slew rate, encoder resolution and cogging-free feel. The **Simucube 2 Sport** (17Nm) is the smoothness reference: a machined-metal body, 22-bit absolute encoder and the near-immortal SQR quick release, with zero cogging or torque ripple. The **Asetek Forte** (18Nm) brings industrial build and a 22-bit encoder whose feel reviewers struggle to tell apart from Simucube's flagship, at a fraction of the cost. Neither will make you faster than a 12Nm base — they'll make the drive feel more like the real thing, which is a different purchase entirely.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-2-sport"><span class="gp-tag">Smoothness reference</span><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Direct-drive base · 17Nm · 22-bit absolute encoder</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-2-sport">Simucube 2 Sport</a></span>
-    <p class="gp-why">Zero-cogging feel and the SQR quick release that outlives everything bolted to it. Buy it when detail and the silence between the forces matter more than a bigger torque figure — this is the fidelity purist's base, not the value pick.</p>
-    <span class="gp-price">~$1,199 (17Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-2-sport">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simucube-2-sport. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asetek-forte"><span class="gp-tag">Frontier fidelity</span><img src="/images/gear/racing/asetek-forte.jpg" alt="Asetek Forte wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C2C7TJK7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-forte"><span class="gp-tag">Frontier fidelity</span><img src="/images/gear/racing/asetek-forte.jpg" alt="Asetek Forte wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 18Nm · 22-bit encoder</span>
-    <span class="gp-name"><a href="/racing/gear/asetek-forte">Asetek Forte</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C2C7TJK7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-forte">Asetek Forte</a></span>
     <p class="gp-why">Near-flagship industrial feel at 18Nm without stepping up to the 27Nm Invicta. A 22-bit encoder, razor-sharp detail, integrated power-and-data quick release. Overkill for lap time, glorious for the drive — the definition of a torque figure you choose, not one you need.</p>
     <span class="gp-price">~$1,199 (18Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asetek-forte">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/asetek-forte">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C2C7TJK7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-forte">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -279,23 +216,25 @@ For everyone else — anyone who races leagues, chases consistency, or just want
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Buy this first (PC)</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Buy this first (PC)</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best sweet-spot PC base</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The right base for nine out of ten PC racers who can stretch to it. Sweet-spot 12Nm, best-in-class software, real upgrade ladder. Add a load-cell pedal set and a rigid mount and you're done. If money's tight, a 5Nm Cammus C5 or MOZA R3 gets you real DD and frees cash for pedals.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Buy this on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Buy this on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best PlayStation base</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: Gran Turismo licensed, complete bundle, deep ecosystem, 8Nm that's plenty to feel the car. Buy it on a Fanatec sale and don't look back. Want more headroom later? The ClubSport DD+ is the 15Nm PS5 step-up.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

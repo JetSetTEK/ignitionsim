@@ -38,10 +38,10 @@ Verdict first: **mounting is a four-rung ladder, and almost everyone starts and 
 The ladder, in order: **box clamps → rigid aluminum desk mount → powered USB hub → cockpit frame.** Each rung solves a problem the previous one can't, and you climb it only as your gear grows. This guide walks each level — what it costs, when you've outgrown the one below it, and the two steps (USB power and desk integrity) that nobody quotes you until something drops out mid-approach.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke with integrated steel desk clamps" loading="lazy"></a><figcaption>Box clamps — where nearly every setup starts</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke with integrated steel desk clamps" loading="lazy"></a><figcaption>Box clamps — where nearly every setup starts</figcaption></figure>
   <figure><a href="/racing/gear/desk-clamp"><img src="/images/gear/racing/desk-clamp.jpg" alt="Generic desk clamp mounting hardware" loading="lazy"></a><figcaption>The clamp — snug against a solid edge</figcaption></figure>
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech aluminum joystick/HOTAS table mount" loading="lazy"></a><figcaption>Aluminum desk mount — rung two</figcaption></figure>
-  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile cockpit frame" loading="lazy"></a><figcaption>Cockpit frame — the top rung</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile cockpit frame" loading="lazy"></a><figcaption>Cockpit frame — the top rung</figcaption></figure>
 </div>
 
 ## The failure mode this fixes
@@ -58,16 +58,13 @@ The rules are simple. Clamp against a solid edge of the desktop, never an overha
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Level 1 · box clamps</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Level 1 · box clamps</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">GA yoke · dual mounting: steel clamps + 40 lb suction pad</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">The reason most simmers never need rung two: the stock mounting is genuinely good. Two heavy-duty steel clamps for solid desk edges, plus a 3M micro-suction pad (~40 lb tensile) for thick or awkward tops. Clamp against a solid section, snug not cranked, and a full-throw GA yoke stays put through a crosswind flare.</p>
     <span class="gp-price">~$300 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -87,21 +84,7 @@ This is where a rigid **aluminum desk mount** earns its keep. Instead of clampin
 
 These are the same wheel-stand-style, bolt-it-down philosophy that sim racers use for wheelbases, applied to flight gear. They're the honest middle rung: sturdier than clamps, far cheaper than a full frame, and the right answer for a HOTAS or a two-or-three-piece deck that doesn't yet justify a cockpit.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Level 2 · aluminum desk mount</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech Joystick / HOTAS Table Mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized-aluminum desk mount · one device each</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Joystick / HOTAS Table Mount</a></span>
-    <p class="gp-why">The step between clamps and a cockpit. A rigid anodized-aluminum arm bolts your stick or throttle to a fixed position that doesn't creep, and the compatibility list spans Thrustmaster, VKB, Virpil, Logitech, Saitek and WinWing. Budget two for a full HOTAS — one per device — and check current pricing, since these go on sale often.</p>
-    <span class="gp-price">~$100 each · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 Panels are a slightly different problem — they're less about torque and more about keeping a stack aligned. **Logitech**, **Honeycomb**, and **WinWing/WinCTRL** panels are all designed to bracket or bolt together into a rigid column rather than float independently. Logitech's Pro Flight panels are the classic example: the Radio, Multi, Switch and Instrument panels bracket into a single unit that keeps its position permanently. Build the stack once, mount it to the desk with a bracket or third-party rail, and every panel stays where you put it. But before you build that stack, deal with the step that actually breaks multi-panel builds.
 
@@ -144,16 +127,13 @@ At that point you graduate to a wheel-stand-style frame or a dedicated **8020 al
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Level 4 · cockpit frame</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile cockpit frame" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Level 4 · cockpit frame</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile cockpit frame" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">8020 aluminum-profile frame · bolt-through mounting</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">A prebuilt aluminum-extrusion frame is the honest endpoint once pedals and a force-feedback yoke enter the picture — its profiles take bolt-through mounts that a desk clamp can't match, and it doesn't rock under servo torque. Around $499 gets you a rigid base without sourcing your own 8020; a DIY build can undercut it but rarely by much once you total the parts.</p>
     <span class="gp-price">~$499 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
 
 </aside>

@@ -63,19 +63,7 @@ The [RTX 5080](/flight/gear/nvidia-rtx-5080) is the card I'd put in most sim PCs
 
 The reason it wins isn't a single benchmark — it's the balance. It's the card the community keeps naming as the "you don't need a 5090" answer, because it clears the workloads real people actually run without demanding the 5090's price or fighting its scarcity. **Who it's for:** the triples racer, the ultrawide flyer, the 1440p enthusiast, and anyone running a Quest 3 or Bigscreen Beyond 2 in VR. The catch: at 2026 prices you're paying well over its $999 MSRP, and 16GB is the ceiling — if you plan to run native 4K with maxed textures *and* high-res VR, you'll want the 5090's headroom.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/nvidia-rtx-5080"><span class="gp-tag">Sweet spot</span><img src="/images/gear/flight/nvidia-rtx-5080.jpg" alt="NVIDIA GeForce RTX 5080 graphics card" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">GPU · 16GB GDDR7 · 256-bit</span>
-    <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5080">NVIDIA GeForce RTX 5080</a></span>
-    <p class="gp-why">The card that clears triples, ultrawide, 1440p and mainstream VR without flinching, and reaches 4K with DLSS frame-gen. It's the "you don't need a 5090" answer for a reason — right up until you want native 4K plus a Crystal Super.</p>
-    <span class="gp-price">$999 MSRP · ~$1,249+ street (2026)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/nvidia-rtx-5080">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nvidia-rtx-5080. -->
 
 ## The no-compromise card: RTX 5090
 
@@ -83,19 +71,7 @@ The [RTX 5090](/flight/gear/nvidia-rtx-5090) is what you buy when "with frame ge
 
 Is it overkill for most people? Yes, and that's the honest part. In a racing sim the 5090 sleeps through iRacing; in flat-panel 1440p or ultrawide it's spending money on headroom you won't use. Its two real jobs are native 4K in the world's most demanding sim and flagship VR — outside those, the 5080 is the smarter buy. And there's the elephant in the room: **stock and price.** The 5090 launched at $1,999 but the 2026 memory crisis has it trading at $2,699 and well beyond, when you can find one at all. Buy it for the workload, not the bragging rights.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/nvidia-rtx-5090"><span class="gp-tag">No compromise</span><img src="/images/gear/flight/nvidia-rtx-5090.jpg" alt="NVIDIA GeForce RTX 5090 graphics card" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">GPU · 32GB GDDR7 · 512-bit</span>
-    <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5090">NVIDIA GeForce RTX 5090</a></span>
-    <p class="gp-why">Double the cores, double the VRAM, and the only card that clears native 4K Ultra in MSFS 2024 and a Pimax Crystal Super at the same time. Overkill for racing and flat 1440p — exactly right for 4K flight and flagship VR. If you can find one.</p>
-    <span class="gp-price">$1,999 MSRP · ~$2,699+ street (2026)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/nvidia-rtx-5090">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nvidia-rtx-5090. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -165,25 +141,9 @@ If you race and never touch flight sim, the 5090 is money burned — even triple
 
 ## What to buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/nvidia-rtx-5080"><span class="gp-tag">Buy this first</span><img src="/images/gear/flight/nvidia-rtx-5080.jpg" alt="NVIDIA GeForce RTX 5080 graphics card" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best GPU for most sim rigs</span>
-    <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5080">NVIDIA GeForce RTX 5080</a></span>
-    <p class="gp-why">The right card for nine out of ten sim PCs: triples, ultrawide, 1440p and mainstream VR, with 4K in reach via frame-gen. Pair it with an X3D CPU and you're done.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for nvidia-rtx-5080. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/nvidia-rtx-5090"><span class="gp-tag">Buy this for 4K/VR</span><img src="/images/gear/flight/nvidia-rtx-5090.jpg" alt="NVIDIA GeForce RTX 5090 graphics card" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">No-compromise 4K and flagship VR</span>
-    <span class="gp-name"><a href="/flight/gear/nvidia-rtx-5090">NVIDIA GeForce RTX 5090</a></span>
-    <p class="gp-why">The one card that clears native 4K Ultra in MSFS 2024 and a Pimax Crystal Super at once. Buy it for those two jobs, on the best price you can find, and ignore it for everything lighter.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nvidia-rtx-5090. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages, current pricing trackers and community MSFS 2024 testing rather than repeating box specs. Prices move weekly in 2026 — treat the figures as a snapshot, not a quote.

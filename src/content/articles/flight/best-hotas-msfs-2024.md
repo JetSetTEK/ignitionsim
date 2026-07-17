@@ -39,9 +39,9 @@ Verdict first: **for a civil MSFS 2024 simmer who wants a stick, buy a VKB Gladi
 The yoke crowd will tell you a HOTAS is for space games. They're half right. If you fly nothing but a 172 and a 737, a yoke is the better tool. But MSFS 2024 shipped with a deeper roster of fighters, warbirds and aerobatic aircraft than 2020 ever had — and the moment you point a Spitfire at the deck, a yoke feels like steering a bus through a chicane. A stick-and-throttle is the right answer there, and it's usually the cheaper way into the sim at all. Here's the honest 2026 ladder: what each tier buys you, which units bind cleanly, and where the money stops being worth it.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the cheapest stick-first way into Airbus flying</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the throttle half a bare stick is missing</figcaption></figure>
-  <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a><figcaption>VelocityOne Flight Stick — the Xbox-and-PC all-in-one</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the cheapest stick-first way into Airbus flying</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the throttle half a bare stick is missing</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a><figcaption>VelocityOne Flight Stick — the Xbox-and-PC all-in-one</figcaption></figure>
 </div>
 
 ## What "HOTAS" actually means for a civil simmer
@@ -87,16 +87,13 @@ VKB sells direct rather than through a verified studio photo on our side, so the
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Best throttle pairing</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Best throttle pairing</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Dual-lever throttle · authentic Airbus detents</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
     <p class="gp-why">The half a bare stick is missing. Real Idle/Climb/Flex/TO-GA detent gates and fingertip reversers, on contactless H.E.A.R.T sensors that never wear out. Binds clean, and you can disable the detents by flipping two pads if you fly something other than an Airbus.</p>
     <span class="gp-price">~$100</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -107,16 +104,13 @@ If you mainly fly the Fenix A320, the cleanest stick-first answer isn't a combat
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Best value · Airbus</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Best value · Airbus</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">A320 side-stick · contactless H.E.A.R.T sensors</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
     <p class="gp-why">The cheapest honest way into the Fenix A320. A 1:1 side-stick with a twist rudder and built-in thrust lever, so it flies solo, and magnetic sensors that never wear out. At ~$80 it costs a fraction of a yoke and feels right in the left seat.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -129,16 +123,13 @@ Don't confuse it with its bigger sibling. The **VelocityOne Flightdeck** (~$400;
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Best Xbox all-in-one</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><span class="gp-tag">Best Xbox all-in-one</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-in-one stick · OLED display, integrated twist rudder</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
     <p class="gp-why">The console flyer's easy starting point: genuinely Xbox-and-PC licensed, 27 buttons, an OLED status screen, Hall-effect axes and a twist rudder so it flies solo. Plastic-heavy and a touch happier on PC than Xbox, but a lot of features for the money.</p>
     <span class="gp-price">~$110 · MSRP $129.99</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -160,16 +151,13 @@ For pairing a stick with head movement, note that a HOTAS frees both hands — w
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Pairs with any HOTAS</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Pairs with any HOTAS</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head tracking · 6DOF, 120 FPS, wear-a-clip</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The genre standard for over a decade. Six-degree head tracking that lets you glance at the FMC or check your six without lifting a hand off the stick, native in 200-plus sims. You wear a clip and the curves take tuning, but dialed in it's transformative.</p>
     <span class="gp-price">~$170 (TrackClip PRO bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -204,24 +192,24 @@ Skip a HOTAS entirely if you fly **only GA and airliners** — your money is bet
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Add this to any bare stick</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Add this to any bare stick</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The throttle half a stick is missing</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
     <p class="gp-why">The VKB Gladiator's natural partner and the cheapest authentic detented quadrant. Contactless sensors, real Airbus gates, and detents you can disable for non-Airbus flying. Around $100 turns a bare stick into a real HOTAS.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Buy this on Xbox</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><span class="gp-tag">Buy this on Xbox</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The console all-in-one</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
     <p class="gp-why">The one device that gets an Xbox flyer airborne with no extra gear: Hall-effect axes, 27 buttons, an OLED HUD and a twist rudder, all licensed for console. Plug-and-play binding is the bonus.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">View exact product on Amazon</a></span>
   </div>
 
 </aside>

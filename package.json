@@ -16,6 +16,7 @@
     "infographics": "node scripts/make-ignitionsim-infographics.mjs",
     "gold-audit": "node scripts/audit-commerce-links.mjs && node scripts/audit-worldclass-quality.mjs && node scripts/audit-gold-standard.mjs && node scripts/audit-curator-system.mjs && node scripts/audit-public-surface-quality.mjs && node scripts/audit-editorial-surfaces.mjs",
     "audit:commerce": "node scripts/audit-commerce-links.mjs",
+    "commerce:normalize": "node scripts/enforce-inline-product-commerce.mjs",
     "audit:curators": "node scripts/audit-curator-system.mjs",
     "audit:surfaces": "node scripts/audit-editorial-surfaces.mjs",
     "audit:quality": "node scripts/audit-worldclass-quality.mjs",

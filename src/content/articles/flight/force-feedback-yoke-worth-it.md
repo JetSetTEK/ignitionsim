@@ -79,16 +79,13 @@ Force feedback is no longer one product, and pretending it is would do you a dis
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Verified · non-FFB baseline</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Verified · non-FFB baseline</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Spring yoke · integrated switch panel, mature + simple</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">The yardstick this whole question is measured against. No control loading, no trim you can feel — but a precise self-centering yoke, an ignition panel that deletes a dozen mouse clicks, and software that just works. At roughly a third of a MOZA all-in, it buys a more complete cockpit than an FFB handle alone. Buy this first; graduate to force feedback later.</p>
     <span class="gp-price">~$280</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>

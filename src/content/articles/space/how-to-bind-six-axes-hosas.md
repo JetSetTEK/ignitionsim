@@ -42,7 +42,7 @@ You bought two sticks. You plugged them in. Now you're staring at a controls men
 <div class="shotgrid">
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — the right (aiming) hand</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a><figcaption>VKB Omni-Throttle — a non-centering off hand</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — ambidextrous, buy two</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — ambidextrous, buy two</figcaption></figure>
 </div>
 
 ## The mental model: right rotates, left translates
@@ -149,32 +149,17 @@ This guide is about binding, but a few hardware choices make the binding vastly 
 4. **Add a Stream Deck for the bind overflow** before you chase a fancier base — the hundreds of non-flight binds hurt more than a spring feel.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Easiest to bind</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">Easiest to bind</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Ambidextrous HOSAS block · Hall-effect, four axes + twist</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
     <p class="gp-why">The friendliest stick to bind a first HOSAS on. Genuinely ambidextrous — three removable parts swap it left or right — so two identical units give you the eight analog axes you need for six ship axes, and the base hand-switch is the fix for the twin-stick double-bind gotcha. Four axes including twist means every axis in the standard map has a home. Light and plastic, but the Hall-effect sensors don't drift.</p>
     <span class="gp-price">~$80 each (~$160 the pair)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Fixes the self-centering off hand</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Off-hand controller · multi-axis thrust/strafe, holds position</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator NXT EVO Omni-Throttle</a></span>
-    <p class="gp-why">The answer to step 3 of the buy order. It mounts a Gladiator stick on an omnidirectional adapter, so your off hand strafes on analog axes <em>and</em> holds a cruise position instead of springing back to zero. That solves the "my forward thrust keeps resetting" problem in Elite supercruise and Star Citizen NAV mode, while keeping all three translation axes analog. Shares the Gladiator's magnetic sensors and self-centering twist.</p>
-    <span class="gp-price">~$149</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-omni-throttle. -->
 
 ## Verdict
 

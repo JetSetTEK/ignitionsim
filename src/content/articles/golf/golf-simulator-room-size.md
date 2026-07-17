@@ -40,10 +40,10 @@ Verdict first: **the minimum usable home golf simulator room in 2026 is about 9 
 The most expensive mistake in this hobby is falling in love with a launch monitor spec sheet, buying the sensor, and *then* measuring the basement — only to find the unit physically cannot read a swing in that space. So we do it backward, the right way. You measure first. Then you shop. Pull a tape measure and write down three numbers: **ceiling height, width, and depth.** Every hardware decision flows from those.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a><figcaption>Shallow-room hero: side-of-ball photometric</figcaption></figure>
-  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a><figcaption>Radar: wants depth behind you</figcaption></figure>
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a><figcaption>Tall-but-shallow answer: side-of-tee camera</figcaption></figure>
-  <figure><a href="/golf/gear/optoma-gt2100hdr"><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short-throw projector" loading="lazy"></a><figcaption>Tightest throw for a shallow bay</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a><figcaption>Shallow-room hero: side-of-ball photometric</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a><figcaption>Radar: wants depth behind you</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a><figcaption>Tall-but-shallow answer: side-of-tee camera</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short-throw projector" loading="lazy"></a><figcaption>Tightest throw for a shallow bay</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>The footprint your width must clear</figcaption></figure>
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio hitting mat" loading="lazy"></a><figcaption>Where your stance stands inside the depth</figcaption></figure>
 </div>
@@ -97,30 +97,24 @@ This is the radar-versus-photometric split in physical, tape-measured terms, and
 That is the entire "the room decides the launch monitor" story in one list: a shallow room quietly kills radar, and a low ceiling quietly kills overhead.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Tight-room safe pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Tight-room safe pick</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Side-of-ball photometric · forgiving on depth</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">If your room is short, this is the geometry-proof answer. Side-of-ball placement means it reads the ball at impact and lives happily in 15 to 17 feet of depth — no 7-to-9-foot radar runway behind you, no overhead clearance. The default sensor for a room that will not cooperate.</p>
     <span class="gp-price">~$2,995 (often on sale near $2,000)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Deep-garage value</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">Deep-garage value</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Radar · needs depth behind the ball</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The cheapest credible sim-capable brain — but only if your room earns it. As Doppler radar it wants several feet of clear space behind the hitter, so it is happiest in an 18-to-20-foot-deep garage or a room that opens up behind you. Crammed against a back wall, its numbers wander.</p>
     <span class="gp-price">~$600 (often discounted to ~$400–$500)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -138,16 +132,13 @@ The 2026 comfort target is **14 to 15 feet**, which is where a right- or left-ha
 Width is where the **dual-handed question** lives. If both a righty and a lefty will use the bay, you want that centered hitting position and a sensor placement that does not force one player to re-aim the whole room. A centered overhead unit or a repositionable side-mount photometric unit makes this far easier than an asymmetric radar setup — one more way the room quietly picks the hardware.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">Tall-but-shallow answer</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">Tall-but-shallow answer</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Side-of-tee camera · no rear-radar runway</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">When your room is tight on depth but has ceiling to spare, a side-of-tee camera unit sidesteps both traps. The R50 sits beside the tee — no 7-to-9-foot radar runway behind you — and its built-in touchscreen and HDMI output mean you can get a bay running before you even solve the projector. You pay a premium for the all-in-one convenience, not for beating the room.</p>
     <span class="gp-price">~$4,999</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -178,30 +169,24 @@ For a **shallow room**, the tightest throw ratio wins, because it lets you mount
 The warning: "better projector" is meaningless if the throw ratio, offset, and mount point fight your room. Use the manufacturer throw calculator, and mark the projector location with painter's tape before you drill anything.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Shallow-room projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short-throw laser projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><span class="gp-tag">Shallow-room projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short-throw laser projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Tightest mainstream throw ratio</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The projector for a room that is short front-to-back. Its 0.496:1 throw fills a 12-foot screen from under 6 feet, so you can mount it well clear of the swing arc in a shallow garage where a longer-throw unit would either shadow you or not fit. Native 1080p, but it accepts 4K HDR input and the brightness and low lag matter more than pixel count at bay distance.</p>
     <span class="gp-price">~$1,199</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Deep-room premium</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short-throw golf projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st"><span class="gp-tag">Deep-room premium</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short-throw golf projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">4K laser · forgiving lens shift</span>
-    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">BenQ LK936ST</a></span>
     <p class="gp-why">When the room has depth and the image is the flex. True 4K, 5,100 lumens, and — the part that saves imperfect rooms — ±60% vertical and ±23% horizontal lens shift, so you can align a clean picture without keystone distortion. Its 0.8-class throw still wants roughly 14 to 15 feet for a near-10-foot screen, so it belongs in a deeper bay.</p>
     <span class="gp-price">~$4,899 (list ~$5,499)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -225,33 +210,9 @@ The launch monitor and projector get the attention, but the physical bay is what
   <figure><a href="/golf/gear/sigpro-side-barrier-netting"><img src="/images/gear/golf/sigpro-side-barrier-netting.jpg" alt="SIGPRO side barrier netting" loading="lazy"></a><figcaption>Side nets: the width insurance</figcaption></figure>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Turnkey footprint</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Complete bay · fixed 4:3 footprint</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
-    <p class="gp-why">If your width and ceiling clear its 10'10" x 8'4" x 5' box, this is the measure-once, assemble-in-an-hour bay: steel-pipe frame, side and ceiling padding, and a premium screen the image fills 100% with no white border. The catch is that fixed footprint — confirm your dimensions before you buy, because it wants a dedicated ~11-foot-wide room.</p>
-    <span class="gp-price">~$1,999–$2,499 by screen tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Stance platform</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio hitting mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Where you stand inside the depth</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
-    <p class="gp-why">The mat is not just comfort — it defines where your feet land inside the depth you measured. Fiberbuilt's Vibration Absorption Layer soaks up about 94.7% of clubhead shock so daily reps do not wreck your wrists, and a friction-fit tee holder takes real wooden tees. Budget its footprint into the front-of-bay depth from the start.</p>
-    <span class="gp-price">~$1,249 (7'x4' Grass Series)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 ## Warnings Before You Buy Anything
 

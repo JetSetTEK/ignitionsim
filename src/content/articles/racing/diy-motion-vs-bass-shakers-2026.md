@@ -69,19 +69,7 @@ A seat shaker like the **ButtKicker Gamer Pro** or a DIY transducer/amp setup ca
 
 The trick is restraint. New users crank every channel until the rig feels like a washing machine full of lug nuts. Good tactile is subtle. You notice it most when it is turned off.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Tactile first</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Seat-mounted haptic transducer</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer Pro</a></span>
-    <p class="gp-why">The fastest way to make a static rig feel alive. Mount it solidly, isolate the frame, then tune for information instead of earthquake cosplay.</p>
-    <span class="gp-price">Tactile tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## Pedal Haptics: More Useful Than Flashy
 

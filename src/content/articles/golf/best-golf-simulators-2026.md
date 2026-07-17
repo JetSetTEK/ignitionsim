@@ -131,32 +131,17 @@ The point of the budget build is to spend on the *habit test*, not the dream roo
 **Target: about $1,000-$2,000**, and every dollar is recoverable into the mid build later.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Best value</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">Best value</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Doppler radar · ~16 metrics · GSPro + E6</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">Most of what a five-figure unit does for the price of a fairway wood, and it's still the sub-$1K benchmark in 2026. The catch is the radar's appetite for depth behind you — reward it with a deep garage, don't punish it in a back-wall corner.</p>
     <span class="gp-price">~$500</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Data-rich budget</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Dual camera + radar · measured spin (RPT)</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">The richest portable data set under $1,000, with official GSPro direct-connect and real swing-review video. Measured spin needs RPT-marked balls and the best features sit behind the premium plan, so read the subscription before you fall in love.</p>
-    <span class="gp-price">~$700</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 If your room is *shallow* and radar won't fit, the budget pivot is a side-of-ball camera unit: the [Square Golf launch monitor](/golf/gear/square-golf-launch-monitor) (~$700) or a used [original SkyTrak](/golf/gear/skytrak-og-launch-monitor). Both sit beside the ball and forgive tight depth, which is exactly what a radar unit can't do.
 
@@ -179,47 +164,20 @@ Around the sensor, the room is where the "real simulator" feeling comes from. A 
 
 **Target: about $7,000-$9,500** depending on launch monitor sale pricing and projector tier.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-st-max"><span class="gp-tag">Best overall build</span><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Camera + dual radar · no mandatory subscription</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
-    <p class="gp-why">The accuracy-per-dollar sweet spot and the anchor of the build most people should make. Carry numbers within a couple of yards of $20K units, a practice range that doesn't bill you, and side-of-ball placement that forgives a tighter room. Watch for the frequent ~$1,995 sale.</p>
-    <span class="gp-price">~$2,995 (often ~$1,995 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-st-max. -->
 
 The enclosure decision inside this build is the one that separates a real bay from a mat on concrete. The [SIG10](/golf/gear/sig10-enclosure) is the turnkey route — a complete 10'10" x 8'4" x 5' bay with steel-pipe frame, side and ceiling padding, and an included SIGPRO Premium screen rated to 250 MPH impacts, assembled by two people in under an hour. The [Carl's Place DIY kit](/golf/gear/carls-place-diy-enclosure) is the money-saver: you match the screen tier and pipe kit to your exact room instead of paying for a fixed footprint.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Turnkey bay</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Complete bay · SIGPRO Premium screen · 250 MPH rated</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
-    <p class="gp-why">The complete-bay flex when you'd rather build the room once than piece it together. Frame, padding, surround, and premium screen with 100% image fill and no white border. Needs a dedicated ~11 ft wide room, so measure before you commit to the fixed 4:3 footprint.</p>
-    <span class="gp-price">~$1,999-$2,499 by screen tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Value projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><span class="gp-tag">Value projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">1080p laser · 4,200 lm · 0.496:1 throw</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The best brightness-and-throw-per-dollar projector for a mid build, and its ultra-tight 0.496:1 throw fills a 12-foot screen from under 6 feet — the reason it fits shallow garages a longer-throw unit can't. Confirm offset against your exact screen size before drilling.</p>
     <span class="gp-price">~$1,199</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -247,44 +205,35 @@ Around either anchor, go full room: a [SIG10 enclosure](/golf/gear/sig10-enclosu
 **Target: about $12,000-$16,000+** depending on projector and launch-monitor choice.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Fitting-grade data</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Fitting-grade data</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Foresight triple-camera · ~2% of GCQuad · subs apply</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">The same Foresight sensor as the GC3 for a third of the GCQuad's money — genuinely tour-grade ball data in a shallow-room footprint. The honest catch is the subscription: Silver (~$199/yr) now covers club data and five courses, but GSPro needs Gold (~$499/yr). Do the three-year math first.</p>
     <span class="gp-price">~$2,499 + subscription</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC premium</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC premium</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">3 cameras · 10-inch touchscreen · HDMI · built-in sim</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">Best when your real enemy is setup friction. Built-in touchscreen, HDMI out, and an on-device simulator mean no gaming PC required — place it beside the tee and go. You pay a premium for the convenience, not for skipping room, mat, screen, and projector planning.</p>
     <span class="gp-price">~$4,999</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Premium image</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st"><span class="gp-tag">Premium image</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">True 4K · 5,100 lm laser · Golf Mode · wide lens shift</span>
-    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">BenQ LK936ST</a></span>
     <p class="gp-why">The no-compromise projector when the image is the premium flex. True 4K, 5,100 lumens, and wide lens shift make a clean ceiling mount forgiving in a real room, and Golf Mode kills the purple fringing on bright screens. It still needs ~14-15 ft of throw for a full image, so measure first.</p>
     <span class="gp-price">~$4,899</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -344,45 +293,22 @@ Impact quality and side protection are where safety and spouse-acceptance meet. 
 
 ## What to buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-st-max"><span class="gp-tag">The build most people want</span><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best overall build anchor</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
-    <p class="gp-why">Camera-grade accuracy, no mandatory subscription, and it anchors the $7K-$9.5K bay that's right for most home builders. Watch for the frequent ~$1,995 sale and put the savings into the room.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-st-max. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Start here on a budget</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">Start here on a budget</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value build brain</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The habit-test sensor. Real GSPro-capable data for ~$500, into a net today, upgraded into the mid build later around the same monitor. Give it depth behind you.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Build the room once</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best turnkey bay</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
-    <p class="gp-why">Frame, padding, surround, and a premium screen in one box with 100% image fill. The turnkey alternative to sourcing and framing a DIY enclosure — measure for the ~11 ft footprint first.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Do not cheap out</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best body-protection spend</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
-    <p class="gp-why">The part you touch every swing, absorbing ~95% of clubhead shock. Cheap out here and the whole expensive room becomes one you avoid. In every build, this is the high-ROI line.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 Plan the whole thing in the [golf configurator](/golf/configurator) before you spend a dollar, and if you're targeting the sweet-spot bay specifically, the companion guide [Best Home Golf Simulator Under $10,000](/golf/home-golf-simulator-under-10000-2026) walks the mid build part by part.
 
@@ -391,12 +317,12 @@ Plan the whole thing in the [golf configurator](/golf/configurator) before you s
 We only attach an Amazon button when the ASIN resolves to the exact product. SkyTrak, Rapsodo, Bushnell, Fiberbuilt, SIG10, and the BenQ golf-projector range are discussed above from verified official sources, but they do not receive an Amazon button here because we did not confirm a stable exact listing during this review.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Garmin Approach R10"><span class="gp-tag">Verified budget anchor</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">Verified budget anchor</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Portable Doppler radar launch monitor</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Garmin Approach R10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The correct habit-test sensor for a deep garage or backyard net. Measure the radar depth, price the software, and keep the room-upgrade path open.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Garmin Approach R10">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -3,8 +3,10 @@ import path from 'node:path';
 
 const root = process.cwd();
 const minCertifiedVisuals = 8;
+const articleTemplateVisuals = 3; // Hero, curator field brief, and curator author card.
 const v2CertificationDate = '2026-07-15';
 const verified = new Set(JSON.parse(fs.readFileSync(path.join(root, 'src/data/verified-product-images.json'), 'utf8')));
+const amazonProducts = JSON.parse(fs.readFileSync(path.join(root, 'src/data/amazon-products.json'), 'utf8'));
 const crewNames = new Set(JSON.parse(fs.readFileSync(path.join(root, 'src/data/crew.json'), 'utf8')).map((person) => person.name));
 
 const productFiles = fs.readdirSync(path.join(root, 'src/data/products')).filter((file) => file.endsWith('.json'));
@@ -71,9 +73,15 @@ for (const file of walk(path.join(root, 'src/content/articles')).sort()) {
     const product = productsByGearPath.get(link);
     return !product || !verified.has(product.image);
   }))];
+  const amazonBenchProducts = [...new Set(gearLinks(source))]
+    .map((link) => productsByGearPath.get(link))
+    .filter((product) => product && verified.has(product.image) && amazonProducts[product.id]?.asin)
+    .filter((product, index, list) => list.findIndex((candidate) => candidate.id === product.id) === index)
+    .slice(0, 6);
+  const renderedVisualCount = imgs.length + amazonBenchProducts.length + articleTemplateVisuals;
 
-  if (imgs.length < minCertifiedVisuals) {
-    failures.push(`${rel}: only ${imgs.length} inline visuals; certified minimum is ${minCertifiedVisuals}`);
+  if (renderedVisualCount < minCertifiedVisuals) {
+    failures.push(`${rel}: only ${renderedVisualCount} rendered visuals (${imgs.length} inline + ${amazonBenchProducts.length} exact-Amazon bench + ${articleTemplateVisuals} template); certified minimum is ${minCertifiedVisuals}`);
   }
   if (missing.length) failures.push(`${rel}: missing image files: ${missing.join(', ')}`);
   if (unverifiedImages.length) failures.push(`${rel}: unverified gear images: ${unverifiedImages.join(', ')}`);

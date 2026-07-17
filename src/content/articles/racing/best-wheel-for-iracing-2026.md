@@ -38,8 +38,8 @@ Verdict first: **for the overwhelming majority of iRacers in 2026, buy the [MOZA
 iRacing is the sim that turns gear into a religion, and the most-asked question in any rookie Discord is the same every week: *what wheel should I buy for iRacing?* The honest answer annoys people, because it isn't a model number — it's a principle. iRacing's tire model is famously communicative, but the meaningful information lives well under 12Nm. The base that wins you time is the one that's smooth, detailed and stable for a whole hour, not the one with the biggest Nm sticker. Here's the shortlist that actually matters, by budget and by discipline.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the pick (12Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r9"><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a><figcaption>MOZA R9 — spend less (9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the pick (12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a><figcaption>MOZA R9 — spend less (9Nm)</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro — headroom (18Nm)</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a><figcaption>Fanatec ClubSport DD+ — reference feel</figcaption></figure>
 </div>
@@ -70,30 +70,24 @@ That's why the community consensus has hardened: **9-12Nm is the sweet spot, and
 **The pick for most iRacers: the MOZA R9 or R12.** The R9 at ~$429 gives you 9Nm and arguably the best wheelbase software in the business, and on a PC-only iRacing rig its FFB refinement is a genuine advantage. Stretch to the **R12 (~$429, 12Nm)** and you get the practical torque ceiling, extra ports so pedals and a handbrake plug into the base instead of your PC, and compatibility with every current MOZA rim. That last point matters: some newer MOZA rims won't run on the older R9.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Best for iRacing</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Best for iRacing</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">iRacing's tire model never asks for more than this delivers. Practical-ceiling torque, the best tuning software in the business, extra ports for pedals and handbrake, and an upgrade ladder you won't outgrow. The drivers winning splits aren't on 21Nm — they're on something like this, run below max and tuned to never clip.</p>
     <span class="gp-price">~$429 (12Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r9"><span class="gp-tag">Spend less</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><span class="gp-tag">Spend less</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V2 wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 9Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">MOZA R9</a></span>
     <p class="gp-why">Nine newton-metres sits squarely in the iRacing sweet spot, and on a PC-only rig the R9's refined FFB and Pit House software give up almost nothing to the R12. The only reason to reach past it is the R12's extra ports and full-rim compatibility at a near-identical price.</p>
     <span class="gp-price">~$429 (9Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r9">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -103,19 +97,7 @@ That's why the community consensus has hardened: **9-12Nm is the sweet spot, and
 
 Here's a distinction the forums get right and the marketing ignores: **long-stint endurance iRacers and short-session sprint racers tend to buy differently.** Drivers grinding multi-hour endurance events lean toward Simagic's clean, low-fatigue feel and its open QR-A; drivers chasing kit-per-dollar for shorter GT3 and rally sessions lean toward the MOZA R12. Neither is wrong. If your iRacing life is IMSA and 24-hour specials, weigh the Simagic feel; if it's Tuesday-night GT3 splits, the R12's value is hard to beat.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">Endurance headroom</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Direct-drive base · 18Nm, low-inertia servo</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
-    <p class="gp-why">Overkill on paper for iRacing — you'll run it well below 18Nm — but the value is so aggressive the headroom costs almost nothing over a 12Nm base, and the low-inertia servo stays clean over a long stint. The pick if you want to buy once and never think about torque again. The same family sells in 9Nm and 12Nm trims if you'd rather buy the sweet spot.</p>
-    <span class="gp-price">~$699 (18Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-pro. -->
 
 ## The console asterisk
 
@@ -124,16 +106,13 @@ Here's the catch that catches people: **most direct-drive bases are PC-only, and
 But almost nobody plays only iRacing. If you also want PS5 (Gran Turismo) or Xbox (Forza), the calculus changes hard. The **Fanatec GT DD Pro / ClubSport DD+** family is the established PS5-and-PC pick, and the only mainstream Xbox DD options are the Fanatec CSL DD and the MOZA R3. Buy for your whole gaming life, not just iRacing.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Also game on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Also game on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PS5 + PC direct-drive bundle · 8Nm</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">iRacing is PC-only, so this isn't an iRacing-first pick — it's the answer when your rig also has to run Gran Turismo on PS5. Officially licensed, ships complete with wheel and pedals, and plugs into the whole Fanatec ecosystem. Watch for Fanatec's frequent bundle sales.</p>
     <span class="gp-price">8Nm bundle · check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -198,24 +177,17 @@ If you're on a recent belt wheel and racing the lower splits casually, you don't
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Buy this for iRacing</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Buy this for iRacing</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best overall iRacing base</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The right base for nine out of ten iRacers. Sweet-spot 12Nm, best software, extra ports, deep ladder. Pair it with a round GT rim (rotaries + screen), add a load-cell pedal set and a rigid mount, and you're done for years.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-2-sport"><span class="gp-tag">Fidelity ceiling</span><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Smoothness reference · 17Nm</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-2-sport">Simucube 2 Sport</a></span>
-    <p class="gp-why">For the iRacer who values reference-grade smoothness over torque-per-dollar. Zero-cogging feel and the near-immortal SQR quick release make it the base your hands remember — more than iRacing needs, but a joy for the fidelity purist.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simucube-2-sport. -->
 
 ## The verdict
 

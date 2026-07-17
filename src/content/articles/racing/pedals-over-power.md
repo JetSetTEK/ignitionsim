@@ -39,10 +39,10 @@ Verdict first: **when you have a dollar to spend on going faster, spend it on th
 One camp spends every spare dollar climbing the torque ladder, chasing a stronger wheel. The other camp says the wheel was never the limit. The data, the pros and a year of watching people actually get faster all land in the same place: **pedals over power.** Here is why, and here is the exact brake to buy at every budget.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>MOZA CRP2 — best value load cell (~$399)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>MOZA CRP2 — best value load cell (~$399)</figcaption></figure>
   <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sim Pedals Sprint" loading="lazy"></a><figcaption>Heusinkveld Sprint — pro benchmark (~€495)</figcaption></figure>
   <figure><a href="/racing/gear/simagic-p2000"><img src="/images/gear/racing/simagic-p2000.jpg" alt="Simagic P2000 hydraulic load-cell pedals" loading="lazy"></a><figcaption>Simagic P2000 — hydraulic step-up (~$609)</figcaption></figure>
-  <figure><a href="/racing/gear/simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active pedal" loading="lazy"></a><figcaption>Simucube ActivePedal Pro — active frontier</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active pedal" loading="lazy"></a><figcaption>Simucube ActivePedal Pro — active frontier</figcaption></figure>
 </div>
 
 ## Why braking is the real bottleneck
@@ -73,32 +73,17 @@ You don't need to agonize over ten sets. There are three rungs, and almost every
 - **Luxury — only if you specifically want the feel.** A hydraulic set like the Simagic P2000 (~$609) or Asetek Invicta (~$630 on sale), or an active pedal like the MOZA mBooster (~$799) or Simucube ActivePedal Pro (~€1,402 per unit ex-VAT). These are feel-and-novelty purchases, not lap-time purchases.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Best value load cell</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Best value load cell</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">A rare 200kg load cell, a 125-combination damper stack and CNC aerospace aluminum with a carbon heel plate for around $399 — premium feel at a price that embarrasses boutique sets. It plugs into any base over USB, so it's the upgrade no future ecosystem switch can strand.</p>
     <span class="gp-price">~$399 (US)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Pro benchmark</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sim Pedals Sprint" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Load-cell pedals · load cell on every pedal</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The professional benchmark and a buy-once-keep-forever set — a 120kg-rated brake load cell (about 65kg usable), progressive elastomers, and SmartControl calibration that puts the brake exactly where your leg wants it. Not cheap, essentially unbeatable.</p>
-    <span class="gp-price">~€495 (2-pedal)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -111,31 +96,16 @@ You don't need to agonize over ten sets. There are three rungs, and almost every
 
 Buy hydraulic because you specifically *want* that progressive real-car feel, not because a spec sheet implies it's "better." A well-calibrated load cell already gives you the consistency that wins lap time; hydraulic buys immersion on top.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-p2000"><span class="gp-tag">Hydraulic step-up</span><img src="/images/gear/racing/simagic-p2000.jpg" alt="Simagic P2000 hydraulic load-cell pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Hydraulic pedals · load cell + fluid damping</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-p2000">Simagic P2000</a></span>
-    <p class="gp-why">A full hydraulic brake with a 100 or 200kg load cell and a realistic road-car pedal layout, CNC-machined throughout. The affordable door into real hydraulic feel, and it runs over USB on any base.</p>
-    <span class="gp-price">~$609</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-p2000">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-p2000. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asetek-invicta-pedals"><span class="gp-tag">Realism benchmark</span><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic sim racing pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals"><span class="gp-tag">Realism benchmark</span><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic sim racing pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Hydraulic pedals · twin-piston T.H.O.R.P. II</span>
-    <span class="gp-name"><a href="/racing/gear/asetek-invicta-pedals">Asetek Invicta Pedals</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals">Asetek Invicta Pedals</a></span>
     <p class="gp-why">Industrial-grade aluminum and a twin-piston hydraulic brake cylinder with an automotive-grade pressure sensor — the closest passive pedals come to a real race-car brake. Frequently on sale well below list; watch the price.</p>
     <span class="gp-price">~$630 on sale (list ~$900)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -146,30 +116,24 @@ Buy hydraulic because you specifically *want* that progressive real-car feel, no
 They are real, and they are remarkable. They are also priced per pedal and deliver marginal *lap-time* gains for the money — a luxury frontier for drivers who switch cars constantly and tune brake traces seriously, not a need for almost anyone.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-activepedal-pro"><span class="gp-tag">Active reference</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active pedal" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><span class="gp-tag">Active reference</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active pedal" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Active pedal · software-defined force feedback</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
     <p class="gp-why">A high-precision actuator replaces springs and rubbers, so pedal feel, travel and ABS effects change in software, not with a wrench. Up to 110kg of force and telemetry-based effects straight through the pedal face. The most refined active pedal you can buy.</p>
     <span class="gp-price">~€1,402 per unit (ex-VAT)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-mbooster-active-pedal"><span class="gp-tag">Active value pick</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal"><span class="gp-tag">Active value pick</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Active pedal · dual 200kg load cells, 270W</span>
-    <span class="gp-name"><a href="/racing/gear/moza-mbooster-active-pedal">MOZA mBooster</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">MOZA mBooster</a></span>
     <p class="gp-why">The active pedal that broke the four-figure ceiling: servo-driven force feedback, ABS and traction-control effects, software pedal curves and one-click profiles far below Simucube money. Refinement reports are more mixed than the spec sheet, but the value is real.</p>
     <span class="gp-price">~$799</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -212,24 +176,17 @@ Honest-broker note: if you're a casual GT cruiser who races occasionally and doe
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value load-cell brake</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The pedal that makes nine out of ten racers faster. 200kg load cell, tunable damper, CNC aluminum, USB brand-agnostic. If your budget is tighter, the MOZA SRP2 or Fanatec CSL Load Cell Kit get you a real pressure brake under $300.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Buy once, keep forever</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sim Pedals Sprint" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Pro benchmark load cell</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The endgame brake for most people: professional load-cell feel, progressive elastomers, SmartControl calibration, USB to any base. Buy it and stop shopping for pedals.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 ## The verdict
 

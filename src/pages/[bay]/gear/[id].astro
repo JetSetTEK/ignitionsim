@@ -29,7 +29,11 @@ const brandMods = import.meta.glob('/src/data/brands.json', { eager: true });
 const brandIds = new Set((((Object.values(brandMods)[0] as any)?.default) || []).map((b: any) => b.id));
 const brandSlug = String(p.brand).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 const hasBrandPage = brandIds.has(brandSlug);
-const related = all.filter((x: any) => x.bay === p.bay && x.type === p.type && x.id !== p.id).slice(0, 4);
+const related = all
+  .filter((x: any) => x.bay === p.bay && x.type === p.type && x.id !== p.id)
+  .map((x: any) => ({ ...x, amazonUrl: canonicalAmazonProductUrl(x, amazonTag) }))
+  .filter((x: any) => x.amazonUrl)
+  .slice(0, 4);
 const guides = (await getCollection('articles', ({ data }) => data.bay === p.bay && isCertifiedArticle(data))).slice(0, 3);
 const guideSlug = (a: any) => a.id.split('/').pop();
 const specEntries = Object.entries(p.specs || {});
@@ -86,7 +90,8 @@ const buyPulse = verdictScore >= 8.5
     <section class="gear-hero">
       <div class="gh-left">
         <figure class={`gh-img ${hasRealGallery ? '' : 'gh-spec-card'}`} data-lightbox={hasRealGallery ? true : undefined} data-images={JSON.stringify(imgs)}>
-          {hasRealGallery && <img id="gh-main" class="zoomable" src={imgs[0]} alt={`${p.brand} ${p.model}`} />}
+          {hasRealGallery && buyUrl && <a class="gh-amazon-image" href={buyUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={p.id}><img id="gh-main" src={imgs[0]} alt={`${p.brand} ${p.model}`} /></a>}
+          {hasRealGallery && !buyUrl && <img id="gh-main" src={imgs[0]} alt={`${p.brand} ${p.model}`} />}
           {p.rating?.overall && <span class="gh-score">{p.rating.overall}<small>/10</small></span>}
         </figure>
         {imgs.length > 1 && (
@@ -181,14 +186,15 @@ const buyPulse = verdictScore >= 8.5
         <div class="sec-head"><h2>Compare with</h2></div>
         <div class="card-grid">
           {related.map((r: any) => (
-            <a class="card" href={`/${r.bay}/gear/${r.id}`}>
-              <div class="cimg"><img src={r.image} alt={`${r.brand} ${r.model}`} loading="lazy" /></div>
+            <article class="card commerce-card">
+              <a class="cimg" href={r.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={r.id}><img src={r.image} alt={`${r.brand} ${r.model}`} loading="lazy" /></a>
               <div class="cbody">
                 <span class="ctype">{r.brand}{r.rating?.overall ? ` · ${r.rating.overall}/10` : ''}</span>
-                <h3 style="font-size:1.05rem">{r.model}</h3>
+                <h3 style="font-size:1.05rem"><a href={r.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={r.id}>{r.model}</a></h3>
                 <span class="cmeta" style="color:var(--accent)">{r.price ? `~$${r.price.toLocaleString()}` : ''}</span>
+                <div class="commerce-actions"><a class="btn btn-primary" href={r.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={r.id}>Amazon</a><a class="btn" href={`/${r.bay}/gear/${r.id}`}>Specs</a></div>
               </div>
-            </a>
+            </article>
           ))}
         </div>
       </section>
@@ -214,6 +220,7 @@ const buyPulse = verdictScore >= 8.5
   .gear-hero { display: grid; grid-template-columns: 1fr 1.2fr; gap: 30px; margin: 18px 0 36px; align-items: start; }
   .gh-img { position: relative; border: 1px solid var(--line2); border-radius: 16px; overflow: hidden; margin: 0; aspect-ratio: 16/10; }
   .gh-img img { width: 100%; height: 100%; object-fit: contain; background:#fff; }
+  .gh-amazon-image { display: block; width: 100%; height: 100%; }
   .gh-left { display: flex; flex-direction: column; }
   .gh-hint { margin-top: 8px; color: var(--dimmer); font-size: .6rem; }
   .gh-score { position: absolute; top: 14px; right: 14px; font-family: var(--font-disp); font-weight: 800; font-size: 1.5rem; color: var(--accent); background: color-mix(in srgb, #ffffff 82%, transparent); border: 1px solid var(--accent); border-radius: 12px; padding: 6px 12px; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); box-shadow: 0 8px 22px rgba(15,23,42,.12); }
@@ -250,5 +257,9 @@ const buyPulse = verdictScore >= 8.5
   .review-pulse p { color: #475569; font-size: .84rem; line-height: 1.55; margin: 9px 0; }
   .review-pulse b { color: var(--txt); }
   .review-pulse a { display: inline-block; margin-top: 8px; font-family: var(--font-mono); font-size: .62rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+  .commerce-card { display: flex; flex-direction: column; }
+  .commerce-card h3 a { color: inherit; }
+  .commerce-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .commerce-actions .btn { padding: 8px 10px; font-size: .62rem; }
   @media (max-width: 880px) { .gear-hero, .gear-body { grid-template-columns: 1fr; } .proscons { grid-template-columns: 1fr; } }
 </style>

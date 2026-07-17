@@ -39,8 +39,8 @@ Verdict first: **for the overwhelming majority of racers, the right move is more
 Motion is the big-ticket dream. It's the photo that stops the scroll, the thing you point to when a friend asks what the crazy rig in the corner cost. It is also the single most regretted purchase in sim racing — not because good motion is bad, but because the wrong motion, bought before the cheaper immersion layers are in place, delivers a fraction of the feel for a mortgage payment of spend. This guide is the reckoning: what each axis actually simulates, what motion adds over the tactile you probably already own, and the order to spend so you never write the "I wish I'd known" post.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/nlr-motion-v3"><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a><figcaption>NLR Motion V3 — accessible, quiet 2DOF</figcaption></figure>
-  <figure><a href="/racing/gear/dof-reality-h3"><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a><figcaption>DOF Reality H3 — real 3DOF for similar money</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3"><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a><figcaption>NLR Motion V3 — accessible, quiet 2DOF</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3"><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a><figcaption>DOF Reality H3 — real 3DOF for similar money</figcaption></figure>
 </div>
 
 ## Which one for whom: the 60-second decision path
@@ -66,30 +66,24 @@ Before you spend, understand what you're buying per axis — because the marketi
 The regret-proof read: for a home sim-racing rig, **3DOF with a traction-loss axis is the sweet spot**. 2DOF is defensible if you race clean grip and value silence and polish; 6DOF is for people who don't ask what things cost.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-motion-v3"><span class="gp-tag">Accessible 2DOF</span><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3"><span class="gp-tag">Accessible 2DOF</span><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Motion platform · 2DOF (pitch + roll)</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-motion-v3">Next Level Racing Motion Platform V3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3">Next Level Racing Motion Platform V3</a></span>
     <p class="gp-why">The polished, quiet, best-supported way into seat motion — belt-driven, ~2-3hr install, bolts straight to NLR cockpits. Lovely for grip circuit racing. Just know 2DOF can't do the rear-stepping-out cue, and it costs the same as an H3 that can.</p>
     <span class="gp-price">~$2,999 (2DOF)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-motion-v3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-motion-v3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/dof-reality-h3"><span class="gp-tag">Do-it-right 3DOF</span><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3"><span class="gp-tag">Do-it-right 3DOF</span><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Motion platform · 3DOF (pitch + roll + traction-loss yaw)</span>
-    <span class="gp-name"><a href="/racing/gear/dof-reality-h3">DOF Reality H3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3">DOF Reality H3</a></span>
     <p class="gp-why">The value-motion pick r/simracing actually recommends when someone insists on motion. Real 3DOF — the yaw axis makes the rear end come alive — for roughly the same base price as a premium 2DOF. Less refined, more DIY, but you get the axis that matters. Upgrades toward HERO/traction-loss trims.</p>
     <span class="gp-price">~$2,999 base (3DOF)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/dof-reality-h3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/dof-reality-h3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -163,23 +157,25 @@ Motion is not a plug-and-play seat pad. Budget for the whole picture before you 
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/dof-reality-h3"><span class="gp-tag">Buy this for motion</span><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3"><span class="gp-tag">Buy this for motion</span><img src="/images/gear/racing/dof-reality-h3.jpg" alt="DOF Reality H3 3DOF motion platform" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value motion pick</span>
-    <span class="gp-name"><a href="/racing/gear/dof-reality-h3">DOF Reality H3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3">DOF Reality H3</a></span>
     <p class="gp-why">If you're spending motion money, spend it on the axis that matters. Real 3DOF with traction-loss yaw for roughly premium-2DOF price. More DIY, less polished than the NLR — but your hands will feel the rear end move, and that's the whole reason you wanted motion.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/dof-reality-h3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07KRJC2SV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dof-reality-h3">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-motion-v3"><span class="gp-tag">Buy this for polish</span><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3"><span class="gp-tag">Buy this for polish</span><img src="/images/gear/racing/nlr-motion-v3.jpg" alt="Next Level Racing Motion Platform V3 2DOF seat mover" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best turnkey / quiet 2DOF</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-motion-v3">Next Level Racing Motion Platform V3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3">Next Level Racing Motion Platform V3</a></span>
     <p class="gp-why">The polished, quiet, best-supported way into motion for the grip-circuit racer who values a clean install and apartment-friendly noise over the yaw axis. Bolts to NLR cockpits, refined software, genuinely lovely to live with.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-motion-v3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N7OI0OX?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-motion-v3">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Who should skip motion entirely

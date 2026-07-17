@@ -58,22 +58,7 @@ The numbers that matter:
 
 The classic trap is starving a big transducer. Underpower one and you'll get a unit that thumps for a while and then goes quiet or shuts down mid-stint. Match the amp to the shaker and the problem disappears. This is exactly why the plug-and-play route below exists: a bundle sidesteps the whole impedance-and-wattage puzzle.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Amp bundled</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer PRO tactile transducer with its 150W amplifier" loading="lazy"></a>
-
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile transducer · 150W amp bundled · verified</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer PRO</a></span>
-    <p class="gp-why">The shortcut past the underpowered-amp trap: a magnetic-suspension driver that hits harder than voice-coil shakers, and it ships with its own 150W amplifier (digital volume display, wireless remote, USB input) so you're not guessing at impedance matching. Its universal clamp fits round or square posts ~1 to 1.77 in, and it produces its effects even through headphones — so the room stays quiet while your spine doesn't. Runs on SimHub, or on ButtKicker's own HaptiConnect for a defaults-first setup.</p>
-    <span class="gp-price">~$200 (amp included)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## What you need: the tactile stack
 

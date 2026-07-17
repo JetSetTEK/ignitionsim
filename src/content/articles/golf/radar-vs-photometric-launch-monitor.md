@@ -39,10 +39,10 @@ Verdict first: **for a normal-to-shallow indoor room, buy photometric (a side-of
 Forget the marketing about data-point counts for a moment. Two units can both list "spin, launch, carry, club path" and arrive at those numbers in completely different ways — and one of those ways may not fit your garage. Let me walk you through it the way I would explain it to a friend standing in his half-finished basement.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 radar launch monitor" loading="lazy"></a><figcaption>Radar: reads flight from behind you</figcaption></figure>
-  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ photometric launch monitor" loading="lazy"></a><figcaption>Photometric: reads impact from the side</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 radar launch monitor" loading="lazy"></a><figcaption>Radar: reads flight from behind you</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ photometric launch monitor" loading="lazy"></a><figcaption>Photometric: reads impact from the side</figcaption></figure>
   <figure><a href="/golf/gear/rapsodo-mlm2pro"><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO fusion launch monitor" loading="lazy"></a><figcaption>Fusion: radar plus a synchronized camera</figcaption></figure>
-  <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro photometric launch monitor" loading="lazy"></a><figcaption>Photometric: tour-grade ball data in tight rooms</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro photometric launch monitor" loading="lazy"></a><figcaption>Photometric: tour-grade ball data in tight rooms</figcaption></figure>
 </div>
 
 ## The Room Decides the Tech, Not the Other Way Around
@@ -78,16 +78,13 @@ The defining trait — and the catch — is that radar sits behind the hitter an
 **Best when:** you have room depth, you want outdoor range use too, and budget is tight.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">The radar value pick</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 radar launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">The radar value pick</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 radar launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Doppler radar · needs depth behind you</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The cheapest credible path into real, sim-capable data. As a radar unit it wants several feet of depth behind you to read full ball flight, so it is happier in a deeper room or outdoors than crammed against a back wall. Give it the room and it sings; cram it into a closet and it guesses.</p>
     <span class="gp-price">~$600</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -102,30 +99,24 @@ The catch is lighting. These units capture rapid-fire images at impact, and flic
 **Best when:** you are indoors in a room of normal or shallow depth, you want strong indoor accuracy, and you can control the lighting.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">The photometric default</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ photometric launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">The photometric default</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ photometric launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Side-of-ball camera + radar · tight-room friendly</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The clearest case for why photometric wins indoors: it sits beside the ball and reads it at impact, so it does not need the depth radar demands. Pair that with no mandatory subscription and broad software support (GSPro, E6, TGC 2019) and it is the default recommendation for a normal-sized room.</p>
     <span class="gp-price">~$2,995 (often near $2,000 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Tour-grade ball data</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro photometric launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Tour-grade ball data</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro photometric launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">3-camera Foresight sensor · side of ball</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">The accuracy-first photometric play: it runs the same triple-camera Foresight sensor as the GC3 and reads ball data within about 2% of the GCQuad. It suits 12–15 ft deep rooms where rear radar will not fit — just run the total cost math, because full simulation and club data live behind annual subscriptions.</p>
     <span class="gp-price">~$2,499 (Circle B base)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -135,19 +126,7 @@ Worth its own note because it is where the budget tier is heading. **Fusion** un
 
 Fusion is the answer to "I want radar's affordability but I'm hitting indoors." It is a real improvement on pure radar in a room. It still respects the same depth instincts, though — fusion is not a magic pass into a closet-depth garage the way a true side-of-ball camera is.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">The budget fusion pick</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO fusion launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Dual cameras + Doppler radar · GSPro direct connect</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">The most data-rich portable unit under $1,000: dual cameras plus radar capture 15 metrics including measured spin with RPT balls, plus real swing-review video. It picked up official GSPro direct connect in 2025. Best when the room gives radar-fusion enough space; the premium features sit behind a subscription.</p>
-    <span class="gp-price">~$700 (lifetime premium ~$500 extra)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 ## Overhead Camera: Photometric, Pointed Down
 

@@ -35,7 +35,11 @@ const items = products
           </a>
           <div class="amazon-product-copy">
             <span>{product.brand}</span>
-            <h3>{product.model}</h3>
+            <h3>
+              <a href={product.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={product.id}>
+                {product.model}
+              </a>
+            </h3>
             {product.cons?.[0] && <p><b>Know first:</b> {product.cons[0]}</p>}
             <a class="amazon-product-buy" href={product.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={product.id}>
               View exact product on Amazon
@@ -127,6 +131,12 @@ const items = products
     font-size: 1.05rem;
     line-height: 1.18;
     letter-spacing: 0;
+  }
+  .amazon-product-copy h3 a {
+    color: inherit;
+    text-decoration-color: color-mix(in srgb, var(--accent) 62%, transparent);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
   }
   .amazon-product-copy p {
     margin: 0 0 14px;

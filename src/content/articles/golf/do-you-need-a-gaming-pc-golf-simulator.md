@@ -39,7 +39,7 @@ Verdict first: **for the three platforms most home builds run — GSPro, E6 Conn
 It is the debate that splits every simulator build thread in two: do you need a gaming PC, or can you get by with the laptop already on your desk? The honest answer sits in between, and the nuance matters because the wrong call costs you either a frustrating stutter on every drive or a few hundred dollars you did not need to spend. The good news for 2026 is that the bar has come down — the days of needing an i9 and a $1,600 graphics card to run a sim are over.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 all-in-one launch monitor and simulator" loading="lazy"></a><figcaption>The no-PC path: R50 runs the sim on-device</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 all-in-one launch monitor and simulator" loading="lazy"></a><figcaption>The no-PC path: R50 runs the sim on-device</figcaption></figure>
 </div>
 
 Here is what the major software actually demands, where you can stop spending, and who can skip the gaming PC entirely.
@@ -114,16 +114,13 @@ There is a real out for some buyers. The **Garmin Approach R50** (~$4,999) runs 
 The tradeoff is course depth and openness: an all-in-one gives you Garmin's ecosystem and setup simplicity, while a PC platform like GSPro gives you a bottomless, community-fed course library and connector flexibility. If your goal is data and casual play rather than deep course libraries, skipping the PC is a legitimate — if pricier and shallower — path. To pair the right sensor with the right brain for your goals, size the whole build with our [golf simulator cost breakdown](/golf/golf-simulator-cost) before you buy either half.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">Skip the PC entirely</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 all-in-one launch monitor and simulator" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">Skip the PC entirely</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 all-in-one launch monitor and simulator" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">3-camera · built-in 10" touchscreen sim · no external PC</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">The only consumer unit that <em>is</em> the PC — a full Home Tee Hero simulator on a 10-inch touchscreen, ready to hit in under a minute with no gaming rig to build or break. You pay a premium for the convenience and trade away GSPro's bottomless PC course library; for many buyers that's a fair deal. HDMI out drives a projector or TV when you build a bay, and it wants roughly 9–10 ft of ceiling for the overhead cameras.</p>
     <span class="gp-price">~$4,999</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -141,13 +138,14 @@ The tradeoff is course depth and openness: an all-in-one gives you Garmin's ecos
 This is a low-product-density decision — the "purchase" is mostly a parts list, not a single hero product. The one piece of hardware genuinely worth featuring is the no-PC escape hatch:
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor and built-in simulator" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor and built-in simulator" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best when your real enemy is setup friction</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">If you never want to build, patch, or troubleshoot a gaming PC, this is the answer — the simulator lives inside the launch monitor. You spend the PC money on the physical bay instead. Not the cheapest path and not the deepest course library, but the least friction of anything on the market.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 For the software itself, use the official pages rather than a marketplace listing: [GSPro](https://gsprogolf.com/), [E6 Connect (TruGolf)](https://trugolf.com/pages/e6-by-trugolf), and [Foresight FSX Play](https://www.foresightsports.com/). Free/lightweight practice apps ship bundled with several launch monitors and need no PC or subscription for range work.

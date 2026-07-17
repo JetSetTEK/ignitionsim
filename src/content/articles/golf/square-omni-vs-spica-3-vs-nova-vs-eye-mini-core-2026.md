@@ -64,7 +64,7 @@ The table deliberately avoids pretending every brand counts “data” the same 
   <figure><a href="/golf/gear/square-golf-omni"><img src="/images/gear/golf/square-golf-omni.jpg" alt="Square Golf Omni operating on turf" loading="lazy"></a><figcaption>Square Omni: the aggressive no-required-annual-fee play. <span class="source-credit">Real product photo · PlayBetter</span></figcaption></figure>
   <figure><a href="/golf/gear/golfjoy-spica-3"><img src="/images/gear/golf/golfjoy-spica-3.jpg" alt="GOLFJOY Spica 3 launch monitor front view" loading="lazy"></a><figcaption>Spica 3: three cameras, screen, battery, and club delivery. <span class="source-credit">Official GOLFJOY media</span></figcaption></figure>
   <figure><a href="/golf/gear/openlaunch-nova"><img src="/images/gear/golf/openlaunch-nova.jpg" alt="OpenLaunch Nova camera launch monitor on a golf mat" loading="lazy"></a><figcaption>Nova: the open-data builder's choice. <span class="source-credit">Official OpenLaunch media</span></figcaption></figure>
-  <figure><a href="/golf/gear/uneekor-eye-mini-core"><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor EYE MINI CORE photometric launch monitor" loading="lazy"></a><figcaption>EYE MINI CORE: ball data and the known Uneekor workflow. <span class="source-credit">Official Uneekor product media</span></figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="uneekor-eye-mini-core"><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor EYE MINI CORE photometric launch monitor" loading="lazy"></a><figcaption>EYE MINI CORE: ball data and the known Uneekor workflow. <span class="source-credit">Official Uneekor product media</span></figcaption></figure>
 </div>
 
 ## Why Square Omni is the value favorite, with one bright warning light
@@ -127,16 +127,13 @@ The compromise is explicit: **there is no club data in the base package.** Commu
 The second ownership issue is access cost. VIEW ball analysis is included, while advanced packages and third-party simulation can add subscriptions. Uneekor has changed package details over time, so verify the current tier required for the exact software you will run. The hardware is Amazon-exclusive in the United States, which creates a direct, returnable purchase route but less dealer hand-holding.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-mini-core"><span class="gp-tag">Known quantity</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor EYE MINI CORE" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="uneekor-eye-mini-core"><span class="gp-tag">Known quantity</span><img src="/images/gear/golf/uneekor-eye-mini-core.jpg" alt="Uneekor EYE MINI CORE" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Indoor photometric</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-mini-core">Uneekor EYE MINI CORE</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="uneekor-eye-mini-core">Uneekor EYE MINI CORE</a></span>
     <p class="gp-why">The direct Amazon path and established Uneekor software stack make this the lowest-anxiety purchase when accurate ball flight matters more than club delivery.</p>
     <span class="gp-price">$1,499 MSRP · check live price</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/uneekor-eye-mini-core">Inspect specs</a>
-      <a class="gp-buy" href="https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-event="buy_click">Amazon ↗</a>
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/uneekor-eye-mini-core">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="uneekor-eye-mini-core">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -242,42 +242,42 @@ If VR is the chosen view, move the display allocation to the headset, strap, PCV
 ## What Mac would buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Samsung Odyssey OLED G9"><span class="gp-tag">Best shared view</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9"><span class="gp-tag">Best shared view</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch 32:9 ultrawide</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Samsung Odyssey OLED G9">Samsung Odyssey OLED G9</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9">Samsung Odyssey OLED G9</a></span>
     <p class="gp-why">The lowest-friction way to make one desk feel broad in racing, trucking, flight and space. Measure the curve and GPU requirement before the dopamine reaches checkout.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Samsung Odyssey OLED G9">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CP6HW894?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Meta Quest 3 512GB"><span class="gp-tag">Best presence</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 512GB VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-512gb"><span class="gp-tag">Best presence</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 512GB VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PCVR and standalone VR</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Meta Quest 3 512GB">Meta Quest 3 512GB</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-512gb">Meta Quest 3 512GB</a></span>
     <p class="gp-why">Buy for depth and cockpit presence, not because it looks cheaper than a monitor. Comfort, charging, connection quality and the PC are all part of the bill.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Meta Quest 3 512GB">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-512gb">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="NaturalPoint TrackIR 5"><span class="gp-tag">Best no-headset tracking</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Best no-headset tracking</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">6DoF optical head tracking</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="NaturalPoint TrackIR 5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The comfort-first situational-awareness upgrade for flight, space and driving. Test for sunlight and reflective interference before blaming the tracker.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="NaturalPoint TrackIR 5">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0029M6VKA?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Elgato Stream Deck MK.2"><span class="gp-tag">Best shared control layer</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck family LCD macro controller" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-mk-2"><span class="gp-tag">Best shared control layer</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck family LCD macro controller" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">15-key app-aware control deck</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Elgato Stream Deck MK.2">Elgato Stream Deck MK.2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-mk-2">Elgato Stream Deck MK.2</a></span>
     <p class="gp-why">The rare panel that follows you from aircraft to spacecraft to pit lane. Its value comes from labels and profiles, so plan the pages instead of dumping every command onto one screen.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Elgato Stream Deck MK.2">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B09738CV2G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-mk-2">View exact product on Amazon</a></span>
   </div>
 </aside>
 

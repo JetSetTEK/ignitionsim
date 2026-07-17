@@ -84,22 +84,19 @@ Thrustmaster's SOL-R 2 is the product that made this topic hot because it answer
 That is the dream. The practical read: SOL-R 2 gives new space pilots a visible, sci-fi, retail-friendly dual-stick entry into six-degree flight. It is not the cheapest HOSAS and not the proven boutique darling, but it is coherent. You open one box and get two matching sticks designed for the job.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/thrustmaster-sol-r2-hosas"><img src="/images/article-proofs/space/sol-r/sol-r2-official-banner.webp" alt="Official Thrustmaster SOL-R 2 HOSAS image showing dual sticks in use" loading="lazy"></a><figcaption>SOL-R 2 in the intended dual-stick role</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas"><img src="/images/article-proofs/space/sol-r/sol-r2-official-banner.webp" alt="Official Thrustmaster SOL-R 2 HOSAS image showing dual sticks in use" loading="lazy"></a><figcaption>SOL-R 2 in the intended dual-stick role</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/sol-r2-gallery-angle-1.webp" alt="Thrustmaster SOL-R 2 dual joysticks official product angle" loading="lazy"><figcaption>Two matched sticks, one retail purchase</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/sol-r2-hall-effect-detail.webp" alt="Thrustmaster SOL-R 2 official detail image highlighting Hall-effect axis precision" loading="lazy"><figcaption>Hall-effect precision is the reason it matters</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-sol-r2-hosas"><span class="gp-tag">Space-first pick</span><img src="/images/gear/space/thrustmaster-sol-r2-hosas.webp" alt="Thrustmaster SOL-R 2 HOSAS Space Sim Duo product photo" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas"><span class="gp-tag">Space-first pick</span><img src="/images/gear/space/thrustmaster-sol-r2-hosas.webp" alt="Thrustmaster SOL-R 2 HOSAS Space Sim Duo product photo" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Dual-stick HOSAS · PC space sims</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-sol-r2-hosas">Thrustmaster SOL-R 2 HOSAS Space Sim Duo</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas">Thrustmaster SOL-R 2 HOSAS Space Sim Duo</a></span>
     <p class="gp-why">The cleanest retail answer if you want two matching sticks for Star Citizen, Elite Dangerous, and six-degree control without waiting on boutique stock. Buy it for the one-box HOSAS convenience, not because it magically avoids setup work.</p>
     <span class="gp-price">~$300-400 street/MSRP range; verify live price</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -114,22 +111,19 @@ SOL-R 4 swaps the second stick for a throttle and becomes the more traditional H
 The tradeoff is blunt: **SOL-R 4 is less space-native.** A throttle can control forward thrust beautifully, but it does not give your left hand the same lateral/vertical analog strafe language as HOSAS. You can bind around that. You cannot make it a second stick.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/thrustmaster-sol-r4-hotas"><img src="/images/article-proofs/space/sol-r/sol-r4-official-banner.webp" alt="Official Thrustmaster SOL-R 4 HOTAS image with stick and throttle in use" loading="lazy"></a><figcaption>SOL-R 4 sells the throttle cockpit fantasy</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas"><img src="/images/article-proofs/space/sol-r/sol-r4-official-banner.webp" alt="Official Thrustmaster SOL-R 4 HOTAS image with stick and throttle in use" loading="lazy"></a><figcaption>SOL-R 4 sells the throttle cockpit fantasy</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/sol-r4-gallery-angle-1.webp" alt="Thrustmaster SOL-R 4 HOTAS official product angle" loading="lazy"><figcaption>Stick plus throttle, not dual stick</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/sol-r4-gallery-angle-2.webp" alt="Thrustmaster SOL-R 4 HOTAS official throttle and stick detail" loading="lazy"><figcaption>Better for cruise, power, and aircraft habits</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-sol-r4-hotas"><span class="gp-tag">Crossover HOTAS</span><img src="/images/gear/space/thrustmaster-sol-r4-hotas.webp" alt="Thrustmaster SOL-R 4 HOTAS product photo" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas"><span class="gp-tag">Crossover HOTAS</span><img src="/images/gear/space/thrustmaster-sol-r4-hotas.webp" alt="Thrustmaster SOL-R 4 HOTAS product photo" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stick + throttle · PC flight/space crossover</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-sol-r4-hotas">Thrustmaster SOL-R 4 HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas">Thrustmaster SOL-R 4 HOTAS</a></span>
     <p class="gp-why">The SOL-R pick for pilots who want a physical throttle, fly Elite Dangerous like a cockpit, or jump between space and atmospheric sims. Less pure for Star Citizen combat, more comfortable for cruise-heavy flying.</p>
     <span class="gp-price">~$350-450 street/MSRP range; verify live price</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -144,22 +138,19 @@ The closest mainstream rival to SOL-R 4 is the [Turtle Beach VelocityOne FlightD
 The key correction: **FlightDeck is PC-only.** Do not confuse it with other VelocityOne products that support Xbox. The FlightDeck support page also notes it connects as separate stick and throttle devices, which is normal but relevant when you start troubleshooting bindings.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/turtle-beach-velocityone-flightdeck"><img src="/images/article-proofs/space/sol-r/velocityone-flightdeck-official-1.webp" alt="Turtle Beach VelocityOne FlightDeck official product image" loading="lazy"></a><figcaption>FlightDeck is the modern all-in-one HOTAS rival</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck"><img src="/images/article-proofs/space/sol-r/velocityone-flightdeck-official-1.webp" alt="Turtle Beach VelocityOne FlightDeck official product image" loading="lazy"></a><figcaption>FlightDeck is the modern all-in-one HOTAS rival</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/velocityone-flightdeck-official-2.webp" alt="Turtle Beach VelocityOne FlightDeck official angle showing stick and throttle" loading="lazy"><figcaption>Huge input count, PC-only setup</figcaption></figure>
   <figure><img src="/images/article-proofs/space/sol-r/velocityone-flightdeck-official-3.webp" alt="Turtle Beach VelocityOne FlightDeck official closeup with controls and lighting" loading="lazy"><figcaption>The control-surface fantasy is real, but software matters</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/turtle-beach-velocityone-flightdeck"><span class="gp-tag">FlightDeck rival</span><img src="/images/gear/space/turtle-beach-velocityone-flightdeck.webp" alt="Turtle Beach VelocityOne FlightDeck HOTAS product photo" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck"><span class="gp-tag">FlightDeck rival</span><img src="/images/gear/space/turtle-beach-velocityone-flightdeck.webp" alt="Turtle Beach VelocityOne FlightDeck HOTAS product photo" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PC-only HOTAS · touch/display-heavy cockpit</span>
-    <span class="gp-name"><a href="/space/gear/turtle-beach-velocityone-flightdeck">Turtle Beach VelocityOne FlightDeck</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck">Turtle Beach VelocityOne FlightDeck</a></span>
     <p class="gp-why">The flashy alternative to SOL-R 4 if you want a modern command surface with a massive input count. Compare live reviews carefully; the best version of this setup depends on the software behaving.</p>
     <span class="gp-price">~$400 MSRP; sales vary</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -249,67 +240,44 @@ Skip straight to VKB, WinWing, or Virpil and build exactly what you want. You ar
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-sol-r2-hosas"><span class="gp-tag">Buy for Star Citizen</span><img src="/images/gear/space/thrustmaster-sol-r2-hosas.webp" alt="Thrustmaster SOL-R 2 HOSAS Space Sim Duo boxless product image" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas"><span class="gp-tag">Buy for Star Citizen</span><img src="/images/gear/space/thrustmaster-sol-r2-hosas.webp" alt="Thrustmaster SOL-R 2 HOSAS Space Sim Duo boxless product image" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Dual-stick HOSAS · one retail box</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-sol-r2-hosas">Thrustmaster SOL-R 2 HOSAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas">Thrustmaster SOL-R 2 HOSAS</a></span>
     <p class="gp-why">Best SOL-R pick for Star Citizen combat, six-axis control, and pilots who want the spaceship left hand instead of a throttle.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Read spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-sol-r2-hosas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DMSTP1YG?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r2-hosas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-sol-r4-hotas"><span class="gp-tag">Buy for crossover</span><img src="/images/gear/space/thrustmaster-sol-r4-hotas.webp" alt="Thrustmaster SOL-R 4 HOTAS product image" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas"><span class="gp-tag">Buy for crossover</span><img src="/images/gear/space/thrustmaster-sol-r4-hotas.webp" alt="Thrustmaster SOL-R 4 HOTAS product image" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stick + throttle · Elite/DCS/MSFS friendly</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-sol-r4-hotas">Thrustmaster SOL-R 4 HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas">Thrustmaster SOL-R 4 HOTAS</a></span>
     <p class="gp-why">Best SOL-R pick if Elite Dangerous, DCS, MSFS, and throttle-first flying matter as much as space combat.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Read spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-sol-r4-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FWS2QKK3?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-sol-r4-hotas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/turtle-beach-velocityone-flightdeck"><span class="gp-tag">Compare before HOTAS</span><img src="/images/gear/space/turtle-beach-velocityone-flightdeck.webp" alt="Turtle Beach VelocityOne FlightDeck HOTAS product image" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck"><span class="gp-tag">Compare before HOTAS</span><img src="/images/gear/space/turtle-beach-velocityone-flightdeck.webp" alt="Turtle Beach VelocityOne FlightDeck HOTAS product image" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PC HOTAS · touchscreen/control-surface vibe</span>
-    <span class="gp-name"><a href="/space/gear/turtle-beach-velocityone-flightdeck">Turtle Beach VelocityOne FlightDeck</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck">Turtle Beach VelocityOne FlightDeck</a></span>
     <p class="gp-why">The obvious SOL-R 4 rival. Consider it if the HUD/touchscreen/control-surface concept is what makes you want to sit down and fly.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Read spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/turtle-beach-velocityone-flightdeck">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CPQ7RF6Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flightdeck">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Do not skip mounts</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount for HOTAS and HOSAS controls" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Mounting · the anti-regret accessory</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mounts</a></span>
-    <p class="gp-why">A good control set on a sliding desk base still feels cheap. Budget mounting early, especially for dual-stick HOSAS.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Read spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Fix the bind wall</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel for Star Citizen and Elite Dangerous bindings" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Fix the bind wall</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel for Star Citizen and Elite Dangerous bindings" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Macro panel · labeled command surface</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">No stick has enough buttons for every space-sim function. A labeled macro surface is often a better third purchase than fancier springs.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Read spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 

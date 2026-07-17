@@ -77,73 +77,25 @@ Nina's no-drama recommendation: **if the sim lives in a shallow garage, start wi
 
 ## Product Proof
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/square-golf-launch-monitor">
-    <span class="gp-tag">Best tight-room indoor</span>
-    <img src="/images/gear/golf/square-golf-launch-monitor.jpg" alt="Square Golf Launch Monitor with dotted ball, phone, and tablet display" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Photometric camera · side-of-ball · putting · token course model</span>
-    <span class="gp-name"><a href="/golf/gear/square-golf-launch-monitor">Square Golf Launch Monitor</a></span>
-    <p class="gp-why">Retailer documentation positions Square around $699, with side-of-ball photometric capture, putting and short-game support, 1,000 included course-play tokens, and GSPro/E6/Awesome Golf support without an extra Square fee. The killer move is room fit: no rear radar depth behind the ball. The caveat is that it is indoor-only and the ecosystem is younger than Garmin or SkyTrak.</p>
-    <span class="gp-price">Approx $699, verify live stock</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/square-golf-launch-monitor">Inspect specs</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for square-golf-launch-monitor. -->
 
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro">
-    <span class="gp-tag">Best video practice lab</span>
-    <img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO golf launch monitor with simulator screens" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Dual cameras + radar · RPT spin · Premium membership</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">Rapsodo's live product page lists dual optical cameras plus Doppler radar, 15 metrics with 8 measured metrics, simulation at 30,000+ courses, Impact Vision, Shot Vision, R-Cloud, Rapsodo Combine, and GSPro/E6/Awesome Golf compatibility. The official Premium page lists $199.99/year, $329.99/two years, and $599.99 lifetime. This is the best budget practice lab if you price the membership honestly.</p>
-    <span class="gp-price">Approx $599.99 sale price; Premium extra after trial</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">
     <span class="gp-tag">Best portable starter</span>
     <img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 portable golf launch monitor in carrying case" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">Rear radar · portable · up to 10-hour battery · Home Tee Hero path</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">Garmin's launch announcement anchors the R10 at a $599.99 suggested retail price, more than a dozen key metrics, Home Tee Hero over 42,000 courses through Garmin Golf Premium, E6 Connect compatibility, and up to 10 hours of battery life. That is why it is still the default travel/range answer. Indoors, the radar placement is the tax: it wants space behind the ball and ball flight to the net.</p>
     <span class="gp-price">MSRP $599.99, often discounted</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-og-launch-monitor">
-    <span class="gp-tag">Used bargain only</span>
-    <img src="/images/gear/golf/skytrak-og-launch-monitor.jpg" alt="Original SkyTrak launch monitor product photo with trial membership badge" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Indoor photometric · side-of-ball · older hardware · inspect first</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-og-launch-monitor">Used SkyTrak OG</a></span>
-    <p class="gp-why">SkyTrak's current product page still lists the original unit as an indoor photometric camera with carry, total, ball speed, back spin, side spin, descent angle, side angle, launch angle, and shot shape, plus a 4-hour battery, Wi-Fi Direct/network mode, Micro-USB, and a small hitting zone. That can be gold under $700. It can also be a support/account headache. Inspect it like you are buying a used sports car with firmware.</p>
-    <span class="gp-price">New sale/used pricing varies heavily</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-og-launch-monitor">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-og-launch-monitor. -->
 
 ## Room Fit Decides More Than Accuracy Claims
 

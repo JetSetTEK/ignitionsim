@@ -44,9 +44,11 @@ const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const allProducts = Object.values(prodMods).flatMap((mod: any) => (mod.default || mod)) as any[];
 const gearItems = allProducts
   .filter((product) => product.bay === bay.slug && hasVerifiedProductImage(product))
-  .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0))
+  .map((product) => ({ product, buyUrl: canonicalAmazonProductUrl(product, amazonTag) }))
+  .filter(({ buyUrl }) => buyUrl)
+  .sort((a, b) => (b.product.rating?.overall || 0) - (a.product.rating?.overall || 0))
   .slice(0, 8)
-  .map((product, index) => ({
+  .map(({ product, buyUrl }, index) => ({
     href: `/${bay.slug}/gear/${product.id}`,
     image: product.image || `/images/gear/${bay.slug}/${product.id}.jpg`,
     brand: product.brand,
@@ -55,7 +57,7 @@ const gearItems = allProducts
     type: product.type,
     whoFor: product.whoFor,
     summary: product.summary,
-    buyUrl: canonicalAmazonProductUrl(product, amazonTag),
+    buyUrl,
     tag: index === 0 ? 'Bench pick' : undefined,
   }));
 

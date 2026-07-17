@@ -49,7 +49,7 @@ Launch monitors get the screenshots. Mats and screens get the bruises. If the hi
 <div class="shotgrid">
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio golf simulator mat" loading="lazy"></a><figcaption>Fiberbuilt: joint comfort path</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-4x7-mat"><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4x7 hitting mat" loading="lazy"></a><figcaption>SIGPRO: soft hitting strip route</figcaption></figure>
-  <figure><a href="/golf/gear/country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: durable, firmer feel</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: durable, firmer feel</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>SIG10: polished enclosure path</figcaption></figure>
   <figure><a href="/golf/gear/carls-place-diy-enclosure"><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY enclosure" loading="lazy"></a><figcaption>Carl's DIY: flexible room fit</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-premium-impact-screen"><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="Premium golf impact screen" loading="lazy"></a><figcaption>Impact screen: bounceback and image quality</figcaption></figure>
@@ -87,45 +87,18 @@ Nina's shortcut: **if you practice often, comfort gets first veto.** Realism mat
 | Country Club Elite | Durability and firmer turf interaction | Fat shots can punish wrists/elbows for some players |
 | Replaceable hitting strip in stance mat | Custom comfort and lower long-term cost | DIY cutting and height matching |
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Joint saver</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy if comfort is priority one</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
-    <p class="gp-why">The safer default for frequent practice and players already worried about wrists, elbows, or tendonitis. The feel is not everyone's favorite, but comfort wins if you want the room used all year.</p>
-    <span class="gp-price">Premium hitting mat</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-4x7-mat. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-4x7-mat"><span class="gp-tag">Soft insert</span><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4x7 golf simulator mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy if you want comfort plus feedback</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-4x7-mat">SIGPRO 4x7 Mat</a></span>
-    <p class="gp-why">The soft-strip route many sim golfers discuss when joint pain becomes the deciding factor. Good for permanent rooms where the mat height and stance area can be dialed in.</p>
-    <span class="gp-price">Premium mat tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Spec card</a>
-
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/country-club-elite-mat"><span class="gp-tag">Durable feel</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><span class="gp-tag">Durable feel</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Buy with joint caveats</span>
-    <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Country Club Elite Mat</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">Country Club Elite Mat</a></span>
     <p class="gp-why">Durable and popular for realistic resistance, but forum reports are split on joint comfort. Great players may love the feedback; steep fat-shot practice can get spicy.</p>
     <span class="gp-price">Durable mat tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -135,19 +108,7 @@ Impact screens have two jobs that fight each other: look good for projection and
 
 Forum reports around bounceback are extremely useful because they separate showroom optimism from garage reality. The recurring fixes are practical: leave air behind the screen, avoid hard backing surfaces, pad frame edges, cover exposed pipe, avoid over-tightening, and angle or redirect hard surfaces toward the screen rather than back at the player.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-premium-impact-screen"><span class="gp-tag">Impact layer</span><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="Premium golf impact screen" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy for durability and projection</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">Premium Impact Screen</a></span>
-    <p class="gp-why">The screen is where image quality, noise, and bounceback collide. Buy the screen with the enclosure plan, not as a lonely rectangle.</p>
-    <span class="gp-price">Premium screen tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-premium-impact-screen">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-premium-impact-screen. -->
 
 ## Enclosure Rule: Exposed Pipe Is The Enemy
 
@@ -162,33 +123,9 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
   <figure><a href="/golf/gear/sig-landing-pad-turf"><img src="/images/gear/golf/sig-landing-pad-turf.jpg" alt="Golf simulator landing pad turf" loading="lazy"></a><figcaption>Landing turf: low-shot control</figcaption></figure>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">Flexible bay</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY Enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best DIY enclosure path</span>
-    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure</a></span>
-    <p class="gp-why">Good when you need room-specific sizing and a menu of practical safety add-ons. Budget for pipe kit, side protection, foam, and rear clearance from day one.</p>
-    <span class="gp-price">Varies by size and add-ons</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for carls-place-diy-enclosure. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Finished bay</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 Enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best polished enclosure path</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
-    <p class="gp-why">A cleaner, more finished room solution for buyers who want the bay to feel intentional. Confirm ceiling, screen width, projector throw, and side-miss protection before checkout.</p>
-    <span class="gp-price">Premium enclosure tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
 ## The Safety Checklist
 
@@ -203,35 +140,11 @@ The trickiest shots are not always center-screen drives. They are thinned bullet
 
 ## What To Buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-side-barrier-netting"><span class="gp-tag">Miss insurance</span><img src="/images/gear/golf/sigpro-side-barrier-netting.jpg" alt="SIGPRO side barrier netting" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">First safety add-on</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">Side Barrier Netting</a></span>
-    <p class="gp-why">If friends, family, kids, or one terrifying slice live near this room, side protection is not optional.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-side-barrier-netting. -->
 
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig-landing-pad-turf. -->
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig-landing-pad-turf"><span class="gp-tag">Low shot control</span><img src="/images/gear/golf/sig-landing-pad-turf.jpg" alt="Golf simulator landing pad turf" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Bounceback helper</span>
-    <span class="gp-name"><a href="/golf/gear/sig-landing-pad-turf">Landing Pad Turf</a></span>
-    <p class="gp-why">Helps the front of the bay look finished and gives low shots somewhere less chaotic to die.</p>
-
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-premium-impact-screen"><span class="gp-tag">Screen upgrade</span><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="Premium impact screen" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Projection and impact layer</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">Premium Impact Screen</a></span>
-    <p class="gp-why">Upgrade here when projection quality, noise, and repeated use matter. Install it with the right tension and rear clearance.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-premium-impact-screen. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 2, 2026. We checked Carl's Place impact-screen bounceback and foam-insert guidance, Carl's hitting mat guide, Golf Simulator Forum enclosure and mat threads, r/Golfsimulator bounceback/padding discussions, GolfWRX mat joint-pain discussions, MyGolfSpy's SIGPRO Softy review, and recent Golf Monthly enclosure coverage.

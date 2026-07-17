@@ -47,8 +47,8 @@ A traditional **HOTAS** — Hands On Throttle And Stick — was designed for air
 <div class="shotgrid">
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — the HOSAS building block (×2)</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a><figcaption>VKB Omni-Throttle — HOSAS off-hand answer</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Thrustmaster Warthog — the HOTAS reference</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — cheapest either way</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Thrustmaster Warthog — the HOTAS reference</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — cheapest either way</figcaption></figure>
 </div>
 
 ## HOSAS vs HOTAS, head to head
@@ -90,19 +90,7 @@ The honest pushback on HOSAS is: "I want a throttle. I like setting a cruise spe
 
 You have three options. First, a self-centering left stick where forward thrust springs back to zero — fine for combat, annoying for long hauls. Second, a non-centering or detented off-hand grip like the [VKB Gladiator NXT EVO Omni-Throttle](/space/gear/vkb-gladiator-nxt-evo-omni-throttle) (~$149), which puts a Gladiator stick on an omnidirectional adapter so your off hand strafes *and* holds a cruise position instead of springing back. Third — just keep a throttle. Nobody's stopping you from running stick + stick + throttle if you have the desk space and USB ports.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">The HOSAS throttle answer</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Off-hand controller · multi-axis thrust/strafe, holds position</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator NXT EVO Omni-Throttle</a></span>
-    <p class="gp-why">VKB's clever fix for the "I want a throttle but I fly HOSAS" itch. A Gladiator stick on an omnidirectional adapter, so your off hand strafes <em>and</em> holds a cruise position instead of springing back to zero. You keep analog lateral thrust and get set-and-forget speed — no wasted single-axis lever.</p>
-    <span class="gp-price">~$149</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-omni-throttle. -->
 
 The point is that HOSAS doesn't *delete* throttle control. It demotes it from a dedicated lever to one of eight axes you can assign however you like. If cruise control matters — as it does in Elite — you spend an axis on it. If it doesn't, you get that axis back for something else.
 
@@ -116,16 +104,13 @@ I'm an honest broker, so here's when you should *not* chase HOSAS:
 - **Cockpit immersion is the point.** If you want the A-10 throttle feel under your left hand because it *feels* like flying, that emotional payoff is real and no axis chart overrules it.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">When HOTAS wins</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><span class="gp-tag">When HOTAS wins</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-metal HOTAS · A-10C 1:1 replica, dual-throttle</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
     <p class="gp-why">The honest-broker exception to the HOSAS case. If you split time with DCS, this all-metal A-10 replica is the right tool for the aircraft — and forcing a second stick on it makes a worse plane setup. Note the catch the axis chart predicts: no twist axis, so for pure space it leaves two axes on buttons.</p>
     <span class="gp-price">~$500</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -136,32 +121,17 @@ The catch with HOSAS is symmetry — you need a left-hand stick, and not every g
 The budget on-ramp is two identical fully-mappable sticks. A [Thrustmaster T.16000M](/space/gear/thrustmaster-t16000m-fcs) (~$80 each, ~$160 the pair) is the canonical entry because it's genuinely ambidextrous — three removable parts swap it left or right — and its Hall-effect sensors don't drift. Step up and the boutique tier opens: a [VKB Gladiator NXT EVO Space Combat Edition](/space/gear/vkb-gladiator-nxt-evo-space-combat-edition) (~$119-139 per stick) adds magnetic sensors, a metal-internals gimbal, and a real upgrade ladder. The endgame is the tunable [VKB Gunfighter Mk.IV base](/space/gear/vkb-gunfighter-mk4-base) (~$289, base only) with adjustable cams, springs, and dampers, or a [Virpil VPC WarBRD-D](/space/gear/virpil-warbrd-d-base) (~$260, base only) with its adjustable clutch dampers. There's a full [three-brand boutique breakdown](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026) if you're choosing between VKB, Virpil, and WinWing.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Budget HOSAS on-ramp</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">Budget HOSAS on-ramp</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">HOSAS building block · ambidextrous, Hall-effect</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
     <p class="gp-why">The reason two-stick flying is cheap now. One genuinely ambidextrous stick reconfigures left or right, so two identical units make the canonical budget HOSAS — eight analog axes for the six a ship needs, for around $160 the pair. Light and plastic, but the Hall-effect sensors don't drift. Buy two and learn the left-hand thrusters.</p>
     <span class="gp-price">~$80 each (~$160 the pair)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Boutique first HOSAS</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Magnetic-sensor space stick · buy one L + one R</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">The step up from Thrustmaster into "real" boutique feel without boutique shock. Contactless magnetic sensors, a self-centering twist for the sixth axis, and dedicated left/right hands for a true HOSAS pair. It opens VKB's upgrade ladder to the Gunfighter tier — the safest first serious two-stick buy.</p>
-    <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip — the ambidextrous-stick trap</div>
@@ -189,19 +159,7 @@ Buying the sticks is the easy part. Three things trip up new two-stick pilots mo
   <p>Two sticks eat more desk than a stick-and-throttle, and light baseplates <em>slide</em> under hard combat input — a walking stick is a missed shot. A <a href="/space/gear/monstertech-table-mount">Monstertech table mount</a> per stick locks each one rigid at an ergonomic angle. A HOSAS needs two, and it needs the horizontal room for both hands to move independently. Measure your desk before you commit.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount it or lose it</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per stick</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for the sliding-baseplate problem that hits HOSAS harder than HOTAS — two loose sticks walk in opposite directions. Quick-release clamp, universal fit across VKB, Virpil, WinWing, and Thrustmaster. A HOSAS needs two; buy them with the sticks, not after your first firefight.</p>
-    <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## The buy order
 

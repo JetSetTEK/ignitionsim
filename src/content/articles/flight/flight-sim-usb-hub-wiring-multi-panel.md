@@ -60,16 +60,13 @@ Not every device is equal. Here's the rough hierarchy of what taxes your USB pow
 The takeaway: a yoke, throttle and pedals are easy. The moment **backlit panels** and **stacked panels** enter the build, your total current demand jumps, and a bus-powered hub can't keep up.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">The draw problem, boxed</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant with backlit autopilot annunciator panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><span class="gp-tag">The draw problem, boxed</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant with backlit autopilot annunciator panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant + autopilot panel · 14-light annunciator</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Bravo Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">Honeycomb Bravo Throttle Quadrant</a></span>
     <p class="gp-why">A perfect illustration of why plain USB struggles: the Bravo isn't just levers, it's a lit autopilot panel with a 14-light annunciator running its own controller. One is fine on a motherboard port; add it to a stack of WinWing panels on a bus-powered hub and the cumulative draw is what browns the whole tree out. Panels like this are the reason you size a powered hub.</p>
     <span class="gp-price">~$280</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">View exact product on Amazon</a></span>
   </div>
 </aside>
 

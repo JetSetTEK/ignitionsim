@@ -39,7 +39,7 @@ Verdict first: **for most new pilots the [WinWing Ursa Minor](https://winwingsim
 The single most expensive mistake a new space pilot makes is assuming a real two-stick rig requires boutique money. It does not. You can build a working **HOSAS** — Hands On Stick And Stick — for under $300, and for many pilots that rig is the *last* rig they ever need. If you're still deciding between two sticks and a stick-plus-throttle, read [HOSAS vs HOTAS](/space/hosas-vs-hotas) first — this guide assumes you've already decided two sticks is the goal.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick — the cheapest credible beginner HOSAS stick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — the ~$80 on-ramp</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick — the cheapest credible beginner HOSAS stick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — the ~$80 on-ramp</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick — the upgrade-path beginner HOSAS pick" loading="lazy"></a><figcaption>VKB Gladiator NXT EVO — the upgrade-path play</figcaption></figure>
 </div>
 
@@ -64,16 +64,13 @@ What you give up: it feels like an ~$80 stick because it is one. The springs are
 **Who should skip this:** anyone who already knows they want boutique feel and is willing to wait. Buying twin T.16000Ms and then twin Gladiators six months later costs more than just buying the Gladiators.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Cheapest real HOSAS</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">Cheapest real HOSAS</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Ambidextrous stick · Hall-effect, 16-bit · ~$80 each</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
     <p class="gp-why">It feels like an ~$80 stick because it is one — but it's the only stick this cheap with Hall-effect sensors that won't drift, and it flips left-handed for free. Buy two, learn whether you even like two-stick flying, upgrade later with zero regret.</p>
     <span class="gp-price">~$80 each (~$150-160 the pair)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -100,33 +97,9 @@ The Gladiator uses VKB's contactless magnetic gimbal in an all-metal mechanism t
 
 The cost: VKB's **VKBDevCfg** tuning software is powerful and intimidating, and the Gladiators sometimes sell out — grips routinely go out of stock for weeks. You're buying a platform, not just a controller.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Buy the ladder</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Boutique HOSAS stick · all-metal contactless gimbal · ~$119-139</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO "Space Combat Edition"</a></span>
-    <p class="gp-why">The cheapest stick you'll never have to throw away. The all-metal gimbal feels a clear tier above plastic, and the grips climb onto a Gunfighter base when you outgrow it. You're not buying a controller — you're buying the bottom rung of a real ladder.</p>
-    <span class="gp-price">~$119 Standard / ~$139 Premium (each)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Where the ladder leads</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable premium base · base only (grip separate)</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
-    <p class="gp-why">Not a beginner buy — but the reason the Gladiator is worth starting on. When you know exactly what feel you want to change, the Gladiator grips step onto this tunable base instead of into the trash. Buy it later, not now.</p>
-    <span class="gp-price">Base only · budget for a grip on top</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gunfighter-mk4-base. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -154,19 +127,7 @@ Map it to your honesty about your own commitment:
 
 Whatever you pick, budget for one thing this guide's prices don't include: **mounting**. Two loose sticks slide under combat input, and a Monstertech-style clamp arm is the standard fix. A HOSAS needs two.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount it or lose it</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per stick</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for the sliding-baseplate problem that every light stick here has. Quick-release clamp, universal across VKB, WinWing, and Thrustmaster. A HOSAS needs two — buy them with the sticks, not after your first firefight sends one skating across the desk.</p>
-    <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## The four traps nobody warns beginners about
 
@@ -202,34 +163,19 @@ Buying the sticks is the easy part. Four things trip up new HOSAS pilots more th
 
 ## What to buy: the beginner HOSAS stack
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Buy this first (if you're staying)</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The sticks · buy one L + one R</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
-    <p class="gp-why">The upgrade-path pick for a pilot who knows they're staying. Magnetic sensors, twist, and a clean climb to a Gunfighter base. If VKB is out of stock, the WinWing Ursa Minor Space pair is the in-stock alternative at a similar price — and the twin T.16000M pair is the cheapest way to start if you're still testing the waters.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Buy with the sticks</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The mounts · buy two</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
-    <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk mid-dogfight.</p>
-
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Add it when binds outgrow you</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Add it when binds outgrow you</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The bind fixer · optional, later</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Not a day-one beginner buy, but the pragmatic fix for the 200-bind problem no stick can solve. Labeled keys with folders for power, shields, gear, and comms — brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade once you're past the basics.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Verdict

@@ -69,19 +69,7 @@ The classic guide names the **BU0836A** (pin-header version, ~£33 / ~$42), whic
 
 If you'd rather not touch a soldering iron at all, the **BU0836X** below is the same Leo Bodnar interface with solderless push-in terminals — press the tab, push the wire in, done. It's the friendlier version of the identical recipe (same 8 axes, same 12-bit resolution, 32 buttons), and it's the one board in this build I can show you a verified photo of. It costs more (~£59.99 / ~$77) for the convenience.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">No-solder board</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8 analog axes · solderless</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836x-diy-board">Leo Bodnar BU0836X Joystick Interface</a></span>
-    <p class="gp-why">The same proven Leo Bodnar interface as the classic BU0836A, but with push-in wire terminals — no soldering iron needed. Eight analog axes plus 32 buttons cover twin throttles, wheel, thruster and a horn on one board. It's the whole Bridge Command recipe without solder; pricier than the BU0836A for the convenience. Ships from the UK.</p>
-    <span class="gp-price">~$77 (check current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bu0836x-diy-board. -->
 
 The **three 10k linear pots** map to the three things a small-ship helm needs: a port throttle, a starboard throttle, and the wheel itself. The Bridge Command guide is explicit that they must be **linear** taper, around 10k, and that the exact resistance value doesn't matter. You can use sliding or rotary pots — a slider is mechanically simpler, but a rotary makes a more convincing throttle lever.
 
@@ -120,16 +108,13 @@ The BU0836 is the no-code path — wire a pot, get an axis. If instead you want 
 The trade is effort for control: you write and calibrate a sketch instead of just wiring pins, and the Leonardo gives you 12 analog inputs to the BU0836's 8. But at the low end of the price range (a Pro Micro clone is a few dollars) it's the cheapest custom-controller foundation in the bay. Pick it if you'd rather write a sketch than buy a finished part. Board prices move around, so **check current** before you order.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Code-it route</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid"><span class="gp-tag">Code-it route</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Native USB HID · programmable</span>
-    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
     <p class="gp-why">The BU0836's flexible cousin. Its native USB and the open ArduinoJoystickLibrary make your pots and switches read as real axes and buttons — plus logic a fixed board can't do: software detents, button matrices, a combined helm and button box on one board. More work (you write the sketch) but full control, and the cheapest custom foundation in the bay via a Pro Micro clone.</p>
     <span class="gp-price">~$25 (check current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -40,8 +40,8 @@ Here's the upgrade nobody puts on their wishlist and everybody underestimates: *
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/desk-clamp"><img src="/images/gear/racing/desk-clamp.jpg" alt="Generic sim racing desk clamp mount" loading="lazy"></a><figcaption>Desk clamp — free, ~9Nm ceiling</figcaption></figure>
-  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a><figcaption>GT Omega Apex — entry cockpit</figcaption></figure>
-  <figure><a href="/racing/gear/nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a><figcaption>NLR GT Track — feature-rich mid-tier</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a><figcaption>GT Omega Apex — entry cockpit</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a><figcaption>NLR GT Track — feature-rich mid-tier</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro 8020 aluminum-profile rig" loading="lazy"></a><figcaption>Sim-Lab P1-X Pro — buy-once 8020</figcaption></figure>
 </div>
 
@@ -59,19 +59,7 @@ There are four rungs, and the right one is set by your base's torque, not your b
 
 The clamp that ships free with most entry bases is a real, legitimate mount — inside its limits. On a **solid wood or metal desk**, it holds a low-torque entry base cleanly. The failure isn't the clamp; it's the desk. A hollow particleboard top flexes and lifts even at 5Nm, while a genuinely sturdy desk carries a 5–8Nm base fine. That's why the **5Nm Fanatec CSL DD** and the **5.5Nm MOZA R5** are fair desk candidates and a 12Nm R12 is not.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/desk-clamp"><span class="gp-tag">Rung 1 · free</span><img src="/images/gear/racing/desk-clamp.jpg" alt="Generic sim racing desk clamp mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Desk/table clamp · ~9Nm practical ceiling</span>
-    <span class="gp-name"><a href="/racing/gear/desk-clamp">Desk Clamp</a></span>
-    <p class="gp-why">The no-cost mount included with most entry bases. Genuinely fine for a 5–8Nm base on a solid desk — the limit is the desk's rigidity, not the clamp. It flexes, creaks or pulls loose the moment you push past roughly 8–9Nm, so treat it as an entry-only mount.</p>
-    <span class="gp-price">Free with most entry bases</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/desk-clamp">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for desk-clamp. -->
 
 ### Rung 2 — The folding wheel stand (the apartment answer)
 
@@ -89,32 +77,26 @@ Be honest about the ceiling, though. Most foldable stands are validated for entr
 When your base clears the stand's comfort zone — or you simply want to sit properly for long stints — the first real cockpit is a **steel-tube bolt-down rig with a seat included.** It's a huge rigidity jump over a folding stand and a much friendlier price than 8020, and it handles belt-drive and lower-torque direct drive with ease. The tradeoff: steel tube is less stiff than aluminum profile at the top end, so a flagship 18Nm-plus base will eventually find its limits.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Rung 3 · entry cockpit</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Rung 3 · entry cockpit</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Steel-tube cockpit · seat included</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex Cockpit</a></span>
     <p class="gp-why">The honest first step past a folding stand: a complete bolt-down cockpit with the seat in the box, rigid enough for belt and lower-to-mid-torque DD. Heavy flagship racers will outgrow the steel tube, but for an entry-to-mid base it's a big rigidity jump at a friendly price.</p>
     <span class="gp-price">~$389</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 The mid-tier step within this rung adds features rather than raw stiffness. A rig like the **Next Level Racing GT Track** (~$699) is direct-drive capable across Thrustmaster, Logitech and Fanatec gear and throws in shifter, handbrake and ButtKicker mounts, a harness, and a path to bolt-on motion later. It's sturdier than a stand and more equipped than a bare entry cockpit, without being full aluminum extrusion.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-gt-track"><span class="gp-tag">Feature-rich mid-tier</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><span class="gp-tag">Feature-rich mid-tier</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Rigid cockpit · motion-upgrade ready</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-gt-track">Next Level Racing GT Track</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">Next Level Racing GT Track</a></span>
     <p class="gp-why">A feature-packed rigid cockpit that supports direct drive and pro pedals out of the box, with shifter, handbrake and ButtKicker mounts, a harness, and an upgrade path to NLR's Motion Platform V3. Not full 8020, but a well-rounded mid-tier rig for a racer who wants room to grow.</p>
     <span class="gp-price">~$699</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -124,33 +106,18 @@ The top rung is a cockpit built from **slotted aluminum extrusion that bolts tog
 
 Profile size is the spec that matters here, and it scales with torque. Mid-range rigs use **40x40mm and 40x80mm** extrusion; the stiffest rigs move to **40x120mm and 40x160mm** for zero perceptible flex under flagship 20Nm-plus torque. The rule the guides converge on: a good steel tube frame is fine to roughly 12Nm, but **at 15Nm and above, aluminum profile is the better choice** — and the biggest profiles are the standard for professional-grade direct drive.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Rung 4 · buy-once 8020</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum-profile rig" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8020 rig · 40x120 + 40x160mm profile, any flagship DD</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X Pro</a></span>
-    <p class="gp-why">The point where "buy once" actually starts. Its thick 40x120 and 40x160mm profile carries any flagship direct-drive base with no perceptible flex at the wheel mount, so it deletes the desk's lift problem permanently. It's a frame system — add a seat — but it's the last rig most people buy.</p>
-    <span class="gp-price">~$829 (frame)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 The value entry to this rung is the **Trak Racer TR80** (~$499–$699 frame-only, seat separate), widely called the best-value aluminum-profile rig. Its 80x40mm T-slot profile is far stiffer than the 40mm extrusion of cheaper 8020 rigs, and it'll carry a 17Nm Simucube 2 Sport — or even a 25Nm flagship — with no perceptible flex at the wheel mount.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Best-value 8020</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Best-value 8020</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">8020 rig · 80x40mm T-slot, 25Nm+</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">The value door into genuinely future-proof rigs. The thick 80mm profile is far more rigid than cheaper 40mm 8020, holding a 17Nm Simucube 2 Sport or a 25Nm flagship without flex — for roughly what a feature-rich steel cockpit costs. Frame only; add a seat.</p>
     <span class="gp-price">~$499–$699 (frame)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -211,23 +178,25 @@ If you're on a gamepad, a belt wheel, or a sub-5Nm entry bundle, **do not** rush
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Buy this first (entry-mid DD)</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Buy this first (entry-mid DD)</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex steel-tube cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value seated cockpit</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex Cockpit</a></span>
     <p class="gp-why">The right mount for most racers running a 5–12Nm base who want to sit properly. Seat in the box, big rigidity jump over a stand, friendly price. If you rent or need to stash it, a folding Next Level Racing Wheel Stand 2.0 (~$279) is the space-saving alternative for entry torque.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Buy this to buy once</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Buy this to buy once</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best-value future-proof 8020</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">If you're at 15Nm-plus or you want a frame you never replace, this is the value 8020 entry: 80mm profile, flagship-torque rigidity, roughly the price of a feature-rich steel cockpit. Step up to the Sim-Lab P1-X Pro's 120/160mm profile if you're running a 25Nm flagship.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

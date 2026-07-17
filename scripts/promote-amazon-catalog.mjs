@@ -19,7 +19,6 @@ const DENIED_AUTO_MATCHES = new Set([
   'logitech-rs-wheel',
   'meta-quest-3',
   'meta-quest-3-marineverse-vr',
-  'meta-quest-3s',
   'moza-es',
   'moza-ks-gt',
   'moza-srp-lite',
@@ -28,7 +27,6 @@ const DENIED_AUTO_MATCHES = new Set([
   'rapsodo-mlm2pro',
   'thrustmaster-t598',
   'thrustmaster-tca-quadrant-airbus',
-  'thrustmaster-tca-sidestick-airbus',
 ]);
 
 // Manually opened and title-checked on Amazon.com. These overrides either add
@@ -46,14 +44,23 @@ const MANUAL_EXACT = {
   'bushnell-launch-pro': ['B0FYR5FMFF', 'Bushnell Launch Pro i Circle B Edition'],
   'logitech-g-pro-flight-yoke-system': ['B01M00OQBE', 'Logitech G PRO Flight Yoke System'],
   'thrustmaster-tca-quadrant-airbus': ['B086J7D78J', 'Thrustmaster TCA Quadrant Airbus Edition'],
+  'thrustmaster-tca-sidestick-airbus': ['B0BG3DH3GW', 'Thrustmaster TCA Sidestick Airbus X Edition'],
   'thrustmaster-tpr-rudder': ['B07DQY8LVC', 'Thrustmaster TPR Pendular Rudder Pedals'],
   'meta-quest-3': ['B0DDWH41HB', 'Meta Quest 3 512GB'],
   'meta-quest-3-marineverse-vr': ['B0DDWH41HB', 'Meta Quest 3 512GB'],
+  'meta-quest-3s': ['B0DDJZW3C9', 'Meta Quest 3S 256GB'],
+  'pimax-crystal-super': ['B0GQYT4CGH', 'Pimax Crystal Super 50 PPD VR Headset'],
   'nlr-gt-track': ['B07KFY7TKC', 'Next Level Racing GTTrack Simulator Cockpit'],
+  'gt-omega-apex': ['B07HM6DR81', 'GT Omega APEX Steering Wheel Stand'],
+  'fanatec-gt-dd-pro': ['B0FBGYPD49', 'Fanatec Gran Turismo DD Pro'],
   'samsung-odyssey-oled-g9-49': ['B0DQD7548D', 'Samsung Odyssey G9 OLED 49-inch Curved 240Hz Gaming Monitor'],
   'samsung-odyssey-neo-g9-57': ['B0CDQM55C9', 'Samsung 57-inch Odyssey Neo G9 G95NC Dual 4K Gaming Monitor'],
   'thrustmaster-mfd-cougar-pack': ['B002HH9TRY', 'Thrustmaster MFD Cougar Flight Sim Multi-Function Display Set'],
   'thrustmaster-t16000m-space-duo': ['B076XKZML8', 'Thrustmaster T.16000M FCS Space Sim Duo'],
+  'vkb-t-rudder-mk4': ['B01G6GT4A8', 'VKB T-Rudder Mk.IV Flight Simulator Pedals'],
+  'flightscope-mevo-gen2': ['B0FK8M3VLB', 'FlightScope Mevo Gen2 Golf Launch Monitor'],
+  'foresight-gc3': ['B0GKQJP29N', 'Foresight Sports GC3S Launch Monitor'],
+  'raildriver-ship-throttle': ['B0002APWXS', 'RailDriver USB Desktop Train Cab Controller'],
   'elgato-stream-deck-mk2': ['B09738CV2G', 'Elgato Stream Deck MK.2'],
 };
 

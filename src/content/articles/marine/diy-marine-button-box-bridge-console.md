@@ -57,16 +57,13 @@ You have two clean choices for the controller board, and the decision is effort 
 The **Pro Micro** is the value king. Its ATmega32u4 chip has native USB, so with the open-source [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary) (LGPL-3.0, actively maintained) it presents to Windows as a real HID joystick — your switches show up as buttons, your encoders as inputs, no extra drivers. Clones sell for a few dollars, so it's the cheapest custom-controller foundation there is. The catch is you write a sketch and calibrate. See [the Arduino-as-helm gear page](/marine/gear/arduino-leonardo-diy-hid) for the full board rundown — the Leonardo and Pro Micro share the same chip and the same library.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Value king</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid"><span class="gp-tag">Value king</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Programmable DIY · native USB HID</span>
-    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
     <p class="gp-why">Same ATmega32u4 brain as the Pro Micro clone, and the cheapest way to make a wall of switches and encoders read as a real controller. Worth it for the code flexibility alone — a sketch can turn a latching toggle into a clean single press, which the no-code boards can't. You write the sketch and build the hardware around it.</p>
     <span class="gp-price">~$25 (Pro Micro clone from ~$5)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -74,19 +71,7 @@ The **Leo Bodnar boards** are the no-code shortcut: wire your switches to the te
 
 If you'd rather never touch a soldering iron, the **BU0836X** is the same interface with push-in terminals — strip a wire, push it in — for £59.99 (~$77). That's the board I can show you a verified photo of, and it's the friendlier version of the same recipe.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">No-code, no-solder</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8 analog axes + 32 buttons · solderless</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836x-diy-board">Leo Bodnar BU0836X Joystick Interface</a></span>
-    <p class="gp-why">The zero-IDE, zero-solder answer, and the smart pick if you're already running a DIY helm — your throttle pots and your bridge switches can share one board. Eight axes plus 32 buttons cover twin throttles, wheel, thruster and a switch panel at once. Pricier than the solder-it-yourself BU0836A, and it ships from the UK.</p>
-    <span class="gp-price">~$77</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bu0836x-diy-board. -->
 
 For a button box specifically — lots of switches, no analog axes needed — a Pro Micro is the cheapest smart pick. For a *combined* helm-plus-buttons console where you also want throttle and wheel axes, a BU0836-series board's analog inputs earn their keep on one board.
 
@@ -139,19 +124,7 @@ Total build time is realistically **two evenings** — one to fabricate and moun
 
 The button box earns its keep in the deepest titles. **Professional Ship Simulator** (rebranded from Nautic XP, unveiled by Aerosoft and SWE Systems in April 2026, targeting Steam Early Access in 2026) advertises a fully interactive cockpit with **100+ mappable buttons** — practically an invitation to build a full console, where every one of those buttons is a function you'd otherwise hunt for on a keyboard. It also added a rudder deadzone option aimed at HOTAS/controller rigs, a sign the developer is designing for builders' hardware. (Its exact axis count and final Early Access window are still shifting — the live Steam page currently reads "Early Access finished in mid of 2027" — so treat specifics as *check current*.) If that's your target sim, plan the button box and the helm together; [the Professional Ship Simulator hardware setup guide](/marine/professional-ship-simulator-2026-hardware-setup) walks the full rig.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/professional-ship-simulator-context"><span class="gp-tag">Where it pays off</span><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Steam Early Access · 2026</span>
-    <span class="gp-name"><a href="/marine/gear/professional-ship-simulator-context">Professional Ship Simulator (ex-Nautic XP)</a></span>
-    <p class="gp-why">Not hardware — the sim most likely to reward a full bridge console. A fully interactive cockpit with 100+ mappable buttons and a rudder deadzone option for HOTAS/controller rigs means your button box maps to real ship systems instead of gathering dust. Early Access, so expect launch caveats; price not yet announced.</p>
-    <span class="gp-price">Price TBD · wishlist on Steam</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for professional-ship-simulator-context. -->
 
 Planning the physical desk layout for a multi-part console alongside a wheel and throttle is also exactly what [the Rig Configurator](/racing/configurator) is for — it thinks in terms of one shared base you reuse, which is the right mental model for a bridge you build in pieces.
 
@@ -159,19 +132,7 @@ Planning the physical desk layout for a multi-part console alongside a wheel and
 
 If you want a full bridge panel of switches, knobs and encoders but don't want to solder or write code, the digital-only **Leo Bodnar BBI-32** is the companion board to a BU0836. Solderless push-in terminals take **32 switches or up to 16 encoders** (chainable rotary switches reach as many as 132 inputs), so it handles a complete panel — nav lights, horn, autopilot, anchor, engine-room toggles — while a BU0836 handles any analog axes. It's plug-and-play HID with no drivers. The honest caveat: it has no analog inputs at all, so it complements a BU0836 rather than replacing it, and it ships from the UK.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bbi-32-button-box-interface"><span class="gp-tag">Bridge switch panel</span><img src="/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg" alt="Leo Bodnar BBI-32 Button Box Interface" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Digital-only · 32 inputs, no solder</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bbi-32-button-box-interface">Leo Bodnar BBI-32 Button Box Interface</a></span>
-    <p class="gp-why">The solderless digital workhorse for a bridge console's switches, knobs and encoders. Push-in terminals, 32 inputs (chainable to 132), plug-and-play HID, no drivers. No analog axes, so it pairs with a BU0836 for throttles and wheel rather than replacing it.</p>
-    <span class="gp-price">~$53</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bbi-32-button-box-interface. -->
 
 ## Buy order: what to get, in what order
 

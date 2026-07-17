@@ -39,9 +39,9 @@ Verdict first: **buy the [Meta Quest 3S](/flight/gear/meta-quest-3s) (from $349.
 Put a headset on for the first time and the hobby changes. Lean forward to peek at threshold lights through thinning fog, or twist to check your mirror on the exit of a corner, and you understand instantly why people put up with the cables, the setup tax and the frame-rate hit. But "changes the hobby" is not the same as "right for you at this price." The three trade-offs that decide every VR purchase in 2026 are **clarity, comfort, and value** — and no single headset wins all three. Here's the honest ranking, the exact GPU each one needs, and who should buy which.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/meta-quest-3s"><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a><figcaption>Meta Quest 3S — best value ($349.99)</figcaption></figure>
-  <figure><a href="/racing/gear/meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 standalone and PCVR headset" loading="lazy"></a><figcaption>Meta Quest 3 — best all-rounder ($599.99)</figcaption></figure>
-  <figure><a href="/flight/gear/pimax-crystal-super"><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Super — clarity king (3840x3840)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s"><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a><figcaption>Meta Quest 3S — best value ($349.99)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 standalone and PCVR headset" loading="lazy"></a><figcaption>Meta Quest 3 — best all-rounder ($599.99)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super"><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Super — clarity king (3840x3840)</figcaption></figure>
   <figure><a href="/flight/gear/bigscreen-beyond-2"><img src="/images/gear/flight/bigscreen-beyond-2.jpg" alt="Bigscreen Beyond 2 lightweight micro-OLED headset" loading="lazy"></a><figcaption>Bigscreen Beyond 2 — comfort champion (107g)</figcaption></figure>
 </div>
 
@@ -69,30 +69,24 @@ The [Quest 3S](/flight/gear/meta-quest-3s) is the honest answer to "should I eve
 Step up to the [Quest 3](/racing/gear/meta-quest-3) at $599.99 and you get the thing that matters most for sim: **sharper pancake lenses, a higher-resolution display (2064x2208 per eye) and a wider field of view.** That's the difference between squinting at an FMC and just reading it. Both run identical PCVR links, both are standalone, and either is happy on an RTX 5070-class card — the lowest GPU bar in this guide.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/meta-quest-3s"><span class="gp-tag">Best value</span><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s"><span class="gp-tag">Best value</span><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Standalone + PCVR · from $349.99</span>
-    <span class="gp-name"><a href="/flight/gear/meta-quest-3s">Meta Quest 3S</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s">Meta Quest 3S</a></span>
     <p class="gp-why">The cheapest way to find out whether sim VR is for you, and a genuinely good standalone headset if it isn't. Fresnel lenses make small gauges a stretch — but the wow is real and the GPU bar is the lowest here.</p>
     <span class="gp-price">$349.99 (128GB)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/meta-quest-3s">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/meta-quest-3s">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/meta-quest-3"><span class="gp-tag">Best all-rounder</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 standalone and PCVR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><span class="gp-tag">Best all-rounder</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 standalone and PCVR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Standalone + PCVR · $599.99</span>
-    <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The extra $250 over the 3S buys the pancake optics, the higher resolution and the wider view — exactly the things that let you read instruments instead of squinting at them. The sensible VR default for sim.</p>
     <span class="gp-price">$599.99 (512GB)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -110,32 +104,26 @@ Now the honesty the sticker doesn't carry. At ~$1,783 it is not an impulse buy, 
 <img src="/images/infographics/best-vr-headset-for-sim-2026-2.svg" alt="The GPU each headset really needs" loading="lazy">
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/pimax-crystal-super"><span class="gp-tag">Clarity king</span><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super"><span class="gp-tag">Clarity king</span><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PCVR · 3840x3840 per eye · ~50 PPD</span>
-    <span class="gp-name"><a href="/flight/gear/pimax-crystal-super">Pimax Crystal Super</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super">Pimax Crystal Super</a></span>
     <p class="gp-why">The 2026 resolution benchmark — gauges finally in focus, no base stations thanks to inside-out tracking. The catch is written in silicon: it wants an RTX 5090 to look as good as it costs.</p>
     <span class="gp-price">~$1,783</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/pimax-crystal-super">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/pimax-crystal-super">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 If the Crystal Super's price or GPU demand is a bridge too far, the [Pimax Crystal Light](/racing/gear/pimax-crystal-light) (~$899, 2880x2880 per eye over native DisplayPort) is the same clarity philosophy one rung down — staggering in MSFS 2024, happy on an RTX 5080, and the pragmatic clarity pick for people who aren't running a 5090.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/pimax-crystal-light"><span class="gp-tag">Clarity, one rung down</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><span class="gp-tag">Clarity, one rung down</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PCVR · 2880x2880 per eye · DisplayPort</span>
-    <span class="gp-name"><a href="/racing/gear/pimax-crystal-light">Pimax Crystal Light</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">Pimax Crystal Light</a></span>
     <p class="gp-why">The Crystal clarity story on an RTX 5080 budget instead of a 5090 one. Native DisplayPort, no compression, and the sensible high-clarity pick if the Super is out of reach.</p>
     <span class="gp-price">~$899</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -145,19 +133,7 @@ Weight is the complaint that ends more long VR sessions than anything else. A ha
 
 The trade is setup tax and total cost. The Beyond 2 is $1,019 (or $1,219 for the eye-tracking **2e**), but it is a pure PCVR headset that **requires SteamVR base stations and controllers, sold separately** — so the real out-the-door price is meaningfully higher than the sticker, and setup involves mounting lighthouses. It also wants an RTX 5080-class GPU to drive comfortably. Buy it when comfort over hours is the priority you're optimizing for and you're not allergic to a base-station install.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/bigscreen-beyond-2"><span class="gp-tag">Comfort champion</span><img src="/images/gear/flight/bigscreen-beyond-2.jpg" alt="Bigscreen Beyond 2 lightweight micro-OLED headset" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">PCVR · micro-OLED · 107 grams</span>
-    <span class="gp-name"><a href="/flight/gear/bigscreen-beyond-2">Bigscreen Beyond 2</a></span>
-    <p class="gp-why">The lightest PCVR headset made, with micro-OLED blacks that win night flying. It disappears on your face over long sessions — just remember the base stations and controllers aren't in the box.</p>
-    <span class="gp-price">$1,019 ($1,219 w/ eye-tracking 2e)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/bigscreen-beyond-2">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for bigscreen-beyond-2. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -198,34 +174,28 @@ If you fly **long IFR procedures** where crisp instrument text for hours is the 
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/meta-quest-3s"><span class="gp-tag">Start here</span><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s"><span class="gp-tag">Start here</span><img src="/images/gear/flight/meta-quest-3s.jpg" alt="Meta Quest 3S standalone VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Try VR without the risk</span>
-    <span class="gp-name"><a href="/flight/gear/meta-quest-3s">Meta Quest 3S</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s">Meta Quest 3S</a></span>
     <p class="gp-why">$349.99, standalone or PCVR, lowest GPU bar in this guide. The right first VR purchase for almost everyone — answer the "is this for me" question before you spend more.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/meta-quest-3s">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3s">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/pimax-crystal-super"><span class="gp-tag">Buy this for clarity</span><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super"><span class="gp-tag">Buy this for clarity</span><img src="/images/gear/flight/pimax-crystal-super.jpg" alt="Pimax Crystal Super high-resolution PCVR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">If you have the RTX 5090</span>
-    <span class="gp-name"><a href="/flight/gear/pimax-crystal-super">Pimax Crystal Super</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super">Pimax Crystal Super</a></span>
     <p class="gp-why">The sharpest sim VR of 2026 — every gauge readable, no base stations. Only worth it once the GPU can feed it, but when it can, nothing else looks like this.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/pimax-crystal-super">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-super">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/bigscreen-beyond-2"><span class="gp-tag">Buy this for comfort</span><img src="/images/gear/flight/bigscreen-beyond-2.jpg" alt="Bigscreen Beyond 2 lightweight micro-OLED headset" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">For long, comfortable sessions</span>
-    <span class="gp-name"><a href="/flight/gear/bigscreen-beyond-2">Bigscreen Beyond 2</a></span>
-    <p class="gp-why">107 grams of micro-OLED that disappears over a long flight. Buy it when hours-long comfort is your priority — and budget the base stations that aren't in the box.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for bigscreen-beyond-2. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product/store pages and current 2026 pricing rather than repeating launch-day specs, and paraphrased community consensus in our own words.

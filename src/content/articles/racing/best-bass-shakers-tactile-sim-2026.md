@@ -55,8 +55,8 @@ Ask anyone who's added tactile to their rig what they think of it and you'll get
 </figure>
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/dayton-bst-1"><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a><figcaption>Dayton BST-1 — best first shaker (50W)</figcaption></figure>
-  <figure><a href="/racing/gear/nlr-hf8"><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a><figcaption>NLR HF8 — best plug-and-play</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1"><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a><figcaption>Dayton BST-1 — best first shaker (50W)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8"><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a><figcaption>NLR HF8 — best plug-and-play</figcaption></figure>
   <figure><a href="/racing/gear/buttkicker-gamer-plus"><img src="/images/gear/racing/buttkicker-gamer-plus.jpg" alt="ButtKicker Gamer Plus tactile transducer and amp" loading="lazy"></a><figcaption>ButtKicker Gamer Plus — bundled 90W</figcaption></figure>
   <figure><a href="/racing/gear/buttkicker-gamer-pro"><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro tactile transducer and 150W amp" loading="lazy"></a><figcaption>ButtKicker Gamer Pro — most punch</figcaption></figure>
   <figure><a href="/racing/gear/fosi-ht4s"><img src="/images/gear/racing/fosi-ht4s.jpg" alt="Fosi Audio HT4S multi-channel tactile amplifier" loading="lazy"></a><figcaption>Fosi HT4S — the amp you can't skip</figcaption></figure>
@@ -109,16 +109,13 @@ If you're building the DIY route, **start with the [Dayton Audio BST-1](/racing/
 The catch is the one every bare transducer shares: **it does nothing on its own.** You supply the amp (see the Fosi below), a second audio output, and ten minutes in SimHub's ShakeIt tab. Do that, and a two-BST-1 build punches so far above its ~$110-in-shakers price that it embarrasses hardware costing five times as much. **Who it's for:** the builder who wants maximum feel per dollar and doesn't mind wiring an amp.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/dayton-bst-1"><span class="gp-tag">Best first shaker</span><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1"><span class="gp-tag">Best first shaker</span><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Tactile transducer · 50W RMS · 4Ω</span>
-    <span class="gp-name"><a href="/racing/gear/dayton-bst-1">Dayton Audio BST-1</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1">Dayton Audio BST-1</a></span>
     <p class="gp-why">The value benchmark the whole community points newcomers to. Buy two, bolt them to the seat rails, add an amp and SimHub, and you've out-punched gear costing five times as much. Just don't forget it needs an amp to breathe.</p>
     <span class="gp-price">~$55 each (50W RMS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/dayton-bst-1">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/dayton-bst-1">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -128,19 +125,7 @@ Every DIY tactile build lives or dies on the amplifier, and in 2026 the recurrin
 
 The amp is the piece nobody sells sim racers as part of a bundle, and the piece that turns a bare Dayton or ButtKicker Mini into an actual effect instead of a buzz. Buy it once, wire it once, and it drives your whole tactile ambition — one shaker today, four next month. **Who it's for:** anyone going the transducer route who wants room to grow past a single shaker.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fosi-ht4s"><span class="gp-tag">The essential amp</span><img src="/images/gear/racing/fosi-ht4s.jpg" alt="Fosi Audio HT4S multi-channel tactile amplifier" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile amplifier · 30W×4 + 60W×1 · Class-D</span>
-    <span class="gp-name"><a href="/racing/gear/fosi-ht4s">Fosi Audio HT4S</a></span>
-    <p class="gp-why">The missing half of every bass-shaker build. Four independent channels mean seat shakers and a pedal-deck pair on separate outputs, so front and rear effects stay separate. The built-in bass boost is tuned like it was made for transducers.</p>
-    <span class="gp-price">~$145 (4.1 channel)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fosi-ht4s">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fosi-ht4s. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -154,16 +139,13 @@ Not everyone wants to wire an amp and drill mounts — and if you rent, run a ba
 The honest trade is punch. Eight small motors give you *position* — you can feel which corner lost grip — but not the chest-thumping low-end slam of a bolted transducer. That's the deal: you swap ultimate feel for zero-hassle install and apartment-friendly volume. For a huge number of buyers that's exactly the right trade. **Who it's for:** apartment/quiet-house racers and anyone who wants tactile working today, not next weekend.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-hf8"><span class="gp-tag">Best plug-and-play</span><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8"><span class="gp-tag">Best plug-and-play</span><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-in-one haptic pad · 8 motors · USB</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-hf8">Next Level Racing HF8</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8">Next Level Racing HF8</a></span>
     <p class="gp-why">The no-wiring, no-amp, no-bolts tactile answer. Eight motors give you positional feedback, it runs through SimHub like the transducers do, and it's quiet enough for an apartment. You trade raw slam for a ten-minute install — a great deal for most people.</p>
     <span class="gp-price">~$179–199 (8 motors)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-hf8">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-hf8">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -173,33 +155,9 @@ ButtKicker pioneered this whole category, and its Gamer line is the answer for p
 
 The **[ButtKicker Gamer Plus](/racing/gear/buttkicker-gamer-plus) (~$280)** pairs a compact transducer with a 90W RMS amp — plenty for a single-seat build and a clean step up from the pad route. The **[ButtKicker Gamer Pro](/racing/gear/buttkicker-gamer-pro) (~$380)** steps the transducer up and bundles a beefier **150W RMS amp**, which is the one you want if your seat is heavy or your rig is a big 8020 frame that eats energy before it reaches your body. Both still run through SimHub for the good telemetry effects. **Who they're for:** buyers who want transducer-grade feel with bundle simplicity, and don't mind paying a premium over the raw-Dayton route for it.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-plus"><span class="gp-tag">Bundled 90W</span><img src="/images/gear/racing/buttkicker-gamer-plus.jpg" alt="ButtKicker Gamer Plus tactile transducer and amp" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Transducer + amp bundle · 90W RMS @ 2Ω</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-plus">ButtKicker Gamer Plus</a></span>
-    <p class="gp-why">Real transducer punch with none of the amp-shopping. Transducer and a matched 90W amp in one box, SimHub-ready. The sweet spot for a single-seat build that wants more slam than a pad without going full DIY.</p>
-    <span class="gp-price">~$280 (90W bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-plus">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-plus. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Most punch, one box</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro tactile transducer and 150W amp" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Transducer + amp bundle · 150W RMS @ 2Ω</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer Pro</a></span>
-    <p class="gp-why">The bundle for heavy seats and big 8020 rigs that swallow energy before it reaches you. A stronger transducer and a 150W amp in the box — the most slam you can get without wiring your own components.</p>
-    <span class="gp-price">~$380 (150W bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## DIY transducer vs all-in-one pad: the real decision
 
@@ -277,23 +235,25 @@ If you rent, race late at night, or simply don't want to wire anything, **skip t
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/dayton-bst-1"><span class="gp-tag">Buy this first (DIY)</span><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1"><span class="gp-tag">Buy this first (DIY)</span><img src="/images/gear/racing/dayton-bst-1.jpg" alt="Dayton Audio BST-1 tactile bass shaker" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value tactile</span>
-    <span class="gp-name"><a href="/racing/gear/dayton-bst-1">Dayton BST-1 ×2 + Fosi HT4S</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1">Dayton BST-1 ×2 + Fosi HT4S</a></span>
     <p class="gp-why">Two BST-1 shakers on the seat rails, a Fosi HT4S driving them, SimHub doing the telemetry. Under ~$260 all-in and it punches like gear five times the price. The builder's answer.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/dayton-bst-1">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01CDDPJTI?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="dayton-bst-1">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-hf8"><span class="gp-tag">Buy this if you rent</span><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8"><span class="gp-tag">Buy this if you rent</span><img src="/images/gear/racing/nlr-hf8.jpg" alt="Next Level Racing HF8 haptic gaming pad" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best plug-and-play tactile</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-hf8">Next Level Racing HF8</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8">Next Level Racing HF8</a></span>
     <p class="gp-why">Ten-minute install, no amp, no bolts, quiet enough for an apartment, real SimHub telemetry feedback. The no-hassle default when you don't want a project.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-hf8">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0F6MW4RZH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-hf8">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

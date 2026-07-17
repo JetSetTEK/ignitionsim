@@ -40,10 +40,10 @@ Verdict first: **you cannot fly a helicopter with a yoke, and you do not need to
 MSFS 2024 did what its predecessor never properly did: it made helicopters a first-class part of the sim, with a flight model that punishes sloppy hands and rewards a settled hover. The first thing every fixed-wing simmer learns is that a gorgeous [Honeycomb yoke](/flight/gear/honeycomb-alpha-yoke) is *useless* here. A helicopter has no yoke. It has three controls — cyclic, collective and anti-torque pedals — that you work simultaneously, all the time, in a constant balancing act. Get the hardware mapping right and a twitchy, unflyable helicopter usually becomes controllable in the same session.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition used as a helicopter cyclic" loading="lazy"></a><figcaption>Cyclic — a precise center-sprung stick</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition used as a helicopter collective" loading="lazy"></a><figcaption>Collective — a throttle lever that stays parked</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition used as a helicopter cyclic" loading="lazy"></a><figcaption>Cyclic — a precise center-sprung stick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition used as a helicopter collective" loading="lazy"></a><figcaption>Collective — a throttle lever that stays parked</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals for the anti-torque axis" loading="lazy"></a><figcaption>Pedals — the anti-torque axis you can't skip</figcaption></figure>
-  <figure><a href="/flight/gear/moza-mtq-throttle-quadrant"><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant as a modular collective lever" loading="lazy"></a><figcaption>MTQ — a modular collective alternative</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant"><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant as a modular collective lever" loading="lazy"></a><figcaption>MTQ — a modular collective alternative</figcaption></figure>
 </div>
 
 ## The three controls, and what each one does
@@ -77,16 +77,13 @@ The sweet spot is a **precise Hall-effect stick** as the cyclic, a **throttle-qu
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Collective · budget favorite</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Collective · budget favorite</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant as collective · contactless H.E.A.R.T sensors</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
     <p class="gp-why">The community's go-to collective substitute. It was built as an Airbus airliner throttle, but one lever maps cleanly to the COLLECTIVE AXIS, the tension holds it parked where you leave it, and the contactless sensors never wear. At around $100 it is the cheap, precise way to give a helicopter a real up-and-down power lever.</p>
     <span class="gp-price">~$100 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -95,16 +92,13 @@ For the cyclic, a compact all-in-one stick works too, and it's the friendliest f
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Cyclic · all-in-one starter</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><span class="gp-tag">Cyclic · all-in-one starter</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cyclic stick · integrated twist rudder, OLED display</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
     <p class="gp-why">A console-friendly cyclic you can fly on day one. 27 programmable buttons, an OLED status screen and a built-in twist-rudder mean no extra gear to start. It's plastic-heavy and a touch better on PC than Xbox, but for a first helicopter cyclic it gets you hovering fast — add dedicated pedals when the twist axis frustrates you.</p>
     <span class="gp-price">~$130 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -127,16 +121,13 @@ The single most helicopter-specific piece of your rig is whatever gives you an u
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/moza-mtq-throttle-quadrant"><span class="gp-tag">Collective · modular</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant"><span class="gp-tag">Collective · modular</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Modular throttle quadrant · swappable lever packs</span>
-    <span class="gp-name"><a href="/flight/gear/moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
     <p class="gp-why">A compact, reconfigurable quadrant whose lever doubles neatly as a collective — park one lever with tension and bind it to the collective axis. It brings 23 controls and a real gear lever in a small body, so the same base flies jets one night and helicopters the next. Non-removable flap detents are the one knock for rotary use.</p>
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -152,21 +143,7 @@ The single most helicopter-specific piece of your rig is whatever gives you an u
 
 Your feet never stop working in a helicopter, so pedals matter more here than anywhere in fixed-wing. The metal, drift-proof step up is the Honeycomb Charlie; below it sit honest budget and combat options.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Anti-torque · metal step-up</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Rudder pedals · aluminum frame, Hall-effect sensors</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Aeronautical Charlie Rudder Pedals</a></span>
-    <p class="gp-why">The pedals that make constant anti-torque work feel precise instead of fatiguing. An aluminum frame, Hall-effect sensors that don't drift, adjustable foot angle and a tension knob you can loosen for the light, always-moving feel a hover wants. Pricier than the Logitech entry, but for a control you're on every second, you feel where the money went.</p>
-    <span class="gp-price">~$270 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 The budget and specialist pedals below are text-and-link only because we haven't verified their exact product photos:
 
@@ -214,39 +191,29 @@ Skip dedicated helicopter hardware if you fly **mostly fixed-wing** and just wan
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Start here · cyclic</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Start here · cyclic</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cyclic · precise magnetic-sensor stick</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">A cheap, drift-free stick whose contactless H.E.A.R.T sensors hold the rock-solid center a hover demands. Bind it to the cyclic axes, add a -30% curve, and you have the most important helicopter control sorted for around $80.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Add this · collective</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Add this · collective</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Collective · a parked throttle lever</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant</a></span>
     <p class="gp-why">The community's favorite collective substitute. One lever binds to COLLECTIVE AXIS, holds its position with tension, and gives a helicopter the up-and-down power control a fixed-wing throttle can't. Under $100 and the piece that makes rotary flying click.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Don't skip · pedals</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anti-torque · the control you're on constantly</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Charlie Pedals</a></span>
-    <p class="gp-why">The one place not to economize. Smooth, linear, drift-proof pedals turn constant anti-torque work from a wrist-cramping twist-rudder chore into precise footwork — and they upgrade your fixed-wing landings too. Start on the ~$180 Logitech pedals if the budget's tight, but land here.</p>
-
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 ## Verdict
 

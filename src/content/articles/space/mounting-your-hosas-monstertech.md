@@ -44,7 +44,7 @@ This is the mounting problem, and it's unique to **HOSAS**. A single stick or a 
 
 <div class="shotgrid">
   <figure><a href="/space/gear/monstertech-table-mount"><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick / HOTAS table mount" loading="lazy"></a><figcaption>Monstertech mount — the universal standard fix</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — the stick that slides most</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — the stick that slides most</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — compact base, wants a mount</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil VPC WarBRD-D base" loading="lazy"></a><figcaption>Virpil WarBRD-D — heavy, but still creeps under hard input</figcaption></figure>
 </div>
@@ -71,19 +71,7 @@ That's what an aluminum clamp arm does. The stick's base bolts to the arm; the a
 
 The arms also do a second thing that matters more than people expect: they let you **set the angle** — and drop the sticks lower. Two sticks flat on a desk force your wrists into an unnatural splay at desktop height. Mounted on arms, you can cant each stick inward, tilt it back, and lower it toward your lap so your wrists sit neutral, which is the difference between a forty-minute session and an hour-six session. Reviewers who've lived with these mounts consistently make the same point: dropped below desk height and center-mounted rather than off to the side, the placement starts to feel like a real cockpit and your brain stops fighting the throw angles.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">The standard fix</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech Joystick / HOTAS Table Mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum clamp mount · quick-release</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Joystick / HOTAS Desk Mount</a></span>
-    <p class="gp-why">The de-facto community standard. CNC aluminum arms feed lateral combat force into your desk instead of a friction joint that's about to lose, so the stick simply does not move. The BESSEY quick-release clamp bites tabletops from roughly 0.5&ndash;10cm thick, and the mounting plate gives infinitely variable height so you can drop each stick to where your wrists rest. Universal fit across VKB, Virpil, WinWing, Thrustmaster, Logitech and more. A HOSAS needs two — a buy-once item.</p>
-    <span class="gp-price">~$129 each (verify current — frequent sales)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## Monstertech vs Foxx Mount vs Virpil: which clamp arm?
 
@@ -121,34 +109,19 @@ Both work. The choice is ergonomic preference.
 There's a temptation to think mounting is an enthusiast concern — that if you bought twin **Thrustmaster T.16000M** sticks you can skip it. The opposite is true. Light plastic sticks slide *more* than heavy metal ones, so a budget HOSAS benefits from mounting even more than a VKB or Virpil rig. Even a heavy [Virpil WarBRD-D](/space/gear/virpil-warbrd-d-base) base creeps under hard input eventually; a light T.16000M base walks in minutes.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">The stick that needs this most</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">The stick that needs this most</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Budget HOSAS stick · light plastic base</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
     <p class="gp-why">The cheapest credible HOSAS stick (~$80 each) — and the one that walks across your desk fastest, because a light plastic base has the least weight resisting lateral force. The good news: light sticks don't need the heaviest-duty arms, so a budget pilot spends proportionally less on the mount. Just don't skip it — a $160 twin-T.16000M pair with no mounts is the worst-value combination there is.</p>
     <span class="gp-price">~$80 each (~$160 the pair)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 Budget the mount as part of the rig, not as an upgrade. I treat it as a non-negotiable line item in [the best beginner HOSAS setup under $300](/space/best-beginner-hosas-under-300). And if you're spending up into boutique gear, the case only gets stronger — the [VKB Gladiator's](/space/gear/vkb-gladiator-nxt-evo-space-combat-edition) compact base and any tunable [Gunfighter Mk.IV](/space/gear/vkb-gunfighter-mk4-base) rig deserve a rigid mount as much as the cheap sticks do.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Boutique base, same rule</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable premium base · base only</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
-    <p class="gp-why">If you climb to a tunable all-metal base, don't imagine the weight exempts you. A Gunfighter pair still slides under hard input, and its heavier combat grips make an ergonomic, canted, lowered mount position <em>more</em> valuable, not less. The same aluminum arm that steadies a T.16000M steadies this — the bolt pattern is covered by Monstertech's universal plates.</p>
-    <span class="gp-price">~$289 base only (grip separate)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gunfighter-mk4-base. -->
 
 ## The setup checklist
 
@@ -177,53 +150,40 @@ Mounting isn't a late-game upgrade. It slots in right beside the sticks:
 
 ## What to buy: the HOSAS mounting stack
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Buy two — one per stick</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The mounts · buy two for a HOSAS</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Desk Mount ×2</a></span>
-    <p class="gp-why">The safe default: widest compatibility, proven build, quick-release clamp, infinitely variable height. One per stick, locked rigid and canted to your wrists. If you want to spend less, the US-made Foxx Mount is the budget modular alternative; if you're all-Virpil, the steel VPC Desk Mount V4 matches your bases.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">The sticks that need it most</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">The sticks that need it most</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Budget HOSAS pair</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
     <p class="gp-why">If you're on a budget, these light plastic sticks are exactly the ones a mount rescues. Buy two ambidextrous sticks and two mounts together — the pairing turns the cheapest credible HOSAS into a stable one.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">The other thing you'll want</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">The other thing you'll want</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Once your sticks are rigid, the next HOSAS headache is the 200-plus binds no stick has buttons for. A labeled macro panel solves it with icon-driven keys and folders — and it clamps to nothing, so it pairs with any mounted rig. A bigger quality-of-life jump than a fancier base for a new pilot.</p>
     <span class="gp-price">~$250 (15-key MK.2 ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 Flying atmospheric sims too? The same mounting logic applies to a HOTAS — a heavy [Thrustmaster HOTAS Warthog](/space/gear/thrustmaster-hotas-warthog) throttle and stick both benefit from a clamp arm, and Monstertech's mounts are built for exactly that stick-plus-throttle pairing (two mounts, same as a HOSAS).
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">HOTAS crossover</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><span class="gp-tag">HOTAS crossover</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-metal HOTAS · stick + dual throttle</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
     <p class="gp-why">If you split time with DCS, the mounting problem doesn't skip you — a heavy all-metal stick and dual-throttle still slide and still benefit from a lowered, angled clamp position. A HOTAS wants two mounts (one stick, one throttle), same math as a HOSAS. The universal Monstertech plates cover the Warthog directly.</p>
     <span class="gp-price">~$500 (mounts separate)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">View exact product on Amazon</a></span>
   </div>
 </aside>
 

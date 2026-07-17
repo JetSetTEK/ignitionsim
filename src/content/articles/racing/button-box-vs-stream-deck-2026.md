@@ -82,16 +82,13 @@ If you land on the Stream Deck side, the model matters more than people expect, 
 Early in 2026 Elgato also announced the **Stream Deck + XL**, expanding the XL to 36 buttons and adding a touch strip plus six dials — the most button-plus-dial hardware Elgato has shipped, and worth watching if you want everything on one panel. Check current availability rather than assuming it's on shelves.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Max keys, all visible</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL with 32 customizable LCD keys" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Max keys, all visible</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL with 32 customizable LCD keys" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stream Deck XL · 32 LCD keys · PC/Mac</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The screen-racer's answer to "I have more functions than buttons." Thirty-two labelled, icon-driven keys plus folders for effectively unlimited binds, and deep SimHub telemetry so keys change colour with the car's state. Skip it if you race in VR — you'll never see it. For triples or a single screen, it's the flexible pick.</p>
     <span class="gp-price">~£230 / ~$250</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 

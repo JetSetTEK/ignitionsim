@@ -111,11 +111,32 @@
     "verification": "existing exact-product evidence in repository",
     "verifiedAt": "2026-07-17"
   },
+  "fanatec-gt-dd-pro": {
+    "asin": "B0FBGYPD49",
+    "title": "Fanatec Gran Turismo DD Pro",
+    "url": "https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
   "fanatec-mclaren": {
     "asin": "B0F4XSJ8PH",
     "title": "Fanatec CSL Elite Officially Licensed McLaren GT3 v2 Sim Racing Steering Wheel – Analog Paddles, Magnetic Shifters, Multi-Position Switches, OLED Display for PC, Xbox Series X|S, Xbox One",
     "url": "https://www.amazon.com/dp/B0F4XSJ8PH?tag=ignitionsim-20",
     "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "flightscope-mevo-gen2": {
+    "asin": "B0FK8M3VLB",
+    "title": "FlightScope Mevo Gen2 Golf Launch Monitor",
+    "url": "https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "foresight-gc3": {
+    "asin": "B0GKQJP29N",
+    "title": "Foresight Sports GC3S Launch Monitor",
+    "url": "https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   },
   "garmin-approach-r10": {
@@ -136,6 +157,13 @@
     "asin": "B0B6CQ2LQ2",
     "title": "Govee RGBIC Gaming Light Bars H6047",
     "url": "https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "gt-omega-apex": {
+    "asin": "B07HM6DR81",
+    "title": "GT Omega APEX Steering Wheel Stand",
+    "url": "https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20",
     "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   },
@@ -199,6 +227,13 @@
     "asin": "B0DDWH41HB",
     "title": "Meta Quest 3 512GB",
     "url": "https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
+  "meta-quest-3s": {
+    "asin": "B0DDJZW3C9",
+    "title": "Meta Quest 3S 256GB",
+    "url": "https://www.amazon.com/dp/B0DDJZW3C9?tag=ignitionsim-20",
     "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   },
@@ -321,11 +356,25 @@
     "verification": "existing exact-product evidence in repository",
     "verifiedAt": "2026-07-17"
   },
+  "pimax-crystal-super": {
+    "asin": "B0GQYT4CGH",
+    "title": "Pimax Crystal Super 50 PPD VR Headset",
+    "url": "https://www.amazon.com/dp/B0GQYT4CGH?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
   "pxn-cb1-button-box": {
     "asin": "B0DKNW88FN",
     "title": "PXN CB1 Sim Racing Button Box for PC, 19 Controls (9 Input Types) | Up to 30 Programmable Functions, RGB Backlit Simulator Control Panel for Racing, Truck & Farming Simulators",
     "url": "https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20",
     "verification": "exact brand and model token match in Amazon product results",
+    "verifiedAt": "2026-07-17"
+  },
+  "raildriver-ship-throttle": {
+    "asin": "B0002APWXS",
+    "title": "RailDriver USB Desktop Train Cab Controller",
+    "url": "https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   },
   "sabrent-powered-usb-hub": {
@@ -440,6 +489,13 @@
     "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   },
+  "thrustmaster-tca-sidestick-airbus": {
+    "asin": "B0BG3DH3GW",
+    "title": "Thrustmaster TCA Sidestick Airbus X Edition",
+    "url": "https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
+    "verifiedAt": "2026-07-17"
+  },
   "thrustmaster-tca-yoke-boeing": {
     "asin": "B09DPYHM55",
     "title": "Thrustmaster TCA Yoke & Quadrant Boeing Edition Flight Pack - XBOX & PC | 787 Dreamliner replica, pendular motion, throttle unit with autopilot, metal build, 35 action buttons, 2 extra axes, for MSFS",
@@ -515,6 +571,13 @@
     "title": "Uneekor EYE MINI CORE",
     "url": "https://www.amazon.com/dp/B0FPHVNCQ7?tag=ignitionsim-20",
     "verification": "existing exact-product evidence in repository",
+    "verifiedAt": "2026-07-17"
+  },
+  "vkb-t-rudder-mk4": {
+    "asin": "B01G6GT4A8",
+    "title": "VKB T-Rudder Mk.IV Flight Simulator Pedals",
+    "url": "https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20",
+    "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
   }
 }

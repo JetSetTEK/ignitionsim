@@ -38,8 +38,8 @@ Verdict first: **for almost everyone drowning in space-sim binds, the answer is 
 A VKB Gladiator has around 20 buttons. A [Virpil Constellation ALPHA](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026), loaded as it is, gets you maybe 40. Star Citizen has over 200 bindable actions — and the game's *full* action list runs far higher once you count mining, salvage, FPS, vehicles, and emotes — while Elite Dangerous isn't far behind once you add exploration and ship-launched-fighter controls. The math doesn't close. No flight stick made holds the full bind list, which is why the community's standard answer isn't a bigger stick — it's a labeled button box beside it.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a><figcaption>Stream Deck XL — the 32-key default</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-mfd-cougar-pack"><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack physical button panels" loading="lazy"></a><figcaption>Thrustmaster MFD Cougar — cheap physical buttons</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a><figcaption>Stream Deck XL — the 32-key default</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack"><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack physical button panels" loading="lazy"></a><figcaption>Thrustmaster MFD Cougar — cheap physical buttons</figcaption></figure>
 </div>
 
 ## Why a button box specifically
@@ -79,16 +79,13 @@ Elgato's lineup splits by key count and whether it has dials. For space sims the
 My honest recommendation for most pilots is the **32-key XL**. Fifteen keys forces constant folder-paging, which defeats the "glance and press" point. Thirty-two keys is enough to keep flight systems, modes, and the UI layer each on a visible cluster. The **dials on the Stream Deck +** are genuinely useful for analog-ish jobs like shield-pip balancing, throttle nudging, or zoom, so if those matter to you the + is worth considering. The new-for-2026 **Stream Deck + XL** (36 keys, 6 dials, a touch strip) is the maximalist option if you want everything on one surface — but it's $350, and most pilots don't need it. The 15-key **MK.2** is fine if budget or desk space is tight and you accept paging.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">The sweet spot</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">The sweet spot</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Macro panel · 32 labeled LCD keys, nested folders</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The pragmatic fix for the 200-bind problem. Thirty-two custom-iconed keys keep flight systems, roles, and the UI layer each on a visible cluster, and folders give effectively unlimited binds. It only sends keystrokes — not analog axes — so bind everything to a keyboard key in-game first, then point the Deck at it. List is $249.99 but it's frequently seen closer to $190 at retail; check current price before you buy.</p>
     <span class="gp-price">~$200-250 (often ~$190 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -136,16 +133,13 @@ A Stream Deck's keys are flat LCDs — no toggle switches, no covered missile-gu
 - **Full DIY on an Arduino.** An Arduino Pro Micro or Leonardo (they're functionally the same HID board) flashed as a joystick lets you build a completely custom panel — a common build runs ~24 inputs mixing toggles, momentaries, encoders, and LED feedback. There's an active community of Star Citizen-themed builds with guides. Most effort, most personal.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-mfd-cougar-pack"><span class="gp-tag">The cheap physical-button route</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack"><span class="gp-tag">The cheap physical-button route</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cockpit panels · 2 bezels, 48 programmable buttons</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack (2 panels)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack (2 panels)</a></span>
     <p class="gp-why">If you'd rather have tactile buttons framing your monitor than a glowing LCD grid, this is the value play: two F-16 bezel panels, 48 plug-and-play buttons, backlit, no software. Dated and all-plastic, with no labels of its own — you supply the legend — but the value-per-button is hard to beat for offloading targeting and ship-system keys. Note the name is misleading: these are button bezels, not screens.</p>
     <span class="gp-price">~$90-110</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -180,23 +174,25 @@ Buying the box is the easy part. Two things trip up new button-box pilots more t
 ## What to buy: the button-box stack
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Buy this first</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Buy this first</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The core · 32 labeled LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The default button box for space sims. Labeled, color-coded, reactive with the free Elite and Star Citizen plugins, and folders for unlimited binds. If you want dials, drop to the 8-key Stream Deck + (~$180); if budget's tight, the 15-key MK.2 (~$150) with folder pages still works.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-mfd-cougar-pack"><span class="gp-tag">Add for tactile buttons</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack"><span class="gp-tag">Add for tactile buttons</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The physical layer · 48 buttons, two panels</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a></span>
     <p class="gp-why">The cheapest way to add real tactile buttons framing your monitor. Plug-and-play, backlit, 48 keys for around $90-110. Pair it with the Stream Deck — the Deck runs the reactive systems layer, the Cougar handles the buttons you like to press by hand.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 For the switch-and-rotary crowd, the **Leo Bodnar BBI-32** wired interface or a **DIY Arduino build** are the physical routes. The BBI-32 has no exact verified Amazon listing, so it receives no purchase CTA; its official technical page remains in the research receipts.

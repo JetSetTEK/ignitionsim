@@ -55,8 +55,8 @@ The dream is not the receipt. The dream is walking into the room after dinner, t
 ![Luxury golf simulator room budget stack infographic](/images/infographics/golf/luxury-golf-simulator-room-build-25000-2026-budget-stack.svg)
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 golf launch monitor" loading="lazy"></a><figcaption>R50: luxury convenience and no-PC workflow</figcaption></figure>
-  <figure><a href="/golf/gear/foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3 launch monitor" loading="lazy"></a><figcaption>GC3: serious data without full commercial spend</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 golf launch monitor" loading="lazy"></a><figcaption>R50: luxury convenience and no-PC workflow</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3 launch monitor" loading="lazy"></a><figcaption>GC3: serious data without full commercial spend</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 enclosure and impact screen" loading="lazy"></a><figcaption>SIG10: turnkey enclosure backbone</figcaption></figure>
   <figure><a href="/golf/gear/benq-ak700st"><img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST golf simulator projector" loading="lazy"></a><figcaption>AK700ST: 4K projector value in the premium lane</figcaption></figure>
 </div>
@@ -66,16 +66,13 @@ The dream is not the receipt. The dream is walking into the room after dinner, t
 The $15K build should feel premium, not custom. Think [Garmin R50](/golf/gear/garmin-approach-r50) or [GC3](/golf/gear/foresight-gc3), a finished enclosure, a strong 1080p/entry-4K projector, and a real mat. This is where many homeowners should stop. It is the point where the room can feel polished without requiring contractor-level theater work.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC luxury</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC luxury</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Premium room brain</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">The cleanest luxury-room workflow if your goal is fewer devices and more family-friendly usage. It does not remove the room cost, but it removes a lot of PC friction.</p>
     <span class="gp-price">~$5K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -165,33 +162,9 @@ Then test failure: internet down, controller missing, Windows update, projector 
 
 Finally, schedule the first maintenance date. Clean lenses and filters per manufacturer guidance, inspect screen wear and fasteners, check mat seams, verify cable strain, update software deliberately, and retest calibration after any device moves. The room stays luxurious because maintenance was designed into it.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Room backbone</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="Shop Indoor Golf SIG10" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Premium enclosure</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">Shop Indoor Golf SIG10</a></span>
-    <p class="gp-why">The kind of turnkey frame/screen system that keeps the room from feeling like a net in a garage. The enclosure is where safety, image size, and finish meet.</p>
-    <span class="gp-price">~$2K-$2.5K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Inspect specs</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-ak700st"><span class="gp-tag">4K value</span><img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Premium projector</span>
-    <span class="gp-name"><a href="/golf/gear/benq-ak700st">BenQ AK700ST</a></span>
-    <p class="gp-why">The 4K golf projector I would check first when the room is nice enough to justify 4K but not so huge that LK936ST money is automatic.</p>
-    <span class="gp-price">~$3K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for benq-ak700st. -->
 
 ## The $50K room
 

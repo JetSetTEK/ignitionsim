@@ -42,10 +42,10 @@ For more than a decade, "VR support" sat on Star Citizen's promise list like a s
 ## The four ways to look around
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a><figcaption>TrackIR 5 — the accuracy benchmark</figcaption></figure>
-  <figure><a href="/flight/gear/tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 head and eye tracking bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — clip-free, officially supported</figcaption></figure>
-  <figure><a href="/racing/gear/meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3 — the low-cost PCVR entry</figcaption></figure>
-  <figure><a href="/racing/gear/pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Light — the high-clarity headset</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a><figcaption>TrackIR 5 — the accuracy benchmark</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 head and eye tracking bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — clip-free, officially supported</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3 — the low-cost PCVR entry</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Light — the high-clarity headset</figcaption></figure>
 </div>
 
 Four solutions cover "look around your cockpit," and they split cleanly into two camps: trackers that move a flat-screen view, and headsets that put you inside the ship.
@@ -67,16 +67,13 @@ Head tracking does one thing exceptionally well: it moves your in-game view as y
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Best head tracker — the buy</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Best head tracker — the buy</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">6DOF optical head tracker · ~$150 (Pro bundle ~$175-180)</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The accuracy benchmark for cockpit games, and the smarter look-around buy for most Star Citizen pilots. Zero performance hit, no motion sickness, and it works across 200-plus sims. You wear a small reflective clip — the one trade for keeping your keyboard and desk in view.</p>
     <span class="gp-price">~$150 (TrackClip Pro bundle ~$175-180 — check current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -85,16 +82,13 @@ The **[Tobii Eye Tracker 5](/flight/gear/tobii-eye-tracker-5)** is the clip-free
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">Clip-free pick</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 head and eye tracking bar" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">Clip-free pick</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 head and eye tracking bar" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head + eye tracking bar · ~$339 US (check current)</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">The answer if you hate wearing anything on your head. A monitor bar that tracks head and eyes at once, officially supported in Star Citizen, with extended-view and look-to-target tricks TrackIR can't do. The trades are a shorter usable range and a higher price after Tobii's 2026 US increase.</p>
     <span class="gp-price">~$339 US (was $299 — verify current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -123,16 +117,13 @@ VR is the more breathtaking experience, full stop. The sense of scale inside a S
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/racing/gear/meta-quest-3"><span class="gp-tag">Best VR entry</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><span class="gp-tag">Best VR entry</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Wireless-capable PCVR headset · ~$500</span>
-    <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The most accessible way into Star Citizen VR. It does PCVR wired over Link or wireless over Air Link / Virtual Desktop — a dedicated Wi-Fi 6E router gets you near-wired latency. Go in eyes-open about the experimental state and the DLSS reality, and make sure every bind lives on your stick first.</p>
     <span class="gp-price">~$500 (check for sales)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -169,28 +160,25 @@ For most pilots on a monitor, the whole "look around" question is answered by on
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Buy this first</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Buy this first</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 optical head tracker" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The look-around answer for a flat screen</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The right buy for the vast majority of Star Citizen pilots. Full-accuracy 6DOF head tracking, zero frame-rate cost, no motion sickness, and your keyboard stays in view. Get the TrackClip Pro bundle if you fly in a gaming headset.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Essential if you fly VR</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Essential if you fly VR</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">In a headset you can't see your keyboard, and Star Citizen has 200-plus binds — so the pragmatic fix is a labeled panel your muscle memory can find blind. 32 icon keys with folders for power, shields, gear, and comms. (Head-tracking players see their keyboard, so this is optional for you — but a big quality-of-life jump for VR pilots.)</p>
     <span class="gp-price">~$250 (15-key MK.2 ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 
 </aside>

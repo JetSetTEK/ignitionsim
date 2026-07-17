@@ -45,9 +45,9 @@ Val's order is simpler: **primary controls, throttle, rudders, head tracking, th
 </aside>
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke" loading="lazy"></a><figcaption>Honeycomb Alpha: GA yoke foundation</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Bravo: throttle plus autopilot workflow</figcaption></figure>
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a><figcaption>TrackIR: hands stay on controls</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke" loading="lazy"></a><figcaption>Honeycomb Alpha: GA yoke foundation</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Bravo: throttle plus autopilot workflow</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5" loading="lazy"></a><figcaption>TrackIR: hands stay on controls</figcaption></figure>
 </div>
 
 ![Flight sim control priority map showing yoke or stick, throttle, rudders, head tracking, then panels](/images/infographics/flight/control-priority-map.png)
@@ -70,16 +70,13 @@ If you mostly fly Cessna, Piper, Beechcraft, business jets, or airliners, a yoke
 If you fly Airbus, fighters, helicopters, or space/flight hybrids, a stick may make more sense. The **Thrustmaster TCA Sidestick Airbus** is a clean airline stick. The **Turtle Beach VelocityOne Flightstick** is a compact all-rounder with Xbox support.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">GA foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">GA foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha yoke" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Primary yoke</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Alpha Flight Controls</a></span>
     <p class="gp-why">The default first serious GA yoke: smooth, broad support, and enough switchgear to stop clicking the cockpit like it owes you lunch.</p>
     <span class="gp-price">Yoke tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -90,16 +87,13 @@ The **Honeycomb Bravo** is famous because it is not just a throttle. It is a six
 Airbus-focused builders may prefer the **Thrustmaster TCA Quadrant Airbus**. Military simmers usually want a HOTAS throttle instead. Buy for the aircraft you actually fly, not the aircraft you watch on YouTube while avoiding chores.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">Workflow box</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><span class="gp-tag">Workflow box</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle + AP panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Bravo Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">Honeycomb Bravo Throttle Quadrant</a></span>
     <p class="gp-why">Six swappable levers and an autopilot panel make it the rare accessory that feels useful in almost every GA flight.</p>
     <span class="gp-price">Throttle tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -114,16 +108,13 @@ Budget: Logitech G Flight Rudder Pedals. Mid: Honeycomb Charlie. Compact precisi
 Head tracking changes how you fly because it removes the mouse from basic visual tasks. TrackIR uses an optical clip and remains the genre standard. Tobii is clip-free and blends head and eye tracking. Both can be more useful than another panel because you use them every second.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">No clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">No clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head + eye tracking</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">The clean desk choice: nothing to wear, natural scanning, and a huge jump in cockpit awareness for monitor pilots.</p>
     <span class="gp-price">Awareness tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -40,8 +40,8 @@ Space sims demoted the throttle. In Star Citizen and Elite, the off-hand stick d
 
 <div class="shotgrid">
   <figure><a href="/space/gear/vkb-stecs-standard-mk2-throttle"><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Throttle System Mk.II Standard" loading="lazy"></a><figcaption>VKB STECS Mk.II — the value flagship throttle</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog stick and dual throttle" loading="lazy"></a><figcaption>Thrustmaster Warthog — the A-10C throttle reference</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS with TWCS throttle" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — the budget on-ramp</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog stick and dual throttle" loading="lazy"></a><figcaption>Thrustmaster Warthog — the A-10C throttle reference</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS with TWCS throttle" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — the budget on-ramp</figcaption></figure>
 </div>
 
 ## What "good" means for a DCS throttle
@@ -80,16 +80,13 @@ The standard way into DCS. You get the ambidextrous **T.16000M** stick with Hall
 The honest caveats: the TWCS spring is stiff out of the box (many pilots loosen or mod it), the throttle axis is pot-based rather than Hall-effect, so it can develop drift over years, and you map every input by hand in TARGET, so the first hour is a slog. But there's no cheaper way into a credible DCS HOTAS, and the stick itself genuinely punches above its price. I'd point a brand-new DCS pilot here without hesitation — it's the same stick that anchors a budget [beginner HOSAS rig under $300](/space/best-beginner-hosas-under-300) if you ever cross into space sims.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Budget DCS on-ramp</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS with TWCS throttle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Budget DCS on-ramp</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS with TWCS throttle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stick + linear-rail throttle · Hall-effect stick, 30 buttons</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
     <p class="gp-why">The cheapest credible way to fly DCS. The ambidextrous Hall-effect stick is the star; the TWCS throttle slides on a rail like a real fighter lever, with 30 buttons and two hats across the set. Accept the stiff throttle spring and the pot-based throttle axis — for a first jet setup, nothing else is close on price.</p>
     <span class="gp-price">~$170 (check current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -110,19 +107,7 @@ If the throttle itself is the point and you want the most feel per dollar, this 
 
 If you're building inside the VKB world, this keeps you in one software ecosystem (VKBDevCfg) and one support channel — no vendor-mixing headaches. It's the value flagship of the throttle tier, and the pick I'd default most DCS pilots to when they want a real standalone lever without flagship shock.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-stecs-standard-mk2-throttle"><span class="gp-tag">Value flagship</span><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS Throttle System Mk.II Standard" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Modular dual-lever throttle · swappable L/V/W detent frames</span>
-    <span class="gp-name"><a href="/space/gear/vkb-stecs-standard-mk2-throttle">VKB STECS Throttle System Mk.II — Standard</a></span>
-    <p class="gp-why">The throttle to buy if your stick already says VKB on it. Heavy steel base, dual linkable levers, and a swappable detent system with L/V/W inserts for custom afterburner and reverse gates, plus two ministicks — all for less than the Virpil. One software ecosystem (VKBDevCfg), one support channel.</p>
-    <span class="gp-price">~$289 (check current)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-stecs-standard-mk2-throttle">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-stecs-standard-mk2-throttle. -->
 
 ## Flagship — Virpil MongoosT-50CM3 (~$380, check current)
 
@@ -146,16 +131,13 @@ The **Warthog Dual Throttle** is an all-metal 1:1 replica of the A-10C's dual-th
 The honest limits: its detent system is fixed geometry rather than the swap-a-plate flexibility of the Virpil and VKB, and there's no CosmoSim-style space profile — so it's the least adaptable of the flagship trio if you fly many airframes or dabble in space. It's also heavy enough to want a mount. For A-10 pilots and pure-immersion builders it's an heirloom piece; for everyone else the MongoosT-50CM3 or STECS is the more versatile money.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">A-10 immersion</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog stick and dual throttle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><span class="gp-tag">A-10 immersion</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog stick and dual throttle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-metal A-10C 1:1 replica · Hall sensors, disengageable AB detent</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
     <p class="gp-why">The immersion reference. The dual throttle is an all-metal A-10C replica with Hall-effect sensors, a disengageable afterburner detent, a slew ministick, and dozens of switches. Shown here as the full HOTAS (stick + dual throttle); the throttle also sells standalone for $349.99. You buy it for feel and longevity, not for swap-a-plate detent flexibility. Note: the stick has no twist axis, so for pure space it leaves two axes on buttons — this is a DCS heirloom, not a HOSAS piece.</p>
     <span class="gp-price">$349.99 (dual throttle standalone)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -163,19 +145,7 @@ The honest limits: its detent system is fixed geometry rather than the swap-a-pl
 
 Three of the five picks above — the STECS, the MongoosT-50CM3, and the standalone Warthog throttle — are throttles only. You supply the stick. For DCS that means a single right-hand grip on a good base, and the natural pairing for a boutique throttle is a boutique stick. A tunable [VKB Gunfighter Mk.IV base](/space/gear/vkb-gunfighter-mk4-base) (~$289, base only) with a combat grip is the obvious partner for the STECS if you want to stay in one VKB ecosystem; the [MCG Pro grip](/space/gear/vkb-mcg-pro-grip) is the popular combat topping. If budget is the constraint, the ambidextrous [Thrustmaster T.16000M](/space/gear/thrustmaster-t16000m-fcs) stick (~$80) pairs with any of these throttles as a low-cost right hand while you save for a nicer base.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">The stick for a boutique throttle</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable all-metal base · base only, grip separate</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
-    <p class="gp-why">The natural stick to sit beside a STECS or MongoosT-50CM3. Adjustable cams, springs, and dampers, a no-stiction soft-start clutch, and five interchangeable grips on one Rev.C connector. It's a base only — budget for a combat grip like the MCG Pro on top — but it's a true long-term cockpit platform for a throttle-first DCS rig.</p>
-    <span class="gp-price">~$289 base only (grip separate)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gunfighter-mk4-base. -->
 
 ## The setup tax nobody quotes you
 
@@ -196,45 +166,27 @@ Buying the throttle is the easy part. Three costs trip up new DCS pilots more th
   <p>A modern DCS jet has more functions than any throttle has switches. The community answer is a labeled panel: an <a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a> for macro overflow, or physical MFD bezels like the <a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a> framing your monitor for targeting, radar, and countermeasure functions. Neither is optional once you fly a full-fidelity module.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount the throttle</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick and throttle table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per device</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for a heavy throttle that walks across the desk under a hard burner slam. Quick-release clamp, universal fit across Thrustmaster, VKB, Virpil, and WinWing. A HOTAS wants two — one for the stick, one for the throttle.</p>
-    <span class="gp-price">~$100 each (buy two for a HOTAS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-mfd-cougar-pack"><span class="gp-tag">Frame the monitor</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack two-panel button bezels" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack"><span class="gp-tag">Frame the monitor</span><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack two-panel button bezels" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Two MFD bezel panels · 48 programmable buttons</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">Thrustmaster MFD Cougar Pack</a></span>
     <p class="gp-why">The cheap way to offload the DCS bind overflow the throttle can't hold. Two F-16 MFD bezels frame your monitor with 48 programmable buttons for targeting, radar, and countermeasure functions. Dated styling, plug-and-play USB, hard to beat on value-per-button.</p>
     <span class="gp-price">~$110 (2-panel pack)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-mfd-cougar-pack">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Solves the bind overflow</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Solves the bind overflow</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The pragmatic fix for the bind count no throttle can hold. 32 labeled LCD keys with folders for unlimited macros — startup sequences, weapon profiles, radio presets — and it pairs with any throttle equally. The 15-key MK.2 (~$150) is the budget alternative.</p>
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 

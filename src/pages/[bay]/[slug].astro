@@ -110,6 +110,8 @@ const linkedProductPaths = [...new Set([
 const linkedProducts = linkedProductPaths
   .map((path) => productByPath.get(path))
   .filter((p) => p && hasVerifiedProductImage(p));
+const linkedAmazonProducts = linkedProducts
+  .filter((product: any) => canonicalAmazonProductUrl(product, amazonTag));
 const normalizeProductText = (value = '') => String(value)
   .toLowerCase()
   .normalize('NFKD')
@@ -142,17 +144,20 @@ const articleAmazonProducts = allProducts
   .filter((product: any, index: number, list: any[]) => list.findIndex((candidate) => candidate.id === product.id) === index)
   .slice(0, 6);
 const fallbackProducts = allProducts
-  .filter((p) => p.bay === d.bay && hasVerifiedProductImage(p))
+  .filter((p) => p.bay === d.bay && hasVerifiedProductImage(p) && canonicalAmazonProductUrl(p, amazonTag))
   .sort((a, b) => rankProduct(b) - rankProduct(a))
   .slice(0, 5);
-const articleProducts = (linkedProducts.length ? linkedProducts : fallbackProducts).slice(0, 5);
+const articleProducts = (linkedAmazonProducts.length ? linkedAmazonProducts : fallbackProducts).slice(0, 5);
 const heroProofProduct = articleProducts[0];
 const heroProofImage = heroProofProduct ? displayProductImage(heroProofProduct) : '';
-const fieldProofProduct = linkedProducts[0];
+const heroProofUrl = heroProofProduct ? canonicalAmazonProductUrl(heroProofProduct, amazonTag) : '';
+const fieldProofProduct = linkedAmazonProducts[0];
+const fieldProofUrl = fieldProofProduct ? canonicalAmazonProductUrl(fieldProofProduct, amazonTag) : '';
 const fieldProof = fieldProofProduct ? {
+  id: fieldProofProduct.id,
   image: displayProductImage(fieldProofProduct),
   name: `${fieldProofProduct.brand} ${fieldProofProduct.model}`,
-  href: `/${fieldProofProduct.bay}/gear/${fieldProofProduct.id}`,
+  href: fieldProofUrl,
 } : null;
 const articleHeroImage = d.heroImage || heroProofImage || worldHero?.image;
 const articleHeroAlt = d.heroAlt || (heroProofProduct ? `${heroProofProduct.brand} ${heroProofProduct.model}` : worldHero?.alt || d.title);
@@ -223,11 +228,13 @@ if (d.faqs.length) {
         )}
         <div class="article-share"><ShareButtons /></div>
       </div>
-      {isWorldHero && heroProofProduct && (
+      {isWorldHero && heroProofProduct && heroProofUrl && (
         <aside class="article-proof-chip">
           <span>Real product proof</span>
-          <img src={displayProductImage(heroProofProduct)} alt={`${heroProofProduct.brand} ${heroProofProduct.model}`} loading="eager" decoding="async" />
-          <b>{heroProofProduct.brand} {heroProofProduct.model}</b>
+          <a class="article-proof-product" href={heroProofUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={heroProofProduct.id}>
+            <img src={displayProductImage(heroProofProduct)} alt={`${heroProofProduct.brand} ${heroProofProduct.model}`} loading="eager" decoding="async" />
+            <b>{heroProofProduct.brand} {heroProofProduct.model}</b>
+          </a>
           <small>Verified photo. Live seller reviews below.</small>
         </aside>
       )}
@@ -528,6 +535,11 @@ if (d.faqs.length) {
     line-height: 1.35;
     letter-spacing: .04em;
     color: #435363;
+  }
+  .article-proof-product {
+    display: block;
+    color: inherit;
+    text-decoration: none;
   }
   .reality-grid {
     display: grid;

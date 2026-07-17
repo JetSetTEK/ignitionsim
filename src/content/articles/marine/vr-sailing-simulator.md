@@ -46,16 +46,13 @@ The defining frustration of marine sim — covered in detail in [the hardware re
 That means there is no analog-axis gate to worry about, no [compatibility map to consult](/marine/marine-sim-controller-support), and no DIY build. The headset is the hardware, full stop. For a bay defined by the absence of dedicated gear, that is a genuinely elegant answer — and it's the reason VR earns a spot in any honest sailing-sim shortlist.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">The whole rig</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr"><span class="gp-tag">The whole rig</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">VR sailing · hand-tracked tiller & sheet</span>
-    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
     <p class="gp-why">In MarineVerse your hands <em>are</em> the helm — no wheel, no DIY board, no analog-axis caveat. Pricier as a marine-only buy after Meta's April 2026 increase ($599.99 for the 512 GB Quest 3), but it's a full standalone VR headset that happens to sail, and the NauticEd course integration is something no desk rig can touch. The cheaper Quest 3S (from $349.99) runs the same app on Fresnel lenses.</p>
     <span class="gp-price">$599.99 (Quest 3, 512 GB) · Quest 3S from $349.99</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">View exact product on Amazon</a></span>
   </div>
 </aside>
 

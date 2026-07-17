@@ -47,7 +47,7 @@ The dream is gorgeous: nothing on the floor, no box to move for lefties, no rada
   <figure><img src="/images/gear/golf/trackman-io.jpg" alt="TrackMan iO ceiling-mounted golf launch monitor" loading="lazy"><figcaption>TrackMan iO: premium quote territory, not a blind checkout click</figcaption></figure>
   <figure><img src="/images/article-proofs/golf/uneekor-eye-xo2-installation.jpg" alt="Uneekor EYE XO2 installation and setup diagram" loading="lazy"><figcaption>The install diagram is the reality check: ceiling height, tee position, service access</figcaption></figure>
   <figure><a href="/golf/gear/foresight-gcquad"><img src="/images/gear/golf/foresight-gcquad.jpg" alt="Foresight GCQuad launch monitor" loading="lazy"></a><figcaption>GCQuad: not overhead, but the fitting-data benchmark</figcaption></figure>
-  <figure><a href="/golf/gear/benq-lk936st"><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST premium golf simulator projector" loading="lazy"></a><figcaption>The projector still decides whether the room feels premium</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st"><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST premium golf simulator projector" loading="lazy"></a><figcaption>The projector still decides whether the room feels premium</figcaption></figure>
 </div>
 
 ## The buy/no-buy split
@@ -84,33 +84,9 @@ TrackMan iO belongs in the conversation because buyers ask about it, and because
 
 Overhead means ceiling work, power, networking, alignment, service access, and installer trust. The sensor is only one line item. You also need a premium impact screen, enough projector brightness, a hitting mat your joints can survive, side/ceiling protection, and lighting that does not confuse the cameras or ruin the image.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/uneekor-eye-xo2"><span class="gp-tag">Value flagship</span><img src="/images/gear/golf/uneekor-eye-xo2.jpg" alt="Uneekor EYE XO2" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Overhead launch monitor</span>
-    <span class="gp-name"><a href="/golf/gear/uneekor-eye-xo2">Uneekor EYE XO2</a></span>
-    <p class="gp-why">The strongest default recommendation when a serious home builder wants overhead, mixed-handed play, a wide hitting zone, and a software-flexible room without jumping straight to the most expensive commercial reference gear.</p>
-    <span class="gp-price">~$11K-$14K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/uneekor-eye-xo2">Inspect specs</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for uneekor-eye-xo2. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-falcon"><span class="gp-tag">Premium overhead</span><img src="/images/gear/golf/foresight-falcon.jpg" alt="Foresight Falcon" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Foresight ceiling install</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-falcon">Foresight Falcon</a></span>
-    <p class="gp-why">The clean Foresight-family overhead path for buyers who want a permanent, finished room and are willing to pay for the brand/data confidence.</p>
-    <span class="gp-price">~$15K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/foresight-falcon">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for foresight-falcon. -->
 
 ## What to buy first
 

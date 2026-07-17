@@ -83,21 +83,7 @@ Before any single product, the reality check that saves the most money: **buy in
 
 The default first pedals, and rightly. The [Logitech G Flight Rudder Pedals](/flight/gear/logitech-g-flight-rudder-pedals) are self-centering, sliding, and — crucially — carry real **differential toe brakes** with an adjustable damping dial that ranges from a light GA feel to a heavier jet feel. Broad MSFS 2024 and X-Plane 12 support, wide adjustable footrests, sturdy underfoot. They use older potentiometer-class sensors (a 9-bit rudder, 7-bit brake axis), so they can develop drift over years of heavy use and the action runs light. But for the money nothing covers more GA flying. Logitech lists them at **$179.99** official; if you want one set that does everything a typical GA or airliner pilot needs, start here.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/logitech-g-flight-rudder-pedals"><span class="gp-tag">Best budget all-rounder</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Rudder pedals with differential toe brakes for GA flight sim" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Sliding pedals · differential toe brakes, damping dial</span>
-    <span class="gp-name"><a href="/flight/gear/logitech-g-flight-rudder-pedals">Logitech G (Saitek) G Flight Rudder Pedals</a></span>
-    <p class="gp-why">The first pedals most simmers ever own, and the right first buy for GA. Real differential toe brakes, an adjustable damping dial from light-GA to heavy-jet, and a price half that of metal sets. The pot-class sensors are modest, but they cover exactly the flying that pushed you to buy pedals. Note: the image above is our verified Honeycomb Charlie stand-in — we have not yet verified a studio photo of the Logitech set.</p>
-    <span class="gp-price">~$180 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/logitech-g-flight-rudder-pedals">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for logitech-g-flight-rudder-pedals. -->
 
 ## Cheapest entry — Thrustmaster TFRP T.Flight Rudder Pedals (~$130)
 
@@ -113,16 +99,13 @@ The enthusiast's minimalist pick. The [VKB T-Rudder Mk.V](/flight/gear/vkb-t-rud
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/vkb-t-rudder-mk4"><span class="gp-tag">Durable · no brakes</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Low-profile metal rudder pedals for combat flight sim" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4"><span class="gp-tag">Durable · no brakes</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Low-profile metal rudder pedals for combat flight sim" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Low-profile heel-pivot · contactless MaRS sensor, no toe brakes</span>
-    <span class="gp-name"><a href="/flight/gear/vkb-t-rudder-mk4">VKB T-Rudder Mk.V</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4">VKB T-Rudder Mk.V</a></span>
     <p class="gp-why">The warbird pilot's pick. Tank-tough all-metal VKB build, a contactless MaRS sensor that outlasts pots, and a footprint that vanishes under a desk. No toe brakes — exactly the point for rudder-only combat flying — and the Mk.V fixes the older spring whine. Image above is our verified Honeycomb Charlie stand-in; a VKB studio photo is not yet verified.</p>
     <span class="gp-price">~$199 US direct · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/vkb-t-rudder-mk4">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/vkb-t-rudder-mk4">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -131,21 +114,7 @@ The enthusiast's minimalist pick. The [VKB T-Rudder Mk.V](/flight/gear/vkb-t-rud
 
 If you are building an all-Honeycomb GA flight deck, the [Honeycomb Charlie](/flight/gear/honeycomb-charlie-pedals) is the natural finisher — and the one pedal in this guide with a verified studio photo. Aluminum body, belt-drive rudder, and **Hall-effect sensors** on both the rudder and the variable-pressure toe brakes, so it holds calibration far longer than potentiometer pedals and the braking feels proportional rather than on/off. Foot angle and rudder tension are adjustable, and reversible carpet spikes keep it planted. It completes the matched three-piece deck we lay out in [the Honeycomb upgrade path](/flight/honeycomb-flight-deck-upgrade-path), and the metal-and-Hall-effect build is a real step up from the Logitech set. Street pricing runs roughly $270-350 depending on sale and bundle, so check current.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Matched GA deck</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Aluminum belt-drive · Hall-effect rudder + toe brakes</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Aeronautical Charlie Rudder Pedals</a></span>
-    <p class="gp-why">The metal in the Honeycomb set. Hall-effect sensors that shrug off drift, variable-pressure toe brakes that feel proportional instead of on/off, and an adjustable foot angle. Pricier than the Logitech entry, but it's what you pay for longevity and a matched deck alongside the Alpha and Bravo.</p>
-    <span class="gp-price">~$270-350 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 ## Enthusiast Hall-effect — MFG Crosswind V3 (~$335 with footrest)
 
@@ -176,16 +145,13 @@ The notable Xbox-and-PC option, and close to the only serious pedal choice for c
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-rudder-pedals"><span class="gp-tag">Xbox + PC</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Pendular rudder pedals with toe brakes for Xbox and PC flight sim" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0B7NTLKF2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-rudder-pedals"><span class="gp-tag">Xbox + PC</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Pendular rudder pedals with toe brakes for Xbox and PC flight sim" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Suspended pendular · magnetic sensors, differential toe brakes</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-rudder-pedals">Turtle Beach VelocityOne Rudder Pedals</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0B7NTLKF2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-rudder-pedals">Turtle Beach VelocityOne Rudder Pedals</a></span>
     <p class="gp-why">Close to the only serious pedals that work on Xbox. Smooth pendular motion on magnetic sensors, real differential toe brakes, and an adjustable stance from flat to upright. Occasional firmware hiccups, but for console flyers there's barely an alternative. Image above is our verified Honeycomb Charlie stand-in; a VelocityOne studio photo is not yet verified.</p>
     <span class="gp-price">~$300 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-rudder-pedals">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-rudder-pedals">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0B7NTLKF2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-rudder-pedals">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -238,38 +204,18 @@ Beginners, console flyers without an Xbox-compatible option, and anyone who flie
 
 ## What to buy
 
-<aside class="gearpick">
+<!-- Product card withheld: exact Amazon ASIN not verified for logitech-g-flight-rudder-pedals. -->
 
-  <a class="gp-shot" href="/flight/gear/logitech-g-flight-rudder-pedals"><span class="gp-tag">Buy this first</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Budget sliding rudder pedals with toe brakes" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The first-pedal starting point</span>
-    <span class="gp-name"><a href="/flight/gear/logitech-g-flight-rudder-pedals">Logitech G Flight Rudder Pedals</a></span>
-    <p class="gp-why">The right call for most first-time buyers: sliding, self-centering, real differential toe brakes, and a damping dial that spans GA to jet. It covers exactly the flying that pushed you to buy pedals, at half the price of metal sets. Image is our verified Honeycomb Charlie stand-in.</p>
-
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Buy this to step up</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The matched-deck upgrade</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Charlie</a></span>
-    <p class="gp-why">The metal, Hall-effect step up if you're building a matched Honeycomb GA deck. Proportional variable-pressure toe brakes, adjustable foot angle, and sensors that don't drift. Add it after the Alpha and Bravo and the GA ladder is complete.</p>
-
-  </div>
-
-</aside>
-
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/vkb-t-rudder-mk4"><span class="gp-tag">Buy this for combat</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Low-profile metal rudder pedals without toe brakes" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4"><span class="gp-tag">Buy this for combat</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Low-profile metal rudder pedals without toe brakes" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The rudder-only combat pick</span>
-    <span class="gp-name"><a href="/flight/gear/vkb-t-rudder-mk4">VKB T-Rudder Mk.V</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4">VKB T-Rudder Mk.V</a></span>
     <p class="gp-why">The durable, no-toe-brake choice for DCS and warbird pilots who steer with rudder alone. All-metal, contactless MaRS sensor, low-profile footprint, and the Mk.V fixes the old spring whine. Image is our verified Honeycomb Charlie stand-in.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/vkb-t-rudder-mk4">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="vkb-t-rudder-mk4">View exact product on Amazon</a></span>
   </div>
 
 </aside>

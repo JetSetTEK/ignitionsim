@@ -38,12 +38,12 @@ Verdict first: **buy load-cell pedals first, hydraulic pedals only when feel is 
 Active pedals are the shiny new object because they do something pedals never used to do: push back with software-defined force feedback. ABS pulses, traction-control effects, engine vibration, car-specific profiles, one-click brake feel changes. Very cool. Also very expensive. And still not the first thing I would buy after a desk-clamped wheel.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active force feedback pedal" loading="lazy"></a><figcaption>Simucube ActivePedal Pro: active reference</figcaption></figure>
-  <figure><a href="/racing/gear/moza-mbooster-active-pedal"><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a><figcaption>MOZA mBooster: active value disruptor</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro active force feedback pedal" loading="lazy"></a><figcaption>Simucube ActivePedal Pro: active reference</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal"><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a><figcaption>MOZA mBooster: active value disruptor</figcaption></figure>
   <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint load cell pedals" loading="lazy"></a><figcaption>Heusinkveld Sprint: load-cell benchmark</figcaption></figure>
   <figure><a href="/racing/gear/simagic-p2000"><img src="/images/gear/racing/simagic-p2000.jpg" alt="Simagic P2000 hydraulic load cell pedals" loading="lazy"></a><figcaption>Simagic P2000: hydraulic feel route</figcaption></figure>
-  <figure><a href="/racing/gear/asetek-invicta-pedals"><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic sim racing pedals" loading="lazy"></a><figcaption>Asetek Invicta: flagship hydraulic tier</figcaption></figure>
-  <figure><a href="/racing/gear/moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load cell pedals" loading="lazy"></a><figcaption>MOZA CRP2: value load-cell ladder</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals"><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic sim racing pedals" loading="lazy"></a><figcaption>Asetek Invicta: flagship hydraulic tier</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load cell pedals" loading="lazy"></a><figcaption>MOZA CRP2: value load-cell ladder</figcaption></figure>
 </div>
 
 ## The Short Answer
@@ -69,31 +69,16 @@ A load-cell brake measures pressure instead of simple travel. That is why it hel
 
 The Heusinkveld Sprint is still the reference example because Heusinkveld lists a force-sensitive 120 kg brake load cell and SmartControl software for brake force, deadzones, and response curves. MOZA CRP2 brings a 200 kg load-cell brake and 15-bit angle sensor into a more affordable ecosystem path. Fanatec CSL LC remains a common budget upgrade, especially for console/Fanatec users.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Best ROI ceiling</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint load-cell pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Load-cell benchmark</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The serious-driver load-cell pick: great brake control, excellent software, strong long-term reputation, and no hydraulic leak anxiety.</p>
-    <span class="gp-price">Premium load-cell tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Value load cell</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Value load cell</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value ladder pick</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">A strong value path with 200 kg load-cell spec, software tuning, and easy MOZA ecosystem fit. Great before you start daydreaming about four-figure pedals.</p>
     <span class="gp-price">Mid-tier load-cell pick</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -103,31 +88,16 @@ Hydraulic pedals can feel wonderful because they add damping and a more car-like
 
 The upside is confidence. A good hydraulic pedal can help you lean into the brake smoothly, trail off more naturally, and feel less like you are standing on stacked rubber. The downside is cost, complexity, and maintenance. Reddit and forum owners regularly point out the boring reality: if a hydraulic chamber leaks or the feel does not actually help your braking, the "realism" premium becomes a weekend you did not ask for.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-p2000"><span class="gp-tag">Hydraulic value</span><img src="/images/gear/racing/simagic-p2000.jpg" alt="Simagic P2000 hydraulic load-cell pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy for feel and adjustability</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-p2000">Simagic P2000</a></span>
-    <p class="gp-why">Hydraulic brake feel plus load-cell measurement, with serious adjustability. Buy it for pedal feel, not because hydraulics automatically make you faster.</p>
-    <span class="gp-price">Hydraulic mid/high tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-p2000">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-p2000. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asetek-invicta-pedals"><span class="gp-tag">Flagship hydraulic</span><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals"><span class="gp-tag">Flagship hydraulic</span><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Buy if premium feel is the goal</span>
-    <span class="gp-name"><a href="/racing/gear/asetek-invicta-pedals">Asetek Invicta Pedals</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals">Asetek Invicta Pedals</a></span>
     <p class="gp-why">Industrial, premium, and expensive. A great choice when you want the brake to feel like a serious component, not a stiff accessory.</p>
     <span class="gp-price">Flagship hydraulic tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/asetek-invicta-pedals">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -140,30 +110,24 @@ That is real. It is also not the same as a guaranteed lap-time coupon.
 The strongest active-pedal use case is **profile switching**. GT3 one session, vintage H-pattern the next, formula car after that. The second best use case is **feedback**: ABS onset, brake lock feel, and tactile cues under your foot. The third is **brake-trace shaping** for drivers who obsess over consistency.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-activepedal-pro"><span class="gp-tag">Active reference</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><span class="gp-tag">Active reference</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best active pedal if money allows</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
     <p class="gp-why">The refinement pick. Simucube lists up to 110 kg force and 5-74 mm travel, with software-defined force feedback and car profiles. Brilliant, expensive, and not for casual indecision.</p>
     <span class="gp-price">Starting around $1.8K per pedal</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-mbooster-active-pedal"><span class="gp-tag">Active value</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal"><span class="gp-tag">Active value</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster active pedal" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best active pedal to watch</span>
-    <span class="gp-name"><a href="/racing/gear/moza-mbooster-active-pedal">MOZA mBooster Active Pedal</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">MOZA mBooster Active Pedal</a></span>
     <p class="gp-why">MOZA lists dual 200 kg load cells, 15-bit angle sensing and servo effects at a much lower price than Simucube. The value is exciting; refinement reports are more mixed.</p>
     <span class="gp-price">$799 regular / sale pricing varies</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -189,44 +153,30 @@ The blunt version: **active pedals are cockpit luxury. Load cells are performanc
 
 ## What To Buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Control upgrade</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">First genuinely serious brake</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The classic club-racer step: precise load-cell feel, clean software, and a brake pedal that rewards pressure discipline instead of ankle guesswork.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Mid value</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Mid value</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best sane-money PC pick</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">Strong spec, strong price, strong place to stop before the pedal budget gets unwell.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Keeper load cell</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best long-term load-cell pick</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The high-quality pedal set that can survive multiple wheelbase upgrades.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-activepedal-pro"><span class="gp-tag">Grail</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><span class="gp-tag">Grail</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best active pedal</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
     <p class="gp-why">Buy when the question is not "should I upgrade?" but "how much do I value profiles and pedal feedback?"</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

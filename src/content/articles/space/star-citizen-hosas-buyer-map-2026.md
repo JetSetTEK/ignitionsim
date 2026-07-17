@@ -61,19 +61,7 @@ The goal is simple: put analog control under both hands without turning your des
 
 The **VKB Gladiator NXT EVO Space Combat Edition** is the default value answer for good reasons: magnetic sensors, left/right versions, twist axis, solid gimbal feel, and a price that still lets you buy two. A left/right pair covers pitch, yaw, roll, strafe, vertical thrust, and forward/back thrust with no separate throttle.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Default pair</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Budget boutique HOSAS</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">The best first serious stick because it already solves the beginner problem: real sensors, real left/right options, and enough axis control for spaceflight.</p>
-    <span class="gp-price">Value HOSAS</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
 ## Omni Throttle: The Space Throttle That Is Not a Throttle
 
@@ -81,19 +69,7 @@ The **VKB Omni-Throttle** tilts the off-hand stick into a more natural throttle-
 
 If you fly both Star Citizen and DCS, a traditional HOTAS throttle may still make sense. If Star Citizen is the main game, the Omni layout is hard to beat.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Off-hand king</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni Throttle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">HOSAS off-hand controller</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator NXT EVO Omni-Throttle</a></span>
-    <p class="gp-why">The off-hand layout that admits spaceflight is not a Cessna. Forward/back, strafe, and vertical thrust feel more natural without giving up analog nuance.</p>
-    <span class="gp-price">Off-hand upgrade</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-omni-throttle. -->
 
 ## Mounts Beat Desk Slide
 
@@ -101,19 +77,7 @@ Dual sticks on a desk work until the bases slide, your shoulders tense, and ever
 
 Monstertech-style table mounts are the clean premium answer. DIY mounts can work if they are rigid and do not clamp onto furniture made of hopeful cardboard.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Ergonomics</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Desk mount</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">Not as flashy as a new grip, but it makes every input cleaner. Space controls are ergonomic hardware before they are cosplay furniture.</p>
-    <span class="gp-price">Mounting tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## Stream Decks and Button Layers
 

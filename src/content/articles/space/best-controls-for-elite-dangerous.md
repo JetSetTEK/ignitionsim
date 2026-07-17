@@ -40,8 +40,8 @@ Verdict first: **match the controls to how you actually play Elite, because this
 Elite Dangerous has always been the patient sim — slow-burning, deep, and forgiving of whatever controller you point at it. But **Operations**, which shipped in late June 2026, changes the calculus. For the first time a single mission can blend ship-to-ship combat with cooperative on-foot fighting, in squads of up to four commanders. Your control setup now has to answer two questions at once: what flies the ship best, and what survives the on-foot stretch. So this isn't a "buy this one thing" guide. It's a "match the rig to the mission" guide.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Twin T.16000M — cheapest credible HOSAS</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — exploration / trading</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Twin T.16000M — cheapest credible HOSAS</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — exploration / trading</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — the boutique HOSAS step-up</figcaption></figure>
 </div>
 
@@ -67,32 +67,17 @@ If you fight — bounty hunting, conflict zones, PvP, or you just love flying wi
 The budget entry is two **Thrustmaster T.16000M** sticks. Buy them as the **Space Sim Duo** twin-pack (~$120) and you get two identical, fully ambidextrous Hall-effect sticks that reconfigure into a left and right hand — the canonical cheap HOSAS. Step up to a **VKB Gladiator NXT EVO Space Combat Edition** pair (~$119-139 per stick) for contactless magnetic sensors, a self-centering twist axis, and a genuine upgrade path into VKB's ecosystem. Either way, the deep skill is binding all six axes cleanly — our [six-axis HOSAS binding guide](/space/how-to-bind-six-axes-hosas) walks through exactly which axis goes where, including why most pilots disable twist on the aiming stick.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Combat / FA-off · buy two</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">Combat / FA-off · buy two</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">HOSAS building block · ambidextrous, Hall-effect</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS</a></span>
     <p class="gp-why">The reason two-stick flying is cheap now. One genuinely ambidextrous stick — three removable parts swap it left or right — so two identical units make the canonical budget HOSAS, and Elite detects them as separate devices and binds them cleanly. Buy the Space Sim Duo twin-pack (~$120) to save a little over two singles. Light and plastic, but the Hall-effect sensors don't drift.</p>
     <span class="gp-price">~$80 each (~$120 the Space Sim Duo pair)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Boutique HOSAS · buy one L + one R</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Magnetic-sensor space stick · self-centering twist</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">The step up from Thrustmaster into "real" boutique feel without boutique shock. Contactless magnetic sensors that won't drift, a self-centering twist for the sixth axis, and dedicated left/right hands for a true HOSAS pair. It opens VKB's upgrade ladder to the tunable Gunfighter tier — the safest first serious two-stick buy for a combat Elite pilot.</p>
-    <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -106,16 +91,13 @@ Here's where the HOSAS evangelists overreach, and where Elite genuinely diverges
 On a budget, the **Thrustmaster T.16000M FCS HOTAS** (~$170) is the smart pick: the same Hall-effect stick paired with the TWCS throttle, which slides on a linear rail like a real fighter throttle instead of rotating. As a bonus, you can later buy a second T.16000M stick and convert toward a hybrid rig. The popular step-up is the **Logitech X56** — a real dual-lever throttle with a wall of switches for Elite's long bind list — but as noted above, stock has been intermittent and we're keeping it text-only with no hard price. For the deeper HOTAS-family conversation, our [HOSAS vs HOTAS explainer](/space/hosas-vs-hotas) breaks down exactly which axes each layout reaches.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Exploration / budget HOTAS</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Exploration / budget HOTAS</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stick + throttle · linear-rail TWCS, 9 axes</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
     <p class="gp-why">The TWCS throttle slides on a rail like a real fighter throttle, so you can park it at 75% and honk the discovery scanner for hours without your hand cramping. Nine axes and thirty buttons is generous for the money. The spring's stiff out of the box, but the upgrade move is sweet: buy a second T.16000M stick later and the whole thing converts toward a hybrid rig.</p>
     <span class="gp-price">~$170</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -166,35 +148,20 @@ The stick is the easy part. Three things trip up new Elite pilots more than any 
   <p>The single most common HOSAS shopping mistake is buying two <em>right-hand</em> sticks. HOSAS lives or dies on the off hand, and a right-hand-only grip in your left hand is uncomfortable within an hour. Either buy a genuinely ambidextrous stick (T.16000M) twice, or deliberately buy one dedicated left and one dedicated right (VKB Gladiator). Confirm handedness at checkout — a comfortable off hand is not optional.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount it or lose it</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per stick</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for the sliding-baseplate problem. Quick-release clamp, universal fit across VKB, Virpil, WinWing, and Thrustmaster. A HOSAS needs two — buy them with the sticks. This is the difference between precise FA-off aiming and chasing a stick across your desk.</p>
-    <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## The bind problem — and the fix
 
 Elite has more functions than any stick has buttons — power triage, weapon groups, shield pips, landing gear, cargo scoop, comms, fuel scoop, and now the on-foot loadout on top. No stick solves this in hardware. The community answer, whatever you fly, is a labeled macro panel: the **Elgato Stream Deck XL** turns 32 icon-driven LCD keys into a visible panel with folders for effectively unlimited binds, so you stop memorizing unmarked switches. It pairs with a HOSAS, a HOTAS, or a gamepad equally — this is the one purchase that's setup-agnostic, and it's a bigger quality-of-life jump for a new Elite pilot than any gimbal upgrade.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Solves the bind problem</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Solves the bind problem</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The pragmatic fix for the bind problem no stick can solve. 32 labeled keys with folders for unlimited macros — power, shields, gear, comms — and it maps to Elite's keyboard shortcuts (community plugins help). Pairs with any control setup, and the 15-key MK.2 (~$150) is plenty for many pilots.</p>
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -213,45 +180,40 @@ Elite has more functions than any stick has buttons — power triage, weapon gro
 **The FA-off combat stack** — twin sticks, mounted, with the bind overflow handled:
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs"><span class="gp-tag">Buy this first</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><span class="gp-tag">Buy this first</span><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The sticks · Space Sim Duo twin-pack</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">Thrustmaster T.16000M FCS ×2</a></span>
     <p class="gp-why">The cheapest credible HOSAS and the right first buy for combat Elite. Two ambidextrous Hall-effect sticks for ~$120 the Duo. If you want boutique feel, swap in a VKB Gladiator pair — same role, magnetic sensors, an upgrade ladder.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Buy with the sticks</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The mounts · buy two</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
-    <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk mid-firefight.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Buy before a fancier base</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Buy before a fancier base</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The bind fixer</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames Elite's long bind list with labeled keys and folders. Setup-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot. Add a $60 gamepad on the desk for the Operations on-foot fights and the whole rig is complete.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 **The exploration stack** — one throttle-first stick-and-throttle, mounted, for the long hauls:
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Buy this for the black</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Buy this for the black</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The stick + throttle · one box</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
     <p class="gp-why">A real linear-rail throttle you can park and forget, plus a Hall-effect stick, for ~$170. The right first HOTAS for exploration and trading. Want more switches for Elite's bind list? The Logitech X56 is the popular step-up — confirm current stock and price first.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Verdict

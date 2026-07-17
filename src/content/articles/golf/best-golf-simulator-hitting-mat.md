@@ -43,7 +43,7 @@ Here is the math that should change how you budget your bay: you will strike the
 <div class="shotgrid">
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio hitting mat" loading="lazy"></a><figcaption>Fiberbuilt: the joint-protection pick</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-4x7-mat"><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO Softy 4x7 hitting mat" loading="lazy"></a><figcaption>SIGPRO Softy: softest replaceable strip</figcaption></figure>
-  <figure><a href="/golf/gear/country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: realism value pick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: realism value pick</figcaption></figure>
   <figure><a href="/golf/gear/sig-landing-pad-turf"><img src="/images/gear/golf/sig-landing-pad-turf.jpg" alt="SIG landing pad turf and putting green" loading="lazy"></a><figcaption>Landing turf: levels your stance</figcaption></figure>
 </div>
 
@@ -79,19 +79,7 @@ At the premium end, **Fiberbuilt** is the mat players with existing wrist or elb
 
 The Player Preferred studio line assembles tool-free and comes in single-hitting 7×4 and 8×4, center-hitting 10×4, and double-hitting 12×4 layouts, so a full platform also solves stance height and consistency on bare concrete in one piece. The trade-off is a swing feel that is a touch more "perfect" and a little less like resisting real turf — and a premium price near **$1,249 for the 7×4 Grass Series, rising to about $1,399** for the Player Preferred studio.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Joints first</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Hitting Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Studio platform · ~94.7% shock absorption</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Hitting Mat</a></span>
-    <p class="gp-why">The closest thing to insurance for your wrists and elbows — the vibration layer eats nearly 95% of the shock a chunked 7-iron sends up the shaft. Rated for 300,000 shots and takes a real wooden tee, so your driver setup matches the course.</p>
-    <span class="gp-price">~$1,249 (7×4); Player Preferred ~$1,399</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 ## SIGPRO Softy: The Softest Replaceable Strip
 
@@ -99,19 +87,7 @@ The mat formerly sold as the SIGPRO 4×7 is now the **SIGPRO Softy**, and Shop I
 
 The Softy earns its name. A super-soft foam insert under a 1-inch Teeline turf, a flexing ABS polyurethane layer, and **three compression slots on the underside that vent impact air pressure** make it one of the most joint-forgiving mats sold; MyGolfSpy's testers described the divot feel as "butter" and a fairway softened by recent rain. Owners routinely report long sessions with no wrist or arm pain. At about **$999** for the 4×7 platform (a 4×10 costs more), it lands between the value CCE and a full Fiberbuilt studio. The one caveat: at **2.5 inches thick** it is taller than most mats, which matters for your launch monitor and low ceilings — more on that below.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-4x7-mat"><span class="gp-tag">Softest strip</span><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO Softy 4x7 golf mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Swappable strip · compression-slot cushioning</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-4x7-mat">SIGPRO Softy 4×7 Golf Mat</a></span>
-    <p class="gp-why">The joint-saver with a service plan: the soft foam insert and vented compression slots let you hit for hours pain-free, and when the strike zone wears you swap the 28×12 strip instead of the whole mat. Stand on the big platform so your stance stays level.</p>
-    <span class="gp-price">~$999 (4×7)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-4x7-mat. -->
 
 ## Country Club Elite: The Realism Value Pick
 
@@ -120,16 +96,13 @@ The Softy earns its name. A super-soft foam insert under a 1-inch Teeline turf, 
 The honest caveat from build forums: some players find CCE **firmer than Fiberbuilt or the Softy on fat strikes**. It delivers the most authentic fairway feel of any mat at its price, and the popular 4×5 runs about **$479 (often listed near $599), scaling up to 5×10 for more**. It is the value champion of the premium tier and the highest-ROI first upgrade for most builds.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/country-club-elite-mat"><span class="gp-tag">Realism value pick</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite Golf Mat" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><span class="gp-tag">Realism value pick</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Real Feel Country Club Elite Golf Mat" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">110 oz nylon · True Divot Action</span>
-    <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Real Feel Country Club Elite Golf Mat</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">Real Feel Country Club Elite Golf Mat</a></span>
     <p class="gp-why">The enthusiast pick that gives honest down-and-through feedback instead of the bounce of cheap turf, yet still cushions your joints. Accepts a real tee and costs a fraction of a full platform — the value champion of the premium tier.</p>
     <span class="gp-price">~$479–$600 (4×5)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -146,25 +119,9 @@ Two more names come up constantly and deserve honest coverage even though we do 
 
 **TrueStrike** is the British realism benchmark: a patented **silicone-gel divot subsurface** inside a nylon-armored polyurethane pillow that compresses and moves like real ground, so the club takes a genuine divot and follows through. Plugged In Golf and others rate it the closest thing to hitting off grass indoors, and the Double model carries two gel sections for left- and right-handed play. It is modular, premium, and priced accordingly — **check current pricing** before you fall in love, because it sits above the everyday tier.
 
-<aside class="gearpick">
-  <div class="gp-body">
-    <span class="gp-eyebrow">Realism ceiling · gel divot system</span>
-    <span class="gp-name">TrueStrike Gel Golf Mat</span>
-    <p class="gp-why">The most realistic ground interaction indoors — the silicone-gel subsurface moves like real turf so you take an actual divot. Premium price; verify current cost and size before buying. We are sourcing verified product photography before featuring it as a body visual.</p>
-    <span class="gp-price">Check current pricing</span>
+<!-- Product card withheld: no stable product id was found. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <div class="gp-body">
-    <span class="gp-eyebrow">Modular · three swappable strips</span>
-    <span class="gp-name">Carl's HotShot Mat System</span>
-    <p class="gp-why">The tune-it-yourself pick: one cushioned base, three strip personalities (Standard, Foam, Gel). Swap the strip, not the mat, as your priorities shift from real-tee driver work to joint-first iron reps. Verified photography pending.</p>
-    <span class="gp-price">Check current pricing</span>
-
-  </div>
-</aside>
+<!-- Product card withheld: no stable product id was found. -->
 
 ## The Warning Nobody Reads Until It's Too Late: Mat Height vs Your Launch Monitor
 
@@ -191,19 +148,7 @@ A second decision sits underneath the brand choice — how much mat you actually
 
 If you are building on a garage slab, budget toward a platform or build a level stance area around your strip with landing turf. The [garage build guide](/golf/garage-golf-simulator-build-guide) covers flooring the bay so the mat sits right.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig-landing-pad-turf"><span class="gp-tag">Levels your stance</span><img src="/images/gear/golf/sig-landing-pad-turf.jpg" alt="SIG landing pad turf and putting green" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Floor protection · matched stance height</span>
-    <span class="gp-name"><a href="/golf/gear/sig-landing-pad-turf">SIG Landing Pad Turf</a></span>
-    <p class="gp-why">The cheap fix for the stance-height problem: lay landing turf around your strip so your feet sit at the same height as the ball. It also protects the floor from ricochets, deadens bounce, and doubles as a true-roll putting strip.</p>
-    <span class="gp-price">Scales by size (~$11–$14/sq ft)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig-landing-pad-turf">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig-landing-pad-turf. -->
 
 ## The Real-Tee Question
 
@@ -220,45 +165,22 @@ This is the feature that separates premium mats from budget ones, and it matters
 
 ## What To Buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Joints first</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best body-protection spend</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio / Player Preferred</a></span>
-    <p class="gp-why">The part you touch every swing. ~95% shock absorption and a real-tee holder make it the difference between daily practice and a very expensive room you avoid.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/country-club-elite-mat"><span class="gp-tag">Value + realism</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite Mat" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><span class="gp-tag">Value + realism</span><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite Mat" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best realism-per-dollar</span>
-    <span class="gp-name"><a href="/golf/gear/country-club-elite-mat">Real Feel Country Club Elite</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">Real Feel Country Club Elite</a></span>
     <p class="gp-why">The value champion of the premium tier. Honest down-and-through feel, real-tee capable, and it starts under $500. The high-ROI first upgrade for most builds.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/country-club-elite-mat">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-4x7-mat"><span class="gp-tag">Softest + serviceable</span><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO Softy Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best for heavy, joint-first practice</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-4x7-mat">SIGPRO Softy 4×7</a></span>
-    <p class="gp-why">The softest feel and a swappable strip so hard practice does not cost you a whole mat. Just plan for its 2.5-inch height against your ceiling and launch monitor.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-4x7-mat. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-side-barrier-netting"><span class="gp-tag">Protect the room</span><img src="/images/gear/golf/sigpro-side-barrier-netting.jpg" alt="SIGPRO side barrier netting" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Cheap insurance around the mat</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">SIGPRO Side Barrier Netting</a></span>
-    <p class="gp-why">A great mat still lets you shank one sideways. A few hundred dollars of side netting protects the walls, TVs, and windows around your bay for the cost of one repair you will never have to make.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-side-barrier-netting. -->
 
 ## Who Should Skip the Premium Mat
 

@@ -3,6 +3,7 @@ import Base from '../../../layouts/Base.astro';
 import bays from '../../../data/bays.json';
 import site from '../../../data/site.json';
 import { hasVerifiedProductImage } from '../../../lib/productMedia';
+import { canonicalAmazonProductUrl } from '../../../lib/amazon';
 
 export async function getStaticPaths() {
   return bays.map((b) => ({ params: { bay: b.slug }, props: { bay: b } }));
@@ -10,7 +11,12 @@ export async function getStaticPaths() {
 const { bay } = Astro.props;
 const mods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(mods).flatMap((m: any) => (m.default || [])) as any[];
-const products = all.filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p)).sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0));
+const amazonTag = (site as any).affiliate?.amazonTag;
+const products = all
+  .filter((p) => p.bay === bay.slug && hasVerifiedProductImage(p))
+  .map((p) => ({ ...p, amazonUrl: canonicalAmazonProductUrl(p, amazonTag) }))
+  .filter((p) => p.amazonUrl)
+  .sort((a, b) => (b.rating?.overall || 0) - (a.rating?.overall || 0));
 
 const types = [...new Set(products.map((p) => p.type))];
 const typeLabel = (t: string) => t.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase()) + 's';
@@ -43,15 +49,19 @@ const schema = [{
           <div class="sec-head"><h2>{typeLabel(t)}</h2><span class="lbl">{products.filter((p) => p.type === t).length}</span></div>
           <div class="card-grid">
             {products.filter((p) => p.type === t).map((p) => (
-              <a class="card" href={`/${bay.slug}/gear/${p.id}`}>
-                <div class="cimg"><img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" /></div>
+              <article class="card commerce-card">
+                <a class="cimg" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={p.id}><img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" /></a>
                 <div class="cbody">
                   <span class="ctype">{p.brand}{p.rating?.overall ? ` · ${p.rating.overall}/10` : ''}</span>
-                  <h3 style="font-size:1.08rem">{p.model}</h3>
+                  <h3 style="font-size:1.08rem"><a href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={p.id}>{p.model}</a></h3>
                   <p class="cexc">{p.summary}</p>
                   <span class="cmeta" style="color:var(--accent);font-size:.92rem">{p.price ? `~$${p.price.toLocaleString()}` : 'Price varies'}</span>
+                  <div class="commerce-actions">
+                    <a class="btn btn-primary" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={p.id}>Exact product on Amazon</a>
+                    <a class="btn" href={`/${bay.slug}/gear/${p.id}`}>Specs &amp; verdict</a>
+                  </div>
                 </div>
-              </a>
+              </article>
             ))}
           </div>
         </section>
@@ -66,3 +76,10 @@ const schema = [{
     )}
   </div>
 </Base>
+
+<style>
+  .commerce-card { display: flex; flex-direction: column; }
+  .commerce-card h3 a { color: inherit; }
+  .commerce-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+  .commerce-actions .btn { padding: 9px 11px; font-size: .64rem; }
+</style>

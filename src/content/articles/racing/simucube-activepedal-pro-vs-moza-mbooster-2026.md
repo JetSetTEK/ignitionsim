@@ -54,9 +54,9 @@ The active pedal pitch is intoxicating: software-defined brake feel, ABS pulse t
 ![Active pedal decision map for Simucube and MOZA](/images/infographics/racing/simucube-activepedal-pro-vs-moza-mbooster-2026-decision-map.svg)
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a><figcaption>Simucube: reference active-pedal refinement</figcaption></figure>
-  <figure><a href="/racing/gear/moza-mbooster-active-pedal"><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster Active Pedal" loading="lazy"></a><figcaption>MOZA: active pedal price disruption</figcaption></figure>
-  <figure><a href="/racing/gear/asetek-invicta-pedals"><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic pedals" loading="lazy"></a><figcaption>Hydraulic alternative: feel without active software</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a><figcaption>Simucube: reference active-pedal refinement</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal"><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster Active Pedal" loading="lazy"></a><figcaption>MOZA: active pedal price disruption</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0F4DD9CX5?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta-pedals"><img src="/images/gear/racing/asetek-invicta-pedals.jpg" alt="Asetek Invicta hydraulic pedals" loading="lazy"></a><figcaption>Hydraulic alternative: feel without active software</figcaption></figure>
   <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a><figcaption>Load cell: still the sane fast-driver baseline</figcaption></figure>
   <figure><img src="/images/curator-scenes/duke-racing-pedal-setup.webp" alt="AI editorial scene of Duke Alvarez checking simulator pedal mounting stiffness" loading="lazy"><figcaption>Duke's rule: active feedback only feels expensive if the pedal deck does not move. <span class="source-credit">AI editorial curator scene · not product proof</span></figcaption></figure>
 </div>
@@ -75,16 +75,13 @@ Simucube is the lower-regret flagship. MOZA is the value disruptor. Load cell is
 The Simucube ActivePedal Pro is the one people measure against because it feels less like a spec-sheet stunt and more like a mature system. Simucube lists software-defined force/travel, up to 110 kg of force, 5-74 mm travel, and Simucube Link/passive pedal integration. The buy case is profile control and feedback refinement.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-activepedal-pro"><span class="gp-tag">Reference active</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro"><span class="gp-tag">Reference active</span><img src="/images/gear/racing/simucube-activepedal-pro.jpg" alt="Simucube ActivePedal Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Active force-feedback pedal</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">Simucube ActivePedal Pro</a></span>
     <p class="gp-why">The active-pedal reference: polished software-defined feel, profiles, ABS/TC-style feedback, and less beta-energy than cheaper active options.</p>
     <span class="gp-price">~$1.8K+ per pedal class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/simucube-activepedal-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FDQV4H38?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="simucube-activepedal-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -101,16 +98,13 @@ That makes the Pro appealing to three kinds of builder. The first changes betwee
 MOZA mBooster is the reason this category suddenly feels less absurd. It brings active force feedback, software profiles, and strong sensor specs far below Simucube money. That does not make it automatically better. It makes it the aggressive value play where early-owner reports, firmware maturity, and ecosystem fit matter more.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-mbooster-active-pedal"><span class="gp-tag">Value disruptor</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster Active Pedal" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal"><span class="gp-tag">Value disruptor</span><img src="/images/gear/racing/moza-mbooster-active-pedal.png" alt="MOZA mBooster Active Pedal" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Active pedal</span>
-    <span class="gp-name"><a href="/racing/gear/moza-mbooster-active-pedal">MOZA mBooster Active Pedal</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">MOZA mBooster Active Pedal</a></span>
     <p class="gp-why">The active-pedal price disruptor. The spec sheet is strong and the price is far less punishing; the tradeoff is refinement and long-term confidence versus Simucube.</p>
     <span class="gp-price">~$799 class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-mbooster-active-pedal">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FZJXSJ3Y?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mbooster-active-pedal">View exact product on Amazon</a></span>
   </div>
 </aside>
 

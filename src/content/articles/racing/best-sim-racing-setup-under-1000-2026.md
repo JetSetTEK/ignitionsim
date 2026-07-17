@@ -39,9 +39,9 @@ Verdict first: **the sub-$1,000 rig to buy in 2026 is a [MOZA R12](/racing/gear/
 A thousand dollars used to buy a belt wheel and a folding stand and not much pride. In 2026 it buys a genuine direct-drive rig — base, load-cell pedals, a rigid mount, and a little left over — that never feels outgunned online. But there's exactly one way to blow it: spread the money evenly, or dump it all into torque. **Feel and consistency come from two parts — the base and the pedals — so they get the lion's share. The mount protects that investment. Everything else waits.**
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the base (12Nm, ~$399)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>MOZA CRP2 — the brake (200kg, ~$369)</figcaption></figure>
-  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a><figcaption>GT Omega Apex — the stretch mount (~$389)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the base (12Nm, ~$399)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>MOZA CRP2 — the brake (200kg, ~$369)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a><figcaption>GT Omega Apex — the stretch mount (~$389)</figcaption></figure>
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive bundle" loading="lazy"></a><figcaption>Thrustmaster T598 — the PS5 lane (~$500 bundle)</figcaption></figure>
 </div>
 
@@ -66,16 +66,13 @@ This is the heart of the rig and the easiest thing to get right in 2026. The 9-1
 Don't overthink the base. **Torque buys headroom, not lap time**, and 12Nm is a destination, not a stepping stone. The temptation to stretch to an 18Nm base and skimp on the brake is the single most common way budget builds go wrong — resist it. That's the whole [pedals-over-power](/racing/pedals-over-power) argument, and it's the most important idea in this guide.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Base pick</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Base pick</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm · PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The sweet-spot 12Nm base most drivers never outgrow, with the easiest software going and a full upgrade ladder behind it. The smart anchor for a PC build you don't intend to rebuy. Needs a 4-bolt mount — budget it below.</p>
     <span class="gp-price">~$399 on sale (~$469 list)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -88,16 +85,13 @@ This is where most budget builds fail, and where I'll be blunt: **a load-cell br
 The [MOZA CRP2](/racing/gear/moza-crp2) is the verified value king here: a rare 200kg load cell, CNC aerospace aluminum with a carbon heel plate, and a huge damper-tuning range, for ~$369-399. It connects over USB and is brand-agnostic, so no future base switch can ever strand it. It's near-endgame brake feel at a price that embarrasses boutique sets.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Pedal pick</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Pedal pick</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Load-cell pedals · 200kg · USB brand-agnostic</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The pedal that makes nine out of ten racers faster. A 200kg load cell, CNC aluminum, carbon heel plate and a deep tuning range — premium feel for the price of ordinary. Plugs into any base over USB, so it survives every future upgrade.</p>
     <span class="gp-price">~$369-399</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -115,16 +109,13 @@ A 12Nm base bolted to a flexing desk throws away half the feel you just paid for
 The budget-friendly answer that keeps the total under $1,000 is a **quality folding wheel stand** like the Next Level Racing Wheel Stand 2.0 (~$199). It bolts the base and pedals to the same rigid structure, handles a 12Nm base on the stock settings, and folds away for apartments with the gear still attached. If you catch the R12 on sale and have the floor space, the [GT Omega Apex](/racing/gear/gt-omega-apex) cockpit (~$389-449) is the bigger rigidity jump — a bolt-down steel frame with a seat in the box — and you keep the frame across every future upgrade.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Stretch mount</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Stretch mount</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Entry cockpit · seat included · steel frame</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex Cockpit</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex Cockpit</a></span>
     <p class="gp-why">A complete bolt-down cockpit with the seat in the box — a big rigidity and comfort jump over a folding stand. It handles the R12's 12Nm cleanly and future-proofs the frame. The upgrade to make if the R12 sale price frees up the room.</p>
     <span class="gp-price">~$389-449 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -137,31 +128,16 @@ The budget-friendly answer that keeps the total under $1,000 is a **quality fold
 
 Console buyers don't get the open PC field, and the R12 isn't an option — it's PC-only. On PS5, start with the [Thrustmaster T598](/racing/gear/thrustmaster-t598), an all-in ~$500 direct-drive bundle (Direct Axial Drive, 5Nm constant with overshoot effects) that ships with a wheel and Raceline pedals and works on PS5, PS4 and PC. It's the modern value gateway to console DD and leaves budget for a load-cell pedal upgrade later. The established alternative is the [Fanatec GT DD Pro](/racing/gear/fanatec-gt-dd-pro) bundle (8Nm, officially Gran Turismo licensed) — check the current bundle price, since the 5Nm kit runs ~$700 and the 8Nm ~$850 before sales.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">Best PS5 value</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive bundle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">PS5 / PS4 / PC direct-drive bundle · 5Nm</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">A complete ~$500 direct-drive bundle — base, wheel and Raceline pedals — for PlayStation and PC. Modest torque, but the Direct Axial Drive motor is smooth, and the bundle price leaves room to add a load-cell brake down the road.</p>
-    <span class="gp-price">~$500 bundle · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">PS5 established pick</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">PS5 established pick</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PS5 direct-drive bundle · 8Nm · GT licensed</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: officially licensed for Gran Turismo, ships complete with wheel and pedals, and opens the whole Fanatec ecosystem. Watch for Fanatec's frequent bundle sales before you commit — pricing moves a lot.</p>
     <span class="gp-price">bundle · check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -194,23 +170,25 @@ Here's the honest breakdown of a $1,000 that a lot of new racers get exactly bac
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">The rig · part 1</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">The rig · part 1</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Base — buy this first</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">Sweet-spot 12Nm, best software, real ladder, ~$399 on sale. The anchor of the sub-$1,000 rig. Add the CRP2 and a rigid mount and you're done for years.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">The rig · part 2</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">The rig · part 2</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Pedals — do not cheap out</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The 200kg load-cell brake that makes you consistent, ~$369. Tighter budget? The Fanatec CSL Pedals LC ($199.99) or MOZA SR-P (~$149) are honest load cells too.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

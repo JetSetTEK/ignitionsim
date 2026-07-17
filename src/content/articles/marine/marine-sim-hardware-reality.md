@@ -71,35 +71,20 @@ The **Saitek Pro Flight Throttle Quadrant** (~$50–$70) is the best-value pick 
 
 If you run single-screw vessels and want one smooth, high-resolution engine lever instead of a quadrant's short pivoting levers, the **Thrustmaster TWCS** is the step up. Its 80 mm slide-rail throttle uses a genuine 16-bit axis — far smoother than a potentiometer quadrant — plus a rotary and toggle rudder you can map to thruster or trim duty. Twin-screw ships still need a second axis from a quadrant or DIY board.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever"><span class="gp-tag">Smooth engine lever</span><img src="/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg" alt="Thrustmaster TWCS Throttle (as engine lever)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Flight throttle · 16-bit slide rail</span>
-    <span class="gp-name"><a href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Thrustmaster TWCS Throttle (as engine lever)</a></span>
-    <p class="gp-why">A flight throttle drafted as a ship's main engine lever. The 80 mm slide-rail is genuinely smooth and high-resolution — the nicest single-throttle feel short of a DIY build. One axis, so twin-screw ships need a quadrant alongside it. Analog-aware sims only.</p>
-    <span class="gp-price">~$130</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-twcs-throttle-engine-lever. -->
 
 ### The rudder: Thrustmaster T.16000M
 
 For sims that expose a true rudder axis rather than a wheel, a flight stick's twist axis is the natural rudder mapping. The **Thrustmaster T.16000M** uses contactless Hall-effect sensors, so the rudder axis stays precise and won't drift over years — a real edge over potentiometer sticks. A vertical stick is an odd hand position for steering, and it only fits rudder-axis titles, but the upcoming Professional Ship Simulator even added a rudder deadzone option aimed squarely at rigs like this.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/thrustmaster-t16000m-rudder"><span class="gp-tag">Rudder axis</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder"><span class="gp-tag">Rudder axis</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Flight stick · Hall-effect twist</span>
-    <span class="gp-name"><a href="/marine/gear/thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
     <p class="gp-why">A flight stick repurposed as a rudder — its twist axis maps cleanly to rudder in titles that expose one. Hall-effect sensors mean it won't develop the drift that kills cheap sticks. Only for rudder-axis sims, not wheel-steered ones.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -108,16 +93,13 @@ For sims that expose a true rudder axis rather than a wheel, a flight stick's tw
 A genuine crossover repurpose from the train-sim world: the **RailDriver** desk controller's chunky throttle, reverser and brake levers feel right for slow, deliberate marine engine work, and its 34 programmable buttons suit a busy bridge. The heavy caveats are honest — it's ~$220 for a repurpose, its software targets train titles so it needs third-party mapping (vJoy/JoyToKey) to talk to marine sims, and like everything here it only helps in analog-aware titles. Niche and pricey, but the lever ergonomics genuinely beat a flight quadrant for slow engine moves.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/raildriver-ship-throttle"><span class="gp-tag">Crossover lever feel</span><img src="/images/gear/marine/raildriver-ship-throttle.jpg" alt="RailDriver Desktop Train Cab Controller (as ship throttle)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle"><span class="gp-tag">Crossover lever feel</span><img src="/images/gear/marine/raildriver-ship-throttle.jpg" alt="RailDriver Desktop Train Cab Controller (as ship throttle)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Train controller · 34 buttons + levers</span>
-    <span class="gp-name"><a href="/marine/gear/raildriver-ship-throttle">RailDriver Desktop Cab Controller (as ship throttle)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle">RailDriver Desktop Cab Controller (as ship throttle)</a></span>
     <p class="gp-why">A train-cab controller carried over to ship sims for its long, deliberate lever feel — better than a flight quadrant for slow engine moves. Pricey for a repurpose and it needs mapping software, so it's for lever-feel obsessives, not the value buyer.</p>
     <span class="gp-price">~$220</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -140,49 +122,22 @@ Here's the twist that makes marine sim different from every other bay: its most 
 
 The classic Bridge Command guide points at the solder-it-yourself **BU0836A**. I don't have a verified photo of that exact board, so if you want a picture of what you're wiring, the **BU0836X** below is the same Leo Bodnar interface with solderless push-in terminals — the friendlier version of the same recipe.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">DIY helm board (no solder)</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8 analog axes · solderless</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836x-diy-board">Leo Bodnar BU0836X Joystick Interface</a></span>
-    <p class="gp-why">The proven Leo Bodnar board behind most DIY ship-helm builds, in its solderless push-in version. Eight analog axes plus 32 buttons cover twin throttles, wheel, thruster and a panel on one board — the whole Bridge Command recipe without a soldering iron. Ships from the UK.</p>
-    <span class="gp-price">~$77</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bu0836x-diy-board. -->
 
 For the switch side of a bridge console — nav lights, horn, autopilot, anchor, engine-room toggles — the digital-only **BBI-32** is the companion board. Solderless push-in terminals take 32 switches or up to 16 encoders (chainable to 132 inputs), so it handles a full panel while a BU0836 handles the axes.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bbi-32-button-box-interface"><span class="gp-tag">Bridge switch panel</span><img src="/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg" alt="Leo Bodnar BBI-32 Button Box Interface" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Digital-only · 32 inputs, no solder</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bbi-32-button-box-interface">Leo Bodnar BBI-32 Button Box Interface</a></span>
-    <p class="gp-why">The solderless digital workhorse for a bridge console's switches, knobs and encoders. Push-in terminals, 32 inputs (chainable to 132), plug-and-play HID. No analog axes, so it complements a BU0836 rather than replacing it.</p>
-    <span class="gp-price">~$53</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bbi-32-button-box-interface. -->
 
 If you'd rather code your own logic — software detents, button matrices, a combined helm-plus-button-box on one cheap board — the **Arduino Leonardo** (or a Pro Micro clone) presents as a real HID joystick via the open ArduinoJoystickLibrary. It's the flexible route: more effort than the no-code Bodnar boards, but full control, and the cheapest custom-controller foundation in the bay.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Code-it-yourself helm</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid"><span class="gp-tag">Code-it-yourself helm</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Native USB HID · ~$25</span>
-    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
     <p class="gp-why">The programmable DIY route. Its native USB and the open ArduinoJoystickLibrary make your pots and switches read as real axes and buttons — with logic a fixed board can't do. Cheapest custom foundation in the bay, but you write the sketch and build every bit of hardware.</p>
     <span class="gp-price">~$25</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -196,32 +151,26 @@ If you'd rather code your own logic — software detents, button matrices, a com
 If DIY isn't your thing, a **PXN CB1** is a finished, plug-and-play button box — 19 controls and up to 30 programmable functions for nav lights, horn, autopilot, anchor and engine commands. It's marketed for racing and truck sims, so you map its buttons to your marine title, and being all-digital it complements a throttle or wheel rather than replacing one.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/pxn-cb1-button-box"><span class="gp-tag">Ready-made panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box"><span class="gp-tag">Ready-made panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">19 controls · 30 functions</span>
-    <span class="gp-name"><a href="/marine/gear/pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
     <p class="gp-why">A finished bridge-command panel for builders who don't want to fabricate a Bodnar board. Nineteen controls, 30 programmable functions, driver-free USB-C. All-digital, so pair it with a throttle or wheel for the axes it doesn't provide.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 And VR sidesteps the hardware problem entirely. On a **Meta Quest 3** running MarineVerse Sailing Club, you "hold" the tiller and sheet with the hand-tracked controllers — no helm to buy, no analog-axis caveat. It's sailing-only (dinghies, yachts, catamarans), not ship-handling, and the experience lives or dies on the MarineVerse app rather than any peripheral. But it pairs with NauticEd courses, so it straddles game and real sail training. The cheaper Quest 3S runs the same software if budget is tight.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">No helm needed</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr"><span class="gp-tag">No helm needed</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">VR sailing · hand-tracked</span>
-    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
     <p class="gp-why">The one path that skips the whole hardware problem: hand-tracked controllers become the tiller and sheet, so the headset is the only gear. Sailing-only, and it leans entirely on MarineVerse — but the NauticEd course integration teaches genuine skills.</p>
     <span class="gp-price">~$499 (Quest 3S from ~$329)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -234,19 +183,7 @@ And VR sidesteps the hardware problem entirely. On a **Meta Quest 3** running Ma
 
 The most important consumer signal in years is **Professional Ship Simulator** (rebranded from Nautic XP), targeting Steam Early Access in **2026**. It is explicitly built around input flexibility: a **9-axis** input model, support for **50+ buttons**, a triple-layer keyboard layout, and a rudder deadzone option specifically for HOTAS and controller rigs. In a bay defined by software that ignores your hardware, a developer advertising nine axes is genuinely exciting. If it ships as described, it becomes the first mainstream marine sim that treats a builder's rig as a first-class citizen. It's Early Access, so expect launch caveats — but it's the title to wishlist.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/professional-ship-simulator-context"><span class="gp-tag">Upcoming · hardware-friendly</span><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Steam Early Access · 2026</span>
-    <span class="gp-name"><a href="/marine/gear/professional-ship-simulator-context">Professional Ship Simulator (ex-Nautic XP)</a></span>
-    <p class="gp-why">Not hardware — the most hardware-friendly sim on the horizon. Nine axes, 50+ buttons and a rudder deadzone option built for HOTAS/controller rigs mean it's the upcoming title most likely to actually read your repurposed wheel, throttle and button box as real analog inputs.</p>
-    <span class="gp-price">Price TBD · wishlist on Steam</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for professional-ship-simulator-context. -->
 
 ## The practical control stack
 

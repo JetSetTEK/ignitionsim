@@ -107,13 +107,13 @@ The owner caveats are consistent enough to plan around. Experienced users often 
 None of those make it a bad first cockpit. They mean **buy it for integration, not for boutique yoke feel**. At a deep sale, it is extremely persuasive. At its $399.99 list price, compare the total build you actually want before assuming the bundle is cheaper forever.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight"><span class="gp-tag">Buy now · complete Xbox/PC</span><img src="/images/gear/flight/turtle-beach-velocityone-flight.png" alt="Turtle Beach VelocityOne Flight Universal Control System" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight"><span class="gp-tag">Buy now · complete Xbox/PC</span><img src="/images/gear/flight/turtle-beach-velocityone-flight.png" alt="Turtle Beach VelocityOne Flight Universal Control System" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Yoke + throttle + trim + integrated yaw</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight">Turtle Beach VelocityOne Flight</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight">Turtle Beach VelocityOne Flight</a></span>
     <p class="gp-why">The one-box answer when “flying this weekend” matters more than building a perfect modular deck. Buy on a meaningful sale or with a generous return window so your hands can judge the center feel.</p>
     <span class="gp-price">$399.99 official list · check current Amazon price</span>
-    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight">Inspect the controls</a><a class="gp-buy" href="https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener">Buy exact model on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B09JM8SX8G?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight">View exact product on Amazon</a></span>
   </div>
 </aside>
 

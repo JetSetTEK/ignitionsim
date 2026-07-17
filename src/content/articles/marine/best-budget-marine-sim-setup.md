@@ -55,19 +55,7 @@ The cheapest good marine sim setup costs nothing beyond a controller you already
 
 This is not a throwaway tier. The honest truth running through the whole marine bay is that most titles were built around keyboard-style input, so a pad or even keys cover the core controls fine. Before you spend a dollar, play this way for a week. You'll learn which controls you actually wish were physical — and *that* is your shopping list, not a spec sheet.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/bridge-command-free-sim"><span class="gp-tag">Free · $0</span><img src="/images/gear/marine/bridge-command-free-sim.jpg" alt="Bridge Command free open-source ship-handling simulator" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Free open-source ship sim · DIY-documented</span>
-    <span class="gp-name"><a href="/marine/gear/bridge-command-free-sim">Bridge Command (free ship-handling sim)</a></span>
-    <p class="gp-why">The $0 on-ramp and the reason the budget tier isn't a compromise. Ship-handling focused, GPLv2, now version 5.9 with PCVR support — and the only sim that publishes an official DIY wheel-and-throttle build. Play it with a pad you own before you buy anything.</p>
-    <span class="gp-price">Free</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a href="https://www.bridgecommand.co.uk/Download" target="_blank" rel="nofollow noopener">Official free download</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for bridge-command-free-sim. -->
 
 If sailing rather than ship-handling is your thing, **Sailaway** has a demo path worth checking (a newer Sailaway III is on Steam) — confirm the current free-demo status on the store page before assuming, as demo availability shifts. Either way, the point stands: play free first.
 
@@ -90,19 +78,7 @@ Here's where the budget actually beats the wallet. Marine sim's most "native" ha
 
 The board the classic guide points at is the solder-it-yourself **Leo Bodnar BU0836A** (about £33 / ~$42 direct from Leo Bodnar) — the cheapest way in if you're comfortable with a soldering iron. I don't have a verified photo of that exact board, so it stays text-only here: [source the BU0836A direct from Leo Bodnar](https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204). If you'd rather see what you're wiring and skip the solder, the **BU0836X** below is the same Leo Bodnar interface with solderless push-in terminals — a bit pricier at about £59.99 / ~$77, but the friendlier version of the identical recipe, and I do have a verified image of it.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">Best value (no solder)</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8 analog axes · solderless</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836x-diy-board">Leo Bodnar BU0836X Joystick Interface</a></span>
-    <p class="gp-why">The proven Leo Bodnar board behind most DIY ship-helm builds, in its solderless push-in version. Eight analog axes plus 32 buttons cover twin throttles, wheel, thruster and a panel on one board — the whole Bridge Command recipe without a soldering iron. Cheaper still is the solder-it-yourself BU0836A. Ships from the UK.</p>
-    <span class="gp-price">~$77 (solder-it BU0836A ~$42)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=180" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bu0836x-diy-board. -->
 
 <div class="callout forum">
   <div class="ct">// From the builders</div>
@@ -112,16 +88,13 @@ The board the classic guide points at is the solder-it-yourself **Leo Bodnar BU0
 If you'd rather code your own logic — software detents, a button matrix, a combined helm-plus-panel on one cheap board — the **Arduino Leonardo** (or a Pro Micro clone) presents as a real HID joystick via the open ArduinoJoystickLibrary. It's the flexible route: more effort than the no-code Bodnar boards, but full control, and at about $25 it's the cheapest custom-controller foundation in the bay. For a strict budget it's the single cheapest way to a real analog axis the sim reads.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Cheapest real axis · ~$25</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid"><span class="gp-tag">Cheapest real axis · ~$25</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Native USB HID · code-it-yourself</span>
-    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
     <p class="gp-why">The cheapest path to a genuine analog axis. Its native USB and the open ArduinoJoystickLibrary make your pots and switches read as real axes and buttons, with logic a fixed board can't do. You write the sketch and build every bit of hardware — the trade for the lowest price of entry.</p>
     <span class="gp-price">~$25 (clones cheaper)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -140,34 +113,19 @@ If you've got a little room left in the budget after levers, two things add real
 A **PXN CB1** is a finished, plug-and-play button box — 19 controls and up to 30 programmable functions for nav lights, horn, autopilot, anchor and engine commands. It's marketed for racing and truck sims, so you map its buttons to your marine title, and being all-digital it complements a throttle rather than replacing one. At around $80 it's the no-DIY way to add a full command panel.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/pxn-cb1-button-box"><span class="gp-tag">Ready-made panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box"><span class="gp-tag">Ready-made panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">19 controls · 30 functions</span>
-    <span class="gp-name"><a href="/marine/gear/pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
     <p class="gp-why">A finished bridge-command panel for builders who don't want to fabricate a Bodnar board. Nineteen controls, 30 programmable functions, driver-free USB-C. All-digital, so pair it with a throttle for the axes it doesn't provide — a clean, cheap way to add nav lights, horn and autopilot commands.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 If you're going fully DIY and want a solderless way to wire a real panel of bridge switches, the digital-only **Leo Bodnar BBI-32** takes 32 switches or up to 16 encoders through push-in terminals — the switch-side companion to a BU0836 axis board. It's the maker's route to the same panel the CB1 gives you off the shelf, and it slots into a Bridge Command build cleanly.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bbi-32-button-box-interface"><span class="gp-tag">DIY switch panel</span><img src="/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg" alt="Leo Bodnar BBI-32 Button Box Interface" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Digital-only · 32 inputs, no solder</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bbi-32-button-box-interface">Leo Bodnar BBI-32 Button Box Interface</a></span>
-    <p class="gp-why">The solderless digital workhorse for a bridge console's switches, knobs and encoders. Push-in terminals, 32 inputs (chainable further), plug-and-play HID. No analog axes, so it complements a BU0836 rather than replacing it — the DIY answer to a ready-made button box.</p>
-    <span class="gp-price">~$53</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=205" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bbi-32-button-box-interface. -->
 
 ## Maybe a wheel — but it's a stretch, and buy the cheap one
 
@@ -204,33 +162,18 @@ A budget note on the horizon, and one VR sidestep — neither is a required purc
 
 **Professional Ship Simulator** (rebranded from Nautic XP), targeting Steam Early Access in 2026, is the most hardware-friendly marine sim on the horizon: a 9-axis input model, 50+ buttons, and a rudder deadzone option built for HOTAS and controller rigs. In a bay defined by software that ignores your hardware, that's genuinely exciting — it's the title most likely to read your cheap repurposed gear as real analog inputs. Price isn't announced and it's Early Access, so wishlist it, don't pre-plan a budget around it.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/professional-ship-simulator-context"><span class="gp-tag">Upcoming · hardware-friendly</span><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Steam Early Access · 2026</span>
-    <span class="gp-name"><a href="/marine/gear/professional-ship-simulator-context">Professional Ship Simulator (ex-Nautic XP)</a></span>
-    <p class="gp-why">Not hardware — the most hardware-friendly sim on the horizon. Nine axes, 50+ buttons and a rudder deadzone option built for HOTAS/controller rigs mean it's the upcoming title most likely to actually read your cheap repurposed wheel, throttle and button box as real analog inputs. Wishlist it; price is TBD.</p>
-    <span class="gp-price">Price TBD · wishlist on Steam</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for professional-ship-simulator-context. -->
 
 VR sidesteps the hardware problem entirely, though it's a stretch on a strict budget. On a **Meta Quest 3S** (from $349.99 after the April 2026 price change) running MarineVerse Sailing Club (a $29.99 one-time purchase), you "hold" the tiller and sheet with the hand-tracked controllers — no helm to buy, no analog-axis caveat. It's sailing-only, not ship-handling, and it leans entirely on MarineVerse. But it pairs with NauticEd courses, so it straddles game and real sail training. The pricier Quest 3 (512GB, $599.99) runs the same software.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">No helm needed</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr"><span class="gp-tag">No helm needed</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">VR sailing · hand-tracked</span>
-    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 / 3S (MarineVerse VR sailing)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">Meta Quest 3 / 3S (MarineVerse VR sailing)</a></span>
     <p class="gp-why">The one path that skips the whole hardware problem: hand-tracked controllers become the tiller and sheet, so the headset is the only gear. Sailing-only, and it leans on MarineVerse — but the NauticEd course integration teaches genuine skills. A stretch on a strict budget; the Quest 3S is the cheaper entry.</p>
     <span class="gp-price">~$350 (Quest 3S) + $29.99 app</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">View exact product on Amazon</a></span>
   </div>
 </aside>
 

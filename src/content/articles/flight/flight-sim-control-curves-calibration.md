@@ -88,21 +88,7 @@ One honest caveat. If an axis **drifts on its own** — the trim creeps, the air
 
 So the rule of thumb is simple: a *twitchy* axis is a **curve problem** (fix it in software); a *drifting* axis on old pot-based gear is a **hardware problem** (a small dead zone is a band-aid, new sensors are the cure). Know which one you have before you blame the wrong thing. If you're shopping with drift in mind, the [best flight sim hardware guide](/flight/best-flight-sim-hardware-2026) flags which yokes, sticks, and pedals use contactless sensors.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Drift-free · pedals</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Rudder pedals · aluminum frame, Hall-effect sensors</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Aeronautical Charlie Rudder Pedals</a></span>
-    <p class="gp-why">Rudder is the axis where drift bites hardest — a creeping yaw ruins a crosswind landing. The Charlie runs Hall-effect magnetic sensors on the rudder and toe brakes, so there's nothing to wear and no drift to mask with a dead zone. Keep the rudder near linear and it just tracks.</p>
-    <span class="gp-price">~$270 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 ## Calibrate the hardware before you curve the software
 
@@ -129,23 +115,20 @@ There's a step people skip: **calibrate the physical range first, then tune the 
 You can absolutely tune twitch out of budget gear — that's the whole point of a curve. But starting from a **low-deadzone, drift-free** control means your curve does its whole job and nothing more: you're not piling on dead zone to mask a worn pot, and you're not re-tuning every few months as the sensors degrade. Contactless magnetic sensors (Hall-effect on Honeycomb's metal gear, Thrustmaster's H.E.A.R.T on the TCA line) are the reason a clean curve stays clean.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — low-deadzone steel-shaft GA yoke</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — contactless H.E.A.R.T sensors, no pot wear</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — low-deadzone steel-shaft GA yoke</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — contactless H.E.A.R.T sensors, no pot wear</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a><figcaption>Honeycomb Charlie — Hall-effect rudder, drift-free</figcaption></figure>
 </div>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Drift-free reference · GA yoke</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Drift-free reference · GA yoke</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">GA yoke · steel shaft on dual ball bearings, low deadzone</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">If you're tuning out twitch, start from gear that isn't fighting you. The Alpha's steel shaft runs almost no deadzone, so a clean slightly-negative curve does its whole job — no dead-zone band-aids needed to mask worn pots. It's the easy reference point for "what a calm center should feel like."</p>
     <span class="gp-price">~$250 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>

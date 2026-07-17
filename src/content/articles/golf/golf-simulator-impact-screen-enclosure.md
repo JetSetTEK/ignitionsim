@@ -64,33 +64,9 @@ Two roads lead to an enclosed bay. Neither is wrong; they solve different proble
 
 Prices move with promos and screen tier, so check current pricing before you commit — Carl's runs frequent sales and the SIG10 has appeared between roughly $1,999 and $2,499 depending on promo and screen upgrade. The rule holds regardless of the exact number: **DIY buys flexibility and savings; premium buys out the ways a build goes wrong.**
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">DIY value pick</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY Golf Simulator Enclosure Kit with Impact Screen" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Screen + nylon enclosure · releasable zip ties · weighted bottom cable</span>
-    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure Kit with Impact Screen</a></span>
-    <p class="gp-why">The backbone of the build-it-yourself room. The base kit ships with the screen, nylon enclosure, and the exact hardware that pre-solves the three install mistakes — right tension hardware, releasable zip ties, and a weighted bottom cable with a no-border bottom. Choose your screen tier (Standard, Preferred, Premium, or High-Contrast Gray), add the pipe kit if you don't want to build a frame, and put the savings toward the launch monitor.</p>
-    <span class="gp-price">Kit commonly ~$750 sale / ~$1,000+ regular — check current, screen tier extra</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for carls-place-diy-enclosure. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Premium turnkey</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 Golf Simulator Enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">10'10" W x 8'4" H x 5' D (4:3) · SIGPRO Premium included · 250 mph rated</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Golf Simulator Enclosure</a></span>
-    <p class="gp-why">The complete bay for a dedicated room: color-coded push-pin frame, protective side and ceiling padding, a finished surround, and the included SIGPRO Premium screen engineered so the projected image fills 100% of it with zero white border. Two people assemble it in under an hour with no power tools, and the screen is rated to absorb ball impacts up to 250 mph. Step up to the Premier Gray screen if the room has ambient light.</p>
-    <span class="gp-price">~$2,000 with SIGPRO Premium — check current, Gray upgrade extra</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
 You can slot either option into a full budget in the [under-$10K build guide](/golf/home-golf-simulator-under-10000-2026), where the enclosure is planned with the whole cart instead of as an afterthought.
 
@@ -123,19 +99,7 @@ Impact screens climb a quality ladder, and the differences show up in three plac
 
 In independent head-to-head testing, the **SIGPRO Premium** outperformed the leading competitor across image quality, sound, bounceback, and durability — and MyGolfSpy reported it showed no sagging, tears, or meaningful image degradation after 150,000 ball strikes. That three-layer spacer-mesh build (two tight-knit polyester faces sandwiching vertical spacer yarns, about 3.5 inches thick) is why the same screen is both the sharpest 4K image and one of the lowest-rebound, quietest screens in the category. **Carl's Place** screens are built to take balls at high speed and offer the broadest customization, which is why they anchor most DIY builds. The honest read: the mid-premium tier is where most home players should live, and the jump to top-premium is worth it specifically if image quality is your priority or you're building a showpiece room.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-premium-impact-screen"><span class="gp-tag">Image-quality reference</span><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="Carl's Place SIGPRO Premium Impact Screen" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">3-layer spacer mesh · ~3.5 in thick · MyGolfSpy testing winner</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">Carl's Place SIGPRO Premium Impact Screen</a></span>
-    <p class="gp-why">The screen independent testing keeps crowning — sharpest 4K image, quietest thwack, lowest bounceback, and no sag after 150,000 strikes. The 3.5-inch three-layer build does double duty: it renders a crisp fairway and it eats impact energy so the ball drops dead instead of coming back at you. Buy it if image quality is the priority. Sizes run up to 10x10 in 1:1, 4:3, 16:10, and 16:9.</p>
-    <span class="gp-price">~$550 (smallest) to ~$1,150 (largest) by size — check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-premium-impact-screen">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-premium-impact-screen. -->
 
 You can compare the exact screen against the rest of a budget in the [full cost breakdown](/golf/golf-simulator-cost).
 
@@ -161,30 +125,24 @@ The trap: **forcing a native 16:9 projector into 4:3 or 1:1 can dramatically inc
 The move: pick the screen size your room depth allows, confirm the aspect ratio matches your projector's native output, and use the manufacturer throw calculator before drilling. Mark the projector location with tape and test-fit the image first. Pair this with the [projector throw-ratio math](/golf/golf-simulator-projector-guide) rather than choosing screen and projector in isolation.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Tight-room throw</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><span class="gp-tag">Tight-room throw</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">0.496:1 throw · 4,200 lumens · 1080p laser</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The value pairing when the room is shallow and the screen is the constraint. Its ultra-tight 0.496:1 throw covers a 12-foot-wide screen from under 6 feet, so it clears the swing in a garage where a longer-throw unit can't fit. Check offset and throw against your exact screen size and aspect ratio before buying.</p>
     <span class="gp-price">Commonly around $1.2K — check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Premium image</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st"><span class="gp-tag">Premium image</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">True 4K · 5,100 lumens · Golf Mode · wide lens shift</span>
-    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">BenQ LK936ST</a></span>
     <p class="gp-why">When the image on a premium screen is the flex. Its wide lens shift (+/-60% vertical) makes a clean ceiling install forgiving in an imperfect room, and Golf Mode fixes the purple fringing that bright screens can show. It still needs ~14-15 ft of mounting distance to fill a near-10-foot-tall image, so verify the geometry against your enclosure depth.</p>
     <span class="gp-price">Premium 4K tier (~$4.9K) — check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -197,35 +155,11 @@ The enclosure isn't just the screen frame — the **side and ceiling baffles** a
   <p>Side barrier netting is the cheapest insurance in the whole bay. A pair of 10x8 nets along the enclosure sides catches the shank that would otherwise find a wall, a TV, or a window — a few hundred dollars that prevents a four-figure repair. Add them to any enclosed bay built near anything you'd hate to replace, and weight the bottoms so a hard hit doesn't kick them out of the way.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-side-barrier-netting"><span class="gp-tag">Cheap insurance</span><img src="/images/gear/golf/sigpro-side-barrier-netting.jpg" alt="SIGPRO Side Barrier Netting" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Pair of 10 ft x 8 ft nets · sandbags + carabiners included</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">SIGPRO Side Barrier Netting</a></span>
-    <p class="gp-why">The few-hundred-dollar add that protects the walls, TVs, and windows beside the bay. Two nets hang along the enclosure sides to catch shanks, skulls, and ricochets, attach in minutes with hook-Velcro to a SIGPRO enclosure, and ship with two sandbags and two carabiners. On a DIY frame you can still hang them with your own hardware.</p>
-    <span class="gp-price">~$400 — check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-side-barrier-netting">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-side-barrier-netting. -->
 
 The floor matters too. A landing-pad turf roll between the mat and the screen protects the floor from ricochets, deadens bounce and noise, and doubles as a putting strip — and it visually ties the bay together so it reads like a studio instead of a mat on concrete.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig-landing-pad-turf"><span class="gp-tag">Floor + putting</span><img src="/images/gear/golf/sig-landing-pad-turf.jpg" alt="SIG Landing Pad Turf and Putting Green" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Floor protection · deadens bounce · true-roll putting</span>
-    <span class="gp-name"><a href="/golf/gear/sig-landing-pad-turf">Landing Pad Turf and Putting Green</a></span>
-    <p class="gp-why">The finishing layer that protects the floor from ricochets, quiets the room, and rolls true enough to practice short putts. It lies between the hitting mat and the screen, cut to fit, and pricing scales with size. A low-cost, high-impact comfort-and-protection upgrade for any enclosed bay.</p>
-    <span class="gp-price">~$11-$14 per sq ft for full systems — check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig-landing-pad-turf">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig-landing-pad-turf. -->
 
 ## The Mat Lives Inside the Same Bay
 
@@ -234,7 +168,7 @@ Your enclosure and screen decide safety and image; the **mat** decides whether y
 <div class="shotgrid">
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio hitting mat" loading="lazy"></a><figcaption>Fiberbuilt: ~95% shock absorption, real tees</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-4x7-mat"><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4x7 hitting mat" loading="lazy"></a><figcaption>SIGPRO 4x7: swappable hitting strip</figcaption></figure>
-  <figure><a href="/golf/gear/country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: value, True Divot feel</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: value, True Divot feel</figcaption></figure>
 </div>
 
 ## Who Should Skip a Full Enclosure
@@ -254,45 +188,13 @@ If you're a **data-and-practice player** hitting into a net with no projection, 
 
 ## What To Buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">Most builds</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best value enclosure path</span>
-    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure + Preferred screen</a></span>
-    <p class="gp-why">Match size, screen, pipe kit, back cover, foam, and side protection to the room. The value sweet spot for most home bays, with the bounceback hardware built in.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for carls-place-diy-enclosure. -->
 
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-premium-impact-screen. -->
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-premium-impact-screen"><span class="gp-tag">Image priority</span><img src="/images/gear/golf/sigpro-premium-impact-screen.jpg" alt="SIGPRO Premium impact screen" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best screen for image quality</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-premium-impact-screen">SIGPRO Premium Impact Screen</a></span>
-    <p class="gp-why">The MyGolfSpy testing winner: sharpest 4K image, quietest, lowest bounceback, no sag after 150,000 strikes. Buy it if the picture is the point.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Turnkey room</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best premium all-in-one</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Golf Simulator Enclosure</a></span>
-    <p class="gp-why">A dedicated ~11-ft room and a tool-free bay with frame, padding, surround, and a 250 mph-rated SIGPRO Premium screen. Zero white border, engineering done for you.</p>
-
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-side-barrier-netting"><span class="gp-tag">Don't skip</span><img src="/images/gear/golf/sigpro-side-barrier-netting.jpg" alt="SIGPRO side barrier netting" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best cheap protection</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-side-barrier-netting">SIGPRO Side Barrier Netting</a></span>
-    <p class="gp-why">A few hundred dollars that saves the walls, TVs, and windows beside the bay from the inevitable shank. Add it to any enclosed room built near anything valuable.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-side-barrier-netting. -->
 
 ## The Verdict
 

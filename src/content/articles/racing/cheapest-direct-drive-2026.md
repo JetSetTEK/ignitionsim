@@ -40,10 +40,10 @@ Verdict first: **the cheapest genuine direct drive in 2026 is the [Cammus C5](/r
 For years, "direct drive" and "affordable" did not belong in the same sentence. Real DD meant a four-figure base before you added a wheel, pedals, or a stand strong enough to hold it. The entry tier was belt wheels, the rubber-band stuff, and that was that. That wall fell in 2025, and in 2026 the rubble is gorgeous: you can now buy a complete, genuine motor-on-the-shaft direct-drive kit, base plus wheel plus pedals, for under $320. The headline truth is that **the floor is now so good that the hard question isn't "can I afford real DD?" — it's "should I spend $100 more and never shop for a base again?"**
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — cheapest bundle, Xbox + PC (3.9Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R5 — first ladder rung (5.5Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro PS5 bundle" loading="lazy"></a><figcaption>Fanatec GT DD Pro — best for PS5 (8Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the value sweet spot (12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — cheapest bundle, Xbox + PC (3.9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R5 — first ladder rung (5.5Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro PS5 bundle" loading="lazy"></a><figcaption>Fanatec GT DD Pro — best for PS5 (8Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the value sweet spot (12Nm)</figcaption></figure>
 </div>
 
 ## The budget ladder: cheapest to the value sweet spot
@@ -65,16 +65,13 @@ The **[Cammus C5](/racing/gear/cammus-c5)** is the literal cheapest way in — o
 The **[MOZA R3](/racing/gear/moza-r3-xbox-bundle)** trades a little torque (3.9Nm) for two things the Cammus can't offer: it's officially licensed for **Xbox**, and it's the bottom rung of MOZA's deep ladder. Outgrow it and you slot into the R5, R9, R12, all the way to the R21, keeping much of your peripheral investment. For console players leaving Logitech G920/G923 territory, or anyone who suspects they'll catch the bug, the R3 is the smarter long game even at slightly less torque.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Cheapest bundle</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Cheapest bundle</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Entry DD bundle · 3.9Nm · Xbox + PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
     <p class="gp-why">The cheapest credible Xbox direct drive and the only entry bundle here that isn't PC-locked. Complete with wheel, pedals and clamp, and it's the first rung of MOZA's ladder, so nothing you buy is stranded when you climb.</p>
     <span class="gp-price">~$319 on sale (3.9Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -90,16 +87,13 @@ Here's the number that reframes the whole budget: **the [MOZA R12](/racing/gear/
 The deeper reason it wins the budget conversation is the ladder behind it. Buy an R12 and you've bought into a system, R5, [R9](/racing/gear/moza-r9), R16, R21, that shares quick releases, wheels and the excellent Pit House software. So even the "buy the floor" crowd should pause here: for the price of a nicer starter bundle, the R12 is the base you stop shopping for. The catch is real, though: it's PC-only and 12Nm needs a proper 4-bolt mount, not a desk clamp.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Value sweet spot</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Value sweet spot</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive wheelbase · 12Nm · PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">Only about $110 above the cheapest bundle, but a full 12Nm in the torque sweet spot most drivers never outgrow, the best tuning software in the business, and a whole upgrade ladder waiting behind it. The base you buy once and stop shopping for.</p>
     <span class="gp-price">~$429 (12Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -115,32 +109,17 @@ Console buyers don't get the open field PC racers do. If you're on **PS5**, the 
 The value-minded PlayStation alternative is the [Thrustmaster T598](/racing/gear/thrustmaster-t598) (~$400-500 bundle), a Direct Axial Drive base with 5Nm constant torque that ships with a detachable rim and Raceline LTE pedals for PS5, PS4 and PC. It undercuts the GT DD Pro and is a genuinely credible entry, though its bundled rim is the first thing enthusiasts tend to outgrow.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro PS5 bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Best for PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro PS5 bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PS5 direct-drive bundle · 5-8Nm</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: officially licensed for Gran Turismo, complete with wheel and pedals, and a doorway into the whole Fanatec ecosystem. The 8Nm bundle adds the Boost Kit 180. Watch for Fanatec's frequent sales before you buy.</p>
     <span class="gp-price">$700 (5Nm) / $850 (8Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">PS5 value pick</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive bundle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">PS5/PS4/PC bundle · 5Nm Direct Axial Drive</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">The affordable PlayStation direct-drive bundle: 5Nm constant torque with overshoot effects, a detachable rim and Raceline LTE pedals in the box. Smooth low-cogging feel and a real alternative to the GT DD Pro entry path.</p>
-    <span class="gp-price">~$400-500 bundle · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 ## The Fanatec wildcard: CSL DD
 
@@ -187,23 +166,25 @@ If you're genuinely **testing whether sim racing sticks**, buy the floor, a Camm
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Buy this if you're hooked</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Buy this if you're hooked</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Value sweet spot, PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">Only ~$110 more than the cheapest bundle and the base you never outgrow. 12Nm, best software, real ladder. Add a load-cell brake and a rigid mount and you're done for years.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Buy this at the floor</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Buy this at the floor</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cheapest credible bundle, Xbox + PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
     <p class="gp-why">The right floor for a tight budget or a toe in the water: real direct drive, complete kit, Xbox support, and the first rung of a ladder so nothing's stranded if you climb. On PC-only budgets, the Cammus C5 goes even cheaper.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

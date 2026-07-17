@@ -53,10 +53,10 @@ The Foresight mistake is thinking the logo solves the decision. It does not. The
 ![Foresight GCQuad vs GC3 vs Falcon family map](/images/infographics/golf/foresight-gcquad-vs-gc3-vs-falcon-2026-family-map.svg)
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3 launch monitor" loading="lazy"></a><figcaption>GC3: serious home value in the Foresight family</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3 launch monitor" loading="lazy"></a><figcaption>GC3: serious home value in the Foresight family</figcaption></figure>
   <figure><a href="/golf/gear/foresight-gcquad"><img src="/images/gear/golf/foresight-gcquad.jpg" alt="Foresight GCQuad launch monitor" loading="lazy"></a><figcaption>GCQuad: fitting reference and commercial confidence</figcaption></figure>
   <figure><a href="/golf/gear/foresight-falcon"><img src="/images/gear/golf/foresight-falcon.jpg" alt="Foresight Falcon overhead launch monitor" loading="lazy"></a><figcaption>Falcon: the clean overhead Foresight room</figcaption></figure>
-  <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Launch Pro: the subscription-math doorway</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Launch Pro: the subscription-math doorway</figcaption></figure>
 </div>
 
 ## The fast decision
@@ -148,16 +148,13 @@ Run the first session as commissioning, not entertainment: confirm ball lock, dr
 GC3 is the Foresight I would put in the most premium home builds. It sits beside the ball, works indoors/outdoors, and carries the Foresight data trust without the fully-loaded GCQuad tax. The biggest caution is variant confusion: GC3 and GC3S/Launch Pro-style paths can differ in software structure. Read the exact SKU and plan before buying.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-gc3"><span class="gp-tag">Best home Foresight</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><span class="gp-tag">Best home Foresight</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight GC3" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Premium side-of-ball</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight GC3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">Foresight GC3</a></span>
     <p class="gp-why">The best Foresight balance for serious home users: trusted camera data, portability, and less financial violence than GCQuad or a full overhead install.</p>
     <span class="gp-price">~$7K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/foresight-gc3">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -165,37 +162,13 @@ GC3 is the Foresight I would put in the most premium home builds. It sits beside
 
 GCQuad is the unit you buy when data credibility is the product. Fitters and coaches pay for the four-camera reference because the output is part of their professional promise. For home play, that can be overkill. For a teaching studio, it can be the machine that makes the room legitimate.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-gcquad"><span class="gp-tag">Fitting reference</span><img src="/images/gear/golf/foresight-gcquad.jpg" alt="Foresight GCQuad" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Commercial benchmark</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-gcquad">Foresight GCQuad</a></span>
-    <p class="gp-why">The reference path when impact location, fitting credibility, outdoor coaching, and commercial trust matter more than saving money.</p>
-    <span class="gp-price">$12K-$18K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/foresight-gcquad">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for foresight-gcquad. -->
 
 ## Falcon: the room-first Foresight
 
 Falcon is not a GCQuad replacement. It is the Foresight overhead answer. Buy it when the clean ceiling install matters, when left/right handed switching matters, and when the room is permanent enough to deserve overhead architecture. Do not buy Falcon for a flexy garage that still parks a car in winter.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-falcon"><span class="gp-tag">Overhead Foresight</span><img src="/images/gear/golf/foresight-falcon.jpg" alt="Foresight Falcon" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Permanent bay</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-falcon">Foresight Falcon</a></span>
-    <p class="gp-why">The premium finished-room play: overhead Foresight-family tech, clean sensor placement, and less floor clutter for mixed-handed groups.</p>
-    <span class="gp-price">~$15K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/foresight-falcon">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for foresight-falcon. -->
 
 ## The software trap
 

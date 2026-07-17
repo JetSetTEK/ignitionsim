@@ -38,8 +38,8 @@ Verdict first: **buy the Honeycomb Alpha yoke, fly it for a few weeks, then add 
 Nobody should buy a complete flight deck in one click. Even with the budget, dropping $600-plus of hardware on the desk at once teaches you nothing about what each piece does for you — and you'll have positioned all of it wrong, because you had no flying hours to tell you what feels right. The smarter move is staged: three pieces, each useful on its own, that add up to a complete general-aviation cockpit. Here's the order, what each stage changes about how you fly, and the honest word on where the Honeycomb ecosystem gets bumpy.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a><figcaption>Alpha — Stage 1, the foundation</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a><figcaption>Bravo — Stage 2, the multiplier</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a><figcaption>Alpha — Stage 1, the foundation</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a><figcaption>Bravo — Stage 2, the multiplier</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a><figcaption>Charlie — Stage 3, the finisher (stock permitting)</figcaption></figure>
 </div>
 
@@ -65,16 +65,13 @@ What stage 1 unlocks: precise hand-flying and a real start-up procedure. Fly the
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Stage 1 · foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Stage 1 · foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">GA yoke · 180° steel shaft, integrated ignition panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">Buy this first, always — pitch and roll are what your hands touch every second. A defined self-centering return you can trim against, plus a base panel of master, avionics, lights and a five-position ignition knob that moves your start-up off the mouse.</p>
     <span class="gp-price">~$299.99 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -91,16 +88,13 @@ What stage 2 unlocks: real power management on multi-engine aircraft and hands-o
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">Stage 2 · multiplier</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><span class="gp-tag">Stage 2 · multiplier</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant · 6 swappable levers + autopilot panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
     <p class="gp-why">Where a single control becomes a cockpit. Six swappable levers from single-engine to quad, a trim wheel and gear lever, and the killer feature — a real autopilot panel so you manage cruise from physical knobs instead of a tiny on-screen box.</p>
     <span class="gp-price">~$299.99 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -109,16 +103,13 @@ Fly a mix of jets and want your throttle to swap character between an F-18, an A
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/moza-mtq-throttle-quadrant"><span class="gp-tag">Alt · modular jet throttle</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant"><span class="gp-tag">Alt · modular jet throttle</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant · swappable fighter/Airbus/Boeing levers</span>
-    <span class="gp-name"><a href="/flight/gear/moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
     <p class="gp-why">The reconfigurable jet quadrant: TQF fighter levers included, TQA Airbus and TQB Boeing packs (~$39 each) that actually change the detents. Non-removable flap detents are the one knock, but the versatility in a compact body is real — and unlike the Bravo it's for the jet crowd.</p>
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -136,21 +127,7 @@ Here's where the Honeycomb story gets honest. The matching [Honeycomb Charlie](/
 
 The Charlie gearpick is here for reference and for the day stock returns, but treat the buy link as a stock check, not a guarantee.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">Stage 3 · if in stock</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Aeronautical Charlie Rudder Pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Aluminum belt-drive · Hall-effect toe brakes</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Aeronautical Charlie Rudder Pedals</a></span>
-    <p class="gp-why">The metal rung of the deck: Hall-effect sensors that resist drift, variable-pressure toe brakes that feel proportional, and adjustable foot angle. On paper it's the perfect finisher — but its availability is unreliable, so verify real stock before you get attached.</p>
-    <span class="gp-price">~$349.99 official · <strong>often out of stock</strong></span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 Whatever set you buy, rudder pedals come last on purpose. The twist or rocker rudder on your earlier hardware carries you through your first months of flying; you add real pedals when yaw becomes the limiting factor — crosswind landings, taxiing taildraggers, coordinating turns. By then you have the hours to know you want them, and the good news is the pedal market has plenty of in-stock options that hit the same goals the Charlie was aiming for.
 
@@ -180,48 +157,39 @@ The Honeycomb ladder is a GA instrument, full stop. If your flying drifts toward
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Airbus · rung one</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Airbus · rung one</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">A320 side-stick · contactless H.E.A.R.T sensors</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
     <p class="gp-why">The cheapest honest way into the Fenix A320. A 1:1 side-stick with a twist rudder and built-in thrust lever so it flies solo, and magnetic sensors that never wear out. At ~$80 it's a quarter of a yoke's price — the correct rung-one buy for Airbus.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus · rung two</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus · rung two</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">A320neo throttle · Idle/Climb/Flex/TO-GA detents</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
     <p class="gp-why">Authentic Airbus detent gates and fingertip reversers on contactless sensors that never wear out. Under $100, it turns the TCA Sidestick into a real Airbus cockpit and grows into a pedestal via the optional Add-On module.</p>
     <span class="gp-price">~$100</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-yoke-boeing"><span class="gp-tag">Boeing · rung one</span><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing"><span class="gp-tag">Boeing · rung one</span><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">787-inspired yoke + quadrant · PENDUL_R motion</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-yoke-boeing">Thrustmaster TCA Yoke Pack Boeing Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing">Thrustmaster TCA Yoke Pack Boeing Edition</a></span>
     <p class="gp-why">The 787-style yoke reviewers rate closest to a real airliner column, with a pendular motion that swings rather than slides. The bundled quadrant is the softer half, but the yoke carries the pack — and it's Xbox-licensed.</p>
     <span class="gp-price">~$500 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -234,32 +202,26 @@ Once the controls are sorted — GA or airliner — the cheapest big immersion u
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Add last · head tracking</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Add last · head tracking</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head tracking · 6DOF, 120 FPS, wear-a-clip</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The genre standard for over a decade. Six-degree head tracking that frees your hands and adds huge situational awareness, native in 200-plus sims. You wear a clip and the curves take tuning, but dialed in it's transformative — and it's roughly half the Tobii's price.</p>
     <span class="gp-price">~$174 (TrackClip PRO bundle) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">Add last · no-clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">Add last · no-clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head + eye tracking · nothing to wear</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">The clip-free route: a sensor bar under the monitor tracks head and eyes, so you just sit down and fly. Pricier than TrackIR and best on a single screen up to ~30 inches, but the no-prep convenience is the reason many pilots choose it.</p>
     <span class="gp-price">~$279-339 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>

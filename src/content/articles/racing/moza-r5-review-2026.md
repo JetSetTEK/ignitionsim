@@ -39,10 +39,10 @@ Verdict first: **the MOZA R5 (~$399 US bundle, 5.5Nm) is still a genuinely good 
 The R5's whole pitch is the on-ramp. It ships as a bundle — you can't buy the base alone — and it's a clean, complete one: plug it in, install MOZA's Pit House software, and you're driving a direct-drive wheel with real road feel for less than many belt-driven kits cost. For a first taste of DD, or a compact rig where a bigger base won't fit, that pitch still lands. The catch is everything above it in MOZA's own lineup got cheaper too.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct-drive wheelbase bundle" loading="lazy"></a><figcaption>MOZA R5 — the subject (5.5Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r9"><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R9 — the step-up (9Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the ceiling (12Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — the Xbox option (3.9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct-drive wheelbase bundle" loading="lazy"></a><figcaption>MOZA R5 — the subject (5.5Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R9 — the step-up (9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — the ceiling (12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a><figcaption>MOZA R3 — the Xbox option (3.9Nm)</figcaption></figure>
 </div>
 
 ## What you actually get
@@ -65,16 +65,13 @@ It's also **smooth, silent and thermally stable** over long sessions. No fan whi
 Where you feel the ceiling is in **heavy cars and big moments.** A high-downforce prototype or an old non-power-steering car will ask for more than 5.5Nm can give, and you'll sense the base run out of room. Hang a heavy wheel rim on it and the detail softens, too — light rims keep the feel crisp. For GT3, formula and road racing with the bundled rim, though, 5.5Nm is plenty. You are not leaving lap time on the table at this tier.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">The subject</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 wheelbase bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><span class="gp-tag">The subject</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 wheelbase bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Entry DD bundle · 5.5Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">MOZA R5</a></span>
     <p class="gp-why">The cheapest real MOZA — base, ES wheel, SR-P Lite pedals and a dual desk clamp in one clean bundle. NexGen 4.0 feel that punches above 5.5Nm, silent and thermally stable. Buy it to spend less now and resell cheap when you climb the ladder — just budget a pedal upgrade and check how close the R9 sits before you commit.</p>
     <span class="gp-price">~$399 (US bundle) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -89,16 +86,13 @@ I won't bury these, because they decide the purchase:
 The **myth to retire:** the R5 does *not* have an oddball mounting pattern. It uses a standard four-hole M6 layout, and hands-on reviews confirm it lines up with MOZA's mounting plate with no drilling — and the dual desk clamp is in the box. So mounting is easy: a sturdy desk with the clamp is fine to start, and 5.5Nm won't tear a solid desk apart, though a rigid stand lets the base come fully alive.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">The Xbox answer</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">The Xbox answer</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Console DD bundle · 3.9Nm · Xbox + PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 (Xbox)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 (Xbox)</a></span>
     <p class="gp-why">If the R5's PC-only limit is your dealbreaker, this is MOZA's way onto Xbox: an officially licensed 3.9Nm DD bundle with wheel, SR-P Lite pedals and a clamp. Less torque than the R5, but it's real direct drive on console — the cheapest credible way off a gear-driven Xbox wheel.</p>
     <span class="gp-price">~$319–$399 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -119,16 +113,13 @@ The R5 still wins in two honest cases. First, **budget or cockpit size:** if the
 The R12 remains the "buy once, stop" answer for a committed racer: 12Nm is the ceiling most drivers never push past. But between the R5 and R9, the price gap — not the torque gap — is now the deciding factor. Check both today before you buy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r9"><span class="gp-tag">The step-up</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V3 wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><span class="gp-tag">The step-up</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 V3 wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 9Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">MOZA R9</a></span>
     <p class="gp-why">If you can stretch even a little, this is the smarter single purchase in 2026: the 9Nm force-feedback sweet spot with wireless V2 wheel comms, and — after MOZA's V3 re-tier and Mid-Year price cut — often within a few dollars of the R5 bundle. Buy once instead of twice unless budget or cockpit size genuinely favors the smaller R5.</p>
     <span class="gp-price">base ~$299–$349 on sale · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r9">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r9">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -144,16 +135,13 @@ The R12 remains the "buy once, stop" answer for a committed racer: 12Nm is the c
 - **Spend time in Pit House.** MOZA's software is a genuine strength; a few minutes neutralizing filters and setting per-game strength gets far more out of the base than the defaults.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">First upgrade</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">First upgrade</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The pedal that makes the R5 feel like a different rig. A 200kg load cell, a tunable damper stack and CNC aluminum — pressure-based braking that ends the SR-P Lite wander. It plugs into any base over USB, so it survives every future wheelbase you climb to.</p>
     <span class="gp-price">~$399 (US)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -184,23 +172,25 @@ Skip it if you race on **console** (PC-only kills it — the R3 is your MOZA pat
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">Buy this on a budget</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 wheelbase bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><span class="gp-tag">Buy this on a budget</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 wheelbase bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cheapest real MOZA bundle</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">MOZA R5</a></span>
     <p class="gp-why">The right call when budget or cockpit size is tight: a complete, ready-to-drive DD bundle with clamp and pedals for around $399. Add a load-cell brake and you've got a rig that punches far above its price. Resell it cheap when you climb.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r9"><span class="gp-tag">Buy this if you can stretch</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9"><span class="gp-tag">Buy this if you can stretch</span><img src="/images/gear/racing/moza-r9.jpg" alt="MOZA R9 wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The 2026 smart-money base</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r9">MOZA R9</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">MOZA R9</a></span>
     <p class="gp-why">After the V3 re-tier, the 9Nm sweet spot with wireless V2 comms sits close enough to the R5 that most PC racers should buy it once instead of twice. Pair it with a load-cell brake and a wheel and you're set for years.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r9">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CYM7PNNN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r9">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

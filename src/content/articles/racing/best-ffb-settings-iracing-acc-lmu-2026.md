@@ -79,16 +79,13 @@ These are conservative starting points — the highest gain where most cars stay
 **Bold takeaway:** stronger bases want the *same or lower* gain percentages, not higher — plus more headroom for the spikes. A 12Nm base at a sane gain can out-punch an 8Nm base run near its ceiling, precisely because it isn't clipping into every corner.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Easiest to tune</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Easiest to tune</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm, Pit House</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">If you're picking a base to live this workflow on, the R12 makes it painless. MOZA publishes its own iRacing numbers (Strength 65, FFB Intensity 100%, Road Sensitivity 10), Pit House is the cleanest software for neutralizing filters, and 12Nm gives enough headroom that a sane in-game gain rarely clips. The native 360Hz iRacing mode is the cherry on top.</p>
     <span class="gp-price">~$429 (12Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -155,19 +152,7 @@ LMU is built on the rFactor 2 engine and responds well to a strong ceiling that 
   <p>The recurring LMU thread nobody wants to believe: the "dropout" that cuts your wheel dead mid-corner usually isn't the game. On MOZA bases it's <strong>Hands-Off Protection</strong> firing by mistake — turn it OFF in Pit House. And after the March 2026 Studio 397 V1.3 update broke Pit House's built-in "LMU Preset," a lot of R5-R21 owners chasing "notchy, dead FFB" were fighting a broken preset, not a broken base. Build your LMU settings by hand instead of trusting that preset.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-2-sport"><span class="gp-tag">Smoothness reference</span><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport direct-drive wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Direct-drive base · 17Nm</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-2-sport">Simucube 2 Sport</a></span>
-    <p class="gp-why">If your "dead" FFB is actually the base and not the settings, this is the reference for what zero-cogging, ripple-free feel is supposed to be. Set Wheel Force / STC to 17Nm, run True Drive near neutral, and let iRacing and LMU do the talking. It's the smoothness yardstick the others get measured against.</p>
-    <span class="gp-price">~$1,199 (17Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-2-sport">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simucube-2-sport. -->
 
 ## The telemetry tools — and which you actually need
 

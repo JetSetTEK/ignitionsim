@@ -39,10 +39,10 @@ Verdict first: **this isn't a brand war — it's a mission choice, and it resolv
 
 <div class="shotgrid">
 
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — the GA yoke</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a><figcaption>Honeycomb Bravo — throttle + autopilot panel</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the Airbus stick</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the Airbus throttle</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — the GA yoke</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a><figcaption>Honeycomb Bravo — throttle + autopilot panel</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the Airbus stick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the Airbus throttle</figcaption></figure>
 
 </div>
 
@@ -65,32 +65,26 @@ What you give up: it's plastic-bodied at this tier, MSFS 2024 binding can take s
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">GA pick</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">GA pick</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">GA yoke · steel shaft, integrated switch + ignition panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">The right control for a Cessna or King Air, full stop. A 180° steel-shaft yoke with master, avionics, lights and a five-position magneto knob under your left hand — and paired with the Bravo's autopilot panel, almost everything a GA pilot touches lives in hardware. Plastic body and finicky first-time config are the trade-offs.</p>
     <span class="gp-price">~$300 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">GA throttle</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><span class="gp-tag">GA throttle</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Aeronautical Bravo Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant · 6 swappable levers + autopilot panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
     <p class="gp-why">The Honeycomb ecosystem's trump card: a power-management cockpit in one box, with a trim wheel, gear lever, 14-light annunciator and a real autopilot panel that ends the on-screen knob-clicking. Reconfigure the six levers for anything from a Cessna to a four-engine jet. This is the piece TCA has no direct answer to.</p>
     <span class="gp-price">~$300 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -103,32 +97,26 @@ The entry math is brutal in TCA's favor for the Airbus: a side-stick plus quadra
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Airbus pick</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Airbus pick</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">A320 side-stick · contactless H.E.A.R.T sensors</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick Airbus Edition</a></span>
     <p class="gp-why">The correct control for an Airbus, at a price that embarrasses everything else here. A 1:1 A320 side-stick with magnetic sensors that never wear, a twist rudder and a built-in thrust lever so it flies solo — pair it with the TCA Quadrant for authentic detents and you have a Fenix A320 cockpit for around $200. At ~$80 it's the single best value in flight sim.</p>
     <span class="gp-price">~$80 official</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus throttle</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus throttle</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">A320neo throttle · Airbus detents, disable-able</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus Edition</a></span>
     <p class="gp-why">Authentic Airbus detent gates and fingertip reversers on contactless sensors that never wear out — and you can disable the detents for linear-axis flying of any aircraft. Around $100 street, it turns the TCA Sidestick into a real Airbus cockpit and grows into a fuller pedestal via the Add-On module.</p>
     <span class="gp-price">~$130 official · ~$100 street</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -137,16 +125,13 @@ The Boeing side is the other half of the TCA story. The **TCA Yoke Pack Boeing E
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-yoke-boeing"><span class="gp-tag">Boeing pick</span><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing"><span class="gp-tag">Boeing pick</span><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">787-inspired yoke + quadrant · PENDUL_R motion, metal internals</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-yoke-boeing">Thrustmaster TCA Yoke Pack Boeing Edition</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing">Thrustmaster TCA Yoke Pack Boeing Edition</a></span>
     <p class="gp-why">The 787-style yoke reviewers rate closest to a real airliner column: a pendular motion that swings rather than slides, a 100% metal internal structure and 8.3 inches of travel. The bundled quadrant is the softer half (springy throttle), but the yoke carries the pack — and it's Xbox-licensed with a desk mount included.</p>
     <span class="gp-price">~$550 official · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-yoke-boeing">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -203,24 +188,24 @@ This comparison resolves the moment you name your airplane. If you fly **general
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Buy this (GA)</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Buy this (GA)</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Aeronautical Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">GA · the starting point</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Alpha</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Alpha</a></span>
     <p class="gp-why">The GA standard. Buy the yoke first, add the Bravo when budget allows, and finish with the Charlie pedals — the whole GA ladder, in the right order.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Buy this (Airbus)</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><span class="gp-tag">Buy this (Airbus)</span><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Airbus · the starting point</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">Thrustmaster TCA Sidestick</a></span>
     <p class="gp-why">The best value in flight sim and the correct rung-one buy for the Fenix A320. Add the TCA Quadrant for under $200 total and you're flying a credible Airbus cockpit.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-sidestick-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus">View exact product on Amazon</a></span>
   </div>
 
 </aside>

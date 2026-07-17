@@ -36,9 +36,9 @@ Launch monitor buyers love spec sheets because spec sheets feel objective. Then 
 The right launch monitor is a match between **room, data needs, software, and ownership cost**. A deep garage and a tight basement should not buy the same box. A coach and a weekend player should not pay for the same club-data stack. A no-PC convenience buyer and a GSPro tinkerer are different species wearing similar golf shoes.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10" loading="lazy"></a><figcaption>Garmin R10: budget radar</figcaption></figure>
-  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus" loading="lazy"></a><figcaption>SkyTrak+: indoor value</figcaption></figure>
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a><figcaption>Garmin R50: all-in-one swing lab</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10" loading="lazy"></a><figcaption>Garmin R10: budget radar</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus" loading="lazy"></a><figcaption>SkyTrak+: indoor value</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50" loading="lazy"></a><figcaption>Garmin R50: all-in-one swing lab</figcaption></figure>
 </div>
 
 ![Golf launch monitor decision ladder showing no-PC, tight room, budget radar, accuracy, and permanent bay choices](/images/infographics/golf/launch-monitor-decision-ladder.png)
@@ -60,16 +60,13 @@ The **Garmin Approach R10** remains the default budget gateway because it is por
 The **Rapsodo MLM2PRO** is the other budget name to know. It adds strong app polish and dual-camera/radar style tracking, but the same indoor-space reality applies: radar units are happiest when the room gives them ball flight to read.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">Budget radar</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">Budget radar</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Portable launch monitor</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The affordable gateway if you have enough depth. Great for practice and entry sim play; less ideal when your indoor room is trying to be a broom closet with ambition.</p>
     <span class="gp-price">Budget tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -79,19 +76,7 @@ The **SkyTrak+** is the answer for many home builders because it sits beside the
 
 This is the tier where most serious home buyers should start if the room is not deep enough for radar.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-st-max"><span class="gp-tag">Fresh SkyTrak</span><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Indoor camera path</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
-    <p class="gp-why">The SkyTrak idea with newer processing. For buyers who want camera-based indoor play without immediately entering the premium subscription maze.</p>
-    <span class="gp-price">Mid-tier photometric</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-st-max">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-st-max. -->
 
 ## Tier 3: All-in-One Convenience
 
@@ -100,16 +85,13 @@ The **Garmin Approach R50** is not just a launch monitor; it is a self-contained
 If you already plan to run GSPro on a PC with a projector, the R50's convenience premium may be less valuable. If you want to roll in, power on, and play fast, it becomes far more interesting.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC path</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC path</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Self-contained simulator</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">The convenience monster: built-in screen, built-in sim workflow, and fewer boxes. Buy it for that, not because it magically makes room math disappear.</p>
     <span class="gp-price">Premium convenience</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -118,16 +100,13 @@ If you already plan to run GSPro on a PC with a projector, the R50's convenience
 The **Bushnell Launch Pro** is compelling because Foresight-grade sensing enters at a lower hardware price, but the subscription model changes the ownership math. The **Foresight GC3** is the more expensive club-data-and-software path. These units make sense when accuracy and club metrics are not just nice; they are the reason for the room.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Accuracy tier</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Accuracy tier</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Premium photometric</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">Great sensor lineage, serious data, and a subscription conversation you need to have before checkout, not after.</p>
     <span class="gp-price">Premium tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 

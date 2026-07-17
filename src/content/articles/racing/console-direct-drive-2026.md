@@ -40,8 +40,8 @@ Console direct drive used to be a tiny, confusing corner of sim racing. In 2026 
 <div class="shotgrid">
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: new console-friendly midrange</figcaption></figure>
   <figure><a href="/racing/gear/thrustmaster-t598"><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive racing wheel" loading="lazy"></a><figcaption>T598: affordable PS5/PC DD bundle</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive racing bundle" loading="lazy"></a><figcaption>MOZA R3: budget Xbox door</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro" loading="lazy"></a><figcaption>GT DD Pro: Fanatec PS value</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive racing bundle" loading="lazy"></a><figcaption>MOZA R3: budget Xbox door</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro" loading="lazy"></a><figcaption>GT DD Pro: Fanatec PS value</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus direct-drive wheel base" loading="lazy"></a><figcaption>DD+: premium PlayStation headroom</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ direct-drive wheel base" loading="lazy"></a><figcaption>ClubSport DD+: PS premium base</figcaption></figure>
 </div>
@@ -71,19 +71,7 @@ The T598 matters because it makes PlayStation direct drive feel less like a $900
 
 It is not the strongest. It is not the most premium. But as a PS5/PS4/PC bundle, it is a serious "start driving now" option.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">PS value</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598 direct-drive wheel" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Affordable PlayStation direct drive</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">Buy when PS5 compatibility, a complete bundle, and price matter more than chasing 8-15 Nm. Great entry to DD, not the final boss.</p>
-    <span class="gp-price">Around $499 bundle class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 ## Best Budget Xbox Path: MOZA R3 Xbox
 
@@ -92,16 +80,13 @@ The MOZA R3 Xbox bundle is the cheapest clean way into Xbox direct drive. MOZA l
 The warning is upgrade gravity. If you already know you want load-cell pedals, a stronger base, and PC racing later, the R3 might be a stepping stone. If Xbox is the platform and price matters, it is the obvious shortlist.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox budget</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Xbox budget</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cheapest credible Xbox DD</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Racing Bundle for Xbox</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Racing Bundle for Xbox</a></span>
     <p class="gp-why">The direct-drive Xbox gateway. Not powerful, but complete, officially licensed, and far more precise than older gear-driven wheels.</p>
     <span class="gp-price">Often around $319-$399</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -111,19 +96,7 @@ The Logitech RS50 is the new product that makes old console DD guides feel stale
 
 The only thing to watch is compatibility language. The RS50 ecosystem has PC, PlayStation, and Xbox paths, but you still need the correct SKU. Treat the product page like a legal document, because in console hardware it basically is.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">Midrange pick</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Modern PlayStation middle</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">The one to check before assuming PlayStation direct drive has to be expensive. Modern drive tech, official console support, and a complete bundle.</p>
-    <span class="gp-price">Around $499 bundle class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/thrustmaster-t598">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 ## Best Fanatec Value Path: GT DD Pro
 
@@ -132,16 +105,13 @@ The GT DD Pro is still the Fanatec answer for PlayStation-first buyers who want 
 Why still buy it? Fanatec ecosystem depth. Wheels, pedals, shifters, QR2, used-market parts, upgrade paths. Why not? The bundle wheel and pedals are not the long-term dream, and RS50/T598 make the entry field more competitive.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Fanatec PS value</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Fanatec PS value</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Established PlayStation DD</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The known quantity: official Gran Turismo/PlayStation path, huge ecosystem, and 8 Nm with the Boost Kit. Buy it for Fanatec depth.</p>
     <span class="gp-price">5 Nm / 8 Nm paths</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -152,36 +122,14 @@ The Logitech G PRO Racing Wheel remains the premium plug-and-play console DD fee
 The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained torque, official PS5/PS4 and PC support, QR2, passive cooling, and Fanatec ecosystem depth. It is a base-first purchase, not a cheap complete bundle.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro bundle" loading="lazy"></a><figcaption>GT DD Pro: proven PlayStation bundle</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec Gran Turismo DD Pro bundle" loading="lazy"></a><figcaption>GT DD Pro: proven PlayStation bundle</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a><figcaption>ClubSport DD+: premium PlayStation base</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a><figcaption>R3: cleaner Xbox entry path</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox bundle" loading="lazy"></a><figcaption>R3: cleaner Xbox entry path</figcaption></figure>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">Premium console</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">15 Nm premium PlayStation base</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
-    <p class="gp-why">The serious PlayStation base when GT DD Pro feels too soft and you want Fanatec's deep wheel and pedal ecosystem behind the purchase.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for fanatec-clubsport-dd-plus. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">PS grail</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">15 Nm premium PlayStation base</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
-    <p class="gp-why">The PlayStation-first serious rig base. Strong enough that cockpit rigidity, pedals, and seating matter more than the next torque number.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fanatec-clubsport-dd-plus. -->
 
 ## What To Buy By Platform
 
@@ -202,43 +150,38 @@ The Fanatec ClubSport DD+ is the more serious PlayStation base: 15 Nm sustained 
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox starter</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox Bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Xbox starter</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox Bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best budget Xbox DD</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
     <p class="gp-why">Buy if Xbox is the platform and price matters more than torque headroom.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/thrustmaster-t598"><span class="gp-tag">PS starter</span><img src="/images/gear/racing/thrustmaster-t598.webp" alt="Thrustmaster T598" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best affordable PS DD bundle</span>
-    <span class="gp-name"><a href="/racing/gear/thrustmaster-t598">Thrustmaster T598</a></span>
-    <p class="gp-why">The PlayStation/PC bundle to check before assuming Fanatec is the only value option.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-t598. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox value</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Xbox value</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best budget Xbox DD</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Xbox Bundle</a></span>
     <p class="gp-why">The cleanest Xbox entry when you want real direct-drive feel without forcing a premium cockpit and pedal upgrade on day one.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Fanatec value</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Fanatec value</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best established PS ecosystem pick</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">Still a very good answer when Fanatec's wheel/pedal ecosystem is part of your long-term plan.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

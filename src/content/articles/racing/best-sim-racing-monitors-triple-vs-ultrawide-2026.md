@@ -42,8 +42,8 @@ Verdict first: **buy the [Samsung Odyssey OLED G9 49"](/racing/gear/samsung-odys
 The display is the category most rig budgets forget. People agonize over 12Nm versus 18Nm of wheelbase torque and then race the whole thing on the 24-inch monitor already on their desk. That's backwards. **Your monitor is where the sense of speed, the corner apex, and the car alongside you actually live** — and it's the single upgrade that most changes how the sim *feels* once the wheel and pedals are sorted. The good news: 2026 is the best year yet to buy one, because the super-ultrawide that used to cost $1,800 now shows up on sale for well under a grand.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super-ultrawide monitor" loading="lazy"></a><figcaption>Samsung OLED G9 49" — best overall (DQHD)</figcaption></figure>
-  <figure><a href="/racing/gear/samsung-odyssey-neo-g9-57"><img src="/images/gear/racing/samsung-odyssey-neo-g9-57.jpg" alt="Samsung Odyssey Neo G9 57-inch Dual 4K monitor" loading="lazy"></a><figcaption>Samsung Neo G9 57" — biggest single panel (Dual 4K)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super-ultrawide monitor" loading="lazy"></a><figcaption>Samsung OLED G9 49" — best overall (DQHD)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-neo-g9-57"><img src="/images/gear/racing/samsung-odyssey-neo-g9-57.jpg" alt="Samsung Odyssey Neo G9 57-inch Dual 4K monitor" loading="lazy"></a><figcaption>Samsung Neo G9 57" — biggest single panel (Dual 4K)</figcaption></figure>
   <figure><a href="/racing/gear/asus-tuf-vg27aq"><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch 1440p monitor" loading="lazy"></a><figcaption>ASUS TUF VG27AQ — the triple building block</figcaption></figure>
   <figure><a href="/racing/gear/nlr-triple-monitor-stand"><img src="/images/gear/racing/nlr-triple-monitor-stand.jpg" alt="NLR Free Standing Triple Monitor Stand" loading="lazy"></a><figcaption>NLR Free Standing Stand — the mounting reality</figcaption></figure>
 </div>
@@ -66,16 +66,13 @@ Here's the thing the spec sheets bury. A super-ultrawide gives you a **wider sin
 For hot-lapping and general racing, a 49" 32:9 ultrawide's ~55-65 degrees of usable horizontal view is plenty — you're looking forward anyway. Where triples pull ahead is **side-window awareness**: seeing an apex you're about to clip, or holding a car door-to-door through a long left-hander. Three panels on the [NLR stand](/racing/gear/nlr-triple-monitor-stand) reach roughly 195 degrees, and that peripheral information is a genuine racecraft advantage in traffic. It's not immersion for its own sake — it's *seeing the move before it happens.*
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Super-ultrawide QD-OLED · 5120x1440 · 240Hz</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
     <p class="gp-why">The one monitor that feels like triples from a single cable. QD-OLED black levels make night races look properly dark, 240Hz keeps it razor-sharp, and it lands on a GPU load a $600 card can push. On sale it's the easiest "great" in sim racing.</p>
     <span class="gp-price">~$799 sale · ~$1,299 list</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -98,19 +95,7 @@ If you're going triples, the smart-money panel is a 27" 1440p 165Hz IPS — and 
 
 The honest catch: IPS blacks aren't OLED blacks, and the bezels never fully disappear no matter how you angle them. But for the racer who values *geometry over glow*, three matched 1440p IPS panels remain the most rational triple build in 2026 — and far cheaper per-degree-of-vision than a single flagship super-ultrawide.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asus-tuf-vg27aq"><span class="gp-tag">Best triple building block</span><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">27" 1440p IPS · 165Hz · G-Sync compatible</span>
-    <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF VG27AQ</a></span>
-    <p class="gp-why">Buy three, not one. Matched, affordable, high-refresh 1440p IPS is the rational triples panel — geometry over glow. Cheaper per degree of vision than any single flagship ultrawide, and the panel you can start with as a single and grow into a wall.</p>
-    <span class="gp-price">~$250-280 each</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asus-tuf-vg27aq">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for asus-tuf-vg27aq. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -123,19 +108,7 @@ Here's the line item that ambushes triple buyers: **the stand costs as much as a
 
 The [Next Level Racing Free Standing Triple Monitor Stand](/racing/gear/nlr-triple-monitor-stand) (~$399) is the default answer: heavy powder-coated steel, lockable castors, full angle/tilt/height adjustment, VESA support from 75x75 to 450x660, and it holds 32-65" screens angled for ~195 degrees of vision without a shred of wobble. Freestanding is the community-preferred approach precisely because it keeps screen vibration *off* the rig — the picture stays dead still while the wheel throws a fit. If you're building triples, this isn't optional; it's half the build.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-triple-monitor-stand"><span class="gp-tag">Buy with the triples</span><img src="/images/gear/racing/nlr-triple-monitor-stand.jpg" alt="NLR Free Standing Triple Monitor Stand" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Freestanding triple stand · 32-65" · ~195°</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-triple-monitor-stand">NLR Free Standing Triple Monitor Stand</a></span>
-    <p class="gp-why">Heavy steel, lockable castors, zero wobble. It isolates screen weight and vibration from the rig so the picture stays still while the wheelbase throws kerbs at you. Half of any triples build — budget it with the panels, not after.</p>
-    <span class="gp-price">~$399</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-triple-monitor-stand">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-triple-monitor-stand. -->
 
 ## The aspirational single panel: Samsung Neo G9 57"
 
@@ -144,16 +117,13 @@ If money isn't the constraint and you'd rather run one enormous screen than thre
 But go in clear-eyed. That resolution is the heaviest flat-panel load in this guide (~16.6 million pixels), it *requires* a DisplayPort 2.1 GPU to run 240Hz, and it's Mini-LED VA rather than OLED, so blacks bloom where the 49" OLED stays inky. It's a spectacular halo display for the person who already has the GPU to feed it — and overkill for everyone else, who's better served by the 49" OLED's smoother, sharper, cheaper experience.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-neo-g9-57"><span class="gp-tag">Biggest single panel</span><img src="/images/gear/racing/samsung-odyssey-neo-g9-57.jpg" alt="Samsung Odyssey Neo G9 57-inch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-neo-g9-57"><span class="gp-tag">Biggest single panel</span><img src="/images/gear/racing/samsung-odyssey-neo-g9-57.jpg" alt="Samsung Odyssey Neo G9 57-inch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">57" Dual 4K · 7680x2160 · 240Hz · Mini-LED</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-neo-g9-57">Samsung Odyssey Neo G9 57"</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-neo-g9-57">Samsung Odyssey Neo G9 57"</a></span>
     <p class="gp-why">Two 4K panels' worth of pixels in one 1000R curve. Spectacular on a 5080/5090 with DisplayPort 2.1 — genuinely overkill on anything less. Buy it because you have the GPU, not to justify buying the GPU.</p>
     <span class="gp-price">~$1,500-2,300</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/samsung-odyssey-neo-g9-57">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-neo-g9-57">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-neo-g9-57">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -191,34 +161,19 @@ If you race **endurance or organized league events** where knowing exactly where
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best overall display</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
     <p class="gp-why">The right screen for most racers. Near-triples FOV, OLED blacks, 240Hz, one cable, and a GPU load a $600 card handles. Catch it on sale and it's the best value in the whole rig.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asus-tuf-vg27aq"><span class="gp-tag">Buy these for triples</span><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best triple build (×3)</span>
-    <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF VG27AQ</a></span>
-    <p class="gp-why">Three matched 1440p IPS panels for real side-window vision. Pair them with the freestanding stand below and an RTX 5080, and you've got the geometry tool endurance racers swear by.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for asus-tuf-vg27aq. -->
 
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-triple-monitor-stand"><span class="gp-tag">Buy this with them</span><img src="/images/gear/racing/nlr-triple-monitor-stand.jpg" alt="NLR Free Standing Triple Monitor Stand" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The mounting half of a triple build</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-triple-monitor-stand">NLR Free Standing Triple Monitor Stand</a></span>
-    <p class="gp-why">Heavy, freestanding, wobble-free. Keeps the picture dead still while the wheelbase throws kerbs. Buy it in the same cart as the panels — this is the part first-time triple builders skip and regret.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-triple-monitor-stand. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs.

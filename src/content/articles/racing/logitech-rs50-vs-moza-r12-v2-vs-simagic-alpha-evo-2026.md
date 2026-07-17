@@ -61,7 +61,7 @@ Prices are July 2026 approximations before shipping and tax. They are not a prom
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/logitech-rs50-system"><img src="/images/gear/racing/logitech-rs50-system.jpg" alt="Logitech RS50 System with direct-drive base and wheel" loading="lazy"></a><figcaption>RS50: 8 Nm, TRUEFORCE, platform SKUs, and a complete-box advantage.</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 V2 direct-drive wheelbase" loading="lazy"></a><figcaption>R12 V2: the 12 Nm value anchor with a deep wheel catalog.</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 V2 direct-drive wheelbase" loading="lazy"></a><figcaption>R12 V2: the 12 Nm value anchor with a deep wheel catalog.</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo"><img src="/images/gear/racing/simagic-evo.jpg" alt="Simagic Alpha EVO 12 direct-drive wheelbase" loading="lazy"></a><figcaption>Alpha EVO 12: the enthusiast premium at the same torque headline.</figcaption></figure>
   <figure><img src="/images/curator-scenes/duke-midrange-ecosystem-rig-audit-2026.webp" alt="AI editorial scene of Duke Alvarez torqueing a wheel deck while a driver checks racing cockpit reach" loading="lazy"><figcaption>Duke checks mount load and driver reach before comparing motor numbers. <span class="source-credit">AI editorial curator scene · generic hardware, not product proof</span></figcaption></figure>
 </div>

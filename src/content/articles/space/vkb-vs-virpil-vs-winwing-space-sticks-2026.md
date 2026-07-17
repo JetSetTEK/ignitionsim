@@ -42,7 +42,7 @@ VKB, Virpil, and WinWing are not just three logos. They're three answers to the 
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — best first HOSAS stick</figcaption></figure>
   <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a><figcaption>VKB Gunfighter Mk.IV — tunable endgame base</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil VPC WarBRD-D base" loading="lazy"></a><figcaption>Virpil WarBRD-D — adjustable clutch-damper base</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — cheapest credible HOSAS</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs"><img src="/images/gear/space/thrustmaster-t16000m-fcs.jpg" alt="Thrustmaster T.16000M FCS joystick" loading="lazy"></a><figcaption>Thrustmaster T.16000M — cheapest credible HOSAS</figcaption></figure>
 </div>
 
 ## The three-brand comparison
@@ -63,33 +63,9 @@ The real reason VKB wins the default is the ladder behind it. Start on a Gladiat
 
 The one drawback across the whole VKB line is software depth. VKBDevCfg is powerful, but it does not hold your hand. It hands you a toolbox and quietly judges your labeling.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Best first HOSAS</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Magnetic-sensor space stick · ~$119-139</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">The canonical affordable on-ramp to a "real" magnetic-sensor stick. Buy one left and one right for a full HOSAS pair, and you've bought into VKB's upgrade ladder without boutique shock.</p>
-    <span class="gp-price">~$119 Standard / ~$139 Premium</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">VKB endgame</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable premium base · base only</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
-    <p class="gp-why">The step up when you love the Gladiator idea but want adjustable cams, springs, and dampers plus heavier grips. A base only — budget for a grip on top — but a true long-term cockpit platform.</p>
-    <span class="gp-price">~$289 base only (grip separate)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gunfighter-mk4-base. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -104,19 +80,7 @@ Pair the ALPHA with the [WarBRD-D base](/space/gear/virpil-warbrd-d-base) (~$260
 
 The downside of the whole ecosystem is cost and availability. Virpil can be worth every dollar, but it is rarely the value answer for a first build, and it sells in restock waves — B-stock and sale listings appear periodically, then vanish. **The WarBRD-D base is verified in our gear library and shown above; the Constellation ALPHA grip is genuine and current, but we don't yet have a verified in-house photo of it, so it's text-only in this guide until we can source a real product image. Check the official [Constellation ALPHA page](https://virpil-controls.us.com/vpc-constellation-alpha-r.html) for live specs, price, and stock.**
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/virpil-warbrd-d-base"><span class="gp-tag">Premium base</span><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil VPC WarBRD-D base" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Adjustable clutch-damper base · base only</span>
-    <span class="gp-name"><a href="/space/gear/virpil-warbrd-d-base">Virpil VPC WarBRD-D</a></span>
-    <p class="gp-why">The affordable way into the Virpil ecosystem: duralumin build, adjustable clutch dampers that genuinely steady long-range aim, and every cam set included. Mount a Constellation ALPHA grip on top for a premium mirrored HOSAS.</p>
-    <span class="gp-price">~$260 base only (~$234 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/virpil-warbrd-d-base">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for virpil-warbrd-d-base. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -159,35 +123,20 @@ Buying the stick is the easy part. Three things trip up new HOSAS pilots more th
   <p>Every stick here has a tabletop baseplate that will slide under aggressive combat input — the Gladiator's compact base and the plastic-heavy WinWing gimbal especially. A [Monstertech table mount](/space/gear/monstertech-table-mount) per stick locks each one rigid at an ergonomic angle. A HOSAS needs two. Budget the mounts when you budget the sticks, not after your first firefight sends a stick skating across the desk.</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount it or lose it</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per stick</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for the sliding-baseplate problem. Quick-release clamp, universal compatibility across VKB, Virpil, WinWing, and Thrustmaster. A HOSAS needs two — buy them with the sticks.</p>
-    <span class="gp-price">~$100 each (buy two for a HOSAS)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## The bind problem — and the fix all three share
 
 Star Citizen and Elite Dangerous have more functions than any stick has buttons — well over 200 binds in Star Citizen alone. No brand solves this in hardware. The community answer, regardless of which sticks you run, is a labeled macro panel: the [Elgato Stream Deck XL](/space/gear/elgato-stream-deck-xl) (~$250; the 15-key MK.2 is ~$150) turns 32 icon-driven LCD keys into a visible panel for power triage, weapon groups, shield pips, landing gear, and comms, with folders for effectively unlimited binds. It pairs with VKB, Virpil, or WinWing equally — this is the one purchase that's brand-agnostic.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Solves the 200-bind problem</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Solves the 200-bind problem</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The pragmatic fix for the bind problem no stick can solve. 32 labeled keys with folders for unlimited macros — power, shields, gear, comms — and it pairs with any of the three brands equally.</p>
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -212,34 +161,19 @@ Star Citizen and Elite Dangerous have more functions than any stick has buttons 
 
 ## What to buy: the HOSAS starter stack
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Buy this first</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The sticks · buy one L + one R</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition ×2</a></span>
-    <p class="gp-why">The right first HOSAS for most pilots. Magnetic sensors, twist, and a clean upgrade path. If VKB is out of stock, the WinWing Ursa Minor Space is the in-stock alternative at a similar price.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Buy with the sticks</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The mounts · buy two</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount ×2</a></span>
-    <p class="gp-why">Non-negotiable for a HOSAS. One per stick, locked rigid at an ergonomic angle. This is the difference between precise aiming and chasing a stick across your desk.</p>
-
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Buy before a fancier base</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Buy before a fancier base</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The bind fixer</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">Tames 200-plus binds with labeled keys and folders. Brand-agnostic, and a bigger quality-of-life jump than any gimbal upgrade for a new pilot.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

@@ -103,16 +103,13 @@ The official dimensions are roughly 59.8 inches long, 20.5 inches wide, and 40 i
 </figure>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Space saver</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Space saver</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">First serious mount</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex</a></span>
     <p class="gp-why">The best first move when you cannot fit a cockpit. It gives a DD base and load-cell pedals something honest to push against, then folds away when real life rudely continues.</p>
     <span class="gp-price">Usually under a full cockpit</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -139,19 +136,7 @@ The installation detail people miss is not sensor technology; it is leverage. A 
   <figcaption><b>Duke tunes the body-to-pedal relationship before touching the software curve.</b><span>AI-assisted editorial curator scene · generic unbranded pedals · not product proof</span></figcaption>
 </figure>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">No-regrets brake</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Pedal upgrade ceiling</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The classic "buy once, stop blaming the brake" pedal set. Expensive, yes. Also the sort of expensive that does not immediately ask for a replacement.</p>
-    <span class="gp-price">Premium</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 ## Phase 3: Pick an Ecosystem, Not Just a Wheelbase
 
@@ -184,16 +169,13 @@ The quick guide also exposes the installation load: wheel module, control-unit b
 </figure>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">Best first DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><span class="gp-tag">Best first DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct drive starter</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">MOZA R5</a></span>
     <p class="gp-why">A sane first direct drive: strong enough to teach you what the car is doing, small enough not to demand a mortgage-grade cockpit on day one.</p>
     <span class="gp-price">Starter DD tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -229,19 +211,7 @@ Start with fewer effects than you think. Put the useful information on separate 
   <figcaption><b>One effect at a time: identify the signal before turning up the spectacle.</b><span>AI-assisted editorial curator scene · diagnostic procedure · not product proof</span></figcaption>
 </figure>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Immersion ROI</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro haptic transducer" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile feedback</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer Pro</a></span>
-    <p class="gp-why">The cheap thrill that is not actually cheap, but is still cheaper than motion. Mount it well, tune it lightly, and stop turning every effect to 11 like a mall demo kiosk.</p>
-    <span class="gp-price">Tactile tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## The Three Smart Carts
 
@@ -275,32 +245,32 @@ Finally, export the working profile and photograph every cable path. A rig witho
 ## Exact Amazon picks
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Logitech G923"><span class="gp-tag">Sale-price starter</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/g923-official-product.webp" alt="Official Logitech G923 wheel and pedals product photo" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g923"><span class="gp-tag">Sale-price starter</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/g923-official-product.webp" alt="Official Logitech G923 wheel and pedals product photo" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Gear-driven wheel and three-pedal set</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Logitech G923">Logitech G923</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g923">Logitech G923</a></span>
     <p class="gp-why">Buy when discounted and when easy compatibility matters more than direct-drive detail. It is the known first rung, not the final rig.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Logitech G923">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B07PFB72NL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g923">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Turtle Beach VelocityOne Race"><span class="gp-tag">Complete Xbox DD box</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/velocityone-manual-box-tour.webp" alt="Turtle Beach VelocityOne Race complete package shown in its official quick guide" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-race"><span class="gp-tag">Complete Xbox DD box</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/velocityone-manual-box-tour.webp" alt="Turtle Beach VelocityOne Race complete package shown in its official quick guide" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">7.2 Nm direct drive, load-cell pedals, display and control unit</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Turtle Beach VelocityOne Race">Turtle Beach VelocityOne Race</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-race">Turtle Beach VelocityOne Race</a></span>
     <p class="gp-why">The most complete one-cart Xbox step up. Check the live compatibility matrix for your game and perform the firmware pass before tuning.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Turtle Beach VelocityOne Race">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CRJX8T67?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-race">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Next Level Racing Victory Simulator Cockpit"><span class="gp-tag">Compact cockpit</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/nlr-victory-installed.webp" alt="Next Level Racing Victory Simulator Cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="next-level-racing-victory-simulator-cockpit"><span class="gp-tag">Compact cockpit</span><img src="/images/article-proofs/racing/sim-rig-buyer-map-2026/nlr-victory-installed.webp" alt="Next Level Racing Victory Simulator Cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Tubular GT cockpit rated for up to 10 Nm</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Next Level Racing Victory Simulator Cockpit">Next Level Racing Victory</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="next-level-racing-victory-simulator-cockpit">Next Level Racing Victory</a></span>
     <p class="gp-why">The sensible home for an R5, R9, CSL DD, Alpha Mini, G923, or VelocityOne Race. Skip it if the real plan is motion or a 20-plus-Nm base.</p>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-product="Next Level Racing Victory Simulator Cockpit">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DKJTSKXD?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="next-level-racing-victory-simulator-cockpit">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -52,8 +52,8 @@ What *is* consistent across both sources matters more than any count: the cockpi
 <div class="shotgrid">
   <figure><a href="/marine/gear/professional-ship-simulator-context"><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a><figcaption>Professional Ship Simulator — the hardware-friendly target</figcaption></figure>
   <figure><a href="/marine/gear/thrustmaster-twcs-throttle-engine-lever"><img src="/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg" alt="Thrustmaster TWCS Throttle (as engine lever)" loading="lazy"></a><figcaption>TWCS throttle — the smooth engine lever</figcaption></figure>
-  <figure><a href="/marine/gear/pxn-cb1-button-box"><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a><figcaption>PXN CB1 — the no-fab bridge panel</figcaption></figure>
-  <figure><a href="/marine/gear/thrustmaster-t16000m-rudder"><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a><figcaption>T.16000M — conning/rudder stick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box"><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a><figcaption>PXN CB1 — the no-fab bridge panel</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder"><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a><figcaption>T.16000M — conning/rudder stick</figcaption></figure>
 </div>
 
 ## What to map, and what to map it to
@@ -81,49 +81,31 @@ Two of the most-recommended items — a repurposed **Logitech G29** racing wheel
 
 The single cheapest upgrade that changes the feel is the engine control. A flight throttle quadrant's three levers map naturally to port throttle, starboard throttle and a bow thruster. If you want one smooth main lever instead of a quadrant's short pivoting ones, the **Thrustmaster TWCS** steps up: an 80 mm slide-rail throttle on a genuine 16-bit axis, far smoother than a potentiometer quadrant, with a rotary and toggle you can map to thruster or trim duty. One axis, so a twin-screw ship still wants a quadrant alongside it.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever"><span class="gp-tag">Smooth engine lever</span><img src="/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg" alt="Thrustmaster TWCS Throttle (as engine lever)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Flight throttle · 16-bit slide rail</span>
-    <span class="gp-name"><a href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Thrustmaster TWCS Throttle (as engine lever)</a></span>
-    <p class="gp-why">A flight throttle drafted as a ship's main engine lever. The 80 mm slide rail is genuinely smooth and high-resolution — the nicest single-throttle feel short of a DIY build. One axis, so twin-screw ships need a quadrant alongside it. Confirm axis assignment once the PSS input menu is final.</p>
-    <span class="gp-price">~$130</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/thrustmaster-twcs-throttle-engine-lever">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-twcs-throttle-engine-lever. -->
 
 For the switches — nav lights, horn, telegraph stages, autopilot, anchor — a finished button box beats a mouse. The **PXN CB1** is driver-free over USB-C, with 19 controls across 9 types and up to 30 programmable functions. It's marketed for racing and truck sims, so you map its buttons to your marine commands, and being all-digital it complements a throttle rather than replacing one. No soldering, no fabrication, works day one.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/pxn-cb1-button-box"><span class="gp-tag">No-fab panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box"><span class="gp-tag">No-fab panel</span><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Button box · 19 controls, 30 functions</span>
-    <span class="gp-name"><a href="/marine/gear/pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">PXN CB1 Sim Control Button Box</a></span>
     <p class="gp-why">Whether PSS ships 50 or 100+ mappable buttons, a finished panel finally has somewhere to put them. Driver-free over USB-C, 30 functions for nav lights, horn, telegraph stages and autopilot — no soldering, just bind and go. Racing-styled RGB rather than salty, but it works day one.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/pxn-cb1-button-box">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 **Rig 3 — "Full bridge ambitions" ($250-400).** Add a twist stick for conning/rudder work, a second monitor for the chart/radar screen (PSS supports NMEA/GPX external data, so an external plotter is on the table), and a deeper switch panel. For sims that expose a rudder axis, a flight stick's twist is the natural mapping, and the **Thrustmaster T.16000M**'s contactless Hall-effect sensors mean the axis stays precise and won't drift over years — a real edge over potentiometer sticks. A vertical stick is an odd hand position for steering, but for azimuth/rudder duty it's cheap for the build quality.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/thrustmaster-t16000m-rudder"><span class="gp-tag">Conning / rudder</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder"><span class="gp-tag">Conning / rudder</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Flight stick · Hall-effect twist</span>
-    <span class="gp-name"><a href="/marine/gear/thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
     <p class="gp-why">A flight stick repurposed as a conning/rudder control — its twist axis maps cleanly to rudder in titles that expose one. Hall-effect sensors mean it won't develop the drift that kills cheap sticks. An odd hand position for a wheel, but excellent value for the sensor quality.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -133,81 +115,39 @@ Beyond this you are into DIY-console territory — the same BU0836-and-potentiom
 
 Here's the twist that makes marine sim different from every other bay: its most "native" hardware isn't sold — it's built. If you want a bridge that feels like *yours*, a generic interface board turns ordinary potentiometers, switches and encoders into a recognized HID controller the sim reads as real axes and buttons. This is the same recipe [Bridge Command](/marine/gear/bridge-command-free-sim), the free open-source ship-handling sim, documents for a homemade wheel and throttles — and those builds carry straight over to Professional Ship Simulator.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/bridge-command-free-sim"><span class="gp-tag">Free · DIY-documented</span><img src="/images/gear/marine/bridge-command-free-sim.jpg" alt="Bridge Command (free open-source ship sim)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Ship-handling sim · $0</span>
-    <span class="gp-name"><a href="/marine/gear/bridge-command-free-sim">Bridge Command (free open-source ship sim)</a></span>
-    <p class="gp-why">Not hardware — the free sim whose official "build your own wheel and throttles" guide anchors nearly every DIY marine helm. Play it today for free while you wait for PSS, and use its BU0836-plus-pots recipe as the blueprint for a homemade bridge that reads into both.</p>
-    <span class="gp-price">Free / open source</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/bridge-command-free-sim">Spec card</a>
-      <a href="https://www.bridgecommand.co.uk/" target="_blank" rel="nofollow noopener">Official project page</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for bridge-command-free-sim. -->
 
 The solderless workhorse for the axes is the **Leo Bodnar BU0836X** — eight analog axes at 12-bit plus 32 buttons cover twin throttles, a wheel, a thruster and a panel on one board, with push-in terminals so you never touch a soldering iron. It ships from the UK, so add lead time.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bu0836x-diy-board"><span class="gp-tag">DIY helm board (no solder)</span><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8 analog axes · solderless</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bu0836x-diy-board">Leo Bodnar BU0836X Joystick Interface</a></span>
-    <p class="gp-why">The proven Leo Bodnar board behind most DIY ship-helm builds, in its solderless push-in version. Eight analog axes plus 32 buttons cover twin throttles, wheel, thruster and a panel on one board — the whole Bridge Command recipe without a soldering iron. Ships from the UK.</p>
-    <span class="gp-price">~$77</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bu0836x-diy-board">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=214" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bu0836x-diy-board. -->
 
 For the switch side of a bridge console — nav lights, horn, autopilot, anchor, engine-room toggles — the digital-only **BBI-32** is the companion board. Solderless push-in terminals take 32 switches or up to 16 encoders (chainable to 132 inputs), so it handles a full panel while a BU0836 handles the axes.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/leobodnar-bbi-32-button-box-interface"><span class="gp-tag">Bridge switch panel</span><img src="/images/gear/marine/leobodnar-bbi-32-button-box-interface.jpg" alt="Leo Bodnar BBI-32 Button Box Interface" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Digital-only · 32 inputs, no solder</span>
-    <span class="gp-name"><a href="/marine/gear/leobodnar-bbi-32-button-box-interface">Leo Bodnar BBI-32 Button Box Interface</a></span>
-    <p class="gp-why">The solderless digital workhorse for a bridge console's switches, knobs and encoders. Push-in terminals, 32 inputs (chainable to 132), plug-and-play HID. No analog axes, so it complements a BU0836 rather than replacing it.</p>
-    <span class="gp-price">~$53</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/leobodnar-bbi-32-button-box-interface">Spec card</a>
-      <a href="https://www.leobodnar.com/shop/index.php?main_page=product_info&products_id=204" target="_blank" rel="nofollow noopener">Read official specifications</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for leobodnar-bbi-32-button-box-interface. -->
 
 If you'd rather code your own logic — software detents, button matrices, a combined helm-plus-button-box on one cheap board — the **Arduino Leonardo** (or a Pro Micro clone) presents as a real HID joystick via the open ArduinoJoystickLibrary. More effort than the no-code Bodnar boards, but full control, and the cheapest custom-controller foundation in the bay.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/arduino-leonardo-diy-hid"><span class="gp-tag">Code-it-yourself helm</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid"><span class="gp-tag">Code-it-yourself helm</span><img src="/images/gear/marine/arduino-leonardo-diy-hid.jpg" alt="Arduino Leonardo (ATmega32u4 HID)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Native USB HID · ~$25</span>
-    <span class="gp-name"><a href="/marine/gear/arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">Arduino Leonardo (ATmega32u4 HID)</a></span>
     <p class="gp-why">The programmable DIY route. Its native USB and the open ArduinoJoystickLibrary make your pots and switches read as real axes and buttons — with logic a fixed board can't do. Cheapest custom foundation in the bay, but you write the sketch and build every bit of hardware.</p>
     <span class="gp-price">~$25</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/arduino-leonardo-diy-hid">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0786LJQ8K?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="arduino-leonardo-diy-hid">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 If you want big, deliberate lever feel for slow marine engine moves, the crossover pick is the train-sim **RailDriver** — chunky throttle and reverser levers plus 34 programmable buttons. It's pricey for a repurpose (~$220) and its software targets train titles, so it needs third-party mapping to talk to a marine sim. Niche, but the lever ergonomics genuinely beat a flight quadrant for creeping a tanker up to a berth.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/raildriver-ship-throttle"><span class="gp-tag">Crossover lever feel</span><img src="/images/gear/marine/raildriver-ship-throttle.jpg" alt="RailDriver Desktop Train Cab Controller (as ship throttle)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle"><span class="gp-tag">Crossover lever feel</span><img src="/images/gear/marine/raildriver-ship-throttle.jpg" alt="RailDriver Desktop Train Cab Controller (as ship throttle)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Train controller · 34 buttons + levers</span>
-    <span class="gp-name"><a href="/marine/gear/raildriver-ship-throttle">RailDriver Desktop Cab Controller (as ship throttle)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle">RailDriver Desktop Cab Controller (as ship throttle)</a></span>
     <p class="gp-why">A train-cab controller carried over to ship sims for its long, deliberate lever feel — better than a flight quadrant for slow engine moves. Pricey for a repurpose and it needs mapping software, so it's for lever-feel obsessives, not the value buyer.</p>
     <span class="gp-price">~$220</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/raildriver-ship-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0002APWXS?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="raildriver-ship-throttle">View exact product on Amazon</a></span>
   </div>
 </aside>
 

@@ -44,7 +44,7 @@ So your QR is really two halves: a base-side half (bolted to the wheelbase) and 
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase with QR2 quick release" loading="lazy"></a><figcaption>Fanatec QR2 — highest lock-in (FFB gated)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase with MOZA QR" loading="lazy"></a><figcaption>MOZA QR — medium (steering-only adapter)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase with MOZA QR" loading="lazy"></a><figcaption>MOZA QR — medium (steering-only adapter)</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase with open QR-A" loading="lazy"></a><figcaption>Simagic QR-A — the 2025 lock-in break</figcaption></figure>
   <figure><a href="/racing/gear/simucube-2-sport"><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport wheelbase with SQR quick release" loading="lazy"></a><figcaption>Simucube SQR — open by design</figcaption></figure>
 </div>

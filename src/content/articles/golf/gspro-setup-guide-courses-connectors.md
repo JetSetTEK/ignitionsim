@@ -84,86 +84,59 @@ The pattern is the same regardless of path: a small connector or vendor window r
 For most GSPro buyers the connection story below is the deciding factor. Each of these is a launch monitor GSPro genuinely talks to; none are here to pad a roundup.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Popular GSPro pairing</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Popular GSPro pairing</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Connects via OpenSkyPlus 2 (community)</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The subscription-averse $3K favorite is one of the most common GSPro pairings — but through the community OpenSkyPlus 2 connector, not an official link, since neither SkyTrak nor GSPro officially supports the other. Owners report a stable feed once it is installed; just know support lives on the SGT Discord. Its side-of-ball photometric design also suits tighter GSPro rooms.</p>
     <span class="gp-price">~$2,995 (often ~$2,000 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Easiest GSPro path under $1K</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Official GSPro direct connect (2025)</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">The budget unit that picked up <em>official</em> GSPro direct-connect integration in 2025, collapsing the old community-middleware learning curve toward plug-and-play. The richest sub-$1K data set with the smoothest connector story to match. Feed it RPT balls when you want measured spin.</p>
-    <span class="gp-price">~$699</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r10"><span class="gp-tag">No more community bridge</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><span class="gp-tag">No more community bridge</span><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Official Garmin GSPro connector (2025)</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r10">Garmin Approach R10</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">Garmin Approach R10</a></span>
     <p class="gp-why">The cheapest credible sim-capable radar unit, and in 2025 it finally got an official Garmin connector to GSPro — no more third-party bridge to babysit. Remember it is radar: give it several feet of depth behind the ball, or the reads suffer indoors regardless of the connector.</p>
     <span class="gp-price">~$600 (often discounted)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r10">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/flightscope-mevo-gen2"><span class="gp-tag">Official, no connection fee</span><img src="/images/gear/golf/flightscope-mevo-gen2.jpg" alt="FlightScope Mevo Gen 2 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2"><span class="gp-tag">Official, no connection fee</span><img src="/images/gear/golf/flightscope-mevo-gen2.jpg" alt="FlightScope Mevo Gen 2 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Official GSPro support</span>
-    <span class="gp-name"><a href="/golf/gear/flightscope-mevo-gen2">FlightScope Mevo Gen 2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2">FlightScope Mevo Gen 2</a></span>
     <p class="gp-why">The Mevo+ and its Gen 2 successor carry full official GSPro support with no separate connection fee, on top of a lifetime E6 Connect bundle. A clean pairing if you want two sim ecosystems for one purchase — just budget the room depth every radar-fusion unit needs.</p>
     <span class="gp-price">~$1,299 base</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Needs Gold to reach GSPro</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Needs Gold to reach GSPro</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Official — Gold subscription unlock</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">GC3-grade ball accuracy for well under $3K, but the GSPro connection lives behind Bushnell's Gold tier (~$499/yr) — a real recurring cost stacked on top of GSPro's $250. Run the total-cost math before you fall for the sticker price. It is a side-of-ball photometric unit, so it suits 12-15 ft deep rooms.</p>
     <span class="gp-price">~$2,499 hardware + Gold sub</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">Native, but PC still required</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">Native, but PC still required</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Native GSPro via Garmin Golf app</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">The R50 talks to GSPro natively through the Garmin Golf app over Wi-Fi — but you still need the Windows gaming PC to run GSPro itself; the R50's built-in touchscreen does not replace it. Buy the R50 for its no-PC <em>Home Tee Hero</em> workflow; add GSPro when you want the deeper course library.</p>
     <span class="gp-price">~$4,999</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 

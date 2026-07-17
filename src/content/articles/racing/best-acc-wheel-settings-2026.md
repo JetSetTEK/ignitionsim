@@ -38,7 +38,7 @@ Verdict first: **in ACC, set Min Force to 0, run Road Effects LOW (0-15%) on any
 This is an ACC-specific guide. If you want the cross-sim workflow that tunes [iRacing, ACC and Le Mans Ultimate from one process](/racing/best-ffb-settings-iracing-acc-lmu-2026), read that. Here I'm staying inside one game and giving you the per-base numbers, the two sliders everyone gets backwards, and the steering-lock mismatch that costs lap time without ever announcing itself.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — 12Nm reference (~50-60% Gain)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>MOZA R12 — 12Nm reference (~50-60% Gain)</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Alpha Evo Pro — 18Nm (~40-45% Gain)</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a><figcaption>Fanatec ClubSport DD+ — 15Nm class (~40-45%)</figcaption></figure>
   <figure><a href="/racing/gear/simucube-2-sport"><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport wheelbase" loading="lazy"></a><figcaption>Simucube 2 Sport — 17Nm smoothness reference</figcaption></figure>
@@ -86,16 +86,13 @@ Here's the catch ACC doesn't advertise: **there is no in-game force-output meter
 Tune to that feeling on a corner you know well, not to a forum post. Five focused minutes here beats five hours of copy-pasting other people's numbers. It's the same clipping logic from [the direct-drive clipping fix guide](/racing/how-to-fix-ffb-clipping-direct-drive-2026) — ACC just makes you feel it rather than showing it to you.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">12Nm reference</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">12Nm reference</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm, Pit House</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The base most of this table is written around: at 12Nm, ACC wants roughly 50-60% in-game Gain, Min Force 0, and a Pit House wheel damper around 20-25 to settle the straight-line wobble. Strong enough to clip if you over-cook the Gain, which is exactly why the numbers run lower than the 12Nm figure suggests.</p>
     <span class="gp-price">~$429 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -105,19 +102,7 @@ Here's the ACC tax on strong bases: drive a fast straight in a GT3 car on a 12Nm
 
 Two dampers cure it. **Dynamic Damping** (in-game) is really the effective weight of the car — the wheel lightens as speed rises — and on entry direct-drive bases it's often left near 100%; on high-torque bases you may drop it if your base software is already adding its own damping. Your **base software's wheel damper** (roughly 20-25 on a [MOZA R12](/racing/gear/moza-r12) or [Simagic Evo](/racing/gear/simagic-evo), more on bigger bases) resists the wobble at the hardware layer. Add damping a few points at a time until the straight goes quiet — but stop the moment cornering feel starts going syrupy. Damping is a scalpel, not a volume knob. **Who should skip damping entirely:** anyone on a 5-9Nm base. There's not enough torque to oscillate, and damping there just dulls a base that's already light on detail.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">15Nm-class reference</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Direct-drive base · 15Nm (18Nm holding)</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
-    <p class="gp-why">A strong base is exactly where ACC's straight-line wobble shows up. On a 15-18Nm unit, keep in-game Gain around 40-45%, Min Force 0, Road Effects low, and add a touch of base-software damper until the straights settle. Prices on Fanatec bases have moved around this year — check current before you buy.</p>
-    <span class="gp-price">~$899-$999 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fanatec-clubsport-dd-plus. -->
 
 ## The steering-lock mismatch that costs lap time silently
 
@@ -152,16 +137,13 @@ The clean fix: **set your base software and ACC to the same rotation** — 900°
 This is a settings guide, not a shopping list — the right numbers make a humble base feel sharp, and no base is "too weak" for good ACC feel once it's dialed. If you *are* still choosing hardware, the honest short version: a 12Nm base like the [MOZA R12](/racing/gear/moza-r12) sits in the sweet spot most drivers never outgrow, and a clean 9-12Nm base with perfect settings out-informs a mis-tuned 18-21Nm one every time. Budget-first? The Fanatec CSL DD (5-8Nm) tunes up beautifully in ACC at 75-100% Gain — verify current pricing through a direct product listing. We don't have a verified studio photo of it yet, so it's a text pick here rather than a pictured one.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Best all-round ACC base</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Best all-round ACC base</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive base · 12Nm sweet spot</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The base most of these numbers are written around and the one I'd point most ACC drivers to: 12Nm of headroom, the easiest tuning app in the business, and a full upgrade ladder behind it. Dial it to ~50-60% Gain, Min Force 0, Road Effects low, and it feels like far more base than the price suggests.</p>
     <span class="gp-price">~$429 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 

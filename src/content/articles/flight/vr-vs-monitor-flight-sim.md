@@ -39,10 +39,10 @@ Verdict first: **VR is worth it if immersion is your priority and your GPU can p
 This isn't a religious war. VR and a monitor solve different problems. The first time you lean forward to peek at threshold lights through thinning fog, or twist around to clear traffic on downwind, you understand why people put up with the hassle. But "changes the hobby" is not the same as "right for you." Here's the honest trade-off — real prices, real performance behavior, and a clear line on who should pull the trigger and who should stay on glass.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Light — clarity-first PCVR</figcaption></figure>
-  <figure><a href="/racing/gear/meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3 — the mainstream VR gateway</figcaption></figure>
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a><figcaption>TrackIR 5 — head movement, no headset</figcaption></figure>
-  <figure><a href="/flight/gear/tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — clip-free tracking</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a><figcaption>Pimax Crystal Light — clarity-first PCVR</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3 — the mainstream VR gateway</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a><figcaption>TrackIR 5 — head movement, no headset</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — clip-free tracking</figcaption></figure>
 </div>
 
 ## The fast recommendation
@@ -97,32 +97,26 @@ A few honest notes:
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/racing/gear/meta-quest-3"><span class="gp-tag">Buy first · VR test</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><span class="gp-tag">Buy first · VR test</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Mainstream VR · standalone + PCVR</span>
-    <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The lowest-risk way to learn whether VR flight sim clicks for you. Good pancake lenses, wide availability, and easy resale if it doesn't. It stutters at full res in dense MSFS 2024 scenery, but as a "does the magic land?" test it's the one to buy — just note the 512GB is $599.99 now, not $500.</p>
     <span class="gp-price">$599.99 (512GB) · Quest 3S from $349.99 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/racing/gear/pimax-crystal-light"><span class="gp-tag">Upgrade · clarity</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><span class="gp-tag">Upgrade · clarity</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light PCVR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PCVR · 2880x2880/eye QLED, native DisplayPort</span>
-    <span class="gp-name"><a href="/racing/gear/pimax-crystal-light">Pimax Crystal Light</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">Pimax Crystal Light</a></span>
     <p class="gp-why">Where MSFS 2024 cockpits look staggering — the resolution makes fine instrument text readable, and DisplayPort dodges the Quest 3's compression tax so it holds 90+ FPS at full res. Not the headset to buy blind: it wants a strong GPU and it's a seated PCVR rig, not a standalone.</p>
     <span class="gp-price">~$899 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -157,32 +151,26 @@ The [TrackIR 5](/flight/gear/naturalpoint-trackir-5) (~$170 with the TrackClip P
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Middle ground · value</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Middle ground · value</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker with TrackClip PRO" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head tracking · 6DOF, 120 FPS, wear-a-clip</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">The genre standard for over a decade, and the smartest first move for anyone unsure about a headset. Full six-degree head movement, native in 200-plus sims, none of VR's GPU tax — you keep your monitor and panels. You wear a clip and the curves take tuning, but dialed in it transforms situational awareness.</p>
     <span class="gp-price">~$170 (TrackClip PRO bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">Middle ground · no-clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">Middle ground · no-clip</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head + eye tracking · nothing to wear</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">The clip-free route: a sensor bar under the monitor tracks head and eyes, so you just sit down and fly. Pricier than TrackIR and best on a single screen up to ~30 inches, but the no-prep convenience is why many pilots pick it over a headset entirely.</p>
     <span class="gp-price">~$299 direct · check current at Amazon</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
 
 </aside>

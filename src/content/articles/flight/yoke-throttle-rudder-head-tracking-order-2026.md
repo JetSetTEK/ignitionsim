@@ -45,9 +45,9 @@ Val's quick answer: buy the controls that remove the most mouse work from the ai
 </aside>
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Stick path: compact and versatile</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flightstick" loading="lazy"></a><figcaption>Stick path: compact and versatile</figcaption></figure>
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a><figcaption>Rudder path: taxi, crosswinds, helicopters</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>Airbus path: throttle workflow first</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>Airbus path: throttle workflow first</figcaption></figure>
 </div>
 
 ![Pilot type buying map for GA, airliner, helicopter, and combat flight sim hardware](/images/infographics/flight/pilot-type-buy-map.png)
@@ -73,16 +73,13 @@ If you are budget constrained, buy a good yoke/stick and throttle first, then ru
 Airliner simming is about modes, automation, power, spoilers, flaps, radios, and staying ahead of the aircraft. A yoke alone is not enough. The **Honeycomb Bravo** works well for Boeing-ish and general multi-engine workflows. Airbus builders should look at TCA controls and WinWing panels once they know they are committed.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><span class="gp-tag">Airbus flow</span><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Airbus throttle workflow</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">Thrustmaster TCA Quadrant Airbus</a></span>
     <p class="gp-why">The safer first Airbus buy before you chase FCU panels: physical thrust levers, spoilers/flaps expansion path, and less risk of owning the wrong shiny panel.</p>
     <span class="gp-price">Airbus control tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/thrustmaster-tca-quadrant-airbus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -96,19 +93,7 @@ Rudders are not glamorous, but they expose whether you are actually flying the a
 
 The **Logitech G Flight Rudder Pedals** are the budget door. **Honeycomb Charlie** adds metal construction and better feel. **VKB T-Rudder** is compact and precise but lacks toe brakes.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/honeycomb-charlie-pedals"><span class="gp-tag">GA pedals</span><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Rudder + toe brakes</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-charlie-pedals">Honeycomb Charlie Rudder Pedals</a></span>
-    <p class="gp-why">The natural third piece for an Alpha/Bravo deck: better taxi, better landings, and fewer heroic keyboard rudder moments.</p>
-    <span class="gp-price">Pedal tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-charlie-pedals">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for honeycomb-charlie-pedals. -->
 
 ## Head Tracking: The Most Underbought Upgrade
 

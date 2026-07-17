@@ -39,10 +39,10 @@ Verdict first: **nobody buys their forever rig on day one, and the smart move is
 The hobby doesn't work in one purchase. You start with a bundle, the bug bites, and over the next year or two you upgrade piece by piece toward something you'll keep for a decade. The difference between doing that well and doing it expensively is *order*. Here's the route that wastes the least money, told as the staged roadmap I wish someone had handed me, with the exact thing to buy at each rung.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox and PC direct-drive bundle" loading="lazy"></a><figcaption>Stage 1 — a real DD bundle (MOZA R3, 3.9Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>Stage 2 — load-cell pedals (MOZA CRP2)</figcaption></figure>
-  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a><figcaption>Stage 3 — the 8020 rig (Trak Racer TR80)</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>Stage 4 — the base upgrade (MOZA R12, 12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox and PC direct-drive bundle" loading="lazy"></a><figcaption>Stage 1 — a real DD bundle (MOZA R3, 3.9Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a><figcaption>Stage 2 — load-cell pedals (MOZA CRP2)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a><figcaption>Stage 3 — the 8020 rig (Trak Racer TR80)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a><figcaption>Stage 4 — the base upgrade (MOZA R12, 12Nm)</figcaption></figure>
 </div>
 
 ## The one mistake that wastes the most money
@@ -76,16 +76,13 @@ Buy a complete entry DD bundle and use the bundled pedals and clamp for now. On 
 The one decision that matters here isn't the base, it's the *ecosystem*. Because your quick-release and rim choices will follow this base for years, spend ten minutes on [MOZA vs Fanatec vs Simagic](/racing/moza-vs-fanatec-vs-simagic) and pick a tribe with an upgrade path you like. That single choice saves you the most money downstream.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Stage 1 starter</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox and PC direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Stage 1 starter</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox and PC direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Entry DD bundle · 3.9Nm · Xbox + PC</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Bundle</a></span>
     <p class="gp-why">A complete real-direct-drive kit — base, wheel, pedals and clamp — that is one of the only entry DD bundles officially licensed for Xbox as well as PC. Modest 3.9Nm, but Stage 1's entire job is to get you driving and learning, and the R3 does it while opening MOZA's deep upgrade ladder behind it.</p>
     <span class="gp-price">~$319 on sale ($399 reg) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -101,16 +98,13 @@ Goal: braking you can repeat lap after lap.
 This is your *first* real upgrade, full stop. A quality load-cell set transforms your consistency because it senses pressure, not travel. You start braking to a *force* instead of a *position*, and trail-braking becomes a skill you can actually develop. The **MOZA CRP2** (~$399 US, 200kg load cell, CNC aluminum, tunable hydraulic damper) is the value pick most people never need to beat; a tighter budget gets a real pressure brake under $300 with the MOZA SR-P or Fanatec CSL Pedals plus Load Cell Kit. Pedals are usually USB and brand-agnostic, so this purchase is safe no matter what base you end up on. Highest impact, lowest spend, zero lock-in risk. It's the easiest "yes" on the whole path.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Stage 2 upgrade</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Stage 2 upgrade</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The highest-impact, lowest-regret purchase on the whole path: a 0–200kg load cell and an adjustable hydraulic damper on CNC aluminum with a carbon heel plate, all on plain USB. It survives every base change you'll ever make, so it's the one piece you can buy "too good" on day two and never replace.</p>
     <span class="gp-price">~$399 (US) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -128,32 +122,17 @@ If you started on a wheel stand, direct-drive torque is already telling you abou
 A rig matters more than people think for the pedals you just bought, too: a load cell only pays off on a rigid mount with a solid heel plate. Bolt it to a flexing stand and you throw away the repeatability you spent Stage 2 buying.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Stage 3 best value</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Stage 3 best value</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum-profile rig" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">8020 rig · 80×40mm profile · handles 25Nm+</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">The best-value way to stop buying rigs. The thick 80mm profile holds a flagship base with no flex at the wheel mount, so you carry this frame across every future base and pedal upgrade — the literal point of buying it early. Frame only; add a seat separately.</p>
     <span class="gp-price">~$450–$499 (frame) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Stage 3 endgame rig</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X Pro aluminum-profile rig" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8020 rig · heavy-duty profile · any flagship DD</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X Pro</a></span>
-    <p class="gp-why">Among the most rigid and adjustable rigs you can buy, and a genuine buy-once foundation. It carries any flagship base without flex, so if you already know you're climbing to the top of the base ladder, this frame is the one you never replace. Seat and brackets are configured separately.</p>
-    <span class="gp-price">~$849 (frame) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 ## Stage 4 — The base upgrade (now, finally, torque)
 
@@ -162,16 +141,13 @@ Goal: more headroom, *if and only if* you've hit the ceiling.
 Now, after pedals and a solid rig, is when a stronger base earns its money. The trigger is specific: you are racing consistently *and* your entry base's torque genuinely feels limiting in heavy cars. That usually means stepping up to **9–12Nm** — a **MOZA R12** (12Nm), a **Simagic Alpha Evo** (12Nm), a **Fanatec ClubSport DD** (12Nm, 15Nm after the May 2026 firmware). Twelve newton-metres is the sweet spot the overwhelming majority of drivers never outgrow; going past 15Nm buys heavy-car realism, not lap time. Because you chose your ecosystem back in Stage 1, your rims and quick release carry over and the base is the *only* thing you replace. That's the payoff for thinking ahead.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Stage 4 base</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Stage 4 base</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive wheelbase · 12Nm</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The torque sweet spot most drivers never outgrow, the easiest tuning software in the business, and a full upgrade ladder waiting behind it. The buy-once-and-stop base for the vast majority of racers — and because it's a Stage 4 purchase, your pedals and rig are already handling it.</p>
     <span class="gp-price">~$399–$429 (12Nm) · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -186,19 +162,7 @@ Goal: the last 5%, for the people who want it.
 
 A nicer rim. Tactile feedback through the seat. Triples or VR. Hydraulic or active pedals. This is the territory of diminishing returns and pure enjoyment, none of it makes you meaningfully faster, all of it makes the experience richer. A **ButtKicker Gamer PRO** tactile transducer (~$200+) is a good first taste-tier buy because it's cheap relative to the immersion it adds, turning kerbs, RPM and impacts into felt vibration through the rig. Spend here when you have the budget and the itch, not because a spec sheet told you to.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">Stage 5 first taste</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer PRO tactile transducer" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile transducer · 150W amp · rig or chair mount</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer PRO</a></span>
-    <p class="gp-why">The cheapest big jump in immersion at the taste tier: it bolts to your rig and turns audio and telemetry into felt vibration — wheel lock, kerbs, RPM, impacts — through your seat. It won't make you faster, but pound for pound it adds more "I'm in the car" than a rim or a display. Ships with a 150W amp.</p>
-    <span class="gp-price">~$200+ · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## The setup tax nobody quotes you
 
@@ -224,23 +188,25 @@ Honest-broker note: if you're a casual player who races a few hours a month, **s
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The Stage 2 upgrade that actually makes you faster</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The one purchase nine out of ten racers should make before anything else after their bundle. 200kg load cell, tunable damper, CNC aluminum, USB to any base. If your budget is tighter, a MOZA SR-P or Fanatec CSL Load Cell Kit gets you a real pressure brake under $300.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Buy this at Stage 4</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Buy this at Stage 4</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct-drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">The base most ladders end on</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The destination base for most PC racers: 12Nm of sweet-spot torque, the best tuning software, a real ladder behind it. Buy it once your pedals and rig are already in place, and you arrive at a forever rig having bought each piece exactly once.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The verdict

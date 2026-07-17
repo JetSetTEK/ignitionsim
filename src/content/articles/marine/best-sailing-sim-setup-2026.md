@@ -106,16 +106,13 @@ Sailing sims are better-behaved than the ship and fishing titles when it comes t
 **The immersion route (~$499+).** A Meta Quest 3 for MarineVerse Sailing Club. This is the one case where the "hardware" is genuinely transformative — you hold the tiller and sheet with your hands, and the NauticEd course integration turns play into practice — but it trades away the easy chart-reading of a flat second monitor. See [the VR sailing guide](/marine/vr-sailing-simulator) for the full trade-off.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/meta-quest-3-marineverse-vr"><span class="gp-tag">Immersion route</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr"><span class="gp-tag">Immersion route</span><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">VR sailing · hand-tracked tiller & sheet</span>
-    <span class="gp-name"><a href="/marine/gear/meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">Meta Quest 3 (MarineVerse VR sailing)</a></span>
     <p class="gp-why">The one hardware purchase that genuinely transforms a sailing sim — you grab the tiller and haul the sheet with your own hands, and the NauticEd course integration turns play into practice. The trade: charts get harder to read than on a flat second monitor.</p>
     <span class="gp-price">~$500</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/meta-quest-3-marineverse-vr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr">View exact product on Amazon</a></span>
   </div>
 </aside>
 

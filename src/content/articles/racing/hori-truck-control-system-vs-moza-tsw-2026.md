@@ -256,46 +256,46 @@ For many new players, head tracking, a stable chair, and moving the monitor clos
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Complete truck appliance</span><img src="/images/article-proofs/racing/truck-controls-2026/hori-complete-system-official.webp" alt="Official HORI Truck Control System complete wheel shifter control panel and pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-truck-control-system"><span class="gp-tag">Complete truck appliance</span><img src="/images/article-proofs/racing/truck-controls-2026/hori-complete-system-official.webp" alt="Official HORI Truck Control System complete wheel shifter control panel and pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">ATS / ETS2 dedicated system</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">HORI Truck Control System</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-truck-control-system">HORI Truck Control System</a></span>
     <p class="gp-why">Buy for the integrated workflow: 400 mm wheel, stalks, range/splitter shifter, three pedals, and enough mapped controls to keep your hands out of the keyboard.</p>
     <span class="gp-price">Verify live price and seller · ASIN B0D36621HM</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="HORI Truck Control System">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0D36621HM?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-truck-control-system">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Better steering foundation</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-trucking-bundle-official.webp" alt="Official MOZA R5 Trucking Bundle with TSW wheel R5 base pedals and truck clamp" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5-trucking-bundle"><span class="gp-tag">Better steering foundation</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-trucking-bundle-official.webp" alt="Official MOZA R5 Trucking Bundle with TSW wheel R5 base pedals and truck clamp" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Direct-drive truck bundle</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">MOZA R5 Trucking Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5-trucking-bundle">MOZA R5 Trucking Bundle</a></span>
     <p class="gp-why">Buy for cleaner force feedback, Pit House tuning, and a system that can grow beyond trucking. Remember: the standard bundle has two pedals and no shifter or stalks.</p>
     <span class="gp-price">Verify current bundle contents · ASIN B0DTSNB3J6</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="MOZA R5 Trucking Bundle">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DTSNB3J6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5-trucking-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">The immersion add-on</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-trucking-lifestyle-official.webp" alt="Official MOZA truck simulator lifestyle setup with TSW wheel and surrounding truck controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-multi-function-stalks"><span class="gp-tag">The immersion add-on</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-trucking-lifestyle-official.webp" alt="Official MOZA truck simulator lifestyle setup with TSW wheel and surrounding truck controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Optional MOZA control layer</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">MOZA Multi-Function Stalks</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-multi-function-stalks">MOZA Multi-Function Stalks</a></span>
     <p class="gp-why">Indicators, wipers, and lighting are the controls that make a truck desk feel designed instead of assembled. Check current base and mounting compatibility before buying.</p>
     <span class="gp-price">Optional, not included in R5 Trucking Bundle · ASIN B0DPM2CS52</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="MOZA Multi-Function Stalks">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DPM2CS52?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-multi-function-stalks">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Manual workflow</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-mounted-wheel-official.webp" alt="Official MOZA truck wheel and direct drive base mounted in a simulator" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-hgp-shifter"><span class="gp-tag">Manual workflow</span><img src="/images/article-proofs/racing/truck-controls-2026/moza-mounted-wheel-official.webp" alt="Official MOZA truck wheel and direct drive base mounted in a simulator" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Optional seven-speed shifter</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">MOZA HGP Shifter</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-hgp-shifter">MOZA HGP Shifter</a></span>
     <p class="gp-why">Add it only if the physical shift routine is part of the dream. Read current owner reports on noise, cable routing, and calibration, then budget a rigid mount.</p>
     <span class="gp-price">Separate mount and clutch may still be needed · ASIN B0DHHJ3R7S</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="MOZA HGP Shifter">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJ3R7S?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-hgp-shifter">View exact product on Amazon</a></span>
   </div>
 </aside>
 

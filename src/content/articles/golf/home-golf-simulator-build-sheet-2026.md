@@ -36,8 +36,8 @@ Golf simulator shopping starts with a launch monitor. Golf simulator success sta
 Nina's first question is not "SkyTrak or Garmin?" It is "Can you swing driver in that room without redesigning the ceiling fan at high speed?" If the room is wrong, the best launch monitor in the world becomes a very expensive witness.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a><figcaption>Garmin R10: budget radar path</figcaption></figure>
-  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: tight-room photometric favorite</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 launch monitor" loading="lazy"></a><figcaption>Garmin R10: budget radar path</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a><figcaption>SkyTrak+: tight-room photometric favorite</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>Enclosure and screen: the safety layer</figcaption></figure>
 </div>
 
@@ -69,16 +69,13 @@ Radar launch monitors sit behind the golfer and track ball flight. They shine ou
 The **Garmin Approach R10** is still the budget radar gateway. The **Rapsodo MLM2PRO** adds strong app polish and tracked metrics. The **SkyTrak+** is the tight-room value favorite. The **Bushnell Launch Pro** and **Foresight GC3** move into premium camera accuracy and subscription/software decisions. The **Garmin R50** is the wild convenience play with a built-in 10-inch touchscreen and simulator.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Indoor sweet spot</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Indoor sweet spot</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Photometric + radar hybrid</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">The build-friendly pick for many home rooms: side placement, strong ball data, broad software support, and fewer depth demands than radar-behind units.</p>
     <span class="gp-price">Mid-tier launch monitor</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -86,37 +83,13 @@ The **Garmin Approach R10** is still the budget radar gateway. The **Rapsodo MLM
 
 A cheap mat can punish wrists, elbows, and swing mechanics. Good mats absorb impact while still giving realistic turf interaction. The **Fiberbuilt Studio Mat**, **SIGPRO 4x7**, and **Country Club Elite** tier all exist because "piece of green carpet on concrete" is how elbows file complaints.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Joint saver</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio golf hitting mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Hitting surface</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
-    <p class="gp-why">The mat is where your body meets the build. Buy one that lets you practice without turning winter golf into elbow season.</p>
-    <span class="gp-price">Premium mat</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/fiberbuilt-studio-mat">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 ## Phase 4: Screen, Enclosure, and Safety
 
 Your impact screen is not decor. It is a repeated high-speed impact surface. Budget nets can work for practice, but a simulator bay needs a screen and enclosure that handle ball speed, side misses, bounce-back, and noise. Measure screen-to-wall clearance and do not put hard objects behind the impact zone.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Screen bay</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Enclosure + impact screen</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Enclosure</a></span>
-    <p class="gp-why">The part that makes the room feel like a simulator instead of a net in a garage. Match it to your width, ceiling, projector throw, and miss pattern.</p>
-    <span class="gp-price">Bay infrastructure</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
 ## Phase 5: Projector Math
 

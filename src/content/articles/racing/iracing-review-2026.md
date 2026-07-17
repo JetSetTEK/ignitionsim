@@ -118,39 +118,21 @@ iRacing punishes inconsistent inputs. That makes the hardware order very simple 
 
 If the seat slides, the wheel flexes, or the pedal deck moves under braking, you are training around garbage data. Fix the foundation first.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x">
-    <span class="gp-tag">No-regrets frame</span>
-    <img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X Pro aluminum profile sim racing cockpit" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Serious iRacing foundation</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1X Pro</a></span>
-    <p class="gp-why">The buy-once cockpit route for drivers who already know iRacing is not a phase. It gives load-cell pedals and higher torque bases a frame that does not negotiate under pressure.</p>
-    <span class="gp-price">Premium 8020 tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Inspect</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 If you are not ready for an aluminum-profile cockpit, start with something sturdy and honest.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">
     <span class="gp-tag">Apartment sanity</span>
     <img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand with racing wheel and pedals in a room setup" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">First mount path</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex</a></span>
     <p class="gp-why">Not the endgame, but a far better iRacing start than a desk clamp and pedals sliding around like they owe rent. Good for starter DD and first load-cell steps.</p>
     <span class="gp-price">Starter mount tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -158,37 +140,19 @@ If you are not ready for an aluminum-profile cockpit, start with something sturd
 
 The iRacing upgrade that changes behavior fastest is a repeatable brake. Not because it feels fancy. Because pressure-based braking gives your leg something consistent to learn.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint">
-    <span class="gp-tag">Brake first</span>
-    <img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint load-cell sim racing pedals" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">No-drama serious pedals</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">A classic iRacing pedal upgrade because it attacks the actual problem: repeatable braking. Expensive, yes. Still cheaper than buying three mediocre pedal sets while blaming the car.</p>
-    <span class="gp-price">Premium pedal tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Inspect</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">
     <span class="gp-tag">Value pedals</span>
     <img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 sim racing pedals" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">Middle-cart brake upgrade</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">A strong mid-tier move when you want better brake repeatability before going full premium. Put this on a weak stand and you will rediscover physics the hard way.</p>
     <span class="gp-price">Mid-tier pedal tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -197,27 +161,24 @@ The iRacing upgrade that changes behavior fastest is a repeatable brake. Not bec
 Most iRacing drivers do not need a 20+ Nm base early. They need clean detail, enough strength, and a cockpit that keeps the base still.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">
     <span class="gp-tag">Sweet spot</span>
     <img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct drive wheelbase" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">12 Nm PC direct drive</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">A smart iRacing wheelbase class for serious PC racers: enough torque and detail to stop wondering what belt drive is hiding, without turning the whole build into a frame-stress project.</p>
     <span class="gp-price">Serious PC DD tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 If you are testing iRacing and need a sane first wheel, a bundle like the **MOZA R5** is enough to find out whether the service grabs you.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase bundle" loading="lazy"></a><figcaption>Starter DD: MOZA R5 class</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct drive wheelbase product photo" loading="lazy"></a><figcaption>Serious middle: 8-12 Nm</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase bundle" loading="lazy"></a><figcaption>Starter DD: MOZA R5 class</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct drive wheelbase product photo" loading="lazy"></a><figcaption>Serious middle: 8-12 Nm</figcaption></figure>
   <figure><a href="/racing/gear/heusinkveld-sprint"><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedal close-up" loading="lazy"></a><figcaption>Lap-time sanity: load-cell brake</figcaption></figure>
 </div>
 
@@ -228,19 +189,16 @@ For iRacing, display choice is not just immersion. It is traffic management.
 Triples are still the strongest racecraft answer because side windows matter in multiclass, ovals, endurance, and league racing. A 49-inch ultrawide is the cleaner one-screen answer. VR is incredible when your PC, stomach, heat tolerance, and controls workflow agree to stop arguing.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
     <span class="gp-tag">Clean middle</span>
     <img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">One-screen iRacing flex</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The clean middle between a single small monitor and triple-panel life. Not as correct as triples for side vision, but dramatically easier to live with.</p>
     <span class="gp-price">Premium ultrawide tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -377,84 +335,47 @@ Duke note: endurance racing is where tiny ergonomic sins become a confession boo
 Start here if your verdict is build around it. If your verdict is play first, buy the shortest membership path and use included content before you load a cart.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r5">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">
     <span class="gp-tag">Test the waters</span>
     <img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive starter bundle" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">Starter direct drive bundle</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5 Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">MOZA R5 Bundle</a></span>
     <p class="gp-why">Enough direct-drive quality to test iRacing seriously without pretending you already run an endurance team.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r5">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">
     <span class="gp-tag">Mount first</span>
     <img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand setup" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">Starter mounting path</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex</a></span>
     <p class="gp-why">The sensible move if space is real and you still need the wheel and pedals to stay put.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint">
-    <span class="gp-tag">Lap-time upgrade</span>
-    <img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sprint pedal product photo" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Brake consistency</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">The first premium upgrade I would make for weekly iRacing once the cockpit is stable.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Inspect</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
     <span class="gp-tag">Display dream</span>
     <img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 ultrawide monitor" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch ultrawide path</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The one-screen route for iRacing drivers who want a cockpit-filling view without triple-monitor architecture.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Inspect</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro">
-    <span class="gp-tag">After basics</span>
-    <img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer Pro haptic transducer product photo" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile feedback</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer Pro</a></span>
-    <p class="gp-why">A high-fun upgrade after the cockpit, brake, wheelbase, and display are behaving. Tune it lightly unless you want your rig to feel like an appliance recall.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Inspect</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## Bottom Line
 

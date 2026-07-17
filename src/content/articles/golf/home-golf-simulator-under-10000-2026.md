@@ -40,9 +40,9 @@ The luxury move is not buying the most expensive launch monitor. The luxury move
 <div class="shotgrid">
   <figure><a href="/golf/gear/skytrak-st-max"><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a><figcaption>Launch monitor: value indoor brain</figcaption></figure>
   <figure><a href="/golf/gear/carls-place-diy-enclosure"><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY golf simulator enclosure" loading="lazy"></a><figcaption>Enclosure: safety and screen structure</figcaption></figure>
-  <figure><a href="/golf/gear/optoma-gt2100hdr"><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw projector" loading="lazy"></a><figcaption>Projector: value laser path</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw projector" loading="lazy"></a><figcaption>Projector: value laser path</figcaption></figure>
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio hitting mat" loading="lazy"></a><figcaption>Mat: the joint-saving part</figcaption></figure>
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a><figcaption>Premium alternate: no-PC R50</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a><figcaption>Premium alternate: no-PC R50</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a><figcaption>Premium enclosure option</figcaption></figure>
 </div>
 
@@ -69,19 +69,7 @@ This is the path I would put in most garages and spare rooms.
 
 This is the most balanced build because no single part eats the whole cart. It gives you real simulator play, real screen projection, real protection, and room to upgrade the launch monitor later.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-st-max"><span class="gp-tag">Build anchor</span><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Value projected build</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
-    <p class="gp-why">The indoor-friendly launch monitor route when you want the rest of the room to stay funded. Compare against SkyTrak+ and Uneekor pricing before buying.</p>
-    <span class="gp-price">$3K class, watch sale pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-st-max. -->
 
 ## Build Path 2: The No-PC Premium Build
 
@@ -100,16 +88,13 @@ The trick is restraint. Pair the R50 with a safe enclosure and a quality mat. Us
 **Target:** around $8,000-$10,000 if you avoid the premium projector at checkout.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Premium convenience build</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">Best when your real enemy is setup friction. It lets you spend less on PC complexity now and more on the physical bay that makes the room usable.</p>
     <span class="gp-price">MSRP around $4,999.99</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -119,19 +104,7 @@ If $10K is the ceiling but you would rather spend $6K-$7K and upgrade later, sta
 
 The **Rapsodo MLM2PRO** and **Garmin R10** can work well when the room has enough depth. They are not the same experience as a premium photometric unit, but they let you build the bay and learn whether the simulator becomes a habit before dropping five grand on the brain.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Budget brain</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy if the room is deep enough</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">The starter route when the room gives radar enough space. Save the money for mat, enclosure, projector, and the future upgrade you will absolutely start researching at midnight.</p>
-    <span class="gp-price">Budget launch monitor</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 ## The Parts That Actually Matter
 
@@ -146,7 +119,7 @@ Cheap mats can punish your wrists and elbows. A good mat is not a vanity purchas
 <div class="shotgrid">
   <figure><a href="/golf/gear/fiberbuilt-studio-mat"><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio golf mat" loading="lazy"></a><figcaption>Fiberbuilt: premium joint comfort path</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-4x7-mat"><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4x7 hitting mat" loading="lazy"></a><figcaption>SIGPRO 4x7: sim room standard size</figcaption></figure>
-  <figure><a href="/golf/gear/country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: thick, realistic resistance</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0048GIWDO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="country-club-elite-mat"><img src="/images/gear/golf/country-club-elite-mat.jpg" alt="Country Club Elite golf mat" loading="lazy"></a><figcaption>Country Club Elite: thick, realistic resistance</figcaption></figure>
 </div>
 
 ### 3. The enclosure decides whether other people can use the room
@@ -155,19 +128,7 @@ Impact screens and side protection are where safety and spouse acceptance meet. 
 
 Tom's Guide published a useful under-$10K real-world build using a Carl's Place DIY enclosure package, hitting mat, Square Golf launch monitor, BenQ projector, PC, soundbar, hitting strip, and GSPro, landing at $9,784. The exact parts are not mandatory, but the lesson is excellent: the room becomes affordable when the enclosure is planned with the entire cart, not treated as an afterthought.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">DIY bay</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY golf simulator enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best practical enclosure route</span>
-    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure</a></span>
-    <p class="gp-why">A smart under-$10K enclosure path because the sizes, pipe-kit options, and side protection can be matched to the room instead of improvised after the first shank.</p>
-    <span class="gp-price">Budget depends on size and add-ons</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/carls-place-diy-enclosure">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for carls-place-diy-enclosure. -->
 
 ### 4. The projector is a geometry purchase
 
@@ -176,30 +137,24 @@ The **Optoma GT2100HDR** is a strong value candidate because Optoma lists 1080p 
 The warning: projector "better" is meaningless if the throw ratio, offset, mount point, and enclosure depth fight your room. Use the manufacturer throw calculator and mark the projector location with tape before drilling anything.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Value projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><span class="gp-tag">Value projector</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best budget projector class</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">A practical way to keep a projected build under $10K. Check offset and throw against your exact screen size before buying.</p>
     <span class="gp-price">Commonly around $1.3K</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st"><span class="gp-tag">Premium projector</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st"><span class="gp-tag">Premium projector</span><img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Buy if projection is the flex</span>
-    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">BenQ LK936ST</a></span>
     <p class="gp-why">Great when the image is the premium anchor. Under $10K, pairing it with a $5K launch monitor is where the cart starts yelling.</p>
     <span class="gp-price">Premium 4K projector tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -226,44 +181,30 @@ The warning: projector "better" is meaningless if the throw ratio, offset, mount
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Value brain</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Value brain</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak Plus launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best value launch monitor path</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+ or ST MAX</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+ or ST MAX</a></span>
     <p class="gp-why">The sensible under-$10K anchor for many indoor rooms. Spend the savings on the room infrastructure.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/carls-place-diy-enclosure"><span class="gp-tag">Room builder</span><img src="/images/gear/golf/carls-place-diy-enclosure.jpg" alt="Carl's Place DIY enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best practical enclosure path</span>
-    <span class="gp-name"><a href="/golf/gear/carls-place-diy-enclosure">Carl's Place DIY Enclosure</a></span>
-    <p class="gp-why">Match size, screen, pipe kit, back cover, foam, and side protection to the room. This is where under-$10K builds get real.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for carls-place-diy-enclosure. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr"><span class="gp-tag">Value image</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR projector" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr"><span class="gp-tag">Value image</span><img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR projector" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best projector budget saver</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">Spend here when the BenQ tier blows up the budget. Check throw and offset first.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/fiberbuilt-studio-mat"><span class="gp-tag">Do not cheap out</span><img src="/images/gear/golf/fiberbuilt-studio-mat.jpg" alt="Fiberbuilt Studio Mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best body-protection spend</span>
-    <span class="gp-name"><a href="/golf/gear/fiberbuilt-studio-mat">Fiberbuilt Studio Mat</a></span>
-    <p class="gp-why">The part you touch every swing. A better mat can be the difference between daily practice and a very expensive room you avoid.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fiberbuilt-studio-mat. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 1, 2026. We checked official pages for Garmin R50, BenQ LK936ST, Optoma GT2100HDR, Carl's Place enclosure categories, GSPro subscription references, Tom's Guide's real under-$10K build, r/Golfsimulator projector/enclosure discussions, and Golf Simulator Forum projector/enclosure setup notes.

@@ -6,20 +6,27 @@
  * Racing keeps its dedicated compatibility-engine Configurator.
  */
 import configs from '../data/build-configs.json';
+import site from '../data/site.json';
 import { hasVerifiedProductImage } from '../lib/productMedia';
+import { canonicalAmazonProductUrl } from '../lib/amazon';
 interface Props { bay: string; }
 const { bay } = Astro.props;
 const cfg = (configs as any)[bay];
 
 const prodMods = import.meta.glob('/src/data/products/*.json', { eager: true });
 const all = Object.values(prodMods).flatMap((m: any) => (m.default || [])) as any[];
-const bayProducts = all.filter((p) => p.bay === bay && p.price > 0 && hasVerifiedProductImage(p));
+const amazonTag = (site as any).affiliate?.amazonTag;
+const bayProducts = all
+  .filter((p) => p.bay === bay && p.price > 0 && hasVerifiedProductImage(p))
+  .map((p) => ({ ...p, amazonUrl: canonicalAmazonProductUrl(p, amazonTag) }))
+  .filter((p) => p.amazonUrl);
 
 const toOption = (p: any) => ({
   id: p.id, brand: p.brand, model: p.model, price: p.price, type: p.type,
   image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3),
   rating: p.rating?.overall,
   specLine: Object.values(p.specs || {}).slice(0, 2).join(' · '),
+  amazonUrl: p.amazonUrl,
 });
 const steps = (cfg?.steps || []).map((s: any) => ({
   key: s.key, title: s.title, optional: s.optional,
@@ -123,7 +130,7 @@ const payload = { bay, steps };
           + (o.specLine ? `<div class="ospec">${esc(o.specLine)}</div>` : '')
           + (o.summary ? `<button class="opt-more" type="button">details ▾</button><div class="opt-detail"><p>${esc(o.summary)}</p>`
               + (pros.length ? `<ul>${pros.map((x: string) => `<li>${esc(x)}</li>`).join('')}</ul>` : '')
-              + `<a href="/${BAY}/gear/${o.id}">Full review →</a></div>` : '')
+              + `<a href="${o.amazonUrl}" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="${o.id}">Exact product on Amazon ↗</a><a href="/${BAY}/gear/${o.id}">Specs &amp; verdict →</a></div>` : '')
           + `</div>`;
       });
       h += `</div></div>`;
@@ -137,7 +144,7 @@ const payload = { bay, steps };
     let total = 0, html = '';
     STEPS.forEach((s) => {
       const o = sel[s.key];
-      if (o) { total += (o.price || 0); html += `<div class="lrow"><span class="ln">${esc(s.title)}</span><span class="lv"><div class="nm">${esc(o.brand)} ${esc(o.model)}</div><div class="pr">$${o.price}</div></span></div>`; }
+      if (o) { total += (o.price || 0); html += `<div class="lrow"><span class="ln">${esc(s.title)}</span><span class="lv"><a class="nm" href="${o.amazonUrl}" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="${o.id}">${esc(o.brand)} ${esc(o.model)}</a><div class="pr">$${o.price}</div></span></div>`; }
       else { html += `<div class="lrow empty"><span class="ln">${esc(s.title)}</span><span class="lv">${s.optional ? 'optional' : 'not selected'}</span></div>`; }
     });
     L.innerHTML = html;

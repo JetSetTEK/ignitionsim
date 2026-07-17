@@ -76,71 +76,47 @@ Nina's translation: **AK700ST is the best answer when you want the room to feel 
 
 ## The Product Proof
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-ak700st">
-    <span class="gp-tag">Best default 4K</span>
-    <img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST 4K short throw laser golf simulator projector" loading="lazy">
-  </a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">4K UHD · 4,000 ANSI lumens · 0.69-0.83 throw</span>
-    <span class="gp-name"><a href="/golf/gear/benq-ak700st">BenQ AK700ST</a></span>
-    <p class="gp-why">The cleanest 2026 recommendation for a serious permanent bay. BenQ's official spec page lists 4K UHD, 4,000 ANSI lumens, a 0.69-0.83 short throw ratio, and laser light. The live product page adds Auto Screen Fit, Golf Mode, a motorized lens with 1.2x optical zoom, and IP5X dust-resistant engine language. This is the one I would spec when the room is measured and the screen is big enough to reward 4K.</p>
-    <span class="gp-price">Verify live pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for benq-ak700st. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-ah700st">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GNZ6NS78?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-ah700st">
     <span class="gp-tag">Best value BenQ</span>
     <img src="/images/gear/golf/benq-ah700st.jpg" alt="BenQ AH700ST 1080p short throw laser golf projector" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">1080p · 4,000 ANSI lumens · 0.69-0.83 throw</span>
-    <span class="gp-name"><a href="/golf/gear/benq-ah700st">BenQ AH700ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GNZ6NS78?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-ah700st">BenQ AH700ST</a></span>
     <p class="gp-why">The AH700ST is the smart value play because it keeps the golf-specific setup tools and 4,000-lumen laser brightness, then skips the 4K tax. If your screen is around 9-11 feet wide and you are sitting/hitting at normal sim distance, that trade can make sense. Spend the saved money on a better impact screen or mat before you chase pixels you may not actually see.</p>
     <span class="gp-price">Verify live pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-ah700st">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-ah700st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GNZ6NS78?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-ah700st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-lk936st">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">
     <span class="gp-tag">Premium showpiece</span>
     <img src="/images/gear/golf/benq-lk936st.jpg" alt="BenQ LK936ST 4K short throw golf simulation projector" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">4K UHD · 5,100 lumens · 0.8 short throw + 1.1x zoom</span>
-    <span class="gp-name"><a href="/golf/gear/benq-lk936st">BenQ LK936ST</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">BenQ LK936ST</a></span>
     <p class="gp-why">This is the premium room projector. BenQ markets it as a 5,100-lumen, 4K UHD simulation projector with a 0.8 short throw and 1.1x zoom, and says it can project a near-10-foot-tall image from roughly 14-15 feet back. That makes sense when the room is big, the screen is large, and the whole build is trying to feel like a private club after dark.</p>
     <span class="gp-price">Verify live pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-lk936st">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/benq-lk936st">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BRBQ3ZHH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="benq-lk936st">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/optoma-gt2100hdr">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">
     <span class="gp-tag">Tight-room value</span>
     <img src="/images/gear/golf/optoma-gt2100hdr.jpg" alt="Optoma GT2100HDR short throw laser projector" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">1080p · 4,200 lumens · 0.496:1 throw · 8.60 ms lag</span>
-    <span class="gp-name"><a href="/golf/gear/optoma-gt2100hdr">Optoma GT2100HDR</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">Optoma GT2100HDR</a></span>
     <p class="gp-why">The GT2100HDR is the garage pragmatist. Optoma's official specs list a 0.496:1 throw ratio and 8.60 ms input lag, and the product page says 4,200 lumens with up to 30,000 hours from the DuraCore laser engine. It is native 1080p, but the throw ratio is the headline. Tight rooms care about fit before they care about trophy specs.</p>
     <span class="gp-price">Verify live pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/optoma-gt2100hdr">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C4KWSFBW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="optoma-gt2100hdr">View exact product on Amazon</a></span>
   </div>
 </aside>
 

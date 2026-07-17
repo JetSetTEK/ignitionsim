@@ -41,9 +41,9 @@ Verdict first: **for the typical serious home player the SkyTrak+ (or its ST MAX
 This is the tier where buyers get hurt. Not by buying a bad unit — all three are genuinely good, all three are side-of-ball photometric units friendly to indoor rooms — but by buying the right unit and then getting surprised by the bill that arrives every January. The differences that matter are not on the spec sheet. They are in the *subscription model*, the *software freedom*, and whether you actually need club-fitting-grade data. Let me lay it out like an honest broker.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a><figcaption>SkyTrak+ — no-subscription workhorse</figcaption></figure>
-  <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Bushnell Launch Pro — tour data, subscription catch</figcaption></figure>
-  <figure><a href="/golf/gear/foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a><figcaption>Foresight GC3 — the fitting-grade jump</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a><figcaption>SkyTrak+ — no-subscription workhorse</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>Bushnell Launch Pro — tour data, subscription catch</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a><figcaption>Foresight GC3 — the fitting-grade jump</figcaption></figure>
 </div>
 
 ## The Three Units At A Glance
@@ -78,32 +78,17 @@ There is one honest 2026 caveat you need to hear before you fall in love with th
 The late-2025 **ST MAX** refresh is worth knowing about: GOLFTEC-powered speed training, dual USB-C (charge and connect at once), and a faster processor that trims shot delay. The shorter delay matters more than it sounds — long shot-to-result lag is the most immersion-breaking thing in a budget bay. But the core tracking accuracy is unchanged from the +, so if you find the SkyTrak+ in stock at ~$1,995, that is the smart-money buy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Best total cost of ownership</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Best total cost of ownership</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Photometric + dual radar · no mandatory fee</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">Wins the bracket on the number that actually compounds: total cost of ownership. Included practice range, no annual fee, and carry within a couple yards of $20K units. It won't fit clubs, and confirm current third-party connectors before buying — but for playing rounds and tracking honest numbers on a budget, the no-subscription core is decisive.</p>
     <span class="gp-price">~$1,995 (clearance; verify stock)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-st-max"><span class="gp-tag">The current refresh</span><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Faster processor · GOLFTEC speed training</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-st-max">SkyTrak ST MAX</a></span>
-    <p class="gp-why">The unit that replaced the SkyTrak+ in early 2026. Same accuracy, but a faster processor with shorter shot delay, dual USB-C, and built-in GOLFTEC speed training. Worth the ~$1,000 step over a clearance + only if the snappier feel and speed drills matter to you.</p>
-    <span class="gp-price">~$2,995</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-st-max">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for skytrak-st-max. -->
 
 ## Bushnell Launch Pro: Tour Data, Subscription Catch
 
@@ -119,16 +104,13 @@ Run that math honestly, because Bushnell restructured the tiers for 2026:
 A Launch Pro on Gold plus GSPro is approaching **$750/year** in recurring cost. Over three years that subscription stack can pass the hardware price. If you value the Foresight sensor accuracy and you are fine with the annual fee — or you buy the one-time club-data unlock and stay off Gold — it is a superb unit. If subscriptions make your eye twitch, and for a lot of buyers they do, that is exactly why the SkyTrak+ exists. Factor the recurring line into the [real cost breakdown](/golf/golf-simulator-cost) before you commit. One more spec note: as a shallow-room-friendly side unit it suits 12-15 ft of depth, but it does **not** connect to TGC 2019.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Cheapest tour-grade hardware</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Cheapest tour-grade hardware</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Foresight FSP sensor · ~2% of GCQuad on ball data</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">The hardware is a bargain and the software is the price. A genuine Foresight FSP sensor — tour-grade ball data — for ~$2,499, but club data and full sim hide behind Silver/Gold annual tiers (or a ~$1,500 one-time unlock). Superb if you have made peace with the fee; the reason the SkyTrak+ exists if you haven't.</p>
     <span class="gp-price">~$2,499 + subscription</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -143,16 +125,13 @@ Watch the variant. The cheaper **GC3S** (~$3,799 up front, then ~$499/yr after a
 For a player who wants to shoot a round on Pebble and see honest ball flight, the GC3's club-data edge is largely theoretical, and the price delta is better spent on the mat, screen, and room finishing. But if you fit clubs, instruct, or genuinely chase club-path and face-angle precision, the GC3 is the unit and the premium is justified.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-gc3"><span class="gp-tag">For fitters & instructors</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><span class="gp-tag">For fitters & instructors</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Triple-camera · fitting-grade club data · lifetime software</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight Sports GC3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">Foresight Sports GC3</a></span>
     <p class="gp-why">The jump is one word: club data. Genuine fitting-grade triple-camera metrics — the tech that makes Foresight the commercial gold standard — with lifetime FSX software and 25 courses on the straight GC3, no recurring fee. Justified if you fit or instruct; if you just want to play Pebble, that premium buys a better mat and screen instead. Buy the GC3, not the phased-out GC3S, for the no-subscription promise.</p>
     <span class="gp-price">~$6,999</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -171,7 +150,7 @@ The hardware differences are smaller than the software differences. Here is how 
 
 <div class="shotgrid">
   <figure><a href="/golf/gear/skytrak-st-max"><img src="/images/gear/golf/skytrak-st-max.jpg" alt="SkyTrak ST MAX launch monitor" loading="lazy"></a><figcaption>SkyTrak app + included range</figcaption></figure>
-  <figure><a href="/golf/gear/bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>FSX family, Gold for GSPro</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a><figcaption>FSX family, Gold for GSPro</figcaption></figure>
   <figure><a href="/golf/gear/foresight-gcquad"><img src="/images/gear/golf/foresight-gcquad.jpg" alt="Foresight GCQuad launch monitor" loading="lazy"></a><figcaption>The GCQuad reference the FSP sensor descends from</figcaption></figure>
 </div>
 
@@ -201,33 +180,36 @@ The hardware differences are smaller than the software differences. Here is how 
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Value default</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Value default</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best total cost of ownership</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+ (or ST MAX)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+ (or ST MAX)</a></span>
     <p class="gp-why">The right buy for most serious home players: strong ball data, included range, no annual fee. Grab the clearance + if GSPro/E6 connectors are confirmed, or the ST MAX for the snappier feel.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/bushnell-launch-pro"><span class="gp-tag">Accuracy on a budget</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro"><span class="gp-tag">Accuracy on a budget</span><img src="/images/gear/golf/bushnell-launch-pro.jpg" alt="Bushnell Launch Pro launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Foresight ball data if you accept the fee</span>
-    <span class="gp-name"><a href="/golf/gear/bushnell-launch-pro">Bushnell Launch Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">Bushnell Launch Pro</a></span>
     <p class="gp-why">The cheapest genuine Foresight sensor. Buy it if you want tour-grade ball data and you have budgeted the Silver/Gold fee or the one-time club-data unlock.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/bushnell-launch-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FYR5FMFF?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="bushnell-launch-pro">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/foresight-gc3"><span class="gp-tag">If club data is real</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3"><span class="gp-tag">If club data is real</span><img src="/images/gear/golf/foresight-gc3.jpg" alt="Foresight Sports GC3 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Fitting-grade, lifetime software</span>
-    <span class="gp-name"><a href="/golf/gear/foresight-gc3">Foresight GC3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">Foresight GC3</a></span>
     <p class="gp-why">Buy it if you fit or instruct and want tour-grade club data with lifetime FSX and no recurring fee. Buy the straight GC3, not the phased-out GC3S.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/foresight-gc3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GKQJP29N?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="foresight-gc3">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## The Verdict

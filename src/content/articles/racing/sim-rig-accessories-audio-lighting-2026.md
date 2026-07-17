@@ -41,9 +41,9 @@ Here's the thing nobody tells you when you're agonizing over 12Nm versus 18Nm: t
 This is the finishing cluster — the small-money, high-satisfaction stuff that turns a pile of expensive hardware into a *place you want to be*.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/steelseries-arctis-nova-7"><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a><figcaption>Arctis Nova 7 — wireless positional audio</figcaption></figure>
-  <figure><a href="/racing/gear/govee-rgbic-bars"><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a><figcaption>Govee RGBIC bars — cheap ambience</figcaption></figure>
-  <figure><a href="/racing/gear/sabrent-powered-usb-hub"><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a><figcaption>Sabrent 10-Port hub — kill the dropouts</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7"><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a><figcaption>Arctis Nova 7 — wireless positional audio</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars"><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a><figcaption>Govee RGBIC bars — cheap ambience</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub"><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a><figcaption>Sabrent 10-Port hub — kill the dropouts</figcaption></figure>
   <figure><a href="/racing/gear/buttkicker-gamer-pro"><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer PRO tactile transducer" loading="lazy"></a><figcaption>ButtKicker Gamer PRO — the one big touch</figcaption></figure>
 </div>
 
@@ -69,16 +69,13 @@ A wired headset on a sim rig is a small daily tax you stop noticing you're payin
 The dual-wireless trick matters more than it sounds. The Nova 7 runs its 2.4GHz dongle and Bluetooth simultaneously, so your race audio and a phone call or Discord can share the same cans without unplugging anything. Battery life on the Gen 2 is quoted around 38-54 hours depending on mode, and a fast 15-minute top-up buys roughly six hours — enough that "my headset died mid-enduro" simply stops happening. For apartment racers who can't run bass shakers or open speakers at 11pm, a good wireless headset is also the *only* way to get real positional sound without waking the house.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/steelseries-arctis-nova-7"><span class="gp-tag">Best headset</span><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7"><span class="gp-tag">Best headset</span><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Wireless gaming headset · 2.4GHz + Bluetooth</span>
-    <span class="gp-name"><a href="/racing/gear/steelseries-arctis-nova-7">SteelSeries Arctis Nova 7</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7">SteelSeries Arctis Nova 7</a></span>
     <p class="gp-why">No cable to snag on your shifter, positional audio that hears the car alongside you, and simultaneous 2.4GHz + Bluetooth so race sound and Discord share one headset. The apartment racer's answer to "how do I get sound at midnight."</p>
     <span class="gp-price">~$179 (Gen 2)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/steelseries-arctis-nova-7">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/steelseries-arctis-nova-7">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -91,16 +88,13 @@ RGBIC — the "IC" is the addressable controller — is what separates these fro
 <img src="/images/infographics/sim-rig-accessories-audio-lighting-2026-2.svg" alt="Powered vs bus-powered USB hub" loading="lazy">
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/govee-rgbic-bars"><span class="gp-tag">Cheap game-changer</span><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars"><span class="gp-tag">Cheap game-changer</span><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Ambient / bias RGB lighting · RGBIC segmented</span>
-    <span class="gp-name"><a href="/racing/gear/govee-rgbic-bars">Govee RGBIC Gaming Light Bars</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars">Govee RGBIC Gaming Light Bars</a></span>
     <p class="gp-why">Cuts eye strain in a dark room and makes the whole rig read as finished. RGBIC gives flowing multi-color instead of a flat wash, with music-sync and 60+ scene modes. The cheapest upgrade nobody regrets.</p>
     <span class="gp-price">~$60-80 (2-bar set)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/govee-rgbic-bars">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/govee-rgbic-bars">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -111,16 +105,13 @@ This is the accessory nobody thinks about until their wheel disconnects on the l
 The fix is a **powered** hub, and the word "powered" is doing all the work. A bus-powered hub just splits the trickle of current your PC hands it; a powered hub like the [Sabrent 10-Port Powered USB Hub](/racing/gear/sabrent-powered-usb-hub) (~$36) plugs into the wall with its own 60W (12V/5A) adapter and delivers a full, stable feed to every port at once. Ten USB 3.0 ports, individual power switches so you can cut a single device, and one tidy cable back to the PC instead of a fistful. It is the cheapest, highest-relief fix on this list — the community's perennial "improved my setup more than I expected for the money" pick.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sabrent-powered-usb-hub"><span class="gp-tag">Sleeper hero</span><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub"><span class="gp-tag">Sleeper hero</span><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Powered USB hub · 10 × USB 3.0, 60W adapter</span>
-    <span class="gp-name"><a href="/racing/gear/sabrent-powered-usb-hub">Sabrent 10-Port Powered USB Hub</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub">Sabrent 10-Port Powered USB Hub</a></span>
     <p class="gp-why">Its own wall adapter feeds every port a stable 5V, so your wheel stops dropping mid-race. Ten ports, individual switches, one cable to the PC. The fix for the most infuriating problem in sim racing, for the price of a track pack.</p>
     <span class="gp-price">~$36</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sabrent-powered-usb-hub">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/sabrent-powered-usb-hub">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -142,19 +133,7 @@ Everything above is small money. This is the finishing touch worth saving for. A
 
 The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plug-and-play route. Where a DIY tactile build means picking a bare shaker, matching an amplifier's impedance and wiring it yourself, the Gamer PRO ships as one bundle: the transducer, a 150W amplifier with a digital volume display and wireless remote, the universal clamp mount, and every cable in the box. You clamp it to a rig post, feed it a second audio output, and let SimHub's ShakeIt module (or ButtKicker's own software) drive it from telemetry. It costs more than the whole finishing cluster combined — which is exactly why it's the one you buy *last*, once the cheap, high-satisfaction stuff is already done.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/buttkicker-gamer-pro"><span class="gp-tag">The big finishing touch</span><img src="/images/gear/racing/buttkicker-gamer-pro.jpg" alt="ButtKicker Gamer PRO tactile transducer" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Tactile transducer · 150W bundled amp</span>
-    <span class="gp-name"><a href="/racing/gear/buttkicker-gamer-pro">ButtKicker Gamer PRO</a></span>
-    <p class="gp-why">Feel wheelspin, lockups, kerbs and shift kicks through the seat — the highest-return immersion add after base and pedals. Ships as one plug-and-play bundle (transducer, 150W amp, remote, clamp) so you skip the DIY amp-matching homework.</p>
-    <span class="gp-price">~$350 (bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/buttkicker-gamer-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for buttkicker-gamer-pro. -->
 
 ## The finishing cluster at a glance
 
@@ -188,33 +167,36 @@ The [ButtKicker Gamer PRO](/racing/gear/buttkicker-gamer-pro) (~$350) is the plu
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sabrent-powered-usb-hub"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/sabrent-powered-usb-hub.jpg" alt="Sabrent 10-Port Powered USB Hub" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cheapest highest-relief fix</span>
-    <span class="gp-name"><a href="/racing/gear/sabrent-powered-usb-hub">Sabrent 10-Port Powered USB Hub</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub">Sabrent 10-Port Powered USB Hub</a></span>
     <p class="gp-why">Thirty-six dollars ends the mid-race disconnects your expensive base can't. Ten powered ports, one cable to the PC, individual switches. There is no better-value accessory in sim racing.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/sabrent-powered-usb-hub">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0797NZFYP?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="sabrent-powered-usb-hub">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/govee-rgbic-bars"><span class="gp-tag">Buy this for the room</span><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars"><span class="gp-tag">Buy this for the room</span><img src="/images/gear/racing/govee-rgbic-bars.jpg" alt="Govee RGBIC Gaming Light Bars" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best cheap visible upgrade</span>
-    <span class="gp-name"><a href="/racing/gear/govee-rgbic-bars">Govee RGBIC Gaming Light Bars</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars">Govee RGBIC Gaming Light Bars</a></span>
     <p class="gp-why">Sixty to eighty dollars turns a dark corner into a finished cockpit and saves your eyes on the night stints. Clamp them to the rig, point at the wall, done.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/govee-rgbic-bars">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0B6CQ2LQ2?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="govee-rgbic-bars">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/steelseries-arctis-nova-7"><span class="gp-tag">Buy this to cut the cord</span><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7"><span class="gp-tag">Buy this to cut the cord</span><img src="/images/gear/racing/steelseries-arctis-nova-7.jpg" alt="SteelSeries Arctis Nova 7 wireless gaming headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best all-round headset</span>
-    <span class="gp-name"><a href="/racing/gear/steelseries-arctis-nova-7">SteelSeries Arctis Nova 7</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7">SteelSeries Arctis Nova 7</a></span>
     <p class="gp-why">Wireless, comfortable for hours, positional enough to hear the car alongside you, and midnight-friendly. The cable you stop snagging on the shifter is worth the price by itself.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/steelseries-arctis-nova-7">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0B15QM5LL?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="steelseries-arctis-nova-7">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

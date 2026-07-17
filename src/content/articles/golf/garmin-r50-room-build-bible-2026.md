@@ -181,7 +181,7 @@ It gives you a built-in display that is actually central to the product. It can 
 Those features matter if the room is supposed to be used often by normal humans.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 product photo with 10-inch touchscreen" loading="lazy"></a><figcaption>R50: the simulator brain lives in the launch monitor</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 product photo with 10-inch touchscreen" loading="lazy"></a><figcaption>R50: the simulator brain lives in the launch monitor</figcaption></figure>
   <figure><a href="/golf/gear/benq-ak700st"><img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST 4K short throw golf simulator projector" loading="lazy"></a><figcaption>Projector: where the no-PC signal becomes a room</figcaption></figure>
   <figure><a href="/golf/gear/sig10-enclosure"><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure and impact screen" loading="lazy"></a><figcaption>Enclosure: keeps the dream from hitting drywall</figcaption></figure>
   <figure><a href="/golf/gear/sigpro-4x7-mat"><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4 by 7 golf simulator mat" loading="lazy"></a><figcaption>Mat: where your joints vote every swing</figcaption></figure>
@@ -225,8 +225,8 @@ The R50 is the cleanest family/garage premium pick. SkyTrak is the practical ind
 The Garmin Approach R10 is still the budget gateway. It is portable, affordable, and fun, especially outdoors or in deeper rooms where radar has enough ball flight to work with. It is not the R50's little sibling in the way a smaller iPhone is still an iPhone. It is a different kind of tool.
 
 <div class="shotgrid">
-  <figure><a href="/golf/gear/garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 premium golf launch monitor" loading="lazy"></a><figcaption>R50: camera-based, touchscreen-first, no-PC premium</figcaption></figure>
-  <figure><a href="/golf/gear/garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 budget radar launch monitor" loading="lazy"></a><figcaption>R10: budget radar, better with depth and outdoor use</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 premium golf launch monitor" loading="lazy"></a><figcaption>R50: camera-based, touchscreen-first, no-PC premium</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B095QX1FSR?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r10"><img src="/images/gear/golf/garmin-approach-r10.jpg" alt="Garmin Approach R10 budget radar launch monitor" loading="lazy"></a><figcaption>R10: budget radar, better with depth and outdoor use</figcaption></figure>
 </div>
 
 If your goal is cheap practice and you have the room depth, R10 makes sense. If your goal is a premium indoor sim room without building a PC-first setup, R50 is the real conversation.
@@ -237,18 +237,7 @@ The R50's HDMI output is one of the reasons this article exists. It makes the bi
 
 If you want a clean bay, start with screen width, then projector throw ratio, then mount location. Do not buy the projector because someone online said "4K looks amazing." It does, when the projector can physically live in the right spot.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-ak700st"><span class="gp-tag">4K golf bay</span><img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST golf simulator projector" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Good fit for permanent R50 rooms</span>
-    <span class="gp-name"><a href="/golf/gear/benq-ak700st">BenQ AK700ST</a></span>
-    <p class="gp-why">The R50 can feed a projector over HDMI, but the projector still has to fit the room. The AK700ST is the premium 4K golf-specific path when screen size and budget make 4K worth it.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for benq-ak700st. -->
 
 For a deeper projector path, use the [golf simulator projector guide](/golf/golf-simulator-projector-guide). The short version: screen width times throw ratio equals mount distance. If the mount lands behind your swing path, you are about to buy a shadow.
 
@@ -285,56 +274,20 @@ Nina's line: **The R50 should simplify the room, not excuse you from planning it
 ## What To Buy Around The R50
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 premium launch monitor and golf simulator" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50"><span class="gp-tag">No-PC anchor</span><img src="/images/gear/golf/garmin-approach-r50.jpg" alt="Garmin Approach R50 premium launch monitor and golf simulator" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best when setup friction is the enemy</span>
-    <span class="gp-name"><a href="/golf/gear/garmin-approach-r50">Garmin Approach R50</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">Garmin Approach R50</a></span>
     <p class="gp-why">The R50 is the article's anchor because it changes the room workflow. Built-in touchscreen, no-PC Home Tee Hero path, HDMI output, impact video, and premium camera-based data make it the cleanest appliance-style golf sim buy.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/garmin-approach-r50">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/garmin-approach-r50">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DM6NYRYN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="garmin-approach-r50">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sig10-enclosure"><span class="gp-tag">Room shell</span><img src="/images/gear/golf/sig10-enclosure.jpg" alt="SIG10 golf simulator enclosure" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best when the garage becomes a real bay</span>
-    <span class="gp-name"><a href="/golf/gear/sig10-enclosure">SIG10 Golf Simulator Enclosure</a></span>
-    <p class="gp-why">A serious R50 room deserves a real target, not a sad sheet and hope. The enclosure gives the image a home and gives bad shots somewhere safer to die.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sig10-enclosure">Inspect specs</a>
+<!-- Product card withheld: exact Amazon ASIN not verified for sig10-enclosure. -->
 
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sigpro-4x7-mat. -->
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/sigpro-4x7-mat"><span class="gp-tag">Joint sanity</span><img src="/images/gear/golf/sigpro-4x7-mat.jpg" alt="SIGPRO 4 x 7 golf simulator mat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best when you want level stance and replaceable wear</span>
-    <span class="gp-name"><a href="/golf/gear/sigpro-4x7-mat">SIGPRO 4' x 7' Mat</a></span>
-    <p class="gp-why">The mat is where the build touches your body. A large platform keeps stance and ball level, and a swappable hitting strip keeps one worn groove from becoming the whole mat's obituary.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/sigpro-4x7-mat">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/benq-ak700st"><span class="gp-tag">Premium picture</span><img src="/images/gear/golf/benq-ak700st.jpg" alt="BenQ AK700ST 4K golf simulator projector" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best when the room deserves 4K</span>
-    <span class="gp-name"><a href="/golf/gear/benq-ak700st">BenQ AK700ST</a></span>
-    <p class="gp-why">If you are using the R50 as the simulator source, the projector is how the appliance becomes a room. Measure throw first, then buy the picture.</p>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/benq-ak700st">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for benq-ak700st. -->
 
 Also price the boring finishers:
 

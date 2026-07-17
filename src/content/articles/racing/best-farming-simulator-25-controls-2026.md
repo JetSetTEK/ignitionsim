@@ -320,46 +320,46 @@ For a G29/G920-class wheel, begin with 900 degrees in the driver, remove unneces
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Best new complete path</span><img src="/images/article-proofs/racing/farming-controls-2026/thrustmaster-pack-banner-official.webp" alt="Official Thrustmaster T128 SimTask Farming Pack with wheel mount and FarmStick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t128-simtask-farming-pack"><span class="gp-tag">Best new complete path</span><img src="/images/article-proofs/racing/farming-controls-2026/thrustmaster-pack-banner-official.webp" alt="Official Thrustmaster T128 SimTask Farming Pack with wheel mount and FarmStick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Wheel + pedals + farming mount + work stick</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">Thrustmaster T128 SimTask Farming Pack</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t128-simtask-farming-pack">Thrustmaster T128 SimTask Farming Pack</a></span>
     <p class="gp-why">The strongest from-zero answer: real force feedback for driving, the specialist FarmStick for machinery, and a modular path that can move into other simulator categories.</p>
     <span class="gp-price">Verify exact PC / PlayStation variant and live price · ASIN B0GJ17RTYH</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="Thrustmaster T128 SimTask Farming Pack">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0GJ17RTYH?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t128-simtask-farming-pack">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Best value upgrade</span><img src="/images/article-proofs/racing/farming-controls-2026/farmstick-forestry-official.webp" alt="Official Thrustmaster SimTask FarmStick beside forestry machinery gameplay" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-simtask-farmstick"><span class="gp-tag">Best value upgrade</span><img src="/images/article-proofs/racing/farming-controls-2026/farmstick-forestry-official.webp" alt="Official Thrustmaster SimTask FarmStick beside forestry machinery gameplay" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Keep the wheel, fix the machinery</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">Thrustmaster SimTask FarmStick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-simtask-farmstick">Thrustmaster SimTask FarmStick</a></span>
     <p class="gp-why">Buy this first if your current wheel is good. Five physical axes, mode layers, Hall sensing on the main stick axes, and a control shape built for loaders, cranes, forestry, and construction.</p>
     <span class="gp-price">PC standalone model · verify exact platform variant · ASIN B0CGKMD4ZY</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="Thrustmaster SimTask FarmStick">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CGKMD4ZY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-simtask-farmstick">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Complete dedicated PC cab</span><img src="/images/article-proofs/racing/farming-controls-2026/hori-box-official.webp" alt="Official HORI Farming Vehicle Control System retail box" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-farming-vehicle-control-system"><span class="gp-tag">Complete dedicated PC cab</span><img src="/images/article-proofs/racing/farming-controls-2026/hori-box-official.webp" alt="Official HORI Farming Vehicle Control System retail box" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Large wheel + panel + three pedals</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">HORI Farming Vehicle Control System</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-farming-vehicle-control-system">HORI Farming Vehicle Control System</a></span>
     <p class="gp-why">Buy for the 34 cm wheel, spinner, three pedals, throttle, work lever, and 76-control routine. Accept that it is PC-only and lacks true force feedback; update firmware before judging it.</p>
     <span class="gp-price">Verify current seller, return policy, and firmware · ASIN B0CFFYBBCV</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="HORI Farming Vehicle Control System">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B0CFFYBBCV?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="hori-farming-vehicle-control-system">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored noopener"><span class="gp-tag">Discount or used lane</span><img src="/images/article-proofs/racing/farming-controls-2026/logitech-bundle-amazon.webp" alt="Amazon product media for Logitech Heavy Equipment Bundle wheel pedals and side panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g-heavy-equipment-bundle"><span class="gp-tag">Discount or used lane</span><img src="/images/article-proofs/racing/farming-controls-2026/logitech-bundle-amazon.webp" alt="Amazon product media for Logitech Heavy Equipment Bundle wheel pedals and side panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Legacy Farming Simulator bundle</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored noopener">Logitech G Heavy Equipment Bundle</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g-heavy-equipment-bundle">Logitech G Heavy Equipment Bundle</a></span>
     <p class="gp-why">The side panel is still useful. Buy the complete bundle only when the price reflects the spring-centered wheel, basic pedals, and age of the design.</p>
     <span class="gp-price">PC bundle · compare used and new condition carefully · ASIN B07MBXWX1C</span>
-    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored noopener" data-buy-product="Logitech G Heavy Equipment Bundle">See exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-buy" href="https://www.amazon.com/dp/B07MBXWX1C?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="logitech-g-heavy-equipment-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 

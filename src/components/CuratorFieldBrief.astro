@@ -4,6 +4,7 @@ import editorialSurfaces from '../data/editorial-surfaces.json';
 import { crewSlug } from '../lib/crew';
 
 interface Proof {
+  id: string;
   image: string;
   name: string;
   href: string;
@@ -48,9 +49,9 @@ const benchMove = scene.note || person.benchMove;
       <a class="btn" href={`/curator/${personSlug}`}>Open {first}'s bench</a>
     </div>
     {proof && (
-      <a class="cfb-proof" href={proof.href}>
+      <a class="cfb-proof" href={proof.href} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product={proof.id}>
         <img src={proof.image} alt={proof.name} loading="lazy" decoding="async" />
-        <span><small>Real product proof</small><b>{proof.name}</b><em>Inspect the hardware</em></span>
+        <span><small>Real product proof</small><b>{proof.name}</b><em>View exact product on Amazon</em></span>
       </a>
     )}
   </div>

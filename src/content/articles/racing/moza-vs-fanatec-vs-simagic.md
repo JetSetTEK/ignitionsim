@@ -38,8 +38,8 @@ Verdict first: **most people ask "which base should I buy?" when the question th
 Here is the thing nobody tells you up front: the base is the cheapest, most replaceable part of the whole journey. The expensive, sticky parts are the rims, the quick-release standard, and the accessory catalog you marry. Buy a $400 carbon rim and you are often wedded to that brand's base mount for years. All three brands now hit the 12Nm sweet spot at roughly the same money, so the base itself rarely decides anything — the tribe you join does.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12 — deepest ladder (12Nm)</figcaption></figure>
-  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a><figcaption>Fanatec GT DD Pro — the only PS5 path</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12 — deepest ladder (12Nm)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a><figcaption>Fanatec GT DD Pro — the only PS5 path</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro — best Nm/$ (18Nm)</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a><figcaption>Fanatec ClubSport DD+ — 18Nm after firmware</figcaption></figure>
 </div>
@@ -75,32 +75,26 @@ MOZA's whole strategy is the *ladder*. It runs an unbroken value progression fro
 That is MOZA's pitch in one sentence: start cheap, upgrade in place, never re-buy your peripherals. The **CRP2** load-cell pedals round out a fully in-house kit, and the Pit House software is genuinely well-regarded — not an afterthought. If you want a clear path from a $399 bundle to a 21Nm prosumer rig without ever leaving one brand, MOZA is built precisely for you. The catch: the single proprietary QR means you are buying MOZA rims, mostly, for the life of the setup, and the R12's price sits so close to the R9's that the R9 has become an awkward middle child.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Ladder anchor</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Ladder anchor</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">MOZA ecosystem · 12Nm sweet spot</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The rung most people stop on, and the clearest argument for the whole ladder. Buy here, climb to the R16 or R21 later, and your rims and software come with you — the entire point of choosing MOZA.</p>
     <span class="gp-price">~$399-469 (12Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 If your platform is Xbox, MOZA is also the cheapest credible door into direct drive: the **R3 bundle** delivers 3.9Nm, an Xbox-licensed wheel, entry pedals and a clamp for around $399. It won't be your last base if you get serious, but it beats leaving Xbox racers stuck on gear-driven wheels.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r3-xbox-bundle"><span class="gp-tag">Xbox door</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle"><span class="gp-tag">Xbox door</span><img src="/images/gear/racing/moza-r3-xbox-bundle.png" alt="MOZA R3 Xbox direct-drive bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">MOZA ecosystem · 3.9Nm, Xbox-licensed</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r3-xbox-bundle">MOZA R3 Racing Bundle for Xbox</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">MOZA R3 Racing Bundle for Xbox</a></span>
     <p class="gp-why">The cheapest way onto the MOZA ladder and the cleanest real direct drive an Xbox racer can buy. Modest torque, but it opens the same upgrade path as everything above it.</p>
     <span class="gp-price">~$399 bundle (3.9Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r3-xbox-bundle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0D93L5CB1?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r3-xbox-bundle">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -118,34 +112,19 @@ Then, in a rare move, Fanatec made existing hardware *better for free*. A **May 
 What you get for buying in is the **widest accessory ecosystem in the hobby** — more rims, more pedals, more shifters, more handbrakes than anyone — and the only realistic **PS5** path of these three. The [GT DD Pro](/racing/gear/fanatec-gt-dd-pro) bundle is the go-to console entry, and the [ClubSport DD+](/racing/gear/fanatec-clubsport-dd-plus) (now 18Nm) is the premium PS5 base. The lineup runs **CSL DD** (5-8Nm) → **GT DD Pro** (bundle) → **ClubSport DD** (15Nm) → **ClubSport DD+** (18Nm, PS5) → **Podium DD** (25Nm).
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">The PS5 path</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">The PS5 path</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Fanatec ecosystem · PS5 licensed bundle</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The one reason to choose Fanatec that the other two can't answer: real PS5 direct drive, officially licensed for Gran Turismo. It's the doorway into the widest accessory catalog in the hobby — just go in knowing the QR2 lock-in is the price of admission. Watch for Fanatec's frequent bundle sales.</p>
     <span class="gp-price">Bundle · check current pricing</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 The honest downside is lock-in, and it is the worst of the three. Fanatec's **QR2 base-side will not enable force feedback on a non-Fanatec rim** unless you buy the Podium Hub adapter. That is the exact trap I dissect in [The Quick-Release Trap](/racing/quick-release-trap). Buy Fanatec knowing you are largely buying Fanatec rims forever — but if you race PS5 or want the deepest catalog, that is a price worth paying. The **ClubSport V3** pedals remain a load-cell realism benchmark, so the accessory depth is genuine, not just wide.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-clubsport-dd-plus"><span class="gp-tag">Premium PS5 base</span><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD+ wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Fanatec ecosystem · 18Nm holding (firmware)</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-clubsport-dd-plus">Fanatec ClubSport DD+</a></span>
-    <p class="gp-why">The strongest mainstream PlayStation direct-drive base, and the May 2026 firmware pushed it to 18Nm holding torque at no cost — a rare case of your hardware getting stronger overnight. The base for a serious PS5-first Fanatec build.</p>
-    <span class="gp-price">~$899 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/fanatec-clubsport-dd-plus">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for fanatec-clubsport-dd-plus. -->
 
 ## Simagic: the value disruptor that reset the mid-tier
 
@@ -153,35 +132,11 @@ Simagic detonated the mid-tier with the **Alpha Evo** line, and it reset everyon
 
 The bigger story is the **QR-A quick release**, which finally opened Simagic bases to third-party rims — a real break from the lock-in Simagic itself used to enforce. Pair an Alpha Evo with the **P2000** load-cell pedals and you have, dollar for dollar, the strongest pure-feel package of the three. The headline value pick is the Pro: 18Nm for under $700 badly undercuts similarly powerful Asetek and Simucube units.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">Best Nm/$</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Simagic ecosystem · 18Nm, open QR-A</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
-    <p class="gp-why">The base that reset everyone's value expectations: 18Nm for around $699, low-inertia servo feel, and a QR-A that finally lets Simagic owners run third-party rims. The PC value champion of 2026 — if your console never enters the equation.</p>
-    <span class="gp-price">~$699 (18Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-pro. -->
 
 The one disqualifier: **Simagic is PC-only, across the entire range.** If you race on console, stop reading and look at Fanatec or the MOZA R3. For PC racers chasing the best feel-per-dollar with the friendliest QR, though, Simagic is the 2026 value champion — and if you want maximum force for the money, the 28Nm Ultra is flagship torque at a fraction of Simucube or Asetek pricing.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-ultra"><span class="gp-tag">Value flagship</span><img src="/images/gear/racing/simagic-evo-ultra.jpg" alt="Simagic Alpha Evo Ultra wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Simagic ecosystem · 28Nm flagship</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-ultra">Simagic Alpha Evo Ultra</a></span>
-    <p class="gp-why">28Nm of force for under $1,000, where Simucube and Asetek flagships cost far more. Overkill for most, but it proves how aggressively Simagic prices the top of its ladder. You'll run it well below max — the appeal is headroom and clean detail, not flat-out force.</p>
-    <span class="gp-price">~$969 (28Nm)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-ultra">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-ultra. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -226,34 +181,28 @@ All three are excellent 12-15Nm bases. The R12 wins on ladder depth and Pit Hous
 
 ## What to buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">Buy this on PC</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best pure-PC value ecosystem</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
-    <p class="gp-why">If your console never enters the equation, this is the best feel-per-dollar in the hobby and the friendliest quick release. 18Nm, open QR-A, done.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-pro. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Buy this to climb</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Buy this to climb</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best one-brand ladder</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">The base for anyone who wants to grow inside one ecosystem, cradle to flagship, keeping their rims and software the whole way. Sweet-spot torque, best tuning suite.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/fanatec-gt-dd-pro"><span class="gp-tag">Buy this on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><span class="gp-tag">Buy this on PS5</span><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro bundle" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best PlayStation ecosystem</span>
-    <span class="gp-name"><a href="/racing/gear/fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">Fanatec GT DD Pro</a></span>
     <p class="gp-why">The console default: Gran Turismo licensed, complete bundle, deepest catalog, and free firmware torque bumps across the range. Buy it on a Fanatec sale and don't look back.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/fanatec-gt-dd-pro">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 Frame it as a five-year decision and the answer falls out cleanly. Your platform, your budget, and how much you hate re-buying rims — those three inputs pick your tribe. Everything else is noise.

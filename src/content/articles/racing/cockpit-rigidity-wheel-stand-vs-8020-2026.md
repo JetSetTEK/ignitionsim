@@ -47,8 +47,8 @@ Duke's rule: **buy the weakest frame you will not outgrow.** That sounds backwar
 </aside>
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a><figcaption>Wheel stand: compact, limited ceiling</figcaption></figure>
-  <figure><a href="/racing/gear/nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GTTrack cockpit" loading="lazy"></a><figcaption>Fixed cockpit: easy, stable, less modular</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a><figcaption>Wheel stand: compact, limited ceiling</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GTTrack cockpit" loading="lazy"></a><figcaption>Fixed cockpit: easy, stable, less modular</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X aluminum profile cockpit" loading="lazy"></a><figcaption>8020 profile: endgame mounting freedom</figcaption></figure>
 </div>
 
@@ -82,16 +82,13 @@ The useful community pattern is not "wheel stands are bad." It is more specific:
 That is the decision point. If your setup has to fold away, buy a serious stand and tune within its limits. If you are shopping load cells, triples, haptics, and a 12 Nm+ base, stop trying to win a physics argument with a folding frame.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Apartment pick</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Apartment pick</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Fold-away rigidity</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex</a></span>
     <p class="gp-why">The sensible stand for renters and shared rooms: sturdy enough to take real hardware, still capable of disappearing before dinner guests ask questions.</p>
     <span class="gp-price">Compact tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -102,16 +99,13 @@ Fixed cockpits like the **Next Level Racing GTTrack** are appealing because they
 The tradeoff is modularity. If you later want triples, custom shifter plates, six haptic devices, a keyboard tray, a Stream Deck, and motion, fixed frames can become awkward. Not impossible. Just awkward in the "why am I drilling this at midnight?" sense.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-gt-track"><span class="gp-tag">Complete rig</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GTTrack cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><span class="gp-tag">Complete rig</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GTTrack cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Fixed cockpit path</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-gt-track">Next Level Racing GTTrack</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">Next Level Racing GTTrack</a></span>
     <p class="gp-why">A clean all-in-one cockpit for drivers who want to race, not price out extrusion brackets like a haunted spreadsheet.</p>
     <span class="gp-price">Mid cockpit tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-gt-track">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -121,19 +115,7 @@ Aluminum profile rigs win because everything attaches somewhere. Wheel decks, pe
 
 That is why 8020 is the no-regrets path for 12 Nm+ wheelbases, stiff pedals, and future motion. The **Trak Racer TR80** and **Sim-Lab P1X** tier is where direct drive stops arguing with the frame and starts arguing with your talent.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Endgame frame</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1X cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">8020 no-regrets rig</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1X</a></span>
-    <p class="gp-why">The cockpit you buy when you are tired of rebuying cockpits. Heavy, modular, and very comfortable with your future bad financial ideas.</p>
-    <span class="gp-price">Premium cockpit</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 ## The Flex Test
 

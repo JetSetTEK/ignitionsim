@@ -36,8 +36,8 @@ Direct drive shopping looks like a spreadsheet argument until you realize the re
 Duke's ladder below is built around stopping points. You do not need to climb every rung. In fact, the best sim racing purchase is often the rung you stop on because it is good enough and leaves money for pedals, displays, and rent. Weird hobby, still requires shelter.
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro direct-drive racing wheel bundle" loading="lazy"></a><figcaption>GT DD Pro: polished console/PC path</figcaption></figure>
-  <figure><a href="/racing/gear/moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12: PC sweet spot</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0FBGYPD49?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="fanatec-gt-dd-pro"><img src="/images/gear/racing/fanatec-gt-dd-pro.jpg" alt="Fanatec GT DD Pro direct-drive racing wheel bundle" loading="lazy"></a><figcaption>GT DD Pro: polished console/PC path</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 wheelbase" loading="lazy"></a><figcaption>MOZA R12: PC sweet spot</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-pro"><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a><figcaption>Simagic Evo Pro: feel-per-dollar</figcaption></figure>
 </div>
 
@@ -59,16 +59,13 @@ The first direct-drive jump is the biggest subjective leap. Even 5 Nm feels shar
 Buy this rung if you are still deciding whether sim racing is a forever hobby. The **MOZA R5** is the clean value starter. The **Cammus C5** is the oddball cheapest genuine DD. Console buyers should consider the **MOZA R3** for Xbox or Fanatec for PlayStation.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5"><span class="gp-tag">Budget DD</span><img src="/images/gear/racing/moza-r5.jpg" alt="MOZA R5 direct drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cleanest starter ecosystem</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r5">MOZA R5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">MOZA R5</a></span>
     <p class="gp-why">The safer starter DD pick when you want a real upgrade ladder behind the first purchase: R9, R12, better rims, better pedals, fewer mystery compromises.</p>
     <span class="gp-price">Entry DD</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r5">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DL51ZY3T?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -79,16 +76,13 @@ This is where most people should stop. Eight to twelve Newton-meters gives enoug
 The **MOZA R12** is the clean PC value. Fanatec's **ClubSport DD** is the catalog-and-console play. Logitech's **G PRO** is polished, powerful, and simple, especially for console players who value one-box reliability. Simagic's standard **Alpha Evo** deserves a hard look if you are PC-only.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-r12"><span class="gp-tag">Stop here</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct drive wheelbase" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12"><span class="gp-tag">Stop here</span><img src="/images/gear/racing/moza-r12.jpg" alt="MOZA R12 direct drive wheelbase" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">12 Nm PC sweet spot</span>
-    <span class="gp-name"><a href="/racing/gear/moza-r12">MOZA R12</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">MOZA R12</a></span>
     <p class="gp-why">Enough headroom for serious racing, a clear upgrade ladder, and a price that still leaves money for pedals. That last part is not optional.</p>
     <span class="gp-price">Mid-tier DD</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-r12">Full review</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-r12">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DHHJD97L?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-r12">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -98,19 +92,7 @@ Once you pass 12 Nm, the base stops being the only purchase. You now need a cock
 
 The **Simagic Alpha Evo Pro** is the value monster. Fanatec DD+ matters for PlayStation. Asetek Forte belongs here too, especially if you want a clean high-end PC ecosystem.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-pro"><span class="gp-tag">PC bruiser</span><img src="/images/gear/racing/simagic-evo-pro.jpg" alt="Simagic Alpha Evo Pro wheelbase" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">18 Nm enthusiast tier</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-pro">Simagic Alpha Evo Pro</a></span>
-    <p class="gp-why">The "I have a cockpit and I am done pretending" choice. PC-only, but the force-feedback value is nasty in the best way.</p>
-    <span class="gp-price">Enthusiast DD</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-pro">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-pro. -->
 
 ## Rung 4: Endgame Is About Headroom
 

@@ -39,8 +39,8 @@ Verdict first: **for most MSFS pilots on a flat monitor, buy the [Tobii Eye Trac
 Head tracking is the single cheapest upgrade that changes how you fly a 2D monitor. The first time you look *into* a turn to keep the runway in view, or lean forward to clear the nose on a taildragger, the sim stops feeling like a screen and starts feeling like a window. You do not need a VR headset to get it. The catch is that the two name-brand options work in completely different ways — one watches a reflector you wear, the other watches your face and eyes — and that difference decides which one is right for you.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a><figcaption>TrackIR 5 — precision standard</figcaption></figure>
-  <figure><a href="/flight/gear/tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — hands-free</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a><figcaption>TrackIR 5 — precision standard</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — hands-free</figcaption></figure>
 </div>
 
 ## How each one actually works
@@ -75,16 +75,13 @@ The **TrackIR 5** has been the enthusiast default for over a decade, and it earn
 The trade-offs are real but small. You wear the clip on your headset (or a reflector hat), and the software's smoothing and response curves take some tuning before it feels natural. On MSFS 2024 specifically, owners commonly report having to **start the TrackIR software before launching the sim** for it to be recognized — a mild annoyance, and some pilots sidestep it by running OpenTrack instead. At around **$174** for the TrackClip PRO bundle it is also the *cheaper* of the two name-brand options, which surprises people who assume the eye tracker must be the budget pick. It is not.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Precision standard</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Precision standard</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">6DOF head tracking · 120 FPS IR, ~9 ms, 51.7° FOV</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5 (with TrackClip PRO)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5 (with TrackClip PRO)</a></span>
     <p class="gp-why">A decade on, still the thing pit builders reach for before VR. Snap your head to check six and the view is just there — sub-millimeter, no perceptible lag, and completely unbothered by glasses or a dark room. You wear a clip and tune the curves, but once dialed in it's transformative — and it's the cheaper of the two.</p>
     <span class="gp-price">~$174 (TrackClip PRO bundle)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -95,16 +92,13 @@ The **Tobii Eye Tracker 5** (around **$339**, or ~$289 certified-refurbished) is
 The honest downsides come from the camera-watching-your-face design. It is a touch less responsive and a little noisier than TrackIR on fast movements — a non-issue for normal GA or airliner flying, but you will feel TrackIR's edge in a dogfight. Eye tracking is calibrated for a **single screen up to about 30 inches**, so it is happiest on a one-monitor cockpit, and it prefers consistent, non-backlit lighting on your face. One more MSFS wrinkle: after some sim updates the **default Tobii sensitivity settings have shipped wrong**, and you follow Tobii's help article to fix them. If you mostly fly tube-liners and Cessnas and you hate wearing gear, the Tobii is the better *experience* despite the higher price.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">Hands-free pick</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">Hands-free pick</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Head + eye tracking · 28.5 cm sensor bar, nothing to wear</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">A bar under the monitor that tracks your head and eyes with nothing clipped to you — native in MSFS 2020 and 2024, so you plug in, calibrate, and fly. Slightly noisier on fast snaps than TrackIR and best on a single screen up to ~30 inches, but for GA and tube-liners the zero-friction, hands-free start is the whole appeal.</p>
     <span class="gp-price">~$339 (refurb ~$289)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -143,23 +137,25 @@ People constantly frame this as head tracking *versus* VR. It is not really a ve
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/tobii-eye-tracker-5"><span class="gp-tag">Buy this first (most pilots)</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><span class="gp-tag">Buy this first (most pilots)</span><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best for GA + airliners on one screen</span>
-    <span class="gp-name"><a href="/flight/gear/tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">Tobii Eye Tracker 5</a></span>
     <p class="gp-why">Clip-free, native in MSFS 2024, and the responsiveness gap is invisible for the flying most people do. Give it good lighting and a single ≤30-inch screen and just sit down and fly.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/tobii-eye-tracker-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/flight/gear/naturalpoint-trackir-5"><span class="gp-tag">Buy this if you fly fast</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><span class="gp-tag">Buy this if you fly fast</span><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 with TrackClip PRO" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best for fighters, warbirds, DCS — and the cheaper pick</span>
-    <span class="gp-name"><a href="/flight/gear/naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">NaturalPoint TrackIR 5</a></span>
     <p class="gp-why">Sharper, faster, and about $165 cheaper than the Tobii. If you wear a headset anyway, the TrackClip PRO clips right on and the "hassle" all but disappears. The precision pick for combat and aerobatics.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/naturalpoint-trackir-5">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 Whichever you pick, head tracking is the rare upgrade that costs less than a good throttle quadrant and changes more about how the sim feels. Get the basics sorted first in the [beginner setup guide](/flight/best-flight-sim-setup-beginners), then add eyes that move with your head.

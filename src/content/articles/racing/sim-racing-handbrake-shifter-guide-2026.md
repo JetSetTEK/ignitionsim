@@ -40,9 +40,9 @@ Wheelbase and pedals get all the attention, but the controls that separate a tid
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X aluminum-profile cockpit with side rails for mounting a handbrake and shifter" loading="lazy"></a><figcaption>Sim-Lab P1-X — rigid profile, zero flex</figcaption></figure>
-  <figure><a href="/racing/gear/trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum cockpit rig" loading="lazy"></a><figcaption>Trak Racer TR80 — bolt-down side mounts</figcaption></figure>
-  <figure><a href="/racing/gear/nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a><figcaption>NLR GT Track — accessory-friendly cockpit</figcaption></figure>
-  <figure><a href="/racing/gear/gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit frame" loading="lazy"></a><figcaption>GT Omega Apex — steel-arm mounting</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum cockpit rig" loading="lazy"></a><figcaption>Trak Racer TR80 — bolt-down side mounts</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track cockpit" loading="lazy"></a><figcaption>NLR GT Track — accessory-friendly cockpit</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex cockpit frame" loading="lazy"></a><figcaption>GT Omega Apex — steel-arm mounting</figcaption></figure>
 </div>
 
 ## The one-minute decision
@@ -129,31 +129,16 @@ Here's the line that should be tattooed on every newcomer: **most shifter and ha
 
 You need **zero flex** at the mount. A handbrake you pull hard and a shifter you slam into gear both load the mount far more than a wheel does — a desk clamp on particle board rarely survives it. This is one more reason the [desk-versus-cockpit decision](/racing/desk-vs-cockpit-sim-racing-2026) matters. If you're on a [proper aluminum-profile rig](/racing/gear/sim-lab-p1x) or a steel cockpit like the [Trak Racer TR80](/racing/gear/trak-racer-tr80), you already have the side rails you need; a bare [desk clamp](/racing/gear/desk-clamp) is exactly the mount to avoid for these controls.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Zero-flex mount</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X aluminum-profile cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Aluminum-profile cockpit · side rails included</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X Pro</a></span>
-    <p class="gp-why">The rig that makes a handbrake and shifter feel like real car controls. 8020 aluminum profile means you bolt the units to a rail that simply doesn't move — the single biggest "why does mine feel mushy" fix, solved before you buy the hardware.</p>
-    <span class="gp-price">Rigid profile · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Steel-arm mount</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Steel-arm mount</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminum cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Cockpit rig · bolt-down side mounts</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">A rigid cockpit with the side-mount real estate a handbrake and sequential shifter both want. Bolt them low and forward where your hand falls off the wheel, and they stop moving under a hard pull or a slammed gear.</p>
     <span class="gp-price">Cockpit · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -167,32 +152,17 @@ You need **zero flex** at the mount. A handbrake you pull hard and a shifter you
 Before you spend a dollar here, the honest-broker note that saves the most money: for most drivers, **a load-cell brake still buys more lap time than any handbrake or shifter.** If your pedals are still the potentiometer set that came in your bundle, [read the pedals argument first](/racing/pedals-over-power) — a load-cell brake under $300 does more for your consistency than the entire handbrake-and-shifter category. Get the brake right, then come back here for the discipline-specific controls.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/moza-crp2"><span class="gp-tag">Buy pedals first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2"><span class="gp-tag">Buy pedals first</span><img src="/images/gear/racing/moza-crp2.jpg" alt="MOZA CRP2 load-cell pedals" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Load-cell pedals · 200kg, USB brand-agnostic</span>
-    <span class="gp-name"><a href="/racing/gear/moza-crp2">MOZA CRP2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">MOZA CRP2</a></span>
     <p class="gp-why">The upgrade that makes nine out of ten racers faster — and the one to buy before a handbrake or shifter if your pedals are still potentiometers. A 200kg load cell, tunable damper and CNC aluminum for around $399, brand-agnostic over USB.</p>
     <span class="gp-price">~$399 (US)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/moza-crp2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FRMQ3VH7?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-crp2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/heusinkveld-sprint"><span class="gp-tag">Pro pedal benchmark</span><img src="/images/gear/racing/heusinkveld-sprint.jpg" alt="Heusinkveld Sim Pedals Sprint load-cell pedals" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Load-cell pedals · buy-once benchmark</span>
-    <span class="gp-name"><a href="/racing/gear/heusinkveld-sprint">Heusinkveld Sprint</a></span>
-    <p class="gp-why">If you're already eyeing a Heusinkveld handbrake, the Sprint pedals are the same buy-once-keep-forever logic on the axle that matters most. Professional load-cell feel and SmartControl calibration — the endgame brake for most people.</p>
-    <span class="gp-price">~€495 (2-pedal)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/heusinkveld-sprint">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 ## The setup tax nobody quotes you
 

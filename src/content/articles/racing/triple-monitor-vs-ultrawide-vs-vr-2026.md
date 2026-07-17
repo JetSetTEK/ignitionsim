@@ -47,10 +47,10 @@ The old internet argument is "VR or triples?" That is the wrong question. The ri
 </aside>
 
 <div class="shotgrid">
-  <figure><a href="/racing/gear/samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a><figcaption>49-inch ultrawide: the sane middle</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a><figcaption>49-inch ultrawide: the sane middle</figcaption></figure>
   <figure><a href="/racing/gear/asus-tuf-vg27aq"><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch monitor for triple sim racing setups" loading="lazy"></a><figcaption>Triple 27-inch 1440p: the side-vision standard</figcaption></figure>
-  <figure><a href="/racing/gear/meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3: mainstream VR gateway</figcaption></figure>
-  <figure><a href="/racing/gear/pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light VR headset" loading="lazy"></a><figcaption>Pimax Crystal Light: clarity-first PCVR</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3: mainstream VR gateway</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light VR headset" loading="lazy"></a><figcaption>Pimax Crystal Light: clarity-first PCVR</figcaption></figure>
 </div>
 
 ## The Fast Recommendation
@@ -85,16 +85,13 @@ A 49-inch 32:9 ultrawide is the cleanest high-immersion upgrade for most sim rac
 The catch is geometry. An ultrawide is still one screen. It can wrap your vision, but it cannot show side windows with the same correctness as angled triples. If you care about seeing alongside the car in endurance traffic, triples still matter.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49"><span class="gp-tag">Best sane flex</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best sane flex</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch ultrawide pick</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The clean one-screen answer: wide view, high refresh, gorgeous contrast, and no triple-monitor alignment evening. Watch OLED burn-in habits with static HUDs.</p>
     <span class="gp-price">Premium ultrawide tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -108,19 +105,7 @@ Triples are fussy. They need a rigid stand, matching panels, correct angles, bez
 
 Why? True side visibility. In iRacing, ACC, Le Mans Ultimate, and other sims that support good triple rendering, you can place the side monitors at an angle and get a more believable cockpit window. That matters for wheel-to-wheel racing, multiclass traffic, pit exits, side-by-side corners, and endurance fatigue.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asus-tuf-vg27aq"><span class="gp-tag">Triple candidate</span><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">27-inch 1440p triple path</span>
-    <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF Gaming VG27AQ</a></span>
-    <p class="gp-why">A practical 27-inch 1440p style panel for triple builds: affordable enough to buy three, sharp enough for sim racing, and sane to mount.</p>
-    <span class="gp-price">Multiply by three</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asus-tuf-vg27aq">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for asus-tuf-vg27aq. -->
 
 **Buy triples if:** you race competitively, stream, use overlays, or want the best flat-screen awareness.
 
@@ -133,30 +118,24 @@ VR is the only option that gives true stereoscopic depth and head movement. When
 But VR is also the most personal choice. Some racers feel amazing. Some feel sick. Some hate the heat, face pressure, cable, battery, or inability to glance at a keyboard, stream chat, button labels, water bottle, or timing screen. PCVR also needs stable frame pacing; "mostly high FPS" is not enough when your eyes are strapped to the output.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/meta-quest-3"><span class="gp-tag">VR gateway</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><span class="gp-tag">VR gateway</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best mainstream VR test</span>
-    <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The practical way to find out if VR racing fits you. Good lenses, wide availability, easy resale, and PCVR support if your Link/Air Link setup behaves.</p>
     <span class="gp-price">Mainstream VR tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/pimax-crystal-light"><span class="gp-tag">Clarity PCVR</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light VR headset" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><span class="gp-tag">Clarity PCVR</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light VR headset" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best clarity-focused upgrade path</span>
-    <span class="gp-name"><a href="/racing/gear/pimax-crystal-light">Pimax Crystal Light</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">Pimax Crystal Light</a></span>
     <p class="gp-why">For racers who already know they like VR and want more clarity for braking boards, apexes, cockpit text, and distant traffic. Not the first headset I would buy blind.</p>
     <span class="gp-price">High-clarity PCVR tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -184,43 +163,38 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/samsung-odyssey-oled-g9-49"><span class="gp-tag">Best middle</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49 monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best middle</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49 monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best single-display upgrade</span>
-    <span class="gp-name"><a href="/racing/gear/samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The premium one-screen answer for racers who want a cockpit-filling display without triple alignment.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asus-tuf-vg27aq"><span class="gp-tag">Triple build</span><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Buy three for triples</span>
-    <span class="gp-name"><a href="/racing/gear/asus-tuf-vg27aq">ASUS TUF Gaming VG27AQ</a></span>
-    <p class="gp-why">A sensible 27-inch 1440p candidate for real triple-monitor rigs.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for asus-tuf-vg27aq. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/meta-quest-3"><span class="gp-tag">VR test</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><span class="gp-tag">VR test</span><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best mainstream VR gateway</span>
-    <span class="gp-name"><a href="/racing/gear/meta-quest-3">Meta Quest 3</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">Meta Quest 3</a></span>
     <p class="gp-why">The safer first VR buy because it is widely supported, widely sold, and useful beyond sim racing.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/meta-quest-3">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/pimax-crystal-light"><span class="gp-tag">VR clarity</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><span class="gp-tag">VR clarity</span><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best next VR step</span>
-    <span class="gp-name"><a href="/racing/gear/pimax-crystal-light">Pimax Crystal Light</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">Pimax Crystal Light</a></span>
     <p class="gp-why">The clearer PCVR path for racers already sold on VR and ready to feed it a serious GPU.</p>
-
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/pimax-crystal-light">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light">View exact product on Amazon</a></span>
   </div>
+
 </aside>
 
 ## Research receipts (evidence, not shopping links)

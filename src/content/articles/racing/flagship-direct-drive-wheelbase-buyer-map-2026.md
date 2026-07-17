@@ -56,7 +56,7 @@ Past 12 Nm, the problem changes. You are no longer trying to escape toy-wheel mu
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/simucube-2-sport"><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport direct drive wheelbase" loading="lazy"></a><figcaption>Simucube: reference feel and open ecosystem</figcaption></figure>
-  <figure><a href="/racing/gear/asetek-invicta"><img src="/images/gear/racing/asetek-invicta.jpg" alt="Asetek Invicta direct drive wheelbase" loading="lazy"></a><figcaption>Asetek Invicta: 27 Nm flagship punch</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta"><img src="/images/gear/racing/asetek-invicta.jpg" alt="Asetek Invicta direct drive wheelbase" loading="lazy"></a><figcaption>Asetek Invicta: 27 Nm flagship punch</figcaption></figure>
   <figure><a href="/racing/gear/simagic-evo-ultra"><img src="/images/gear/racing/simagic-evo-ultra.jpg" alt="Simagic Alpha Evo Ultra wheelbase" loading="lazy"></a><figcaption>Simagic Ultra: torque-per-dollar bully</figcaption></figure>
   <figure><a href="/racing/gear/fanatec-clubsport-dd-plus"><img src="/images/gear/racing/fanatec-clubsport-dd-plus.webp" alt="Fanatec ClubSport DD Plus wheelbase" loading="lazy"></a><figcaption>Fanatec DD+: premium PlayStation route</figcaption></figure>
 </div>
@@ -134,47 +134,20 @@ Save a conservative endurance profile and a stronger short-session profile. Labe
 
 **The PlayStation-first premium racer:** ClubSport DD+ wins by qualification. Its current official page lists 18 Nm after firmware and licensed PlayStation support. If PS5 is in the brief, the PC-only alternatives are not competing for the same job.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simucube-2-sport"><span class="gp-tag">Reference feel</span><img src="/images/gear/racing/simucube-2-sport.jpg" alt="Simucube 2 Sport" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">PC direct drive</span>
-    <span class="gp-name"><a href="/racing/gear/simucube-2-sport">Simucube 2 Sport</a></span>
-    <p class="gp-why">The low-regret premium PC baseline: smooth, third-party friendly, mature software, and enough torque for almost every serious driver.</p>
-    <span class="gp-price">~$1.2K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simucube-2-sport">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simucube-2-sport. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/asetek-invicta"><span class="gp-tag">Flagship punch</span><img src="/images/gear/racing/asetek-invicta.jpg" alt="Asetek Invicta" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta"><span class="gp-tag">Flagship punch</span><img src="/images/gear/racing/asetek-invicta.jpg" alt="Asetek Invicta" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">27 Nm base</span>
-    <span class="gp-name"><a href="/racing/gear/asetek-invicta">Asetek Invicta</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta">Asetek Invicta</a></span>
     <p class="gp-why">A huge-force flagship with high response and a growing ecosystem. Best for buyers who want an integrated premium stack and do not need console support.</p>
     <span class="gp-price">~$1.9K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/asetek-invicta">Inspect specs</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/asetek-invicta">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C283KH2Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="asetek-invicta">View exact product on Amazon</a></span>
   </div>
 </aside>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/simagic-evo-ultra"><span class="gp-tag">Torque value</span><img src="/images/gear/racing/simagic-evo-ultra.jpg" alt="Simagic Alpha Evo Ultra" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">28 Nm flagship</span>
-    <span class="gp-name"><a href="/racing/gear/simagic-evo-ultra">Simagic Alpha Evo Ultra</a></span>
-    <p class="gp-why">The shockingly aggressive torque-per-dollar option. Buy it if you want huge headroom and accept that value does not remove rig and tuning discipline.</p>
-    <span class="gp-price">~$1K class</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/simagic-evo-ultra">Inspect specs</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for simagic-evo-ultra. -->
 
 ## Stop points
 

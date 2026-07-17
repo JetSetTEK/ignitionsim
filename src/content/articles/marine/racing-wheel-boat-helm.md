@@ -75,16 +75,13 @@ The pattern is the same everywhere: the wheel *works*, but "works" ranges from a
 Here's the wrinkle worth knowing before you commit to a wheel at all: several ship sims expose a **rudder axis** rather than a wheel, and for those a flight stick's twist axis is the cleaner mapping. The **Thrustmaster T.16000M** is the standard repurpose — its contactless Hall-effect sensors keep the rudder axis precise and drift-free for years, and the upcoming Professional Ship Simulator even added a rudder deadzone option aimed squarely at rigs like this. A vertical stick is an odd hand position for steering and it only fits rudder-axis titles, but if your sim is one of them, it can beat a wheel outright.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/thrustmaster-t16000m-rudder"><span class="gp-tag">Rudder-axis alternative</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder"><span class="gp-tag">Rudder-axis alternative</span><img src="/images/gear/marine/thrustmaster-t16000m-rudder.jpg" alt="Thrustmaster T.16000M FCS (as rudder)" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Flight stick · Hall-effect twist</span>
-    <span class="gp-name"><a href="/marine/gear/thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">Thrustmaster T.16000M FCS (as rudder)</a></span>
     <p class="gp-why">If your sim uses a rudder axis instead of a wheel, this flight stick's twist axis maps cleanly to it — and its Hall-effect sensors won't develop the drift that kills cheap sticks. Only for rudder-axis titles, not wheel-steered ones, but where it fits it's a precise, ~$80 helm alternative.</p>
     <span class="gp-price">~$80</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/marine/gear/thrustmaster-t16000m-rudder">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01MQEDEEW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-rudder">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -111,9 +108,9 @@ The wheel steers. It does not handle engine control, and you shouldn't expect it
 
 <div class="shotgrid">
   <figure><a href="/marine/gear/thrustmaster-twcs-throttle-engine-lever"><img src="/images/gear/marine/thrustmaster-twcs-throttle-engine-lever.jpg" alt="Thrustmaster TWCS Throttle (as engine lever)" loading="lazy"></a><figcaption>Thrustmaster TWCS — the smooth engine lever the wheel can't be</figcaption></figure>
-  <figure><a href="/marine/gear/pxn-cb1-button-box"><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a><figcaption>PXN CB1 — nav lights, horn and autopilot the wheel has no buttons for</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DKNW88FN?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pxn-cb1-button-box"><img src="/images/gear/marine/pxn-cb1-button-box.jpg" alt="PXN CB1 Sim Control Button Box" loading="lazy"></a><figcaption>PXN CB1 — nav lights, horn and autopilot the wheel has no buttons for</figcaption></figure>
   <figure><a href="/marine/gear/leobodnar-bu0836x-diy-board"><img src="/images/gear/marine/leobodnar-bu0836x-diy-board.jpg" alt="Leo Bodnar BU0836X Joystick Interface (push-in connectors)" loading="lazy"></a><figcaption>Leo Bodnar BU0836X — build a real helm the sim reads as true axes</figcaption></figure>
-  <figure><a href="/marine/gear/meta-quest-3-marineverse-vr"><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a><figcaption>Meta Quest 3 — the no-wheel shortcut when the analog gate defeats you</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3-marineverse-vr"><img src="/images/gear/marine/meta-quest-3-marineverse-vr.jpg" alt="Meta Quest 3 (MarineVerse VR sailing)" loading="lazy"></a><figcaption>Meta Quest 3 — the no-wheel shortcut when the analog gate defeats you</figcaption></figure>
 </div>
 
 If you'd rather sidestep the whole engine-and-buttons question, the [best marine sim setup under $200](/marine/best-budget-marine-sim-setup) lays out the exact order to buy in, and the [full hardware reality check](/marine/marine-sim-hardware-reality) explains why the button box, throttle and DIY board above are what the bay actually runs on.
@@ -126,19 +123,7 @@ Two honest escape hatches when the wheel-as-helm math doesn't work out.
 
 **Wishlist the sim that finally wants your hardware.** **Professional Ship Simulator** (rebranded from Nautic XP, by SWE Systems and Aerosoft) targets Steam Early Access in **2026** and is explicitly built around input flexibility — the announcement cites a **9-axis** input model, **50+ buttons**, and a rudder deadzone option aimed at HOTAS/controller rigs. In a bay defined by software that ignores your hardware, a developer advertising nine axes is genuinely exciting; it's the title most likely to read your repurposed wheel as the analog input it is. It's Early Access, so expect launch caveats — the Steam page currently confirms only the 2026 target and generic controller support, with the axis/button figures coming from the reveal.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/marine/gear/professional-ship-simulator-context"><span class="gp-tag">Upcoming · hardware-friendly</span><img src="/images/gear/marine/professional-ship-simulator-context.jpg" alt="Professional Ship Simulator (ex-Nautic XP)" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Steam Early Access · 2026</span>
-    <span class="gp-name"><a href="/marine/gear/professional-ship-simulator-context">Professional Ship Simulator (ex-Nautic XP)</a></span>
-    <p class="gp-why">Not hardware — the most wheel-friendly marine sim on the horizon. Nine axes, 50+ buttons and a rudder deadzone option built for HOTAS/controller rigs mean it's the upcoming title most likely to read your racing wheel as a real analog helm instead of a center-deadzone stick.</p>
-    <span class="gp-price">Price TBD · wishlist on Steam</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/marine/gear/professional-ship-simulator-context">Spec card</a>
-      <a href="https://store.steampowered.com/app/3636930/Professional_Ship_Simulator/" target="_blank" rel="nofollow noopener">Official Steam page</a>
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for professional-ship-simulator-context. -->
 
 <div class="callout warn">
   <div class="ct">// Before you buy</div>

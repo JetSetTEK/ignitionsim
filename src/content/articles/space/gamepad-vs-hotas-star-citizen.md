@@ -91,39 +91,33 @@ What you're accepting:
 - **Desk space and a mount**, because a loose base slides under combat input.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS stick and throttle" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — cheapest honest step up</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog all-metal stick and dual throttle" loading="lazy"></a><figcaption>HOTAS Warthog — prestige, no twist axis</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS stick and throttle" loading="lazy"></a><figcaption>T.16000M FCS HOTAS — cheapest honest step up</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog all-metal stick and dual throttle" loading="lazy"></a><figcaption>HOTAS Warthog — prestige, no twist axis</figcaption></figure>
   <figure><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a><figcaption>VKB Gladiator — buy two for HOSAS instead</figcaption></figure>
-  <figure><a href="/space/gear/elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a><figcaption>Stream Deck XL — the gamepad's real fix</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a><figcaption>Stream Deck XL — the gamepad's real fix</figcaption></figure>
 </div>
 
 I lay out the specific Star Citizen stick picks in [HOSAS vs HOTAS](/space/hosas-vs-hotas), and the **X56** remains the standard answer for a single-box HOTAS — but because we don't yet have a verified in-house photo of the X56, it's text-only here. Confirm current price and layout on the official [Logitech X56 page](https://www.logitechg.com/en-us/products/space/x56-space-flight-vr-simulator-controller.html) or verify marketplace availability before you buy.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Cheapest HOTAS entry</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas"><span class="gp-tag">Cheapest HOTAS entry</span><img src="/images/gear/space/thrustmaster-t16000m-fcs-hotas.jpg" alt="Thrustmaster T.16000M FCS HOTAS" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Stick + throttle · Hall-effect stick, 30 buttons, 9 axes</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">Thrustmaster T.16000M FCS HOTAS</a></span>
     <p class="gp-why">The honest step up from a gamepad: a long-throw H.E.A.R.T Hall-effect stick for the precision a thumbstick can't give you, plus a linear sliding-rail throttle and 30 buttons across the pair. At ~$170 it's the cheapest way to find out if the immersion is worth the setup tax — and the ambidextrous stick later doubles as half a HOSAS. The throttle spring is stiff out of the box, the known catch.</p>
     <span class="gp-price">~$170</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-t16000m-fcs-hotas">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B01N2PE8CZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-t16000m-fcs-hotas">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/thrustmaster-hotas-warthog"><span class="gp-tag">Prestige choice</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><span class="gp-tag">Prestige choice</span><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">All-metal HOTAS · A-10C 1:1 replica, dual-throttle</span>
-    <span class="gp-name"><a href="/space/gear/thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">Thrustmaster HOTAS Warthog</a></span>
     <p class="gp-why">Reference-grade, heirloom-heavy, and gorgeous — but be clear-eyed for Star Citizen: the stick has no twist axis, so it can't natively reach yaw, and it leaves two of the six space axes on buttons and hats. You buy this because it feels like flying an A-10, not because it's the optimal spaceflight tool. Pair it with rudder pedals or bind yaw to a throttle hat for the axis it lacks.</p>
     <span class="gp-price">~$500</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/thrustmaster-hotas-warthog">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -138,19 +132,7 @@ Here's the thing the brochures won't tell you: for *pure flight*, a single-stick
 
 That matters for your buying decision because it reframes the ladder. If you're going to spend real money for flight precision, a [beginner HOSAS pair under $300](/space/best-beginner-hosas-under-300) — twin **Thrustmaster T.16000M** sticks at around $160, or a boutique pair of **VKB Gladiator NXT EVO Space Combat Edition** sticks — outflies a single-stick HOTAS for combat while often costing *less* than an X56. The HOTAS wins on the throttle feel and the crossover to atmospheric sims; the HOSAS wins on raw spaceflight. There's a full [three-brand boutique breakdown](/space/vkb-vs-virpil-vs-winwing-space-sticks-2026) if you get to that fork.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">Spend up? Buy two of these</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition joystick" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Magnetic-sensor space stick · ~$119-139 each</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">If precise spaceflight is the reason you're spending, this is the smarter target than a single-stick HOTAS. Contactless magnetic sensors, a self-centering twist for the sixth axis, and dedicated left/right hands — buy one L and one R for a full HOSAS that reaches all six axes as smooth analog inputs. It's the safest first serious two-stick buy and opens VKB's upgrade ladder.</p>
-    <span class="gp-price">~$119 Standard / ~$139 Premium (per stick)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
 ## The gamepad's real fix: a Stream Deck, not a stick
 
@@ -159,16 +141,13 @@ If you take one thing from this guide, take this: the gamepad's weakness is butt
 Pair it with a tuned gamepad and you have a two-piece setup that flies the game, labels the whole bind list, and costs less than a HOTAS — while leaving your hands on a controller you already know. This is the branch most new pilots should take before they ever price a stick.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">Fixes the gamepad's real weakness</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">Fixes the gamepad's real weakness</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">The pragmatic fix for the bind problem no gamepad can solve. 32 labeled keys with folders for unlimited macros — power, shields, gear, quantum, comms — so the pad just flies and the panel handles everything else. Cheaper than a HOTAS and it fixes the gamepad's actual bottleneck. The 15-key MK.2 (~$150) is plenty for many pilots.</p>
     <span class="gp-price">~$250 (MK.2 15-key ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -186,19 +165,7 @@ Buying the hardware is the easy part. Two things trip up pilots who jump from a 
   <p>A gamepad sits in your hands; a stick sits on your desk, and a light baseplate walks under aggressive combat input — a sliding stick is a missed shot. A <a href="/space/gear/monstertech-table-mount">Monstertech table mount</a> locks a stick rigid at an ergonomic angle. Budget it when you budget the stick, not after your first firefight sends the base skating across the desk. (A HOSAS needs two.)</p>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Mount it or lose it</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech joystick table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Anodized aluminum table mount · per stick</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">The standard fix for the sliding-baseplate problem the moment you leave the gamepad behind. Quick-release clamp, universal compatibility across Thrustmaster, VKB, Virpil, and WinWing. One per stick — a HOSAS needs two, a single-stick HOTAS needs one for the stick.</p>
-    <span class="gp-price">~$100 each</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## So which should you buy?
 

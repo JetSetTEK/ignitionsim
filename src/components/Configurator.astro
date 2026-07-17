@@ -1,15 +1,19 @@
 ---
 import catalog from '../data/catalog-racing.json';
+import site from '../data/site.json';
 import { hasVerifiedProductImage } from '../lib/productMedia';
+import { canonicalAmazonProductUrl } from '../lib/amazon';
 // Merge deep product data (image, summary, pros, gear link) into each catalog
 // item by id. Resilient glob so the build works before the data file exists.
 const prodMods = import.meta.glob('/src/data/products/racing.json', { eager: true });
 const products = ((Object.values(prodMods)[0] as any)?.default || []) as any[];
 const pmap = Object.fromEntries(products.map((p) => [p.id, p]));
-const enrich = (arr: any[]) => arr.map((o) => {
+const amazonTag = (site as any).affiliate?.amazonTag;
+const enrich = (arr: any[]) => arr.flatMap((o) => {
   const p = pmap[o.id];
-  if (!p || !hasVerifiedProductImage(p)) return { ...o, image: undefined, summary: undefined, pros: [], gearId: undefined, prating: undefined };
-  return { ...o, image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3), gearId: p.id, prating: p.rating?.overall };
+  const amazonUrl = p ? canonicalAmazonProductUrl(p, amazonTag) : '';
+  if (!p || !hasVerifiedProductImage(p) || !amazonUrl) return [];
+  return [{ ...o, image: p.image, summary: p.summary, pros: (p.pros || []).slice(0, 3), gearId: p.id, prating: p.rating?.overall, amazonUrl }];
 });
 const enriched = {
   ...catalog,
@@ -36,7 +40,7 @@ const enriched = {
         <button class="lbtn" id="cfg-copy">⧉ Copy as forum post</button>
         <button class="lbtn" id="cfg-share">↗ Share build</button>
       </div>
-      <button class="lbtn primary" id="cfg-buy" style="margin-top:8px">Get parts ▸</button>
+      <button class="lbtn primary" id="cfg-buy" style="margin-top:8px">Show selected Amazon links ▸</button>
     </aside>
   </div>
   <script type="application/json" id="cfg-catalog" set:html={JSON.stringify(enriched)}></script>
@@ -138,7 +142,8 @@ const enriched = {
             ? `<button class="opt-more" type="button">details ▾</button><div class="opt-detail">`
               + `<p>${esc(o.summary)}</p>`
               + (pros.length ? `<ul>${pros.map((x: string) => `<li>${esc(x)}</li>`).join('')}</ul>` : '')
-              + (o.gearId ? `<a href="/${CAT.bay}/gear/${o.gearId}">Full review →</a>` : '')
+              + `<a href="${o.amazonUrl}" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="${o.id}">Exact product on Amazon ↗</a>`
+              + (o.gearId ? `<a href="/racing/gear/${o.gearId}">Specs &amp; verdict →</a>` : '')
               + `</div>`
             : '')
         + `</div>`;
@@ -199,7 +204,7 @@ const enriched = {
       const o = sel[key];
       if (o) {
         const p = o.price || 0; total += p;
-        html += `<div class="lrow"><span class="ln">${label}</span><span class="lv"><div class="nm">${esc(o.brand)} ${esc(o.model)}</div><div class="pr">${p === 0 ? 'included' : '$' + p}</div></span></div>`;
+        html += `<div class="lrow"><span class="ln">${label}</span><span class="lv"><a class="nm" href="${o.amazonUrl}" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="${o.id}">${esc(o.brand)} ${esc(o.model)}</a><div class="pr">${p === 0 ? 'included' : '$' + p}</div></span></div>`;
       } else {
         html += `<div class="lrow empty"><span class="ln">${label}</span><span class="lv">not selected</span></div>`;
       }
@@ -278,7 +283,10 @@ const enriched = {
       catch { (window as any).toast?.('Link is in your address bar'); }
     });
     document.getElementById('cfg-buy')!.addEventListener('click', () => {
-      (window as any).toast?.('Opening the matching gear path.');
+      const first = Object.values(sel).find((item) => item?.amazonUrl);
+      if (!first) { (window as any).toast?.('Pick some parts first'); return; }
+      document.querySelector('#cfg-ledger a[data-buy-link="true"]')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      (window as any).toast?.('Use the exact Amazon links beside each selected part.');
     });
   }
   init();

@@ -71,16 +71,13 @@ GSPro has become the default simulator software for serious home builds, and for
 Two costs to know, and one compatibility asterisk. It runs about **$250/year**, and it requires a **Windows gaming PC** (Foresight lists a GTX 970 or greater as the floor, with an RTX 3060 Ti / RTX 3080 recommended). There is no iPad path. And a few monitors need their own subscription *on top of* GSPro: **Foresight/Bushnell units require an active FSX 2020 / FSX Play license (Bushnell Launch Pro needs Gold)**, **Uneekor requires an active Pro Package**, and the **Rapsodo MLM2PRO requires a Rapsodo Premium membership**. Budget the whole stack, not just the $250. If you want the step-by-step wiring, our [GSPro setup, courses, and connectors guide](/golf/gspro-setup-guide-courses-connectors) walks it end to end.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/skytrak-plus"><span class="gp-tag">Most software-flexible</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus"><span class="gp-tag">Most software-flexible</span><img src="/images/gear/golf/skytrak-plus.jpg" alt="SkyTrak+ launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Photometric · GSPro + E6 + TGC 2019 + Awesome Golf</span>
-    <span class="gp-name"><a href="/golf/gear/skytrak-plus">SkyTrak+</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">SkyTrak+</a></span>
     <p class="gp-why">If you can't decide which software to commit to, buy the sensor that refuses to commit for you. The SkyTrak+ is the rare unit that speaks GSPro, E6, TGC 2019, <em>and</em> Awesome Golf, and it ships with its own no-fee practice range — so no single platform's compatibility list can paint you into a corner later.</p>
     <span class="gp-price">~$2,995 (frequently near $2,000)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/skytrak-plus">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0GJDT5L16?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="skytrak-plus">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -91,16 +88,13 @@ E6 Connect is the refined, presentation-forward option, and its killer feature i
 The cost story has two branches. Classic **E6 Connect** subscriptions run about **$300/year (Basic)** to **$600/year (Expanded)**, where Expanded unlocks the full course library minus premium content, and Basic rotates content through the year. The newer, more graphically ambitious **E6 Apex** is sold in tiers reported around **$150–$450/year**, leaning harder into game-improvement tools like bag mapping and club-fitting analytics, and it wants a more powerful PC. If you want polish and portability over the GSPro community ecosystem, E6 is the answer — just pick Connect for the iPad path or Apex for the newer engine.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/flightscope-mevo-gen2"><span class="gp-tag">Best no-PC / E6 pairing</span><img src="/images/gear/golf/flightscope-mevo-gen2.jpg" alt="FlightScope Mevo Gen 2 launch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2"><span class="gp-tag">Best no-PC / E6 pairing</span><img src="/images/gear/golf/flightscope-mevo-gen2.jpg" alt="FlightScope Mevo Gen 2 launch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Fusion radar · lifetime E6 Connect bundle included</span>
-    <span class="gp-name"><a href="/golf/gear/flightscope-mevo-gen2">FlightScope Mevo Gen 2</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2">FlightScope Mevo Gen 2</a></span>
     <p class="gp-why">The cleanest way to test the "skip the gaming PC" theory: the Mevo Gen 2 ships with a lifetime E6 Connect simulation bundle, so you can run E6 on an iPad with no separate software bill on day one. It also talks to GSPro later if you build a PC. As a radar unit, give it depth behind the ball.</p>
     <span class="gp-price">~$1,299 base (loaded ~$2,274)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/golf/gear/flightscope-mevo-gen2">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0FK8M3VLB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="flightscope-mevo-gen2">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -116,19 +110,7 @@ FSX Play is the Foresight software family, the home turf for the **GC3**, **GC3S
 
 The cost model is the whole decision here. On a straight **GC3, FSX Play and 25 courses are included for life with no annual fee** — a genuinely rare pay-once arrangement. But the **GC3S ("S" for subscription) and the Bushnell Launch Pro require the ~$499/year Gold subscription** to unlock the full software and third-party connectivity (the first year of Gold is typically free). Beyond the 25 included courses, additional FSX courses are purchasable à la carte (270+ available). If you're buying into Foresight for fitting-grade data, read the variant carefully — the difference between a GC3 and a GC3S is a recurring bill, not just a spec. That subscription math is a real part of the [mid-tier hardware decision](/golf/skytrak-vs-bushnell-launch-pro-vs-gc3).
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/golf/gear/rapsodo-mlm2pro"><span class="gp-tag">Budget GSPro on-ramp</span><img src="/images/gear/golf/rapsodo-mlm2pro.jpg" alt="Rapsodo MLM2PRO launch monitor" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Fusion camera + radar · official GSPro direct connect</span>
-    <span class="gp-name"><a href="/golf/gear/rapsodo-mlm2pro">Rapsodo MLM2PRO</a></span>
-    <p class="gp-why">The cheapest credible way onto GSPro: the MLM2PRO earned official GSPro direct-connect integration and also runs E6 Connect. The catch that belongs in your software budget — GSPro on the MLM2PRO requires a Rapsodo Premium membership on top of the ~$250 GSPro fee, so price the stack, not the sticker.</p>
-    <span class="gp-price">~$699 (premium sub ~$500 lifetime option)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/golf/gear/rapsodo-mlm2pro">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for rapsodo-mlm2pro. -->
 
 ## Awesome Golf: The Fun, No-PC Wildcard
 

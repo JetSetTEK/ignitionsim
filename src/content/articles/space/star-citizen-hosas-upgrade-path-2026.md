@@ -66,19 +66,7 @@ The VKB Gladiator NXT EVO Space Combat Edition is the answer you keep seeing bec
 
 VKB’s official listing highlights the 2 contactless MaRS sensors, ball-bearing gimbal, adjustable dry clutch, tabletop steel baseplate, and spring options. That is exactly what an entry serious stick should be: precise, maintainable, and not priced like a second graphics card.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition"><span class="gp-tag">First buy</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-space-combat-edition.jpg" alt="VKB Gladiator NXT EVO Space Combat Edition" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Default serious stick</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">VKB Gladiator NXT EVO Space Combat Edition</a></span>
-    <p class="gp-why">Buy one if you are moving past gamepad. Buy two if you know Star Citizen is becoming your flight life. It is the least dramatic correct answer.</p>
-    <span class="gp-price">Value boutique tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-space-combat-edition">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-space-combat-edition. -->
 
 **Best first config:** right-hand Gladiator Space Combat + left-hand Gladiator Omni-Throttle. If you prefer a symmetric cockpit, buy left/right Space Combat sticks instead. If you fly DCS too, the Omni may feel strange; if you fly mostly space, it makes beautiful sense.
 
@@ -88,19 +76,7 @@ The VKB Omni-Throttle is a clever space-sim compromise: it turns the left-hand s
 
 Community wisdom around the Omni usually boils down to this: it costs more than a plain second stick, but it feels natural for thrust/strafe once you tune it. Some pilots remove or modify springs to make one axis behave more like a throttle. That is not a beginner requirement, just a later tuning rabbit hole.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Off-hand</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Space throttle without losing axes</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator Omni-Throttle</a></span>
-    <p class="gp-why">The best off-hand pick if Star Citizen is the main reason for the rig. It makes thrust feel physical while keeping strafe analog.</p>
-    <span class="gp-price">Off-hand HOSAS tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-omni-throttle. -->
 
 ## Phase 3: WinWing Ursa Minor Is the Value Chaos Option
 
@@ -108,19 +84,7 @@ WinWing’s Ursa Minor Space deserves attention because it hits the value nerve 
 
 The caveat is trust. VKB has a longer “we can recommend this without drama” trail in space sim circles. WinWing can be the smarter budget buy if you are price-sensitive and comfortable with SimAppPro, but it is not yet the default no-regrets community answer.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle"><span class="gp-tag">Value disruptor</span><img src="/images/gear/space/vkb-gladiator-nxt-evo-omni-throttle.jpg" alt="VKB Gladiator NXT EVO Omni-Throttle" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Off-hand value controller</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">VKB Gladiator Omni-Throttle</a></span>
-    <p class="gp-why">Buy if Star Citizen is the main event and you want left-hand thrust/strafe control that feels physical without giving up analog axes.</p>
-    <span class="gp-price">Reliable value tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gladiator-nxt-evo-omni-throttle">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gladiator-nxt-evo-omni-throttle. -->
 
 ## Phase 4: Mounts Before Premium Metal
 
@@ -128,19 +92,7 @@ Mounts are not glamorous, but they are the difference between “I have good sti
 
 Buy mounts before stepping from VKB Gladiator to Virpil unless you already have a rigid cockpit. A mounted Gladiator pair will often feel better in real play than premium sticks skating across a desktop.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/monstertech-table-mount"><span class="gp-tag">Ergonomics</span><img src="/images/gear/space/monstertech-table-mount.jpg" alt="Monstertech table mount" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">The unsexy upgrade that wins fights</span>
-    <span class="gp-name"><a href="/space/gear/monstertech-table-mount">Monstertech Table Mount</a></span>
-    <p class="gp-why">Lower, closer, stable sticks. This is where precision becomes repeatable instead of a wrestling match with desk height.</p>
-    <span class="gp-price">Mounting tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/monstertech-table-mount">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for monstertech-table-mount. -->
 
 ## Phase 5: Virpil Is the Premium Jump, Not the First Homework Assignment
 
@@ -152,22 +104,10 @@ The catch is real cost. A Virpil grip is not a full stick by itself. You need a 
   <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a><figcaption>Gunfighter: VKB's premium path</figcaption></figure>
   <figure><a href="/space/gear/virpil-warbrd-d-base"><img src="/images/gear/space/virpil-warbrd-d-base.jpg" alt="Virpil WarBRD-D base" loading="lazy"></a><figcaption>WarBRD-D: compact adjustable base</figcaption></figure>
   <figure><a href="/space/gear/vkb-gunfighter-mk4-base"><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV base" loading="lazy"></a><figcaption>VKB Gunfighter: VKB’s premium base path</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Warthog: aircraft-first HOTAS reference</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00371R8P4?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-hotas-warthog"><img src="/images/gear/space/thrustmaster-hotas-warthog.jpg" alt="Thrustmaster HOTAS Warthog" loading="lazy"></a><figcaption>Warthog: aircraft-first HOTAS reference</figcaption></figure>
 </div>
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/vkb-gunfighter-mk4-base"><span class="gp-tag">Premium</span><img src="/images/gear/space/vkb-gunfighter-mk4-base.jpg" alt="VKB Gunfighter Mk IV Modern Combat Edition" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Endgame gimbal path</span>
-    <span class="gp-name"><a href="/space/gear/vkb-gunfighter-mk4-base">VKB Gunfighter Mk.IV</a></span>
-    <p class="gp-why">Buy after you know your binds, mounting, and flying style. It is an upgrade for precision and tuning, not a beginner shortcut.</p>
-    <span class="gp-price">Premium base tier</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/vkb-gunfighter-mk4-base">Full review</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for vkb-gunfighter-mk4-base. -->
 
 ## Phase 6: Pedals, Head Tracking, and Button Layers
 
@@ -176,10 +116,10 @@ Dual sticks with twist can cover all six axes. That means pedals are optional, n
 Button layers are different. Star Citizen has too many useful commands for one grip pair: power triangle, mining, scanning, shield management, landing gear, doors, comms, salvage, camera, quantum, missiles, countermeasures, tractor beam, FPS toggles. A Stream Deck is fantastic once your analog controls are solved because it makes ship systems visible instead of memorized.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL for space sim macro controls" loading="lazy"></a><figcaption>Stream Deck: labeled ship-system layers</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL for space sim macro controls" loading="lazy"></a><figcaption>Stream Deck: labeled ship-system layers</figcaption></figure>
   <figure><a href="/space/gear/vkb-stecs-standard-mk2-throttle"><img src="/images/gear/space/vkb-stecs-standard-mk2-throttle.jpg" alt="VKB STECS throttle" loading="lazy"></a><figcaption>STECS: hybrid HOTAS/HOSAS power lever</figcaption></figure>
-  <figure><a href="/space/gear/thrustmaster-mfd-cougar-pack"><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a><figcaption>MFD Cougar: cheap cockpit buttons</figcaption></figure>
-  <figure><a href="/flight/gear/tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5" loading="lazy"></a><figcaption>Tobii: head/eye tracking without a clip</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B002HH9TRY?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-mfd-cougar-pack"><img src="/images/gear/space/thrustmaster-mfd-cougar-pack.jpg" alt="Thrustmaster MFD Cougar Pack" loading="lazy"></a><figcaption>MFD Cougar: cheap cockpit buttons</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5" loading="lazy"></a><figcaption>Tobii: head/eye tracking without a clip</figcaption></figure>
 </div>
 
 ## The Bind Map That Makes HOSAS Click

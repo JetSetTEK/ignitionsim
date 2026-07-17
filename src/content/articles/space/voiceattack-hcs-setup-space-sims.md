@@ -103,20 +103,17 @@ Here's the honest counter-case. VoiceAttack solves a problem some pilots don't h
 For those pilots, the same overflow problem has a hardware answer: a labeled macro panel. The [Elgato Stream Deck XL](/space/gear/elgato-stream-deck-xl) puts 32 light-up, icon-labeled keys on your desk — power triage, weapon groups, shield pips, landing gear, comms — with folders for effectively unlimited binds. No mic training, no misfires in a noisy room, and you can *see* every function instead of memorizing a phrase list. Many pilots run both: the Deck for the visible, deliberate binds, and voice for the conversational ones. It's a bigger quality-of-life jump for a new pilot than almost any stick upgrade.
 
 <div class="shotgrid">
-  <figure><a href="/space/gear/elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel with 32 labeled LCD keys" loading="lazy"></a><figcaption>Stream Deck XL — the no-config hardware answer to the same bind overflow</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel with 32 labeled LCD keys" loading="lazy"></a><figcaption>Stream Deck XL — the no-config hardware answer to the same bind overflow</figcaption></figure>
 </div>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/space/gear/elgato-stream-deck-xl"><span class="gp-tag">The no-config alternative</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl"><span class="gp-tag">The no-config alternative</span><img src="/images/gear/space/elgato-stream-deck-xl.jpg" alt="Elgato Stream Deck XL macro panel" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Labeled macro panel · 32 LCD keys</span>
-    <span class="gp-name"><a href="/space/gear/elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">Elgato Stream Deck XL</a></span>
     <p class="gp-why">If config-fiddling makes you groan but your bind list still overflows, this is the hardware answer to the same problem voice solves in software: 32 labeled, light-up keys for the housekeeping binds, with folders for effectively unlimited macros — no mic training, no misfires in a noisy room. Many pilots run both, Deck for the visible deliberate binds and voice for the conversational ones. The 15-key MK.2 (~$150) is the cheaper way in.</p>
     <span class="gp-price">~$220-250 (MK.2 15-key ~$150)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/space/gear/elgato-stream-deck-xl">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07RL8H55Z?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="elgato-stream-deck-xl">View exact product on Amazon</a></span>
   </div>
 </aside>
 

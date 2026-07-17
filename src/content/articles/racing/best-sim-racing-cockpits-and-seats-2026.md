@@ -40,7 +40,7 @@ The cockpit is the least-photographed purchase in sim racing and the one that qu
 
 <div class="shotgrid">
   <figure><a href="/racing/gear/trak-racer-trx"><img src="/images/gear/racing/trak-racer-trx.jpg" alt="Trak Racer TR160 80/20 aluminium profile cockpit" loading="lazy"></a><figcaption>Trak Racer TR160 — best overall (80/20)</figcaption></figure>
-  <figure><a href="/racing/gear/nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track steel cockpit" loading="lazy"></a><figcaption>NLR GT Track — best complete steel cockpit</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track steel cockpit" loading="lazy"></a><figcaption>NLR GT Track — best complete steel cockpit</figcaption></figure>
   <figure><a href="/racing/gear/nlr-gtlite"><img src="/images/gear/racing/nlr-gtlite.jpg" alt="Next Level Racing GTLite foldable cockpit" loading="lazy"></a><figcaption>NLR GTLite — best budget/foldable</figcaption></figure>
   <figure><a href="/racing/gear/sim-lab-p1x"><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X aluminium profile cockpit" loading="lazy"></a><figcaption>Sim-Lab P1-X — fidelity-builder's profile rig</figcaption></figure>
 </div>
@@ -72,19 +72,7 @@ The [Trak Racer TR160](/racing/gear/trak-racer-trx) (~$879) is the cockpit I'd p
 
 The trade is space and assembly: a profile rig is a big, permanent object you build with an Allen key, not a fold-away. But it's the one cockpit on this list you genuinely never outgrow. **Who it's for:** the builder running real torque and heavy pedals who wants to buy the frame once. The catch: it's not folding it away, and the base kit is a frame plus seat slider — budget a seat.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-trx"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/trak-racer-trx.jpg" alt="Trak Racer TR160 80/20 aluminium profile cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">80/20 aluminium profile cockpit · 160x40mm</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-trx">Trak Racer TR160</a></span>
-    <p class="gp-why">The frame that never flexes and never stops being upgradeable. Thick 80/20 profile, motion-ready, mount anything anywhere. The last cockpit most builders ever buy.</p>
-    <span class="gp-price">~$879 (frame + seat slider)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-trx">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for trak-racer-trx. -->
 
 ## Best complete cockpit: Next Level Racing GT Track
 
@@ -93,30 +81,24 @@ If assembling a profile rig sounds like a weekend you don't have, the [Next Leve
 It's less infinitely-modular than 80/20 and it's a fixed footprint, but for a buyer who wants a finished, race-position cockpit without the build project, it delivers most of a profile rig's rigidity with none of the assembly. The lighter-duty sibling worth knowing is the [GT Omega Apex](/racing/gear/gt-omega-apex) (~$255, ~$225 on sale) — a folding wheel stand that expands into a compact cockpit with an add-on rear seat frame, ideal for smaller rooms and smaller torque.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-gt-track"><span class="gp-tag">Best complete cockpit</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track steel cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track"><span class="gp-tag">Best complete cockpit</span><img src="/images/gear/racing/nlr-gt-track.jpg" alt="Next Level Racing GT Track steel cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Steel cockpit · integrated race seat</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-gt-track">Next Level Racing GT Track</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">Next Level Racing GT Track</a></span>
     <p class="gp-why">A finished, one-box steel cockpit with a proper reclined seat and stiff wheel deck. Most of a profile rig's rigidity, none of the build project.</p>
     <span class="gp-price">~$899 (seat included)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/nlr-gt-track">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07KFY7TKC?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="nlr-gt-track">View exact product on Amazon</a></span>
   </div>
 </aside>
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/gt-omega-apex"><span class="gp-tag">Best compact cockpit</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex"><span class="gp-tag">Best compact cockpit</span><img src="/images/gear/racing/gt-omega-apex.jpg" alt="GT Omega Apex wheel stand cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Folding wheel stand · expandable to cockpit</span>
-    <span class="gp-name"><a href="/racing/gear/gt-omega-apex">GT Omega Apex</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">GT Omega Apex</a></span>
     <p class="gp-why">A Y-frame wheel stand that's stiff for its size, folds for storage, and grows into a compact cockpit with an add-on rear seat frame. The small-room pick.</p>
     <span class="gp-price">~$255 (~$225 on sale)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/gt-omega-apex">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07HM6DR81?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="gt-omega-apex">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -126,19 +108,7 @@ For the smallest credible entry into a real seating position, the [Next Level Ra
 
 It won't carry a 15Nm base or a fibreglass bucket, and the fabric seat is comfort-first rather than track-firm. But as the first rung above a desk, nothing else offers this much rig for the money or folds away this cleanly. It's the honest "buy this first" cockpit.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-gtlite"><span class="gp-tag">Best budget</span><img src="/images/gear/racing/nlr-gtlite.jpg" alt="Next Level Racing GTLite foldable cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Foldable cockpit · integrated fabric seat</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-gtlite">Next Level Racing GTLite</a></span>
-    <p class="gp-why">Folds flat with your hardware installed, gives you a real reclined seating position, and costs less than most people's pedals. The first rig to buy.</p>
-    <span class="gp-price">~$229</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-gtlite">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-gtlite. -->
 
 <div class="callout forum">
   <div class="ct">// From the forums</div>
@@ -151,19 +121,7 @@ At the enthusiast end of 80/20, the [Sim-Lab P1-X](/racing/gear/sim-lab-p1x) (co
 
 It costs more than the Trak Racer and, like any profile rig, it's a build and a permanent fixture. But for the builder who treats the cockpit as a lifetime platform and wants maximum mounting freedom, the P1-X is the fidelity-first pick. **Who it's for:** the committed builder chasing the last percent of rigidity and modularity. The catch: price and footprint.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/sim-lab-p1x"><span class="gp-tag">Frontier profile rig</span><img src="/images/gear/racing/sim-lab-p1x.jpg" alt="Sim-Lab P1-X aluminium profile cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">80/20 aluminium profile cockpit · quad-slot</span>
-    <span class="gp-name"><a href="/racing/gear/sim-lab-p1x">Sim-Lab P1-X</a></span>
-    <p class="gp-why">Quad-slot profiles mean four mounting channels per face and near-unlimited build freedom. Never-flex rigidity plus a 3-year warranty — the lifetime-platform pick.</p>
-    <span class="gp-price">~$1,000-1,299</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/sim-lab-p1x">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for sim-lab-p1x. -->
 
 ## The value 80/20 alternative: Trak Racer TR80
 
@@ -172,16 +130,13 @@ Between the steel cockpits and the flagship profile rigs sits the [Trak Racer TR
 The compromise versus the TR160 is thinner profile and a smaller footprint, so it's a touch less overbuilt at the extreme torque end. But for a builder who wants the never-outgrow-it advantages of 80/20 without the flagship price, the TR80 is the value entry into the top rung of the ladder.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-tr80"><span class="gp-tag">Best value 80/20</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminium profile cockpit" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80"><span class="gp-tag">Best value 80/20</span><img src="/images/gear/racing/trak-racer-tr80.jpg" alt="Trak Racer TR80 aluminium profile cockpit" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">80/20 aluminium profile cockpit · 80x40mm</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-tr80">Trak Racer TR80</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">Trak Racer TR80</a></span>
     <p class="gp-why">A real profile rig — flex-free, motion-ready, mount-anything — at a price that undercuts steel cockpits. The value on-ramp to the top rung of the ladder.</p>
     <span class="gp-price">~$499 (TR80S)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/trak-racer-tr80">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BGJ55MFZ?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="trak-racer-tr80">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -195,19 +150,7 @@ The [Next Level Racing Elite ES1](/racing/gear/nlr-elite-es1) (~$449) is a usefu
 
 The rule of thumb: if you want comfort, long sessions and a friendlier price, a **fabric seat** (built into the GTLite and GT Track, or a padded sim seat like the ES1) is right. If you want maximum tactile transfer, a locked-in body position and real race-car authenticity — and you're on a rig that can bolt to side mounts — a **fibreglass bucket** is worth the firmer ride and higher cost. Just don't try to hang a bucket on a folding stand; it needs a rigid frame with proper mounting rails.
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-elite-es1"><span class="gp-tag">Best first sim seat</span><img src="/images/gear/racing/nlr-elite-es1.jpg" alt="Next Level Racing Elite ES1 sim racing seat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Sim-specific reclining seat</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-elite-es1">Next Level Racing Elite ES1</a></span>
-    <p class="gp-why">Purpose-built for a reclined sim position with wide, forgiving bolsters — comfortable for endurance stints yet supportive. The mainstream "first proper seat" for a profile or steel rig.</p>
-    <span class="gp-price">~$449</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/racing/gear/nlr-elite-es1">Spec card</a>
-
-    </span>
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-elite-es1. -->
 
 <div class="callout tip">
   <div class="ct">// Pro tip</div>
@@ -246,35 +189,11 @@ The rule of thumb: if you want comfort, long sessions and a friendlier price, a 
 
 ## What to buy
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/trak-racer-trx"><span class="gp-tag">Buy this for a real rig</span><img src="/images/gear/racing/trak-racer-trx.jpg" alt="Trak Racer TR160 80/20 aluminium profile cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best overall cockpit</span>
-    <span class="gp-name"><a href="/racing/gear/trak-racer-trx">Trak Racer TR160</a></span>
-    <p class="gp-why">The frame that never flexes and never stops being upgradeable. Add a sim seat and a load-cell brake and you have a rig you keep for a decade.</p>
+<!-- Product card withheld: exact Amazon ASIN not verified for trak-racer-trx. -->
 
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-gtlite. -->
 
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-gtlite"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/nlr-gtlite.jpg" alt="Next Level Racing GTLite foldable cockpit" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best budget / first rig</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-gtlite">Next Level Racing GTLite</a></span>
-    <p class="gp-why">Gets you off the desk into a real reclined seating position for the price of an accessory, and folds away when you're done. The rig to start with.</p>
-
-  </div>
-</aside>
-
-<aside class="gearpick">
-  <a class="gp-shot" href="/racing/gear/nlr-elite-es1"><span class="gp-tag">Add this seat</span><img src="/images/gear/racing/nlr-elite-es1.jpg" alt="Next Level Racing Elite ES1 sim racing seat" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">Best first sim seat</span>
-    <span class="gp-name"><a href="/racing/gear/nlr-elite-es1">Next Level Racing Elite ES1</a></span>
-    <p class="gp-why">The comfortable, supportive "first proper seat" for a profile or steel rig — the piece that turns a bare frame into a cockpit you want to sit in for hours.</p>
-
-  </div>
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for nlr-elite-es1. -->
 
 ## Research receipts (evidence, not shopping links)
 Source review date: July 3, 2026. We checked official product pages and current pricing rather than repeating box specs, and paraphrased community consensus in our own words.

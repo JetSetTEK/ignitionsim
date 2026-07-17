@@ -15,24 +15,25 @@ const visibleItems = items
   .map((p) => ({
     ...p,
     amazonUrl: canonicalAmazonProductUrl({ affiliateUrl: p.buyUrl }),
-  }));
+  }))
+  .filter((p) => p.amazonUrl);
 ---
 <div class="grail" id={id}>
   <div class="grail-track">
     {visibleItems.map((p) => (
       <div class="grail-card">
-        <a class="grail-shot" href={p.href} aria-label={`${p.brand} ${p.model} review`}>
+        <a class="grail-shot" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" aria-label={`View ${p.brand} ${p.model} on Amazon`}>
           {p.tag && <span class="grail-tag">{p.tag}</span>}
           <img src={p.image} alt={`${p.brand} ${p.model}`} loading="lazy" decoding="async" />
         </a>
         <div class="grail-body">
           {p.type && <span class="grail-type">{p.type.replace(/-/g, ' ')}</span>}
-          <a class="grail-name" href={p.href}>{p.brand} {p.model}</a>
+          <a class="grail-name" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click">{p.brand} {p.model}</a>
           {(p.price || p.priceNote) && <span class="grail-price">{fmt(p.price)}{p.priceNote ? ` · ${p.priceNote}` : ''}</span>}
           {(p.whoFor || p.summary) && <p class="grail-note">{p.whoFor || p.summary}</p>}
           <div class="grail-actions">
             <a class="grail-review" href={p.href}>Inspect</a>
-            {p.amazonUrl && <a class="grail-buy" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="gearrail_amazon">Amazon</a>}
+            <a class="grail-buy" href={p.amazonUrl} target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="gearrail_amazon">Exact product on Amazon</a>
           </div>
         </div>
       </div>

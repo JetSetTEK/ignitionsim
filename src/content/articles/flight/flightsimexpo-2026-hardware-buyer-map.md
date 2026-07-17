@@ -41,11 +41,11 @@ The short version: **watch the [Thrustmaster TCA Sky Yoke](/flight/gear/thrustma
 
 <div class="shotgrid">
   <figure><a href="/flight/gear/thrustmaster-tca-sky-yoke"><img src="/images/gear/flight/thrustmaster-tca-sky-yoke.png" alt="Thrustmaster TCA Sky Yoke announced at FlightSimExpo 2026" loading="lazy"></a><figcaption>TCA Sky Yoke — the $199.99 console-friendly watchlist</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — the proven GA workhorse to buy now</figcaption></figure>
-  <figure><a href="/flight/gear/honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Honeycomb Bravo — throttle, trim and autopilot in a box</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the Airbus first buy</figcaption></figure>
-  <figure><a href="/flight/gear/moza-mtq-throttle-quadrant"><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ modular throttle quadrant" loading="lazy"></a><figcaption>MOZA MTQ — modular jet quadrant, the FFB-adjacent pick</figcaption></figure>
-  <figure><a href="/flight/gear/turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a><figcaption>VelocityOne Flight Stick — the Xbox-friendly first stick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls yoke" loading="lazy"></a><figcaption>Honeycomb Alpha — the proven GA workhorse to buy now</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo throttle quadrant" loading="lazy"></a><figcaption>Honeycomb Bravo — throttle, trim and autopilot in a box</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — the Airbus first buy</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant"><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ modular throttle quadrant" loading="lazy"></a><figcaption>MOZA MTQ — modular jet quadrant, the FFB-adjacent pick</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a><figcaption>VelocityOne Flight Stick — the Xbox-friendly first stick</figcaption></figure>
 </div>
 
 ## The FlightSimExpo 2026 decision map
@@ -83,21 +83,7 @@ The most important mainstream reveal attacks the beginner problem head-on. The T
 
 Thrustmaster's materials list a built-in steel pitch-axis shaft, **7 axes**, integrated throttle, trim and yaw controls, **24 action buttons**, an 8-way POV hat, a mini-stick and two analog triggers. The announced price is **$199.99 with Q3 2026 availability**. That is the "flight sim can finally be less annoying on console" moment the platform has needed for years. It is not force feedback and it will not replace a dedicated throttle quadrant for serious airliner work — but as a first yoke, the price and platform reach are the story.
 
-<aside class="gearpick">
-
-  <a class="gp-shot" href="/flight/gear/thrustmaster-tca-sky-yoke"><span class="gp-tag">Watchlist · cross-console</span><img src="/images/gear/flight/thrustmaster-tca-sky-yoke.png" alt="Thrustmaster TCA Sky Yoke" loading="lazy"></a>
-  <div class="gp-body">
-    <span class="gp-eyebrow">FlightSimExpo 2026 reveal · PC / Xbox / PS5</span>
-    <span class="gp-name"><a href="/flight/gear/thrustmaster-tca-sky-yoke">Thrustmaster TCA Sky Yoke</a></span>
-    <p class="gp-why">The smart waitlist pick for console MSFS and first-yoke buyers. Great announced price and rare tri-platform support, but we want retail durability and mapping reports before calling it a blind buy.</p>
-    <span class="gp-price">$199.99 announced MSRP · Q3 2026 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/thrustmaster-tca-sky-yoke">Spec card</a>
-
-    </span>
-  </div>
-
-</aside>
+<!-- Product card withheld: exact Amazon ASIN not verified for thrustmaster-tca-sky-yoke. -->
 
 The rule of thumb: **don't confuse "announced" with "proven."** If you're flying tonight on PC, the Honeycomb deck below is the safer money. If you're buying for Xbox or PS5 and can wait, the Sky Yoke is the reveal to track.
 
@@ -109,32 +95,26 @@ It isn't a "new reveal," and that's the point: it's the deck most serious GA sim
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-alpha-yoke"><span class="gp-tag">Buy now · GA foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke"><span class="gp-tag">Buy now · GA foundation</span><img src="/images/gear/flight/honeycomb-alpha-yoke.jpg" alt="Honeycomb Alpha Flight Controls" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Yoke + integrated switch panel</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">Honeycomb Aeronautical Alpha Flight Controls</a></span>
     <p class="gp-why">The stable first serious yoke for PC GA pilots. A smooth 180-degree steel-shaft throw and an ignition panel that deletes a dozen clicks. Add the Bravo when you want power, trim and autopilot under your fingers.</p>
     <span class="gp-price">~$250-300 street · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-alpha-yoke">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SH2SFLW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-alpha-yoke">View exact product on Amazon</a></span>
   </div>
 
 </aside>
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/honeycomb-bravo-throttle"><span class="gp-tag">Add second · GA throttle</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle"><span class="gp-tag">Add second · GA throttle</span><img src="/images/gear/flight/honeycomb-bravo-throttle.jpg" alt="Honeycomb Bravo Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle, trim, autopilot in one box</span>
-    <span class="gp-name"><a href="/flight/gear/honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">Honeycomb Aeronautical Bravo Throttle Quadrant</a></span>
     <p class="gp-why">The part that turns the Alpha into a cockpit instead of a yoke bolted to a keyboard. Six swappable levers, a real trim wheel and an autopilot panel that ends on-screen knob-clicking. Buy it early if you fly GA, twins or light jets.</p>
     <span class="gp-price">~$280 street · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/honeycomb-bravo-throttle">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B07SK43CJ6?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="honeycomb-bravo-throttle">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -153,16 +133,13 @@ MOZA advertises native force-feedback telemetry for MSFS 2024/2020, X-Plane 12 a
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/moza-mtq-throttle-quadrant"><span class="gp-tag">Verified · modular throttle</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant"><span class="gp-tag">Verified · modular throttle</span><img src="/images/gear/flight/moza-mtq-throttle-quadrant.jpg" alt="MOZA MTQ Throttle Quadrant" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Throttle quadrant · swappable fighter/Airbus/Boeing levers</span>
-    <span class="gp-name"><a href="/flight/gear/moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">MOZA MTQ Throttle Quadrant</a></span>
     <p class="gp-why">The reconfigurable jet quadrant that rounds out a MOZA flight setup: fighter levers included, Airbus and Boeing lever packs (~$39 each) that actually change the detents. The natural throttle to pair with an AB9 or AB6 base.</p>
     <span class="gp-price">~$199 base (+$39 per lever pack)</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/moza-mtq-throttle-quadrant">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0G4924P9P?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="moza-mtq-throttle-quadrant">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -193,8 +170,8 @@ The quietest reveal is a $44.99 accessory. The **OMNI Extension** (released mid-
 If you live in the Fenix A320 or the iniBuilds Airbus fleet, a general yoke is the wrong spend and none of the new bases change that. Your buy order is: Airbus-style sidestick, throttle quadrant with detents, then FCU/EFIS and MCDU panels, then a powered USB hub. The [TCA Sidestick](/flight/gear/thrustmaster-tca-sidestick-airbus) (~$80) and [TCA Quadrant](/flight/gear/thrustmaster-tca-quadrant-airbus) (~$100) give you a credible A320 cockpit for under $200, and both are verified below.
 
 <div class="shotgrid">
-  <figure><a href="/flight/gear/thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — cheap, authentic Airbus first buy</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the Idle/Climb/Flex/TO-GA detents that matter</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0BG3DH3GW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-sidestick-airbus"><img src="/images/gear/flight/thrustmaster-tca-sidestick-airbus.jpg" alt="Thrustmaster TCA Sidestick Airbus Edition" loading="lazy"></a><figcaption>TCA Sidestick — cheap, authentic Airbus first buy</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B086J7D78J?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-quadrant-airbus"><img src="/images/gear/flight/thrustmaster-tca-quadrant-airbus.jpg" alt="Thrustmaster TCA Quadrant Airbus Edition" loading="lazy"></a><figcaption>TCA Quadrant — the Idle/Climb/Flex/TO-GA detents that matter</figcaption></figure>
 </div>
 
 The WinWing FCU/EFIS and MCDU panels are the next rung — they move the Airbus workflow off the mouse so you twist altitude, heading, baro and range on real knobs and punch the MCDU like a human instead of clicking a virtual keypad on descent. They're PC-only, aircraft-specific and confirmed for the Fenix A320, and no verified photo is on file, so they're text-and-link only.
@@ -209,16 +186,13 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 <aside class="gearpick">
 
-  <a class="gp-shot" href="/flight/gear/turtle-beach-velocityone-flight-stick"><span class="gp-tag">Buy now · Xbox starter</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick"><span class="gp-tag">Buy now · Xbox starter</span><img src="/images/gear/flight/turtle-beach-velocityone-flight-stick.jpg" alt="Turtle Beach VelocityOne Flight Stick" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">PC / Xbox first controller</span>
-    <span class="gp-name"><a href="/flight/gear/turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">Turtle Beach VelocityOne Flight Stick</a></span>
     <p class="gp-why">The clean first step before a yoke rabbit hole. Integrated twist rudder means no extra gear to start, and the OLED plus 27 buttons is a lot of controller for the money. Great if your question is "can I enjoy MSFS without turning my desk into an airport?"</p>
     <span class="gp-price">~$130 · check current</span>
-    <span class="gp-actions">
-      <a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a>
-
-    </span>
+    <span class="gp-actions"><a class="gp-review" href="/flight/gear/turtle-beach-velocityone-flight-stick">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0BHTPP71M?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="turtle-beach-velocityone-flight-stick">View exact product on Amazon</a></span>
   </div>
 
 </aside>
@@ -237,9 +211,9 @@ If you're brand new and console-bound, don't overbuild before you know you like 
 
 <div class="shotgrid">
   <figure><a href="/flight/gear/honeycomb-charlie-pedals"><img src="/images/gear/flight/honeycomb-charlie-pedals.jpg" alt="Honeycomb Charlie rudder pedals" loading="lazy"></a><figcaption>Honeycomb Charlie — crosswind and taxi sanity in metal</figcaption></figure>
-  <figure><a href="/flight/gear/thrustmaster-tca-yoke-boeing"><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a><figcaption>TCA Boeing Yoke — the 787-style column for Boeing pilots</figcaption></figure>
-  <figure><a href="/flight/gear/naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker" loading="lazy"></a><figcaption>TrackIR 5 — look around without VR</figcaption></figure>
-  <figure><a href="/flight/gear/tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — head tracking with nothing to wear</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B09DPYHM55?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="thrustmaster-tca-yoke-boeing"><img src="/images/gear/flight/thrustmaster-tca-yoke-boeing.jpg" alt="Thrustmaster TCA Yoke Pack Boeing Edition" loading="lazy"></a><figcaption>TCA Boeing Yoke — the 787-style column for Boeing pilots</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B00KQPETHO?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="naturalpoint-trackir-5"><img src="/images/gear/flight/naturalpoint-trackir-5.jpg" alt="NaturalPoint TrackIR 5 head tracker" loading="lazy"></a><figcaption>TrackIR 5 — look around without VR</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0897GCBWW?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="tobii-eye-tracker-5"><img src="/images/gear/flight/tobii-eye-tracker-5.jpg" alt="Tobii Eye Tracker 5 sensor bar" loading="lazy"></a><figcaption>Tobii Eye Tracker 5 — head tracking with nothing to wear</figcaption></figure>
 </div>
 
 ## The FlightSimExpo 2026 build ladders
