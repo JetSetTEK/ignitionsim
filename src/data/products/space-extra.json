@@ -222,6 +222,43 @@
     "platforms": "PC"
   },
   {
+    "id": "xbox-wireless-controller",
+    "bay": "space",
+    "type": "controller",
+    "brand": "Microsoft",
+    "model": "Xbox Wireless Controller - Carbon Black",
+    "price": 64.99,
+    "priceNote": "2026 US list price; frequent sales, verify the live exact-product price",
+    "image": "/images/article-proofs/space/complete-space-rigs-2026/xbox-wireless-controller-official.jpg",
+    "summary": "The honest controller-first space-sim recommendation for EVERSPACE 2 and No Man's Sky. Its native XInput layout, familiar twin sticks, triggers, D-pad and broad Windows support remove the binding tax that can make a HOTAS feel like work in an action-first game. It is also the lowest-risk way to prove a space-game habit before buying mounts, trackers and a cockpit full of USB devices.",
+    "specs": {
+      "connection": "Xbox Wireless, Bluetooth, or USB-C",
+      "platforms": "Xbox Series X|S, Xbox One, Windows 10/11, Android, and iOS",
+      "controls": "Twin analog sticks, hybrid D-pad, triggers, bumpers, and Share button",
+      "power": "Two AA batteries or compatible rechargeable pack",
+      "headset": "3.5 mm stereo headset jack",
+      "color": "Carbon Black"
+    },
+    "pros": [
+      "Native, low-friction control path for action-first space games",
+      "Useful across PC and Xbox even if the sim habit changes",
+      "Much cheaper than a HOTAS, mounts, and binding weekend"
+    ],
+    "cons": [
+      "Cannot match a true HOSAS for six-axis precision",
+      "AA batteries or a separate rechargeable pack add ownership friction",
+      "Fewer labeled secondary controls than a cockpit setup"
+    ],
+    "whoFor": "EVERSPACE 2 and No Man's Sky players, or any newcomer who should prove the habit before buying a flight-control ecosystem.",
+    "rating": { "overall": 9, "value": 10, "build": 8, "spaceFit": 8 },
+    "faqs": [
+      { "q": "Is a controller really better than HOTAS for EVERSPACE 2?", "a": "For many players, yes. EVERSPACE 2 supports HOTAS and HOSAS, but its fast action, menus and third-person flow are immediately comfortable on a gamepad. Test the free demo with your current hardware before spending more." },
+      { "q": "Does it work wirelessly on a Windows PC?", "a": "Yes, through Bluetooth or the optional Xbox Wireless Adapter; USB-C is the simplest wired path. Exact wireless features can vary by device and operating-system support." }
+    ],
+    "affiliate": { "primary": "Amazon", "note": "Exact Carbon Black controller ASIN verified; battery pack and USB-C cable contents vary by listing." },
+    "platforms": "Xbox and PC"
+  },
+  {
     "id": "thrustmaster-sol-r4-hotas",
     "bay": "space",
     "type": "hotas",

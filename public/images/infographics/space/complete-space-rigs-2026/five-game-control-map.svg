@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Five space simulator control map</title>
+  <desc id="desc">A decision map matching Star Citizen, Elite Dangerous, X4 Foundations, Everspace 2, and No Man's Sky with the controls each game actually rewards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#08131d"/>
+      <stop offset="0.48" stop-color="#102a3e"/>
+      <stop offset="1" stop-color="#25173c"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".34"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1450" cy="120" r="240" fill="#e45937" opacity=".15"/>
+  <circle cx="120" cy="820" r="270" fill="#27c9b8" opacity=".12"/>
+  <text x="72" y="88" fill="#ff7347" font-family="Arial, sans-serif" font-size="24" font-weight="800">IGNITIONSIM // CONTROL LANGUAGE</text>
+  <text x="72" y="146" fill="#fff" font-family="Arial, sans-serif" font-size="50" font-weight="900">Five games. Five honest rigs.</text>
+  <text x="72" y="190" fill="#b8c8d6" font-family="Arial, sans-serif" font-size="24">Buy for the movement model and session, not for the prettiest cockpit photo.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="248" width="280" height="480" rx="18" fill="#f8fbff"/>
+    <rect x="368" y="248" width="280" height="480" rx="18" fill="#fff8ef"/>
+    <rect x="664" y="248" width="280" height="480" rx="18" fill="#edfff9"/>
+    <rect x="960" y="248" width="280" height="480" rx="18" fill="#fff2f0"/>
+    <rect x="1256" y="248" width="272" height="480" rx="18" fill="#f7f1ff"/>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <text x="98" y="292" fill="#087da9" font-size="18" font-weight="800">COMBAT + INDUSTRY</text>
+    <text x="98" y="342" fill="#101820" font-size="34" font-weight="900">Star Citizen</text>
+    <text x="98" y="405" fill="#101820" font-size="27" font-weight="800">Dual-stick HOSAS</text>
+    <text x="98" y="450" fill="#425468" font-size="22">Pitch / yaw / roll</text>
+    <text x="98" y="482" fill="#425468" font-size="22">Forward / lateral / vertical</text>
+    <text x="98" y="514" fill="#425468" font-size="22">Head tracking + labeled binds</text>
+    <rect x="98" y="568" width="222" height="54" rx="27" fill="#087da9"/>
+    <text x="209" y="603" text-anchor="middle" fill="#fff" font-size="21" font-weight="900">BUY THE STICKS</text>
+    <text x="98" y="678" fill="#a83e2d" font-size="19" font-weight="800">SETUP TAX: HIGH</text>
+
+    <text x="394" y="292" fill="#d25c22" font-size="18" font-weight="800">LONG-HAUL COCKPIT</text>
+    <text x="394" y="342" fill="#101820" font-size="34" font-weight="900">Elite Dangerous</text>
+    <text x="394" y="405" fill="#101820" font-size="27" font-weight="800">Comfortable HOTAS</text>
+    <text x="394" y="450" fill="#5f4a3a" font-size="22">Throttle habit makes sense</text>
+    <text x="394" y="482" fill="#5f4a3a" font-size="22">Tracker beats more buttons</text>
+    <text x="394" y="514" fill="#5f4a3a" font-size="22">Mount for hours, not photos</text>
+    <rect x="394" y="568" width="222" height="54" rx="27" fill="#d25c22"/>
+    <text x="505" y="603" text-anchor="middle" fill="#fff" font-size="21" font-weight="900">BUY COMFORT</text>
+    <text x="394" y="678" fill="#8b5b24" font-size="19" font-weight="800">SETUP TAX: MEDIUM</text>
+
+    <text x="690" y="292" fill="#16856d" font-size="18" font-weight="800">FLY + RUN AN EMPIRE</text>
+    <text x="690" y="342" fill="#101820" font-size="34" font-weight="900">X4: Foundations</text>
+    <text x="690" y="405" fill="#101820" font-size="27" font-weight="800">HOTAS + mouse</text>
+    <text x="690" y="450" fill="#365d54" font-size="22">Stick for piloting</text>
+    <text x="690" y="482" fill="#365d54" font-size="22">Mouse for maps and fleets</text>
+    <text x="690" y="514" fill="#365d54" font-size="22">Keep both in easy reach</text>
+    <rect x="690" y="568" width="222" height="54" rx="27" fill="#16856d"/>
+    <text x="801" y="603" text-anchor="middle" fill="#fff" font-size="21" font-weight="900">BUILD HYBRID</text>
+    <text x="690" y="678" fill="#36735f" font-size="19" font-weight="800">SETUP TAX: MEDIUM</text>
+
+    <text x="986" y="292" fill="#c34245" font-size="18" font-weight="800">FAST ARCADE FLIGHT</text>
+    <text x="986" y="342" fill="#101820" font-size="34" font-weight="900">EVERSPACE 2</text>
+    <text x="986" y="405" fill="#101820" font-size="27" font-weight="800">Controller first</text>
+    <text x="986" y="450" fill="#684344" font-size="22">Gamepad is efficient</text>
+    <text x="986" y="482" fill="#684344" font-size="22">HOTAS/HOSAS is optional</text>
+    <text x="986" y="514" fill="#684344" font-size="22">Demo-test your exact gear</text>
+    <rect x="986" y="568" width="222" height="54" rx="27" fill="#c34245"/>
+    <text x="1097" y="603" text-anchor="middle" fill="#fff" font-size="21" font-weight="900">SAVE THE DESK</text>
+    <text x="986" y="678" fill="#a83e2d" font-size="19" font-weight="800">SETUP TAX: LOW</text>
+
+    <text x="1282" y="292" fill="#7746b7" font-size="18" font-weight="800">EXPLORE + BUILD</text>
+    <text x="1282" y="342" fill="#101820" font-size="34" font-weight="900">No Man's Sky</text>
+    <text x="1282" y="405" fill="#101820" font-size="27" font-weight="800">Controller / VR</text>
+    <text x="1282" y="450" fill="#5e4b75" font-size="22">No native HOTAS path</text>
+    <text x="1282" y="482" fill="#5e4b75" font-size="22">Workarounds emulate Xbox</text>
+    <text x="1282" y="514" fill="#5e4b75" font-size="22">Do not buy sticks for this</text>
+    <rect x="1282" y="568" width="214" height="54" rx="27" fill="#7746b7"/>
+    <text x="1389" y="603" text-anchor="middle" fill="#fff" font-size="21" font-weight="900">KEEP IT SIMPLE</text>
+    <text x="1282" y="678" fill="#7746b7" font-size="19" font-weight="800">SETUP TAX: LOW*</text>
+  </g>
+
+  <rect x="72" y="772" width="1456" height="70" rx="18" fill="#ffffff" opacity=".1"/>
+  <text x="800" y="816" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="800">One shared rule: mount the controls, power the USB tree, and keep your recovery profile off the game drive.</text>
+</svg>

@@ -259,12 +259,19 @@ const chatRecommendations = sortNewestArticles(certifiedArticles)
           } catch {}
         },
       };
+      document.querySelectorAll<HTMLAnchorElement>('a[href*="amazon.com/dp/"]').forEach((link) => {
+        link.target = '_blank';
+        link.rel = 'sponsored nofollow noopener';
+        link.dataset.buyLink = 'true';
+        link.dataset.event = 'buy_click';
+      });
       document.addEventListener('click', (e) => {
-        const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"], a[href^="/racing/"], a[href^="/golf/"], a[href^="/flight/"], a[href^="/space/"], a[href^="/marine/"], a[href^="/games"], a[href^="/build-stream"], a[href^="/guides"]') as HTMLElement | null;
+        const el = (e.target as HTMLElement).closest('[data-event], a[rel~="sponsored"], a[href*="amazon.com/dp/"], a[href^="/racing/"], a[href^="/golf/"], a[href^="/flight/"], a[href^="/space/"], a[href^="/marine/"], a[href^="/games"], a[href^="/build-stream"], a[href^="/guides"]') as HTMLElement | null;
         if (!el) return;
         const link = el instanceof HTMLAnchorElement ? el : (el.closest('a') || el.querySelector('a[href]'));
         const sponsored = !!(link && link.rel && link.rel.split(/\s+/).includes('sponsored'));
-        const eventName = el.dataset.event || (sponsored ? 'buy_click' : 'internal_recommendation_click');
+        const amazonProduct = !!(link && /amazon\.com\/dp\/[A-Z0-9]{10}/i.test(link.href));
+        const eventName = el.dataset.event || (sponsored || amazonProduct ? 'buy_click' : 'internal_recommendation_click');
         (window as any).ig.track(eventName, link ? {
           href: link.href,
           text: link.textContent?.trim().replace(/\s+/g, ' ').slice(0, 120),

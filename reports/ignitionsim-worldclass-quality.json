@@ -1,24 +1,24 @@
 {
   "summary": {
-    "generated": "2026-07-17T20:25:43.352Z",
+    "generated": "2026-07-20T18:10:23.239Z",
     "totals": {
-      "all": 123,
-      "certified": 91
+      "all": 124,
+      "certified": 92
     },
     "certified": {
-      "averageScore": 70.5,
-      "averageWords": 2324.4,
-      "averageSourceUrls": 10.5,
-      "averageUniqueImages": 8.6,
+      "averageScore": 70.9,
+      "averageWords": 2330.7,
+      "averageSourceUrls": 10.6,
+      "averageUniqueImages": 8.8,
       "averageHumanUseImages": 1.3,
       "averageCuratorScenes": 0.9,
-      "averageDiagrams": 1.6,
+      "averageDiagrams": 1.7,
       "gradeCounts": {
         "D": 49,
         "C": 19,
         "B": 2,
         "A": 2,
-        "A+": 19
+        "A+": 20
       },
       "revenueATriage": [
         "golf/home-golf-simulator-build-sheet-2026",
@@ -4872,6 +4872,40 @@
       "diagrams": 2,
       "amazonLinks": 1,
       "directAmazonLinks": 1,
+      "dimensions": {
+        "decisionDepth": 15,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 10,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": []
+    },
+    {
+      "id": "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026",
+      "title": "Best Space Sim Rigs for Star Citizen, Elite Dangerous, X4, Everspace 2, and No Man",
+      "bay": "space",
+      "author": "Val Chen",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 100,
+      "grade": "A+",
+      "words": 2903,
+      "sourceUrls": 18,
+      "imagePlacements": 24,
+      "uniqueImages": 24,
+      "imageUniqueness": 1,
+      "productImages": 17,
+      "humanUseImages": 5,
+      "curatorScenes": 4,
+      "diagrams": 2,
+      "amazonLinks": 7,
+      "directAmazonLinks": 7,
       "dimensions": {
         "decisionDepth": 15,
         "sourceEvidence": 15,

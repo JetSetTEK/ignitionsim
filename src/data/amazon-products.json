@@ -579,5 +579,12 @@
     "url": "https://www.amazon.com/dp/B01G6GT4A8?tag=ignitionsim-20",
     "verification": "Amazon.com detail page opened and product title matched manually",
     "verifiedAt": "2026-07-17"
+  },
+  "xbox-wireless-controller": {
+    "asin": "B08DF248LD",
+    "title": "Xbox Wireless Controller - Carbon Black",
+    "url": "https://www.amazon.com/dp/B08DF248LD?tag=ignitionsim-20",
+    "verification": "Exact Microsoft Carbon Black controller ASIN cross-checked against the official Microsoft product and Amazon detail-page references",
+    "verifiedAt": "2026-07-20"
   }
 }

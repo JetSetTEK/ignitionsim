@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1450" role="img" aria-labelledby="title desc">
+  <title id="title">Space simulator rig installation order for mobile</title>
+  <desc id="desc">Mobile installation sequence for a reliable space simulator rig.</desc>
+  <rect width="900" height="1450" fill="#112536"/>
+  <text x="52" y="70" fill="#31d2c0" font-family="Arial, sans-serif" font-size="22" font-weight="800">VAL'S WEEKEND-SAVER</text>
+  <text x="52" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="44" font-weight="900">Install in this order.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="52" y="190" width="796" height="190" rx="22" fill="#f8fbff"/>
+    <circle cx="142" cy="285" r="56" fill="#ff6a3d"/><text x="142" y="302" text-anchor="middle" fill="#fff" font-size="44" font-weight="900">1</text>
+    <text x="230" y="265" fill="#101820" font-size="32" font-weight="900">Seat + reach</text>
+    <text x="230" y="314" fill="#526375" font-size="24">Relax elbows. Keep the mouse close.</text>
+
+    <rect x="52" y="400" width="796" height="190" rx="22" fill="#fff8ef"/>
+    <circle cx="142" cy="495" r="56" fill="#e8a33f"/><text x="142" y="512" text-anchor="middle" fill="#101820" font-size="44" font-weight="900">2</text>
+    <text x="230" y="475" fill="#101820" font-size="32" font-weight="900">Mount controls</text>
+    <text x="230" y="524" fill="#625345" font-size="24">Stop desk slide and wrist bend.</text>
+
+    <rect x="52" y="610" width="796" height="190" rx="22" fill="#edfff9"/>
+    <circle cx="142" cy="705" r="56" fill="#31d2c0"/><text x="142" y="722" text-anchor="middle" fill="#102632" font-size="44" font-weight="900">3</text>
+    <text x="230" y="685" fill="#101820" font-size="32" font-weight="900">Power the USB tree</text>
+    <text x="230" y="734" fill="#365d54" font-size="24">Powered hub. Label every port.</text>
+
+    <rect x="52" y="820" width="796" height="190" rx="22" fill="#eef8ff"/>
+    <circle cx="142" cy="915" r="56" fill="#51a8ef"/><text x="142" y="932" text-anchor="middle" fill="#fff" font-size="44" font-weight="900">4</text>
+    <text x="230" y="895" fill="#101820" font-size="32" font-weight="900">Drivers + firmware</text>
+    <text x="230" y="944" fill="#425468" font-size="24">Test every axis outside the game.</text>
+
+    <rect x="52" y="1030" width="796" height="190" rx="22" fill="#f7f1ff"/>
+    <circle cx="142" cy="1125" r="56" fill="#8c62db"/><text x="142" y="1142" text-anchor="middle" fill="#fff" font-size="44" font-weight="900">5</text>
+    <text x="230" y="1105" fill="#101820" font-size="32" font-weight="900">Bind + export</text>
+    <text x="230" y="1154" fill="#5e4b75" font-size="24">Add layers. Save a recovery copy.</text>
+  </g>
+  <rect x="52" y="1260" width="796" height="126" rx="20" fill="#1c3a50"/>
+  <text x="450" y="1312" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="800">First flight is a calibration lap.</text>
+  <text x="450" y="1350" text-anchor="middle" fill="#c8d5df" font-family="Arial, sans-serif" font-size="21">Add accessories only after the axes behave.</text>
+</svg>

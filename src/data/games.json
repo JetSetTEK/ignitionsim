@@ -224,6 +224,7 @@
     "hardwareThatMatters": "Dual sticks or HOSAS, mounts, head tracking, button layers, and a binding plan you can remember under pressure.",
     "watchTheTrap": "A gorgeous dual-stick setup without mounts and bindings becomes expensive desk clutter.",
     "guideIds": [
+      "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026",
       "racing/top-simulator-creators-rigs-2026",
       "space/star-citizen-review-2026",
       "space/star-citizen-mining-salvage-control-deck-2026",
@@ -243,11 +244,54 @@
     "hardwareThatMatters": "HOTAS or HOSAS, comfortable mounts, head tracking, and enough buttons for menus without keyboard fishing.",
     "watchTheTrap": "Comfort beats maximal controls. A painful mount position ruins deep-space sessions.",
     "guideIds": [
+      "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026",
       "space/thrustmaster-sol-r2-vs-sol-r4-hosas-hotas-2026",
       "space/star-citizen-hosas-buyer-map-2026",
       "space/star-citizen-hosas-upgrade-path-2026"
     ],
     "officialUrl": "https://www.elitedangerous.com/"
+  },
+  {
+    "slug": "x4-foundations",
+    "name": "X4: Foundations",
+    "bay": "space",
+    "type": "space simulation and empire management",
+    "signal": "The hybrid cockpit-and-command-desk test.",
+    "bestFor": "Pilots who want first-person flight, station building, trade, fleet command, and an empire map on the same desk.",
+    "hardwareThatMatters": "A comfortable HOTAS or stick with the mouse and keyboard still easy to reach, plus a saved device-order profile.",
+    "watchTheTrap": "Do not trap the mouse behind cockpit hardware. X4 spends enough time in maps and management that a sealed flight station can become less usable.",
+    "guideIds": [
+      "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026"
+    ],
+    "officialUrl": "https://www.egosoft.com/games/x4/info_en.php"
+  },
+  {
+    "slug": "everspace-2",
+    "name": "EVERSPACE 2",
+    "bay": "space",
+    "type": "action space RPG",
+    "signal": "The controller-versus-cockpit reality check.",
+    "bestFor": "Players who want fast third-person space combat, exploration, loot, and a polished action-game rhythm.",
+    "hardwareThatMatters": "A good controller first; HOTAS or HOSAS only after the free demo proves the extra setup improves your play.",
+    "watchTheTrap": "Official HOTAS support does not mean expensive flight controls are automatically the best input for this action-first game.",
+    "guideIds": [
+      "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026"
+    ],
+    "officialUrl": "https://everspace-game.com/"
+  },
+  {
+    "slug": "no-mans-sky",
+    "name": "No Man's Sky",
+    "bay": "space",
+    "type": "space exploration game",
+    "signal": "The frontier that does not need a HOTAS tax.",
+    "bestFor": "Explorers who want planets, base building, discovery, a relaxed controller path, or a highly embodied VR world.",
+    "hardwareThatMatters": "Xbox-style controller for monitor play or VR controllers and a capable PC for the headset path.",
+    "watchTheTrap": "Community HOTAS workarounds are for reusing controls you own, not a clean reason to buy a new flight-control ecosystem.",
+    "guideIds": [
+      "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026"
+    ],
+    "officialUrl": "https://www.nomanssky.com/"
   },
   {
     "slug": "sailaway",
