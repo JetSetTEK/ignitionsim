@@ -41,6 +41,14 @@ complete stack:
 - Exact direct Amazon product pages only, using verified ASINs and
   `tag=ignitionsim-20`. Platform variants and seller/return-window cautions are
   named where they materially affect the buy.
+- Amazon or approved-affiliate availability is an editorial selection gate, not
+  a post-draft link task. Before committing to a commercial topic, comparison,
+  ranking, or recommended build, verify that every product intended as a
+  purchase recommendation has an exact active Amazon detail page. A
+  non-Amazon seller qualifies only after its affiliate relationship is
+  confirmed active and its tracking format is configured in the site. Products
+  without a monetizable direct destination may appear only as necessary
+  technical context, not as the primary ranked recommendation.
 - A wide product-first editorial cover, deliberate homepage discovery, bay,
   guide index, Sim Stream, curator page, related guides, and a game/universe
   hub entry whenever the article serves a particular game.

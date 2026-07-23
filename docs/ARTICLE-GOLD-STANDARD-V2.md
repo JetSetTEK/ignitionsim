@@ -120,6 +120,12 @@ Every article follows four verbs:
 
 ### Commerce and publishing floor
 
+- Commercial topic selection begins with a monetization check. Every primary
+  ranked or recommended product needs a verified exact Amazon ASIN unless an
+  alternate seller's affiliate program is confirmed active and configured in
+  the site. Direct-only or unavailable products may remain as necessary
+  technical context, but they do not displace an equally useful monetizable
+  recommendation.
 - Amazon CTAs use the exact product URL:
   `https://www.amazon.com/dp/ASIN?tag=ignitionsim-20`.
 - A source link is labeled as evidence. It is not disguised as a buy button.
@@ -207,8 +213,9 @@ Use `docs/SOURCE-LEXICON-IGNITIONSIM.md` and `docs/REAL-PHOTOS.md`.
 
 ### Pass E: commerce verification
 
-Open every CTA. Confirm model, edition/generation, platform, bundle, region,
-and ASIN. Null stale prices unless an approved live feed supplies them. Run
+Confirm the monetizable destination before drafting, then open every CTA.
+Confirm model, edition/generation, platform, bundle, region, and ASIN. Null
+stale prices unless an approved live feed supplies them. Run
 `npm run audit:commerce`; a monetized link to a manufacturer or specialty store
 is a release failure, not a harmless fallback.
 
