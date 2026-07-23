@@ -1,24 +1,24 @@
 {
   "summary": {
-    "generated": "2026-07-20T18:10:23.239Z",
+    "generated": "2026-07-23T23:12:09.446Z",
     "totals": {
       "all": 124,
-      "certified": 92
+      "certified": 93
     },
     "certified": {
-      "averageScore": 70.9,
-      "averageWords": 2330.7,
-      "averageSourceUrls": 10.6,
-      "averageUniqueImages": 8.8,
-      "averageHumanUseImages": 1.3,
-      "averageCuratorScenes": 0.9,
+      "averageScore": 71.2,
+      "averageWords": 2339.1,
+      "averageSourceUrls": 10.7,
+      "averageUniqueImages": 9,
+      "averageHumanUseImages": 1.4,
+      "averageCuratorScenes": 1,
       "averageDiagrams": 1.7,
       "gradeCounts": {
         "D": 49,
         "C": 19,
         "B": 2,
         "A": 2,
-        "A+": 20
+        "A+": 21
       },
       "revenueATriage": [
         "golf/home-golf-simulator-build-sheet-2026",
@@ -2988,44 +2988,6 @@
       ]
     },
     {
-      "id": "golf/best-golf-simulator-software",
-      "title": "Best Golf Simulator Software 2026: GSPro vs E6 Connect vs TGC 2019 vs FSX Play vs Awesome Golf",
-      "bay": "golf",
-      "author": "Nina Brooks",
-      "status": "refresh",
-      "revenueTier": "B",
-      "score": 66,
-      "grade": "D",
-      "words": 2497,
-      "sourceUrls": 9,
-      "imagePlacements": 5,
-      "uniqueImages": 5,
-      "imageUniqueness": 1,
-      "productImages": 2,
-      "humanUseImages": 0,
-      "curatorScenes": 0,
-      "diagrams": 3,
-      "amazonLinks": 2,
-      "directAmazonLinks": 2,
-      "dimensions": {
-        "decisionDepth": 15,
-        "sourceEvidence": 13.5,
-        "imageBreadth": 4.2,
-        "imageUniqueness": 10,
-        "productProof": 3.3,
-        "humanUseProof": 0,
-        "curatorAction": 0,
-        "practicalDiagrams": 8,
-        "answerStructure": 7,
-        "commerceIntegrity": 5
-      },
-      "gaps": [
-        "unique images",
-        "real use/install proof",
-        "four distinct curator actions"
-      ]
-    },
-    {
       "id": "golf/gspro-review-2026",
       "title": "GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around?",
       "bay": "golf",
@@ -4872,6 +4834,40 @@
       "diagrams": 2,
       "amazonLinks": 1,
       "directAmazonLinks": 1,
+      "dimensions": {
+        "decisionDepth": 15,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 10,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": []
+    },
+    {
+      "id": "golf/best-golf-simulator-software",
+      "title": "Best Golf Simulator Software 2026: GSPro vs E6 vs Awesome Golf",
+      "bay": "golf",
+      "author": "Nina Brooks",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 100,
+      "grade": "A+",
+      "words": 3114,
+      "sourceUrls": 18,
+      "imagePlacements": 32,
+      "uniqueImages": 32,
+      "imageUniqueness": 1,
+      "productImages": 23,
+      "humanUseImages": 3,
+      "curatorScenes": 6,
+      "diagrams": 4,
+      "amazonLinks": 5,
+      "directAmazonLinks": 5,
       "dimensions": {
         "decisionDepth": 15,
         "sourceEvidence": 15,

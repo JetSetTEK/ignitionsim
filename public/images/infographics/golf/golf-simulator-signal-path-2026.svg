@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Golf simulator signal path troubleshooting map</title>
+  <desc id="desc">A verified troubleshooting order from golf shot to launch monitor, network or USB link, license connector, simulator software, graphics computer, and projector.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12263d"/>
+      <stop offset=".56" stop-color="#172b35"/>
+      <stop offset="1" stop-color="#30243a"/>
+    </linearGradient>
+    <filter id="s2" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#050b12" flood-opacity=".36"/>
+    </filter>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 Z" fill="#6de4c5"/>
+    </marker>
+  </defs>
+  <rect width="1600" height="1040" rx="48" fill="url(#bg2)"/>
+  <path d="M0 720 C310 600 490 840 810 710 C1110 590 1300 705 1600 560 L1600 1040 L0 1040 Z" fill="#0c171f" opacity=".55"/>
+
+  <text x="88" y="94" fill="#80dcff" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="800">IGNITIONSIM COMMISSIONING MAP · VERIFIED JULY 24, 2026</text>
+  <text x="88" y="158" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="52" font-weight="900">When the ball flies but the screen does not.</text>
+  <text x="88" y="204" fill="#c4d3dd" font-family="Inter,Arial,sans-serif" font-size="25">Test the signal chain in this order. Reinstalling everything first only destroys useful clues.</text>
+
+  <g filter="url(#s2)" font-family="Inter,Arial,sans-serif">
+    <rect x="72" y="300" width="192" height="220" rx="24" fill="#f4fbf9"/>
+    <rect x="302" y="300" width="192" height="220" rx="24" fill="#f4fbf9"/>
+    <rect x="532" y="300" width="192" height="220" rx="24" fill="#fff9e8"/>
+    <rect x="762" y="300" width="192" height="220" rx="24" fill="#fff1f1"/>
+    <rect x="992" y="300" width="192" height="220" rx="24" fill="#f4f0ff"/>
+    <rect x="1222" y="300" width="192" height="220" rx="24" fill="#edf6ff"/>
+    <rect x="1452" y="300" width="76" height="220" rx="24" fill="#edfff9"/>
+  </g>
+
+  <g stroke="#6de4c5" stroke-width="7" fill="none" marker-end="url(#arrow)">
+    <path d="M264 410 H292"/>
+    <path d="M494 410 H522"/>
+    <path d="M724 410 H752"/>
+    <path d="M954 410 H982"/>
+    <path d="M1184 410 H1212"/>
+    <path d="M1414 410 H1442"/>
+  </g>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <circle cx="108" cy="338" r="20" fill="#23caa0"/><text x="101" y="346" fill="#06261f" font-size="20" font-weight="900">1</text>
+    <text x="96" y="392" fill="#15332e" font-size="24" font-weight="900">SHOT</text>
+    <text x="96" y="430" fill="#49615c" font-size="15">Ball position</text><text x="96" y="458" fill="#49615c" font-size="15">Dots / RCT ball</text><text x="96" y="486" fill="#49615c" font-size="15">Lighting</text>
+
+    <circle cx="338" cy="338" r="20" fill="#23caa0"/><text x="331" y="346" fill="#06261f" font-size="20" font-weight="900">2</text>
+    <text x="326" y="392" fill="#15332e" font-size="24" font-weight="900">MONITOR</text>
+    <text x="326" y="430" fill="#49615c" font-size="15">Level + aligned</text><text x="326" y="458" fill="#49615c" font-size="15">Firmware current</text><text x="326" y="486" fill="#49615c" font-size="15">Native app sees it</text>
+
+    <circle cx="568" cy="338" r="20" fill="#ffb22c"/><text x="561" y="346" fill="#452900" font-size="20" font-weight="900">3</text>
+    <text x="556" y="392" fill="#573711" font-size="24" font-weight="900">LINK</text>
+    <text x="556" y="430" fill="#645443" font-size="15">Ethernet first</text><text x="556" y="458" fill="#645443" font-size="15">USB power stable</text><text x="556" y="486" fill="#645443" font-size="15">No guest Wi-Fi</text>
+
+    <circle cx="798" cy="338" r="20" fill="#ff6868"/><text x="791" y="346" fill="#4a0808" font-size="20" font-weight="900">4</text>
+    <text x="786" y="392" fill="#611919" font-size="24" font-weight="900">LICENSE</text>
+    <text x="786" y="430" fill="#715050" font-size="15">Plan active</text><text x="786" y="458" fill="#715050" font-size="15">Connector open</text><text x="786" y="486" fill="#715050" font-size="15">Correct device type</text>
+
+    <circle cx="1028" cy="338" r="20" fill="#9f75f2"/><text x="1021" y="346" fill="#281050" font-size="20" font-weight="900">5</text>
+    <text x="1016" y="392" fill="#382765" font-size="24" font-weight="900">SOFTWARE</text>
+    <text x="1016" y="430" fill="#584e69" font-size="15">Range test first</text><text x="1016" y="458" fill="#584e69" font-size="15">Right API / port</text><text x="1016" y="486" fill="#584e69" font-size="15">Firewall exception</text>
+
+    <circle cx="1258" cy="338" r="20" fill="#64aaf4"/><text x="1251" y="346" fill="#082d53" font-size="20" font-weight="900">6</text>
+    <text x="1246" y="392" fill="#163e6c" font-size="24" font-weight="900">PC</text>
+    <text x="1246" y="430" fill="#465c74" font-size="15">GPU driver</text><text x="1246" y="458" fill="#465c74" font-size="15">Native resolution</text><text x="1246" y="486" fill="#465c74" font-size="15">No thermal throttle</text>
+
+    <circle cx="1487" cy="338" r="20" fill="#55dfb7"/><text x="1480" y="346" fill="#082d24" font-size="20" font-weight="900">7</text>
+    <text x="1478" y="392" fill="#15332e" font-size="18" font-weight="900" transform="rotate(90 1478 392)">DISPLAY</text>
+  </g>
+
+  <g font-family="Inter,Arial,sans-serif" filter="url(#s2)">
+    <rect x="82" y="612" width="456" height="252" rx="26" fill="#f8fbff"/>
+    <text x="116" y="662" fill="#154a70" font-size="19" font-weight="850">FASTEST ISOLATION TEST</text>
+    <text x="116" y="706" fill="#152534" font-size="22" font-weight="900">Can the launch monitor's</text>
+    <text x="116" y="736" fill="#152534" font-size="22" font-weight="900">native app see a shot before</text>
+    <text x="116" y="766" fill="#152534" font-size="22" font-weight="900">the simulator software?</text>
+    <text x="116" y="808" fill="#4d6071" font-size="16">No: fix placement, firmware, power, or network.</text>
+    <text x="116" y="836" fill="#4d6071" font-size="16">Yes: move to connector, license, and game.</text>
+
+    <rect x="572" y="612" width="456" height="252" rx="26" fill="#fff9ed"/>
+    <text x="606" y="662" fill="#70480f" font-size="19" font-weight="850">MOST COMMON HOST-NIGHT FAILURE</text>
+    <text x="606" y="706" fill="#332309" font-size="22" font-weight="900">A beautiful room should not</text>
+    <text x="606" y="736" fill="#332309" font-size="22" font-weight="900">depend on one fragile Wi-Fi hop</text>
+    <text x="606" y="766" fill="#332309" font-size="22" font-weight="900">or an expired license.</text>
+    <text x="606" y="808" fill="#66563b" font-size="16">Wire the PC when possible. Save credentials.</text>
+    <text x="606" y="836" fill="#66563b" font-size="16">Cold-start the entire room before guests arrive.</text>
+
+    <rect x="1062" y="612" width="456" height="252" rx="26" fill="#f5f0ff"/>
+    <text x="1096" y="662" fill="#513185" font-size="19" font-weight="850">NINA'S 12-MINUTE RECOVERY ORDER</text>
+    <text x="1096" y="706" fill="#2d2045" font-size="22" font-weight="900">Native range → physical link</text>
+    <text x="1096" y="736" fill="#2d2045" font-size="22" font-weight="900">→ license → connector → game</text>
+    <text x="1096" y="766" fill="#2d2045" font-size="22" font-weight="900">→ graphics → projector.</text>
+    <text x="1096" y="808" fill="#5b526a" font-size="16">Change one variable at a time. Record the fix.</text>
+    <text x="1096" y="836" fill="#5b526a" font-size="16">Future-you is who this checklist is for.</text>
+  </g>
+
+  <text x="88" y="936" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="850">Build reliability is a feature. The room is not finished until it cold-starts twice without you touching the router.</text>
+  <text x="88" y="980" fill="#abc0cc" font-family="Inter,Arial,sans-serif" font-size="19">General diagnostic order; follow the exact official instructions for your launch monitor and software.</text>
+  <text x="1390" y="980" fill="#80dcff" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="800">IGNITIONSIM</text>
+</svg>

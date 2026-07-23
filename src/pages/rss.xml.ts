@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { articleMeta, articleSlug, isCertifiedArticle, sortNewestArticles } from '../lib/content';
+import { articleMeta, articleSlug, isCertifiedArticle } from '../lib/content';
 
 const SITE = 'https://ignitionsim.com';
 const escapeXml = (value = '') => value
@@ -11,10 +11,17 @@ const escapeXml = (value = '') => value
   .replaceAll("'", '&apos;');
 
 export const GET: APIRoute = async () => {
-  const articles = sortNewestArticles(await getCollection('articles', ({ data }) => isCertifiedArticle(data))).slice(0, 60);
+  const articles = (await getCollection('articles', ({ data }) => isCertifiedArticle(data)))
+    .sort((a, b) => {
+      const bDate = b.data.updatedDate || b.data.publishDate;
+      const aDate = a.data.updatedDate || a.data.publishDate;
+      return +new Date(bDate) - +new Date(aDate);
+    })
+    .slice(0, 60);
   const items = articles.map((entry) => {
     const data = entry.data;
     const url = `${SITE}/${data.bay}/${articleSlug(entry)}/`;
+    const feedDate = data.updatedDate || data.publishDate;
     return [
       '    <item>',
       `      <title>${escapeXml(data.title)}</title>`,
@@ -22,7 +29,7 @@ export const GET: APIRoute = async () => {
       `      <guid isPermaLink="true">${escapeXml(url)}</guid>`,
       `      <dc:creator>Robert Pruitt</dc:creator>`,
       `      <category>${escapeXml(data.bay)}</category>`,
-      `      <pubDate>${new Date(data.publishDate).toUTCString()}</pubDate>`,
+      `      <pubDate>${new Date(feedDate).toUTCString()}</pubDate>`,
       `      <description>${escapeXml(`${data.excerpt || data.description} ${articleMeta(data)}`)}</description>`,
       '    </item>',
     ].join('\n');

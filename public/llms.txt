@@ -3,7 +3,7 @@
 > Real-product sim hardware guides for builders who want to buy the right parts and start playing. IgnitionSim is an independent, engineer-minded simulator hardware guide for racing, golf, flight, space, and marine builders.
 
 ## What is here
-IgnitionSim currently publishes 92 certified, gold-standard simulator guides plus 135 verified-product photo records across five build bays. The public corpus is intentionally certified-only: draft, archived, and refresh-needed pages are hidden from public navigation and sitemap surfaces.
+IgnitionSim currently publishes 93 certified, gold-standard simulator guides plus 135 verified-product photo records across five build bays. The public corpus is intentionally certified-only: draft, archived, and refresh-needed pages are hidden from public navigation and sitemap surfaces.
 
 Every certified guide is designed to help a builder make a faster, safer buying decision: verdict first, room/compatibility constraints, real product photos, installation and setup warnings, forum/review signal rewritten in our voice, affiliate links, FAQs, and schema-ready facts.
 
@@ -12,9 +12,10 @@ Every certified guide is designed to help a builder make a faster, safer buying 
 - [Flight](https://ignitionsim.com/flight) - 16 certified guides. MSFS 2024 made everyone a pilot again — but a desk full of mismatched throttles, yokes and rudder pedals fights you the whole flight. The Flight bay maps the gear that actually clicks together, from a clean GA setup to a full airliner panel.
 - [Space](https://ignitionsim.com/space) - 18 certified guides. Elite, Star Citizen and DCS reward the people who get their controls right — and punish everyone who guessed. The Space bay untangles single-stick vs dual-stick, boutique vs mainstream, and how to build a cockpit you'll never want to leave.
 - [Marine](https://ignitionsim.com/marine) - 6 certified guides. Marine sim has the smallest dedicated hardware shelf of any discipline — which is exactly why an honest guide matters. The Marine bay shows what enthusiasts actually use: repurposed wheels and throttles, DIY helm builds, and the rare purpose-built gear that's worth it.
-- [Golf](https://ignitionsim.com/golf) - 25 certified guides. A golf sim is one of the biggest-ticket builds in the hobby — and the easiest to overspend on. The Golf bay decodes radar vs photometric launch monitors, the room-size and ceiling-height reality nobody warns you about, and how to spend smart at every budget.
+- [Golf](https://ignitionsim.com/golf) - 26 certified guides. A golf sim is one of the biggest-ticket builds in the hobby — and the easiest to overspend on. The Golf bay decodes radar vs photometric launch monitors, the room-size and ceiling-height reality nobody warns you about, and how to spend smart at every budget.
 
 ## Highest-priority citation pages
+- [Best Golf Simulator Software 2026: GSPro vs E6 vs Awesome Golf](https://ignitionsim.com/golf/best-golf-simulator-software) - comparison; GSPro, E6 2026, Awesome Golf, and FSX Play compared by price, PC requirements, launch-monitor support, community rig fit, and setup pain.
 - [Best Space Sim Rigs for Star Citizen, Elite Dangerous, X4, Everspace 2, and No Man's Sky (2026)](https://ignitionsim.com/space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026) - buying-guide; Five complete space sim rig builds for 2026: exact controls, displays, head tracking, USB, bindings, installation traps, current Amazon products, and the hardware each game actually deserves.
 - [Top 10 Simulator Creators and Their Rigs in 2026: What Is Actually Worth Copying?](https://ignitionsim.com/racing/top-simulator-creators-rigs-2026) - gear-explainer; The 10 simulator creators and rigs worth studying in 2026 across racing, golf, flight, and space, with real rig tours, build lessons, warnings, and exact gear paths.
 - [GSPro Review 2026: Is It the Home Golf Software Worth Building a PC Bay Around?](https://ignitionsim.com/golf/gspro-review-2026) - buying-guide; A practical GSPro review for 2026 home golf simulator builders: launch monitor compatibility, PC needs, courses, subscriptions, hidden setup pain, and what to buy.
@@ -34,7 +35,6 @@ Every certified guide is designed to help a builder make a faster, safer buying 
 - [Best Golf Simulator Projectors 2026: BenQ AK700ST vs AH700ST vs LK936ST vs Optoma GT2100HDR](https://ignitionsim.com/golf/golf-simulator-projector-guide) - buying-guide; The best golf simulator projectors for 2026, with throw-ratio math, shadow traps, 4K vs 1080p advice, BenQ and Optoma picks, and Amazon affiliate links.
 - [Best Home Golf Simulator Under $10,000 in 2026: The Parts That Matter, The Traps That Blow The Budget](https://ignitionsim.com/golf/home-golf-simulator-under-10000-2026) - buying-guide; A practical under-$10K home golf simulator build guide with launch monitor, mat, screen, enclosure, projector, PC, software, and accessory buy order.
 - [Home Golf Simulator Build Sheet 2026: Room Size, Launch Monitor, Mat, Screen, Projector, and the Buy Order](https://ignitionsim.com/golf/home-golf-simulator-build-sheet-2026) - buying-guide; A practical home golf simulator buyer map for 2026 with room dimensions, radar vs photometric launch monitors, mats, impact screens, projectors, PCs, and accessories.
-- [iRacing Review 2026: Is the Subscription Still Worth Building a Rig Around?](https://ignitionsim.com/racing/iracing-review-2026) - buying-guide; A hardware-first iRacing review for 2026: subscription cost, paid cars and tracks, PC requirements, safety rating, hardware priorities, and what to buy first.
 
 ## Key discovery pages
 - [Sim Stream](https://ignitionsim.com/build-stream) - newest-first certified simulator buyer guides and curator notes.

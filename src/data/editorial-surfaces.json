@@ -154,6 +154,31 @@
     ],
     "nina-brooks": [
       {
+        "image": "/images/curator-scenes/golf-software-2026/nina-league-night.webp",
+        "alt": "AI editorial scene of Nina Brooks finishing a golf shot while three friends react during a home simulator league night",
+        "task": "Making the room earn a second tee time",
+        "guideId": "golf/best-golf-simulator-software",
+        "quote": "Software wins when the room disappears and the next player reaches for a club without asking what to click.",
+        "note": "Nina judges simulator software by the whole ownership loop: room fit, first-shot reliability, practice value, and whether a mixed group wants another round.",
+        "steps": [
+          "Choose the software personality before shopping launch monitors.",
+          "Commission the native range and physical connection before adding third-party layers.",
+          "Cold-start the room twice before calling it ready for guests."
+        ]
+      },
+      {
+        "image": "/images/curator-scenes/golf-software-2026/nina-network-commissioning.webp",
+        "alt": "AI editorial scene of Nina Brooks labeling Ethernet USB and power paths beside a golf simulator PC",
+        "task": "Commissioning the invisible half of the golf bay",
+        "guideId": "golf/best-golf-simulator-software"
+      },
+      {
+        "image": "/images/curator-scenes/golf-software-2026/nina-connector-recovery.webp",
+        "alt": "AI editorial overhead scene of Nina Brooks tracing a golf simulator connector problem across cables and a laptop",
+        "task": "Finding the failed link without reinstalling the whole room",
+        "guideId": "golf/best-golf-simulator-software"
+      },
+      {
         "image": "/images/curator-scenes/influencer-rigs-2026/nina-room-geometry-audit.webp",
         "alt": "AI editorial scene of Nina Brooks measuring projector throw swing clearance and launch monitor placement around a moving golfer",
         "task": "Measuring the creator room around the moving golfer",

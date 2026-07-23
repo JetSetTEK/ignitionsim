@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="2440" viewBox="0 0 900 2440" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile golf simulator signal path troubleshooting map</title>
+  <desc id="desc">A mobile-readable troubleshooting order from the golf shot through the monitor, physical link, license, software, PC, and display.</desc>
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12263d"/>
+      <stop offset=".58" stop-color="#172b35"/>
+      <stop offset="1" stop-color="#30243a"/>
+    </linearGradient>
+    <marker id="down" markerWidth="12" markerHeight="12" refX="6" refY="10" orient="auto">
+      <path d="M0,0 L12,0 L6,12 Z" fill="#6de4c5"/>
+    </marker>
+  </defs>
+  <rect width="900" height="2440" rx="42" fill="url(#sbg)"/>
+  <text x="58" y="78" fill="#80dcff" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800">IGNITIONSIM · VERIFIED JULY 24, 2026</text>
+  <text x="58" y="140" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="45" font-weight="900">The ball flew.</text>
+  <text x="58" y="192" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="45" font-weight="900">Why did the screen not?</text>
+  <text x="58" y="244" fill="#c4d3dd" font-family="Inter,Arial,sans-serif" font-size="24">Test one link at a time. Preserve the clues.</text>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <rect x="78" y="318" width="744" height="190" rx="26" fill="#f4fbf9"/>
+    <circle cx="130" cy="372" r="26" fill="#23caa0"/><text x="122" y="382" fill="#06261f" font-size="27" font-weight="900">1</text>
+    <text x="178" y="383" fill="#15332e" font-size="34" font-weight="900">SHOT</text>
+    <text x="178" y="434" fill="#49615c" font-size="23">Ball position · dots / RCT ball · lighting</text>
+
+    <path d="M450 520 V568" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="586" width="744" height="190" rx="26" fill="#f4fbf9"/>
+    <circle cx="130" cy="640" r="26" fill="#23caa0"/><text x="122" y="650" fill="#06261f" font-size="27" font-weight="900">2</text>
+    <text x="178" y="651" fill="#15332e" font-size="34" font-weight="900">LAUNCH MONITOR</text>
+    <text x="178" y="702" fill="#49615c" font-size="23">Level + aligned · firmware current · native app reads</text>
+
+    <path d="M450 788 V836" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="854" width="744" height="190" rx="26" fill="#fff9e8"/>
+    <circle cx="130" cy="908" r="26" fill="#ffb22c"/><text x="122" y="918" fill="#452900" font-size="27" font-weight="900">3</text>
+    <text x="178" y="919" fill="#573711" font-size="34" font-weight="900">PHYSICAL LINK</text>
+    <text x="178" y="970" fill="#645443" font-size="23">Ethernet first · stable USB power · no guest Wi-Fi</text>
+
+    <path d="M450 1056 V1104" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="1122" width="744" height="190" rx="26" fill="#fff1f1"/>
+    <circle cx="130" cy="1176" r="26" fill="#ff6868"/><text x="122" y="1186" fill="#4a0808" font-size="27" font-weight="900">4</text>
+    <text x="178" y="1187" fill="#611919" font-size="34" font-weight="900">LICENSE + CONNECTOR</text>
+    <text x="178" y="1238" fill="#715050" font-size="23">Plan active · connector open · correct device type</text>
+
+    <path d="M450 1324 V1372" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="1390" width="744" height="190" rx="26" fill="#f4f0ff"/>
+    <circle cx="130" cy="1444" r="26" fill="#9f75f2"/><text x="122" y="1454" fill="#281050" font-size="27" font-weight="900">5</text>
+    <text x="178" y="1455" fill="#382765" font-size="34" font-weight="900">SIM SOFTWARE</text>
+    <text x="178" y="1506" fill="#584e69" font-size="23">Range first · correct API / port · firewall exception</text>
+
+    <path d="M450 1592 V1640" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="1658" width="744" height="190" rx="26" fill="#edf6ff"/>
+    <circle cx="130" cy="1712" r="26" fill="#64aaf4"/><text x="122" y="1722" fill="#082d53" font-size="27" font-weight="900">6</text>
+    <text x="178" y="1723" fill="#163e6c" font-size="34" font-weight="900">PC + GRAPHICS</text>
+    <text x="178" y="1774" fill="#465c74" font-size="23">GPU driver · native resolution · no thermal throttle</text>
+
+    <path d="M450 1860 V1908" stroke="#6de4c5" stroke-width="7" marker-end="url(#down)"/>
+    <rect x="78" y="1926" width="744" height="190" rx="26" fill="#edfff9"/>
+    <circle cx="130" cy="1980" r="26" fill="#55dfb7"/><text x="122" y="1990" fill="#082d24" font-size="27" font-weight="900">7</text>
+    <text x="178" y="1991" fill="#15332e" font-size="34" font-weight="900">PROJECTOR / DISPLAY</text>
+    <text x="178" y="2042" fill="#49615c" font-size="23">Input · cable · resolution · blanking · power state</text>
+  </g>
+
+  <rect x="58" y="2170" width="784" height="158" rx="24" fill="#f8fbff"/>
+  <text x="92" y="2218" fill="#154a70" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="850">FASTEST ISOLATION TEST</text>
+  <text x="92" y="2262" fill="#152534" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="900">Can the native app read a shot?</text>
+  <text x="92" y="2300" fill="#4d6071" font-family="Inter,Arial,sans-serif" font-size="20">No: fix steps 1–3. Yes: move to steps 4–7.</text>
+
+  <text x="58" y="2384" fill="#c4d3dd" font-family="Inter,Arial,sans-serif" font-size="19">Cold-start the whole room twice before host night.</text>
+  <text x="708" y="2384" fill="#80dcff" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="800">IGNITIONSIM</text>
+</svg>

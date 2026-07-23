@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">2026 golf simulator software decision map</title>
+  <desc id="desc">A decision map comparing GSPro, E6 by TruGolf, Awesome Golf, and FSX Play by player type, hardware requirements, price, and main caveat.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081d23"/>
+      <stop offset=".55" stop-color="#123c3a"/>
+      <stop offset="1" stop-color="#162238"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#020b0e" flood-opacity=".34"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1040" rx="48" fill="url(#bg)"/>
+  <path d="M0 834 C320 726 528 942 828 830 C1104 726 1312 818 1600 690 L1600 1040 L0 1040 Z" fill="#0b171b" opacity=".58"/>
+  <circle cx="1450" cy="98" r="164" fill="#ff6b35" opacity=".12"/>
+  <circle cx="136" cy="904" r="220" fill="#3fe0b8" opacity=".09"/>
+
+  <text x="88" y="94" fill="#8df7dd" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="800">IGNITIONSIM VERIFIED DECISION MAP · JULY 24, 2026</text>
+  <text x="88" y="158" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="52" font-weight="900">Pick the software that fits the room you will actually use.</text>
+  <text x="88" y="204" fill="#c5d5d8" font-family="Inter,Arial,sans-serif" font-size="25">The “best” platform changes when the priority is league play, practice, family fun, or a Foresight-only bay.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="82" y="262" width="342" height="602" rx="28" fill="#f8fbfa"/>
+    <rect x="448" y="262" width="342" height="602" rx="28" fill="#fff9ed"/>
+    <rect x="814" y="262" width="342" height="602" rx="28" fill="#f3f0ff"/>
+    <rect x="1180" y="262" width="342" height="602" rx="28" fill="#f1f7ff"/>
+  </g>
+
+  <rect x="82" y="262" width="342" height="16" rx="8" fill="#23caa0"/>
+  <text x="116" y="328" fill="#0c342d" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">COMMUNITY + LEAGUES</text>
+  <text x="116" y="390" fill="#071c1b" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="900">GSPro</text>
+  <text x="116" y="435" fill="#40565a" font-family="Inter,Arial,sans-serif" font-size="22">Best overall for a serious</text>
+  <text x="116" y="467" fill="#40565a" font-family="Inter,Arial,sans-serif" font-size="22">Windows home bay.</text>
+  <line x1="116" y1="500" x2="390" y2="500" stroke="#c9d8d4" stroke-width="2"/>
+  <text x="116" y="542" fill="#0c342d" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">$250 / YEAR</text>
+  <text x="116" y="582" fill="#40565a" font-family="Inter,Arial,sans-serif" font-size="19">Windows 10/11</text>
+  <text x="116" y="614" fill="#40565a" font-family="Inter,Arial,sans-serif" font-size="19">GTX 3060 + 16 GB floor</text>
+  <text x="116" y="646" fill="#40565a" font-family="Inter,Arial,sans-serif" font-size="19">2,500+ community courses</text>
+  <rect x="108" y="690" width="290" height="130" rx="18" fill="#dff8f0"/>
+  <text x="130" y="726" fill="#0c342d" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">WATCH THE CONNECTOR TAX</text>
+  <text x="130" y="762" fill="#304c48" font-family="Inter,Arial,sans-serif" font-size="17">Some launch monitors require</text>
+  <text x="130" y="789" fill="#304c48" font-family="Inter,Arial,sans-serif" font-size="17">their own paid plan on top.</text>
+
+  <rect x="448" y="262" width="342" height="16" rx="8" fill="#ffb22c"/>
+  <text x="482" y="328" fill="#573711" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">PRACTICE + FITTING</text>
+  <text x="482" y="390" fill="#2d1d0b" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="900">E6 2026</text>
+  <text x="482" y="435" fill="#645443" font-family="Inter,Arial,sans-serif" font-size="22">Best when the work session</text>
+  <text x="482" y="467" fill="#645443" font-family="Inter,Arial,sans-serif" font-size="22">matters as much as 18 holes.</text>
+  <line x1="482" y1="500" x2="756" y2="500" stroke="#e5d6bd" stroke-width="2"/>
+  <text x="482" y="542" fill="#573711" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">$150 / $300 / $450 YEAR</text>
+  <text x="482" y="582" fill="#645443" font-family="Inter,Arial,sans-serif" font-size="19">Windows PC only</text>
+  <text x="482" y="614" fill="#645443" font-family="Inter,Arial,sans-serif" font-size="19">RTX 3060 12 GB + 24 GB RAM</text>
+  <text x="482" y="646" fill="#645443" font-family="Inter,Arial,sans-serif" font-size="19">15,000+ 4K-rendered courses</text>
+  <rect x="474" y="690" width="290" height="130" rx="18" fill="#fff0c8"/>
+  <text x="496" y="726" fill="#573711" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">DO NOT CONFUSE GENERATIONS</text>
+  <text x="496" y="762" fill="#5c492d" font-family="Inter,Arial,sans-serif" font-size="17">E6 Connect is the previous</text>
+  <text x="496" y="789" fill="#5c492d" font-family="Inter,Arial,sans-serif" font-size="17">platform; E6 2026 is current.</text>
+
+  <rect x="814" y="262" width="342" height="16" rx="8" fill="#8c62e8"/>
+  <text x="848" y="328" fill="#382765" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">FAMILY + PORTABILITY</text>
+  <text x="848" y="390" fill="#221541" font-family="Inter,Arial,sans-serif" font-size="39" font-weight="900">Awesome Golf</text>
+  <text x="848" y="435" fill="#554d66" font-family="Inter,Arial,sans-serif" font-size="22">Best for fast setup, games,</text>
+  <text x="848" y="467" fill="#554d66" font-family="Inter,Arial,sans-serif" font-size="22">kids, and mixed-skill rooms.</text>
+  <line x1="848" y1="500" x2="1122" y2="500" stroke="#d8d0e8" stroke-width="2"/>
+  <text x="848" y="542" fill="#382765" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">$14.99 / MO · $349.99 LIFE</text>
+  <text x="848" y="582" fill="#554d66" font-family="Inter,Arial,sans-serif" font-size="19">Windows, Mac, iOS, Android</text>
+  <text x="848" y="614" fill="#554d66" font-family="Inter,Arial,sans-serif" font-size="19">License follows monitor</text>
+  <text x="848" y="646" fill="#554d66" font-family="Inter,Arial,sans-serif" font-size="19">Arcade-forward, not photoreal</text>
+  <rect x="840" y="690" width="290" height="130" rx="18" fill="#e7dfff"/>
+  <text x="862" y="720" fill="#382765" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">BUY THE VIBE,</text>
+  <text x="862" y="744" fill="#382765" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">NOT COURSE COUNT</text>
+  <text x="862" y="776" fill="#504466" font-family="Inter,Arial,sans-serif" font-size="17">The win is social friction near</text>
+  <text x="862" y="803" fill="#504466" font-family="Inter,Arial,sans-serif" font-size="17">zero, not visual realism.</text>
+
+  <rect x="1180" y="262" width="342" height="16" rx="8" fill="#3c8deb"/>
+  <text x="1214" y="328" fill="#163e6c" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">FORESIGHT OWNERS</text>
+  <text x="1214" y="390" fill="#0c2948" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="900">FSX Play</text>
+  <text x="1214" y="435" fill="#465c74" font-family="Inter,Arial,sans-serif" font-size="22">Best native path when the</text>
+  <text x="1214" y="467" fill="#465c74" font-family="Inter,Arial,sans-serif" font-size="22">sensor already chose the lane.</text>
+  <line x1="1214" y1="500" x2="1488" y2="500" stroke="#ccdaea" stroke-width="2"/>
+  <text x="1214" y="538" fill="#163e6c" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="800">LICENSE VARIES</text>
+  <text x="1214" y="562" fill="#163e6c" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="800">BY HARDWARE</text>
+  <text x="1214" y="594" fill="#465c74" font-family="Inter,Arial,sans-serif" font-size="18">Windows + NVIDIA recommended</text>
+  <text x="1214" y="624" fill="#465c74" font-family="Inter,Arial,sans-serif" font-size="18">Foresight / Bushnell only</text>
+  <text x="1214" y="654" fill="#465c74" font-family="Inter,Arial,sans-serif" font-size="18">Purchased courses are separate</text>
+  <rect x="1206" y="690" width="290" height="130" rx="18" fill="#dcecff"/>
+  <text x="1228" y="726" fill="#163e6c" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">READ THE ENTITLEMENT LINE</text>
+  <text x="1228" y="762" fill="#405870" font-family="Inter,Arial,sans-serif" font-size="17">Launch Pro / GC3S users may</text>
+  <text x="1228" y="789" fill="#405870" font-family="Inter,Arial,sans-serif" font-size="17">need an active Gold plan.</text>
+
+  <text x="88" y="924" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="850">Nina's rule: choose software → verify the exact monitor → draw the room → buy the PC and projector last.</text>
+  <text x="88" y="970" fill="#a9c3c5" font-family="Inter,Arial,sans-serif" font-size="19">Verified against official requirements and pricing. Software and hardware terms change; re-check before purchase.</text>
+  <text x="1390" y="970" fill="#ffbb75" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="800">IGNITIONSIM</text>
+</svg>

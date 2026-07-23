@@ -1,6 +1,7 @@
 {
   "notes": "Highest-ROI surfaces for the $10k/month build. Certified articles only. Update this before publishing a flagship guide.",
   "cornerstoneArticleIds": [
+    "golf/best-golf-simulator-software",
     "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026",
     "racing/top-simulator-creators-rigs-2026",
     "golf/gspro-review-2026",
@@ -31,6 +32,7 @@
     "flight/msfs-home-cockpit-buyer-map-2026"
   ],
   "streamLeadArticleIds": [
+    "golf/best-golf-simulator-software",
     "space/best-space-sim-rigs-star-citizen-elite-x4-everspace-2-no-mans-sky-2026",
     "racing/top-simulator-creators-rigs-2026",
     "golf/gspro-review-2026",
@@ -69,6 +71,7 @@
   },
   "moneyClusters": {
     "golf": [
+      "best-golf-simulator-software",
       "gspro-review-2026",
       "premium-overhead-golf-launch-monitors-2026",
       "foresight-gcquad-vs-gc3-vs-falcon-2026",

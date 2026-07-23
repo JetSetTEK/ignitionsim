@@ -1,104 +1,170 @@
 {
   "slug": "best-golf-simulator-software",
+  "updated": "2026-07-24",
   "bay": "golf",
   "curator": "Nina Brooks",
-  "priority": "B",
-  "visualGoal": "Make a first-time buyer choose the SOFTWARE (and the Windows-PC-vs-iPad fork) before they fall in love with a launch monitor. This is a low-product-density software explainer: the persuasion carries on the compatibility table, the decision fork, and Codex-built comparison infographics, NOT on product cards. Real launch-monitor photos appear only as compatibility anchors (software-flexible vs GSPro-on-ramp vs E6-lifetime-bundle). Do NOT pad with irrelevant hardware to hit an image count.",
-  "realProductPhotosNeeded": [],
-  "verifiedProductPhotosUsed": [
-    "/images/gear/golf/skytrak-plus.jpg",
-    "/images/gear/golf/flightscope-mevo-gen2.jpg",
-    "/images/gear/golf/rapsodo-mlm2pro.jpg"
-  ],
-  "editorialCompositePrompts": [
+  "priority": "A",
+  "visualGoal": "Show the complete golf-software ownership experience: current gameplay, real product use, in-box contents, manual and connection details, community room patterns, and six distinct curator actions. No floating product collage or repeated portrait pose.",
+  "realVisuals": [
     {
-      "id": "hero-software-first",
-      "type": "AI scene + real product composite",
-      "prompt": "Realistic home golf simulator bay at dusk, a large impact screen showing a photoreal sunlit fairway, a laptop and a tablet side by side on a small table in front of the mat to visually pose the 'Windows PC vs iPad' choice, an open flat surface beside the tee left clear for a real launch-monitor product overlay, curator Nina Brooks studying the two screens, no fake UI text, no fake brand logos, 16:9 editorial cover.",
-      "realOverlays": ["/images/gear/golf/skytrak-plus.jpg"],
-      "labelRequired": "AI scene + real product composite",
-      "negativePrompt": "fake software logos, fake on-screen UI, invented course names, warped hardware, unreadable tiny text, procedural gradient art"
+      "file": "/images/article-proofs/golf/software-2026/gspro-tobacco-road.webp",
+      "type": "gameplay",
+      "source": "GSPro official gallery",
+      "sourceUrl": "https://gsprogolf.com/supported-launch-monitors/index.html"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/gspro-learning-preserve.webp",
+      "type": "gameplay",
+      "source": "GSPro official gallery",
+      "sourceUrl": "https://gsprogolf.com/supported-launch-monitors/index.html"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/e6-lofoten.webp",
+      "type": "gameplay",
+      "source": "TruGolf official E6 media",
+      "sourceUrl": "https://trugolf.com/pages/e6-by-trugolf"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/e6-bag-mapping.webp",
+      "type": "software",
+      "source": "TruGolf official E6 media",
+      "sourceUrl": "https://trugolf.com/pages/e6-by-trugolf"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/e6-club-fitting.webp",
+      "type": "software",
+      "source": "TruGolf official E6 media",
+      "sourceUrl": "https://trugolf.com/pages/e6-by-trugolf"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/awesome-family.webp",
+      "type": "real-use",
+      "source": "Awesome Golf official media",
+      "sourceUrl": "https://www.awesome-golf.com/"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/awesome-target.webp",
+      "type": "gameplay",
+      "source": "Awesome Golf official media",
+      "sourceUrl": "https://www.awesome-golf.com/"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/fsx-main-menu.webp",
+      "type": "manual-screen",
+      "source": "Foresight Sports FSX Play manual",
+      "sourceUrl": "https://support.foresightsports.com/fsx-play-user-manual"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/fsx-practice.webp",
+      "type": "manual-screen",
+      "source": "Foresight Sports FSX Play manual",
+      "sourceUrl": "https://support.foresightsports.com/fsx-play-user-manual"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/fsx-device-connect.webp",
+      "type": "manual-screen",
+      "source": "Foresight Sports FSX Play manual",
+      "sourceUrl": "https://support.foresightsports.com/fsx-play-user-manual"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/mevo-product.webp",
+      "type": "product",
+      "source": "FlightScope official product media",
+      "sourceUrl": "https://flightscope.com/products/mevo-gen2"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/mevo-indoor-use.webp",
+      "type": "real-use",
+      "source": "FlightScope official product media",
+      "sourceUrl": "https://flightscope.com/products/mevo-gen2"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/mevo-e6-courses.webp",
+      "type": "software",
+      "source": "FlightScope official product media",
+      "sourceUrl": "https://flightscope.com/products/mevo-gen2"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/mevo-manual-ports.webp",
+      "type": "manual-detail",
+      "source": "FlightScope official product media",
+      "sourceUrl": "https://flightscope.com/products/mevo-gen2"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/skytrak-bundle.webp",
+      "type": "in-box",
+      "source": "SkyTrak official product media",
+      "sourceUrl": "https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/skytrak-connection.webp",
+      "type": "product-detail",
+      "source": "SkyTrak official product media",
+      "sourceUrl": "https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/skytrak-real-use.webp",
+      "type": "real-use",
+      "source": "SkyTrak official product media",
+      "sourceUrl": "https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor"
+    },
+    {
+      "file": "/images/article-proofs/golf/software-2026/skytrak-courseplay.webp",
+      "type": "gameplay",
+      "source": "SkyTrak official product media",
+      "sourceUrl": "https://www.skytrakgolf.com/products/skytrak-plus-launch-monitor"
+    },
+    {
+      "file": "/images/real-builds/golf-room.webp",
+      "type": "licensed-real-room",
+      "source": "Swingzone / Pexels",
+      "sourceUrl": "https://www.pexels.com/photo/indoor-golf-simulator-room-in-mississauga-31212256/"
     }
   ],
-  "infographicPrompts": [
+  "curatorScenes": [
+    "/images/curator-scenes/golf-software-2026/nina-room-fit-cover.webp",
+    "/images/curator-scenes/golf-software-2026/nina-network-commissioning.webp",
+    "/images/curator-scenes/golf-software-2026/nina-family-software-night.webp",
+    "/images/curator-scenes/golf-software-2026/nina-projector-centerline.webp",
+    "/images/curator-scenes/golf-software-2026/nina-connector-recovery.webp",
+    "/images/curator-scenes/golf-software-2026/nina-league-night.webp"
+  ],
+  "infographics": [
+    "/images/infographics/golf/golf-software-2026-decision-map.svg",
+    "/images/infographics/golf/golf-software-2026-decision-map-mobile.svg",
+    "/images/infographics/golf/golf-simulator-signal-path-2026.svg",
+    "/images/infographics/golf/golf-simulator-signal-path-2026-mobile.svg"
+  ],
+  "verifiedAmazonProducts": [
     {
-      "id": "software-compatibility-matrix",
-      "title": "Which software works with which launch monitor (2026)",
-      "format": "1600x1200",
-      "content": [
-        "Columns: GSPro | E6 Connect | TGC 2019 | FSX Play | Awesome Golf",
-        "Rows: Platform (Win PC / iPad / Mac) | Annual cost | Course library | LM compatibility | Watch-out",
-        "GSPro: Win gaming PC, ~$250/yr, 1,100+ community, broad LM (some need own sub)",
-        "E6 Connect: Win+iPad, ~$300-600/yr, ~90-100 courses, Uneekor/FlightScope/Garmin/Full Swing/SkyTrak+",
-        "TGC 2019: Win only, paid (check current), 100,000+ user courses, FlightScope/Uneekor/ProTee/SkyTrak, Foresight NOT listed",
-        "FSX Play: Win only, free-for-life on GC3 / ~$499 Gold on GC3S+Launch Pro, 25+270, Foresight family only",
-        "Awesome Golf: Win/Mac/iOS/Android, ~$160/yr or ~$350 once, ~10 courses, FlightScope/Garmin/Rapsodo/Bushnell/Foresight/Square"
-      ],
-      "style": "IgnitionSim command-center comparison grid, golf greens-and-gold palette, large readable headers, checkmark/X compatibility cells, 'check current' badge on TGC 2019 newer-monitor cells"
+      "name": "FlightScope Mevo Gen2",
+      "asin": "B0FK8M3VLB"
     },
     {
-      "id": "software-first-decision-tree",
-      "title": "Pick your golf simulator software in 4 questions",
-      "format": "1600x1000",
-      "content": [
-        "Q1 Windows gaming PC or iPad/Mac? -> iPad/Mac limits you to E6 Connect or Awesome Golf",
-        "Q2 Realism vs course count vs fun? -> GSPro (realism) / TGC 2019 (100k courses) / Awesome Golf (fun)",
-        "Q3 Already own Foresight or Bushnell? -> FSX Play (mind GC3 vs GC3S fee)",
-        "Q4 What's the true annual cost? -> base sub + any monitor-specific membership (Rapsodo Premium / Uneekor Pro / Bushnell Gold)",
-        "End node: buy the launch monitor the chosen software supports"
-      ],
-      "style": "Numbered branching flowchart, IgnitionSim dark bay background, golf accent colors, large nodes, no product photos required"
+      "name": "Garmin Approach R10",
+      "asin": "B095QX1FSR"
     },
     {
-      "id": "three-year-cost-stack",
-      "title": "3-year software cost, stacked",
-      "format": "1600x1000",
-      "content": [
-        "GSPro ~$750 (3yr) + Windows PC $1,000-1,500 + possible monitor sub",
-        "E6 Connect ~$900-1,800 (Basic->Expanded), iPad path avoids PC",
-        "TGC 2019 paid title (verify), Windows only",
-        "FSX Play $0 on GC3 / ~$1,500 (3yr) Gold on GC3S/Launch Pro",
-        "Awesome Golf ~$350 one-time cheapest long-run"
-      ],
-      "style": "Horizontal stacked-bar cost chart, golf palette, clear one-time vs recurring segmentation, annotation callouts"
+      "name": "SkyTrak ST+ Protective Bundle",
+      "asin": "B0GJDT5L16"
+    },
+    {
+      "name": "Bushnell Launch Pro i Circle B Edition",
+      "asin": "B0FYR5FMFF"
+    },
+    {
+      "name": "Garmin Approach R50",
+      "asin": "B0DM6NYRYN"
     }
   ],
-  "curatorScenePrompts": [
-    {
-      "id": "nina-software-first-tip",
-      "prompt": "Realistic adult golf-gear curator Nina Brooks in a tidy home simulator bay, standing between a mounted impact screen and a small table holding a laptop and an iPad, one hand gesturing at the tablet, calm expert energy, practical not fantasy, product-overlay space to one side, 4:5 portrait.",
-      "labelRequired": "AI curator scene"
-    }
-  ],
-  "screenshotsOrGameMediaNeeded": [
-    {
-      "item": "GSPro in-sim gameplay/course render (photoreal community course)",
-      "why": "Would visually anchor the 'realism benchmark' claim in the GSPro section.",
-      "status": "not-owned / licensing-sensitive",
-      "notes": "Do NOT scrape or fabricate. Use only if an officially licensed press asset or an in-house capture on owned hardware becomes available. Text-only until then."
-    },
-    {
-      "item": "E6 Apex course render (4K)",
-      "why": "Would support the 'polished, presentation-forward' E6 claim.",
-      "status": "not-owned / licensing-sensitive",
-      "notes": "Official press asset only. Text-only until sourced."
-    },
-    {
-      "item": "TGC 2019 course-designer / library screenshot",
-      "why": "Would visually prove the '100,000+ user courses' differentiator.",
-      "status": "not-owned / licensing-sensitive",
-      "notes": "Official/press asset only. Text-only until sourced."
-    },
-    {
-      "item": "Awesome Golf cartoon-style course render",
-      "why": "Would instantly communicate the 'not photoreal, family-fun' positioning.",
-      "status": "not-owned / licensing-sensitive",
-      "notes": "Official press asset only. Text-only until sourced."
-    }
-  ],
-  "openQuestions": [
-    "Does TGC 2019 currently support the Garmin R10 and Bushnell Launch Pro? Sources conflict; body flags 'check current'. Resolve before any TGC hardware-coverage certification claim.",
-    "Confirm the exact current E6 Apex tier prices (~$150-$450/yr reported as a range).",
-    "No software screenshots exist in the verified image set. Can Codex produce the three comparison infographics above so the page reaches gold visual density without forcing irrelevant hardware photos? Until then visualCount is honestly low and certification is blocked."
-  ]
+  "qa": {
+    "minimumRealImages": 10,
+    "actualRealImages": 19,
+    "minimumCuratorScenes": 6,
+    "actualCuratorScenes": 6,
+    "minimumInfographics": 2,
+    "actualInfographics": 2,
+    "directAmazonDetailPagesOnly": true,
+    "cropPolicy": "Use full natural aspect ratio in article figures; object-cover is reserved for the separate 16:9 slider cover."
+  }
 }
