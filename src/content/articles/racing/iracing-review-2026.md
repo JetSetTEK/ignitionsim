@@ -189,16 +189,16 @@ For iRacing, display choice is not just immersion. It is traffic management.
 Triples are still the strongest racecraft answer because side windows matter in multiclass, ovals, endurance, and league racing. A 49-inch ultrawide is the cleaner one-screen answer. VR is incredible when your PC, stomach, heat tolerance, and controls workflow agree to stop arguing.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
     <span class="gp-tag">Clean middle</span>
     <img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">One-screen iRacing flex</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The clean middle between a single small monitor and triple-panel life. Not as correct as triples for side vision, but dramatically easier to live with.</p>
     <span class="gp-price">Premium ultrawide tier</span>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -363,15 +363,15 @@ Start here if your verdict is build around it. If your verdict is play first, bu
 <!-- Product card withheld: exact Amazon ASIN not verified for heusinkveld-sprint. -->
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">
     <span class="gp-tag">Display dream</span>
     <img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 ultrawide monitor" loading="lazy">
   </a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch ultrawide path</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The one-screen route for iRacing drivers who want a cockpit-filling view without triple-monitor architecture.</p>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 

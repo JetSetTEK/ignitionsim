@@ -165,6 +165,9 @@ Every cornerstone article should include:
 - Every game review needs a fast verdict: build around it, play it before buying hardware, wait, or skip unless you already own the gear.
 - Show real screenshots, official media, UI/settings screens, community setup photos when allowed, and product photos of the hardware that materially changes the game.
 - Include a "hardware that actually matters" section: controls, cockpit/seat, display, PC/console, audio/haptics, mounts, USB/power, and software/subscription costs.
+- Represent the complete ownership chain whenever an article recommends a build: game or software, compute and platform, primary controls, secondary controls, mounting and seating, display or VR, power and data, audio or communications, haptics or motion, calibration, maintenance, and replacement or service parts. Name what each pictured product does not include.
+- Audit every bay as a product system at least quarterly. A long catalog in one component class does not count as complete representation when the adjoining products required to install, power, mount, calibrate, use, and maintain it are absent.
+- New buyer maps must include a parts-before-install checklist, a commissioning order, and direct exact-product Amazon links for every pictured or recommended purchasable component that has a verified listing.
 - Include a "what will annoy you" section sourced from forums, Reddit, Steam reviews, official known issues, patch notes, or credible reviewers.
 - Include the right game/universe placement: `/games`, the game detail card, bay hub, Build Stream/info river, related buyer guides, homepage module if strategically important, sitemap, and RSS/feed path.
 - Use screenshots and official art only with source/credit discipline. Do not AI-generate fake game UI, fake telemetry, fake cockpit displays, fake scorecards, fake maps, or fake setup menus.

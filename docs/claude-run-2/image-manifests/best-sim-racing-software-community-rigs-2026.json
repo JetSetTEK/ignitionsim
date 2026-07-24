@@ -1,0 +1,196 @@
+{
+  "articleId": "racing/best-sim-racing-software-community-rigs-2026",
+  "reviewedDate": "2026-07-24",
+  "rules": {
+    "aiScenesAreProductProof": false,
+    "purchaseDestinations": "Exact Amazon ASIN links only",
+    "cropping": "Contain or naturally scale manuals and product proof; editorial covers may use intentional art direction",
+    "captioning": "Every image declares official, manual, verified product, real-use, infographic, or AI-assisted editorial status"
+  },
+  "images": [
+    {
+      "path": "/images/generated/article-covers/best-sim-racing-software-community-rigs-2026.webp",
+      "role": "article cover",
+      "dimensions": "1200x675",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Duke timing a bright endurance-simulator session; complete cockpit, driver team, pit-wall energy, no copied product marks"
+    },
+    {
+      "path": "/images/generated/social/best-sim-racing-software-community-rigs-2026.webp",
+      "role": "social card",
+      "dimensions": "1200x630",
+      "rights": "AI-assisted IgnitionSim editorial art"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-endurance-hero.webp",
+      "role": "curator action",
+      "dimensions": "1672x941",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Endurance strategy station with Duke timing a stint and drivers actively operating a realistic complete simulator"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-fov-geometry.webp",
+      "role": "curator action",
+      "dimensions": "1672x941",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Side-on geometry workshop with tape, angle gauge, visible eye point, wheel reach, and pedal relationship"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-pedal-calibration.webp",
+      "role": "curator action",
+      "dimensions": "1536x1024",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Floor-level pedal calibration with Duke using a torque wrench while a driver applies real brake pressure"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-usb-power-topology.webp",
+      "role": "curator action",
+      "dimensions": "1672x941",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Bright overhead technical bench with labeled USB paths, powered hub, cable tags, and power bricks"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-ffb-clipping-lab.webp",
+      "role": "curator action",
+      "dimensions": "1672x941",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Telemetry lab with a driver loading a realistic wheel and Duke reading clipping trace without fake game UI"
+    },
+    {
+      "path": "/images/curator-scenes/racing-software-2026/duke-endurance-driver-change.webp",
+      "role": "curator action",
+      "dimensions": "1672x941",
+      "rights": "AI-assisted IgnitionSim editorial art",
+      "promptSummary": "Dynamic driver handoff with one driver exiting, another entering, and Duke guiding the choreography"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/iracing-2026-season3-official.webp",
+      "role": "official software screenshot",
+      "dimensions": "1600x900",
+      "sourceUrl": "https://www.iracing.com/seasons/2026-s3/",
+      "rights": "Official iRacing media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/lmu-official-race.webp",
+      "role": "official software screenshot",
+      "dimensions": "1600x900",
+      "sourceUrl": "https://lemansultimate.com/",
+      "rights": "Official Le Mans Ultimate media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/acc-official-physics.webp",
+      "role": "official software screenshot",
+      "dimensions": "1600x670",
+      "sourceUrl": "https://assettocorsa.gg/assetto-corsa-competizione/",
+      "rights": "Official Assetto Corsa Competizione media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/ac-evo-07-official.webp",
+      "role": "official software screenshot",
+      "dimensions": "1600x900",
+      "sourceUrl": "https://assettocorsa.gg/assetto-corsa-evo-early-access-0-7-now-available/",
+      "rights": "Official Assetto Corsa EVO media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/gttrack-gallery-1.webp",
+      "role": "official product photo",
+      "dimensions": "800x500",
+      "sourceUrl": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "rights": "Official Next Level Racing marketing media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/gttrack-driver-official-v2.webp",
+      "role": "official real-use photo",
+      "dimensions": "832x414",
+      "sourceUrl": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "rights": "Official Next Level Racing marketing media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/gttrack-adjustment-official-v2.webp",
+      "role": "official installation photo",
+      "dimensions": "832x414",
+      "sourceUrl": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "rights": "Official Next Level Racing marketing media"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/gttrack-box-contents-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "666x900",
+      "sourceUrl": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "rights": "Official GTTrack instruction manual"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/gttrack-frame-assembly-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "666x900",
+      "sourceUrl": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "rights": "Official GTTrack instruction manual"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/moza-r5-box-contents-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "634x900",
+      "sourceUrl": "https://mozaracing.com/pages/r5-racing-bundle",
+      "rights": "Official MOZA R5 manual"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/moza-r5-ports-mount-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "634x900",
+      "sourceUrl": "https://mozaracing.com/pages/r5-racing-bundle",
+      "rights": "Official MOZA R5 manual"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/moza-r12-ports-mount-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "634x900",
+      "sourceUrl": "https://mozaracing.com/products/r12-wheel-base",
+      "rights": "Official MOZA R12 manual"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/logitech-pro-box-contents-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "900x675",
+      "sourceUrl": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html",
+      "rights": "Official Logitech quick-start guide"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/logitech-pro-connectivity-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "900x675",
+      "sourceUrl": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html",
+      "rights": "Official Logitech quick-start guide"
+    },
+    {
+      "path": "/images/article-proofs/racing/software-rigs-2026/logitech-pro-rig-install-manual.webp",
+      "role": "official manual proof",
+      "dimensions": "900x675",
+      "sourceUrl": "https://www.logitechg.com/en-us/products/driving/pro-racing-wheel.html",
+      "rights": "Official Logitech quick-start guide"
+    },
+    {
+      "path": "/images/infographics/racing/sim-racing-software-decision-map-2026.svg",
+      "role": "responsive infographic desktop",
+      "dimensions": "1600x980",
+      "rights": "Original IgnitionSim editorial infographic"
+    },
+    {
+      "path": "/images/infographics/racing/sim-racing-software-decision-map-2026-mobile.svg",
+      "role": "responsive infographic mobile",
+      "dimensions": "760x1560",
+      "rights": "Original IgnitionSim editorial infographic"
+    },
+    {
+      "path": "/images/infographics/racing/sim-rig-commissioning-order-2026.svg",
+      "role": "responsive infographic desktop",
+      "dimensions": "1600x1080",
+      "rights": "Original IgnitionSim editorial infographic"
+    },
+    {
+      "path": "/images/infographics/racing/sim-rig-commissioning-order-2026-mobile.svg",
+      "role": "responsive infographic mobile",
+      "dimensions": "760x1900",
+      "rights": "Original IgnitionSim editorial infographic"
+    }
+  ]
+}

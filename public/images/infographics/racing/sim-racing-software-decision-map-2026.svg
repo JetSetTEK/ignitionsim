@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">Best sim racing software 2026 decision map</title>
+  <desc id="desc">Decision map comparing iRacing, Le Mans Ultimate, Assetto Corsa Competizione, and Assetto Corsa EVO by racing goal, ownership model, and matching rig priorities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07131d"/>
+      <stop offset="0.55" stop-color="#102635"/>
+      <stop offset="1" stop-color="#24131c"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity=".34"/>
+    </filter>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .mono{font-family:"Courier New",monospace}
+      .kicker{font-size:22px;font-weight:700;letter-spacing:3px}
+      .title{font-size:58px;font-weight:900}
+      .sub{font-size:25px;fill:#c7d5de}
+      .cardTitle{font-size:34px;font-weight:900}
+      .verdict{font-size:22px;font-weight:700}
+      .body{font-size:20px;fill:#d7e0e6}
+      .small{font-size:17px;fill:#aebdc6}
+      .pill{font-size:16px;font-weight:800;letter-spacing:1px}
+    </style>
+  </defs>
+  <rect width="1600" height="980" rx="34" fill="url(#bg)"/>
+  <path d="M72 250H1528" stroke="#4c6675" stroke-width="2" opacity=".5"/>
+  <text x="72" y="72" class="mono kicker" fill="#ff6542">IGNITIONSIM VERIFIED DECISION MAP / JULY 2026</text>
+  <text x="72" y="145" class="sans title" fill="#fff">Choose the race you want every week.</text>
+  <text x="72" y="196" class="sans sub">Software should choose the rig. The most expensive cockpit cannot create the community or discipline you actually wanted.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="294" width="710" height="252" rx="24" fill="#0d2230" stroke="#30c8e8" stroke-width="3"/>
+    <rect x="98" y="320" width="176" height="34" rx="17" fill="#30c8e8"/>
+    <text x="186" y="343" text-anchor="middle" class="mono pill" fill="#06131b">BROAD ONLINE</text>
+    <text x="98" y="400" class="sans cardTitle" fill="#fff">iRacing</text>
+    <text x="98" y="438" class="sans verdict" fill="#6ce5ff">Buy for broad structured online.</text>
+    <text x="98" y="477" class="sans body">Ovals, road, formula, dirt, and endurance.</text>
+    <text x="98" y="505" class="sans body">Populated schedules plus safety ratings.</text>
+    <text x="520" y="352" class="mono small">RIG MATCH</text>
+    <text x="520" y="386" class="sans body">Load-cell brake</text>
+    <text x="520" y="416" class="sans body">8-12 Nm direct drive</text>
+    <text x="520" y="446" class="sans body">Stable 144 Hz display</text>
+    <text x="520" y="476" class="sans body">Voice + network</text>
+    <text x="520" y="516" class="sans small">Catch: recurring cost.</text>
+
+    <rect x="818" y="294" width="710" height="252" rx="24" fill="#211c2a" stroke="#ff6542" stroke-width="3"/>
+    <rect x="844" y="320" width="206" height="34" rx="17" fill="#ff6542"/>
+    <text x="947" y="343" text-anchor="middle" class="mono pill" fill="#fff">WEC / ENDURANCE</text>
+    <text x="844" y="400" class="sans cardTitle" fill="#fff">Le Mans Ultimate</text>
+    <text x="844" y="438" class="sans verdict" fill="#ff9c83">Buy for WEC, GT3, and prototypes.</text>
+    <text x="844" y="477" class="sans body">Hypercar, LMP, GT3, and daily racing.</text>
+    <text x="844" y="505" class="sans body">The focused momentum pick of 2026.</text>
+    <text x="1290" y="352" class="mono small">RIG MATCH</text>
+    <text x="1290" y="386" class="sans body">GT/formula rim</text>
+    <text x="1290" y="416" class="sans body">8-12 Nm direct drive</text>
+    <text x="1290" y="446" class="sans body">Headset + comms</text>
+    <text x="1290" y="476" class="sans body">SSD + CPU headroom</text>
+    <text x="1290" y="516" class="sans small">Catch: narrow field.</text>
+
+    <rect x="72" y="582" width="710" height="252" rx="24" fill="#17251f" stroke="#71dc8f" stroke-width="3"/>
+    <rect x="98" y="608" width="172" height="34" rx="17" fill="#71dc8f"/>
+    <text x="184" y="631" text-anchor="middle" class="mono pill" fill="#07140c">MATURE GT</text>
+    <text x="98" y="688" class="sans cardTitle" fill="#fff">Assetto Corsa Competizione</text>
+    <text x="98" y="726" class="sans verdict" fill="#9bf2af">Buy for mature GT without a subscription.</text>
+    <text x="98" y="765" class="sans body">GT3/GT4 physics, weather, triples, and VR.</text>
+    <text x="98" y="793" class="sans body">Console crossplay broadens the grid.</text>
+    <text x="570" y="640" class="mono small">RIG MATCH</text>
+    <text x="570" y="674" class="sans body">Round or GT rim</text>
+    <text x="570" y="704" class="sans body">Load-cell brake</text>
+    <text x="570" y="734" class="sans body">Ultrawide / triples</text>
+    <text x="570" y="764" class="sans body">Tactile audio</text>
+    <text x="570" y="804" class="sans small">Catch: GT focus.</text>
+
+    <rect x="818" y="582" width="710" height="252" rx="24" fill="#192033" stroke="#b38cff" stroke-width="3"/>
+    <rect x="844" y="608" width="198" height="34" rx="17" fill="#b38cff"/>
+    <text x="943" y="631" text-anchor="middle" class="mono pill" fill="#100b1b">FUTURE PLATFORM</text>
+    <text x="844" y="688" class="sans cardTitle" fill="#fff">Assetto Corsa EVO</text>
+    <text x="844" y="726" class="sans verdict" fill="#d2bbff">Watch, or buy as a second sim.</text>
+    <text x="844" y="765" class="sans body">Excellent visuals and evolving physics.</text>
+    <text x="844" y="793" class="sans body">The 0.7 editor SDK opens the future.</text>
+    <text x="1288" y="640" class="mono small">RIG MATCH</text>
+    <text x="1288" y="674" class="sans body">GPU/SSD headroom</text>
+    <text x="1288" y="704" class="sans body">Flexible profiles</text>
+    <text x="1288" y="734" class="sans body">Backup main sim</text>
+    <text x="1288" y="764" class="sans body">Update patience</text>
+    <text x="1288" y="804" class="sans small">Catch: unfinished.</text>
+  </g>
+
+  <rect x="72" y="870" width="1456" height="62" rx="18" fill="#f5f7f8"/>
+  <text x="800" y="909" text-anchor="middle" class="sans verdict" fill="#101a22">Duke's rule: buy the weekly loop first. Buy torque only after the frame and brake stop lying.</text>
+</svg>

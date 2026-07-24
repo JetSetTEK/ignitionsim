@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1900" viewBox="0 0 760 1900" role="img" aria-labelledby="title desc">
+  <title id="title">Sim racing rig commissioning order mobile guide</title>
+  <desc id="desc">Mobile guide to commissioning a sim racing rig in seven steps and diagnosing five common faults.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f7f8"/><stop offset="1" stop-color="#e9f0f4"/></linearGradient>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:"Courier New",monospace}
+      .k{font-size:18px;font-weight:700;letter-spacing:2px}.t{font-size:41px;font-weight:900}.s{font-size:20px;fill:#425767}
+      .n{font-size:24px;font-weight:900}.h{font-size:21px;font-weight:900}.b{font-size:17px;fill:#d7e0e6}.fh{font-size:19px;font-weight:900}.fb{font-size:16px;fill:#344a59}
+    </style>
+  </defs>
+  <rect width="760" height="1900" rx="30" fill="url(#bg)"/>
+  <text x="40" y="52" class="mono k" fill="#ed4b2d">THE ORDER THAT SAVES SATURDAY</text>
+  <text x="40" y="108" class="sans t" fill="#0c1a24">Commission the rig</text>
+  <text x="40" y="154" class="sans t" fill="#0c1a24">before the lap.</text>
+  <text x="40" y="194" class="sans s">Change one layer at a time.</text>
+
+  <g>
+    <rect x="40" y="230" width="680" height="118" rx="18" fill="#0d2230"/><circle cx="80" cy="273" r="23" fill="#ff6542"/><text x="80" y="281" text-anchor="middle" class="sans n" fill="#fff">1</text><text x="122" y="268" class="sans h" fill="#fff">FRAME + BODY</text><text x="122" y="301" class="sans b">Seat, pedal deck, wheel mount, reach. Zero useful flex.</text>
+    <rect x="40" y="364" width="680" height="118" rx="18" fill="#173547"/><circle cx="80" cy="407" r="23" fill="#30c8e8"/><text x="80" y="415" text-anchor="middle" class="sans n" fill="#06202b">2</text><text x="122" y="402" class="sans h" fill="#fff">POWER + USB</text><text x="122" y="435" class="sans b">Powered hub, clean routes, strain relief. Cold-start twice.</text>
+    <rect x="40" y="498" width="680" height="118" rx="18" fill="#154339"/><circle cx="80" cy="541" r="23" fill="#71dc8f"/><text x="80" y="549" text-anchor="middle" class="sans n" fill="#092016">3</text><text x="122" y="536" class="sans h" fill="#fff">FIRMWARE + BASE PROFILE</text><text x="122" y="569" class="sans b">Update, center, set rotation and force limit. Save baseline.</text>
+    <rect x="40" y="632" width="680" height="118" rx="18" fill="#29223d"/><circle cx="80" cy="675" r="23" fill="#b38cff"/><text x="80" y="683" text-anchor="middle" class="sans n" fill="#170d24">4</text><text x="122" y="670" class="sans h" fill="#fff">IN-GAME CALIBRATION</text><text x="122" y="703" class="sans b">Steer lock, pedal min/max, deadzones. Remove duplicates.</text>
+    <rect x="40" y="766" width="680" height="118" rx="18" fill="#4b2621"/><circle cx="80" cy="809" r="23" fill="#ff8d53"/><text x="80" y="817" text-anchor="middle" class="sans n" fill="#2a110a">5</text><text x="122" y="804" class="sans h" fill="#fff">FORCE FEEDBACK</text><text x="122" y="837" class="sans b">Set real base force, lower game gain, watch for clipping.</text>
+    <rect x="40" y="900" width="680" height="118" rx="18" fill="#173547"/><circle cx="80" cy="943" r="23" fill="#ffd14d"/><text x="80" y="951" text-anchor="middle" class="sans n" fill="#3a2c00">6</text><text x="122" y="938" class="sans h" fill="#fff">DISPLAY + FOV</text><text x="122" y="971" class="sans b">Measure screens, eye distance, side angle, and refresh.</text>
+    <rect x="40" y="1034" width="680" height="118" rx="18" fill="#0d2230"/><circle cx="80" cy="1077" r="23" fill="#f7f9fa"/><text x="80" y="1085" text-anchor="middle" class="sans n" fill="#0d2230">7</text><text x="122" y="1072" class="sans h" fill="#fff">BACKUP + RECOVERY</text><text x="122" y="1105" class="sans b">Profiles, labels, photos, versions. Test after reboot.</text>
+  </g>
+
+  <text x="40" y="1212" class="mono k" fill="#ed4b2d">FIRST-FAULT GUIDE</text>
+  <g>
+    <rect x="40" y="1240" width="680" height="108" rx="16" fill="#fff" stroke="#b9c8d2"/><text x="62" y="1274" class="sans fh" fill="#0d2230">Wheelbase disconnects</text><text x="62" y="1304" class="sans fb">POWER / USB - move off an unpowered hub; inspect cable</text><text x="62" y="1328" class="sans fb">tension and motor-power routing.</text>
+    <rect x="40" y="1362" width="680" height="108" rx="16" fill="#fff" stroke="#b9c8d2"/><text x="62" y="1396" class="sans fh" fill="#0d2230">Brake pressure changes</text><text x="62" y="1426" class="sans fb">FRAME / CALIBRATION - watch deck flex under load;</text><text x="62" y="1450" class="sans fb">repeat min/max and target-force calibration.</text>
+    <rect x="40" y="1484" width="680" height="108" rx="16" fill="#fff" stroke="#b9c8d2"/><text x="62" y="1518" class="sans fh" fill="#0d2230">FFB turns heavy and numb</text><text x="62" y="1548" class="sans fb">CLIPPING - set true base force, lower game strength,</text><text x="62" y="1572" class="sans fb">then inspect the telemetry bar.</text>
+    <rect x="40" y="1606" width="680" height="108" rx="16" fill="#fff" stroke="#b9c8d2"/><text x="62" y="1640" class="sans fh" fill="#0d2230">Triple horizon bends</text><text x="62" y="1670" class="sans fb">FOV - enter physical width, eye distance, and side angle.</text><text x="62" y="1694" class="sans fb">Do not tune the horizon by vibes.</text>
+    <rect x="40" y="1728" width="680" height="108" rx="16" fill="#fff" stroke="#b9c8d2"/><text x="62" y="1762" class="sans fh" fill="#0d2230">One sim works; another fails</text><text x="62" y="1792" class="sans fb">PROFILE - clear duplicate steering, pedal, and FFB binds;</text><text x="62" y="1816" class="sans fb">load a clean title-specific profile.</text>
+  </g>
+  <text x="380" y="1870" text-anchor="middle" class="sans s" fill="#0d2230">Build a rig you can restore after an update.</text>
+</svg>

@@ -47,7 +47,7 @@ The old internet argument is "VR or triples?" That is the wrong question. The ri
 </aside>
 
 <div class="shotgrid">
-  <figure><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a><figcaption>49-inch ultrawide: the sane middle</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a><figcaption>49-inch ultrawide: the sane middle</figcaption></figure>
   <figure><a href="/racing/gear/asus-tuf-vg27aq"><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch monitor for triple sim racing setups" loading="lazy"></a><figcaption>Triple 27-inch 1440p: the side-vision standard</figcaption></figure>
   <figure><a href="https://www.amazon.com/dp/B0DDWH41HB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="meta-quest-3"><img src="/images/gear/racing/meta-quest-3.jpg" alt="Meta Quest 3 VR headset" loading="lazy"></a><figcaption>Quest 3: mainstream VR gateway</figcaption></figure>
   <figure><a href="https://www.amazon.com/dp/B0G6YYW3PB?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="pimax-crystal-light"><img src="/images/gear/racing/pimax-crystal-light.png" alt="Pimax Crystal Light VR headset" loading="lazy"></a><figcaption>Pimax Crystal Light: clarity-first PCVR</figcaption></figure>
@@ -85,13 +85,13 @@ A 49-inch 32:9 ultrawide is the cleanest high-immersion upgrade for most sim rac
 The catch is geometry. An ultrawide is still one screen. It can wrap your vision, but it cannot show side windows with the same correctness as angled triples. If you care about seeing alongside the car in endurance traffic, triples still matter.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best sane flex</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best sane flex</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch ultrawide monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch ultrawide pick</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The clean one-screen answer: wide view, high refresh, gorgeous contrast, and no triple-monitor alignment evening. Watch OLED burn-in habits with static HUDs.</p>
     <span class="gp-price">Premium ultrawide tier</span>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -163,12 +163,12 @@ The July 2026 pattern has barely changed: drivers who tried both often describe 
 ## What To Buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best middle</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49 monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best middle</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49 monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best single-display upgrade</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49</a></span>
     <p class="gp-why">The premium one-screen answer for racers who want a cockpit-filling display without triple alignment.</p>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 
 </aside>

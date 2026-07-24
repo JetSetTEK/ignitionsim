@@ -1,15 +1,15 @@
 {
   "summary": {
-    "generated": "2026-07-23T23:12:09.446Z",
+    "generated": "2026-07-24T00:43:19.231Z",
     "totals": {
-      "all": 124,
-      "certified": 93
+      "all": 125,
+      "certified": 94
     },
     "certified": {
-      "averageScore": 71.2,
-      "averageWords": 2339.1,
+      "averageScore": 71.5,
+      "averageWords": 2354.6,
       "averageSourceUrls": 10.7,
-      "averageUniqueImages": 9,
+      "averageUniqueImages": 9.3,
       "averageHumanUseImages": 1.4,
       "averageCuratorScenes": 1,
       "averageDiagrams": 1.7,
@@ -18,7 +18,7 @@
         "C": 19,
         "B": 2,
         "A": 2,
-        "A+": 21
+        "A+": 22
       },
       "revenueATriage": [
         "golf/home-golf-simulator-build-sheet-2026",
@@ -4737,6 +4737,40 @@
         "sourceEvidence": 15,
         "imageBreadth": 10,
         "imageUniqueness": 8.8,
+        "productProof": 10,
+        "humanUseProof": 10,
+        "curatorAction": 10,
+        "practicalDiagrams": 8,
+        "answerStructure": 7,
+        "commerceIntegrity": 5
+      },
+      "gaps": []
+    },
+    {
+      "id": "racing/best-sim-racing-software-community-rigs-2026",
+      "title": "Best Sim Racing Software and Community Rigs 2026: iRacing vs LMU vs ACC vs AC EVO",
+      "bay": "racing",
+      "author": "Duke Alvarez",
+      "status": "certified",
+      "revenueTier": "A",
+      "score": 99,
+      "grade": "A+",
+      "words": 3797,
+      "sourceUrls": 18,
+      "imagePlacements": 34,
+      "uniqueImages": 32,
+      "imageUniqueness": 0.94,
+      "productImages": 26,
+      "humanUseImages": 6,
+      "curatorScenes": 6,
+      "diagrams": 3,
+      "amazonLinks": 9,
+      "directAmazonLinks": 9,
+      "dimensions": {
+        "decisionDepth": 15,
+        "sourceEvidence": 15,
+        "imageBreadth": 10,
+        "imageUniqueness": 9.4,
         "productProof": 10,
         "humanUseProof": 10,
         "curatorAction": 10,

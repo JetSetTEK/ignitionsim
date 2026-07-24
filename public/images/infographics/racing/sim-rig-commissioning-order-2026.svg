@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Sim racing rig commissioning order and first-fault guide</title>
+  <desc id="desc">Seven-step commissioning order from frame and power through software, force feedback, field of view, telemetry, and recovery, plus a diagnostic table for common rig faults.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f7f8"/><stop offset="1" stop-color="#e9f0f4"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#163247" flood-opacity=".16"/></filter>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:"Courier New",monospace}
+      .k{font-size:20px;font-weight:700;letter-spacing:3px}.t{font-size:52px;font-weight:900}.sub{font-size:23px;fill:#425767}
+      .n{font-size:28px;font-weight:900}.h{font-size:22px;font-weight:900}.b{font-size:17px;fill:#d7e0e6}.th{font-size:17px;font-weight:800}.td{font-size:16px;fill:#344a59}
+    </style>
+  </defs>
+  <rect width="1600" height="1080" rx="34" fill="url(#bg)"/>
+  <text x="68" y="60" class="mono k" fill="#ed4b2d">THE BORING ORDER THAT SAVES SATURDAY</text>
+  <text x="68" y="126" class="sans t" fill="#0c1a24">Commission the rig before you tune the lap.</text>
+  <text x="68" y="168" class="sans sub">Change one layer at a time. A clean baseline makes every later upgrade measurable.</text>
+
+  <g filter="url(#s)">
+    <g transform="translate(68 218)">
+      <rect width="198" height="222" rx="20" fill="#0d2230"/>
+      <circle cx="40" cy="42" r="25" fill="#ff6542"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#fff">1</text>
+      <text x="24" y="92" class="sans h" fill="#fff">FRAME</text>
+      <text x="24" y="120" class="sans h" fill="#fff">+ BODY</text>
+      <text x="24" y="158" class="sans b" fill="#cbd7de">Seat, pedal deck,</text>
+      <text x="24" y="182" class="sans b" fill="#cbd7de">wheel mount, reach.</text>
+      <text x="24" y="208" class="sans b" fill="#7ee5ff">Zero useful flex.</text>
+    </g>
+    <g transform="translate(280 218)">
+      <rect width="198" height="222" rx="20" fill="#173547"/>
+      <circle cx="40" cy="42" r="25" fill="#30c8e8"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#06202b">2</text>
+      <text x="24" y="92" class="sans h" fill="#fff">POWER</text>
+      <text x="24" y="120" class="sans h" fill="#fff">+ USB</text>
+      <text x="24" y="158" class="sans b" fill="#cbd7de">Powered hub, clean</text>
+      <text x="24" y="182" class="sans b" fill="#cbd7de">routes, strain relief.</text>
+      <text x="24" y="208" class="sans b" fill="#7ee5ff">Cold-start twice.</text>
+    </g>
+    <g transform="translate(492 218)">
+      <rect width="198" height="222" rx="20" fill="#154339"/>
+      <circle cx="40" cy="42" r="25" fill="#71dc8f"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#092016">3</text>
+      <text x="24" y="92" class="sans h" fill="#fff">FIRMWARE</text>
+      <text x="24" y="120" class="sans h" fill="#fff">+ BASE</text>
+      <text x="24" y="158" class="sans b" fill="#d5e4dc">Update, center, set</text>
+      <text x="24" y="182" class="sans b" fill="#d5e4dc">rotation and limit.</text>
+      <text x="24" y="208" class="sans b" fill="#a9f6bd">Save a baseline.</text>
+    </g>
+    <g transform="translate(704 218)">
+      <rect width="198" height="222" rx="20" fill="#29223d"/>
+      <circle cx="40" cy="42" r="25" fill="#b38cff"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#170d24">4</text>
+      <text x="24" y="92" class="sans h" fill="#fff">IN-GAME</text>
+      <text x="24" y="120" class="sans h" fill="#fff">CALIBRATION</text>
+      <text x="24" y="158" class="sans b" fill="#dfd7ec">Steer lock, pedal</text>
+      <text x="24" y="182" class="sans b" fill="#dfd7ec">min/max, deadzones.</text>
+      <text x="24" y="208" class="sans b" fill="#d9c7ff">Remove duplicates.</text>
+    </g>
+    <g transform="translate(916 218)">
+      <rect width="198" height="222" rx="20" fill="#4b2621"/>
+      <circle cx="40" cy="42" r="25" fill="#ff8d53"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#2a110a">5</text>
+      <text x="24" y="92" class="sans h" fill="#fff">FORCE</text>
+      <text x="24" y="120" class="sans h" fill="#fff">FEEDBACK</text>
+      <text x="24" y="158" class="sans b" fill="#f1ddd5">Set real base force.</text>
+      <text x="24" y="182" class="sans b" fill="#f1ddd5">Lower game gain.</text>
+      <text x="24" y="208" class="sans b" fill="#ffc0a3">Watch for clipping.</text>
+    </g>
+    <g transform="translate(1128 218)">
+      <rect width="198" height="222" rx="20" fill="#173547"/>
+      <circle cx="40" cy="42" r="25" fill="#ffd14d"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#3a2c00">6</text>
+      <text x="24" y="92" class="sans h" fill="#fff">DISPLAY</text>
+      <text x="24" y="120" class="sans h" fill="#fff">+ FOV</text>
+      <text x="24" y="158" class="sans b" fill="#d6e3e9">Measure screens, eye</text>
+      <text x="24" y="182" class="sans b" fill="#d6e3e9">distance, angle, Hz.</text>
+      <text x="24" y="208" class="sans b" fill="#ffe58d">Match horizon.</text>
+    </g>
+    <g transform="translate(1340 218)">
+      <rect width="192" height="222" rx="20" fill="#0d2230"/>
+      <circle cx="40" cy="42" r="25" fill="#f7f9fa"/><text x="40" y="51" text-anchor="middle" class="sans n" fill="#0d2230">7</text>
+      <text x="24" y="92" class="sans h" fill="#fff">BACKUP</text>
+      <text x="24" y="120" class="sans h" fill="#fff">+ RECOVERY</text>
+      <text x="24" y="158" class="sans b" fill="#cbd7de">Profiles, labels,</text>
+      <text x="24" y="182" class="sans b" fill="#cbd7de">photos, versions.</text>
+      <text x="24" y="208" class="sans b" fill="#7ee5ff">Test after reboot.</text>
+    </g>
+  </g>
+
+  <path d="M166 456H1436" stroke="#ff6542" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1426 446L1448 456 1426 466" fill="none" stroke="#ff6542" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="68" y="526" class="mono k" fill="#ed4b2d">FIRST-FAULT TABLE</text>
+  <rect x="68" y="554" width="1464" height="438" rx="22" fill="#fff" stroke="#b9c8d2" stroke-width="2"/>
+  <rect x="68" y="554" width="1464" height="62" rx="22" fill="#0d2230"/>
+  <rect x="68" y="594" width="1464" height="22" fill="#0d2230"/>
+  <text x="94" y="594" class="sans th" fill="#fff">WHAT YOU FEEL</text>
+  <text x="570" y="594" class="sans th" fill="#fff">LIKELY LAYER</text>
+  <text x="846" y="594" class="sans th" fill="#fff">FIRST CHECK - BEFORE YOU BUY ANYTHING</text>
+
+  <g class="sans">
+    <line x1="68" y1="692" x2="1532" y2="692" stroke="#d3dde3"/><line x1="68" y1="768" x2="1532" y2="768" stroke="#d3dde3"/>
+    <line x1="68" y1="844" x2="1532" y2="844" stroke="#d3dde3"/><line x1="68" y1="920" x2="1532" y2="920" stroke="#d3dde3"/>
+    <line x1="540" y1="616" x2="540" y2="992" stroke="#d3dde3"/><line x1="816" y1="616" x2="816" y2="992" stroke="#d3dde3"/>
+    <text x="94" y="657" class="td">Wheelbase disconnects mid-race</text><text x="570" y="657" class="td">Power / USB / EMI</text><text x="846" y="657" class="td">Move it off an unpowered hub; inspect cable tension and motor-power routing.</text>
+    <text x="94" y="733" class="td">Brake pressure changes lap to lap</text><text x="570" y="733" class="td">Frame / pedal calibration</text><text x="846" y="733" class="td">Watch pedal-deck flex under load; repeat min/max and target-force calibration.</text>
+    <text x="94" y="809" class="td">FFB gets heavy and numb in corners</text><text x="570" y="809" class="td">Gain staging / clipping</text><text x="846" y="809" class="td">Set true base force, lower in-game strength, then inspect the telemetry bar.</text>
+    <text x="94" y="885" class="td">Triple-screen horizon bends at seams</text><text x="570" y="885" class="td">Display geometry / FOV</text><text x="846" y="885" class="td">Enter physical width, eye distance, and side angle; do not tune by vibes.</text>
+    <text x="94" y="961" class="td">One sim works; another is broken</text><text x="570" y="961" class="td">Game profile / duplicate binds</text><text x="846" y="961" class="td">Load a clean title profile and clear duplicate steering, pedal, and FFB devices.</text>
+  </g>
+  <text x="800" y="1040" text-anchor="middle" class="sans sub" fill="#0d2230">A reliable rig is not the one with the most devices. It is the one you can restore after an update.</text>
+</svg>

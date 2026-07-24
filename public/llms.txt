@@ -3,12 +3,12 @@
 > Real-product sim hardware guides for builders who want to buy the right parts and start playing. IgnitionSim is an independent, engineer-minded simulator hardware guide for racing, golf, flight, space, and marine builders.
 
 ## What is here
-IgnitionSim currently publishes 93 certified, gold-standard simulator guides plus 135 verified-product photo records across five build bays. The public corpus is intentionally certified-only: draft, archived, and refresh-needed pages are hidden from public navigation and sitemap surfaces.
+IgnitionSim currently publishes 94 certified, gold-standard simulator guides plus 135 verified-product photo records across five build bays. The public corpus is intentionally certified-only: draft, archived, and refresh-needed pages are hidden from public navigation and sitemap surfaces.
 
 Every certified guide is designed to help a builder make a faster, safer buying decision: verdict first, room/compatibility constraints, real product photos, installation and setup warnings, forum/review signal rewritten in our voice, affiliate links, FAQs, and schema-ready facts.
 
 ## Five build bays
-- [Racing](https://ignitionsim.com/racing) - 27 certified guides. Wheelbases, wheels, pedals and cockpits change faster than anyone can keep up with — and half of them don't fit together. The Racing bay checks compatibility, tracks stock, and tells you the honest truth about what's worth your money.
+- [Racing](https://ignitionsim.com/racing) - 28 certified guides. Wheelbases, wheels, pedals and cockpits change faster than anyone can keep up with — and half of them don't fit together. The Racing bay checks compatibility, tracks stock, and tells you the honest truth about what's worth your money.
 - [Flight](https://ignitionsim.com/flight) - 16 certified guides. MSFS 2024 made everyone a pilot again — but a desk full of mismatched throttles, yokes and rudder pedals fights you the whole flight. The Flight bay maps the gear that actually clicks together, from a clean GA setup to a full airliner panel.
 - [Space](https://ignitionsim.com/space) - 18 certified guides. Elite, Star Citizen and DCS reward the people who get their controls right — and punish everyone who guessed. The Space bay untangles single-stick vs dual-stick, boutique vs mainstream, and how to build a cockpit you'll never want to leave.
 - [Marine](https://ignitionsim.com/marine) - 6 certified guides. Marine sim has the smallest dedicated hardware shelf of any discipline — which is exactly why an honest guide matters. The Marine bay shows what enthusiasts actually use: repurposed wheels and throttles, DIY helm builds, and the rare purpose-built gear that's worth it.

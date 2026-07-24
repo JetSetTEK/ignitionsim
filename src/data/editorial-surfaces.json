@@ -88,6 +88,33 @@
   "curatorActions": {
     "duke-alvarez": [
       {
+        "image": "/images/curator-scenes/racing-software-2026/duke-endurance-hero.webp",
+        "alt": "AI editorial scene of Duke Alvarez timing a team endurance session beside a complete racing simulator",
+        "task": "Choosing the weekly racing loop before specifying the rig",
+        "guideId": "racing/best-sim-racing-software-community-rigs-2026",
+        "quote": "The best simulation is the one whose green flag fits your actual week.",
+        "note": "Duke maps iRacing, LMU, ACC, and AC EVO to the control, display, endurance, and reliability decisions each one makes expensive.",
+        "steps": [
+          "Choose the weekly racing loop and likely session length.",
+          "Set seat, brake, and eye geometry before adding torque.",
+          "Commission USB, power, software, and recovery one subsystem at a time."
+        ]
+      },
+      {
+        "image": "/images/curator-scenes/racing-software-2026/duke-pedal-calibration.webp",
+        "alt": "AI editorial scene of Duke Alvarez calibrating a simulator brake while a driver applies pressure from the final seat position",
+        "task": "Calibrating the brake after the cockpit geometry stops moving",
+        "guideId": "racing/best-sim-racing-software-community-rigs-2026",
+        "quote": "The brake earns consistency. The base earns sensation. Buy in that order."
+      },
+      {
+        "image": "/images/curator-scenes/racing-software-2026/duke-usb-power-topology.webp",
+        "alt": "AI editorial overhead scene of Duke Alvarez labeling simulator USB ports, cables, and power supplies",
+        "task": "Making the racing station recoverable before league night",
+        "guideId": "racing/best-sim-racing-software-community-rigs-2026",
+        "quote": "Reliability is an immersion feature. Label the cable while the rig still works."
+      },
+      {
         "image": "/images/curator-scenes/influencer-rigs-2026/duke-rig-flex-audit.webp",
         "alt": "AI editorial scene of Duke Alvarez measuring flex under real brake load on an aluminum-profile racing cockpit",
         "task": "Testing the creator rig under real brake load",

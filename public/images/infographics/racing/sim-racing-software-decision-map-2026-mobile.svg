@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1560" viewBox="0 0 760 1560" role="img" aria-labelledby="title desc">
+  <title id="title">Best sim racing software 2026 mobile decision map</title>
+  <desc id="desc">Mobile decision map comparing iRacing, Le Mans Ultimate, Assetto Corsa Competizione, and Assetto Corsa EVO.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131d"/><stop offset=".58" stop-color="#102635"/><stop offset="1" stop-color="#24131c"/></linearGradient>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:"Courier New",monospace}
+      .k{font-size:18px;font-weight:700;letter-spacing:2px}.t{font-size:43px;font-weight:900}.s{font-size:22px;fill:#c7d5de}
+      .ct{font-size:30px;font-weight:900}.v{font-size:21px;font-weight:700}.b{font-size:19px;fill:#d7e0e6}.sm{font-size:16px;fill:#aebdc6}
+    </style>
+  </defs>
+  <rect width="760" height="1560" rx="30" fill="url(#bg)"/>
+  <text x="40" y="54" class="mono k" fill="#ff6542">IGNITIONSIM / JULY 2026</text>
+  <text x="40" y="115" class="sans t" fill="#fff">Choose the race</text>
+  <text x="40" y="165" class="sans t" fill="#fff">you want every week.</text>
+  <text x="40" y="210" class="sans s">Software should choose the rig.</text>
+
+  <g>
+    <rect x="40" y="250" width="680" height="272" rx="22" fill="#0d2230" stroke="#30c8e8" stroke-width="3"/>
+    <text x="68" y="294" class="mono k" fill="#30c8e8">BROAD STRUCTURED ONLINE</text>
+    <text x="68" y="342" class="sans ct" fill="#fff">iRacing</text>
+    <text x="68" y="378" class="sans v" fill="#6ce5ff">Buy for racing across disciplines.</text>
+    <text x="68" y="418" class="sans b">Ovals, sports cars, formula, dirt, endurance,</text>
+    <text x="68" y="446" class="sans b">populated schedules, safety/rating progression.</text>
+    <text x="68" y="482" class="sans sm">RIG: load-cell brake / 8-12 Nm / stable 144 Hz</text>
+    <text x="68" y="507" class="sans sm">CATCH: membership plus paid cars and tracks.</text>
+
+    <rect x="40" y="548" width="680" height="272" rx="22" fill="#211c2a" stroke="#ff6542" stroke-width="3"/>
+    <text x="68" y="592" class="mono k" fill="#ff8c72">WEC / ENDURANCE</text>
+    <text x="68" y="640" class="sans ct" fill="#fff">Le Mans Ultimate</text>
+    <text x="68" y="676" class="sans v" fill="#ff9c83">Buy for modern GT and prototype racing.</text>
+    <text x="68" y="716" class="sans b">Hypercar, LMP, GT3, daily races, and the</text>
+    <text x="68" y="744" class="sans b">strongest focused momentum of 2026.</text>
+    <text x="68" y="780" class="sans sm">RIG: GT rim / 8-12 Nm / comms / SSD headroom</text>
+    <text x="68" y="805" class="sans sm">CATCH: narrower disciplines and paid DLC.</text>
+
+    <rect x="40" y="846" width="680" height="272" rx="22" fill="#17251f" stroke="#71dc8f" stroke-width="3"/>
+    <text x="68" y="890" class="mono k" fill="#8ce9a2">MATURE GT</text>
+    <text x="68" y="938" class="sans ct" fill="#fff">Assetto Corsa Competizione</text>
+    <text x="68" y="974" class="sans v" fill="#9bf2af">Buy for focused GT without a subscription.</text>
+    <text x="68" y="1014" class="sans b">Mature GT3/GT4 physics, dynamic weather,</text>
+    <text x="68" y="1042" class="sans b">triples/VR, and console crossplay.</text>
+    <text x="68" y="1078" class="sans sm">RIG: load-cell / ultrawide or triples / tactile</text>
+    <text x="68" y="1103" class="sans sm">CATCH: focused field, not all disciplines.</text>
+
+    <rect x="40" y="1144" width="680" height="272" rx="22" fill="#192033" stroke="#b38cff" stroke-width="3"/>
+    <text x="68" y="1188" class="mono k" fill="#c8a9ff">FUTURE PLATFORM</text>
+    <text x="68" y="1236" class="sans ct" fill="#fff">Assetto Corsa EVO</text>
+    <text x="68" y="1272" class="sans v" fill="#d2bbff">Watch, or buy as your second sim.</text>
+    <text x="68" y="1312" class="sans b">Early Access 0.7 adds the editor SDK, four cars,</text>
+    <text x="68" y="1340" class="sans b">and progress - but not finished breadth.</text>
+    <text x="68" y="1376" class="sans sm">RIG: GPU/SSD headroom / flexible profiles</text>
+    <text x="68" y="1401" class="sans sm">CATCH: promising is not the same as complete.</text>
+  </g>
+  <rect x="40" y="1450" width="680" height="72" rx="18" fill="#f5f7f8"/>
+  <text x="380" y="1481" text-anchor="middle" class="sans v" fill="#101a22">Buy the weekly loop first.</text>
+  <text x="380" y="1507" text-anchor="middle" class="sans sm" style="fill:#34434d">Buy torque after the frame and brake stop lying.</text>
+</svg>

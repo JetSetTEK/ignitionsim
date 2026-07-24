@@ -42,7 +42,7 @@ Verdict first: **buy the [Samsung Odyssey OLED G9 49"](/racing/gear/samsung-odys
 The display is the category most rig budgets forget. People agonize over 12Nm versus 18Nm of wheelbase torque and then race the whole thing on the 24-inch monitor already on their desk. That's backwards. **Your monitor is where the sense of speed, the corner apex, and the car alongside you actually live** — and it's the single upgrade that most changes how the sim *feels* once the wheel and pedals are sorted. The good news: 2026 is the best year yet to buy one, because the super-ultrawide that used to cost $1,800 now shows up on sale for well under a grand.
 
 <div class="shotgrid">
-  <figure><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super-ultrawide monitor" loading="lazy"></a><figcaption>Samsung OLED G9 49" — best overall (DQHD)</figcaption></figure>
+  <figure><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super-ultrawide monitor" loading="lazy"></a><figcaption>Samsung OLED G9 49" — best overall (DQHD)</figcaption></figure>
   <figure><a href="https://www.amazon.com/dp/B0CDQM55C9?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-neo-g9-57"><img src="/images/gear/racing/samsung-odyssey-neo-g9-57.jpg" alt="Samsung Odyssey Neo G9 57-inch Dual 4K monitor" loading="lazy"></a><figcaption>Samsung Neo G9 57" — biggest single panel (Dual 4K)</figcaption></figure>
   <figure><a href="/racing/gear/asus-tuf-vg27aq"><img src="/images/gear/racing/asus-tuf-vg27aq.png" alt="ASUS TUF VG27AQ 27-inch 1440p monitor" loading="lazy"></a><figcaption>ASUS TUF VG27AQ — the triple building block</figcaption></figure>
   <figure><a href="/racing/gear/nlr-triple-monitor-stand"><img src="/images/gear/racing/nlr-triple-monitor-stand.jpg" alt="NLR Free Standing Triple Monitor Stand" loading="lazy"></a><figcaption>NLR Free Standing Stand — the mounting reality</figcaption></figure>
@@ -66,13 +66,13 @@ Here's the thing the spec sheets bury. A super-ultrawide gives you a **wider sin
 For hot-lapping and general racing, a 49" 32:9 ultrawide's ~55-65 degrees of usable horizontal view is plenty — you're looking forward anyway. Where triples pull ahead is **side-window awareness**: seeing an apex you're about to clip, or holding a car door-to-door through a long left-hander. Three panels on the [NLR stand](/racing/gear/nlr-triple-monitor-stand) reach roughly 195 degrees, and that peripheral information is a genuine racecraft advantage in traffic. It's not immersion for its own sake — it's *seeing the move before it happens.*
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Best overall</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Super-ultrawide QD-OLED · 5120x1440 · 240Hz</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
     <p class="gp-why">The one monitor that feels like triples from a single cable. QD-OLED black levels make night races look properly dark, 240Hz keeps it razor-sharp, and it lands on a GPU load a $600 card can push. On sale it's the easiest "great" in sim racing.</p>
     <span class="gp-price">~$799 sale · ~$1,299 list</span>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 </aside>
 
@@ -161,12 +161,12 @@ If you race **endurance or organized league events** where knowing exactly where
 ## What to buy
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">Buy this first</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">Best overall display</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49"</a></span>
     <p class="gp-why">The right screen for most racers. Near-triples FOV, OLED blacks, 240Hz, one cable, and a GPU load a $600 card handles. Catch it on sale and it's the best value in the whole rig.</p>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact product on Amazon</a></span>
   </div>
 
 </aside>

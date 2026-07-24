@@ -164,12 +164,12 @@ Chris Haye's strongest work makes abstract setup choices understandable. Field o
 The [monitor geometry guide](/racing/best-sim-racing-monitors-triple-vs-ultrawide-2026/) turns this into a buying path, while the [cockpit and seat ladder](/racing/best-sim-racing-cockpits-and-seats-2026/) handles the structure holding the eye point in place.
 
 <aside class="gearpick">
-  <a class="gp-shot" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">One-screen cockpit width</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super ultrawide gaming monitor" loading="lazy"></a>
+  <a class="gp-shot" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49"><span class="gp-tag">One-screen cockpit width</span><img src="/images/gear/racing/samsung-odyssey-oled-g9-49.jpg" alt="Samsung Odyssey OLED G9 49-inch super ultrawide gaming monitor" loading="lazy"></a>
   <div class="gp-body">
     <span class="gp-eyebrow">49-inch 32:9 OLED · geometry before spectacle</span>
-    <span class="gp-name"><a href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49-inch</a></span>
+    <span class="gp-name"><a href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">Samsung Odyssey OLED G9 49-inch</a></span>
     <p class="gp-why">The clean premium route when triple alignment and room width are the wrong tax. It still needs the correct eye distance, mount height, GPU plan, and burn-in-aware use.</p>
-    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0DQD7548D?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact OLED G9 on Amazon</a></span>
+    <span class="gp-actions"><a class="gp-review" href="/racing/gear/samsung-odyssey-oled-g9-49">Spec card</a><a class="gp-buy" href="https://www.amazon.com/dp/B0C48D7Q22?tag=ignitionsim-20" target="_blank" rel="sponsored nofollow noopener" data-buy-link="true" data-event="buy_click" data-buy-product="samsung-odyssey-oled-g9-49">View exact OLED G9 on Amazon</a></span>
   </div>
 </aside>
 
